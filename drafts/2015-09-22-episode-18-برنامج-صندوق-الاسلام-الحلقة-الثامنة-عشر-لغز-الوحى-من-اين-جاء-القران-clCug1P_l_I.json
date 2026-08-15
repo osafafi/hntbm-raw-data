@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "videoId": "clCug1P_l_I",
+  "videoUrl": "https://www.youtube.com/watch?v=clCug1P_l_I",
+  "videoTitle": "Episode 18 برنامج صندوق الإسلام - الحلقة الثامنة عشر/ لغز الوحى: من أين جاء القرآن؟",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150922",
+  "extractedAt": "2026-08-12T14:01:53+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this episode, Hamed Abdel-Samad discusses the origins of the Qur'an and the nature of revelation. He references early Qur'anic manuscripts, specifically arguing that no physical manuscript has been scientifically proven to date to the time of Uthman, and highlighting the Sana'a manuscript as the oldest known text. He then argues that the psychological development of Muhammad can be traced through the order of revelation, drawing thematic parallels between Muhammad's first revelation and Augustine's 'Confessions'. Finally, he presents a naturalistic explanation for the phenomena of revelation, suggesting temporal lobe epilepsy (TLE) based on reported physical symptoms and literary parallels.",
+  "summaryAr": "في هذه الحلقة، يناقش حامد عبد الصمد أصول القرآن وطبيعة الوحي. ويتطرق إلى مخطوطات القرآن الأولى، مجادلاً بأنه لم يتم إثبات نسبة أي مصحف لعصر عثمان بالبحث العلمي، ومشيراً إلى أن مخطوطة صنعاء هي الأقدم. ثم يحاول فهم تطور شخصية النبي محمد من خلال ترتيب نزول السور، رابطاً بين قصة بدء الوحي واعترافات القديس أوغسطينوس. وأخيراً، يقدم تفسيراً طبيعياً لظاهرة الوحي باقتراح إصابة النبي بصرع الفص الدماغي بناءً على الأعراض الجسدية المروية والتوازيات الأدبية.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:01:05",
+      "stepEn": "Claims that no existing Qur'an manuscript has been scientifically proven to date back to the reign of Uthman, highlighting the Sana'a palimpsest as the oldest.",
+      "stepAr": "يدعي أنه لم يتم إثبات أي مخطوطة قرآنية بالبحث العلمي أنها تعود لزمن عثمان، مشيراً إلى أن مخطوطة صنعاء هي الأقدم."
+    },
+    {
+      "timestamp": "00:03:51",
+      "stepEn": "Proposes using the chronological order of revelation to understand the psychological evolution of Muhammad, asserting the Qur'an is the most reliable document for this.",
+      "stepAr": "يقترح استخدام ترتيب نزول السور لفهم التطور النفسي لمحمد، معتبراً أن القرآن هو الوثيقة الأهم لفهم ذلك."
+    },
+    {
+      "timestamp": "00:05:35",
+      "stepEn": "Compares the traditional narrative of the first revelation in Cave Hira with the story in Augustine's Confessions.",
+      "stepAr": "يقارن بين الرواية التقليدية لبدء الوحي في غار حراء وقصة القديس أوغسطينوس في كتاب الاعترافات."
+    },
+    {
+      "timestamp": "00:10:55",
+      "stepEn": "Cites Sahih al-Bukhari regarding the pause in revelation (fatrat al-wahy) after the death of Waraqah ibn Nawfal, arguing that this pause raises critical questions.",
+      "stepAr": "يستشهد بصحيح البخاري حول فترة الوحي بعد وفاة ورقة بن نوفل، مجادلاً بأن توقف الوحي يطرح تساؤلات."
+    },
+    {
+      "timestamp": "00:13:57",
+      "stepEn": "Hypothesizes that Muhammad's experiences of revelation correspond to Temporal Lobe Epilepsy (TLE), drawing parallels between reported physical symptoms and medical descriptions.",
+      "stepAr": "يفترض أن تجربة الوحي لدى محمد تتطابق مع أعراض صرع الفص الدماغي، مقارناً بين الأعراض الجسدية المروية والأعراض الطبية."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:01:05",
+      "claimEn": "The speaker claims that no manuscript attributed to Uthman has been scientifically verified by research to be from Uthman's time.",
+      "claimAr": "يدعي المتحدث أنه لم يتم إثبات بالبحث العلمي أن أي مصحف من المصاحف المنسوبة لعثمان يعود لزمنه فعلاً.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check scientific and codicological studies on early Qur'anic manuscripts attributed to Uthman (e.g., Topkapi, Samarkand, Mashhad al-Husayni)."
+    },
+    {
+      "timestamp": "00:01:20",
+      "claimEn": "The speaker claims that the Sana'a manuscript discovered in 1972 is the oldest manuscript of the Qur'an found to date.",
+      "claimAr": "يدعي المتحدث أن مخطوطة صنعاء المكتشفة عام 1972 هي أقعدم مخطوطة قرآنية تم العثور عليها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check radio-carbon dating and paleographical analysis of the Sana'a palimpsest relative to other early fragments (e.g., Birmingham, Codex Parisino-petropolitanus)."
+    },
+    {
+      "timestamp": "00:01:45",
+      "claimEn": "The speaker claims that German scholar Gerd Puin found that early Qur'an manuscripts contain differences compared to today's Qur'an.",
+      "claimAr": "يدعي المتحدث أن الباحث الألماني جيرد بوين وجد أن القراءات والكلمات في المخطوطات الأولى تختلف عن القرآن الموجود اليوم.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Gerd Puin's published findings on the lower and upper text of the Sana'a palimpsest."
+    },
+    {
+      "timestamp": "00:03:51",
+      "claimEn": "The speaker claims that the Qur'an is a more reliable document for understanding Muhammad's history than Ibn Ishaq, Ibn Sa'd, al-Baladhuri, or al-Waqidi.",
+      "claimAr": "يدعي المتحدث أن القرآن هو الوثيقة أهم وفهم محمد فعلاً أكثر من سيرة ابن إسحاق أو طبقات ابن سعد أو أنساب الأشراف للبلاذري أو الواقدي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "quran-historical-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate methodological debates in Islamic studies regarding primary dependence on the Qur'anic text versus early historiographical literature."
+    },
+    {
+      "timestamp": "00:05:35",
+      "claimEn": "The speaker claims that the story of Muhammad's first revelation in Cave Hira parallels the story in Augustine of Hippo's 'Confessions'.",
+      "claimAr": "يدعي المتحدث أن قصة بدء الوحي في غار حراء تتطابق مع القصة الموجودة في كتاب اعترافات القديس أوغسطينوس.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the narrative of the first revelation in Sirah/Hadith literature with Augustine's Confessions, Book VIII, Chapter 12."
+    },
+    {
+      "timestamp": "00:06:23",
+      "claimEn": "The speaker claims that Augustine's 'Confessions' was known to Syrian and Arab Christians in Muhammad's era.",
+      "claimAr": "يدعي المتحدث أن كتاب اعترافات القديس أوغسطينوس كان معروفاً للمسيحيين السريان والعرب في زمن محمد.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical and Syriac manuscript evidence for translations or circulation of Augustine's writings in pre-Islamic Arabia and the Levant."
+    },
+    {
+      "timestamp": "00:09:17",
+      "claimEn": "The speaker claims that Surat Quraysh was revealed to offer material incentives to the Quraysh tribe to accept Muhammad's call.",
+      "claimAr": "يدعي المتحدث أن سورة قريش نزلت للترغيب المادي لقريش حتى يؤمنوا بالدعوة الجديدة.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check classical tafsir works (e.g., Ibn Kathir, al-Tabari) regarding the asbab al-nuzul and meanings of Surah 106 (Quraysh)."
+    },
+    {
+      "timestamp": "00:10:55",
+      "claimEn": "The speaker claims that according to a Hadith in Sahih al-Bukhari narrated by Aisha, revelation paused (fatura al-wahy) immediately after Waraqah ibn Nawfal died.",
+      "claimAr": "يدعي المتحدث أنه وفقاً لحديث في صحيح البخاري عن عائشة، فإن الوحي فتر مباشرة بعد وفاة ورقة بن نوفل.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "hadith",
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sahih al-Bukhari, Kitab Bad' al-Wahy (Hadith 3) for the narration regarding Waraqah ibn Nawfal and fatrat al-wahy."
+    },
+    {
+      "timestamp": "00:11:15",
+      "claimEn": "The speaker claims that the cessation of revelation lasted between two and a half to three years.",
+      "claimAr": "يدعي المتحدث أن توقف الوحي استمر لمدة تتراوح بين سنتين ونصف إلى ثلاثة أعوام.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical reports in Ibn Ishaq/Ibn Hisham and al-Tabari regarding the duration of fatrat al-wahy."
+    },
+    {
+      "timestamp": "00:11:50",
+      "claimEn": "The speaker claims that traditional sources report that Muhammad attempted suicide after revelation ceased.",
+      "claimAr": "يدعي المتحدث أن الكتب والمصادر تذكر أن محمد حاول الانتحار بعد توقف الوحي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "sirah",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the balaghat additions by al-Zuhri in Sahih al-Bukhari regarding Muhammad's inclination to throw himself from mountain peaks during fatrat al-wahy."
+    },
+    {
+      "timestamp": "00:13:57",
+      "claimEn": "The speaker claims that the physical symptoms associated with Muhammad's revelation closely match those of Temporal Lobe Epilepsy (TLE).",
+      "claimAr": "يدعي المتحدث أن أعراض نزول الوحي الجسدية الموصوفة تطابق تقريباً أعراض مرض صرع الفص الدماغي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [
+        "tle-revelation-hypothesis"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare reported physical phenomena of revelation in Hadith/Sirah (sweating, ringing sounds, heavy weight, falling) with medical literature on TLE."
+    },
+    {
+      "timestamp": "00:15:43",
+      "claimEn": "The speaker claims that Surah al-Qiyamah (75:16) was revealed because Muhammad spoke rapidly during revelations out of fear of forgetting.",
+      "claimAr": "يدعي المتحدث أن آية 'لا تحرك به لسانك لتعجل به' نزلت لأن محمد كان يتحدث بسرعة شديدة أثناء الوحي خوفاً من النسيان.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sahih al-Bukhari (Kitab al-Tafsir) for the cause of revelation of Qur'an 75:16 narrated by Ibn Abbas."
+    },
+    {
+      "timestamp": "00:17:03",
+      "claimEn": "The speaker claims that the term 'al-Nabi al-Ummi' does not mean illiterate, but rather a prophet sent to a nation without a prior scripture/prophet.",
+      "claimAr": "يدعي المتحدث أن معنى 'النبي الأمي' ليس الذي لا يجيد القراءة والكتابة، بل الذي ينتمي إلى أمة لم يأتِ فيها رسول.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check classical lexicographical and exegetical interpretations of the word 'Ummi' in the Qur'an (e.g., Surah 3:20, 62:2)."
+    },
+    {
+      "timestamp": "00:17:45",
+      "claimEn": "The speaker claims that Muhammad's initial response in the cave was 'ma aqra'' (What shall I read?), not 'ma ana bi-qari'' (I cannot read).",
+      "claimAr": "يدعي المتحدث أن رد محمد الأول في الغار كان 'ما أقرأ' أي ماذا أقرأ، وليس 'ما أنا بقارئ'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "sirah",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check textual variants of the Hira Hadith in Sahih al-Bukhari and other collections regarding the phrase 'Ma ana bi-qari'' vs 'Ma aqra''."
+    },
+    {
+      "timestamp": "00:18:01",
+      "claimEn": "The speaker claims that Fyodor Dostoevsky wrote in his diaries that he understood Muhammad's Isra and Mi'raj experience due to his own epilepsy.",
+      "claimAr": "يدعي المتحدث أن فيودور دوستويفسكي كتب في يومياته أنه يفهم رحلة الإسراء والمعراج لمحمد جيداً لأنه مر بتجربة مشابهة بسبب الصرع.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Dostoevsky's letters and 'A Writer's Diary' for references to Muhammad's ascension and his personal experience with epilepsy."
+    },
+    {
+      "timestamp": "00:20:56",
+      "claimEn": "The speaker claims that repunctuation of Surah an-Najm gives a rational interpretation where 'he fell to the ground' refers to an epileptic seizure during which Muhammad claimed to ascend to heaven.",
+      "claimAr": "يدعي المتحدث أن إعادة قراءة سورة النجم بدون تنقيط أو فواصل يعطي تفسيراً بأن السقوط للأرض كان نوبة صرع أدعى فيها الصعود للسماء.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Examine the grammatical structure and early non-pointed rasm of Surah an-Najm (53:1-18)."
+    },
+    {
+      "timestamp": "00:22:20",
+      "claimEn": "The speaker claims that Sirah literature records two instances where Muhammad fell to the ground with eyes wide open, including once while listening to music.",
+      "claimAr": "يدعي المتحدث أن السيرة توثق مرتين سقط فيهما محمد على الأرض وعيناه بحلقتا إلى السماء، منها مرة عندما كان يستمع لموسيقى.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check early Sirah accounts (e.g., Ibn Ishaq, al-Tabaqat al-Kubra) for reports of Muhammad falling to the ground prior to or during prophethood."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:40",
+      "asStatedInVideo": "اقرأ باسم ربك الذي خلق. خلق الإنسان من علق",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "96:1-2",
+      "quotedArabic": "اقرأ باسم ربك الذي خلق. خلق الإنسان من علق",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:35",
+      "asStatedInVideo": "اعترافات القديس أوغسطينوس",
+      "workTitle": "Confessions",
+      "author": "Augustine of Hippo",
+      "locator": "Page 165-166 (Dar al-Mashariq translation)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:30",
+      "asStatedInVideo": "القديس أنطونيوس الكبير",
+      "workTitle": "",
+      "author": "Anthony the Great",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:30",
+      "asStatedInVideo": "يا أيها المزمل قم الليل إلا قليلا",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "73:1-2",
+      "quotedArabic": "يا أيها المزمل قم الليل إلا قليلا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:17",
+      "asStatedInVideo": "لإيلاف قريش، إيلافهم رحلة الشتاء والصيف، فليعبدوا رب هذا البيت، الذي أطعمهم من جوع وآمنهم من خوف",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "106:1-4",
+      "quotedArabic": "لإيلاف قريش، إيلافهم رحلة الشتاء والصيف، فليعبدوا رب هذا البيت، الذي أطعمهم من جوع وآمنهم من خوف",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:10:55",
+      "asStatedInVideo": "صحيح البخاري - ولم ينشب ورقة توفى ورقة وفتر الوحي",
+      "workTitle": "Sahih al-Bukhari",
+      "author": "Al-Bukhari",
+      "locator": "Kitab Bad' al-Wahy",
+      "quotedArabic": "ولم ينشب ورقة أن توفي وفتر الوحي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:43",
+      "asStatedInVideo": "لا تحرك به لسانك لتعجل به، إن علينا جمعه وقرآنه",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "75:16-17",
+      "quotedArabic": "لا تحرك به لسانك لتعجل به، إن علينا جمعه وقرآنه",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:03",
+      "asStatedInVideo": "هو الذي بعث في الأميين رسولاً منهم",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "62:2",
+      "quotedArabic": "هو الذي بعث في الأميين رسولا منهم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:01",
+      "asStatedInVideo": "رواية المجنون لدوستويفسكي",
+      "workTitle": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:20:56",
+      "asStatedInVideo": "وما صاحبكم بمجنون",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "81:22",
+      "quotedArabic": "وما صاحبكم بمجنون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:20:56",
+      "asStatedInVideo": "وقالوا يا أيها الذي نزل عليه الذكر إنك لمجنون",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "15:6",
+      "quotedArabic": "وقالوا يا أيها الذي نزل عليه الذكر إنك لمجنون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:20:56",
+      "asStatedInVideo": "والنجم إذا هوى، ما ضل صاحبكم وما غوى، وما ينطق عن الهوى، إن هو إلا وحي يوحى",
+      "workTitle": "Qur'an",
+      "author": "God (in Islamic tradition)",
+      "locator": "53:1-4",
+      "quotedArabic": "والنجم إذا هوى، ما ضل صاحبكم وما غوى، وما ينطق عن الهوى، إن هو إلا وحي يوحى",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "tle-revelation-hypothesis",
+      "titleEn": "Temporal Lobe Epilepsy Hypothesis",
+      "titleAr": "فرضية صرع الفص الدماغي والوحي",
+      "descriptionEn": "Arguments and theories suggesting that prophetic revelations and religious visions are attributable to Temporal Lobe Epilepsy (TLE) or medical conditions.",
+      "descriptionAr": "النظريات والحجج التي تربط بين ظاهرة الوحي النبوي والرؤى الدينية وبين مرض صرع الفص الدماغي أو الحالات الطبية.",
+      "suggestedParentId": "sirah",
+      "closestExistingId": "sirah",
+      "rationale": "The speaker repeatedly invokes medical theories (specifically TLE) to explain physical and psychological aspects of revelation, which is a common polemical/critical thesis not specifically covered under existing Hadith or Sirah subtopics."
+    }
+  ]
+}

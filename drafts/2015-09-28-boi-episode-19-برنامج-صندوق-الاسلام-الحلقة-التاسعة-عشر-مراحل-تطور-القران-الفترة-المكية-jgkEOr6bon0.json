@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "videoId": "jgkEOr6bon0",
+  "videoUrl": "https://www.youtube.com/watch?v=jgkEOr6bon0",
+  "videoTitle": "BOI Episode 19 برنامج صندوق الإسلام - الحلقة التاسعة عشر: مراحل تطور القرآن/ الفترة المكية",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150928",
+  "extractedAt": "2026-08-12T14:02:37+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker analyzes the development of the Meccan Quran, asserting that Quranic passages reflect Muhammad's personal psychology, emotional needs, and human reactions rather than divine revelation. He argues that Muhammad adapted earlier Zoroastrian, Judeo-Christian, apocryphal, and pre-Islamic traditions to create Quranic narratives.",
+  "summaryAr": "يناقش المتحدث مراحل تطور القرآن المكي، مدعيًا أن النصوص القرآنية تعكس النفسية الشخصية لمحمد واحتياجاته العاطفية وردوده البشرية بدلاً من الوحي الإلهي. كما يرى أن محمدًا اقتبس واقتطع من تقاليد زرادشتية ويهودية ومسيحية وأبوكريفية وشعر جاهلي لتشكيل قصص القرآن.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:48",
+      "stepEn": "The speaker claims that after the pause in revelation following Waraqah's death, Muhammad suffered psychological distress and attempted suicide before Surah Ad-Duha comforted him.",
+      "stepAr": "يزعم المتحدث أنه بعد انقطاع الوحي إثر وفاة ورقة، مر محمد بحالة نفسية صعبة وحاول الانتحار حتى نزلت سورة الضحى لمواساته."
+    },
+    {
+      "timestamp": "00:02:22",
+      "stepEn": "He characterizes the Quran as an internal dialogue through which Muhammad sought comfort and maternal affection.",
+      "stepAr": "يصف القرآن بأنه حوار داخلي كان يبحث محمد من خلاله عن المواساة والحنان العاطفي."
+    },
+    {
+      "timestamp": "00:03:56",
+      "stepEn": "He cites Surah Al-Masad and Surah Al-Kawthar as personal, human reactions to insults from Abu Lahab and others, questioning their divine status.",
+      "stepAr": "يستشهد بسورتي المسد والكوثر كشعور وردود أفعال بشرية شخصية على إهانات أبي لهب وغيره، متسائلاً عن إلهيتها."
+    },
+    {
+      "timestamp": "00:05:37",
+      "stepEn": "He describes a apocalyptic phase where Muhammad used end-of-world imagery to instill fear in his listeners.",
+      "stepAr": "يصف مرحلة «آيات نهاية العالم» حيث استخدم محمد صور أهوال القيامة لتخويف قومه."
+    },
+    {
+      "timestamp": "00:07:40",
+      "stepEn": "He asserts that apocalyptic passages (e.g., Az-Zalzalah, At-Takwir) resemble 4th-century Syriac poems by Mar Ephrem.",
+      "stepAr": "يزعم أن سور أهوال القيامة (مثل الزلزلة والتكوير) تشبه قصائد سريانية من القرن الرابع الميلادي لمار أفرام."
+    },
+    {
+      "timestamp": "00:09:37",
+      "stepEn": "He discusses the adoption of local Arabian stories (Ad and Thamud) to warn Quraysh when apocalyptic warnings failed.",
+      "stepAr": "يتناول استخدام قصص العرب القدامى (عاد وثمود) لترهيب قريش بعد أن لم تؤثر فيهم آيات القيامة."
+    },
+    {
+      "timestamp": "00:10:32",
+      "stepEn": "He presents the incident of the 'Satanic Verses' (Gharaniq) in Surah An-Najm as a human attempt at compromise, leading to the invention of abrogation (Naskh).",
+      "stepAr": "يعرض حادثة «الغرانيق العلا» في سورة النجم كمحاولة بشرية للوصول إلى حل وسط، مما أدى لاحقًا إلى ابتكار فكرة الناسخ والمنسوخ."
+    },
+    {
+      "timestamp": "00:14:53",
+      "stepEn": "He claims the Sanaa manuscript shows palimpsest texts with deleted and modified Quranic verses.",
+      "stepAr": "يدعي أن مخطوطة صنعاء تحتوي على نصوص قرآنية معدلة وممحوة تحت النص الحالي."
+    },
+    {
+      "timestamp": "00:17:46",
+      "stepEn": "He claims Quranic stories (like Abraham breaking idols or Jesus creating clay birds) were sourced from Jewish Midrash, Mishnah, and apocryphal Christian gospels like Thomas and James.",
+      "stepAr": "يزعم أن القصص القرآنية (مثل تحطيم إبراهيم للأصنام وخلق عيسى للطير من الطين) أُخذت من المدراش والمشنا اليهودية والأناجيل المسيحية غير الرسمية كإنجيل توما ويعقوب."
+    },
+    {
+      "timestamp": "00:21:16",
+      "stepEn": "He concludes that the Quran expresses a pessimistic view of humanity, which fosters exclusivist mindsets seen in modern extremism.",
+      "stepAr": "يختتم بأن القرآن يحمل نظرة تشاؤمية للإنسان تتسبب في فكر «الفرقة الناجية» المنشئ للجماعات المتطرفة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:48",
+      "claimEn": "Muhammad attempted suicide and went through a severe psychological crisis during the pause in revelation following Waraqah ibn Nawfal's death.",
+      "claimAr": "مر محمد بأزمة نفسية صعبة وحاول الانتحار أثناء فترة انقطاع الوحي بعد وفاة ورقة بن نوفل.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check biographical reports in Ibn Ishaq/Ibn Hisham and Sahih al-Bukhari regarding the 'fatra' (pause) of revelation and reports of grief or suicide attempts."
+    },
+    {
+      "timestamp": "00:01:24",
+      "claimEn": "Surah Ad-Duha and Surah Ash-Sharh were composed to comfort Muhammad's internal feelings of abandonment rather than being divine revelation.",
+      "claimAr": "نزلت سورتا الضحى والشرح لمواساة محمد في حواره الداخلي وشعوره بالتخلي، وليستا وحياً إلهياً.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check Asbab al-Nuzul (occasions of revelation) for Surah Ad-Duha and Ash-Sharh in classical exegesis."
+    },
+    {
+      "timestamp": "00:03:32",
+      "claimEn": "Claiming prophethood in Mecca was a common trend in that era, with multiple people claiming to be the expected new prophet.",
+      "claimAr": "ادعاء النبوة في مكة كان ظاهرة منتشرة في ذلك الزمان، وكان هناك العديد ممن ادعوا أنهم الأنبياء الجدد.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [
+        "pre-islamic-prophets"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical sources on pre-Islamic Arabia and reports of other individuals claiming prophethood or monotheism (Hanafiya) prior to Islam."
+    },
+    {
+      "timestamp": "00:04:17",
+      "claimEn": "Surah Al-Masad was a human emotional response from Muhammad insulting his uncle Abu Lahab and his wife in response to personal quarrels.",
+      "claimAr": "سورة المسد هي رد فعل بشري وانتقام شخصي من محمد ليرد به الإهانة على عمه أبي لهب وزوجته.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check classical Tafsir (e.g. Tabari) regarding the occasion of revelation for Surah Al-Masad."
+    },
+    {
+      "timestamp": "00:04:44",
+      "claimEn": "Surah Al-Kawthar was revealed as a human reaction to accusations that Muhammad was childless or impotent ('abtar').",
+      "claimAr": "سورة الكوثر كانت رد فعل بشري على التعيير بكلمة «أبتر» (عديم الأولاد أو القدرة الجنسية).",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check Tafsir explanations of the term 'al-abtar' in Surah Al-Kawthar."
+    },
+    {
+      "timestamp": "00:07:48",
+      "claimEn": "Surah Az-Zalzalah and Surah At-Takwir are textually and thematically similar to 4th-century Syriac apocalyptic poems composed by Mar Ephrem.",
+      "claimAr": "سورتي الزلزلة والتكوير شبيهتان جداً بقصائد سريانية عن نهاية العالم كتبها مار أفرام في القرن الرابع الميلادي.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syriac-christian-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check comparative studies between Syriac Christian hymmography (Ephrem the Syrian) and Quranic apocalyptic terminology."
+    },
+    {
+      "timestamp": "00:09:41",
+      "claimEn": "The early Meccan Quran initially focused on Arabian prophets like Hud and Salih and tribes of Ad and Thamud before incorporating biblical prophets.",
+      "claimAr": "القرآن المكي المبكر ركز أولاً على الأنبياء العرب مثل هود وصالح وقصص عاد وثمود قبل أن ينتقل لأنبياء التوراة والإنجيل.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check chronological classifications of Quranic surahs (Meccan vs. Medinan phases) and the placement of Ad/Thamud narrative cycles."
+    },
+    {
+      "timestamp": "00:11:34",
+      "claimEn": "Muhammad originally uttered the 'Satanic Verses' praised the pagan goddesses Al-Lat, Al-Uzza, and Manat in Surah An-Najm to seek compromise with Quraysh.",
+      "claimAr": "محمد نطق أصلًا بآيات «تلك الغرانيق العلا وإن شفاعتهن لترتجى» في سورة النجم لمهادنة قريش والحصول على التقدير.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [
+        "satanic-verses-incident"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Tabari's Tafsir/Tarikh and Ibn Ishaq's account regarding the story of the Cranes (Hadith al-Gharaniq)."
+    },
+    {
+      "timestamp": "00:11:46",
+      "claimEn": "Ibn Hisham excised the story of the Satanic Verses from his edition of Ibn Ishaq's Sirah out of embarrassment.",
+      "claimAr": "ابن هشام حذف رواية الغرانيق من سيرة ابن إسحاق أثناء تهذيبها لشعوره بالحرج منها.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare extant transmissions of Ibn Ishaq (e.g. preserved in Tabari) with Ibn Hisham's edited version."
+    },
+    {
+      "timestamp": "00:14:17",
+      "claimEn": "The concept of abrogation (al-Nasikh wa al-Mansukh) was invented to resolve errors like the inclusion and deletion of the Satanic Verses.",
+      "claimAr": "فكرة الناسخ والمنسوخ تم ابتكارها لتدارك أخطاء مثل إدخال ثم حذف آيات الغرانيق.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check classical treatises on Nasikh and Mansukh and whether the Gharaniq incident was treated under abrogation or divine protection (ismah)."
+    },
+    {
+      "timestamp": "00:14:53",
+      "claimEn": "The Sanaa palimpsest manuscript proves that Quranic text was edited, changed, and erased over time.",
+      "claimAr": "مخطوطة صنعاء أثبتت وجود تعديلات ونصوص قرآنية محذوفة ومبدلة أسفل النص الحالي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check academic publications on the Sanaa 1 palimpsest lower and upper text variants."
+    },
+    {
+      "timestamp": "00:17:23",
+      "claimEn": "The story of Abraham breaking idols in the Quran does not come from the Old Testament, but from Jewish commentary texts like Midrash Rabbah.",
+      "claimAr": "قصة تحطيم إبراهيم للأصنام في القرآن ليست موجودة في العهد القديم، بل في تفاسير يهودية مثل مدراش ربا.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "jewish-rabbinic-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Genesis Rabbah 38:13 regarding Abraham breaking his father's idols compared to Quran 21:51-70."
+    },
+    {
+      "timestamp": "00:18:44",
+      "claimEn": "Numerous stories in the Quran are sourced directly from non-canonical Jewish oral/interpretive traditions like the Mishnah and Babylonian Talmud.",
+      "claimAr": "العديد من قصص القرآن مأخوذة من مصادر شفاهية وتفسيرية يهودية غير مقدسة كالمشنا والتلمود البابلي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "jewish-rabbinic-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check rabbinic parallels to Quranic stories (e.g. Cain and Abel in Surah al-Ma'idah 5:32 and Mishnah Sanhedrin 4:5)."
+    },
+    {
+      "timestamp": "00:19:35",
+      "claimEn": "The story of Jesus creating birds out of clay in the Quran is absent from the four canonical gospels and comes from the apocryphal Infancy Gospel of Thomas.",
+      "claimAr": "قصة خلق المسيح للطير من الطين غير موجودة في الأناجيل الأربعة المعتمدة، بل في إنجيل توما غير المعتمد (المنحول).",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "apocryphal-gospel-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Quran 3:49 / 5:110 with the Infancy Gospel of Thomas 2:1-5."
+    },
+    {
+      "timestamp": "00:22:12",
+      "claimEn": "The Quran's pessimistic depiction of humanity fuels the extremist concept of the 'Saved Sect' (al-Firqah al-Najiyah) adopted by groups like ISIS.",
+      "claimAr": "النظرة التشاؤمية للإنسان في القرآن هي مصدر فكرة «الفرقة الناجية» التي تعتمدها الجماعات المتطرفة مثل داعش.",
+      "claimType": "ethical",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "extremism-and-exclusivism"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check classical usage of the 'Saved Sect' hadith and modern ideological literature of extremist groups."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:10",
+      "asStatedInVideo": "والضحى والليل إذا سجى ما ودعك ربك وما قلى",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "93:1-3",
+      "quotedArabic": "وَالضُّحَى وَاللَّيْلِ إِذَا سَجَى مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:44",
+      "asStatedInVideo": "ألم نشرح لك صدرك",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "94:1",
+      "quotedArabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:07",
+      "asStatedInVideo": "عمه أبا لهب",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:20",
+      "asStatedInVideo": "تبت يدا أبي لهب وتب",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "111:1",
+      "quotedArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:31",
+      "asStatedInVideo": "وامرأته حمالة الحطب",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "111:4",
+      "quotedArabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:54",
+      "asStatedInVideo": "إن شانئك هو الأبتر",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "108:3",
+      "quotedArabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:51",
+      "asStatedInVideo": "إذا زلزلت الأرض زلزالها وأخرجت الأرض أثقالها وقال الإنسان ما لها",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "99:1-3",
+      "quotedArabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا وَقَالَ الْإِنسَانُ مَا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:58",
+      "asStatedInVideo": "إذا الشمس كورت وإذا النجوم انكدرت وإذا الجبال سيرت",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "81:1-3",
+      "quotedArabic": "إِذَا الشَّمْسُ كُوِّرَتْ وَإِذَا النُّجُومُ انكَدَرَتْ وَإِذَا الْجِبَالُ سُيِّرَتْ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:06:14",
+      "asStatedInVideo": "بعثت أنا والساعة كهاتين",
+      "workTitle": "Sahih al-Bukhari / Sahih Muslim",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "بعثت أنا والساعة كهاتين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:21",
+      "asStatedInVideo": "اقتربت الساعة وانشق القمر",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "54:1",
+      "quotedArabic": "اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:50",
+      "asStatedInVideo": "مار أفرام، اللي هو من أباء الكنيسة الشرقية",
+      "workTitle": "",
+      "author": "Ephrem the Syrian",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:05",
+      "asStatedInVideo": "فكذبوه فعقروها فدمدم عليهم ربهم بذنبهم فسواها ولا يخاف عقباها",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "91:14-15",
+      "quotedArabic": "فَكَّذَبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فسَوَّاهَا وَلَا يَخَافُ عُقْبَاهَا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:27",
+      "asStatedInVideo": "أفرأيتم اللات والعزى ومناة الثالثة الأخرى",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "53:19-20",
+      "quotedArabic": "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:41",
+      "asStatedInVideo": "تفسير الطبري",
+      "workTitle": "Jami' al-Bayan",
+      "author": "Al-Tabari",
+      "locator": "Surah An-Najm commentary",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:44",
+      "asStatedInVideo": "رواية ابن إسحاق الأولى، اللي حذفها ابن هشام",
+      "workTitle": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Ishaq / Ibn Hisham",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:41",
+      "asStatedInVideo": "ما نعبدهم إلا ليقربونا إلى الله زلفى",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "39:3",
+      "quotedArabic": "مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:14:55",
+      "asStatedInVideo": "مخطوطة صنعاء",
+      "workTitle": "",
+      "author": "",
+      "locator": "Sanaa Palimpsest (DAM 01-27.1)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:37",
+      "asStatedInVideo": "ألكم الذكر وله الأنثى إن هي إلا اسماء سميتموها أنتم وآباؤكم ما أنزل الله بها من سلطان",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "53:21-23",
+      "quotedArabic": "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنثَى إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:53",
+      "asStatedInVideo": "إنكم وما تعبدون من دون الله حصب جهنم",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "21:98",
+      "quotedArabic": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:05",
+      "asStatedInVideo": "قل يا أيها الكافرون لا أعبد ما تعبدون ولا أنتم عابدون ما أعبد",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "109:1-3",
+      "quotedArabic": "قُلْ يَا أَيُّهَا الْكَافِرُونَ لَا أَعْبُدُ مَا تَعْبُدُونَ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:01",
+      "asStatedInVideo": "ابن كثير والجلادين البغوي والقرطبي والطبري",
+      "workTitle": "Tafsir works",
+      "author": "Ibn Kathir, Al-Baghawi, Al-Qurtubi, Al-Tabari",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:36",
+      "asStatedInVideo": "كتاب اسمه المدراش، مدراش ربا",
+      "workTitle": "Midrash Rabbah",
+      "author": "Rabbinic Sages",
+      "locator": "Genesis Rabbah 38",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:44",
+      "asStatedInVideo": "المشنا، التلمود البابلي",
+      "workTitle": "Mishnah & Babylonian Talmud",
+      "author": "Rabbinic Sages",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:42",
+      "asStatedInVideo": "وأني أخلق لكم من الطين كجهة الطير فيكون طيراً بإذن الله",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "3:49 / 5:110",
+      "quotedArabic": "وَأَنِّي أَخْلُقُ لَكُم مِّنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ فَيَكُونُ طَيْرًا بِإِذْنِ اللَّهِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:20:05",
+      "asStatedInVideo": "إنجيل توما ... إنجيل يعقوب ... إنجيل الطفولة",
+      "workTitle": "Infancy Gospel of Thomas / Gospel of James / Arabic Infancy Gospel",
+      "author": "Apocryphal authors",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:39",
+      "asStatedInVideo": "إن الإنسان لربه الكنود",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "100:6",
+      "quotedArabic": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:42",
+      "asStatedInVideo": "إن الإنسان لفي خسر",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "103:2",
+      "quotedArabic": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:48",
+      "asStatedInVideo": "ولقد كرمنا بني آدم وحملناهم في البر والبحر",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "17:70",
+      "quotedArabic": "وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-psychological-origin",
+      "titleEn": "Psychological Origin of the Quran",
+      "titleAr": "الأصل النفسي للقرآن",
+      "descriptionEn": "Claims attributing Quranic texts and revelations to Muhammad's psychological states, traumas, personal desires, or neurological conditions.",
+      "descriptionAr": "الادعاءات التي تعزو النصوص القرآنية والوحي إلى الحالة النفسية أو الصدمات أو الرغبات الشخصية أو الظروف العصبية لمحمد.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The speaker repeatedly argues that specific Quranic verses are direct expressions of Muhammad's human psychology and internal dialogue, which is a distinct thesis from textual history or transmission."
+    },
+    {
+      "proposedId": "syriac-christian-parallels",
+      "titleEn": "Syriac Christian Parallels",
+      "titleAr": "التوازي مع المسيحية السريانية",
+      "descriptionEn": "Comparative claims linking Quranic vocabulary, poetic rhythm, or themes to Syriac Christian liturgy and poetry.",
+      "descriptionAr": "الادعاءات المقارنة التي تربط المفردات أو الإيقاع الشعري أو الموضوعات القرآنية بالطقوس والشعر المسيحي السرياني.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The video explicitly proposes direct Syriac poetic sources (like Ephrem the Syrian) for apocalyptic Meccan surahs."
+    },
+    {
+      "proposedId": "jewish-rabbinic-parallels",
+      "titleEn": "Jewish Rabbinic Parallels",
+      "titleAr": "التوازي مع الأدب الرابي اليهودي",
+      "descriptionEn": "Claims that Quranic stories are derived from non-canonical Jewish texts such as Midrash, Mishnah, or Talmud.",
+      "descriptionAr": "الادعاءات بأن القصص القرآنية مأخوذة من نصوص يهودية غير مقدسة كالمشنا والمدراش والتلمود.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The speaker devotes significant time to claiming Quranic narratives mirror Jewish commentary literature (Midrash, Mishnah) rather than the Hebrew Bible."
+    },
+    {
+      "proposedId": "apocryphal-gospel-parallels",
+      "titleEn": "Apocryphal Gospel Parallels",
+      "titleAr": "التوازي مع الأناجيل المنحولة",
+      "descriptionEn": "Claims that Quranic descriptions of Jesus derive from apocryphal Christian gospels rather than canonical texts.",
+      "descriptionAr": "الادعاءات بأن وصف القرآن للمسيح مأخوذ من أناجيل غير رسمية (منحولة) بدلاً من الأناجيل الأربعة المعتمدة.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The video cites the Infancy Gospels of Thomas and James as sources for Quranic miracle stories."
+    },
+    {
+      "proposedId": "satanic-verses-incident",
+      "titleEn": "Satanic Verses Incident",
+      "titleAr": "قصة الغرانيق",
+      "descriptionEn": "Historical and textual arguments surrounding the Gharaniq incident in Surah An-Najm and its historical transmission.",
+      "descriptionAr": "الأبحاث التاريخية والنصية المتعلقة بحادثة الغرانيق في سورة النجم ورواياتها التاريخية.",
+      "suggestedParentId": "sirah",
+      "closestExistingId": "sirah-ibn-ishaq",
+      "rationale": "The Gharaniq story is treated as a major turning point in the speaker's account of Meccan Quranic development."
+    }
+  ]
+}

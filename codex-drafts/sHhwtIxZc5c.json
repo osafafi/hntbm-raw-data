@@ -1,0 +1,1350 @@
+{
+  "schemaVersion": 1,
+  "videoId": "sHhwtIxZc5c",
+  "videoUrl": "https://www.youtube.com/watch?v=sHhwtIxZc5c",
+  "videoTitle": "Box of islam 55 .صندوق الاسلام 55: فترة عبد الملك بن مروان",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160718",
+  "extractedAt": "2026-08-15T04:58:50+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In episode 55 of \"Box of Islam,\" Hamed Abdel-Samad and guest Muhammad al-Masih argue that ʿAbd al-Malik ibn Marwan broke with the religiously diverse pragmatism of earlier Arab rule and fashioned a unified imperial religion. They read the Dome of the Rock—its Byzantine form, Christian-directed Qurʾanic inscriptions, and the terms \"Muhammad,\" \"servant of God,\" and \"messenger\"—as evidence of a Christian or Christian-sectarian stage rather than an already settled Islam. They further attribute the redirection of pilgrimage toward Jerusalem, the Jerusalem interpretation of the Israʾ, and the hadith on travel to three mosques to ʿAbd al-Malik’s struggle with Ibn al-Zubayr and to al-Zuhri’s Umayyad service. They claim Syriac and Jewish silences place the poll tax and some Qurʾanic taxation material later than Muhammad. Finally, they interpret ʿAbd al-Malik’s evolving coinage and its stauros-like column as Christian-derived, then present his text-only dinar, the collection of the Qurʾan and al-Hajjaj’s destruction of older copies as steps by which he became the true political founder of Islam, compared with Constantine’s use of Christianity to unify the Roman state.",
+  "summaryAr": "في الحلقة 55 من \"صندوق الإسلام\" يقول حامد عبد الصمد وضيفه محمد المسيح إن عبد الملك بن مروان قطع مع البراغماتية والتنوع الديني في الحكم العربي السابق وصاغ ديناً إمبراطورياً موحداً. ويقرآن قبة الصخرة — هندستها البيزنطية ونقوشها القرآنية الموجهة إلى المسيحيين وألفاظ \"محمد\" و\"عبد الله\" و\"رسوله\" — بوصفها دليلاً على مرحلة مسيحية أو هرطقة مسيحية لا على إسلام مستقر بصورته اللاحقة. وينسبان تحويل الحج إلى القدس، وربط آية الإسراء بالقدس، وحديث شد الرحال إلى ثلاثة مساجد، إلى صراع عبد الملك مع ابن الزبير وإلى خدمة الزهري للأمويين. كما يقولان إن المصادر السريانية وصمت المصادر اليهودية يضعان الجزية وبعض نصوصها القرآنية في زمن متأخر عن محمد. وأخيراً يفسران تطور عملات عبد الملك والعمود الشبيه بالـ\"ستاوروس\" تفسيراً مسيحياً، ثم يعرضان الدينار الكتابي وجمع القرآن وإحراق الحجاج للنسخ الأقدم بوصفها خطوات جعلت عبد الملك المؤسس السياسي الحقيقي للإسلام، على مثال استخدام قسطنطين للمسيحية لتوحيد الدولة الرومانية.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:48",
+      "stepEn": "Contrasts the religiously diverse, pragmatic coinage and rule of the first Umayyad decades with ʿAbd al-Malik’s decision to impose a unified identity.",
+      "stepAr": "يقارن بين تنوع العملات وبراغماتية الحكم في العقود الأموية الأولى وبين قرار عبد الملك فرض هوية موحدة."
+    },
+    {
+      "timestamp": "00:03:59",
+      "stepEn": "Places the visible development of Kufic writing, the Dome of the Rock and the al-Aqsa construction in the Marwanid period.",
+      "stepAr": "يضع التطور الظاهر للخط الكوفي وبناء قبة الصخرة والمسجد الأقصى في العصر المرواني."
+    },
+    {
+      "timestamp": "00:05:37",
+      "stepEn": "Moves from Byzantine architectural resemblance to the Arabic inscriptions as the principal material evidence for the new religion.",
+      "stepAr": "ينتقل من التشابه المعماري البيزنطي إلى النقوش العربية بوصفها الدليل المادي الأهم على الدين الجديد."
+    },
+    {
+      "timestamp": "00:08:01",
+      "stepEn": "Uses disputed Arabic and Syro-Aramaic etymologies to connect the Dome, the Kaaba and the title Muhammad with Christian usage.",
+      "stepAr": "يستخدم اشتقاقات عربية وسريانية آرامية خلافية لربط القبة والكعبة ولقب محمد بالاستعمال المسيحي."
+    },
+    {
+      "timestamp": "00:09:53",
+      "stepEn": "Reads the opening inscription and its terms Muhammad, servant of God and messenger as descriptions of Christ rather than a personal name for Islam’s prophet.",
+      "stepAr": "يقرأ افتتاح النقش وألفاظ محمد وعبد الله والرسول أوصافاً للمسيح لا اسماً شخصياً لنبي الإسلام."
+    },
+    {
+      "timestamp": "00:12:22",
+      "stepEn": "Treats the inscriptions’ extended address to Christians and Christology as evidence that the first Islamic monument was a Christian-facing manifesto.",
+      "stepAr": "يعامل خطاب النقوش المطول للمسيحيين وحديثها عن المسيح دليلاً على أن أول أثر إسلامي كان بياناً موجهاً إلى المسيحية."
+    },
+    {
+      "timestamp": "00:14:41",
+      "stepEn": "Shifts to Mecca and argues that the Umayyads did not initially accord the Kaaba the sanctity later tradition gives it.",
+      "stepAr": "ينتقل إلى مكة ويقول إن الأمويين لم يمنحوا الكعبة أولاً القداسة التي يثبتها لها الموروث اللاحق."
+    },
+    {
+      "timestamp": "00:16:22",
+      "stepEn": "Makes Ibn al-Zubayr’s rival caliphate and the allegiance of Syrian pilgrims the political motive for ʿAbd al-Malik’s Jerusalem project.",
+      "stepAr": "يجعل خلافة ابن الزبير المنافسة وبيعة حجاج الشام له الدافع السياسي لمشروع عبد الملك في القدس."
+    },
+    {
+      "timestamp": "00:17:38",
+      "stepEn": "Attributes both the Jerusalem reading of the Israʾ and the hadith restricting merit-bearing travel to three mosques to this political conflict.",
+      "stepAr": "ينسب تفسير الإسراء بالقدس وحديث شد الرحال إلى ثلاثة مساجد إلى هذا الصراع السياسي."
+    },
+    {
+      "timestamp": "00:18:24",
+      "stepEn": "Names al-Zuhri as the Umayyad-linked producer of the three-mosques report and contrasts Islamic sanctity with earlier Jewish and Christian sacred geography.",
+      "stepAr": "يسمي الزهري بوصفه الراوي المرتبط بالأمويين لخبر المساجد الثلاثة، ويقارن القداسة الإسلامية بالجغرافيا المقدسة اليهودية والمسيحية الأقدم."
+    },
+    {
+      "timestamp": "00:19:57",
+      "stepEn": "Uses Syriac dating of the poll tax and the absence of the relevant verses from the earliest manuscripts to suggest later economic composition of Qurʾanic material.",
+      "stepAr": "يستخدم التأريخ السرياني للجزية وغياب آياتها المزعوم عن أقدم المخطوطات لاقتراح تأليف اقتصادي متأخر لمادة قرآنية."
+    },
+    {
+      "timestamp": "00:20:44",
+      "stepEn": "Adds the claimed silence of Jewish records about early Muslim persecution as an argument against the received chronology.",
+      "stepAr": "يضيف صمت السجلات اليهودية المزعوم عن اضطهاد المسلمين المبكر حجة ضد التسلسل الموروث."
+    },
+    {
+      "timestamp": "00:21:30",
+      "stepEn": "Turns to numismatics and traces ʿAbd al-Malik’s coinage from Byzantine and Sasanian models toward distinct Arabic issues.",
+      "stepAr": "ينتقل إلى المسكوكات ويتتبع عملات عبد الملك من النماذج البيزنطية والساسانية إلى إصدار عربي متميز."
+    },
+    {
+      "timestamp": "00:23:48",
+      "stepEn": "Interprets the column on the dinar as a stauros and as a Christian crucifixion symbol adapted to the Qurʾanic image of crucifixion on palm trunks.",
+      "stepAr": "يفسر العمود على الدينار بأنه ستاوروس ورمز مسيحي للصلب عُدّل وفق صورة الصلب على جذوع النخل في القرآن."
+    },
+    {
+      "timestamp": "00:25:20",
+      "stepEn": "Uses the succession motif on the column and Byzantine imperial parallels to argue for continuing Christian political symbolism.",
+      "stepAr": "يستخدم رمز ولاية العهد على العمود ونظائره الإمبراطورية البيزنطية للحجاج باستمرار الرمزية السياسية المسيحية."
+    },
+    {
+      "timestamp": "00:26:52",
+      "stepEn": "Concludes that ʿAbd al-Malik suppressed images, standardized the Qurʾan through al-Hajjaj and deliberately formed one religion for his empire.",
+      "stepAr": "يخلص إلى أن عبد الملك حارب الصور ووحّد القرآن عبر الحجاج وصاغ عمداً ديناً واحداً لإمبراطوريته."
+    },
+    {
+      "timestamp": "00:27:38",
+      "stepEn": "Closes with Constantine as an analogy for a ruler using religion to unify state identity.",
+      "stepAr": "يختم بقسطنطين مثالاً لحاكم استخدم الدين لتوحيد هوية الدولة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:48",
+      "claimEn": "The speakers claim that coins from the period between Muʿawiya and ʿAbd al-Malik display substantial Jewish, Christian and Sabean cultural influence.",
+      "claimAr": "يقول المتحدثان إن عملات الفترة بين معاوية وعبد الملك تُظهر تأثيراً ثقافياً يهودياً ومسيحياً وصابئياً كبيراً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Catalogue the relevant pre-reform Arab-Byzantine and Arab-Sasanian issues and identify which Jewish, Christian or Sabean symbols, if any, numismatists actually assign to them."
+    },
+    {
+      "timestamp": "00:00:48",
+      "claimEn": "The speakers claim that the early Arab conquests were primarily political expansion with no religious purpose, and that local rulers pragmatically accommodated subject populations.",
+      "claimAr": "يقول المتحدثان إن التوسع العربي المبكر كان توسعاً سياسياً في المقام الأول لا علاقة للدين به، وإن الحكام المحليين عاملوا الشعوب الخاضعة ببراغماتية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the religious language, administration and fiscal policy of the earliest Arab rulers with modern scholarship on whether the conquests were confessional, imperial or both."
+    },
+    {
+      "timestamp": "00:00:48",
+      "claimEn": "The speakers claim Christians remained the majority in Iraq, Syria and Egypt under the Umayyads and even into the Abbasid period, explaining the rulers’ accommodation of Christian subjects.",
+      "claimAr": "يقول المتحدثان إن المسيحيين ظلوا أغلبية في العراق والشام ومصر في العصر الأموي وحتى في العصر العباسي، وهو ما يفسر استرضاء الحكام لهم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check demographic reconstructions for Iraq, Syria and Egypt in the seventh through ninth centuries and the date at which Muslims became a majority in each region."
+    },
+    {
+      "timestamp": "00:01:37",
+      "claimEn": "The host claims ʿAbd al-Malik broke with that diversity and deliberately created one unified identity for the empire’s peoples.",
+      "claimAr": "يقول المقدّم إن عبد الملك قطع مع ذلك التنوع وقرر أن يخلق هوية موحدة لكل شعوب الإمبراطورية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Assess the evidence for a coordinated identity program under ʿAbd al-Malik across coinage, inscriptions, language policy, ritual and administration."
+    },
+    {
+      "timestamp": "00:03:59",
+      "claimEn": "The guest claims Kufic script, as a development from Hijazi writing, became clearly visible in the age of ʿAbd al-Malik.",
+      "claimAr": "يقول الضيف إن الخط الكوفي، بوصفه تطوراً للخط الحجازي، بدأ يظهر بوضوح في عصر عبد الملك.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-script-and-orthography",
+        "quran-textual-transmission-manuscripts-and-dating"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check palaeographic scholarship on the labels Hijazi and Kufic and date the earliest securely provenanced examples of the scripts."
+    },
+    {
+      "timestamp": "00:04:51",
+      "claimEn": "The speakers claim ʿAbd al-Malik built the Dome of the Rock, while his son al-Walid built the al-Aqsa mosque only after succeeding him, around 705 CE.",
+      "claimAr": "يقول المتحدثان إن عبد الملك بنى قبة الصخرة، بينما بنى ابنه الوليد المسجد الأقصى بعد أن خلفه، نحو سنة 705 ميلادية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the construction chronology of the Dome of the Rock and the congregational mosque on the Haram al-Sharif from inscriptions, archaeology and early literary sources."
+    },
+    {
+      "timestamp": "00:04:51",
+      "claimEn": "Citing ʿArif al-ʿArif’s al-Mufassal fi Tarikh al-Quds, the guest claims al-Walid took the dome of a church at Baalbek and transferred it to make the mosque, so no al-Aqsa mosque existed before al-Walid.",
+      "claimAr": "ينسب الضيف إلى كتاب \"المفصل في تاريخ القدس\" لعارف العارف القول إن الوليد أخذ قبة كنيسة في بعلبك ونقلها وجعل منها المسجد، ولذلك لم يكن المسجد الأقصى موجوداً قبل الوليد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the passage in ʿArif al-ʿArif’s book, preserve his exact wording and sources, and compare it with archaeological accounts of al-Walid’s mosque."
+    },
+    {
+      "timestamp": "00:05:37",
+      "claimEn": "The speakers claim the Dome of the Rock’s octagonal design resembles a Byzantine church, particularly the Church of the Ascension in Jerusalem.",
+      "claimAr": "يقول المتحدثان إن تصميم قبة الصخرة المثمن يشبه كنيسة بيزنطية، ولا سيما كنيسة الصعود في القدس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the Dome’s plan with the Church of the Ascension and other late-antique martyria, and review architectural scholarship on direct borrowing versus a shared building type."
+    },
+    {
+      "timestamp": "00:06:24",
+      "claimEn": "The guest claims the Dome of the Rock contains about twenty-nine Qurʾanic verses in Kufic and that all of them address Christians, especially claims about Christ.",
+      "claimAr": "يقول الضيف إن على جدران قبة الصخرة نحو تسع وعشرين آية بالخط الكوفي، وإنها كلها تخاطب المسيحيين، وبخاصة في شأن المسيح.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Transcribe the surviving inscriptions from a critical epigraphic edition, count the Qurʾanic passages and classify their addressees and Christological content."
+    },
+    {
+      "timestamp": "00:07:14",
+      "claimEn": "The speakers claim the Dome provides the first wall inscription in Islamic history to display the words Islam and Muhammad.",
+      "claimAr": "يقول المتحدثان إن قبة الصخرة تقدم أول نقش جداري في تاريخ الإسلام تظهر فيه كلمتا الإسلام ومحمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the Dome’s dated inscriptions with earlier Arabic inscriptions, papyri and coins containing islam or muhammad to test the priority claim."
+    },
+    {
+      "timestamp": "00:07:14",
+      "claimEn": "The host claims that an inaugural manifesto for a new religion focused entirely on Christ and Christians looks more like a Christian heresy than a distinct Islam.",
+      "claimAr": "يقول المقدّم إن بياناً افتتاحياً لدين جديد يركز كله على المسيح والمسيحيين يبدو كأنه هرطقة مسيحية أكثر من كونه إسلاماً مستقلاً.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the inscription’s theology with known seventh-century Christian controversies and with clearly Islamic texts, distinguishing anti-Trinitarian polemic from evidence of Christian sectarian identity."
+    },
+    {
+      "timestamp": "00:08:01",
+      "claimEn": "The guest claims the true meaning of kaʿba is a rounded thing, appealing to the expressions kawaʿib atraban and kaʿb dayir and to the rounded geometry of the Dome of the Rock.",
+      "claimAr": "يقول الضيف إن المعنى الحقيقي لكلمة \"كعبة\" هو الشيء المدور، مستشهداً بعبارتي \"كواعب أترابا\" و\"كعب داير\" وبالهندسة المدورة لقبة الصخرة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check classical and historical Arabic lexica for the roots k-ʿ-b and k-b-b and evaluate whether the examples support a rounded meaning for kaʿba."
+    },
+    {
+      "timestamp": "00:08:49",
+      "claimEn": "The guest claims Arabic ʿayn can be assimilated, using the Qurʾanic word qatna, which he glosses as qitaʿna, and therefore proposes kaʿba could become kubba, a rounded object.",
+      "claimAr": "يقول الضيف إن العين يمكن أن تُدغم، ويستدل بكلمة \"قطنا\" القرآنية التي يفسرها بمعنى \"قطعنا\"، ثم يقترح أن تتحول \"كعبة\" إلى \"كبة\"، أي شيء مدور.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-textual-transmission-script-and-orthography"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the verse intended by the speaker and check Arabic morphology and historical phonology for his qitʿ/qat and kaʿba/kubba derivations."
+    },
+    {
+      "timestamp": "00:08:49",
+      "claimEn": "The guest attributes to Christoph Luxenberg research arguing that the word Muhammad on the Dome of the Rock is a description meaning \"the glorified one\" and refers to Christ.",
+      "claimAr": "ينسب الضيف إلى كريستوف لوكسنبورغ بحثاً يقول إن كلمة \"محمد\" على قبة الصخرة وصف بمعنى \"الممجد\" وتشير إلى المسيح.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-syro-aramaic-philology",
+        "earlier-religious-parallels-syriac-aramaic-philology"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate Luxenberg’s publication on the Dome inscription, verify his exact grammatical argument and review epigraphic and philological responses."
+    },
+    {
+      "timestamp": "00:09:53",
+      "claimEn": "The guest claims the inscription’s phrase \"Muhammad is the servant of God and His messenger\" uses Muhammad as an epithet rather than a personal name.",
+      "claimAr": "يقول الضيف إن عبارة النقش \"محمد عبد الله ورسوله\" تستخدم \"محمد\" صفة لا اسم علم.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the exact epigraphic syntax, parallel uses of Muhammad in dated seventh-century sources and whether Arabic grammar permits or favors the proposed adjectival reading here."
+    },
+    {
+      "timestamp": "00:10:40",
+      "claimEn": "The guest claims hamd is reserved for God, so al-muhammad or al-mumajjad is the one glorified by God, whom Christians identify as Christ.",
+      "claimAr": "يقول الضيف إن الحمد خاص بالله، ولذلك فـ\"المحمد\" أو \"الممجد\" هو من مجده الله، وهو عند المسيحيين المسيح.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Arabic usage of hamd for God and humans, the morphology of muhammad, and early Christian Arabic or Syriac terminology for Christ."
+    },
+    {
+      "timestamp": "00:10:40",
+      "claimEn": "The guest claims the phrase \"servant of God\" in the Dome inscription points to Christ, because the Qurʾan also says Christ does not disdain to be God’s servant.",
+      "claimAr": "يقول الضيف إن عبارة \"عبد الله\" في نقش القبة تشير إلى المسيح، لأن القرآن يقول أيضاً إن المسيح لا يستنكف أن يكون عبد الله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the complete Qurʾanic verse and its context with the Dome inscription and determine whether shared wording identifies the inscription’s grammatical subject."
+    },
+    {
+      "timestamp": "00:11:31",
+      "claimEn": "Citing Philippians chapter 2, verses 7–8, the guest claims Christian scripture describes Christ as taking the form of a servant and becoming the ideal servant of God.",
+      "claimAr": "يستشهد الضيف برسالة فليبي، الإصحاح الثاني والآيتين سبعة وثمانية، ليقول إن النص المسيحي يصف المسيح بأنه أخذ صورة عبد وصار عبد الله المثالي.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Philippians 2:7–8 in the relevant Greek and Arabic translations and evaluate the connection drawn to the Arabic title ʿabd Allah."
+    },
+    {
+      "timestamp": "00:11:31",
+      "claimEn": "The guest claims some Syriac Christians called Christ \"Muhammad, servant of God,\" and that \"His messenger\" can likewise describe Christ as bearer of a message.",
+      "claimAr": "يقول الضيف إن بعض السريان كانوا يسمون المسيح \"محمد عبد الله\"، وإن \"رسوله\" يمكن كذلك أن تصف المسيح بوصفه حاملاً لرسالة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-syriac-aramaic-philology"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the Syriac texts the speaker has in mind and verify whether they apply a cognate of Muhammad plus servant of God to Christ before or during the seventh century."
+    },
+    {
+      "timestamp": "00:12:22",
+      "claimEn": "The guest claims the Dome inscriptions combine Qurʾanic language addressing the People of the Book, denying that God has a son and naming Jesus as God’s messenger, word and spirit, so their primary audience is Christian.",
+      "claimAr": "يقول الضيف إن نقوش القبة تجمع لغة قرآنية تخاطب أهل الكتاب وتنفي أن يكون لله ولد وتسمي عيسى رسول الله وكلمته وروحاً منه، ولذلك فجمهورها الأول مسيحي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the quoted wording with a critical transcription of the Dome inscriptions and the corresponding Qurʾanic passages, noting all variants and omissions."
+    },
+    {
+      "timestamp": "00:13:56",
+      "claimEn": "The host concludes that a monument expected to explain Islam instead addresses Christians alone and therefore resembles a dome for Christ rather than a dome for Islam.",
+      "claimAr": "يخلص المقدّم إلى أن بناءً كان يُفترض أن يشرح الإسلام يخاطب المسيحيين وحدهم، فيبدو كأنه قبة للمسيح لا قبة للإسلام.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the monument’s full decorative and textual program and the scholarly explanations for its anti-Christian polemic before inferring its confessional identity."
+    },
+    {
+      "timestamp": "00:14:41",
+      "claimEn": "The host claims the Umayyads did not initially regard the Meccan Kaaba with the honor or sanctity later Muslims assign to it.",
+      "claimAr": "يقول المقدّم إن الأمويين لم ينظروا أولاً إلى كعبة مكة بالشرف أو القداسة التي ينسبها المسلمون إليها لاحقاً.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Review early Umayyad pilgrimage policy, inscriptions, poetry and accounts of the second fitna for evidence of the Kaaba’s status before and during ʿAbd al-Malik’s reign."
+    },
+    {
+      "timestamp": "00:15:29",
+      "claimEn": "The host argues that al-Hajjaj’s destruction of the Kaaba by catapult while suppressing Ibn al-Zubayr shows the sanctuary lacked the later degree of inviolability for the Umayyads.",
+      "claimAr": "يستدل المقدّم بأن تدمير الحجاج للكعبة بالمنجنيق عند القضاء على ثورة ابن الزبير يدل على أنها لم تكن عند الأمويين تملك حرمة العصور اللاحقة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the earliest accounts of the sieges of Mecca, distinguish the 683 and 692 damage, and verify al-Hajjaj’s role and the nature of the catapult attack."
+    },
+    {
+      "timestamp": "00:16:22",
+      "claimEn": "The guest claims Ibn al-Zubayr was the first person to mint an Islamic coin bearing the complete formula \"There is no god but God; Muhammad is the messenger of God.\"",
+      "claimAr": "يقول الضيف إن ابن الزبير كان أول من سك عملة إسلامية مكتوباً عليها كاملة \"لا إله إلا الله محمد رسول الله\".",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the coin type attributed to Ibn al-Zubayr, verify its date, mint and inscription, and compare it with earlier shahada-bearing issues."
+    },
+    {
+      "timestamp": "00:16:22",
+      "claimEn": "The host claims the Umayyads had neglected Mecca and Medina because they produced no profit and had little political or economic importance to them.",
+      "claimAr": "يقول المقدّم إن الأمويين أهملوا مكة والمدينة لأنهما لا تدران ربحاً ولم تكونا مهمتين لهم سياسياً أو اقتصادياً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Examine Umayyad investment, appointments, fiscal flows and political control in the Hijaz before the second fitna rather than inferring neglect solely from distance from Damascus."
+    },
+    {
+      "timestamp": "00:16:52",
+      "claimEn": "The host claims the Kaaba became politically important to ʿAbd al-Malik only when Arab pilgrims from Syria began traveling to Mecca and pledging allegiance to the rival caliph Ibn al-Zubayr.",
+      "claimAr": "يقول المقدّم إن الكعبة لم تصبح مهمة سياسياً لعبد الملك إلا عندما بدأ حجاج عرب من الشام يذهبون إلى مكة ويبايعون الخليفة المنافس ابن الزبير.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Trace reports of Syrian pilgrimage and bayʿa to Ibn al-Zubayr and determine whether they are early, independent and linked to ʿAbd al-Malik’s building policy."
+    },
+    {
+      "timestamp": "00:16:52",
+      "claimEn": "The speakers claim ʿAbd al-Malik built the Dome of the Rock as a more splendid alternative pilgrimage site so Syrian pilgrims would remain in his territory rather than go to Ibn al-Zubayr in Mecca.",
+      "claimAr": "يقول المتحدثان إن عبد الملك بنى قبة الصخرة مكان حج أبهى بديلاً من مكة، لكي يبقى حجاج الشام عنده ولا يذهبوا إلى ابن الزبير.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the pilgrimage-diversion report in the early chronicles, evaluate its transmission and compare it with inscriptions and archaeological evidence for ritual at the Dome."
+    },
+    {
+      "timestamp": "00:17:38",
+      "claimEn": "The host claims the association of the Israʾ and Miʿraj with Jerusalem first appeared when ʿAbd al-Malik needed to make Jerusalem sacred, and that the Israʾ verse was first interpreted as Jerusalem then.",
+      "claimAr": "يقول المقدّم إن ربط الإسراء والمعراج بالقدس ظهر أول مرة عندما احتاج عبد الملك إلى تقديس القدس، وإن آية الإسراء فُسرت يومئذ أول مرة على أنها تشير إلى القدس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-historical-claims-revelation-context",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Date the earliest attestations identifying al-masjid al-aqsa and Muhammad’s night journey with Jerusalem in tafsir, hadith, sira, poetry and non-Islamic sources."
+    },
+    {
+      "timestamp": "00:17:38",
+      "claimEn": "The speakers claim the hadith \"Travel is not undertaken except to three mosques\" first appeared to justify Jerusalem’s newly created Muslim sanctity.",
+      "claimAr": "يقول المتحدثان إن حديث \"لا يشد الرحال إلا لثلاثة مساجد\" ظهر أول مرة لتبرير القداسة الإسلامية المستحدثة للقدس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "hadith-political-fabrication",
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Collect the hadith’s isnads and early written attestations, compare their dates and regional affiliations, and review scholarship on an Umayyad political origin."
+    },
+    {
+      "timestamp": "00:18:24",
+      "claimEn": "The guest claims Ibn Shihab al-Zuhri, a client of the Umayyad caliphs and especially of ʿAbd al-Malik, produced the three-mosques hadith, which al-Bukhari and other important Sunni books later transmitted.",
+      "claimAr": "يقول الضيف إن ابن شهاب الزهري، وكان موالياً للخلفاء الأمويين ولا سيما عبد الملك، هو الذي أخرج حديث المساجد الثلاثة، ثم نقله البخاري وكتب سنية مهمة أخرى.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "hadith-political-fabrication",
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify al-Zuhri’s place in the hadith’s transmission routes, his chronology and patronage relationships, and the exact collections and variants in which the report occurs."
+    },
+    {
+      "timestamp": "00:18:24",
+      "claimEn": "The guest claims Jerusalem was sacred to Jews and Christians but not originally to Muslims, and that Sebeos describes the Arab military campaign as an effort to recover the Holy Land.",
+      "claimAr": "يقول الضيف إن بيت المقدس كان مقدساً عند اليهود والمسيحيين لا عند المسلمين أولاً، وإن سيبيوس يصف الحملة العسكرية العربية بأنها كانت لاسترجاع الأرض المقدسة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read the relevant passage of Sebeos in its Armenian text and critical translations, establish which campaign and actors it describes, and compare early Muslim Jerusalem traditions."
+    },
+    {
+      "timestamp": "00:19:57",
+      "claimEn": "The guest claims some Syriac sources say ʿAbd al-Malik was the first ruler to impose a head tax on non-Arabs—Syrians, Jews and others—in 691–692, whereas taxation had previously been levied only on land.",
+      "claimAr": "يقول الضيف إن بعض المراجع السريانية تفيد بأن عبد الملك كان أول من فرض سنة 691–692 جزية على رؤوس غير العرب من السريان واليهود وغيرهم، بعد أن كانت الضريبة على الأرض فقط.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Syriac chronicles intended, quote their exact tax terminology and dates, and compare papyrological evidence for jizya, poll taxes and land taxes before 691."
+    },
+    {
+      "timestamp": "00:20:44",
+      "claimEn": "The host claims Muhammad had no enduring Christian or Jewish subject population from which to collect jizya—apart from a limited Khaybar arrangement—so Qurʾanic jizya material is historically anomalous in his lifetime.",
+      "claimAr": "يقول المقدّم إن محمداً لم تكن تحته جماعة مسيحية أو يهودية باقية يدفع منها الجزية، سوى إشارة محدودة إلى خيبر، ولذلك تبدو مادة الجزية القرآنية غريبة في زمنه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check early accounts and documentary evidence for tributary Christian and Jewish groups under Muhammad, including Khaybar, Najran, Tabuk and treaty traditions."
+    },
+    {
+      "timestamp": "00:20:44",
+      "claimEn": "The host claims some Qurʾanic jizya verses may have been composed later for a specific economic purpose and that none of those verses occurs in the earliest Qurʾan manuscripts.",
+      "claimAr": "يقول المقدّم إن بعض آيات الجزية في القرآن ربما صيغت لاحقاً لتوظيف اقتصادي معين، وإن أياً من هذه الآيات لا يوجد في المخطوطات الأولى للقرآن.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-manuscripts-and-dating"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify exactly which verses the speaker means, inventory the folios covered by the earliest manuscripts, and distinguish absence because a passage is missing from absence because the manuscript does not preserve that sura."
+    },
+    {
+      "timestamp": "00:21:30",
+      "claimEn": "The speakers claim Jewish communities normally recorded persecution, yet Jewish sources are silent about Banu Qaynuqa, Banu al-Nadir, jizya and the alleged early Muslim persecution of Jews, suggesting the received events did not occur as narrated.",
+      "claimAr": "يقول المتحدثان إن الجماعات اليهودية اعتادت تسجيل الاضطهاد، ومع ذلك تصمت المصادر اليهودية عن بني قينقاع وبني النضير والجزية واضطهاد المسلمين المبكر لليهود، بما يوحي بأن الأحداث الموروثة لم تقع بالصورة المروية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions",
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey contemporary and near-contemporary Jewish writings for Arabian events, assess expected survival and geographic coverage, and avoid treating documentary silence as proof without a preservation model."
+    },
+    {
+      "timestamp": "00:21:30",
+      "claimEn": "The guest claims ʿAbd al-Malik abruptly created an independent currency after using issues modeled on the Byzantine solidus and Sasanian dirham.",
+      "claimAr": "يقول الضيف إن عبد الملك أنشأ فجأة عملة مستقلة بعدما كان يستخدم عملات شبيهة بالسوليدوس البيزنطي والدرهم الساساني.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Establish the sequence and dates of ʿAbd al-Malik’s Arab-Byzantine, Arab-Sasanian, standing-caliph and epigraphic reforms from numismatic catalogues."
+    },
+    {
+      "timestamp": "00:22:16",
+      "claimEn": "The guest claims an Arab-Sasanian dirham dated to year 75 of Arab rule is clipped, evidence that people removed valuable portions of inherited coin types.",
+      "claimAr": "يقول الضيف إن درهماً ساسانياً عربياً يعود إلى السنة 75 من الحكم العربي قُطع جزء منه، دليلاً على أن الناس كانوا يقتطعون أجزاء ذات قيمة من العملات الموروثة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the displayed dirham, determine what calendar its 75 uses, and check whether the missing portion is deliberate clipping, damage or a known minting form."
+    },
+    {
+      "timestamp": "00:22:16",
+      "claimEn": "The guest claims a gold dinar of ʿAbd al-Malik shows his image, the formula \"There is no god but God alone; Muhammad is the messenger of God,\" and a column standing on three steps.",
+      "claimAr": "يقول الضيف إن ديناراً ذهبياً لعبد الملك يحمل صورته وعبارة \"لا إله إلا الله وحده محمد رسول الله\" وعموداً قائماً فوق ثلاث درجات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the exact standing-caliph dinar and transcribe both sides from a numismatic catalogue, checking the figure, steps, column and complete legend."
+    },
+    {
+      "timestamp": "00:23:02",
+      "claimEn": "The guest claims Heraclius’s solidus showed the emperor and his two sons holding crosses and a cross on the reverse, while Arab adaptations progressively changed the cross into a St Anthony-type cross and then into a column with Arabic religious writing.",
+      "claimAr": "يقول الضيف إن سوليدوس هيراكليوس أظهر الإمبراطور وابنيه يحملون صلباناً وصليباً على الوجه الآخر، ثم غيّرت النسخ العربية الصليب تدريجياً إلى صليب من نوع القديس أنطونيوس ثم إلى عمود مع كتابة دينية عربية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the displayed types with catalogued Heraclian and Arab-Byzantine coin sequences and verify the conventional names and interpretation of each altered cross form."
+    },
+    {
+      "timestamp": "00:23:48",
+      "claimEn": "The guest rejects the explanation that the cross was merely defaced because Muslims denied the crucifixion, and claims the remaining column is itself a stauros—the instrument or column of suffering in Greek and biblical usage.",
+      "claimAr": "يرفض الضيف تفسير العمود بأنه مجرد صليب مشوه بسبب إنكار المسلمين للصلب، ويقول إن العمود نفسه هو \"ستاوروس\"، أي عمود الآلام في الاستعمال اليوناني والكتابي.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Greek stauros usage in late-antique Christian texts and numismatic scholarship on the reverse symbol, including whether specialists identify it as a cross-on-steps, pole or column."
+    },
+    {
+      "timestamp": "00:24:34",
+      "claimEn": "The guest claims ʿAbd al-Malik’s column represents Christ’s crucifixion in a non-crossbeam form, comparable to Qurʾanic crucifixion on palm trunks and to the modern belief of Jehovah’s Witnesses.",
+      "claimAr": "يقول الضيف إن عمود عبد الملك يمثل صلب المسيح بلا عارضة، على نحو يشبه الصلب على جذوع النخل في القرآن واعتقاد شهود يهوه المعاصر.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the wording and classical interpretation of the cited Qurʾanic passage, Jehovah’s Witness teaching, and whether either establishes the intended meaning of the coin symbol."
+    },
+    {
+      "timestamp": "00:25:20",
+      "claimEn": "The guest claims circles on some versions of the column signify sovereignty, a known orb symbol of rule, rather than components of a cross.",
+      "claimAr": "يقول الضيف إن الدوائر على بعض صور العمود تدل على الحكم، فهي رمز الكرة المعروف للسلطة وليست أجزاءً من صليب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the coin variants with circles and compare specialist interpretations of the motif with late-antique orb and cross symbolism."
+    },
+    {
+      "timestamp": "00:25:20",
+      "claimEn": "The guest claims ʿAbd al-Malik gave the succession to his son al-Walid on the stauros or column of suffering, implying continued use of a Christian imperial symbol.",
+      "claimAr": "يقول الضيف إن عبد الملك أعطى ولاية العهد لابنه الوليد على \"ستاوروس\" أو عمود الآلام، بما يعني استمرار استعمال رمز إمبراطوري مسيحي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity",
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the specific coin or image said to encode al-Walid’s succession, establish its date and legend, and check numismatic interpretations of the two figures and central symbol."
+    },
+    {
+      "timestamp": "00:26:06",
+      "claimEn": "The guest claims this succession scene follows a Byzantine convention exemplified by Basil II and Heraclius granting succession with a cross between the rulers.",
+      "claimAr": "يقول الضيف إن مشهد ولاية العهد يتبع تقليداً بيزنطياً مثله باسيليوس الثاني وهيراكليوس، إذ كان الإمبراطور يمنح وريثه الولاية وبينهما الصليب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Byzantine images of Basil II and Heraclius intended and verify their dates, iconography and connection to succession ceremonies."
+    },
+    {
+      "timestamp": "00:26:06",
+      "claimEn": "The host claims Western researchers remain uncertain whether ʿAbd al-Malik himself was Christian or Muslim and suggests he underwent a confessional reversal.",
+      "claimAr": "يقول المقدّم إن الباحثين الغربيين غير متأكدين هل كان عبد الملك نفسه مسيحياً أم مسلماً، ويقترح أنه انقلب من حال إلى أخرى.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the researchers making this claim, distinguish revisionist hypotheses from scholarly consensus, and examine contemporary evidence for ʿAbd al-Malik’s confession."
+    },
+    {
+      "timestamp": "00:26:52",
+      "claimEn": "The host claims ʿAbd al-Malik’s replacement of images with Arabic Islamic text on the dinar represents a campaign against images and their complete removal.",
+      "claimAr": "يقول المقدّم إن استبدال عبد الملك الصور بالكلمات العربية الإسلامية على الدينار يمثل حرباً على الصورة وقضاءً كاملاً عليها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Date the transition to epigraphic dinars and compare it with continued figural art under ʿAbd al-Malik before characterizing the reform as general iconoclasm."
+    },
+    {
+      "timestamp": "00:26:52",
+      "claimEn": "The host claims ʿAbd al-Malik was the true founder of Islam because the Qurʾan was collected in his reign and all older Qurʾanic copies were burned by al-Hajjaj, a claim he says is documented in Islamic tradition.",
+      "claimAr": "يقول المقدّم إن عبد الملك هو المؤسس الحقيقي للإسلام لأن القرآن جُمع في عصره، وإن الحجاج أحرق كل النسخ القديمة الأخرى، وهو أمر يصفه بأنه موثق إسلامياً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate every Islamic report about al-Hajjaj’s textual interventions or destruction of codices, separate recensions and reading reforms from collection, and compare manuscript evidence predating ʿAbd al-Malik."
+    },
+    {
+      "timestamp": "00:26:52",
+      "claimEn": "The host claims ʿAbd al-Malik came from a Christian background and fashioned a single religion to unify an empire that he could not leave without one common faith.",
+      "claimAr": "يقول المقدّم إن عبد الملك أتى من خلفية مسيحية وصاغ ديناً واحداً لتوحيد إمبراطورية لم يستطع أن يتركها بلا عقيدة مشتركة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "early-arab-rulers-religious-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the evidence for a Christian personal background and distinguish cultural formation in Christian Syria from baptism or confession; then assess whether the reforms amount to deliberate invention of a religion."
+    },
+    {
+      "timestamp": "00:27:38",
+      "claimEn": "The host compares ʿAbd al-Malik with Constantine, claiming Constantine used Christianity to unify Roman state identity and thereby produced the Byzantine state and the form of Eastern Christianity known later.",
+      "claimAr": "يقارن المقدّم عبد الملك بقسطنطين، ويقول إن قسطنطين استخدم المسيحية لتوحيد هوية الدولة الرومانية، فنشأت بذلك الدولة البيزنطية وصورة المسيحية الشرقية اللاحقة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check modern scholarship on Constantine’s conversion, religious policy and the formation of imperial Christianity, and assess the limits of the analogy with ʿAbd al-Malik."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:48",
+      "asStatedInVideo": "الفترة ما بين معاوية بن أبي سفيان وعبد الملك بن مروان",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:00:48",
+      "asStatedInVideo": "ظهرت عملات فيها تنوع كبير وفيها تأثير ثقافي يهودي مسيحي صابئي",
+      "workTitle": "عملات العصر الأموي المبكر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:37",
+      "asStatedInVideo": "عبد الملك ابن مروان",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:03:59",
+      "asStatedInVideo": "في عصره الخط الكوفي أو قبل يعني في تلك العصر بدأ بوضوح ظهور الآخرة الخط الكوفي",
+      "workTitle": "ظهور الخط الكوفي",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:04:51",
+      "asStatedInVideo": "قبة الصخرة بنها عبد الملك والمسجد الأقصى بنها الوليد بن عبد الملك",
+      "workTitle": "بناء قبة الصخرة والمسجد الأقصى",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:51",
+      "asStatedInVideo": "كتاب اسمه المفصل في تاريخ القدس كتاب مهم جدا للعارف العارف",
+      "workTitle": "المفصل في تاريخ القدس",
+      "author": "عارف العارف",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:04:51",
+      "asStatedInVideo": "الوليد بن عبد الملك سرق القبة الخاصة بكنيسة بعلبك ونقلها وجعل منها المسجد",
+      "workTitle": "نقل قبة كنيسة بعلبك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:05:37",
+      "asStatedInVideo": "يشبه كثيرا كنيسة بيزنطية ... كنيسة السعود في القدس ... على الشكل تمني أضلاع مثل قبة الصخرة",
+      "workTitle": "كنيسة الصعود في القدس",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:06:24",
+      "asStatedInVideo": "تسعة وعشرين تقريبا تسعة وعشرين آية موجودة علي الجدران بالخط الكوفي وهي تتحدث كلها عن المسيحيين بالخصوص",
+      "workTitle": "نقوش قبة الصخرة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:49",
+      "asStatedInVideo": "دكتور كريستوف ليكسونبوج عنده بحث في هذا الموضوع موضوع قبّة الصخرة نقش قبّة الصخرة",
+      "author": "كريستوف لوكسنبورغ",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:49",
+      "asStatedInVideo": "موجودة في القرآن بنا آتينا قطنا يوم الحزاق قطنا هي قطعنا",
+      "workTitle": "القرآن",
+      "quotedArabic": "قطنا",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:53",
+      "asStatedInVideo": "بداية هذه هذا النقش بيقول بسم الله الرحمن الرحيم لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير محمد عبد الله ورسوله",
+      "workTitle": "نقش قبة الصخرة",
+      "quotedArabic": "بسم الله الرحمن الرحيم لا اله الا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير محمد عبد الله ورسوله",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:40",
+      "asStatedInVideo": "لا استنكف المسيح عن ان يكون عبد الله ورسوله",
+      "workTitle": "القرآن",
+      "quotedArabic": "لا استنكف المسيح عن ان يكون عبد الله ورسوله",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:31",
+      "asStatedInVideo": "في رسالة فليبي ... في الاصحاح الثاني والاية سبعة وتمانية",
+      "workTitle": "رسالة فليبي",
+      "locator": "الإصحاح الثاني، الآيتان سبعة وثمانية",
+      "quotedArabic": "لكنه اخلى نفسه يعني بين قوسين المسيح اخدا صورة عبد",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:11:31",
+      "asStatedInVideo": "كان بعض السريان يسمونه محمد عبد الله",
+      "workTitle": "نصوص سريانية غير مسماة",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:22",
+      "asStatedInVideo": "يا اهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله الا الحق انما المسيح عيسى ابن مريم رسول الله وكلمته القاها الى مريم وروح منه",
+      "workTitle": "القرآن كما هو منقوش على قبة الصخرة",
+      "quotedArabic": "يا اهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله الا الحق انما المسيح عيسى ابن مريم رسول الله وكلمته القاها الى مريم وروح منه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:09",
+      "asStatedInVideo": "انما الله اله واحد سبحانه ان يكون له ولدا له ما في السماوات وما في الارض وكفى بالله وكيلا",
+      "workTitle": "القرآن كما هو منقوش على قبة الصخرة",
+      "quotedArabic": "انما الله اله واحد سبحانه ان يكون له ولدا له ما في السماوات وما في الارض وكفى بالله وكيلا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:09",
+      "asStatedInVideo": "لان يستكنف المسيح ان يكون عبد الله ولا الملائكة المقربون",
+      "workTitle": "القرآن كما هو منقوش على قبة الصخرة",
+      "quotedArabic": "لان يستكنف المسيح ان يكون عبد الله ولا الملائكة المقربون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:13:09",
+      "asStatedInVideo": "اللهم صلي على رسولك او الرسول وعبدك عبد الله عيسى ابن مريم",
+      "workTitle": "نقش قبة الصخرة",
+      "quotedArabic": "اللهم صلي على رسولك او الرسول وعبدك عبد الله عيسى ابن مريم",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:15:29",
+      "asStatedInVideo": "الحجاج بن يوسف التقفي لما قضى على على طاورة عبد الله بن الزبير. فهو دمر الكعبة بالمنجنيق",
+      "workTitle": "حصار مكة والقضاء على ثورة عبد الله بن الزبير",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:29",
+      "asStatedInVideo": "عبد الله بن الزبير يعني استقل بخلافة خاصة به في مكة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:16:22",
+      "asStatedInVideo": "اول من سك عملة اسلامية ... مكتوب عليها لا اله الا الله محمد ورسول الله كاملة",
+      "workTitle": "عملة عبد الله بن الزبير",
+      "quotedArabic": "لا اله الا الله محمد ورسول الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:16:52",
+      "asStatedInVideo": "ابتدى حجاج عرب من الشام يروحوا يحجوا لمكة ويبيعوا الخليفة الجديد عبدالله بن الزبير",
+      "workTitle": "حج أهل الشام وبيعتهم لابن الزبير",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:16:52",
+      "asStatedInVideo": "يفكر انه يبني قبة الصخرة ويجعل منها مكان للحج",
+      "workTitle": "بناء قبة الصخرة مكاناً للحج",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:38",
+      "asStatedInVideo": "الاية بتاعة الاسراء والمعراج يتم تفسيرها على انها القدس",
+      "workTitle": "آية الإسراء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:17:38",
+      "asStatedInVideo": "لا يشد الرحال الا لثلاثة مساجد",
+      "quotedArabic": "لا يشد الرحال الا لثلاثة مساجد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:38",
+      "asStatedInVideo": "الزهري هو اللي خرج هذا هذا الحديث ... ابن شهاب الزهري",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:24",
+      "asStatedInVideo": "وطبعا نقله صحيح البخاري ونقلته بعض الكتب السنية المهمة",
+      "workTitle": "صحيح البخاري",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:24",
+      "asStatedInVideo": "حتى لو رجعنا للتاريخ وعند سيبيوس أنه كانت أساسا هذه الحملة العسكرية كانت من أجل استرجاع الأرض المقدسة",
+      "author": "سيبيوس",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:19:57",
+      "asStatedInVideo": "بعض مراجع السريانية تفيد على أن عبد الملك بن مروان هو أول من وضع الجزية على رؤوس الدمين أو على رؤوس الغير العرب",
+      "workTitle": "مراجع سريانية غير مسماة",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:19:57",
+      "asStatedInVideo": "خصوصا في سنة 691-92 فرض عبد الملك بن مروان الجزية على غير العرب كالسريان وكاليهود وغيرهم",
+      "workTitle": "فرض الجزية في عهد عبد الملك",
+      "locator": "691-92",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:20:44",
+      "asStatedInVideo": "الآية القرآنية ... نزلت في عصر محمد",
+      "workTitle": "آية الجزية غير المسماة",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:20:44",
+      "asStatedInVideo": "فيه إشارة إلى خيبر أن هما ضفعوا الجزية لفترة",
+      "workTitle": "خيبر والجزية",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:20:44",
+      "asStatedInVideo": "مفيش ولا آية واحدة من آيات الجزية دي موجودة في المخطوطات الأولى للقرآن",
+      "workTitle": "المخطوطات الأولى للقرآن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:21:30",
+      "asStatedInVideo": "بني قنيقع وبني النظير ... ألم يقولوا أنه كانت في جزية ألم يقولوا كانت في اضطهاد لماذا هذا الصمت",
+      "workTitle": "روايات بني قينقاع وبني النضير",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:21:30",
+      "asStatedInVideo": "عبد الملك بن مروان يعني كانت عنده عملات شبيهة بالسوليدوس البيزنطي والدرهم الساساني",
+      "workTitle": "عملات عبد الملك السابقة للإصلاح",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:22:16",
+      "asStatedInVideo": "الدرهم الساساني عندنا صورة تعود لعبد الملك بن مروان السنة 75 الحكم العربي مقطوع منها جزء",
+      "workTitle": "درهم ساساني عربي",
+      "locator": "السنة 75 من الحكم العربي كما ذُكرت",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:22:16",
+      "asStatedInVideo": "الدنار الدهبي مكتوب عليه لا إله إلا الله وحده محمد رسول الله وعليه عمود ... فوق 3 أدراج",
+      "workTitle": "دينار عبد الملك الذهبي",
+      "quotedArabic": "لا إله إلا الله وحده محمد رسول الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:02",
+      "asStatedInVideo": "في عهد هيراكيلوس كان عندنا السوليدوس عندنا الأمبراطور هيراكيلوس ومعه ابنيه وهم حاملين سلبان",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:23:02",
+      "asStatedInVideo": "هذه العملة تغيرت عند العرب وأصبحت بالتي الصليب القديس أنطونيوس",
+      "workTitle": "تطور السوليدوس في العملات العربية",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:23:48",
+      "asStatedInVideo": "هذا العمود يسمى ستاوروس عمود الألام وحتى في الكتاب المقدس عندما يشار للصليب يشار على أنه هو عمود الألام ستاوروس باللغة اليونانية",
+      "workTitle": "الاستعمال اليوناني والكتابي لكلمة ستاوروس",
+      "quotedArabic": "ستاوروس عمود الألام",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:34",
+      "asStatedInVideo": "بالنسبة للقرآن لو رأينا في سورة طه الآية 71 يعني الصلب على جذوع النخل",
+      "workTitle": "القرآن",
+      "locator": "سورة طه، الآية 71",
+      "quotedArabic": "الصلب على جذوع النخل",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:24:34",
+      "asStatedInVideo": "مثل شهود يهوى شهود يهوى الآن يعتقدون أن المسيح صلب بهذه الطريقة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:25:20",
+      "asStatedInVideo": "في بعض العملات عليها دائرة على هذا العمود دوائر ولكن هذه الدوائر تفيد أنه حكم الحكم تفيد الحكم وهذا معروف كرمز الكرة رمز للحكم",
+      "workTitle": "دوائر عمود عملات عبد الملك",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:25:20",
+      "asStatedInVideo": "عبد الملك بن مروان أعطى ولاية العهد لابنه الوليد بن عبد الملك على عمود الآلام على ستاوروس",
+      "workTitle": "ولاية عهد الوليد على عملة عبد الملك",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:26:06",
+      "asStatedInVideo": "الأمبراطور باسيل الثاني أعطى ولاية العهد على الصليب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:26:06",
+      "asStatedInVideo": "كذلك هيراكيلوس أعطى ولاية العهد على الصليب ما بين الشخصين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:26:52",
+      "asStatedInVideo": "الدينار اللي أصبح بالكلمات العربية الإسلامية يعني هو وكأنه يحارب الصورة ويقضي عليها تماما",
+      "workTitle": "الإصلاح النقدي لعبد الملك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:26:52",
+      "asStatedInVideo": "القرآن جمع في عصره وأن أي نسخ أخرى قديمة من القرآن تم حرقها في عصره عن طريق الحجاج بن يوسف الثقافي هذا حتى موثق إسلاميا",
+      "workTitle": "جمع القرآن وإحراق نسخه في عهد عبد الملك",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:26:52",
+      "asStatedInVideo": "الحجاج بن يوسف الثقافي",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:27:38",
+      "asStatedInVideo": "قسطنطي الإمبراطور الروماني الذي استخدم المسيحية لتوحيد هوية الدولة",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "umayyad-shaping-of-islam",
+      "titleEn": "Umayyad shaping of Islam",
+      "titleAr": "الأمويون وصياغة الإسلام",
+      "descriptionEn": "Claims that the caliphs of the Marwanid and wider Umayyad period—above all ʿAbd al-Malik ibn Marwan—shaped Islamic doctrine, sacred geography, ritual and text for political ends, including the Dome of the Rock, the sanctification of Jerusalem, the rivalry with Ibn al-Zubayr, and hadith or textual interventions attributed to that era.",
+      "descriptionAr": "الدعاوى بأن خلفاء العصر المرواني والأموي عموماً، وفي مقدمتهم عبد الملك بن مروان، صاغوا العقيدة والجغرافيا المقدسة والشعائر والنص لأغراض سياسية، بما يشمل قبة الصخرة وتقديس القدس والصراع مع ابن الزبير وما يُنسب إلى ذلك العصر من تدخلات في الحديث والنص.",
+      "suggestedParentId": "-",
+      "closestExistingId": "quran-textual-transmission-formation-and-chronology",
+      "rationale": "This is the episode’s organizing thesis and recurs across several episodes. Existing Qurʾan topics can hold textual-formation claims but not the linked claims about pilgrimage, state identity, coinage and hadith policy."
+    },
+    {
+      "proposedId": "dome-of-the-rock-inscriptions",
+      "titleEn": "Dome of the Rock inscriptions",
+      "titleAr": "نقوش قبة الصخرة",
+      "descriptionEn": "Studies and debates surrounding the early Arabic inscriptions inside the Dome of the Rock and their relationship to Qurʾanic textual formation, Christology and early Islamic identity.",
+      "descriptionAr": "الدراسات والنقاشات حول النقوش العربية المبكرة داخل قبة الصخرة وعلاقتها بتشكل النص القرآني والمسيحيات والهوية الإسلامية المبكرة.",
+      "suggestedParentId": "quran-textual-transmission",
+      "closestExistingId": "quran-textual-transmission-formation-and-chronology",
+      "rationale": "The episode devotes its central textual argument to the inscription as a coherent material source; the subject recurs in other videos and is more specific than general textual formation."
+    },
+    {
+      "proposedId": "documentary-and-epigraphic-evidence",
+      "titleEn": "Coins, inscriptions and non-Islamic sources",
+      "titleAr": "العملات والنقوش والمصادر غير الإسلامية",
+      "descriptionEn": "Claims resting on the contemporary material record of the seventh century—numismatics, inscriptions, papyri and seals—and on Greek, Syriac, Armenian and Persian sources, including arguments from the absence of expected attestations.",
+      "descriptionAr": "الدعاوى القائمة على السجل المادي المعاصر للقرن السابع من عملات ونقوش وبرديات وأختام، وعلى المصادر اليونانية والسريانية والأرمنية والفارسية، بما في ذلك الحجج المبنية على غياب الشواهد المتوقعة.",
+      "suggestedParentId": "-",
+      "closestExistingId": "quran-textual-transmission-formation-and-chronology",
+      "rationale": "The existing epigraphic home is scoped to the Qurʾanic text, while this episode repeatedly uses coins and external chronicles to make claims about rulers, taxation and confessional identity."
+    },
+    {
+      "proposedId": "early-arab-rulers-religious-identity",
+      "titleEn": "Religious identity of the early Arab rulers",
+      "titleAr": "الهوية الدينية للحكام العرب الأوائل",
+      "descriptionEn": "Claims about what the earliest Arab rulers actually professed—Christian, sectarian, Muslim or pragmatic—based on their iconography, titulature, monuments and dealings with surrounding religious communities.",
+      "descriptionAr": "الدعاوى حول الديانة الفعلية للحكام العرب الأوائل — مسيحية أو طائفية أو إسلامية أو براغماتية — استناداً إلى رموزهم وألقابهم وآثارهم وعلاقاتهم بالجماعات الدينية المحيطة.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "sirah-christian-parallels",
+      "rationale": "The existing Christian-parallels topic concerns literary borrowing into prophetic biography; this recurring subject concerns the confessional identity of later rulers inferred from monuments and coinage."
+    },
+    {
+      "proposedId": "hadith-political-fabrication",
+      "titleEn": "Hadith production and dynastic politics",
+      "titleAr": "إنتاج الحديث والسياسة السلالية",
+      "descriptionEn": "Claims that reports and hadiths were generated, selected or reshaped to serve the interests of a ruling house, including Umayyad traditions about Jerusalem and sacred travel.",
+      "descriptionAr": "الدعاوى القائلة بأن الأخبار والأحاديث أُنتجت أو اختيرت أو أُعيدت صياغتها خدمة لمصالح البيت الحاكم، بما في ذلك الروايات الأموية عن القدس وشد الرحال.",
+      "suggestedParentId": "hadith",
+      "closestExistingId": "hadith",
+      "rationale": "The hadith taxonomy has no topic for political formation of the corpus, yet the episode’s explanation of the three-mosques report depends directly on that recurring mechanism."
+    }
+  ]
+}

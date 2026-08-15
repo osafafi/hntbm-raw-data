@@ -1,0 +1,124 @@
+[
+  {
+    "id": "3gFRv8Pwjls#00:07:12",
+    "en": "Abu Hurairah was a beggar who relied on narrating traditions for his livelihood.",
+    "ar": "أبو هريرة كان شحاتاً يسترزق من عمله في نقل الحديث.",
+    "claimType": "biographical",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Check biographical entries for Abu Hurairah in Ibn Hajar's Tahdhib al-Tahdhib or al-Dhahabi's Siyar A'lam al-Nubala.",
+    "topicIds": [
+      "hadith"
+    ],
+    "sources": "- person:ابن-سعد-صاحب-الطبقات-الكبرى [unresolved] إبن سعد صاحب الطبقات الكبرى No corpus for citation type 'person'; entity handling arrives with stage 3.\n- person:الواقدي [unresolved] الواقدي No corpus for citation type 'person'; entity handling arrives with stage 3.\n- person:ابو-هريرة [unresolved] أبو هريرة No corpus for citation type 'person'; entity handling arrives with stage 3."
+  },
+  {
+    "id": "3gFRv8Pwjls#00:10:33",
+    "en": "Ibn Ishaq was the first to strongly emphasize tracing Muhammad's lineage back to Hashim and ultimately to Adam through 40 grandfathers.",
+    "ar": "ابن إسحاق هو أول من ركز بشكل كبير على نسب محمد إلى بني هاشم وصولاً إلى آدم عبر ٤٠ جداً.",
+    "claimType": "biographical",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Examine the genealogical opening of Ibn Hisham's revision of Ibn Ishaq's Sirah.",
+    "topicIds": [
+      "sirah-ibn-ishaq"
+    ],
+    "sources": "- (no citations attached to this claim)"
+  },
+  {
+    "id": "3gFRv8Pwjls#00:18:49",
+    "en": "Ibn Ishaq's biography omitted significant details about major figures in Muhammad's life, such as his daughter Zaynab and her non-believing husband.",
+    "ar": "سيرة ابن إسحاق عتمت على تفاصيل مهمة لشخصيات محورية في حياة محمد مثل ابنتة زينب وزوجها غير المؤمن.",
+    "claimType": "biographical",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Check the biographical treatment of Zaynab bint Muhammad and her husband Abu al-Aas ibn al-Rabi' in Ibn Hisham's Sirah.",
+    "topicIds": [
+      "sirah-ibn-ishaq"
+    ],
+    "sources": "- (no citations attached to this claim)"
+  },
+  {
+    "id": "3gFRv8Pwjls#00:19:32",
+    "en": "The sirah provides minimal information about Waraqah ibn Nawfal despite his crucial role in confirming Muhammad's prophethood.",
+    "ar": "السيرة لم تورد سوى حدوتة واحدة عن ورقة بن نوفل رغم أهميته البالغة في إقرار نبوة محمد.",
+    "claimType": "biographical",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Examine narrations involving Waraqah ibn Nawfal in Ibn Hisham and Sahih al-Bukhari.",
+    "topicIds": [
+      "sirah-ibn-ishaq"
+    ],
+    "sources": "- person:ورقة-بن-نوفل [unresolved] ورقة بن نوفل No corpus for citation type 'person'; entity handling arrives with stage 3."
+  },
+  {
+    "id": "3gFRv8Pwjls#00:21:05",
+    "en": "Ibn Ishaq's original original text vanished because later rulers discovered problematic content, leading Ibn Hisham to selectively censor it.",
+    "ar": "كتاب ابن إسحاق الأصلي اختفى لأن الحكام اكتشفوا فيه أموراً شائنة مما دفع ابن هشام لتهذيبه وحذف أشياء منه.",
+    "claimType": "historical",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Read Ibn Hisham's explicitly stated editorial principles in the introduction to Al-Sirah al-Nabawiyyah.",
+    "topicIds": [
+      "sirah-ibn-ishaq"
+    ],
+    "sources": "- person:ابن-هشام [unresolved] إبن هشام No corpus for citation type 'person'; entity handling arrives with stage 3."
+  },
+  {
+    "id": "4iJjjQ3DXiE#00:04:24",
+    "en": "The speaker claims that Theodor Nöldeke arranged the surahs of the Qur'an chronologically by revelation, dividing the Meccan period into three distinct stages.",
+    "ar": "يدعي المتحدث أن تيودور نولدكه رتب سور القرآن حسب النزول وقسم المرحلة المكية إلى ثلاث مراحل متميزة.",
+    "claimType": "textual",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Verify Nöldeke's 'Geschichte des Qorans' regarding his three-stage division of Meccan surahs.",
+    "topicIds": [
+      "quran-textual-transmission-formation-and-chronology"
+    ],
+    "sources": "- book:geschichte-des-qorans-تاريخ-القران [unresolved] كتاب لمستشرق ألماني اسمه نولدكه... اسمه 'تاريخ القرآن' No corpus for citation type 'book'; entity handling arrives with stage 3."
+  },
+  {
+    "id": "4iJjjQ3DXiE#00:06:39",
+    "en": "The speaker claims Christoph Luxenberg identified over 1,250 words in the Qur'an derived from the Syriac language that were misunderstood when translated into Arabic.",
+    "ar": "يدعي المتحدث أن كريستوف لوكسنبرغ اكتشف ما يزيد عن 1250 كلمة في القرآن متأخذة من اللغة السريانية وأسيء فهمها عند ترجمتها للعربية.",
+    "claimType": "linguistic",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Check Christoph Luxenberg's 'Die syro-aramäische Lesart des Koran' for the claim of 1,250 Syriac-derived words.",
+    "topicIds": [
+      "earlier-religious-parallels-syriac-aramaic-philology",
+      "quran-textual-transmission-syro-aramaic-philology"
+    ],
+    "sources": "- person:باحث-هو-من-اصول-لبنانية-لكنه-يكتب-تحت-اسم-كريستوف-لوكسنبرغ [unresolved] باحث هو من أصول لبنانية، لكنه يكتب تحت اسم كريستوف لوكسنبرغ No corpus for citation type 'person'; entity handling arrives with stage 3.\n- book:die-syro-aramäische-lesart-des-koran-القراءة [unresolved] القراءة السريانية الآرامية للقرآن No corpus for citation type 'book'; entity handling arrives with stage 3."
+  },
+  {
+    "id": "4iJjjQ3DXiE#00:09:22",
+    "en": "The speaker claims Jalal al-Din al-Suyuti documented a large list of words of Persian and Syriac origin in his book 'al-Itqan fi 'Ulum al-Qur'an'.",
+    "ar": "يدعي المتحدث أن جلال الدين السيوطي أورد قائمة كبيرة جدًا لكلمات ذات أصول فارسية وسريانية في كتابه 'الإتقان في علوم القرآن'.",
+    "claimType": "textual",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Check al-Suyuti's 'al-Itqan fi 'Ulum al-Qur'an' for sections discussing foreign vocabulary (al-mu'arrab).",
+    "topicIds": [
+      "quran-textual-transmission-syro-aramaic-philology"
+    ],
+    "sources": "- book:الاتقان-في-علوم-القران [unresolved] السيوطي كان عامل 'الإتقان في علوم القرآن' No corpus for citation type 'book'; entity handling arrives with stage 3."
+  },
+  {
+    "id": "4iJjjQ3DXiE#00:12:09",
+    "en": "The speaker claims 'hur 'in' in Syriac refers to white crystal grapes rather than virgins, and that 'zawwajnāhum' was originally unpointed 'rawwaḥnāhum' (we refreshed them).",
+    "ar": "يدعي المتحدث أن 'حور عين' بالسريانية تعني عنبًا أبيض كالكربستال وليس حوريات، وأن 'زوجناهم' كانت في الأصل بدون نقط 'روحناهم'.",
+    "claimType": "linguistic",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Check Christoph Luxenberg's argument regarding 'hur 'in' and 'rawwahnahum' in 'Die syro-aramäische Lesart des Koran'.",
+    "topicIds": [
+      "earlier-religious-parallels-syriac-aramaic-philology",
+      "quran-textual-transmission-syro-aramaic-philology"
+    ],
+    "sources": "- quran:44:54 [verified] وزوجناهم بحور عين 44:54"
+  },
+  {
+    "id": "4iJjjQ3DXiE#00:14:00",
+    "en": "The speaker claims the early Hijazi manuscript found in the Amr ibn al-Aas mosque (BNF 328) dates to the late 7th or early 8th century (Abdul Malik / Al-Walid era) and lacks all dotting and alif-medd.",
+    "ar": "يدعي المتحدث أن مخطوطة مسجد عمرو بن العاص بالخط الحجازي (المحفوظة بالمكتبة الوطنية بباريس) ترجع لعصر عبد الملك أو الوليد بن عبد الملك وتخلو تمامًا من النقط وألفات المد.",
+    "claimType": "historical",
+    "checkability": "primary-source-checkable",
+    "verificationNote": "Check codex Arabe 328a/b at the Bibliothèque nationale de France regarding script style, paleography, and radio-carbon dating.",
+    "topicIds": [
+      "quran-textual-transmission-manuscripts-and-dating"
+    ],
+    "sources": "- quran:39:1 [located] بداية سورة الزمر 'بسم الله الرحمن الرحيم تنزيل الكتاب' 39:1"
+  }
+]

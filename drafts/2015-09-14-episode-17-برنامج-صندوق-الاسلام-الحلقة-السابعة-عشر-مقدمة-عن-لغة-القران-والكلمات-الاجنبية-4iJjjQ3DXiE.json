@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "videoId": "4iJjjQ3DXiE",
+  "videoUrl": "https://www.youtube.com/watch?v=4iJjjQ3DXiE",
+  "videoTitle": "Episode 17 برنامج صندوق الإسلام - الحلقة السابعة عشر/ مقدمة عن لغة القرآن والكلمات الأجنبية بها",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150914",
+  "extractedAt": "2026-08-12T14:01:23+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Hamed Abdel-Samad discusses the textual evolution of the Qur'an, arguing that historical manuscripts and linguistic studies demonstrate changes, errors, and foreign loanwords rather than a unchanged text preserved from the Prophet's era. He highlights Theodor Nöldeke's chronological organization of surahs and Christoph Luxenberg's Syro-Aramaic reading of the Qur'an, which reinterprets key terms like quran, furqan, and hur 'in. Furthermore, he examines early manuscripts from the BNF, Samarkand, and the Al-Hussein Mosque to argue that early Arabic script lacked dots and diacritics, allowing multiple readings and debunking traditional claims that these represent original Uthmanic codices.",
+  "summaryAr": "يناقش حامد عبد الصمد التطور النصي للقرآن، محاججًا بأن المخطوطات التاريخية والدراسات اللغوية تكشف عن وجود تغييرات وأخطاء وكلمات أجنبية مستعارة، خلافًا للادعاء الشائع بإن النص محفوظ بدون أي تغيير منذ عصر النبي. ويسلط الضوء على كتاب تيودور نولدكه في ترتيب السور حسب النزول، وعلى أطروحة كريستوف لوكسنبرغ في القراءة السريانية الآرامية للقرآن والتي تعيد تفسير مصطلحات مثل قرآن وفرقان وحور عين. كما يستعرض مخطوطات قديمة من المكتبة الوطنية بباريس وسمرقند والمشهد الحسيني للتدليل على أن الكتابة المبكرة كانت خالية من النقاط وحروف المد، مما فتح المجال لاختلاف القراءات، مفندًا المزاعم بوجود مصاحف عثمانية حقيقية بينها.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:29",
+      "stepEn": "Introduces the episode topic as a critical examination of the Qur'an's text, history, and manuscripts, arguing it underwent human development like any other book.",
+      "stepAr": "تقديم موضوع الحلقة حول النقد العلمي للقرآن وتاريخه ومخطوطاته، والمحاججة بأنه تطور تطورًا طبيعيًا كأي كتاب آخر."
+    },
+    {
+      "timestamp": "00:02:31",
+      "stepEn": "Shares personal anecdote about encountering 'author unknown' on a university catalog card for the Qur'an, triggering a shift toward critical scholarship.",
+      "stepAr": "سرد تجربة شخصية في مكتبة جامعة أوجسبورج حيث وجد تصنيف القرآن تحت 'المؤلف غير معروف'، مما دفعه للبحث العلمي."
+    },
+    {
+      "timestamp": "00:04:24",
+      "stepEn": "Cites Theodor Nöldeke's 'Geschichte des Qorans' to show that rearranging the Qur'an chronologically illuminates Muhammad's psychological and textual evolution across three Meccan phases.",
+      "stepAr": "الاستدلال بكتاب تيودور نولدكه 'تاريخ القرآن' لإظهار أن إعادة ترتيب السور حسب النزول يوضح التطور النفسي والنصي لمحمد عبر ثلاث مراحل مكية."
+    },
+    {
+      "timestamp": "00:06:39",
+      "stepEn": "Presents Christoph Luxenberg's Syro-Aramaic reading, claiming over 1,250 Qur'anic words originate from Syriac and were reinterpreted or misunderstood in Arabic.",
+      "stepAr": "عرض نظرية كريستوف لوكسنبرغ في القراءة السريانية الآرامية، والادعاء بأن أكثر من 1250 كلمة في القرآن ذات أصول سريانية أسيء فهمها عند ترجمتها للعربية."
+    },
+    {
+      "timestamp": "00:09:22",
+      "stepEn": "Refers to al-Suyuti's 'Itqan' to note foreign words (Persian/Syriac) in the Qur'an, arguing that descriptions of Paradise stem from Persian myths.",
+      "stepAr": "الإشارة إلى كتاب 'الإتقان' للسيوطي لإثبات وجود كلمات أجنبية (فارسية وسريانية)، والادعاء بأن أوصاف الجنة متأخرة من أساطير فارسية."
+    },
+    {
+      "timestamp": "00:10:30",
+      "stepEn": "Explains how spellings like 'zakah', 'salah', and 'hayah' with a waw in Qur'anic orthography reflect their Syriac linguistic roots.",
+      "stepAr": "توضيح أن رسم كلمات مثل 'زكوة' و'صلوة' و'حيوة' بالواو في المصحف يعكس أصولها اللغوية السريانية."
+    },
+    {
+      "timestamp": "00:12:09",
+      "stepEn": "Argues that 'hur 'in' originally meant white grapes in Syriac rather than heavenly virgins, and that 'zawwajnāhum' was originally 'rawwaḥnāhum' due to lack of dotting.",
+      "stepAr": "المحاججة بأن 'حور عين' تعني في السريانية عنبًا أبيض وليس حوريات، وأن 'زوجناهم' كانت في الأصل 'روحناهم' بسبب غياب التنقيط."
+    },
+    {
+      "timestamp": "00:14:00",
+      "stepEn": "Examines early Hijazi manuscript BNF 328 and the Samarkand manuscript to demonstrate that early Qur'anic script lacked dots and alifs, permitting fluid readings.",
+      "stepAr": "فحص مخطوطة المكتبة الوطنية بباريس ومخطوطة سمرقند لبيان أن الخط المبكر كان خاليًا من النقاط والألفات، مما سمح بتعدد القراءات."
+    },
+    {
+      "timestamp": "00:16:54",
+      "stepEn": "Cites Luxenberg's proposed correction of Surah Yusuf 12:16 ('isha'an to gishshan) and the reinterpretation of Surah al-Qadr as a Syriac Christmas hymn.",
+      "stepAr": "تقديم تصحيح لوكسنبرغ المقترح لآية سورة يوسف (من عشاءً إلى غشًا) وتفسير سورة القدر كترنيمة سريانية لميلاد المسيح."
+    },
+    {
+      "timestamp": "00:19:50",
+      "stepEn": "Challenges claims regarding the Al-Hussein Mosque Qur'an manuscript being an original Uthmanic codex, attributing it to a much later period (9th century) based on its Kufic script.",
+      "stepAr": "التشكيك في نسبة مخطوطة المشهد الحسيني إلى عثمان بن عفان، والتأكيد على أنها تعود للقرن التاسع بناءً على الخط الكوفي."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:29",
+      "claimEn": "The speaker claims that the Qur'an as a manuscript and codex underwent natural historical development, modification, and changes in language until reaching its current Uthmanic form.",
+      "claimAr": "يدعي المتحدث أن القرآن كمصحف ومخطوطة تطور تطورًا طبيعيًا وتعدل وتبدل وتطورت لغته حتى وصل إلى شكل مصحف عثمان الحالي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check historical and manuscript evidence regarding the standardization and transmission history of the Qur'anic text."
+    },
+    {
+      "timestamp": "00:04:24",
+      "claimEn": "The speaker claims that Theodor Nöldeke arranged the surahs of the Qur'an chronologically by revelation, dividing the Meccan period into three distinct stages.",
+      "claimAr": "يدعي المتحدث أن تيودور نولدكه رتب سور القرآن حسب النزول وقسم المرحلة المكية إلى ثلاث مراحل متميزة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Nöldeke's 'Geschichte des Qorans' regarding his three-stage division of Meccan surahs."
+    },
+    {
+      "timestamp": "00:06:39",
+      "claimEn": "The speaker claims Christoph Luxenberg identified over 1,250 words in the Qur'an derived from the Syriac language that were misunderstood when translated into Arabic.",
+      "claimAr": "يدعي المتحدث أن كريستوف لوكسنبرغ اكتشف ما يزيد عن 1250 كلمة في القرآن متأخذة من اللغة السريانية وأسيء فهمها عند ترجمتها للعربية.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Christoph Luxenberg's 'Die syro-aramäische Lesart des Koran' for the claim of 1,250 Syriac-derived words."
+    },
+    {
+      "timestamp": "00:07:40",
+      "claimEn": "The speaker claims the word 'Qur'an' originates from the Syriac word 'Qaryana', which means liturgical reading book or church lectionary.",
+      "claimAr": "يدعي المتحدث أن كلمة 'قرآن' أصلها من الكلمة السريانية 'قريانا' التي تعني كتاب الصلوات المسيحية أو الليتورجيا.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify etymological links between 'Qur'an' and Syriac 'Qaryana' in comparative Semitic linguistics."
+    },
+    {
+      "timestamp": "00:08:20",
+      "claimEn": "The speaker claims the word 'Furqan' derives from Syriac 'Furqana' meaning salvation, a Judeo-Christian concept, rather than being a synonym for the Qur'an.",
+      "claimAr": "يدعي المتحدث أن كلمة 'فرقان' مشتقة من الكلمة السريانية 'فرقانو' وبمعنى الخلاص، وهو مفهوم يهودي مسيحي، وليست مرادفة للقرآن.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check etymology of 'Furqan' in Syriac and Arabic dictionaries and critical Qur'anic studies."
+    },
+    {
+      "timestamp": "00:09:22",
+      "claimEn": "The speaker claims Jalal al-Din al-Suyuti documented a large list of words of Persian and Syriac origin in his book 'al-Itqan fi 'Ulum al-Qur'an'.",
+      "claimAr": "يدعي المتحدث أن جلال الدين السيوطي أورد قائمة كبيرة جدًا لكلمات ذات أصول فارسية وسريانية في كتابه 'الإتقان في علوم القرآن'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check al-Suyuti's 'al-Itqan fi 'Ulum al-Qur'an' for sections discussing foreign vocabulary (al-mu'arrab)."
+    },
+    {
+      "timestamp": "00:09:50",
+      "claimEn": "The speaker claims Qur'anic descriptions of Paradise and terms such as 'firdaws', 'sundus', and 'istabraq' are borrowed from ancient Persian myths and Persian vocabulary.",
+      "claimAr": "يدعي المتحدث أن أوصاف الجنة في القرآن وكلمات مثل 'فردوس' و'سندس' و'إستبرق' مأخوذة من أساطير ومفردات فارسية قديمة.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check linguistic etymology of 'firdaws', 'sundus', and 'istabraq' from Old Persian."
+    },
+    {
+      "timestamp": "00:10:30",
+      "claimEn": "The speaker claims the spellings of zakah (زكوة), salah (صلوة), and hayah (حيوة) with a waw in the Qur me-ic script reflect Syriac writing conventions.",
+      "claimAr": "يدعي المتحدث أن كتابة كلمات زكاة وصلاة وحياة بالواو في المصحف يعود إلى كونها كلمات سريانية وتكتب بالسريانية بالواو.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check orthographic history of Arabic orthography and Syriac loanwords for waw spellings in Aramaic/Syriac."
+    },
+    {
+      "timestamp": "00:12:09",
+      "claimEn": "The speaker claims 'hur 'in' in Syriac refers to white crystal grapes rather than virgins, and that 'zawwajnāhum' was originally unpointed 'rawwaḥnāhum' (we refreshed them).",
+      "claimAr": "يدعي المتحدث أن 'حور عين' بالسريانية تعني عنبًا أبيض كالكربستال وليس حوريات، وأن 'زوجناهم' كانت في الأصل بدون نقط 'روحناهم'.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Christoph Luxenberg's argument regarding 'hur 'in' and 'rawwahnahum' in 'Die syro-aramäische Lesart des Koran'."
+    },
+    {
+      "timestamp": "00:14:00",
+      "claimEn": "The speaker claims the early Hijazi manuscript found in the Amr ibn al-Aas mosque (BNF 328) dates to the late 7th or early 8th century (Abdul Malik / Al-Walid era) and lacks all dotting and alif-medd.",
+      "claimAr": "يدعي المتحدث أن مخطوطة مسجد عمرو بن العاص بالخط الحجازي (المحفوظة بالمكتبة الوطنية بباريس) ترجع لعصر عبد الملك أو الوليد بن عبد الملك وتخلو تمامًا من النقط وألفات المد.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check codex Arabe 328a/b at the Bibliothèque nationale de France regarding script style, paleography, and radio-carbon dating."
+    },
+    {
+      "timestamp": "00:15:22",
+      "claimEn": "The speaker claims the Samarkand manuscript in Tashkent cannot be one of the original Uthmanic codices because it is written in Kufic script, which developed after Hijazi script.",
+      "claimAr": "يدعي المتحدث أن مخطوطة سمرقند بطشقند لا يمكن أن تكون من مصاحف عثمان لأنها مكتوبة بالخط الكوفي الذي ظهر بعد الخط الحجازي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check paleographical dating of the Samarkand Kufic Qur'an (Tashkent manuscript) in academic consensus."
+    },
+    {
+      "timestamp": "00:16:54",
+      "claimEn": "The speaker claims the word 'isha'an' in Surah Yusuf 12:16 is an orthographic error in Arabic and should read 'gishshan' (deceitfully).",
+      "claimAr": "يدعي المتحدث أن كلمة 'عشاءً' في آية سورة يوسف خطأ إملائي في العربية وأصلها 'غشًا'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Luxenberg's proposed emendation for Qur'an 12:16."
+    },
+    {
+      "timestamp": "00:18:23",
+      "claimEn": "The speaker claims Surah al-Qadr is originally an early Syro-Aramaic Christian hymn celebrating the Nativity of Christ rather than the revelation of the Qur'an.",
+      "claimAr": "يدعي المتحدث أن سورة القدر في الأصل ترنيمة مسيحية سريانية قديمة تتغنى بميلاد المسيح ولا علاقة لها بنزول القرآن.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Luxenberg's analysis of Surah al-Qadr in 'Christmas in the Koran' / Syro-Aramaic studies."
+    },
+    {
+      "timestamp": "00:19:50",
+      "claimEn": "The speaker claims the manuscript at the Al-Hussein Mosque / Central Library of Islamic Manuscripts in Cairo dates from at least the 9th century and is falsely presented as Uthman's personal codex.",
+      "claimAr": "يدعي المتحدث أن مخطوطة المشهد الحسيني تعود للقرن التاسع على الأقل وتمريرها على أنها مصحف عثمان مجرد نصب واحتيال.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check scholarly dating (e.g., François Déroche, Gerd-R. Puin) of the Mashhad al-Husseini Qur'an manuscript."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "book",
+      "timestamp": "00:04:24",
+      "asStatedInVideo": "كتاب لمستشرق ألماني اسمه نولدكه... اسمه 'تاريخ القرآن'",
+      "workTitle": "Geschichte des Qorans (تاريخ القرآن)",
+      "author": "Theodor Nöldeke",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:39",
+      "asStatedInVideo": "باحث هو من أصول لبنانية، لكنه يكتب تحت اسم كريستوف لوكسنبرغ",
+      "author": "Christoph Luxenberg",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:06:39",
+      "asStatedInVideo": "القراءة السريانية الآرامية للقرآن",
+      "workTitle": "Die syro-aramäische Lesart des Koran (القراءة السريانية الآرامية للقرآن)",
+      "author": "Christoph Luxenberg",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:20",
+      "asStatedInVideo": "سبحان الذي نزل الفرقان على عبده",
+      "locator": "25:1",
+      "quotedArabic": "تبارك الذي نزل الفرقان على عبده",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:20",
+      "asStatedInVideo": "سورة البقرة 'وإذ آتينا موسى الكتاب والفرقان لعلكم تهتدون'",
+      "locator": "2:53",
+      "quotedArabic": "وإذ آتينا موسى الكتاب والفرقان لعلكم تهتدون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:22",
+      "asStatedInVideo": "السيوطي كان عامل 'الإتقان في علوم القرآن'",
+      "workTitle": "الإتقان في علوم القرآن",
+      "author": "Jalal al-Din al-Suyuti",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:09",
+      "asStatedInVideo": "وزوجناهم بحور عين",
+      "locator": "44:54",
+      "quotedArabic": "وزوجناهم بحور عين",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:00",
+      "asStatedInVideo": "بداية سورة الزمر 'بسم الله الرحمن الرحيم تنزيل الكتاب'",
+      "locator": "39:1-2",
+      "quotedArabic": "تنزيل الكتاب",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:22",
+      "asStatedInVideo": "سورة مريم من الآية 11 لـ 14 'يا يحيى خذ الكتاب بقوة'",
+      "locator": "19:12",
+      "quotedArabic": "يا يحيى خذ الكتاب بقوة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:54",
+      "asStatedInVideo": "سورة يوسف 'وجاءوا أباهم عشاءً يبكون'",
+      "locator": "12:16",
+      "quotedArabic": "وجاءوا أباهم عشاء يبكون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:18:23",
+      "asStatedInVideo": "سورة القدر 'إنا أنزلناه في ليلة القدر وما أدراك ما ليلة القدر...'",
+      "locator": "97:1-5",
+      "quotedArabic": "إنا أنزلناه في ليلة القدر وما أدراك ما ليلة القدر ليلة القدر خير من ألف شهر تنزل الملائكة والروح فيها بإذن ربهم من كل أمر سلام هي حتى مطلع الفجر",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:50",
+      "asStatedInVideo": "فرن سوا دي روش في باريس",
+      "author": "François Déroche",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:50",
+      "asStatedInVideo": "جيرد بوين في ألمانيا",
+      "author": "Gerd-Rüdiger Puin",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "syro-aramaic-parallels",
+      "titleEn": "Syro-Aramaic Parallels",
+      "titleAr": "التوازي مع السريانية الآرامية",
+      "descriptionEn": "Linguistic, textual, and liturgical connections between Qur'anic Arabic vocabulary/phrases and Syro-Aramaic dialects.",
+      "descriptionAr": "الصلات اللغوية والنصية والليتورجية بين مفردات القرآن واللغة السريانية الآرامية.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The video focuses heavily on Syro-Aramaic readings of the Qur'an (Christoph Luxenberg's thesis), which represents a distinct durable subfield under earlier religious parallels alongside Zoroastrian parallels."
+    }
+  ]
+}

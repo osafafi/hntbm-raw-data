@@ -1,0 +1,367 @@
+{"timestamp": "2026-08-12T12:12:34+00:00", "event": "request_started", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:14:08+00:00", "event": "request_succeeded", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 118716, "cached_content_token_count": null, "candidates_token_count": 4584, "thoughts_token_count": 4588, "total_token_count": 127888}
+{"timestamp": "2026-08-12T12:14:10+00:00", "event": "request_started", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:14:32+00:00", "event": "request_failed", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:14:34+00:00", "event": "request_started", "videoId": "3gFRv8Pwjls", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:15:18+00:00", "event": "request_failed", "videoId": "3gFRv8Pwjls", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:15:20+00:00", "event": "request_started", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:15:36+00:00", "event": "request_failed", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:15:38+00:00", "event": "request_started", "videoId": "4iJjjQ3DXiE", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:17:07+00:00", "event": "request_succeeded", "videoId": "4iJjjQ3DXiE", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 117743, "cached_content_token_count": null, "candidates_token_count": 4516, "thoughts_token_count": 4616, "total_token_count": 126875}
+{"timestamp": "2026-08-12T12:17:09+00:00", "event": "request_started", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:17:28+00:00", "event": "request_failed", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:17:31+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:18:32+00:00", "event": "request_failed", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:18:34+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:19:57+00:00", "event": "request_failed", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:21:42+00:00", "event": "request_started", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:22:46+00:00", "event": "request_failed", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:22:48+00:00", "event": "request_started", "videoId": "3gFRv8Pwjls", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:24:15+00:00", "event": "request_succeeded", "videoId": "3gFRv8Pwjls", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 116279, "cached_content_token_count": null, "candidates_token_count": 4863, "thoughts_token_count": 5097, "total_token_count": 126239}
+{"timestamp": "2026-08-12T12:24:17+00:00", "event": "request_started", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:24:41+00:00", "event": "request_failed", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:24:43+00:00", "event": "request_started", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:25:03+00:00", "event": "request_failed", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:25:05+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:25:12+00:00", "event": "request_failed", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:25:14+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:25:33+00:00", "event": "request_failed", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:29:41+00:00", "event": "request_started", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:31:16+00:00", "event": "request_succeeded", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 119160, "cached_content_token_count": 113072, "candidates_token_count": 4986, "thoughts_token_count": 5182, "total_token_count": 129328}
+{"timestamp": "2026-08-12T12:31:18+00:00", "event": "request_started", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:31:43+00:00", "event": "request_failed", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:31:45+00:00", "event": "request_started", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:32:48+00:00", "event": "request_succeeded", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 123552, "cached_content_token_count": null, "candidates_token_count": 4543, "thoughts_token_count": 4765, "total_token_count": 132860}
+{"timestamp": "2026-08-12T12:32:51+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:34:33+00:00", "event": "request_failed", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:34:35+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:35:53+00:00", "event": "request_failed", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T12:36:07+00:00", "event": "request_started", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:37:28+00:00", "event": "request_succeeded", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 120193, "cached_content_token_count": null, "candidates_token_count": 4574, "thoughts_token_count": 4928, "total_token_count": 129695}
+{"timestamp": "2026-08-12T12:37:30+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:37:31+00:00", "event": "request_failed", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ClientError"}
+{"timestamp": "2026-08-12T12:37:33+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:37:33+00:00", "event": "request_failed", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ClientError"}
+{"timestamp": "2026-08-12T12:40:27+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:40:28+00:00", "event": "request_failed", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ClientError"}
+{"timestamp": "2026-08-12T12:40:29+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T12:40:30+00:00", "event": "request_failed", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ClientError"}
+{"timestamp": "2026-08-12T12:40:32+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T12:40:32+00:00", "event": "request_failed", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ClientError"}
+{"timestamp": "2026-08-12T12:40:33+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T12:40:33+00:00", "event": "request_failed", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ClientError"}
+{"timestamp": "2026-08-12T13:32:36+00:00", "event": "request_started", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.5-flash-lite", "attempt": 1}
+{"timestamp": "2026-08-12T13:33:14+00:00", "event": "request_succeeded", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.5-flash-lite", "attempt": 1, "prompt_token_count": 33840, "cached_content_token_count": null, "candidates_token_count": 5768, "thoughts_token_count": null, "total_token_count": 39608}
+{"timestamp": "2026-08-12T13:34:43+00:00", "event": "request_started", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T13:35:04+00:00", "event": "request_failed", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T13:35:05+00:00", "event": "request_started", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T13:36:01+00:00", "event": "request_succeeded", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "attempt": 2, "prompt_token_count": 33840, "cached_content_token_count": null, "candidates_token_count": 7441, "thoughts_token_count": null, "total_token_count": 41281}
+{"timestamp": "2026-08-12T13:41:09+00:00", "event": "request_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T13:42:14+00:00", "event": "request_succeeded", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 34934, "cached_content_token_count": null, "candidates_token_count": 7793, "thoughts_token_count": null, "total_token_count": 42727}
+{"timestamp": "2026-08-12T13:42:16+00:00", "event": "request_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T13:43:15+00:00", "event": "request_succeeded", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 33346, "cached_content_token_count": null, "candidates_token_count": 6465, "thoughts_token_count": null, "total_token_count": 39811}
+{"timestamp": "2026-08-12T13:57:20+00:00", "event": "extract_started", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T13:57:37+00:00", "event": "extract_succeeded", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "prompt_token_count": 5578, "cached_content_token_count": null, "candidates_token_count": 2668, "thoughts_token_count": null, "total_token_count": 8246}
+{"timestamp": "2026-08-12T13:58:48+00:00", "event": "extract_started", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T13:59:08+00:00", "event": "extract_succeeded", "videoId": "pDNhGKbIHIQ", "model": "gemini-3.6-flash", "prompt_token_count": 5751, "cached_content_token_count": null, "candidates_token_count": 3932, "thoughts_token_count": null, "total_token_count": 9683}
+{"timestamp": "2026-08-12T13:59:29+00:00", "event": "extract_started", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T13:59:54+00:00", "event": "extract_succeeded", "videoId": "CoqLRxWGbAg", "model": "gemini-3.6-flash", "prompt_token_count": 6160, "cached_content_token_count": null, "candidates_token_count": 5021, "thoughts_token_count": null, "total_token_count": 11181}
+{"timestamp": "2026-08-12T13:59:56+00:00", "event": "extract_started", "videoId": "3gFRv8Pwjls", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T14:00:22+00:00", "event": "extract_succeeded", "videoId": "3gFRv8Pwjls", "model": "gemini-3.6-flash", "prompt_token_count": 6042, "cached_content_token_count": null, "candidates_token_count": 4814, "thoughts_token_count": null, "total_token_count": 10856}
+{"timestamp": "2026-08-12T14:00:24+00:00", "event": "extract_started", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T14:00:51+00:00", "event": "extract_succeeded", "videoId": "-Q__-0N7B14", "model": "gemini-3.6-flash", "prompt_token_count": 5743, "cached_content_token_count": null, "candidates_token_count": 5401, "thoughts_token_count": null, "total_token_count": 11144}
+{"timestamp": "2026-08-12T14:00:53+00:00", "event": "extract_started", "videoId": "4iJjjQ3DXiE", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T14:01:23+00:00", "event": "extract_succeeded", "videoId": "4iJjjQ3DXiE", "model": "gemini-3.6-flash", "prompt_token_count": 5685, "cached_content_token_count": null, "candidates_token_count": 5761, "thoughts_token_count": null, "total_token_count": 11446}
+{"timestamp": "2026-08-12T14:01:25+00:00", "event": "extract_started", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T14:01:53+00:00", "event": "extract_succeeded", "videoId": "clCug1P_l_I", "model": "gemini-3.6-flash", "prompt_token_count": 5712, "cached_content_token_count": null, "candidates_token_count": 5619, "thoughts_token_count": null, "total_token_count": 11331}
+{"timestamp": "2026-08-12T14:01:55+00:00", "event": "extract_started", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T14:02:37+00:00", "event": "extract_succeeded", "videoId": "jgkEOr6bon0", "model": "gemini-3.6-flash", "prompt_token_count": 8952, "cached_content_token_count": null, "candidates_token_count": 8618, "thoughts_token_count": null, "total_token_count": 17570}
+{"timestamp": "2026-08-12T14:02:39+00:00", "event": "extract_started", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T14:03:08+00:00", "event": "extract_succeeded", "videoId": "fuPrisPa_F8", "model": "gemini-3.6-flash", "prompt_token_count": 7630, "cached_content_token_count": null, "candidates_token_count": 5745, "thoughts_token_count": null, "total_token_count": 13375}
+{"timestamp": "2026-08-12T15:28:16+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:28:16+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:28:17+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:28:17+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:29:57+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:29:57+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:29:59+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:29:59+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:30:01+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:30:01+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:30:02+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:30:02+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:30:18+00:00", "event": "request_started", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:30:18+00:00", "event": "request_failed", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:30:19+00:00", "event": "request_started", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:30:19+00:00", "event": "request_failed", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:30:34+00:00", "event": "request_started", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:30:34+00:00", "event": "request_failed", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:30:35+00:00", "event": "request_started", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:30:35+00:00", "event": "request_failed", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "UnicodeEncodeError"}
+{"timestamp": "2026-08-12T15:32:09+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:32:33+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:32:34+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:32:57+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:32:59+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:33:20+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:33:22+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:33:44+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:33:46+00:00", "event": "request_started", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:34:20+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:34:45+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:34:47+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:35:08+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:35:10+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:35:30+00:00", "event": "request_failed", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:35:35+00:00", "event": "request_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:36:38+00:00", "event": "request_succeeded", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "attempt": 4, "prompt_token_count": 41648, "cached_content_token_count": null, "candidates_token_count": 5991, "thoughts_token_count": null, "total_token_count": 47639}
+{"timestamp": "2026-08-12T15:36:57+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:37:22+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:37:23+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:37:55+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:37:58+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:38:23+00:00", "event": "request_failed", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:38:27+00:00", "event": "request_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:39:18+00:00", "event": "request_succeeded", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "attempt": 4, "prompt_token_count": 41402, "cached_content_token_count": null, "candidates_token_count": 5178, "thoughts_token_count": null, "total_token_count": 46580}
+{"timestamp": "2026-08-12T15:39:20+00:00", "event": "request_started", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:40:29+00:00", "event": "request_succeeded", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 41756, "cached_content_token_count": null, "candidates_token_count": 9142, "thoughts_token_count": null, "total_token_count": 50898}
+{"timestamp": "2026-08-12T15:40:31+00:00", "event": "request_started", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:41:54+00:00", "event": "request_succeeded", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 42399, "cached_content_token_count": null, "candidates_token_count": 10606, "thoughts_token_count": null, "total_token_count": 53005}
+{"timestamp": "2026-08-12T15:42:07+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:42:31+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:42:33+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:42:50+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:42:52+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:43:10+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:43:15+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:43:34+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 4, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:43:43+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 5}
+{"timestamp": "2026-08-12T15:44:05+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 5, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:44:21+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 6}
+{"timestamp": "2026-08-12T15:44:38+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 6, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:44:54+00:00", "event": "request_started", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:45:16+00:00", "event": "request_failed", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:45:18+00:00", "event": "request_started", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:45:36+00:00", "event": "request_failed", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:45:38+00:00", "event": "request_started", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:45:55+00:00", "event": "request_failed", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:45:59+00:00", "event": "request_started", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:47:07+00:00", "event": "request_succeeded", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "attempt": 4, "prompt_token_count": 42981, "cached_content_token_count": null, "candidates_token_count": 9118, "thoughts_token_count": null, "total_token_count": 52099}
+{"timestamp": "2026-08-12T15:47:22+00:00", "event": "request_started", "videoId": "YnKrE35tv-Y", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:48:23+00:00", "event": "request_succeeded", "videoId": "YnKrE35tv-Y", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 42390, "cached_content_token_count": null, "candidates_token_count": 7850, "thoughts_token_count": null, "total_token_count": 50240}
+{"timestamp": "2026-08-12T15:48:44+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:49:05+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:49:06+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:49:24+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:49:26+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:49:45+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:49:50+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:50:13+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 4, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:50:22+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 5}
+{"timestamp": "2026-08-12T15:50:41+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 5, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:50:58+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 6}
+{"timestamp": "2026-08-12T15:51:16+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 6, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:51:28+00:00", "event": "request_started", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:51:50+00:00", "event": "request_failed", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:51:51+00:00", "event": "request_started", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:52:06+00:00", "event": "request_failed", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:52:09+00:00", "event": "request_started", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:52:31+00:00", "event": "request_failed", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:52:36+00:00", "event": "request_started", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:52:48+00:00", "event": "request_failed", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 4, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:52:57+00:00", "event": "request_started", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 5}
+{"timestamp": "2026-08-12T15:54:31+00:00", "event": "request_succeeded", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "attempt": 5, "prompt_token_count": 42930, "cached_content_token_count": null, "candidates_token_count": 7184, "thoughts_token_count": null, "total_token_count": 50114}
+{"timestamp": "2026-08-12T15:54:44+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:55:07+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:55:08+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T15:55:28+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 2, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:55:30+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 3}
+{"timestamp": "2026-08-12T15:55:50+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 3, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:55:54+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 4}
+{"timestamp": "2026-08-12T15:56:12+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 4, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:56:21+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 5}
+{"timestamp": "2026-08-12T15:56:39+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 5, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:56:55+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 6}
+{"timestamp": "2026-08-12T15:57:14+00:00", "event": "request_failed", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 6, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:57:47+00:00", "event": "request_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 7}
+{"timestamp": "2026-08-12T15:58:59+00:00", "event": "request_succeeded", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "attempt": 7, "prompt_token_count": 41582, "cached_content_token_count": null, "candidates_token_count": 10045, "thoughts_token_count": null, "total_token_count": 51627}
+{"timestamp": "2026-08-12T15:59:01+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-12T15:59:19+00:00", "event": "request_failed", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 1, "errorType": "ServerError"}
+{"timestamp": "2026-08-12T15:59:21+00:00", "event": "request_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 2}
+{"timestamp": "2026-08-12T16:00:44+00:00", "event": "request_succeeded", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "attempt": 2, "prompt_token_count": 41615, "cached_content_token_count": null, "candidates_token_count": 10643, "thoughts_token_count": null, "total_token_count": 52258}
+{"timestamp": "2026-08-12T16:01:31+00:00", "event": "extract_started", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:01:52+00:00", "event": "extract_succeeded", "videoId": "CyOCQmE0WL0", "model": "gemini-3.6-flash", "prompt_token_count": 7346, "cached_content_token_count": null, "candidates_token_count": 4282, "thoughts_token_count": null, "total_token_count": 11628}
+{"timestamp": "2026-08-12T16:01:54+00:00", "event": "extract_started", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:02:22+00:00", "event": "extract_succeeded", "videoId": "LrMRyQnRRLM", "model": "gemini-3.6-flash", "prompt_token_count": 6528, "cached_content_token_count": null, "candidates_token_count": 5642, "thoughts_token_count": null, "total_token_count": 12170}
+{"timestamp": "2026-08-12T16:02:24+00:00", "event": "extract_started", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:02:52+00:00", "event": "extract_succeeded", "videoId": "2CkVhyHpf8o", "model": "gemini-3.6-flash", "prompt_token_count": 10494, "cached_content_token_count": null, "candidates_token_count": 6562, "thoughts_token_count": null, "total_token_count": 17056}
+{"timestamp": "2026-08-12T16:02:54+00:00", "event": "extract_started", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:03:25+00:00", "event": "extract_succeeded", "videoId": "i2MwsFSwu-8", "model": "gemini-3.6-flash", "prompt_token_count": 11962, "cached_content_token_count": null, "candidates_token_count": 6259, "thoughts_token_count": null, "total_token_count": 18221}
+{"timestamp": "2026-08-12T16:03:27+00:00", "event": "extract_started", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:04:04+00:00", "event": "extract_succeeded", "videoId": "N-ot55_jJ2w", "model": "gemini-3.6-flash", "prompt_token_count": 11396, "cached_content_token_count": null, "candidates_token_count": 7763, "thoughts_token_count": null, "total_token_count": 19159}
+{"timestamp": "2026-08-12T16:04:06+00:00", "event": "extract_started", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:04:37+00:00", "event": "extract_succeeded", "videoId": "AxCfvsuJcdQ", "model": "gemini-3.6-flash", "prompt_token_count": 10477, "cached_content_token_count": null, "candidates_token_count": 6965, "thoughts_token_count": null, "total_token_count": 17442}
+{"timestamp": "2026-08-12T16:04:39+00:00", "event": "extract_started", "videoId": "YnKrE35tv-Y", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:05:07+00:00", "event": "extract_succeeded", "videoId": "YnKrE35tv-Y", "model": "gemini-3.6-flash", "prompt_token_count": 9201, "cached_content_token_count": null, "candidates_token_count": 6115, "thoughts_token_count": null, "total_token_count": 15316}
+{"timestamp": "2026-08-12T16:05:09+00:00", "event": "extract_started", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:05:37+00:00", "event": "extract_succeeded", "videoId": "9QZIF9vlKvU", "model": "gemini-3.6-flash", "prompt_token_count": 11993, "cached_content_token_count": null, "candidates_token_count": 5724, "thoughts_token_count": null, "total_token_count": 17717}
+{"timestamp": "2026-08-12T16:05:39+00:00", "event": "extract_started", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash"}
+{"timestamp": "2026-08-12T16:06:02+00:00", "event": "extract_succeeded", "videoId": "bSxvISZ862s", "model": "gemini-3.6-flash", "prompt_token_count": 8533, "cached_content_token_count": null, "candidates_token_count": 4708, "thoughts_token_count": null, "total_token_count": 13241}
+{"timestamp": "2026-08-13T04:40:26+00:00", "event": "topic_split_started", "topicId": "quran-textual-transmission"}
+{"timestamp": "2026-08-13T04:42:59+00:00", "event": "topic_split_succeeded", "topicId": "quran-textual-transmission", "backend": "codex", "attempts": 1, "durationMs": 150010}
+{"timestamp": "2026-08-13T04:42:59+00:00", "event": "topic_split_started", "topicId": "sirah"}
+{"timestamp": "2026-08-13T04:44:40+00:00", "event": "topic_split_succeeded", "topicId": "sirah", "backend": "codex", "attempts": 1, "durationMs": 97562}
+{"timestamp": "2026-08-13T04:44:40+00:00", "event": "topic_split_started", "topicId": "earlier-religious-parallels"}
+{"timestamp": "2026-08-13T04:46:03+00:00", "event": "topic_split_succeeded", "topicId": "earlier-religious-parallels", "backend": "codex", "attempts": 1, "durationMs": 79817}
+{"timestamp": "2026-08-13T04:46:03+00:00", "event": "topic_split_started", "topicId": "quran-historical-claims"}
+{"timestamp": "2026-08-13T04:46:59+00:00", "event": "topic_split_succeeded", "topicId": "quran-historical-claims", "backend": "codex", "attempts": 1, "durationMs": 52259}
+{"timestamp": "2026-08-13T04:46:59+00:00", "event": "topic_split_started", "topicId": "quran"}
+{"timestamp": "2026-08-13T04:48:00+00:00", "event": "topic_split_succeeded", "topicId": "quran", "backend": "codex", "attempts": 1, "durationMs": 58587}
+{"timestamp": "2026-08-13T05:21:53+00:00", "event": "research_started", "claimId": "-Q__-0N7B14#00:02:50"}
+{"timestamp": "2026-08-13T05:24:37+00:00", "event": "research_succeeded", "claimId": "-Q__-0N7B14#00:02:50", "backend": "claude", "attempts": 1, "durationMs": 164229}
+{"timestamp": "2026-08-13T05:24:37+00:00", "event": "research_started", "claimId": "-Q__-0N7B14#00:04:07"}
+{"timestamp": "2026-08-13T05:27:29+00:00", "event": "research_succeeded", "claimId": "-Q__-0N7B14#00:04:07", "backend": "claude", "attempts": 1, "durationMs": 171463}
+{"timestamp": "2026-08-13T05:27:29+00:00", "event": "research_started", "claimId": "-Q__-0N7B14#00:08:06"}
+{"timestamp": "2026-08-13T05:31:38+00:00", "event": "research_succeeded", "claimId": "-Q__-0N7B14#00:08:06", "backend": "claude", "attempts": 1, "durationMs": 249551}
+{"timestamp": "2026-08-13T11:44:06+00:00", "event": "request_started", "videoId": "vyqaohY3gKY", "model": "gemini-3.6-flash", "attempt": 1}
+{"timestamp": "2026-08-13T11:44:54+00:00", "event": "request_succeeded", "videoId": "vyqaohY3gKY", "model": "gemini-3.6-flash", "attempt": 1, "prompt_token_count": 28216, "cached_content_token_count": null, "candidates_token_count": 5179, "thoughts_token_count": null, "total_token_count": 33395}
+{"timestamp": "2026-08-13T11:47:29+00:00", "event": "extract_started", "videoId": "vyqaohY3gKY"}
+{"timestamp": "2026-08-13T11:56:07+00:00", "event": "extract_succeeded", "videoId": "vyqaohY3gKY", "backend": "claude", "attempts": 1, "durationMs": 517793}
+{"timestamp": "2026-08-13T11:56:10+00:00", "event": "topic_split_started", "topicId": "quran-scientific-claims"}
+{"timestamp": "2026-08-13T11:57:41+00:00", "event": "topic_split_succeeded", "topicId": "quran-scientific-claims", "backend": "claude", "attempts": 1, "durationMs": 91892}
+{"timestamp": "2026-08-13T11:57:41+00:00", "event": "topic_split_started", "topicId": "quran-lexical-and-interpretive-questions"}
+{"timestamp": "2026-08-13T11:58:29+00:00", "event": "topic_split_succeeded", "topicId": "quran-lexical-and-interpretive-questions", "backend": "claude", "attempts": 1, "durationMs": 47999}
+{"timestamp": "2026-08-14T05:57:06+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T05:58:16+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 70672}
+{"timestamp": "2026-08-14T05:58:16+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T05:58:47+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 31155}
+{"timestamp": "2026-08-14T05:58:47+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T05:59:24+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 36517}
+{"timestamp": "2026-08-14T05:59:24+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:00:25+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 60886}
+{"timestamp": "2026-08-14T06:00:25+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:01:10+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 45563}
+{"timestamp": "2026-08-14T06:01:10+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:02:00+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 49401}
+{"timestamp": "2026-08-14T06:02:00+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:02:53+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 53173}
+{"timestamp": "2026-08-14T06:02:53+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:03:29+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 35611}
+{"timestamp": "2026-08-14T06:03:29+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:04:03+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 34177}
+{"timestamp": "2026-08-14T06:04:03+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:04:52+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 48717}
+{"timestamp": "2026-08-14T06:04:52+00:00", "event": "premise_classify_started", "claims": 30}
+{"timestamp": "2026-08-14T06:05:44+00:00", "event": "premise_classify_succeeded", "claims": 30, "backend": "claude", "attempts": 1, "durationMs": 52287}
+{"timestamp": "2026-08-14T06:05:44+00:00", "event": "argument_build_started", "argumentId": "arg:death-of-muhammad-theories"}
+{"timestamp": "2026-08-14T06:06:35+00:00", "event": "argument_build_succeeded", "argumentId": "arg:death-of-muhammad-theories", "backend": "claude", "attempts": 1, "durationMs": 50596}
+{"timestamp": "2026-08-14T06:06:35+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels"}
+{"timestamp": "2026-08-14T06:07:20+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels", "backend": "claude", "attempts": 1, "durationMs": 45781}
+{"timestamp": "2026-08-14T06:07:20+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-ancient-near-eastern-cosmogony"}
+{"timestamp": "2026-08-14T06:07:46+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-ancient-near-eastern-cosmogony", "backend": "claude", "attempts": 1, "durationMs": 26003}
+{"timestamp": "2026-08-14T06:07:46+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-christian-quranic-narratives"}
+{"timestamp": "2026-08-14T06:08:27+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-christian-quranic-narratives", "backend": "claude", "attempts": 1, "durationMs": 40595}
+{"timestamp": "2026-08-14T06:08:27+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-luqman-ahiqar"}
+{"timestamp": "2026-08-14T06:08:56+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-luqman-ahiqar", "backend": "claude", "attempts": 1, "durationMs": 29563}
+{"timestamp": "2026-08-14T06:08:56+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-syriac-aramaic-philology"}
+{"timestamp": "2026-08-14T06:09:47+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-syriac-aramaic-philology", "backend": "claude", "attempts": 1, "durationMs": 50726}
+{"timestamp": "2026-08-14T06:09:47+00:00", "event": "argument_build_started", "argumentId": "arg:hadith"}
+{"timestamp": "2026-08-14T06:10:36+00:00", "event": "argument_build_succeeded", "argumentId": "arg:hadith", "backend": "claude", "attempts": 1, "durationMs": 49062}
+{"timestamp": "2026-08-14T06:10:36+00:00", "event": "argument_build_started", "argumentId": "arg:hadith-ethical-controversies"}
+{"timestamp": "2026-08-14T06:11:10+00:00", "event": "argument_build_succeeded", "argumentId": "arg:hadith-ethical-controversies", "backend": "claude", "attempts": 1, "durationMs": 33339}
+{"timestamp": "2026-08-14T06:11:10+00:00", "event": "argument_build_started", "argumentId": "arg:jewish-rabbinic-parallels"}
+{"timestamp": "2026-08-14T06:11:39+00:00", "event": "argument_build_succeeded", "argumentId": "arg:jewish-rabbinic-parallels", "backend": "claude", "attempts": 1, "durationMs": 28864}
+{"timestamp": "2026-08-14T06:11:39+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims"}
+{"timestamp": "2026-08-14T06:12:11+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims", "backend": "claude", "attempts": 1, "durationMs": 32962}
+{"timestamp": "2026-08-14T06:12:11+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims-elephant-narrative"}
+{"timestamp": "2026-08-14T06:12:42+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims-elephant-narrative", "backend": "claude", "attempts": 1, "durationMs": 30868}
+{"timestamp": "2026-08-14T06:12:42+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims-kahf-narratives"}
+{"timestamp": "2026-08-14T06:13:13+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims-kahf-narratives", "backend": "claude", "attempts": 1, "durationMs": 30692}
+{"timestamp": "2026-08-14T06:13:13+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims-narrative-origins"}
+{"timestamp": "2026-08-14T06:13:43+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims-narrative-origins", "backend": "claude", "attempts": 1, "durationMs": 30321}
+{"timestamp": "2026-08-14T06:13:43+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims-revelation-context"}
+{"timestamp": "2026-08-14T06:14:13+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims-revelation-context", "backend": "claude", "attempts": 1, "durationMs": 29159}
+{"timestamp": "2026-08-14T06:14:13+00:00", "event": "argument_build_started", "argumentId": "arg:quran-internal-tensions"}
+{"timestamp": "2026-08-14T06:14:54+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-internal-tensions", "backend": "claude", "attempts": 1, "durationMs": 41687}
+{"timestamp": "2026-08-14T06:14:54+00:00", "event": "argument_build_started", "argumentId": "arg:quran-lexical-and-interpretive-questions-cosmological-vocabulary"}
+{"timestamp": "2026-08-14T06:15:27+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-lexical-and-interpretive-questions-cosmological-vocabulary", "backend": "claude", "attempts": 1, "durationMs": 33158}
+{"timestamp": "2026-08-14T06:15:27+00:00", "event": "argument_build_started", "argumentId": "arg:quran-lexical-and-interpretive-questions-creation-fluid-verse"}
+{"timestamp": "2026-08-14T06:15:54+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-lexical-and-interpretive-questions-creation-fluid-verse", "backend": "claude", "attempts": 1, "durationMs": 27041}
+{"timestamp": "2026-08-14T06:15:54+00:00", "event": "argument_build_started", "argumentId": "arg:quran-lexical-and-interpretive-questions-miracle-verse-glosses"}
+{"timestamp": "2026-08-14T06:16:18+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-lexical-and-interpretive-questions-miracle-verse-glosses", "backend": "claude", "attempts": 1, "durationMs": 23149}
+{"timestamp": "2026-08-14T06:16:18+00:00", "event": "argument_build_started", "argumentId": "arg:quran-lexical-and-interpretive-questions-narrative-terms"}
+{"timestamp": "2026-08-14T06:16:44+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-lexical-and-interpretive-questions-narrative-terms", "backend": "claude", "attempts": 1, "durationMs": 26661}
+{"timestamp": "2026-08-14T06:16:44+00:00", "event": "argument_build_started", "argumentId": "arg:quran-psychological-origin"}
+{"timestamp": "2026-08-14T06:17:10+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-psychological-origin", "backend": "claude", "attempts": 1, "durationMs": 25676}
+{"timestamp": "2026-08-14T06:17:10+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-cosmology-and-creation"}
+{"timestamp": "2026-08-14T06:18:00+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-cosmology-and-creation", "backend": "claude", "attempts": 1, "durationMs": 50360}
+{"timestamp": "2026-08-14T06:18:00+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-earth-and-natural-phenomena"}
+{"timestamp": "2026-08-14T06:18:42+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-earth-and-natural-phenomena", "backend": "claude", "attempts": 1, "durationMs": 42075}
+{"timestamp": "2026-08-14T06:18:42+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-embryology-and-human-creation"}
+{"timestamp": "2026-08-14T06:19:22+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-embryology-and-human-creation", "backend": "claude", "attempts": 1, "durationMs": 39954}
+{"timestamp": "2026-08-14T06:19:22+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-method-and-criteria"}
+{"timestamp": "2026-08-14T06:19:48+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-method-and-criteria", "backend": "claude", "attempts": 1, "durationMs": 25309}
+{"timestamp": "2026-08-14T06:19:48+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-pharaoh-body"}
+{"timestamp": "2026-08-14T06:20:07+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-pharaoh-body", "backend": "claude", "attempts": 1, "durationMs": 19469}
+{"timestamp": "2026-08-14T06:20:07+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission"}
+{"timestamp": "2026-08-14T06:20:26+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission", "backend": "claude", "attempts": 1, "durationMs": 19018}
+{"timestamp": "2026-08-14T06:20:26+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-collection-and-standardization"}
+{"timestamp": "2026-08-14T06:21:01+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-collection-and-standardization", "backend": "claude", "attempts": 1, "durationMs": 35009}
+{"timestamp": "2026-08-14T06:21:01+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-formation-and-chronology"}
+{"timestamp": "2026-08-14T06:21:43+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-formation-and-chronology", "backend": "claude", "attempts": 1, "durationMs": 42060}
+{"timestamp": "2026-08-14T06:21:43+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-manuscripts-and-dating"}
+{"timestamp": "2026-08-14T06:22:37+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-manuscripts-and-dating", "backend": "claude", "attempts": 1, "durationMs": 54164}
+{"timestamp": "2026-08-14T06:22:37+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-readings-and-ahruf"}
+{"timestamp": "2026-08-14T06:23:25+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-readings-and-ahruf", "backend": "claude", "attempts": 1, "durationMs": 47122}
+{"timestamp": "2026-08-14T06:23:25+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-script-and-orthography"}
+{"timestamp": "2026-08-14T06:24:07+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-script-and-orthography", "backend": "claude", "attempts": 1, "durationMs": 42899}
+{"timestamp": "2026-08-14T06:24:07+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-syro-aramaic-philology"}
+{"timestamp": "2026-08-14T06:26:36+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-syro-aramaic-philology", "backend": "claude", "attempts": 1, "durationMs": 148109}
+{"timestamp": "2026-08-14T06:26:36+00:00", "event": "argument_build_started", "argumentId": "arg:scientific-miracles-apologetics-movement"}
+{"timestamp": "2026-08-14T06:27:06+00:00", "event": "argument_build_succeeded", "argumentId": "arg:scientific-miracles-apologetics-movement", "backend": "claude", "attempts": 1, "durationMs": 30066}
+{"timestamp": "2026-08-14T06:27:06+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-christian-parallels"}
+{"timestamp": "2026-08-14T06:28:02+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-christian-parallels", "backend": "claude", "attempts": 1, "durationMs": 56037}
+{"timestamp": "2026-08-14T06:28:02+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-conflict-and-political-conduct"}
+{"timestamp": "2026-08-14T06:28:33+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-conflict-and-political-conduct", "backend": "claude", "attempts": 1, "durationMs": 30848}
+{"timestamp": "2026-08-14T06:28:33+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-family-and-household-traditions"}
+{"timestamp": "2026-08-14T06:28:59+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-family-and-household-traditions", "backend": "claude", "attempts": 1, "durationMs": 26285}
+{"timestamp": "2026-08-14T06:28:59+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-historical-setting-and-identity"}
+{"timestamp": "2026-08-14T06:29:39+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-historical-setting-and-identity", "backend": "claude", "attempts": 1, "durationMs": 40331}
+{"timestamp": "2026-08-14T06:29:39+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-ibn-ishaq"}
+{"timestamp": "2026-08-14T06:30:29+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-ibn-ishaq", "backend": "claude", "attempts": 1, "durationMs": 49849}
+{"timestamp": "2026-08-14T06:30:29+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-revelation-narratives"}
+{"timestamp": "2026-08-14T06:31:03+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-revelation-narratives", "backend": "claude", "attempts": 1, "durationMs": 34315}
+{"timestamp": "2026-08-14T06:31:03+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-source-traditions"}
+{"timestamp": "2026-08-14T06:31:41+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-source-traditions", "backend": "claude", "attempts": 1, "durationMs": 37950}
+{"timestamp": "2026-08-14T06:31:41+00:00", "event": "argument_build_started", "argumentId": "arg:slavery"}
+{"timestamp": "2026-08-14T06:32:23+00:00", "event": "argument_build_succeeded", "argumentId": "arg:slavery", "backend": "claude", "attempts": 2, "durationMs": 22672}
+{"timestamp": "2026-08-14T06:32:23+00:00", "event": "argument_build_started", "argumentId": "arg:syro-aramaic-quran-hypothesis"}
+{"timestamp": "2026-08-14T06:33:20+00:00", "event": "argument_build_succeeded", "argumentId": "arg:syro-aramaic-quran-hypothesis", "backend": "claude", "attempts": 1, "durationMs": 56802}
+{"timestamp": "2026-08-14T06:33:20+00:00", "event": "argument_build_started", "argumentId": "arg:women"}
+{"timestamp": "2026-08-14T06:34:54+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women", "backend": "claude", "attempts": 1, "durationMs": 93824}
+{"timestamp": "2026-08-14T07:39:31+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims"}
+{"timestamp": "2026-08-14T07:40:06+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims", "backend": "claude", "attempts": 1, "durationMs": 34480}
+{"timestamp": "2026-08-15T04:07:12+00:00", "event": "extract_started", "videoId": "Htogg0CK2Pg"}
+{"timestamp": "2026-08-15T04:13:42+00:00", "event": "extract_succeeded", "videoId": "Htogg0CK2Pg", "backend": "claude", "attempts": 1, "durationMs": 390557}
+{"timestamp": "2026-08-15T04:13:42+00:00", "event": "extract_started", "videoId": "w8ItxJMAFP0"}
+{"timestamp": "2026-08-15T04:20:28+00:00", "event": "extract_succeeded", "videoId": "w8ItxJMAFP0", "backend": "claude", "attempts": 1, "durationMs": 406181}
+{"timestamp": "2026-08-15T04:20:28+00:00", "event": "extract_started", "videoId": "EX4xe0AddFk"}
+{"timestamp": "2026-08-15T04:25:51+00:00", "event": "extract_succeeded", "videoId": "EX4xe0AddFk", "backend": "claude", "attempts": 1, "durationMs": 322785}
+{"timestamp": "2026-08-15T04:25:51+00:00", "event": "extract_started", "videoId": "3caGzNr9jwU"}
+{"timestamp": "2026-08-15T04:33:14+00:00", "event": "extract_succeeded", "videoId": "3caGzNr9jwU", "backend": "claude", "attempts": 1, "durationMs": 442546}
+{"timestamp": "2026-08-15T04:33:14+00:00", "event": "extract_started", "videoId": "j_eKmPTVKyg"}
+{"timestamp": "2026-08-15T04:40:48+00:00", "event": "extract_succeeded", "videoId": "j_eKmPTVKyg", "backend": "claude", "attempts": 1, "durationMs": 454459}
+{"timestamp": "2026-08-15T04:40:48+00:00", "event": "extract_started", "videoId": "6HhDi8MKJlY"}
+{"timestamp": "2026-08-15T04:49:39+00:00", "event": "extract_succeeded", "videoId": "6HhDi8MKJlY", "backend": "claude", "attempts": 1, "durationMs": 531048}
+{"timestamp": "2026-08-15T04:49:39+00:00", "event": "extract_started", "videoId": "3aHUwinjsoQ"}
+{"timestamp": "2026-08-15T04:54:55+00:00", "event": "extract_started", "videoId": "RPdZj2MPzE0"}
+{"timestamp": "2026-08-15T04:54:55+00:00", "event": "extract_failed", "videoId": "RPdZj2MPzE0", "errorType": "AgentUnavailable"}
+{"timestamp": "2026-08-15T04:54:55+00:00", "event": "extract_started", "videoId": "sHhwtIxZc5c"}
+{"timestamp": "2026-08-15T04:54:55+00:00", "event": "extract_failed", "videoId": "sHhwtIxZc5c", "errorType": "AgentUnavailable"}
+{"timestamp": "2026-08-15T04:54:55+00:00", "event": "extract_started", "videoId": "E-b6N24Tkjs"}
+{"timestamp": "2026-08-15T04:54:55+00:00", "event": "extract_failed", "videoId": "E-b6N24Tkjs", "errorType": "AgentUnavailable"}
+{"timestamp": "2026-08-15T04:57:54+00:00", "event": "extract_succeeded", "videoId": "3aHUwinjsoQ", "backend": "claude", "attempts": 1, "durationMs": 494666}
+{"timestamp": "2026-08-15T04:57:54+00:00", "event": "extract_started", "videoId": "E-b6N24Tkjs"}
+{"timestamp": "2026-08-15T05:06:19+00:00", "event": "extract_succeeded", "videoId": "E-b6N24Tkjs", "backend": "claude", "attempts": 1, "durationMs": 505245}
+{"timestamp": "2026-08-15T05:06:19+00:00", "event": "extract_started", "videoId": "sHhwtIxZc5c"}
+{"timestamp": "2026-08-15T05:13:46+00:00", "event": "extract_succeeded", "videoId": "sHhwtIxZc5c", "backend": "claude", "attempts": 1, "durationMs": 446541}

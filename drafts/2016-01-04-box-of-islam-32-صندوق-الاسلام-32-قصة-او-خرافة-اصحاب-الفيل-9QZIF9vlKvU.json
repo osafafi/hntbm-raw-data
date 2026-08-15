@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "videoId": "9QZIF9vlKvU",
+  "videoUrl": "https://www.youtube.com/watch?v=9QZIF9vlKvU",
+  "videoTitle": "Box of islam 32 صندوق الاسلام 32 ، قصة او خرافة اصحاب الفيل",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160104",
+  "extractedAt": "2026-08-12T16:05:37+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this episode, Rachid Hammami and guest Mohamed Al-Masih critique the traditional Islamic account of 'Ashab al-Fil' (the Companions of the Elephant) in Surah 105. They argue that the story of Abrahah marching to Mecca with elephants to destroy the Ka'ba is historically and logistically impossible. Instead, Al-Masih presents research linking the imagery of Surah al-Fil to a 6th-century letter written by Armenian ruler Mushegh II to the Persian general Bahram, describing heavenly retribution against Bahram's army and elephants.",
+  "summaryAr": "في هذه الحلقة، ينتقد رشيد حمامي والضيف محمد المسيح الرواية الإسلامية التقليدية عن «أصحاب الفيل» في سورة الفيل. ويؤكدان أن قصة زحف أبرهة إلى مكة بالأفيال لهدم الكعبة مستحيلة تاريخياً ولوجستياً. وبدلاً من ذلك، يقدم المسيح بحثاً يربط صور سورة الفيل برسالة من القرن السادس كتبها الحاكم الأرمني موشيج الثاني إلى الجنرال الفارسي بهرام، والتي تصف عقاباً سماوياً ضد جيش بهرام وأفياله.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:01:10",
+      "stepEn": "Rachid notes that Surah al-Fil in the Qur'an is brief and lacks historical details regarding who the 'Companions of the Elephant' were or where they lived.",
+      "stepAr": "يشير رشيد إلى أن سورة الفيل في القرآن مقتضبة وتفتقر إلى التفاصيل التاريخية حول من هم أصحاب الفيل أو أين كانوا يعيشون."
+    },
+    {
+      "timestamp": "00:01:58",
+      "stepEn": "Rachid explains that Islamic exegesis built an elaborate narrative over a century after Muhammad's death involving Abrahah, Al-Qullays church, a man defiling it, and Abrahah's march on Mecca.",
+      "stepAr": "يوضح رشيد أن التفسير الإسلامي نسج قصة أكبر بعد أكثر من مائة وثلاثين سنة من وفاة النبي تتعلق بأبرهة وكنيسة القليس وشخص تغوط فيها وزحف أبرهة على مكة."
+    },
+    {
+      "timestamp": "00:03:23",
+      "stepEn": "Rachid points out the inconsistency in divine protection, noting God allegedly defended the Ka'ba against Abrahah when it was pagan, but did not defend it against the Qarmatians or Al-Hajjaj.",
+      "stepAr": "يشير رشيد إلى التناقض في الحماية الإلهية، مشيراً إلى أن الله دافع عن الكعبة ضد أبرهة عندما كانت وثنية، لكنه لم يدافع عنها ضد القرامطة أو الحجاج بن يوسف."
+    },
+    {
+      "timestamp": "00:05:38",
+      "stepEn": "Mohamed Al-Masih reviews the historical reality of Abrahah, confirming he died around 555 CE, fifteen years before Muhammad's birth.",
+      "stepAr": "يستعرض محمد المسيح حقيقة أبرهة التاريخية، مؤكداً أنه توفي حوالي سنة 555 م، أي قبل 15 سنة من ميلاد النبي محمد."
+    },
+    {
+      "timestamp": "00:07:13",
+      "stepEn": "Al-Masih notes that contemporary historian Procopius records Abrahah's wars but mentions neither an expedition to Mecca nor the use of elephants in his army.",
+      "stepAr": "يلاحظ المسيح أن المؤرخ المعاصر بروكوبيوس سجل حروب أبرهة ولم يذكر أي حملة على مكة أو استخدام الأفيال في جيشه."
+    },
+    {
+      "timestamp": "00:09:50",
+      "stepEn": "Al-Masih and Rachid detail the logistical impossibility of transporting war elephants over 1,000 kilometers of desert terrain to Mecca due to massive water and feed requirements.",
+      "stepAr": "يفصل المسيح ورشيد الاستحالة اللوجستية لنقل أفيال الحرب لأكثر من 1000 كيلومتر عبر أراضٍ صحراوية إلى مكة بسبب متطلبات العلف والمياه الهائلة."
+    },
+    {
+      "timestamp": "00:16:05",
+      "stepEn": "Al-Masih introduces the history recorded by Armenian chronicler Sebeos regarding the war between Byzantium/Armenia and the Persian general Bahram around 591 CE.",
+      "stepAr": "يقدم المسيح التاريخ الذي سجله المؤرخ الأرمني سبيوس حول الحرب بين البيزنطيين/الأرمن والجنرال الفارسي بهرام حوالي سنة 591 م."
+    },
+    {
+      "timestamp": "00:21:42",
+      "stepEn": "Al-Masih reads an Armenian letter from Mushegh II to Bahram, demonstrating striking thematic and linguistic parallels between its poetic description of divine defense against Bahram's elephants and the text of Surah al-Fil.",
+      "stepAr": "يقرأ المسيح رسالة أرمنية من موشيج الثاني إلى بهرام، موضحاً التوازي الموضوعي واللغوي المذهل بين وصفها الشعري للدفاع الإلهي ضد أفيال بهرام ونصف سورة الفيل."
+    },
+    {
+      "timestamp": "00:24:21",
+      "stepEn": "Rachid suggests the Qur'an was referencing this contemporary defeat of the Persian elephant army to warn Mecca, which later exegesis misunderstood and reframed into the myth of Abrahah.",
+      "stepAr": "يقترح رشيد أن القرآن كان يشير إلى هزيمة جيش الأفيال الفارسي المعاصر لتخويف أهل مكة، وهو ما فهمه المفسرون لاحقاً بشكل خاطئ وتحول إلى أسطورة أبرهة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:01:10",
+      "claimEn": "Surah al-Fil in the Qur'an is brief and contains no historical details about who the 'Companions of the Elephant' were or why they plotted.",
+      "claimAr": "سورة الفيل في القرآن مقتضبة جداً ولا تحتوي على تفاصيل تاريخية حول من هم أصحاب الفيل أو سبب كيدهم.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the text of Surah 105 (al-Fil) to confirm whether specific historical details, names, or locations are absent."
+    },
+    {
+      "timestamp": "00:01:54",
+      "claimEn": "The Islamic interpretation of the word 'Sijjil' in Surah al-Fil is stones from Hellfire.",
+      "claimAr": "التفسير الإسلامي لكلمة سجِّيل في سورة الفيل هو حجارة من جهنم.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult classical Tafsir literature (e.g., Tabari, Ibn Kathir) on Surah 105:4 to verify the definition of Sijjil."
+    },
+    {
+      "timestamp": "00:01:58",
+      "claimEn": "Islamic exegetes and biographers began weaving the detailed story of Abrahah and the elephant more than 130 years after the Prophet Muhammad's death.",
+      "claimAr": "بدأ كتاب السير والمفسرون الإسلاميون في نسج قصة أبرهة والفيل بالتفصيل بعد أكثر من 130 سنة من وفاة النبي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq",
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare dates of early Sirah compositions (e.g., Ibn Ishaq) against Muhammad's death date (632 CE)."
+    },
+    {
+      "timestamp": "00:02:11",
+      "claimEn": "According to Islamic narrative, Abrahah built a church named Al-Qullays in Sana'a to redirect Arab pilgrims away from Mecca.",
+      "claimAr": "وفقاً للرواية الإسلامية، بنى أبرهة كنيسة اسمها القُليِّس في صنعاء لتحويل الحجاج العرب بعيداً عن مكة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check classical Sirah texts (Ibn Hisham / Ibn Ishaq) for the account of Al-Qullays and Abrahah's motives."
+    },
+    {
+      "timestamp": "00:02:49",
+      "claimEn": "Islamic tradition names Abrahah's primary elephant 'Mahmud'.",
+      "claimAr": "التراث الإسلامي يسمي الفيل الرئيسي لأبرهة «محمود».",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify in Ibn Hisham's Sirah whether Abrahah's elephant is explicitly named Mahmud."
+    },
+    {
+      "timestamp": "00:03:28",
+      "claimEn": "God allegedly protected the Ka'ba from Abrahah when it was pagan, but did not intervene when the Qarmatians destroyed it or when Al-Hajjaj bombarded it with catapults.",
+      "claimAr": "الله دافع عن الكعبة ضد أبرهة عندما كانت وثنية، لكنه لم يتدخل عندما هدمها القرامطة أو عندما ضربها الحجاج بالمنجنيق.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical records of the Qarmatian attack (317 AH) and Al-Hajjaj's siege of Mecca (73 AH)."
+    },
+    {
+      "timestamp": "00:03:51",
+      "claimEn": "The story of the Elephant was fabricated in Islamic history to provide miraculous portents prefiguring the birth of Muhammad, similar to Gospel narratives about Jesus.",
+      "claimAr": "قصة الفيل اختلقت في التاريخ الإسلامي لتقديم معجزات تمهد لمولد النبي، بشكل شبيه بروايات الأناجيل عن المسيح.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-christian-parallels"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate comparative literary studies comparing nativity portents in Sirah literature with Gospel accounts."
+    },
+    {
+      "timestamp": "00:05:38",
+      "claimEn": "The historical figure Abrahah was an Abyssinian military commander who seized power in Yemen through a coup and died in 555 CE, 15 years before Muhammad's birth.",
+      "claimAr": "الشخصية التاريخية أبرهة كان قائداً عسكرياً حبشياً استولى على الحكم في اليمن عبر انقلاب وتوفي سنة 555 م، أي قبل 15 سنة من ولد النبي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check epigraphic and academic consensus on Abrahah's death date (e.g., CIH 541 inscription / Murayghan inscription)."
+    },
+    {
+      "timestamp": "00:07:13",
+      "claimEn": "The 6th-century Palestinian-born historian Procopius documented Abrahah's wars up to 553 CE, but never mentioned any campaign against Mecca or use of elephants.",
+      "claimAr": "المؤرخ بروكوبيوس القيصري في القرن السادس سجل حروب أبرهة حتى عام 553 م، ولم يذكر أي حملة ضد مكة أو استخدام للأفيال.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Procopius's 'History of the Wars' (specifically Book I regarding the Persian/Axumite/Himyarite conflicts)."
+    },
+    {
+      "timestamp": "00:09:50",
+      "claimEn": "Marched war elephants over 1,000 km across desert terrain from Yemen to Mecca is logistically impossible due to massive daily feed and water needs.",
+      "claimAr": "سير أفيال الحرب لأكثر من 1000 كم عبر أراضٍ صحراوية من اليمن إلى مكة أمر مستحيل لوجستياً بسبب الحاجة اليومية الهائلة للعلف والماء.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pachyderm biological requirements (150-200 kg food, 100-150L water daily) against ancient Arabian desert hydrology."
+    },
+    {
+      "timestamp": "00:13:30",
+      "claimEn": "Early Islamic authorities disagreed on the number of elephants Abrahah brought, ranging from 1 (Ibn Abbas), to 8, 12, or even 1,000.",
+      "claimAr": "اختلف علماء الإسلام الأوائل في عدد الأفيال التي جلبها أبرهة، فمنهم من قال فيل واحد (كابن عباس)، ومنهم من قال 8 أو 12 أو حتى 1000.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check classical Tafsir works (Tabari/Qurtubi) on Surah 105 regarding variants on the number of elephants."
+    },
+    {
+      "timestamp": "00:16:05",
+      "claimEn": "The 7th-century Armenian chronicler Sebeos is the first non-Islamic historian to mention the name of the Prophet Muhammad in writing.",
+      "claimAr": "المؤرخ الأرمني سبيوس في القرن السابع هو أول مؤرخ غير إسلامي يذكر اسم النبي محمد في وثيقة مكتوبة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sebeos's 'History' (Chapter 30/32) for early attestations of Muhammad's name."
+    },
+    {
+      "timestamp": "00:17:05",
+      "claimEn": "In 591 CE, the Persian general Bahram rebelled against Khosrow II and deployed combat-trained elephants in his military campaigns.",
+      "claimAr": "في عام 591 م، تمرد الجنرال الفارسي بهرام على خسرو الثاني واستخدم أفيالاً مدربة على القتال في حملاته العسكرية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sebeos's 'History' regarding Bahram Chobin's rebellion and use of war elephants."
+    },
+    {
+      "timestamp": "00:21:42",
+      "claimEn": "An Armenian manuscript (MS 2639 in the Matenadaran library) contains a 591 CE letter from Armenian ruler Mushegh II threatening Bahram with divine destruction of his elephant army.",
+      "claimAr": "توجد مخطوطة أرمنية (رقم 2639 في مكتبة ماتينداران) تحتوي على رسالة عام 591 م من الحاكم الأرمني موشيج الثاني يهدد فيها بهرام بهلاك إلهي لجيش أفياله.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "armenian-christian-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Matenadaran manuscript MS 2639 and translations of Sebeos's History containing Mushegh II's correspondence."
+    },
+    {
+      "timestamp": "00:22:31",
+      "claimEn": "The text of Mushegh II's letter describes heavenly protectors coming down like clouds, hurling fiery bolts and consuming everything like burnt straw, closely paralleling Surah 105.",
+      "claimAr": "نص رسالة موشيج الثاني يصف حراساً سماويين ينزلون كالسحاب ويرمون بصواعق نارية ويجعلونهم كالعصف المأكول، مما يوازي سورة الفيل بشكل وثيق.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "armenian-christian-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the phrasing of Mushegh II's letter in Sebeos's History with the Arabic text of Surah 105:1-5."
+    },
+    {
+      "timestamp": "00:24:21",
+      "claimEn": "Surah al-Fil was originally referencing the historical defeat of the Persian elephant army in 591 CE as an example to intimidate the Meccans, rather than describing Abrahah.",
+      "claimAr": "سورة الفيل كانت تشير في الأصل إلى الهزيمة التاريخية لجيش الأفيال الفارسي عام 591 م لموعظة وتخويف أهل مكة، بدلاً من وصف أبرهة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "armenian-christian-parallels"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the hypothesis comparing the 591 CE Byzantine-Persian conflict context with early Meccan Quranic polemics."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:24",
+      "asStatedInVideo": "ألم تر كيف فعل ربك بأصحاب الفيل ألم يجعل كيدهم في تضليل وأرسل عليهم طيرا أبابيل ترميهم بحجارة من سجيل فجعلهم كعصف مأكول",
+      "workTitle": "Qur'an",
+      "locator": "105:1-5",
+      "quotedArabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:11",
+      "asStatedInVideo": "أبرهة",
+      "author": "Abrahah",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:02",
+      "asStatedInVideo": "عبد المطلب",
+      "author": "Abd al-Muttalib",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:25",
+      "asStatedInVideo": "محمد المسيح",
+      "author": "Mohamed Al-Masih",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:20",
+      "asStatedInVideo": "بروكوبيوس القيصري",
+      "author": "Procopius of Caesarea",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:08",
+      "asStatedInVideo": "سبيوس المؤرخ الأرمني",
+      "author": "Sebeos",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:15",
+      "asStatedInVideo": "بهرام",
+      "author": "Bahram Chobin",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:23",
+      "asStatedInVideo": "خسرو الثاني",
+      "author": "Khosrow II",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:39",
+      "asStatedInVideo": "موشيج الثاني",
+      "author": "Mushegh II Mamikonian",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:21:48",
+      "asStatedInVideo": "مكتبة مطينداران بالعاصمة الأرمنية يريفان رقم 2639",
+      "workTitle": "Matenadaran MS 2639 / History of Sebeos",
+      "locator": "MS 2639",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:38",
+      "asStatedInVideo": "غلبت الروم في أدنى الأرض وهم من بعد غلبهم سيغلبون في بضع سنين لله الأمر من قبل ومن بعد ويومئذ يفرح المؤمنون بنصر الله",
+      "workTitle": "Qur'an",
+      "locator": "30:2-5",
+      "quotedArabic": "غُلِبَتِ الرُّومُ فِي أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ فِي بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِن قَبْلُ وَمِن بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ بِنَصْرِ اللَّهِ",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "armenian-christian-parallels",
+      "titleEn": "Armenian Christian Parallels",
+      "titleAr": "التوازي مع النصوص الأرمنية المسيحية",
+      "descriptionEn": "Literary, historical, and thematic parallels between Quranic passages and late antique Armenian Christian historical and liturgical texts.",
+      "descriptionAr": "التوازيات الأدبية والتاريخية والموضوعية بين النصوص القرآنية والنصوص التاريخية والطقسية الأرمنية المسيحية في أواخر العصور القديمة.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "sirah-christian-parallels",
+      "rationale": "The video presents primary textual evidence from a 6th-century Armenian manuscript (Sebeos/Mushegh II) as a direct literary parallel to Surah al-Fil, which fits under earlier non-Islamic religious parallels."
+    }
+  ]
+}

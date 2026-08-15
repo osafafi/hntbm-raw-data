@@ -1,0 +1,5 @@
+# Keep text data stable across Windows, macOS, and Linux checkouts.
+* text=auto eol=lf
+
+# JSONL is line-oriented text even when Git's heuristics are uncertain.
+*.jsonl text eol=lf

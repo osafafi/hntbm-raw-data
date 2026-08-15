@@ -1,0 +1,1150 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Htogg0CK2Pg",
+  "videoUrl": "https://www.youtube.com/watch?v=Htogg0CK2Pg",
+  "videoTitle": "صندوق الإسلام 35 :أساطير القرآن، قصة موسى والخضر في القرآن. Box of islam 35",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160125",
+  "extractedAt": "2026-08-15T04:13:42+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In episode 35 of \"Box of Islam,\" the host (presenting alone) argues that the Qur'anic story of Moses and al-Khidr (Surat al-Kahf) is a literary compilation with no divine origin. He first surveys the heavy Qur'anic dependence on the Moses material of the Old Testament, then notes that the Khidr journey has no counterpart in the Torah or Jewish exegetical tradition, and follows Theodor Nöldeke's claim that it is assembled from three earlier sources: the Epic of Gilgamesh (Utnapishtim, the quest for immortality, the meeting of the two seas), the Alexander Romance (Alexander and his cook Andreas, the spring of life, the reviving fish), and a Babylonian Talmud legend about Rabbi Yohanan ben Levi and Elijah (the near-verbatim dialogue about inability to be patient, the killed cow, the rebuilt wall). He also treats the story's moral — do not question God's wisdom — as a device for enforcing obedience, and concludes that no text falls from heaven; all texts are built from one another.",
+  "summaryAr": "في الحلقة 35 من \"صندوق الإسلام\"، يقدّم المضيف الحلقة وحده ويجادل بأن قصة موسى والخضر في سورة الكهف تجميع أدبي لا أصل إلهي له. يستعرض أولاً اعتماد القرآن الكبير على مادة موسى في العهد القديم، ثم يشير إلى أن رحلة الخضر لا نظير لها في التوراة ولا في التراث اليهودي المفسّر لها، ويتبنّى قول تيودور نولدكه بأنها مركّبة من ثلاثة مصادر: ملحمة جلجامش (أوتنابشتيم والبحث عن الخلود ومجمع البحرين)، وملحمة الإسكندر (الإسكندر وطباخه أندرياس وينبوع الحياة والسمكة التي عاشت)، وأسطورة في التلمود البابلي عن الحاخام يوحانان بن ليفي وإلياهو (الحوار شبه الحرفي عن عدم الاستطاعة على الصبر، وقتل البقرة، وبناء الجدار). كما يعتبر مغزى القصة — ألا تناقش حكمة الله — أداة لفرض الطاعة، ويخلص إلى أنه لا يوجد نص يسقط من السماء، بل كل النصوص تُبنى من بعضها.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:02:41",
+      "stepEn": "Establishes the scale of the Moses material in the Qur'an — 503 verses, the name mentioned 136 times — to show it is the single most emphasized narrative.",
+      "stepAr": "يقرر حجم مادة موسى في القرآن — 503 آية، والاسم مذكور 136 مرة — ليبيّن أنها أكثر قصة يركّز عليها القرآن."
+    },
+    {
+      "timestamp": "00:02:41",
+      "stepEn": "Explains the emphasis historically: Moses is the heart of Judaism, and after the migration to Medina Muhammad wanted an introduction card to the Jews, so he began inserting Moses stories.",
+      "stepAr": "يفسّر هذا التركيز تاريخياً: موسى قلب الديانة اليهودية، وبعد الهجرة إلى المدينة أراد محمد بطاقة تعارف لليهود فبدأ يُدخل قصص موسى."
+    },
+    {
+      "timestamp": "00:03:30",
+      "stepEn": "Lists the shared episodes with the Old Testament — birth and the palace, killing the Egyptian and flight to Midian, the Exodus and the splitting of the sea — with small differences.",
+      "stepAr": "يعدّد الحلقات المشتركة مع العهد القديم — الميلاد والقصر، وقتل المصري والهروب إلى مدين، والخروج وانفلاق البحر — مع اختلافات بسيطة."
+    },
+    {
+      "timestamp": "00:05:00",
+      "stepEn": "Points to systematic differences of redaction: Moses' hesitation is removed in the Qur'an, and the Ten Commandments are broken up and scattered as Islamic-sounding injunctions.",
+      "stepAr": "يشير إلى فروق تحريرية منهجية: شك موسى محذوف في القرآن، والوصايا العشر مبعثرة ومصاغة كوصايا إسلامية."
+    },
+    {
+      "timestamp": "00:06:32",
+      "stepEn": "Isolates the exception: the journey of Moses with al-Khidr has no counterpart in the Old Testament, and the name al-Khidr is not even in the Qur'an but was supplied by later exegesis.",
+      "stepAr": "يعزل الاستثناء: رحلة موسى مع الخضر لا نظير لها في العهد القديم، واسم الخضر ليس في القرآن أصلاً بل أضافه التفسير لاحقاً."
+    },
+    {
+      "timestamp": "00:07:19",
+      "stepEn": "Reads the Qur'anic text and flags three markers for later matching: majma' al-bahrayn, nasiya hutahuma, and \"you will not be able to bear with me patiently.\"",
+      "stepAr": "يقرأ النص القرآني ويضع ثلاث علامات للمطابقة لاحقاً: مجمع البحرين، ونسيا حوتهما، و\"إنك لن تستطيع معي صبرا\"."
+    },
+    {
+      "timestamp": "00:10:32",
+      "stepEn": "Reads the three episodes (ship, boy, wall) as teaching unquestioning obedience, comparing them to Abraham's near-sacrifice and to verses forbidding questioning and mandating obedience to God, the Messenger and those in authority.",
+      "stepAr": "يقرأ الحلقات الثلاث (السفينة والغلام والجدار) على أنها تعليم للطاعة بلا نقاش، ويقارنها بذبح إبراهيم لابنه وبآيات النهي عن السؤال ووجوب طاعة الله والرسول وأولي الأمر."
+    },
+    {
+      "timestamp": "00:13:37",
+      "stepEn": "Poses the source question: since the story is absent from the Torah and from Jewish exegesis, where did it come from?",
+      "stepAr": "يطرح سؤال المصدر: ما دامت القصة غائبة عن التوراة وعن التفسير اليهودي، فمن أين جاءت؟"
+    },
+    {
+      "timestamp": "00:14:24",
+      "stepEn": "Introduces the Epic of Gilgamesh as the oldest epic and the base layer of all later story traditions, and recounts Gilgamesh's quest for immortality with Utnapishtim at the mouth of the meeting of the two seas.",
+      "stepAr": "يقدّم ملحمة جلجامش بوصفها أقدم ملحمة وأساس كل ما بعدها من القصص، ويحكي رحلة جلجامش للخلود عند أوتنابشتيم الساكن عند فم مجمع البحرين."
+    },
+    {
+      "timestamp": "00:16:43",
+      "stepEn": "Cites Theodor Nöldeke for the thesis that the Moses–Khidr story has three sources, and identifies the first as Gilgamesh.",
+      "stepAr": "يستشهد بتيودور نولدكه في أن قصة موسى والخضر لها ثلاثة مصادر، ويحدّد الأول بملحمة جلجامش."
+    },
+    {
+      "timestamp": "00:17:30",
+      "stepEn": "Identifies the second source as the Alexander Romance — the horned Alexander of the coin, his cook Andreas, the meeting of the two seas, and the fish revived in the spring of life — matching the forgotten fish of the Qur'an.",
+      "stepAr": "يحدّد المصدر الثاني بملحمة الإسكندر — الإسكندر ذو القرن على العملة، وطباخه أندرياس، ومجمع البحرين، والسمكة التي عاشت في ينبوع الحياة — مطابقاً حوت القرآن المنسي."
+    },
+    {
+      "timestamp": "00:19:49",
+      "stepEn": "Argues that the Qur'anic phrase about the forgotten fish is a residue with no meaning of its own, produced by details being distorted in transmission from Syriac into Arabic.",
+      "stepAr": "يجادل بأن عبارة نسيان الحوت في القرآن بقية بلا دلالة في ذاتها، نتجت عن تشوّه التفاصيل في النقل من السريانية إلى العربية."
+    },
+    {
+      "timestamp": "00:20:36",
+      "stepEn": "Identifies the third source as a Babylonian Talmud legend about Rabbi Yohanan ben Levi and Elijah, quoting the near-identical dialogue and the conditions of companionship and parting.",
+      "stepAr": "يحدّد المصدر الثالث بأسطورة في التلمود البابلي عن الحاخام يوحانان بن ليفي وإلياهو، ويقتبس الحوار شبه المطابق وشروط الصحبة والفراق."
+    },
+    {
+      "timestamp": "00:22:11",
+      "stepEn": "Explains the inaccessibility of the Babylonian Talmud in Arabic — first translation 2012, expensive — and attributes the gap to how many Qur'anic stories it contains.",
+      "stepAr": "يشرح تعذّر الوصول إلى التلمود البابلي بالعربية — أول ترجمة سنة 2012 وباهظة — ويردّ ذلك إلى كثرة القصص القرآنية الموجودة فيه."
+    },
+    {
+      "timestamp": "00:24:31",
+      "stepEn": "Matches the Talmud episodes to the Qur'an — the killed cow to the scuttled ship, the refused hospitality and the rebuilt wall — and notes that the killing of the boy is an Islamic addition.",
+      "stepAr": "يطابق حلقات التلمود بالقرآن — قتل البقرة بخرق السفينة، ورفض الضيافة وبناء الجدار — ويلاحظ أن قتل الغلام إضافة إسلامية."
+    },
+    {
+      "timestamp": "00:25:18",
+      "stepEn": "Shows an illustration from al-Naysaburi's Qisas al-Anbiya' depicting Khidr and Ilyas together at the spring of life as evidence that the traditions were fused.",
+      "stepAr": "يعرض صورة من قصص الأنبياء للنيسابوري تُظهر الخضر وإلياس معاً عند ينبوع الحياة دليلاً على اندماج الروايات."
+    },
+    {
+      "timestamp": "00:26:51",
+      "stepEn": "Concludes generally: no culture arises from nothing and no divine text drops from the sky; the Jews took from Babylonian stories and Islam took from the Jews.",
+      "stepAr": "يخلص عموماً: لا ثقافة تأتي من فراغ ولا نص إلهي يسقط من السماء؛ اليهود أخذوا من القصص البابلية والإسلام أخذ من اليهود."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:02:41",
+      "claimEn": "The speaker claims that no figure in the Qur'an occupies a place comparable to Moses: 503 verses speak about him and his story, and he is mentioned by name 136 times.",
+      "claimAr": "يقول المتحدث إنه لا شخصية في القرآن تحظى بمكانة موسى: خمسمئة وثلاث آية تتكلم عنه وعن قصته، وهو مذكور بالاسم 136 مرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Count the occurrences of the name Musa in the Qur'an and the number of verses concerning him; verify whether 136 mentions and 503 verses are the figures normally given, and by what counting method."
+    },
+    {
+      "timestamp": "00:02:41",
+      "claimEn": "The speaker claims Moses is the heart of the Jewish religion, and that when Muhammad migrated from Mecca to Medina he wanted to present an introduction card to the Jews, so he began bringing Moses stories and placing them in the Qur'an.",
+      "claimAr": "يقول المتحدث إن موسى هو قلب الديانة اليهودية، وإن محمداً لما هاجر من مكة إلى المدينة أراد أن يقدّم بطاقة تعارف لليهود، فابتدأ يجيب قصص موسى ويضعها في القرآن.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "quran-textual-transmission-formation-and-chronology",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the standard Meccan/Medinan classification of the Moses passages: if the Moses material is largely Meccan, the claim that it was introduced after the migration to court the Jews of Medina does not hold in the form stated."
+    },
+    {
+      "timestamp": "00:03:30",
+      "claimEn": "The speaker claims that many of the Moses stories in the Qur'an are also found in the Old Testament and the Book of Exodus, and that the resemblance between Qur'anic and Torah narratives is greater for Moses than for any other prophet.",
+      "claimAr": "يقول المتحدث إن كثيراً من قصص موسى في القرآن موجودة أيضاً في العهد القديم وفي سفر الخروج، وإن التشابه بين قصص القرآن وقصص التوراة في قصة موسى أكثر من أي نبي آخر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Qur'anic Moses cycle with Exodus episode by episode and assess whether the density of overlap exceeds that of other prophetic figures such as Abraham, Joseph or Noah."
+    },
+    {
+      "timestamp": "00:03:30",
+      "claimEn": "The speaker claims the birth narrative is shared — the infant cast away who reaches Pharaoh's palace and is raised there — with the two accounts differing over whether it was Pharaoh's daughter or Pharaoh's wife who raised him.",
+      "claimAr": "يقول المتحدث إن قصة الميلاد مشتركة — الطفل الذي أُلقي ووصل إلى قصر فرعون ورُبّي فيه — مع اختلاف الروايتين في كون من ربّته بنت فرعون أم امرأة فرعون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Exodus 2 (Pharaoh's daughter) with the Qur'anic account of the wife of Pharaoh and confirm the divergence is as stated."
+    },
+    {
+      "timestamp": "00:04:16",
+      "claimEn": "The speaker claims the killing of the Egyptian and the flight to Midian appear in both the Qur'an and the Old Testament.",
+      "claimAr": "يقول المتحدث إن قصة قتله للمصري وهروبه إلى مدين موجودة في القرآن وفي العهد القديم معاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Exodus 2:11-15 with the corresponding Qur'anic passages in Surat al-Qasas and note the extent of the parallel."
+    },
+    {
+      "timestamp": "00:04:16",
+      "claimEn": "The speaker claims the Exodus from Egypt, the striking of the sea and its parting are found in both the Old Testament and the Qur'an, with only minor differences of detail.",
+      "claimAr": "يقول المتحدث إن الخروج من مصر وضرب البحر وانفلاقه موجودان في العهد القديم وفي القرآن، مع فروق بسيطة في التفاصيل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Exodus 14 with the Qur'anic parting-of-the-sea passages and catalogue what differs."
+    },
+    {
+      "timestamp": "00:05:00",
+      "claimEn": "The speaker claims that in the Old Testament Moses doubts whether he can carry out the mission to Pharaoh, whereas in the Qur'an there is no doubt at all — the Qur'an proceeds straight ahead — and that this pattern of removing hesitation recurs.",
+      "claimAr": "يقول المتحدث إن موسى في العهد القديم عنده شك هل يستطيع أن يقوم بالمهمة عند فرعون، بينما القرآن ليس فيه شك إطلاقاً بل يمضي مباشرة، وإن هذا النمط في حذف التردد يتكرر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Exodus 3-4 (Moses' objections and the sign of the staff) with the Qur'anic call narratives to see whether the Qur'an consistently removes the hesitation."
+    },
+    {
+      "timestamp": "00:05:00",
+      "claimEn": "The speaker claims the Ten Commandments appear in the Old Testament complete and on a single tablet, whereas in the Qur'an they are broken up and scattered across different verses rather than presented as a set of ten.",
+      "claimAr": "يقول المتحدث إن الوصايا العشر في العهد القديم كاملة وفي لوح واحد، بينما هي في القرآن متناثرة ومبعثرة في آيات مختلفة لا تُعرض كمجموعة عشر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Exodus 20 with the Qur'anic passages usually adduced as parallels (e.g. al-Isra' 22-39, al-An'am 151-153) and assess whether the Qur'an ever presents them as a unified decalogue."
+    },
+    {
+      "timestamp": "00:05:46",
+      "claimEn": "The speaker claims specific Qur'anic injunctions are restatements of individual commandments in Islamic dress: \"do not call upon another god with God\" for \"you shall have no other gods before me\", \"we enjoined upon man concerning his parents\" for \"honour your father and mother\", \"do not approach fornication\" for \"you shall not commit adultery\", and \"shun false speech\" for \"you shall not bear false witness\".",
+      "claimAr": "يقول المتحدث إن أوامر قرآنية بعينها إعادة صياغة لوصايا مفردة بلبوس إسلامي: \"لا تدعو مع الله إلهاً آخر\" مقابل \"لا تتخذ آلهة أخرى أمامي\"، و\"وصينا الإنسان بوالديه\" مقابل \"أكرم أباك وأمك\"، و\"ولا تقربوا الزنا\" مقابل \"لا تزن\"، و\"واجتنبوا قول الزور\" مقابل \"لا تشهد شهادة زور\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the exact Qur'anic verses the speaker paraphrases (he gives no numbers) and set each against the corresponding commandment in Exodus 20 / Deuteronomy 5."
+    },
+    {
+      "timestamp": "00:06:32",
+      "claimEn": "The speaker claims there is one Moses story in the Qur'an with no counterpart whatever in the Old Testament: the journey of Moses with al-Khidr.",
+      "claimAr": "يقول المتحدث إن هناك قصة واحدة عن موسى في القرآن لا وجود لها إطلاقاً في العهد القديم، وهي رحلة موسى مع الخضر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm that no episode resembling Kahf 60-82 occurs anywhere in the Hebrew Bible's Moses material."
+    },
+    {
+      "timestamp": "00:06:32",
+      "claimEn": "The speaker claims the word al-Khidr does not occur in the Qur'an at all; the Qur'an calls him \"a servant from among Our servants,\" and the name al-Khidr was attached later by the exegetes.",
+      "claimAr": "يقول المتحدث إن كلمة الخضر لا ترد في القرآن إطلاقاً، وإن القرآن يسمّيه \"عبداً من عبادنا\"، وإن اسم الخضر وضعه التفسير فيما بعد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the absence of the term al-Khidr from the Qur'anic text and trace the earliest exegetical and hadith sources that supply the name."
+    },
+    {
+      "timestamp": "00:06:32",
+      "claimEn": "The speaker claims Surat al-Kahf is the sura of legends: it gathers the Companions of the Cave, the parable of the two men one of whom was given two gardens, the Moses–Khidr journey, and Dhu al-Qarnayn with Gog and Magog.",
+      "claimAr": "يقول المتحدث إن سورة الكهف هي سورة الأساطير: تجمع أصحاب الكهف، ومثل الرجلين الذي جُعل لأحدهما جنتان، ورحلة موسى والخضر، وذا القرنين ويأجوج ومأجوج.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the inventory of narratives in Surat al-Kahf; the characterisation of them as legends is the speaker's judgement and rests on his other episodes on the same sura."
+    },
+    {
+      "timestamp": "00:07:19",
+      "claimEn": "The speaker claims that two expressions in the opening verses of the story — majma' al-bahrayn (the junction of the two seas) and \"they forgot their fish\" — are the tell-tale terms whose foreign origin will be shown later.",
+      "claimAr": "يقول المتحدث إن تعبيرين في مطلع القصة — مجمع البحرين ونسيا حوتهما — هما الكلمتان الدالتان اللتان سيتبيّن لاحقاً من أين جاءتا.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the wording of the two verses and how classical exegesis explains majma' al-bahrayn and the fish, before assessing the borrowing argument."
+    },
+    {
+      "timestamp": "00:10:32",
+      "claimEn": "The speaker claims the logic of the story is the Islamic logic that you neither discuss nor argue, backed by the verse forbidding believers to ask about things that would distress them if disclosed.",
+      "claimAr": "يقول المتحدث إن منطق القصة هو المنطق الإسلامي القائل إنك لا تناقش ولا تجادل، مدعوماً بالآية التي تنهى المؤمنين عن السؤال عن أشياء إن تُبد لهم تسؤهم.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the verse the speaker paraphrases (he gives no number; the wording matches al-Ma'ida 101) and check its classical exegesis on the prohibition of questioning."
+    },
+    {
+      "timestamp": "00:10:32",
+      "claimEn": "The speaker claims the killing of the boy in the story caused generations a crisis in the concept of justice and in how a child is to be treated.",
+      "claimAr": "يقول المتحدث إن قتل الغلام في القصة سبّب لأجيال أزمة في فهم مفهوم العدالة وفي التعامل مع الطفل.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the speaker's moral assessment; an editor should check whether classical and modern commentators register discomfort with the episode as he asserts."
+    },
+    {
+      "timestamp": "00:10:32",
+      "claimEn": "The speaker claims the episode closely resembles the story of Abraham slaughtering his son: the son, God and Abraham are merely instruments, and the point of the slaughter is to instil obedience.",
+      "claimAr": "يقول المتحدث إن الحلقة شبيهة جداً بقصة إبراهيم الذي يذبح ابنه: الابن والله وإبراهيم مجرد أدوات، والغرض من الذبح هو ترسيخ الطاعة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the sacrifice narrative in al-Saffat with the Kahf episode and assess whether the shared structure the speaker describes is present in the texts."
+    },
+    {
+      "timestamp": "00:11:18",
+      "claimEn": "The speaker claims the same demand for obedience runs through the Qur'an in the commands to obey God, the Messenger and those in authority, and in the verse denying any believing man or woman a choice once God and His Messenger have decided a matter.",
+      "claimAr": "يقول المتحدث إن مطلب الطاعة نفسه يسري في القرآن في الأمر بطاعة الله والرسول وأولي الأمر، وفي الآية التي تنفي عن المؤمن والمؤمنة الخيرة إذا قضى الله ورسوله أمراً.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the two verses paraphrased (wording matches al-Nisa' 59 and al-Ahzab 36) and check their exegesis on the scope of obedience to rulers."
+    },
+    {
+      "timestamp": "00:12:50",
+      "claimEn": "The speaker claims the boy was killed on account of what he would become — that he would burden his parents with transgression and unbelief — and so was punished for a crime he had not committed, and that the story implies unbelief is worse than the killing of a child.",
+      "claimAr": "يقول المتحدث إن الغلام قُتل باعتبار ما سيكون منه — أنه سيُرهق والديه طغياناً وكفراً — أي عوقب بجريمة لم يرتكبها، وإن القصة تفترض أن الكفر أسوأ من قتل طفل.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of the explanation verse about the boy and how classical exegetes justify pre-emptive killing on the basis of foreknowledge."
+    },
+    {
+      "timestamp": "00:13:37",
+      "claimEn": "The speaker claims the Moses–Khidr story is unique of its kind because it is present neither in the Torah nor in the Jewish tradition that expounds the Torah, which is why its source must be sought elsewhere.",
+      "claimAr": "يقول المتحدث إن قصة موسى والخضر نادرة من نوعها لأنها ليست في التوراة ولا في التراث اليهودي الذي يشرح التوراة، ولذلك يجب البحث عن مصدرها في مكان آخر.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the absence of the episode from the Torah and from the main Jewish exegetical corpora, noting that the speaker later cites a Talmudic parallel himself."
+    },
+    {
+      "timestamp": "00:14:24",
+      "claimEn": "The speaker claims the Epic of Gilgamesh is the oldest epic in history and the origin of all the stories we know — older than the Torah, the Gospel, the Qur'an and the Greek stories.",
+      "claimAr": "يقول المتحدث إن ملحمة جلجامش أقدم ملحمة في التاريخ وأصل كل القصص التي نعرفها — أقدم من التوراة والإنجيل والقرآن والقصص الإغريقية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the dating of the Gilgamesh tablets against the composition dates of the biblical and Qur'anic texts, and treat \"origin of all stories\" as a sweeping generalisation to be assessed separately from the dating."
+    },
+    {
+      "timestamp": "00:15:10",
+      "claimEn": "The speaker claims Gilgamesh had a friend named Enkidu whose death threw him into crisis, and that he then set out on a journey in search of immortality to a man named Utnapishtim.",
+      "claimAr": "يقول المتحدث إن جلجامش كان له صديق اسمه أنكيدو مات فحصلت له أزمة، فذهب في رحلة يبحث عن الخلود إلى شخص اسمه أوتنابشتيم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the plot summary against a scholarly edition or translation of the Standard Babylonian Gilgamesh."
+    },
+    {
+      "timestamp": "00:15:10",
+      "claimEn": "The speaker claims Utnapishtim is an immortal who does not die because he alone, with his family, survived when God flooded the earth, was granted immortality, and became the only one able to bestow it.",
+      "claimAr": "يقول المتحدث إن أوتنابشتيم خالد لا يموت لأنه هو وأهله وحدهم نجوا عندما أغرق الله الأرض، فحصل على الخلود وصار الوحيد الذي يستطيع أن يمنحه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify Utnapishtim's flood-survival and the granting of immortality in tablet XI, and note the implied parallel with the Noah flood narrative."
+    },
+    {
+      "timestamp": "00:15:57",
+      "claimEn": "The speaker claims Utnapishtim told Gilgamesh of a particular plant at the bottom of the sea, that Gilgamesh dived and brought it up, and that before he could consume it a serpent came and snatched the plant of immortality from him.",
+      "claimAr": "يقول المتحدث إن أوتنابشتيم دلّ جلجامش على نبات معين في قاع البحر، فنزل وجاء به، وقبل أن يتناوله جاءت حية فخطفت منه نبتة الخلود.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the plant-and-serpent episode in tablet XI and note the speaker's flagging of the serpent motif for comparison with the Eden narrative."
+    },
+    {
+      "timestamp": "00:16:43",
+      "claimEn": "The speaker claims Utnapishtim lived at the mouth of the junction of the two seas, by the Garden of Eden, which is the origin of the Qur'anic expression majma' al-bahrayn in the Moses–Khidr story.",
+      "claimAr": "يقول المتحدث إن أوتنابشتيم كان يعيش عند فم مجمع البحرين عند جنة عدن، وإن هذا أصل تعبير مجمع البحرين القرآني في قصة موسى والخضر.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check how Utnapishtim's dwelling place is described in the Akkadian text (at the mouth of the rivers) and whether that phrase can be equated with majma' al-bahrayn."
+    },
+    {
+      "timestamp": "00:16:43",
+      "claimEn": "The speaker claims the German scholar Theodor Nöldeke, the first to study the history of the Qur'an, concluded that the Moses–Khidr story has three sources and did not come from a single one.",
+      "claimAr": "يقول المتحدث إن العالم الألماني تيودور نولدكه، أول من درس تاريخ القرآن، توصّل إلى أن قصة موسى والخضر لها ثلاثة مصادر ولم تُؤخذ من مصدر واحد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the passage in Nöldeke's work (the speaker names no title or page) where the three-source analysis of Kahf 60-82 is set out, and confirm the attribution is his rather than a later scholar's."
+    },
+    {
+      "timestamp": "00:16:43",
+      "claimEn": "The speaker claims the first source is the Epic of Gilgamesh, the relation of Moses to al-Khidr corresponding to that of Gilgamesh to Utnapishtim, the master who was to teach him immortality.",
+      "claimAr": "يقول المتحدث إن المصدر الأول هو ملحمة جلجامش، وإن علاقة موسى بالخضر تقابل علاقة جلجامش بأوتنابشتيم، المعلّم الذي سيعلّمه الخلود.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the structural parallel claimed here with the Qur'anic text, where the object of Moses' journey is knowledge (rushd) rather than immortality."
+    },
+    {
+      "timestamp": "00:17:30",
+      "claimEn": "The speaker claims the second source is the legendary Alexander Romance, in which a storyteller made Alexander roam the world in search of immortality — the same material already treated in his episode on Dhu al-Qarnayn.",
+      "claimAr": "يقول المتحدث إن المصدر الثاني هو ملحمة الإسكندر الأسطورية، حيث جعل حكواتي الإسكندر يلف الدنيا باحثاً عن الخلود — وهي المادة نفسها التي تناولها في حلقة ذي القرنين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Syriac Alexander Legend and the Alexander Romance recensions for the quest for immortality and their dating relative to the Qur'an."
+    },
+    {
+      "timestamp": "00:17:30",
+      "claimEn": "The speaker claims he holds an original coin from Alexander's own time on which Alexander the Great is depicted with a horn, and that the Qur'an took several tales from him without Muslims noticing — the story of Dhu al-Qarnayn and Gog and Magog.",
+      "claimAr": "يقول المتحدث إن بحوزته عملة أصلية من زمن الإسكندر نفسه يظهر فيها الإسكندر الأكبر بقرن، وإن القرآن أخذ منه أكثر من حكاية دون أن ننتبه — قصة ذي القرنين ويأجوج ومأجوج.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the numismatic type showing Alexander with the ram's horn of Ammon and its dating; the speaker's claim that it is from Alexander's own lifetime should be checked against catalogues, since many such coins are Lysimachus issues."
+    },
+    {
+      "timestamp": "00:18:16",
+      "claimEn": "The speaker claims that in the same Alexander Romance, Alexander set out with his cook named Andreas in search of immortality, and that they were to meet it precisely at the junction of the two seas, seeking the spring of life which is the same immortality Gilgamesh sought from Utnapishtim.",
+      "claimAr": "يقول المتحدث إنه في ملحمة الإسكندر نفسها خرج الإسكندر في رحلة مع طباخه المسمى أندرياس بحثاً عن الخلود، وإن اللقاء كان عند مجمع البحرين بالضبط، يبحثان عن ينبوع الحياة الذي هو الخلود نفسه الذي طلبه جلجامش من أوتنابشتيم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Andreas episode and the water-of-life motif in the Greek and Syriac recensions of the Alexander Romance, including the terminology used for the meeting place of the waters."
+    },
+    {
+      "timestamp": "00:19:02",
+      "claimEn": "The speaker claims Andreas was carrying a dead fish, that when he washed it in a spring the fish came alive and leapt into the water, that Andreas jumped in after it and obtained immortality, while Alexander returned without it.",
+      "claimAr": "يقول المتحدث إن أندرياس كان معه سمكة ميتة، فلما غسلها في ينبوع عاشت السمكة ونطّت فيه، فقفز أندرياس وراءها فحصل على الخلود، بينما رجع الإسكندر من غير أن يحصل عليه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the reviving-fish episode in the Alexander Romance and compare it point by point with the Qur'anic fish that took its way into the sea."
+    },
+    {
+      "timestamp": "00:19:49",
+      "claimEn": "The speaker claims the Qur'anic \"they forgot their fish — that is what we were seeking\" is the residue of the Alexander fish episode, that the phrase \"they forgot their fish\" carries no significance of its own, and that the details were distorted in the text as the story passed into Syriac and from Syriac into Arabic.",
+      "claimAr": "يقول المتحدث إن قوله \"نسيا حوتهما... ذلك ما كنا نبغ\" بقية من حادثة سمكة الإسكندر، وإن عبارة نسيان الحوت لا دلالة لها في ذاتها، وإن التفاصيل تشوّهت في النص عند انتقال القصة إلى السريانية ومنها إلى العربية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "earlier-religious-parallels-syriac-aramaic-philology",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether a Syriac intermediary version of the Alexander legend is attested before the Qur'an, and whether the Qur'anic fish clause is intelligible on its own in classical exegesis."
+    },
+    {
+      "timestamp": "00:20:36",
+      "claimEn": "The speaker claims the elements missing from Gilgamesh and Alexander — the killed boy, the scuttled ship and the rebuilt wall — come, according to Nöldeke, from a Jewish legend found in the Babylonian Talmud.",
+      "claimAr": "يقول المتحدث إن العناصر الغائبة عن جلجامش والإسكندر — الغلام المقتول والسفينة المخروقة والجدار المُقام — مصدرها بحسب نولدكه أسطورة يهودية موجودة في التلمود البابلي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the passage in the Babylonian Talmud that the speaker relies on; note that the Elijah–Rabbi Joshua ben Levi legend is often traced to later midrashic collections rather than the Talmud itself."
+    },
+    {
+      "timestamp": "00:21:24",
+      "claimEn": "The speaker claims the Talmudic story concerns a rabbi named Yohanan ben Levi who prayed to be joined with Eliyahu — the figure called Elias in Christianity and Ilyas in the Qur'an — and that Elijah accepted his company.",
+      "claimAr": "يقول المتحدث إن قصة التلمود عن حاخام اسمه يوحانان بن ليفي دعا ربه أن يجمعه بإلياهو — الذي يُسمّى إليا في المسيحية وإلياس في القرآن — فوافق أن يقبله في صحبته.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the rabbi's name and the identification of Eliyahu with the Qur'anic Ilyas; the traditional name in this legend is Joshua (Yehoshua) ben Levi, which the speaker may be rendering as Yohanan."
+    },
+    {
+      "timestamp": "00:21:24",
+      "claimEn": "The speaker claims the Talmudic dialogue is almost identical to the Qur'anic one: the rabbi asks to follow Elijah through the lands to watch his deeds and gain wisdom, and Elijah answers that his acts cannot be understood and that the rabbi will have no patience for them — \"how can you bear with what you have no knowledge of; you will not be able to endure with me.\"",
+      "claimAr": "يقول المتحدث إن حوار التلمود يكاد يطابق الحوار القرآني: الرابي يطلب أن يتبع إلياهو في طوافه عبر البلاد ليراقب أفعاله ويكسب حكمة، فيجيبه إلياهو بأن أفعاله لا سبيل إلى فهمها وأنه لا صبر له عليها — \"فكيف تصبر على ما ليس لك به علم إنك لن تستطيع معي صبراً\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Set the Arabic translation of the Talmudic passage the speaker reads on screen against Kahf 66-68 in the original languages, and check whether the wording is as close in Hebrew/Aramaic as in the Arabic rendering he uses."
+    },
+    {
+      "timestamp": "00:22:11",
+      "claimEn": "The speaker claims the Babylonian Talmud remained a great enigma to Arabic readers because it was not translated into Arabic until 2012, by Dar Dirasat al-Sharq al-Awsat in Amman, in more than twenty volumes at some seven hundred dollars.",
+      "claimAr": "يقول المتحدث إن التلمود البابلي ظلّ لغزاً كبيراً للقارئ العربي لأنه لم يُترجم إلى العربية إلا سنة 2012 على يد دار دراسات الشرق الأوسط في عمّان، في أكثر من عشرين جزءاً وبنحو سبعمئة دولار.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the 2012 Amman Arabic translation of the Babylonian Talmud, its publisher, volume count and price."
+    },
+    {
+      "timestamp": "00:22:11",
+      "claimEn": "The speaker claims the reason no Arabic translation existed until then is that the Babylonian Talmud in particular is full of stories that are also found in the Qur'an, like Midrash Rabbah which he discussed in earlier episodes.",
+      "claimAr": "يقول المتحدث إن سبب عدم وجود ترجمة عربية حتى ذلك الوقت هو أن التلمود البابلي بالذات مليء بقصص تجدها في القرآن، مثل مدرش ربّا الذي تكلم عنه في حلقات سابقة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "This is an imputed motive; check whether other explanations (length, difficulty, limited readership) account for the absence of an Arabic Talmud, and separately verify the claim of overlap with Midrash Rabbah."
+    },
+    {
+      "timestamp": "00:23:01",
+      "claimEn": "The speaker claims the Talmudic legend he cites is titled \"trust in God\" and that its moral is that you should trust God — the same moral the Qur'anic story ends with.",
+      "claimAr": "يقول المتحدث إن أسطورة التلمود التي يستشهد بها عنوانها \"الوثوق بالله\"، وإن العبرة منها أن تثق في الله — وهي العبرة نفسها التي تنتهي بها القصة القرآنية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Find the passage under this heading in the Arabic Talmud translation the speaker displays and confirm the framing of its moral."
+    },
+    {
+      "timestamp": "00:23:46",
+      "claimEn": "The speaker claims Elijah set a condition of companionship — that the rabbi hold his tongue in silence, and that at the first question or first sign of astonishment they would part — which matches the Qur'anic \"this is the parting between me and you.\"",
+      "claimAr": "يقول المتحدث إن إلياهو اشترط للصحبة أن يلزم الرابي لسانه الصمت، وأن عند أول سؤال يسأله أو أول إشارة تعجب يكون الفراق بينهما — وهو ما يطابق قوله في القرآن \"هذا فراق بيني وبينك\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the parting condition in the Talmudic legend with the Qur'anic parting formula and its placement in the narrative sequence."
+    },
+    {
+      "timestamp": "00:24:31",
+      "claimEn": "The speaker claims the pair came to the house of a poor man who owned nothing but a cow, that the man and his wife received them and lodged and fed them, and that Elijah then prayed and the cow fell dead, to the rabbi's astonishment — an episode parallel to the scuttling of the ship of the poor seamen.",
+      "claimAr": "يقول المتحدث إن الاثنين بلغا بيت رجل فقير لا يملك سوى بقرة، فاستقبلهما هو وامرأته وأضافاهما وأطعماهما وأباتهما، ثم دعا إلياهو فوقعت البقرة ميتة فاستغرب الرابي — وهي حلقة توازي خرق سفينة المساكين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the cow episode in the Talmudic legend and assess the strength of the analogy with the Qur'anic ship episode and its stated justification (a king seizing every ship by force)."
+    },
+    {
+      "timestamp": "00:25:18",
+      "claimEn": "The speaker claims the legend continues with the pair passing people who refused to host them and with Elijah building up the wall for them, matching the Qur'anic wall, but that the legend contains no killing of a boy — that element, he claims, was added by Islam.",
+      "claimAr": "يقول المتحدث إن الأسطورة تكمل بمرورهما على أناس رفضوا أن يضيفوهم وببناء إلياهو الجدار لهم، بما يطابق جدار القرآن، لكن ليس فيها قتل غلام — وهذه الزيادة، كما يقول، جاد بها الإسلام من عنده.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the remaining episodes of the Talmudic legend against the Qur'anic sequence and confirm that no child-killing episode appears there."
+    },
+    {
+      "timestamp": "00:25:18",
+      "claimEn": "The speaker claims an illustration in Qisas al-Anbiya' by al-Naysaburi depicts al-Khidr and Ilyas together at the spring of life, which shows that the Islamic tradition itself gathered these figures together.",
+      "claimAr": "يقول المتحدث إن صورة في كتاب قصص الأنبياء للنيسابوري تُظهر الخضر وإلياس معاً عند ينبوع الحياة، وإن هذا يدل على أن التراث الإسلامي نفسه لمّ هذه الشخصيات معاً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the manuscript illustration of al-Naysaburi's Qisas al-Anbiya' showing Khidr and Ilyas at the water of life, and check the textual tradition pairing the two figures."
+    },
+    {
+      "timestamp": "00:26:04",
+      "claimEn": "The speaker claims the Qur'anic story is in its entirety a compilation from three sources: from Gilgamesh the journey to the spring of life at the junction of the two seas to meet the man who bestows the water of life; from Alexander the travelling with a young companion and the loss of the fish; and from the Babylonian Talmud the man who travels with another to learn wisdom and cannot bear with him.",
+      "claimAr": "يقول المتحدث إن القصة القرآنية بمجملها تجميع من ثلاثة مصادر: من جلجامش الرحلة إلى ينبوع الحياة عند مجمع البحرين لملاقاة من يعطي ماء الحياة، ومن الإسكندر السير مع فتى وفقدان الحوت، ومن التلمود البابلي الرجل الذي يسافر مع آخر ليتعلم منه الحكمة فلا يصبر عليه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives",
+        "quran-historical-claims-narrative-origins",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-mesopotamian-epic"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the composite thesis as a whole: whether each borrowed element is attested in a source demonstrably earlier than and available in the Qur'anic milieu."
+    },
+    {
+      "timestamp": "00:26:51",
+      "claimEn": "The speaker claims the Moses material is among the strongest cases proving that no culture comes out of thin air and no divine text is thrown down to us from an unknown source: the Jews took from Babylonian stories and Islam took from Jewish stories built on those older Babylonian ones, and nothing falls from the sky.",
+      "claimAr": "يقول المتحدث إن مادة موسى من أقوى ما يثبت أنه لا ثقافة تأتي من فراغ ولا نص إلهي يُرمى علينا من مصدر لا يعرفه أحد: اليهود أخذوا من القصص البابلية والإسلام أخذ من قصص اليهود المبنية على تلك البابلية القديمة، ولا شيء يسقط من السماء.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "This is the speaker's overall conclusion; it stands or falls on the source-dependency claims made earlier in the episode rather than on a source of its own."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:41",
+      "asStatedInVideo": "خمسمية وثلاثة آية بتتكلم عن موسى وقصته... مذكور بالاسم 136 مرة في القرآن",
+      "workTitle": "القرآن",
+      "locator": "إحصاء عام لآيات موسى",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:03:30",
+      "asStatedInVideo": "هنلاقيها موجودة أيضاً في العهد القديم وفي سفر الخروج",
+      "workTitle": "العهد القديم / سفر الخروج",
+      "locator": "سفر الخروج",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:00",
+      "asStatedInVideo": "موسى في العهد القديم هتلاقيه بيتلقى الوصايا العشر كاملة وفي لوحة واحدة... لا تتخذ آلهة أخرى أمامي لا تقتل لا تسرق لا تزني... لا تشتهي زوجة جارك... ما تشهدش شهادة زور",
+      "workTitle": "العهد القديم — الوصايا العشر",
+      "locator": "الوصايا العشر، غير مرقّمة في الفيديو",
+      "quotedArabic": "لا تتخذ آلهة أخرى أمامي، لا تقتل، لا تسرق، لا تزنِ، لا تشتهِ زوجة جارك، لا تشهد شهادة زور",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:46",
+      "asStatedInVideo": "لا تدعو مع الله إله آخر هتلاقيها زي بتاعت لا تتخذ آلهة أخرى أمامي",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "لا تدعو مع الله إلهاً آخر",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:46",
+      "asStatedInVideo": "أكرم أباك وأمك هتلاقيها وصينا الإنسان بوالديه",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "ووصينا الإنسان بوالديه",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:46",
+      "asStatedInVideo": "هتلاقي لا تزني هيقولك ولا تقربوا الزنا",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "ولا تقربوا الزنا",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:46",
+      "asStatedInVideo": "لا تشهد شهادة الزور هيقولك واجتنبوا الرجس من الأوثان واجتنبوا قول الزور",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "واجتنبوا الرجس من الأوثان واجتنبوا قول الزور",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:32",
+      "asStatedInVideo": "ما فيش كلمة الخضر في القرآن... بيسميه عبداً من عبادنا",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف",
+      "quotedArabic": "عبداً من عبادنا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:32",
+      "asStatedInVideo": "صورة الكهف دي هي صورة الأساطير... أصحاب الكهف... أضرب لهم مثلاً رجلين جعلنا لأحدهما جنتين",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف",
+      "quotedArabic": "واضرب لهم مثلاً رجلين جعلنا لأحدهما جنتين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:19",
+      "asStatedInVideo": "وإذ قال موسى لفتاه لا أبرح حتى أبلغ مجمع البحرين أو أمضي حقبا",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "وإذ قال موسى لفتاه لا أبرح حتى أبلغ مجمع البحرين أو أمضي حقبا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:19",
+      "asStatedInVideo": "فلما بلغا مجمع بينهما نسيا حوتهما فاتخذ سبيله في البحر سربا",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "فلما بلغا مجمع بينهما نسيا حوتهما فاتخذ سبيله في البحر سربا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:09",
+      "asStatedInVideo": "فوجدا عبداً من عبادنا آتيناه رحمة من عندنا وعلمناه من لدنا علما",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "فوجدا عبداً من عبادنا آتيناه رحمة من عندنا وعلمناه من لدنا علما",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:09",
+      "asStatedInVideo": "قال له موسى هل أتبعك على أن تعلمني مما علمت رشدا",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "قال له موسى هل أتبعك على أن تعلمن مما علمت رشدا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:58",
+      "asStatedInVideo": "قال إنك لن تستطيع معي صبرا وكيف تصبر على ما لم تحط به خبرا",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "قال إنك لن تستطيع معي صبرا وكيف تصبر على ما لم تحط به خبرا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:32",
+      "asStatedInVideo": "يا أيها الذين آمنوا لا تسألوا عن أشياء إن تبد لكم تسؤكم",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "يا أيها الذين آمنوا لا تسألوا عن أشياء إن تبد لكم تسؤكم",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:32",
+      "asStatedInVideo": "القصة دي حتلاقيها شبيهة جداً من قصة إبراهيم اللي بيدبح ابنه",
+      "workTitle": "القرآن — قصة ذبح ابن إبراهيم",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:18",
+      "asStatedInVideo": "وأطيعوا الله وأطيعوا الرسول وأولي الأمر منكم",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:18",
+      "asStatedInVideo": "ما كان لمؤمن ولا مؤمنة إذا قضى الله ورسوله أمراً أن تكون لهم الخيرة",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم السورة أو الآية",
+      "quotedArabic": "ما كان لمؤمن ولا مؤمنة إذا قضى الله ورسوله أمراً أن يكون لهم الخيرة",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:18",
+      "asStatedInVideo": "قال له لو سألتك بعد كده... هذا فراق بيني وبينك",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "هذا فراق بيني وبينك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:04",
+      "asStatedInVideo": "أن السفينة كانت لمساكين في البحر وراءهما ملك يأخذ كل سفينة غصبا",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:50",
+      "asStatedInVideo": "الغلام كان لما حيكبر... حيرهق والديه طغياناً وكفراً",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "طغياناً وكفراً",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:37",
+      "asStatedInVideo": "إيه موضوع الجدار؟ كان لأيتام وتحته كنز مدفون ليهم",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:14:24",
+      "asStatedInVideo": "أسطورة جلجامش... أقدم ملحمة في التاريخ",
+      "workTitle": "ملحمة جلجامش",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:10",
+      "asStatedInVideo": "كان ليه صديق اسمه أنكيدو أنكيدو مات",
+      "workTitle": "ملحمة جلجامش",
+      "author": "",
+      "locator": "أنكيدو",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:10",
+      "asStatedInVideo": "فراح لواحد اسمه أتنابشتيم... شخص خالد ما بيموتش... الوحيد اللي نجى من الطوفان",
+      "workTitle": "ملحمة جلجامش",
+      "locator": "أوتنابشتيم",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:43",
+      "asStatedInVideo": "العالم الألماني الشهير أول واحد درس تاريخ القرآن تيودور نولدكه",
+      "author": "تيودور نولدكه",
+      "locator": "لم يُذكر عنوان كتاب",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:17:30",
+      "asStatedInVideo": "ملحمة الإسكندر الأسطورية... اللي هي بيسموها Alexander Romance",
+      "workTitle": "ملحمة الإسكندر (Alexander Romance)",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:30",
+      "asStatedInVideo": "الإسكندر الأكبر... عملة من زمن الإسكندر نفسه فيها قرن",
+      "workTitle": "عملة من زمن الإسكندر",
+      "locator": "عملة أصلية بحوزة المتحدث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:16",
+      "asStatedInVideo": "الإسكندر خرج في رحلة مع الطباخ بتاعه اللي هو اسمه أندرياس",
+      "workTitle": "ملحمة الإسكندر",
+      "locator": "أندرياس الطباخ",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:49",
+      "asStatedInVideo": "حتى إذا نسيا حوتهما... قالوا ذلك ما كنا نبغي",
+      "workTitle": "القرآن — سورة الكهف",
+      "locator": "سورة الكهف (لم يذكر رقم الآية)",
+      "quotedArabic": "نسيا حوتهما... ذلك ما كنا نبغ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:20:36",
+      "asStatedInVideo": "أسطورة يهودية موجودة في التلمود البابلي",
+      "workTitle": "التلمود البابلي",
+      "locator": "لم يُذكر مسند أو مقطع بعينه",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:24",
+      "asStatedInVideo": "حخام يعني أو رابي اسمه يحنان بن ليفي",
+      "locator": "يوحانان بن ليفي",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:24",
+      "asStatedInVideo": "إلياهو أو النبي إلياهو... في المسيحية بيسموه إليا وفي الإسلام وفي القرآن بيسموه إلياس",
+      "locator": "إلياهو / إليا / إلياس",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:11",
+      "asStatedInVideo": "أول ترجمة ليه... كانت سنة 2012 عملتها دار دراسات الشرق الأوسط في عمان... أكثر من 20 جزء و700 دولار",
+      "workTitle": "التلمود البابلي (الترجمة العربية)",
+      "author": "دار دراسات الشرق الأوسط، عمّان",
+      "locator": "2012، أكثر من عشرين جزءاً",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:11",
+      "asStatedInVideo": "مليان قصص هتلاقيها في القرآن زي مدرش ربا اللي إحنا اتكلمنا عنه في الحلقات اللي فاتت",
+      "workTitle": "مدراش ربّا",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:23:01",
+      "asStatedInVideo": "لو كتبت التلمود الوثوق بالله حتلاقيها... القصة العبرة منها إن انت تثق في الله",
+      "workTitle": "التلمود البابلي — قصة \"الوثوق بالله\"",
+      "locator": "عنوان القصة كما عرضه على الشاشة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:23:01",
+      "asStatedInVideo": "توسل الرابي إلى إلياهو قائلاً دعني أتبعك في طوافك عبر البلاد وأراقب أحوالك وأفعالك فأكسب لنفسي حكمة وفهماً، قال إلياهو لا فأفعالي لا سبيل إلى فهمها وتصرفاتي لا صبر لك عليها فكيف تصبر على ما ليس لك به علم إنك لن تستطيع معي صبرا",
+      "workTitle": "التلمود البابلي (الترجمة العربية)",
+      "locator": "نص معروض على الشاشة",
+      "quotedArabic": "دعني أتبعك في طوافك عبر البلاد وأراقب أحوالك وأفعالك فأكسب لنفسي حكمة وفهماً... فأفعالي لا سبيل إلى فهمها وتصرفاتي لا صبر لك عليها فكيف تصبر على ما ليس لك به علم إنك لن تستطيع معي صبرا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:23:46",
+      "asStatedInVideo": "قال إلياهو إذن هلم ولكن ليلزم لسانك الصمت وعند أول سؤال تسألنيه أو أول إشارة تعجب فهو الفراق ما بيننا",
+      "workTitle": "التلمود البابلي (الترجمة العربية)",
+      "locator": "نص معروض على الشاشة",
+      "quotedArabic": "إذن هلم ولكن ليلزم لسانك الصمت وعند أول سؤال تسألنيه أو أول إشارة تعجب فهو الفراق ما بيننا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:23:46",
+      "asStatedInVideo": "فجاء الاثنان معاً عبر البلاد وبلغا بيت رجل فقير لم يكن يملك من المال وأسباب الرزق سوى بقرة",
+      "workTitle": "التلمود البابلي (الترجمة العربية)",
+      "locator": "نص معروض على الشاشة",
+      "quotedArabic": "فجاء الاثنان معاً عبر البلاد وبلغا بيت رجل فقير لم يكن يملك من المال وأسباب الرزق سوى بقرة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:25:18",
+      "asStatedInVideo": "صورة من كتاب قصص الأنبياء للنيسابوري... حاطت الخضر وإليا عند ينبوع الحياة جنب بعض",
+      "workTitle": "قصص الأنبياء",
+      "author": "النيسابوري",
+      "locator": "صورة/منمنمة معروضة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "earlier-religious-parallels-mesopotamian-epic",
+      "titleEn": "Mesopotamian epic parallels",
+      "titleAr": "التوازي مع الملاحم الرافدية",
+      "descriptionEn": "Claims connecting Qur'anic narratives and motifs to the Epic of Gilgamesh and related Mesopotamian epic literature — the quest for immortality, the plant of life and the serpent, the flood survivor, and the dwelling at the junction of the waters.",
+      "descriptionAr": "ادعاءات تربط قصصاً ومواضيع قرآنية بملحمة جلجامش وما يتصل بها من الأدب الملحمي الرافدي — البحث عن الخلود، ونبتة الحياة والحية، والناجي من الطوفان، والسكن عند مجمع المياه.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels-ancient-near-eastern-cosmogony",
+      "rationale": "The existing Near Eastern topic is scoped to creation and cosmogony myths, but this material is epic narrative — the immortality quest of Gilgamesh — which the speaker returns to repeatedly and which recurs across his episodes on Dhu al-Qarnayn, the flood and Kahf. It is a durable subject area that other videos would fall under, and forcing it under a cosmogony topic would misdescribe it."
+    },
+    {
+      "proposedId": "quran-obedience-and-authority",
+      "titleEn": "Obedience and unquestioned authority",
+      "titleAr": "الطاعة والسلطة بلا مساءلة",
+      "descriptionEn": "Claims that Qur'anic passages and narratives function to enforce unquestioning obedience to God, the Messenger and those in authority — prohibitions on questioning, the removal of choice from believers, and narratives whose moral is submission to inscrutable commands.",
+      "descriptionAr": "ادعاءات بأن نصوصاً وقصصاً قرآنية تعمل على فرض الطاعة بلا مساءلة لله والرسول وأولي الأمر — النهي عن السؤال، ونفي الخيرة عن المؤمنين، والقصص التي مغزاها الإذعان لأوامر لا تُفهم.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "hadith-ethical-controversies",
+      "rationale": "The speaker repeatedly frames the Kahf story, the near-sacrifice of Abraham's son and the obedience verses as one theme: religion as an instrument for producing obedience. The closest existing topic covers ethical controversies in the hadith corpus, not this Qur'anic and political-theological theme, and other videos in this series would fall under it."
+    }
+  ]
+}

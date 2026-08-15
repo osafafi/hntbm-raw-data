@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "videoId": "3gFRv8Pwjls",
+  "videoUrl": "https://www.youtube.com/watch?v=3gFRv8Pwjls",
+  "videoTitle": "Episode 8 برنامج صندوق الإسلام-الحلقة الثامنة: لُغز كتابة سيرة إبن إسحق ولُغز إختفائها فيما بعد",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150713",
+  "extractedAt": "2026-08-12T14:00:22+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Hamed Abdel-Samad discusses the historical writing of the prophetic biography (sirah), focusing on Ibn Ishaq's lost work, its political motivations under the Abbasid Caliphate, its structural borrowings from Christian gospels (like Matthew), and its subsequent editorial censorship by Ibn Hisham.",
+  "summaryAr": "يناقش حامد عبد الصمد التاريخ المحيط بكتابة السيرة النبوية، مركزاً على كتاب ابن إسحاق المفقود، والدوافع السياسية لتقشيتها وتدوينها في العصر العباسي، واستعارتها للبنية الروائية من الأناجيل المسيحية (مثل إنجيل متى)، والرقابة والتهذيب اللذين مارسهما ابن هشام لاحقاً.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:30",
+      "stepEn": "Recap of early civil wars following Muhammad's death and their role in the unstable environment of early hadith and Qur'anic collection.",
+      "stepAr": "استعراض الحروب الأهلية المبكرة بعد وفاة محمد ودورها في البيئة الاضطرابية لجمع الأحاديث والقرآن."
+    },
+    {
+      "timestamp": "00:02:10",
+      "stepEn": "Claims that the Qur'anic text underwent patching, burning of variants, and exclusion/inclusion of controversial chapters.",
+      "stepAr": "الادعاء بأن النص القرآني تعرض للترقيع وحرق المصاحف واستبعاد أو إضافة سور مثيرة للجدل."
+    },
+    {
+      "timestamp": "00:03:22",
+      "stepEn": "Traces historical shift to the Abbasid Empire and Abū Jaʿfar al-Manṣūr's commissioning of Ibn Isḥāq to write a history legitimatizing Abbasid rule.",
+      "stepAr": "تتبع التحول التاريخي للقيام الدولة العباسية وتكليف أبي جعفر المنصور لابن إسحاق بكتابة تاريخ يشرعن الحكم العباسي."
+    },
+    {
+      "timestamp": "00:05:49",
+      "stepEn": "Highlights Ibn Isḥāq's background as a client (mawlā) of Christian heritage, arguing that biography/hadith compilers were often lower-status individuals seeking livelihood.",
+      "stepAr": "تسليط الضوء على خلفية ابن إسحاق كمولى من أصول مسيحية، والمحاججة بأن جامعي السير والحديث كانوا غالباً من الطبقات الدنيا للتكسب."
+    },
+    {
+      "timestamp": "00:09:53",
+      "stepEn": "Argues that Ibn Isḥāq emphasized Muhammad's lineage back to Hashemites and Adam to bolster Abbasid legitimacy and mirror Christian gospel structures (e.g., Gospel of Matthew).",
+      "stepAr": "المحاججة بأن ابن إسحاق ركز على نسب محمد إلى بني هاشم وآدم لدعم الشرعية العباسية ومحاكاة هيكل الأناجيل المسيحية (مثل إنجيل متى)."
+    },
+    {
+      "timestamp": "00:15:11",
+      "stepEn": "Compares the literary environment of Ibn Isḥāq's sirah to 'One Thousand and One Nights' in Baghdad, characterizing both as products of popular storytelling.",
+      "stepAr": "مقارنة البيئة الأدبية لسيرة ابن إسحاق بـ 'ألف ليلة وليلة' في بغداد، ووصفهما بأنهما نتاج القصاصين والحكاواتية."
+    },
+    {
+      "timestamp": "00:18:49",
+      "stepEn": "Notes significant gaps and omissions in the sirah regarding key figures like Muhammad's daughter Zaynab and Waraqah ibn Nawfal.",
+      "stepAr": "ملاحظة فجوات وتعتيم كبيرين في السيرة يتعلقان بشخصيات محورية مثل زينب ابنة محمد وورقة بن نوفل."
+    },
+    {
+      "timestamp": "00:21:05",
+      "stepEn": "Concludes that Ibn Isḥāq's original text vanished due to subsequent censorial editing by Ibn Hishām to remove problematic material regarding Muhammad's parentage and lineage.",
+      "stepAr": "الاستنتاج بأن نص ابن إسحاق الأصلي اختفى بسبب تنقيح ابن هشام الرقابي لإزالة الأمور الشائنة المتعلقة بنسب محمد."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:02:10",
+      "claimEn": "Abdullah ibn Mas'ud swore that the Mu'awwidhatayn (Surahs Al-Falaq and Al-Nas) were not part of the Qur'an.",
+      "claimAr": "عبد الله بن مسعود كان يحلف أن المعوذتين (الفلق والناس) ليس لهما أي علاقة بالقرآن.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check traditional sources (e.g., Musnad Ahmad, Tafsir Ibn Kathir) for reports on Ibn Mas'ud's view on the Mu'awwidhatayn."
+    },
+    {
+      "timestamp": "00:02:30",
+      "claimEn": "A'ishah stated that Surah al-Ahzab originally contained more than two hundred verses during the Prophet's lifetime.",
+      "claimAr": "عائشة قالت إن سورة الأحزاب كانت أكثر من مائتين آية في زمن النبي ثم نقصت.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Hadith and Tafsir literature (e.g., al-Itqan by al-Suyuti) for A'ishah's narration regarding Surah al-Ahzab."
+    },
+    {
+      "timestamp": "00:02:46",
+      "claimEn": "Manuscripts like Sanaa and Tübingen demonstrate variations in the Qur'anic text compared to today's standard text.",
+      "claimAr": "مخطوطة صنعاء ومخطوطة توبنجن تظهران وجود أجزاء واختلافات في القرآن غير الموجودة في المصحف الحالي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check academic publications analyzing the Sanaa palimpsest and Tübingen manuscript variants against the Cairo standard edition."
+    },
+    {
+      "timestamp": "00:05:49",
+      "claimEn": "Ibn Ishaq was commissioned to write his sirah by the Abbasid Caliph Abu Ja'far al-Mansur, rather than initiating it independently.",
+      "claimAr": "ابن إسحاق لم يكتب السيرة من تلقاء نفسه بل بتكليف مباشر من الخليفة العباسي أبي جعفر المنصور.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check al-Khatib al-Baghdadi's Tarikh Baghdad or Ibn Khallikan for reports on al-Mansur commissioning Ibn Ishaq."
+    },
+    {
+      "timestamp": "00:05:49",
+      "claimEn": "Most early gatherers of hadith and sirah were freed slaves (mawāli) who worked in this domain to earn a living.",
+      "claimAr": "معظم العاملين في الحديث والسير كانوا من العبيد والموالي الذين استرزقوا من هذه المهنة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Cross-reference biographical dictionaries (Tabaqat) regarding the social status and clientage (wala') of early hadith compilers."
+    },
+    {
+      "timestamp": "00:07:12",
+      "claimEn": "Abu Hurairah was a beggar who relied on narrating traditions for his livelihood.",
+      "claimAr": "أبو هريرة كان شحاتاً يسترزق من عمله في نقل الحديث.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check biographical entries for Abu Hurairah in Ibn Hajar's Tahdhib al-Tahdhib or al-Dhahabi's Siyar A'lam al-Nubala."
+    },
+    {
+      "timestamp": "00:10:33",
+      "claimEn": "Ibn Ishaq was the first to strongly emphasize tracing Muhammad's lineage back to Hashim and ultimately to Adam through 40 grandfathers.",
+      "claimAr": "ابن إسحاق هو أول من ركز بشكل كبير على نسب محمد إلى بني هاشم وصولاً إلى آدم عبر ٤٠ جداً.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine the genealogical opening of Ibn Hisham's revision of Ibn Ishaq's Sirah."
+    },
+    {
+      "timestamp": "00:11:04",
+      "claimEn": "Tracing Muhammad's lineage to Adam in only 40 generations is an impossibility because 5,000 years would require around 600 generations.",
+      "claimAr": "اختصار ٥٠٠٠ سنة بين محمد وآدم في ٤٠ جداً أمر مستحيل لأن ذلك يتطلب نحو ٦٠٠ اسم.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate genealogical assertions against historical chronology and average generation span assumptions."
+    },
+    {
+      "timestamp": "00:12:42",
+      "claimEn": "Ibn Ishaq structured Muhammad's biography by borrowing heavily from Christian Gospel literary structures, specifically the Gospel of Matthew.",
+      "claimAr": "ابن إسحاق اقتبس بنية قصة حياة محمد من الأناجيل المسيحية وخاصة إنجيل متى.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "sirah-christian-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check scholarly studies comparing early Islamic prophetic biography structures with Near Eastern Christian hagiographies and canonical Gospels."
+    },
+    {
+      "timestamp": "00:13:49",
+      "claimEn": "Miracles attributed to Muhammad, such as the cloud shadowing him, cave miracles, detailed Ascension narratives, and multiplying food, were introduced by Ibn Ishaq to match Jesus's miracles.",
+      "claimAr": "المعجزات المنسوبة لمحمد كإظلال الغمامة ومعجزة الغار والإسراء وتكثير الطعام ابتكرها ابن إسحاق لمضاهاة معجزات المسيح.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "sirah-christian-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Qur'anic claims about Muhammad's lack of physical miracles with miracle reports introduced in Ibn Ishaq's Sirah."
+    },
+    {
+      "timestamp": "00:15:11",
+      "claimEn": "Ibn Ishaq's biography was written in the exact same timeframe and cultural storytelling context in Baghdad as 'One Thousand and One Nights'.",
+      "claimAr": "سيرة ابن إسحاق كتبت في نفس الفترة الزمنية والبيئة الأدبية القائمة على الحكايات التي كتبت فيها ألف ليلة وليلة في بغداد.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare literary dating and origins of early Abbasid popular prose collections with Sirah compilation history."
+    },
+    {
+      "timestamp": "00:18:49",
+      "claimEn": "Ibn Ishaq's biography omitted significant details about major figures in Muhammad's life, such as his daughter Zaynab and her non-believing husband.",
+      "claimAr": "سيرة ابن إسحاق عتمت على تفاصيل مهمة لشخصيات محورية في حياة محمد مثل ابنتة زينب وزوجها غير المؤمن.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the biographical treatment of Zaynab bint Muhammad and her husband Abu al-Aas ibn al-Rabi' in Ibn Hisham's Sirah."
+    },
+    {
+      "timestamp": "00:19:32",
+      "claimEn": "The sirah provides minimal information about Waraqah ibn Nawfal despite his crucial role in confirming Muhammad's prophethood.",
+      "claimAr": "السيرة لم تورد سوى حدوتة واحدة عن ورقة بن نوفل رغم أهميته البالغة في إقرار نبوة محمد.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine narrations involving Waraqah ibn Nawfal in Ibn Hisham and Sahih al-Bukhari."
+    },
+    {
+      "timestamp": "00:21:05",
+      "claimEn": "Ibn Ishaq's original original text vanished because later rulers discovered problematic content, leading Ibn Hisham to selectively censor it.",
+      "claimAr": "كتاب ابن إسحاق الأصلي اختفى لأن الحكام اكتشفوا فيه أموراً شائنة مما دفع ابن هشام لتهذيبه وحذف أشياء منه.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Ibn Hisham's explicitly stated editorial principles in the introduction to Al-Sirah al-Nabawiyyah."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:02:10",
+      "asStatedInVideo": "عبد الله بن مسعود",
+      "author": "Abdullah ibn Mas'ud",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:10",
+      "asStatedInVideo": "سورة المعوذتين (قل أعوذ برب الناس وقل أعوذ برب الفلق)",
+      "locator": "113-114",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:30",
+      "asStatedInVideo": "عائشة",
+      "author": "A'ishah bint Abi Bakr",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:30",
+      "asStatedInVideo": "سورة الأحزاب",
+      "locator": "33",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:49",
+      "asStatedInVideo": "أبو جعفر المنصور",
+      "author": "Abu Ja'far al-Mansur",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:49",
+      "asStatedInVideo": "إبن إسحاق",
+      "author": "Ibn Ishaq",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:12",
+      "asStatedInVideo": "إبن سعد صاحب الطبقات الكبرى",
+      "author": "Ibn Sa'd",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:12",
+      "asStatedInVideo": "الواقدي",
+      "author": "al-Waqidi",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:12",
+      "asStatedInVideo": "أبو هريرة",
+      "author": "Abu Hurairah",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:24",
+      "asStatedInVideo": "عروة بن الزبير",
+      "author": "Urwah ibn al-Zubayr",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:24",
+      "asStatedInVideo": "موسى بن عقبة",
+      "author": "Musa ibn 'Uqbah",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:42",
+      "asStatedInVideo": "إنجيل متى",
+      "workTitle": "Gospel of Matthew",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:15:11",
+      "asStatedInVideo": "ألف ليلة وليلة",
+      "workTitle": "One Thousand and One Nights",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:32",
+      "asStatedInVideo": "ورقة بن نوفل",
+      "author": "Waraqah ibn Nawfal",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:05",
+      "asStatedInVideo": "إبن هشام",
+      "author": "Ibn Hisham",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "sirah-christian-parallels",
+      "titleEn": "Christian Parallels in Prophetic Biography",
+      "titleAr": "التوازي مع الأناجيل والسير المسيحية",
+      "descriptionEn": "Literary borrowings, structural imitations, and thematic parallels between early Islamic sirah literature and Christian Gospel or hagiographical texts.",
+      "descriptionAr": "الاقتباسات الأدبية والمحاكاة الهيكلية والتوازي التيمي بين أدب السيرة النبوية المبكر والأناجيل أو النصوص الهجيوغرافية المسيحية.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The video argues specifically that Ibn Ishaq patterned his sirah on Gospel frameworks like Matthew to respond to Christian critics."
+    }
+  ]
+}

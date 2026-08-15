@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "videoId": "bSxvISZ862s",
+  "videoUrl": "https://www.youtube.com/watch?v=bSxvISZ862s",
+  "videoTitle": "صندوق الإسلام 33 اساطير القرآن، مصادر قصة لقمان في القرآن Box of islam 33",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160111",
+  "extractedAt": "2026-08-12T16:06:02+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Hamid Abdel-Samad and Brother Rachid (or Muhammad Al-Massai) discuss the origins of the Quranic figure Luqman. They contend that Luqman is not a historical figure but a myth derived from Ahiqar in Assyrian and Jewish traditions, and Aesop in Greek literature. They examine parallel wisdom sayings, linguistic transmission errors from Syriac to Arabic, and the pre-Islamic knowledge of these tales in Arabia via Suwayd ibn al-Samit's scroll.",
+  "summaryAr": "يقدم حامد عبد الصمد مع الأستاذ محمد المسيّح مناقشة حول أصول شخصية لقمان الحكيم في القرآن. ويفترضان أن لقمان ليس شخصية تاريخية، بل هو أسطورة مستمدة من شخصية أحيقار في التراث الآشوري واليهودي، وشخصية إيسوب في الأدب الإغريقي. ويستعرضان الحكم المتوازية، والأخطاء اللغوية في النقل من السريانية إلى العربية، ومعرفة العرب قبل الإسلام بهذه القصص من خلال مجلة سويد بن الصامت.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:32",
+      "stepEn": "Hamid introduces Luqman in Surah Luqman and questions why God would quote human wisdom and why the Quran criticizes the donkey's voice.",
+      "stepAr": "يبدأ حامد بالحديث عن لقمان في سورة لقمان ويتساءل لماذا يقتبس الله حكمة بشرية ولماذا ينتقد القرآن صوت الحمار."
+    },
+    {
+      "timestamp": "00:03:36",
+      "stepEn": "Al-Massai argues that Luqman is a non-historical character linked to pre-Islamic Arabic poetry and the Assyrian-Jewish legend of Ahiqar.",
+      "stepAr": "يجادل المسيّح بأن لقمان شخصية غير تاريخية ترتبط بالشعر الجاهلي وأسطورة أحيقار الآشورية اليهودية."
+    },
+    {
+      "timestamp": "00:05:37",
+      "stepEn": "The speakers compare Ahiqar and Luqman, noting both were wise slaves who advised a son/nephew, with naming corruptions (Nadan vs. Naran) arising from Syriac manuscript copyist errors.",
+      "stepAr": "يقارن المتحدثان بين أحيقار ولقمان، مشيرين إلى أن كلاهما كان عبداً حكيماً يعلم ابنه/ابن أخته، مع وجود تحريف في الأسماء (نادان وناران) ناتج عن أخطاء نساخ المخطوطات السريانية."
+    },
+    {
+      "timestamp": "00:09:34",
+      "stepEn": "They review identical wisdom sayings in Syriac and Quranic texts, such as tasting gall/poverty and lowering one's voice, asserting the Syriac context explains the donkey parable.",
+      "stepAr": "ينظران في حكم متطابقة بين النصوص السريانية والقرآنية، مثل ذوق الحنظل/الفقر وخفض الصوت، مشيرين إلى أن السياق السرياني يفسر مثل الحمار."
+    },
+    {
+      "timestamp": "00:12:31",
+      "stepEn": "Al-Massai cites the Syriac Ahiqar manuscript in Cambridge (MS 2020) and the Aramaic Elephantine/Philae papyrus dating back to 500-450 BCE.",
+      "stepAr": " يستشهد المسيّح بمخطوطة أحيقار السريانية في كامبريدج ومخطوطة البردي الآرامية في جزيرة فيلة التي تعود إلى 500-450 قبل الميلاد."
+    },
+    {
+      "timestamp": "00:16:36",
+      "stepEn": "They cite Ibn Jarir al-Tabari's report about Suwayd ibn al-Samit having the 'Scroll of Ahiqar' (or Luqman) before Islam to prove pre-Islamic knowledge of the text.",
+      "stepAr": "يستشهدان برواية الطبري عن سويد بن الصامت الذي كانت لديه مجلة أحيقار (أو لقمان) قبل الإسلام لإثبات معرفة العرب بالنص قبل الإسلام."
+    },
+    {
+      "timestamp": "00:19:01",
+      "stepEn": "Hamid discusses Zayd ibn Thabit learning Syriac at Muhammad's request, arguing Muhammad absorbed local lore and integrated it into Quranic revelations.",
+      "stepAr": "يتحدث حامد عن تعلم زيد بن ثابت للسريانية بطلب من محمد، مجادلاً بأن محمداً استوعب الموروث المحلي ودمجه في الثقافة القرآنية."
+    },
+    {
+      "timestamp": "00:21:37",
+      "stepEn": "Hamid introduces Aesop as a third parallel figure from Greek tradition, claiming Aesop wrote the Alexander Romance which forms the basis for the Quranic Dhul-Qarnayn story.",
+      "stepAr": "يقدم حامد شخصية إيسوب كشخصية موازية ثالثة من التراث الإغريقي، مدعياً أن إيسوب هو من ألف سيرة الإسكندر التي تعد أساس قصة ذي القرنين في القرآن."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:03:36",
+      "claimEn": "Luqman is not a historical figure and only appears as a named figure in pre-Islamic Arabic poetry and folklore.",
+      "claimAr": "لقمان ليس شخصية تاريخية ولا يوجد هذا الاسم إلا في الموروث والشعر العربي قبل الإسلام.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "pre-islamic-poetry"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical critical studies on pre-Islamic Arabic poetry and references to Luqman."
+    },
+    {
+      "timestamp": "00:04:52",
+      "claimEn": "The character of Luqman is derived from Ahiqar, an Assyrian court sage during the reign of Sennacherib (705–685 BCE).",
+      "claimAr": "شخصية لقمان مستمدة من أحيقار، وهو حكيم بلاط آشوري في عهد الملك سنحاريب (705-685 قبل الميلاد).",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "ahiqar-and-luqman-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Assyriological literature and comparative textual studies between Ahiqar and Luqman."
+    },
+    {
+      "timestamp": "00:07:00",
+      "claimEn": "Arabic traditional reports state Luqman committed incest with his sister to father his son/nephew who received his wisdom teachings.",
+      "claimAr": "تذكر المأثورات العربية أن لقمان جامع أخته وأنجب منها ابنه/ابن أخته الذي كان يعلمه الحكمة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Lisan al-Arab by Ibn Manzur and Majma' al-Amthal by al-Maydani for the poetry of Al-Namir ibn Tawlab."
+    },
+    {
+      "timestamp": "00:08:07",
+      "claimEn": "The name Naran in Arabic tradition comes from a translation and scribal error misreading the Syriac letters dal and resh in the name Nadan.",
+      "claimAr": "اسم ناران في التراث العربي ناتج عن خطأ في الترجمة والنساخة بقراءة حرفي الدال والراء السريانيين في اسم نادان.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check linguistic comparative studies between Syriac paleography and Arabic translations of the Story of Ahiqar."
+    },
+    {
+      "timestamp": "00:10:31",
+      "claimEn": "Surah Luqman 31:19 directly quotes and condenses a wisdom saying found in the Syriac Ahiqar text regarding lowering one's voice and building houses like a donkey.",
+      "claimAr": "سورة لقمان 31:19 تقتبس وتختصر حكمة موجدة في نص أحيقار السرياني تتحدث عن خفض الصوت وبناء البيوت كالحمار.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "ahiqar-and-luqman-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Quran 31:19 with the Syriac text of the Story of Ahiqar."
+    },
+    {
+      "timestamp": "00:12:31",
+      "claimEn": "A Syriac manuscript of Ahiqar (MS 2020 at Cambridge University) was edited and studied by Edward Sachau and translated into Arabic by Anis Frayha.",
+      "claimAr": "مخطوطة سريانية لأحيقار (رقم 2020 بجامعة كامبريدج) درسها إدوارد سخاو وترجمها إلى العربية أنيس فريحة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Cambridge MS Add. 2020 and publications by Edward Sachau and Anis Frayha."
+    },
+    {
+      "timestamp": "00:13:46",
+      "claimEn": "An Aramaic papyrus manuscript of the Story of Ahiqar dating between 500 and 450 BCE was discovered in Elephantine/Philae, Egypt between 1906 and 1908.",
+      "claimAr": "اكتُشفت مخطوطة بردی آرامية لنص أحيقار تعود لعام 500-450 قبل الميلاد في جزيرة فيلة/ألفنتين في مصر بين عامي 1906 و1908.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the archaeological report of the German expedition to Elephantine papyri containing the Aramaic Ahiqar text."
+    },
+    {
+      "timestamp": "00:17:13",
+      "claimEn": "Al-Tabari records that Suwayd ibn al-Samit brought the 'Scroll of Ahiqar' (or Luqman) to Muhammad, showing pre-Quranic knowledge of the work in Arabia.",
+      "claimAr": "يذكر الطبري أن سويد بن الصامت كانت معه مجلة أحيقار (أو لقمان) وعرضها على محمد، مما يثبت معرفة العرب بالنص قبل القرآن.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Tarikh al-Tabari or Sirat Ibn Hisham regarding the account of Suwayd ibn al-Samit and 'Majallat Luqman'."
+    },
+    {
+      "timestamp": "00:19:01",
+      "claimEn": "Muhammad instructed Zayd ibn Thabit to learn Syriac to read texts coming to him in that language.",
+      "claimAr": "أمر محمد زيد بن ثابت بتعلم السريانية ليقرأ له الكتب الواردة بتلك اللغة.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah",
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Hadith reports in Sahih al-Bukhari and Sunan al-Tirmidhi regarding Zayd ibn Thabit learning the Syriac or Hebrew script."
+    },
+    {
+      "timestamp": "00:21:57",
+      "claimEn": "Aesop is a third historical/legendary parallel to Luqman and Ahiqar in Greek tradition who lived around the 6th or 3rd century BCE.",
+      "claimAr": "إيسوب هو شخصية ثالثة موازية للقمان وأحيقار في التراث الإغريقي عاش في القرن السادس أو الثالث قبل الميلاد.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check comparative classical literature between the Aesop Romance, Ahiqar, and Luqman."
+    },
+    {
+      "timestamp": "00:26:38",
+      "claimEn": "The Alexander Romance, which forms the basis for the Quranic story of Dhul-Qarnayn, is attributed to Aesop.",
+      "claimAr": "قصة سيرة الإسكندر، التي تشكل الأساس لقصة ذي القرنين في القرآن، تُنسب إلى إيسوب.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Pseudo-Callisthenes authorship traditions and its confusion/association with Aesopic literature."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:14",
+      "asStatedInVideo": "Surah Luqman verses",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "31:12-19",
+      "quotedArabic": "ولقد آتينا لقمان الحكمة أن اشكر لله ومن يشكر فإنما يشكر لنفسه ومن كفر فإن الله غني حميد وإذ قال لقمان لابنه وهو يعظه يا بني لا تشرك بالله إن الشرك لظلم عظيم... يا بني أقم الصلاة وأمر بالمعروف وانه عن المنكر واصبر على ما أصابك إن ذلك من عزم الأمور ولا تصعر خدك للناس ولا تمشِ في الأرض مرحاً إن الله لا يحب كل مختال فخور واقصد في مشيك واغضض من صوتك إن أنكر الأصوات لصوت الحمير",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:14",
+      "asStatedInVideo": "Al-Namir ibn Tawlab",
+      "workTitle": "",
+      "author": "Al-Namir ibn Tawlab",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:20",
+      "asStatedInVideo": "Lisan al-Arab by Ibn Manzur",
+      "workTitle": "Lisan al-Arab",
+      "author": "Ibn Manzur",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:20",
+      "asStatedInVideo": "Majma' al-Amthal by al-Maydani",
+      "workTitle": "Majma' al-Amthal",
+      "author": "Al-Maydani",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:40",
+      "asStatedInVideo": "Syriac manuscript in Cambridge 2020",
+      "workTitle": "Story of Ahiqar (Cambridge MS Add. 2020)",
+      "author": "",
+      "locator": "MS 2020",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:56",
+      "asStatedInVideo": "Edward Sachau",
+      "workTitle": "",
+      "author": "Edward Sachau",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:23",
+      "asStatedInVideo": "Anis Frayha",
+      "workTitle": "",
+      "author": "Anis Frayha",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:14:15",
+      "asStatedInVideo": "Aramaic papyrus found in Elephantine/Philae",
+      "workTitle": "Elephantine Papyri (Ahiqar text)",
+      "author": "",
+      "locator": "Folios 40-50",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:12",
+      "asStatedInVideo": "Al-Tabari report about Suwayd ibn al-Samit",
+      "workTitle": "Tarikh al-Tabari",
+      "author": "Al-Tabari",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:22",
+      "asStatedInVideo": "Zayd ibn Thabit",
+      "workTitle": "",
+      "author": "Zayd ibn Thabit",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:26:34",
+      "asStatedInVideo": "The Alexander Romance",
+      "workTitle": "The Alexander Romance",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "ahiqar-and-luqman-parallels",
+      "titleEn": "Ahiqar and Luqman Parallels",
+      "titleAr": "التوازي بين أحيقار ولقمان",
+      "descriptionEn": "Comparative study of the ancient Near Eastern wisdom literature of Ahiqar and the Quranic/Arabic traditions of Luqman.",
+      "descriptionAr": "دراسة مقارنة بين أدب الحكمة القديم لأحيقار والتراث القرآني والعربي حول لقمان.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The episode focuses specifically on the literary, linguistic, and structural parallels between the story of Ahiqar and Luqman in Islamic literature."
+    }
+  ]
+}

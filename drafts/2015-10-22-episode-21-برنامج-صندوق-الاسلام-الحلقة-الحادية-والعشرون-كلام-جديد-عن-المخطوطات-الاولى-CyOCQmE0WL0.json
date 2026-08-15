@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CyOCQmE0WL0",
+  "videoUrl": "https://www.youtube.com/watch?v=CyOCQmE0WL0",
+  "videoTitle": "Episode 21 برنامج صندوق الإسلام - الحلقة الحادية والعشرون: كلام جديد عن المخطوطات الاولى للقرآن",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151022",
+  "extractedAt": "2026-08-12T16:01:52+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this episode, Hamed Abdel-Samad invites manuscript researcher Mohamed Al-Masseyah to discuss the early Quranic manuscripts, focusing on the Sanaa palimpsest, orthographic and textual variations, and the historical development of Arabic scripts from Nabataean and Syriac roots rather than the Hijaz.",
+  "summaryAr": "في هذه الحلقة، يستضيف حامد عبد الصمد الباحث في المخطوطات محمد المسيّح لمناقشة مخطوطات القرآن الأولى، مع التركيز على مخطوطة صنعاء، والتغيرات النصية والخطية، والتطور التاريخي للخط العربي من أصول نبطية وسريانية وليس من الحجاز.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:04:22",
+      "stepEn": "Hamed Abdel-Samad introduces the topic of early Quranic manuscripts and questions why Muslim scholars neglect this critical field compared to Western scholars.",
+      "stepAr": "حامد عبد الصمد يطرح موضوع مخطوطات القرآن الأولى ويتساءل عن سبب تقصير وإهمال الباحثين المسلمين لهذا المجال مقارنة بالغربيين."
+    },
+    {
+      "timestamp": "00:06:27",
+      "stepEn": "Mohamed Al-Masseyah attributes this to neglect of empirical sciences and fear of touching theological taboos, noting that early manuscripts reveal textual changes and development.",
+      "stepAr": "محمد المسيّح يرجع ذلك إلى الإهمال والتركيز على العلوم اللاهوتية والخوف من الاقتراب من الخطوط الحمراء العقائدية، مشيراً إلى أن المخطوطات تكشف عن تغيرات وتطور في النص."
+    },
+    {
+      "timestamp": "00:09:42",
+      "stepEn": "Al-Masseyah prefers terms like 'change', 'enhancement', or 'development' over 'tahrif' (distortion) to describe variants, viewing them as stylistic and pedagogical improvements.",
+      "stepAr": "المسيّح يفضل استخدام مصطلحات مثل 'تغيير' أو 'استحسان' أو 'تطور' بدلاً من 'تحريف' لوصف الاختلافات، اعتباراً أنها تمت بقصد التسهيل والاستحسان."
+    },
+    {
+      "timestamp": "00:11:25",
+      "stepEn": "The speakers examine lower and upper text examples from the Sanaa palimpsest (DAM 01-27.1), pointing out letter ambiguity and word variations like 'tu'marun' vs 'ta'marun'.",
+      "stepAr": "استعراض أمثلة من النص السفلي والعلوي لمخطوطة صنعاء (د أ م 01-27.1)، والإشارة إلى عدم تنقيط الحروف واختلاف الكلمات مثل 'تؤمرون' و'تأمرون'."
+    },
+    {
+      "timestamp": "00:18:07",
+      "stepEn": "Al-Masseyah clarifies carbon-dating limitations for manuscripts like Birmingham (Arab 328c), emphasizing script and linguistic context over raw radiocarbon range.",
+      "stepAr": "المسيّح يوضح حدود فحص الكربون المشع لمخطوطات مثل برمنجهام (أرب 328 ج)، مؤكداً على أهمية معايير الخط واللغة والمستويات الفنية."
+    },
+    {
+      "timestamp": "00:21:00",
+      "stepEn": "Al-Masseyah and Abdel-Samad argue that 'Hijazi' script did not originate in Mecca/Medina (where Thamudic/Thamudic-like scripts were used) but evolved from Nabataean script in the northern region (Arabia Petraea) and was later influenced by Syriac Estrangelo.",
+      "stepAr": "المسيّح وعبد الصمد يوضحان أن الخط 'الحجازي' لم ينشأ في مكة والمدينة (حيث كان الخط الثمودي سائدًا) بل تطور من الخط النبطي في الشام (العرب البتراء)، ثم تأثر بالخط السرياني الاسترنجيلي."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:05:04",
+      "claimEn": "Muslim scholars significantly neglect the study and critical analysis of early Quranic manuscripts compared to Western researchers.",
+      "claimAr": "هناك تقصير وإهمال كبير من علماء الإسلام في الرجوع لمخطوطات القرآن الأولى ودراستها مقارنة بالباحثين الغربيين.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare academic output on early Quranic manuscripts between Western academia and traditional Islamic institutions."
+    },
+    {
+      "timestamp": "00:06:27",
+      "claimEn": "Early Quranic manuscripts demonstrate that the Quranic text underwent historical changes, embellishments, and evolution in spelling, diacritics, and vocalization.",
+      "claimAr": "المخطوطات القرآنية القديمة تظهر وقوع تغيير وتطور واستحسان في النص القرآني من حيث التنقيط والتشكيل والهمزات.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine manuscript folios (e.g., Sanaa palimpsest) for orthographic developments, diacritics, and textual variants."
+    },
+    {
+      "timestamp": "00:08:29",
+      "claimEn": "The lower text of the Sanaa palimpsest (DAM 01-27.1) contains major textual variations, additions, and omissions compared to the standard Uthmanic Quran.",
+      "claimAr": "توجد تغييرات وزيادة ونقصان نصوص كبيرة في النص السفلي لمخطوطة صنعاء (د أ م 01-27.1) مقارنة بالمصحف الحالي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check published transcriptions and multispectral images of the Sanaa palimpsest DAM 01-27.1 (e.g., Elisabeth Puin or Behnam Sadeghi)."
+    },
+    {
+      "timestamp": "00:11:49",
+      "claimEn": "In Hijazi script folios of Surah al-Qasas (e.g. folio 14 of DAM 01-27.1), letters like nun resemble present-day ra, and letter ra resembles present-day dal, lacking dots and vocalization.",
+      "claimAr": "في الخط الحجازي برقعة 14 من سورة القصص بمخطوطة صنعاء، حرف النون يشبه الراء الحالية وحرف الراء يشبه الدال، الخالية من النقاط والتشكيل.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Inspect folio 14 of DAM 01-27.1 for paleographic forms of nun and ra in Surah al-Qasas."
+    },
+    {
+      "timestamp": "00:14:16",
+      "claimEn": "In the lower text of the Sanaa palimpsest at Surah al-Hijr 15:65, the word appears as 'ta'marun' (تأمرون) with an alif instead of 'tu'marun' (تؤمرون) with a waw.",
+      "claimAr": "في النص السفلي لمخطوطة صنعاء بسورة الحجر آية 65، وردت كلمة 'تأمرون' بألف بدلاً من 'تؤمرون' بواو.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify reading of Surah al-Hijr 15:65 in the lower text transcription of DAM 01-27.1."
+    },
+    {
+      "timestamp": "00:14:56",
+      "claimEn": "Dr. Elisabeth Puin analyzed large portions of the Sanaa lower text and discovered hundreds of variations compared to the standard canonical Quran text.",
+      "claimAr": "قامت الدكتورة إليزابيث بوين بتحليل أجزاء كبيرة من النص السفلي لمخطوطة صنعاء واكتشفت مئات التغييرات مقارنة بالنص القرآني الحالي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Elisabeth Puin's published articles ('Ein frühes Koranfragment aus Sanaa') detailing variants in DAM 01-27.1."
+    },
+    {
+      "timestamp": "00:18:07",
+      "claimEn": "The Birmingham Quran manuscript leaves (Mingana 1572a/b) correspond to 16 leaves held in the Bibliothèque nationale de France under catalog Arabe 328c.",
+      "claimAr": "رقاع مخطوطة برمنجهام (منقانا 1572 أ و ب) تنتمي لنفس المصحف الذي توجد منه 16 رقعة بالمكتبة الوطنية الفرنسية تحت رقم أرب 328 ج.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm codicological unity between Mingana 1572a/b and BnF Arabe 328c as demonstrated by François Déroche and Alba Fedeli."
+    },
+    {
+      "timestamp": "00:18:50",
+      "claimEn": "Radiocarbon dating (C14) of early Quranic parchments can yield significant error ranges (50–100 years) and should be contextualized alongside paleography and script analysis.",
+      "claimAr": "فحص الكربون المشع لمخطوطات القرآن قد يعطي أخطاء تصل بين 50 إلى 100 سنة، ولابد من اعتماده مع معايير الخط واللغة والزخرفة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check methodological discussions by François Déroche on radiocarbon dating vs paleographic dating of early Quranic manuscripts."
+    },
+    {
+      "timestamp": "00:21:00",
+      "claimEn": "The term 'Hijazi script' was coined by 19th-century Italian orientalist Michele Amari, not by early medieval Arab grammarians.",
+      "claimAr": "مصطلح 'الخط الحجازي' أطلقه المستشرق الإيطالي ميكيل أماري في القرن التاسع عشر وليس تسمية قديمة نابعة من الحجاز نفسه.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify Michele Amari's 1850s classification of 'خط حجازي' (scrittura egiziana/higiazina) in Quranic paleography literature."
+    },
+    {
+      "timestamp": "00:23:13",
+      "claimEn": "The script native to the Central Hijaz region (Mecca and Medina) was Thamudic, which differs structurally from the Nabataean-derived Hijazi script used for the Quran.",
+      "claimAr": "الخط الذي كان مستخدماً في منطقة مكة والمدينة هو الخط الثمودي، وهو يختلف تماماً عن الخط الحجازي الذي دون به القرآن.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check epigraphic evidence for epigraphic South Arabian / Thamudic scripts vs Nabataeo-Arabic script evolution in Central and Northern Arabia."
+    },
+    {
+      "timestamp": "00:25:03",
+      "claimEn": "The early Arabic Quranic script evolved from the Nabataean script, which itself developed from Aramaic in Northern Arabia (Arabia Petraea/Syria).",
+      "claimAr": "الخط الحجازي الأول ينتمي للخط النبطي الذي تطور من الخط الآرامي في شمال الجزيرة العربية والشام.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult paleographic literature on the evolution of Aramaic to Nabataean to early Arabic script (e.g. Beatrice Gruendler, Robert Hoyland)."
+    },
+    {
+      "timestamp": "00:25:42",
+      "claimEn": "The Syriac Estrangelo script influenced the development of the early Hijazi script into the formal Kufic script.",
+      "claimAr": "الخط السرياني، وتحديداً خط الأسترانجيلو، أثر على الخط الحجازي وتطوره ليصبح الخط الكوفي فيما بعد.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify theories regarding Syriac Estrangelo influence on Kufic Quranic calligraphy in paleographic studies."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:01:40",
+      "asStatedInVideo": "إدوارد جالي",
+      "workTitle": "",
+      "author": "Édouard Gallez",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:40",
+      "asStatedInVideo": "كريستوف لوكسبيرغ",
+      "workTitle": "",
+      "author": "Christoph Luxenberg",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:04",
+      "asStatedInVideo": "الأستاذ قدوري",
+      "workTitle": "",
+      "author": "Ghanim Kaddouri al-Hamad",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:00",
+      "asStatedInVideo": "الدكتور بوين",
+      "workTitle": "",
+      "author": "Gerd-Rüdiger Puin",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:00",
+      "asStatedInVideo": "الدكتور فرانسوا ديروش",
+      "workTitle": "",
+      "author": "François Déroche",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:00",
+      "asStatedInVideo": "ماركوس غروس",
+      "workTitle": "",
+      "author": "Markus Groß",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:49",
+      "asStatedInVideo": "سورة القصص ... مَن جاء بالحسنةِ",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "28:84",
+      "quotedArabic": "مَن جاء بالحسنةِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:16",
+      "asStatedInVideo": "سورة الحجر الآية 65 ... وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "15:65",
+      "quotedArabic": "وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:56",
+      "asStatedInVideo": "الدكتورة إليزابيث بوين",
+      "workTitle": "",
+      "author": "Elisabeth Puin",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:00",
+      "asStatedInVideo": "الدكتور روبرت كير",
+      "workTitle": "",
+      "author": "Robert M. Kerr",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:11",
+      "asStatedInVideo": "مستشرق إيطالي اسمه أماري",
+      "workTitle": "",
+      "author": "Michele Amari",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "videoId": "LrMRyQnRRLM",
+  "videoUrl": "https://www.youtube.com/watch?v=LrMRyQnRRLM",
+  "videoTitle": "صندوق الإسلام 22  قصة جمع القرآن فى زمن عثمان بن عفان 22 Episode",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151026",
+  "extractedAt": "2026-08-12T16:02:22+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Brother Rachid and scholar Mohammad Almaseeh discuss the development of early Quranic manuscripts, the pre-Islamic Arabic dialects and scripts, the Syriac linguistic and textual influences on the Quran, and the historical reality of the Quranic collection under Uthman ibn Affan and later under Al-Hajjaj ibn Yusuf. They argue that surviving early codices attributed to Uthman are actually late Hijazi or Kufic copies, and that the text underwent multiple stages of modification and standardization.",
+  "summaryAr": "يناقش الأخ رشيد والباحث محمد المسيح تطور المخطوطات القرآنية المبكرة، واللهجات والخطوط العربية قبل الإسلام، والتأثيرات اللغوية والنصية السريانية على القرآن، والرواية التاريخية لجمع القرآن في عهد عثمان بن عفان وثم في عهد الحجاج بن يوسف الثقافي. ويدعيان أن المصاحف المبكرة الناجية المنسوبة إلى عثمان هي في الواقع نسخ كوفية أو حجازية متأخرة، وأن النص مر بمراحل متعددة من التعديل والتوحيد.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:32",
+      "stepEn": "Introductory recap stating that in pre-Islamic times there was no unified Arabic language, unified dialect, or unified Arabic script.",
+      "stepAr": "مقدمة تلخص أنه لم تكن هناك لغة عربية موحدة ولا لهجة موحدة ولا خط عربي موحد في العصر الجاهلي."
+    },
+    {
+      "timestamp": "00:01:49",
+      "stepEn": "Discussion of the Nabataean script developing into the Hijazi script, as shown in the Namara inscription of Imru' al-Qays.",
+      "stepAr": "مناقشة تطور الخط النبطي إلى الخط الحجازي كما يظهر في نقش النمارة لقبر امرؤ القيس."
+    },
+    {
+      "timestamp": "00:04:40",
+      "stepEn": "Examines the Syriac Estrangelo script and claims that interaction between Hijazi and Syriac scripts produced the Kufic script.",
+      "stepAr": "فحص الخط السرياني الاسترانجيلي والادعاء بأن التفاعل بين الخط الحجازي والسرياني أدى إلى ظهور الخط الكوفي."
+    },
+    {
+      "timestamp": "00:05:35",
+      "stepEn": "Introduces Garshuni script as a hybrid system used by Syriac monks and traders, arguing that Syriac was the lingua franca of the region.",
+      "stepAr": "تقديم الخط الكرشوني كخط هجين استخدمه الرهبان والتجار السريان، والقول إن السريانية كانت اللغة السائدة (lingua franca) في المنطقة."
+    },
+    {
+      "timestamp": "00:07:00",
+      "stepEn": "Claims Quranic vocabulary (such as Tur, Salah, Zakah, Hanif) contains Syriac origins or shifts in meaning.",
+      "stepAr": "ادعاء أن المفردات القرآنية (مثل الطور، صلاة، زكاة، حنيف) تحتوي على أصول سريانية أو تحولات في المعنى."
+    },
+    {
+      "timestamp": "00:08:00",
+      "stepEn": "Cites Christoph Luxenberg's view that the Quranic text reflects a shared Judeo-Christian heritage and stories like the Seven Sleepers (Ephesus) derived from Jacob of Serugh.",
+      "stepAr": "الاستشهاد برأي كريستوفر لوكسمبورغ بأن النص القرآني يعكس تراثاً مشركاً وبأن قصة أهل الكهف مأخوذة من يعقوب السروجي."
+    },
+    {
+      "timestamp": "00:10:00",
+      "stepEn": "Argues that early Arabic script without diacritics (dots) allowed multiple interpretations and readings, giving the example of 'tabbat'.",
+      "stepAr": "الادعاء بأن الخط العربي المبكر بدون إعجام (نقط) سمح بتأويلات وقراءات متعددة، واستشهاد بكلمة 'تبت'."
+    },
+    {
+      "timestamp": "00:13:00",
+      "stepEn": "Examines the traditional narrative of Uthman's collection of the Quran and questions the authenticity of famous surviving copies (Topkapi, Samarkand, Al-Hussein).",
+      "stepAr": "مناقشة السردية التقليدية لجمع عثمان للقرآن والتشكيك في أصالة المصاحف الشهيرة المتبقية (طوب كابي، سمرقند، المشهد الحسيني)."
+    },
+    {
+      "timestamp": "00:16:00",
+      "stepEn": "Claims no manuscript actually dates to the time of Uthman and proposes that textual standardization continued under Al-Hajjaj ibn Yusuf.",
+      "stepAr": "ادعاء عدم وجود أي مخطوطة ترجع لزمن عثمان واقتراح أن توحيد النص استمر في عهد الحجاج بن يوسف."
+    },
+    {
+      "timestamp": "00:18:30",
+      "stepEn": "Discusses early companion codices (Ibn Mas'ud, Ubayy, Ali) and details Ibn Mas'ud's exclusion of Al-Fatiha and Al-Mu'awwidhatayn.",
+      "stepAr": "مناقشة مصاحف الصحابة المبكرة (ابن مسعود، أُبي، علي) وتفصيل استبعاد ابن مسعود للسورة الفاتحة والمعوذتين."
+    },
+    {
+      "timestamp": "00:20:30",
+      "stepEn": "Explains why Zayd ibn Thabit was selected over senior companions like Ibn Mas'ud and Ubayy due to his formal scribal education and knowledge of Hebrew/Syriac.",
+      "stepAr": "تفسير سبب اختيار زيد بن ثابت بدلاً من كبار الصحابة مثل ابن مسعود وأُبي نظراً لتعليمه الكتابي ومعرفته بالعبرية/السريانية."
+    },
+    {
+      "timestamp": "00:23:30",
+      "stepEn": "Mentions variant surah lengths, citing Aisha's report that Surah al-Ahzab originally equaled Surah al-Baqarah in length.",
+      "stepAr": "ذكر اختلاف أطوال السور، والاستشهاد برواية عائشة أن سورة الأحزاب كانت تضاهي سورة البقرة طولاً."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:01:10",
+      "claimEn": "The Hijaz region (Mecca and Medina) used the Thamudic script rather than the Nabataean/Hijazi script during the time of the Quran's revelation.",
+      "claimAr": "منطقة الحجاز (مكة والمدينة) كانت تستخدم الخط الثمودي بدلاً من الخط النبطي/الحجازي في زمن نزول القرآن.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify epigraphic studies regarding pre-Islamic scripts in the Hijaz versus North Arabia."
+    },
+    {
+      "timestamp": "00:02:15",
+      "claimEn": "The Namara inscription of Imru' al-Qays (4th century CE) proves the evolution from Nabataean script to Hijazi Arabic script.",
+      "claimAr": "نقش النمارة لقبر امرؤ القيس (القرن الرابع الميلادي) يثبت تطور الخط النبطي إلى الخط الحجازي العربي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Namara inscription text and paleographic analysis of Arabic script development."
+    },
+    {
+      "timestamp": "00:04:40",
+      "claimEn": "The Kufic script developed through the interaction of the Hijazi script with the Syriac Estrangelo script.",
+      "claimAr": "الخط الكوفي تطور بتفاعل الخط الحجازي مع الخط السرياني الاسترانجيلي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult paleographical scholarship on the origins of Kufic script and Syriac influence."
+    },
+    {
+      "timestamp": "00:05:35",
+      "claimEn": "Garshuni script (Arabic language written in Syriac letters) was widely used by Syriac monks for proselytizing and Arab traders for commerce.",
+      "claimAr": "الخط الكرشوني (كتابة العربية بحروف سريانية) كان مستخدماً على نطاق واسع من قبل الرهبان السريان للتبشير والتجار العرب للتجارة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical literature on Garshuni texts and pre-Islamic Arab-Syriac trade literacy."
+    },
+    {
+      "timestamp": "00:07:00",
+      "claimEn": "Quranic words such as 'Tur', 'Salah', 'Zakah', 'Malakut', 'Subhan', and 'Hanif' have Syriac origins or altered meanings.",
+      "claimAr": "كلمات قرآنية مثل 'الطور' و'صلاة' و'زكاة' و'ملائكوت' و'سبحان' و'حنيف' ذات أصول سريانية أو معانٍ مختلفة في السريانية.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Arabic-Syriac lexicography and Arthur Jeffery's 'The Foreign Vocabulary of the Qur'an'."
+    },
+    {
+      "timestamp": "00:08:15",
+      "claimEn": "Christoph Luxenberg considers the Quranic text to be a shared cultural heritage between Muslims and Christians.",
+      "claimAr": "يعتبر الدكتور كريستوفر لوكسمبورغ النص القرآني تراثاً ثقافياً مشتركاً بين المسلمين والمسيحيين.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "sirah-christian-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Christoph Luxenberg's 'The Syro-Aramaic Reading of the Koran'."
+    },
+    {
+      "timestamp": "00:08:45",
+      "claimEn": "The Quranic story of the Companions of the Cave (People of the Cave) is derived from a symbolic homily written by Jacob of Serugh about the persecution of Christians.",
+      "claimAr": "قصة أهل الكهف في القرآن مأخوذة من قصيدة رمزية كتبها يعقوب السروجي عن اضطهاد المسيحيين.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels",
+        "sirah-christian-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Surah al-Kahf (18:9-26) with Jacob of Serugh's memra on the Seven Sleepers of Ephesus."
+    },
+    {
+      "timestamp": "00:11:00",
+      "claimEn": "Without diacritical dots, a word like 'tabbat' in early Arabic script could theoretically be read in 29 different ways.",
+      "claimAr": "بدون نقاط، كلمة مثل 'تبت' في الخط العربي المبكر يمكن قراءتها نظرياً بـ 29 طريقة مختلفة.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Verify paleographic permutations of unpointed initial t-b-t sequence in early orthography."
+    },
+    {
+      "timestamp": "00:14:15",
+      "claimEn": "Scientific manuscript examination shows that no surviving Quran manuscript or codex (such as Mashhad al-Husseini, Samarkand, or Topkapi) actually dates to the time of Caliph Uthman.",
+      "claimAr": "الفحص العلمي للمخطوطات يظهر عدم وجود أي مصحف أو مخطوطة متبقية (مثل المشهد الحسيني أو سمرقند أو طوب كابي) تعود لزمن الخليفة عثمان.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check paleographic studies and radiocarbon dating of the Samarkand, Topkapi, and Cairo codices (e.g., Tayyar Altıkulaç)."
+    },
+    {
+      "timestamp": "00:14:40",
+      "claimEn": "Dr. Tayyar Altıkulaç confirmed that manuscripts attributed to Uthman are merely 'attributed' and do not date to his era.",
+      "claimAr": "أكد الدكتور طيار آلتي قولاچ أن المصاحف المنسوبة إلى عثمان هي مجرد 'منسوبة' ولا تعود إلى عصره.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Dr. Tayyar Altıkulaç's published works on the Topkapi and Al-Mashhad Al-Husseini codices."
+    },
+    {
+      "timestamp": "00:15:00",
+      "claimEn": "The Mashhad al-Husseini codex contains cross markings and textual readings compiled from Syrian, Kufan, and Meccan regional readings, proving it is a later composite copy.",
+      "claimAr": "مصحف المشهد الحسيني يحتوي على علامات صلبان ورراءات مجمعة من مصاحف الشام والكوفة ومكة، مما يثبت أنه نسخة مركبة متأخرة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Examine textual analysis of the Al-Mashhad Al-Husseini Quran codex in Cairo."
+    },
+    {
+      "timestamp": "00:17:00",
+      "claimEn": "Al-Hajjaj ibn Yusuf and Ubayd Allah ibn Ziyad made modifications to the Quranic text, such as adding the alif of prolongation, and burned non-conforming codices.",
+      "claimAr": "الحجاج بن يوسف وعبيد الله بن زياد أدخلا تعديلات على النص القرآني، كإدخال ألف المد، وحرقا المصاحف المخالفة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Kitab al-Masahif by Ibn Abi Dawood regarding the structural modifications attributed to Al-Hajjaj and Ibn Ziyad."
+    },
+    {
+      "timestamp": "00:18:45",
+      "claimEn": "Abdullah ibn Mas'ud did not consider Surah al-Fatiha or Al-Mu'awwidhatayn (Surahs 113 and 114) to be part of the Quran.",
+      "claimAr": "عبد الله بن مسعود لم يكن يعتبر الفاتحة ولا المعوذتين (سورتي الفلق والناس) من القرآن.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Kitab al-Masahif of Ibn Abi Dawood and Tafsir Ibn Kathir / Suyuti's al-Itqan for Ibn Mas'ud's codex contents."
+    },
+    {
+      "timestamp": "00:19:15",
+      "claimEn": "Muhammad said in a hadith: 'Learn the Quran from four: Ibn Umm Abd (Ibn Mas'ud), Salim the freed slave of Abu Hudhayfah, Ubayy ibn Ka'b, and Mu'adh ibn Jabal.'",
+      "claimAr": "قال محمد في حديث: 'خذوا القرآن عن أربعة: عن ابن أم عبد (ابن مسعود)، وسالم مولى أبي حذيفة، وأُبي بن كعب، ومعاذ بن جبل.'",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "hadith",
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sahih al-Bukhari (Hadith 3758, 4999) and Sahih Muslim."
+    },
+    {
+      "timestamp": "00:20:15",
+      "claimEn": "Uthman sidelined senior Quran scholars like Ibn Mas'ud and Ubayy ibn Ka'b and appointed Zayd ibn Thabit to head the codification committee.",
+      "claimAr": "تنحية عثمان لكبار علماء القرآن مثل ابن مسعود وأُبي بن كعب وتكليفه لزيد بن ثابت برئاسة لجنة جمع المصحف.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sahih al-Bukhari (Hadith 4987) and Kitab al-Masahif for historical details on the compilation committee."
+    },
+    {
+      "timestamp": "00:21:00",
+      "claimEn": "Abdullah ibn Mas'ud strongly protested Zayd ibn Thabit leading the Quran compilation committee, insulting Zayd by saying he was in his father's loins as an infidel while Ibn Mas'ud was learning surahs.",
+      "claimAr": "اعترض عبد الله بن مسعود بشدة على تولي زيد بن ثابت لجنة جمع القرآن، وعايره بأنه كان في صلب أبيه كافراً بينما كان ابن مسعود يحفظ السور.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Jami' at-Tirmidhi (Hadith 3104) and Ibn Sa'd's Tabaqat regarding Ibn Mas'ud's reaction."
+    },
+    {
+      "timestamp": "00:21:40",
+      "claimEn": "Zayd ibn Thabit was selected for the Quran collection because of his formal scribal education in Jewish schools, knowledge of Hebrew and Syriac, and expertise in manuscript compilation techniques.",
+      "claimAr": "تم اختيار زيد بن ثابت لجمع القرآن بسبب دراسته المدرسية عند اليهود ومعرفته بالعبرية والسريانية وخبرته الفنية في التدوين والنسخ.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check reports in Sunan at-Tirmidhi and Musnad Ahmad on Zayd ibn Thabit learning the script of the Jews / Syriac."
+    },
+    {
+      "timestamp": "00:23:45",
+      "claimEn": "Aisha reported that Surah al-Ahzab originally matched Surah al-Baqarah in length (approx. 200 verses) before shrinking to 73 verses.",
+      "claimAr": "ذكرت عائشة أن سورة الأحزاب كانت تضاهي سورة البقرة في الطول (نحو 200 آية) قبل أن تتقلص إلى 73 آية.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "quran-internal-tensions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Al-Itqan fi Ulum al-Qur'an by al-Suyuti and Al-Mustadrak by al-Hakim for Aisha's narration on Surah al-Ahzab."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "event",
+      "timestamp": "00:02:15",
+      "asStatedInVideo": "نقش النمارة لقبر امرؤ القيس",
+      "workTitle": "Namaara Inscription",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:15",
+      "asStatedInVideo": "الباحث كريستوفر لوكسمبورغ",
+      "author": "Christoph Luxenberg",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:45",
+      "asStatedInVideo": "يعقوب السروجي",
+      "author": "Jacob of Serugh",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:00",
+      "asStatedInVideo": "تبت يدا أبي لهب وتب",
+      "locator": "111:1",
+      "quotedArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:14:40",
+      "asStatedInVideo": "الدكتور طيار آلتي قولاچ",
+      "author": "Tayyar Altıkulaç",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:00",
+      "asStatedInVideo": "الحجاج بن يوسف الثقفي وعبيد الله بن زياد",
+      "author": "Al-Hajjaj ibn Yusuf & Ubayd Allah ibn Ziyad",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:30",
+      "asStatedInVideo": "عبد الله بن مسعود وأبي بن كعب وعلي بن أبي طالب",
+      "author": "Abdullah ibn Mas'ud, Ubayy ibn Ka'b, Ali ibn Abi Talib",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:19:15",
+      "asStatedInVideo": "حديث: خذوا القرآن عن أربعة...",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:15",
+      "asStatedInVideo": "زيد بن ثابت",
+      "author": "Zayd ibn Thabit",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:45",
+      "asStatedInVideo": "رواية عن عائشة حول سورة الأحزاب",
+      "author": "Aisha bint Abi Bakr",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

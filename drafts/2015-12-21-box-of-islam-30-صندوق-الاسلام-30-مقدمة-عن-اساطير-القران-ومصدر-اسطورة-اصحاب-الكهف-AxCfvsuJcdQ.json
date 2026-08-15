@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "videoId": "AxCfvsuJcdQ",
+  "videoUrl": "https://www.youtube.com/watch?v=AxCfvsuJcdQ",
+  "videoTitle": "Box of islam 30  صندوق الإسلام 30 مقدمة عن اساطير القرآن ومصدر أسطورة أصحاب الكهف",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151221",
+  "extractedAt": "2026-08-12T16:04:37+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Brother Rachid and guest Mohamed Al-Maseeh analyze the origin of the Quranic narrative of the Companions of the Cave (Surah al-Kahf). They argue that the Quranic account is derived from a 5th/6th-century Syriac homily (memra) written by Jacob of Serugh about the Seven Sleepers of Ephesus. They claim that the Quran treats a symbolic Christian sermon as historical fact, and suggest that linguistic corruptions and misreadings in the unpointed Arabic script transformed an original reference to a guarding angel (\"kal'uhum\" or \"raqib\") into a dog (\"kalbuhum\") and a tablet (\"raqim\").",
+  "summaryAr": "يقدم الأخ رشيد وضيفه محمد المسيح تحليلاً لنقد أصول قصة أصحاب الكهف في القرآن (سورة الكهف). ويزعمان أن الرواية القرآنية مأخوذة من ميمار سرياني رمزي كتبه يعقوب السروجي في أواخر القرن الخامس أو بداية القرن السادس الميلادي عن قديسي أفسس. ويرى المشاركان أن القرآن تعامل مع قصة رمزية وعظية كأنها حادثة تاريخية حقيقية، كما يعرضان فرضية مفادها أن التصحيف اللغوي والأخطاء في قراءة النص العربي غير المنقوط حوّلا كلمة \"كالئهم\" (الملاك الحارس) أو \"الرقيب\" إلى \"كلبهم\" و\"الرقيم\".",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:44",
+      "stepEn": "The host points out that the phrase 'fables of the ancients' (asatir al-awwalin) occurs seven times in the Quran.",
+      "stepAr": "استعراض ورود عبارة 'أساطير الأولين' سبع مرات في القرآن."
+    },
+    {
+      "timestamp": "00:01:23",
+      "stepEn": "The host argues that in most verses mentioning 'asatir al-awwalin', the Quran does not explicitly refute the charge, except in Surah al-Furqan.",
+      "stepAr": "القول بأن القرآن لا يدافع عن نفسه بوجه اتهام الأساطير في معظم المواضع باستثناء سورة الفرقان."
+    },
+    {
+      "timestamp": "00:03:12",
+      "stepEn": "The host asserts that many Quranic stories have known prior sources in the Old Testament, apocrypha, and earlier Christian or Assyrian literature.",
+      "stepAr": "الادعاء بأن العديد من القصص القرآنية لها مصادر سابقة معروفة في العهد القديم والأدب المسيحي والآشوري."
+    },
+    {
+      "timestamp": "00:05:34",
+      "stepEn": "The host notes that the Quran presents the story of the Companions of the Cave as literal historical truth ('we narrate to you their news in truth').",
+      "stepAr": "الإشارة إلى أن القرآن يقدم قصة أصحاب الكهف كحقيقة تاريخية واقعة ('نحن نقص عليك نبأهم بالحق')."
+    },
+    {
+      "timestamp": "00:08:12",
+      "stepEn": "Mohamed Al-Maseeh states that the story originated as a symbolic sermon written in Syriac by Jacob of Serugh in the late 5th/early 6th century.",
+      "stepAr": "بيان محمد المسيح أن أصل القصة هي موعظة رمزية كتبها يعقوب السروجي بالسريانية في أواخر القرن الخامس أو بداية القرن السادس الميلادي."
+    },
+    {
+      "timestamp": "00:11:46",
+      "stepEn": "The guest details how Jacob of Serugh's text framed seven soldiers taking refuge in a cave for 372 years to illustrate the resurrection and the triumph of Christianity over Roman persecution.",
+      "stepAr": "شرح كيف صاغ يعقوب السروجي القصة عن سبعة جنود لجأوا لكهف وناموا 372 سنة لترسيخ عقيدة البعث وانتصار المسيحية."
+    },
+    {
+      "timestamp": "00:14:41",
+      "stepEn": "The guest claims the story was widely known as folk heritage in the late-antique Near East, leading to questions posed to Muhammad about the Sleepers.",
+      "stepAr": "الادعاء بأن القصة كانت متداولة كتراث مشترك في الشرق الأدنى، مما دفع لمساءلة النضر بن الحارث لمحمد عنها."
+    },
+    {
+      "timestamp": "00:21:10",
+      "stepEn": "The guest proposes that the word 'al-Raqim' in the Quran was originally 'al-Raqib' (a guarding angel in Syriac) due to early Arabic script ambiguity.",
+      "stepAr": "افتراض أن كلمة 'الرقيم' في القرآن كان أصلها 'الرقيب' (بمعنى الملاك الحارس بالسريانية) نتيجة التطور الخطي."
+    },
+    {
+      "timestamp": "00:24:25",
+      "stepEn": "The guest argues that the word read as 'kalbuhum' (their dog) was originally an unpointed 'kal'uhum' (their guardian/protector), based on non-canonical readings and Syriac/Coptic parallels.",
+      "stepAr": "الاستدلال بقراءة شاذة نُسبت لأبي عمر الزاهد لقراءة 'كالئهم' بدلاً من 'كلبهم' للقول إن المقصود بالأصل هو ملاك حارس وليس كلباً."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:44",
+      "claimEn": "The phrase 'asatir al-awwalin' (fables of the ancients) appears seven times in the Quran.",
+      "claimAr": "عبارة 'أساطير الأولين' مذكورة سبع مرات في القرآن.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Editor must check the Quranic text concordance to verify whether 'asatir al-awwalin' occurs exactly seven times."
+    },
+    {
+      "timestamp": "00:01:23",
+      "claimEn": "In six out of seven instances, the Quran does not directly refute the charge of presenting 'fables of the ancients' like it refutes claims of Muhammad being mad or a poet.",
+      "claimAr": "في ست آيات من أصل سبع، لا يدافع القرآن عن نفسه في رد اتهام الأساطير كما يدافع في اتهامات الجنون والشعر.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran",
+        "quran-internal-tensions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Editor should inspect the six Quranic passages (in al-An'am, al-Anfal, an-Nahl, al-Qalam, al-Mutaffifin) and their surrounding context to verify whether immediate refutations occur."
+    },
+    {
+      "timestamp": "00:02:49",
+      "claimEn": "Scholar Muhammad Ahmad Khalafallah stated that 'asatir' in Quranic context refers to topics like resurrection rather than mythical stories.",
+      "claimAr": "ذكر الباحث محمد أحمد خلف الله أن كلمة أساطير في السياق القرآني تشير إلى فكرة البعث وليست الأسطورة بالمعنى المعاصر.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the writings of Muhammad Ahmad Khalafallah (e.g., 'Al-Fann al-Qasasi fi al-Qur'an al-Karim') regarding his interpretation of 'asatir al-awwalin'."
+    },
+    {
+      "timestamp": "00:03:54",
+      "claimEn": "The story of Abraham being thrown into the fire does not exist in the Genesis text of the Old Testament but is found in later Jewish legends/Midrash.",
+      "claimAr": "قصة إلقاء إبراهيم في النار غير موجودة في سفر التكوين بالعهد القديم، لكنها موجودة في أساطير يهودية وميدراشية أخرى.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Editor should confirm the absence of the Abraham-in-fire narrative in Genesis and verify its presence in Rabbinic texts (e.g., Genesis Rabbah 38:13)."
+    },
+    {
+      "timestamp": "00:04:20",
+      "claimEn": "The story of Muhammad and Abu Bakr hiding in the cave with divine protection parallels Christian literary stories, such as that of Felix of Nola.",
+      "claimAr": "قصة محمد وأبي بكر في الغار تتوازى مع الأدب المسيحي لقصة فيليكس النولي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "sirah-christian-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare early Islamic sirah reports of the cave during the Hijrah with the hagiography of Paulinus of Nola regarding St. Felix hiding in a cave/ruin covered by a spider web."
+    },
+    {
+      "timestamp": "00:04:34",
+      "claimEn": "The sayings and wisdom of Luqman in the Quran closely mirror ancient Assyrian literature (the Ahikar legend).",
+      "claimAr": "حكم ووصايا لقمان في القرآن تتطابق مع الأدب الآشوري القديم (قصة أحيقار).",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check parallels between Surah Luqman and the Aramaic/Assyrian 'Story of Ahikar' (specifically maxims on speech and donkey braying)."
+    },
+    {
+      "timestamp": "00:05:36",
+      "claimEn": "The Quran presents the narrative of the Companions of the Cave as literal historical truth rather than a parable.",
+      "claimAr": "القرآن يعرض قصة أصحاب الكهف كحقيقة تاريخية واقعة وليس كمثل رمزي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Quran 18:13 ('We relate to you their story in truth') compared to explicit parable language ('wa-drib lahum mathalan') in Surah al-Kahf."
+    },
+    {
+      "timestamp": "00:07:20",
+      "claimEn": "Etymologically, the word 'asatir' derives from the root s-t-r (to write/record), meaning written or documented texts.",
+      "claimAr": "كلمة أساطير مشتقة لغوياً من الفعل سطّر بمعنى كتب ودوّن.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Arabic lexicographical sources (Lisan al-Arab, Taj al-Arus) for the root s-t-r and classical etymologies/loanword hypotheses for 'astur'/'asatir' (e.g., Greek 'historia' or Syriac 'setar')."
+    },
+    {
+      "timestamp": "00:08:12",
+      "claimEn": "The story of the Companions of the Cave was originally written as a symbolic sermon (memra) by Jacob of Serugh in Syriac in the late 5th or early 6th century.",
+      "claimAr": "قصة أهل الكهف كتبها يعقوب السروجي كموعظة رمزية (ميمار) بالسريانية في أواخر القرن الخامس أو بداية القرن السادس الميلادي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify Jacob of Serugh's Syriac 'Memra on the Sleepers of Ephesus' (late 5th/early 6th c.) and its textual relationship to the Seven Sleepers legend."
+    },
+    {
+      "timestamp": "00:09:23",
+      "claimEn": "The oldest surviving Syriac manuscript of Jacob of Serugh's text is kept in the Vatican Library and dates to the 7th century CE.",
+      "claimAr": "أقدم نص سرياني لمخطوطة يعقوب السروجي محفوظ في مكتبة الفاتيكان ويعود للقرن السابع الميلادي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Editor should verify manuscript catalogs for Vatican Syriac manuscripts containing Jacob of Serugh's homilies (e.g., Vat. Syr. 115 or similar) and their paleographical dates."
+    },
+    {
+      "timestamp": "00:11:46",
+      "claimEn": "Jacob of Serugh's narrative specifies seven soldiers who fled Roman persecution in the 3rd century and slept in a cave for 372 years.",
+      "claimAr": "قصة يعقوب السروجي تحدد عدد الفتية برقم سبعة وأنهم جنود فروا من الاضطهاد الروماني في القرن الثالث وناموا 372 سنة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check published translations/editions of Jacob of Serugh's homily on the Sleepers of Ephesus to confirm the details: 7 soldiers, 372 years, location in Ephesus."
+    },
+    {
+      "timestamp": "00:15:00",
+      "claimEn": "According to Islamic asbab al-nuzul, Al-Nadr ibn al-Harith asked Muhammad three questions about the Sleepers of Ephesus, Dhu al-Qarnayn, and the Ruh.",
+      "claimAr": "حسب أسباب النزول الإسلامية، وجه النضر بن الحارث ثلاثة أسئلة لمحمد عن فتية أفسس، وذي القرنين، والروح.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Editor should check classical tafsir literature (e.g., Ibn Kathir, al-Tabari on Surah 18:9) and Sirah Ibn Hisham regarding the delegation of Quraysh sending Al-Nadr ibn al-Harith to Jewish rabbis in Medina."
+    },
+    {
+      "timestamp": "00:20:10",
+      "claimEn": "Islamic scholars offered around fifteen different interpretations for the word 'al-Raqim' in Surah al-Kahf.",
+      "claimAr": "اختلف علماء الإسلام في معنى كلمة الرقيم على نحو 15 تفسيراً مختلفاً.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Editor should check classical tafsir collections (e.g., al-Qurtubi or al-Tabari on Quran 18:9) for the number of distinct interpretations recorded for 'al-Raqim'."
+    },
+    {
+      "timestamp": "00:21:10",
+      "claimEn": "The Quranic word 'al-Raqim' was originally 'al-Raqib' (meaning a guarding angel in Syriac), altered through scribal/phonetic shift from b to m.",
+      "claimAr": "كلمة 'الرقيم' في القرآن كان أصلها 'الرقيب' (بمعنى الملاك الحارس بالسريانية)، وحصل فيها تحول لغوي أو تصحيف خطي بين الباء والميم.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check Syriac lexicography for 'raqiba' / 'raqiba' (guardian angel) and textual-critical studies proposing a scribal error (b/m) in the Quranic text."
+    },
+    {
+      "timestamp": "00:24:49",
+      "claimEn": "Early Quranic manuscripts, such as the Samarkand manuscript, write 'w-k-l-b-h-m' without diacritics or dots.",
+      "claimAr": "المخطوطات القرآنية المبكرة مثل مخطوطة سمرقند كتبت الكلمة 'وكلبهم' بدون تنقيط أو تشكيل.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check high-resolution images of the Samarkand/Tashkent Quran manuscript at Surah 18:18."
+    },
+    {
+      "timestamp": "00:25:31",
+      "claimEn": "A non-canonical variant reading attributed to Abu 'Amr al-Zahid reads 'kali'uhum' (their guardian) instead of 'kalbuhum' (their dog).",
+      "claimAr": "هناك قراءة شاذة منسوبة لأبي عمر الزاهد تقرأ 'كالئهم' بدلاً من 'كلبهم'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Abd al-Latif al-Khatib's 'Mu'jam al-Qira'at' or Ibn Jinni's 'Al-Muhtasab' for the reading 'kali'uhum' attributed to Abu 'Amr al-Zahid on Quran 18:18."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:50",
+      "asStatedInVideo": "Surah al-An'am",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "6:25",
+      "quotedArabic": "حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:56",
+      "asStatedInVideo": "Surah al-Anfal",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "8:31",
+      "quotedArabic": "لَوْ نَشَاءُ لَقُلْنَا مِثْلَ هَٰذَا ۙ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:03",
+      "asStatedInVideo": "Surah an-Nahl",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "16:24",
+      "quotedArabic": "وَإِذَا قِيلَ لَهُم مَّاذَا أَنزَلَ رَبُّكُمْ ۙ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:08",
+      "asStatedInVideo": "Surah al-Qalam",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "68:15",
+      "quotedArabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:18",
+      "asStatedInVideo": "Surah al-Mutaffifin",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "83:13",
+      "quotedArabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:51",
+      "asStatedInVideo": "Surah al-Furqan",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "25:5-6",
+      "quotedArabic": "وَقَالُوا أَسَاطِيرُ الْأَوَّلِينَ اكْتَتَبَهَا فَهِيَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا قُلْ أَنزَلَهُ الَّذِي يَعْلَمُ السِّرَّ فِي السَّمَاوَاتِ وَالْأَرْضِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:49",
+      "asStatedInVideo": "Muhammad Ahmad Khalafallah",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:20",
+      "asStatedInVideo": "إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "9:40",
+      "quotedArabic": "إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:29",
+      "asStatedInVideo": "Felix of Nola (فيليكس النولي)",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:43",
+      "asStatedInVideo": "إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "31:19",
+      "quotedArabic": "إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:14",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:13",
+      "quotedArabic": "إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:26",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:32",
+      "quotedArabic": "وَاضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لأَحَدِهِمَا جَنَّتَيْنِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:36",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:13",
+      "quotedArabic": "نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:03",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:25",
+      "quotedArabic": "ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:13",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:18",
+      "quotedArabic": "بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:17",
+      "asStatedInVideo": "Jacob of Serugh (يعقوب السروجي)",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:05",
+      "asStatedInVideo": "Al-Nadr ibn al-Harith (النضر بن الحارث)",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:44",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:23-24",
+      "quotedArabic": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا إِلَّا أَن يَشَاءَ اللَّهُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:18:20",
+      "asStatedInVideo": "Surah al-Kahf",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "18:22",
+      "quotedArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:26:42",
+      "asStatedInVideo": "Surah al-Anbiya",
+      "workTitle": "Quran",
+      "author": "",
+      "locator": "21:42",
+      "quotedArabic": "قُلْ مَن يَكْلَؤُكُم بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:25:31",
+      "asStatedInVideo": "Mu'jam al-Qira'at by al-Khatib",
+      "workTitle": "Mu'jam al-Qira'at",
+      "author": "al-Khatib",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:25:31",
+      "asStatedInVideo": "Abu 'Amr al-Zahid (أبي عمر الزاهد)",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": []
+}

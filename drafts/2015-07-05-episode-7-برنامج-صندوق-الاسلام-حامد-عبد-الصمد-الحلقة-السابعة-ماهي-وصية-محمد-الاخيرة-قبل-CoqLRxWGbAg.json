@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "videoId": "CoqLRxWGbAg",
+  "videoUrl": "https://www.youtube.com/watch?v=CoqLRxWGbAg",
+  "videoTitle": "Episode 7 (برنامج صندوق الإسلام - حامد عبد الصمد: الحلقة السابعة (ماهي وصية محمد الاخيرة قبل وفاتة؟",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150705",
+  "extractedAt": "2026-08-12T13:59:54+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this episode, Hamed Abdel-Samad discusses the immediate aftermath of Muhammad's death, focusing on the story of the calamity of Thursday (Muhammad's request for writing materials), the political power struggle at Saqifat Bani Sa'idah, the mysterious death of Sa'd ibn Ubadah, the forced allegiance of Ali and Fatimah, and the subsequent emergence of the Hadith corpus as a political tool to justify governance, taxation, and violence.",
+  "summaryAr": "يناقش حامد عبد الصمد في هذه الحلقة الأحداث المباشرة التي تلت وفاة محمد، مع التركيز على قصة رزية الخميس (طلب محمد كتابة وصيته)، والصراع السياسي في سقيفة بني ساعدة، والموت الغامض لسعد بن عبادة، وإجبار علي وفاطمة على البيعة، ثم ظهور علم الحديث كأداة سياسية لتبرير الحكم والضرائب والقتل.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:45",
+      "stepEn": "Argues that Muhammad did not anticipate the continuation of life after his death and failed to leave a succession plan or a unified Quranic text.",
+      "stepAr": "يجادل بأن محمد لم يتوقع استمرار الحياة بعده ولم يترك خطة للخلافة أو نصاً قرآنياً مجمعاً."
+    },
+    {
+      "timestamp": "00:01:34",
+      "stepEn": "Presents the story of the pen and paper on Muhammad's deathbed and Umar's refusal to let him write a will.",
+      "stepAr": "يعرض قصة طلب القلم والورق على فراش الموت ورفض عمر بن الخطاب كتابة الوصية."
+    },
+    {
+      "timestamp": "00:04:08",
+      "stepEn": "Describes the political factionalism at Saqifat Bani Sa'idah while Muhammad's body remained unburied.",
+      "stepAr": "يصف الانقسام السياسي في سقيفة بني ساعدة بينما كانت جثة محمد لم تُدفن بعد."
+    },
+    {
+      "timestamp": "00:05:22",
+      "stepEn": "Examines the assassination of Sa'd ibn Ubadah and its mythical justification involving jinn.",
+      "stepAr": "يفحص مقتل سعد بن عبادة والتبرير الخرافي المتعلق بالجن."
+    },
+    {
+      "timestamp": "00:08:30",
+      "stepEn": "Contrasts Sunni and Shia accounts regarding the coercion of Ali and Fatimah to pledge allegiance to Abu Bakr.",
+      "stepAr": "يقارن بين الروايتين السنية والشيعية بشأن إجبار علي وفاطمة على مبايعة أبي بكر."
+    },
+    {
+      "timestamp": "00:11:10",
+      "stepEn": "Explains how Abu Bakr's declaration of Muhammad's death triggered apostasy and tax resistance, prompting the fabrication of Hadith by Abu Hurairah and political allies.",
+      "stepAr": "يشرح كيف أدى إعلان أبي بكر وفاة محمد إلى حركات الردة ورفض الزكاة، مما دفع إلى وضع الأحاديث بواسطة أبي هريرة وحلفائه السياسيين."
+    },
+    {
+      "timestamp": "00:19:16",
+      "stepEn": "Concludes that Hadith and Sirah literature were created over time to justify state power and dynastic rule.",
+      "stepAr": "يخلص إلى أن الأحاديث وأدبيات السيرة تم اختلاقها عبر الزمن لتبرير السلطة والأنظمة الحاكمة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:45",
+      "claimEn": "Muhammad believed the End Times were imminent and did not leave instructions on political governance.",
+      "claimAr": "ادعى المتحدث أن محمد كان يعتقد أن الساعة وشيكة ولم يترك أي تعليمات بشأن الحكم السياسي.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check eschatological traditions and political governance reports in early Islamic literature."
+    },
+    {
+      "timestamp": "00:01:05",
+      "claimEn": "Muhammad did not collect the Qur'an into a single compiled codex during his lifetime.",
+      "claimAr": "ادعى المتحدث أن محمد لم يجمع القرآن في كتاب واحد خلال حياته.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check historical reports in Sahih al-Bukhari regarding the collection of the Quran under Abu Bakr."
+    },
+    {
+      "timestamp": "00:01:34",
+      "claimEn": "On his deathbed, Muhammad requested pen and paper to write a final will, but Umar ibn al-Khattab refused, saying Muhammad was delirious.",
+      "claimAr": "ادعى المتحدث أن محمد طلب على فراش موته ورقة وقلم ليكتب وصية، لكن عمر بن الخطاب رفض قائلاً إنه يهجر (يهذي).",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "hadith-ethical-controversies"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Hadith of the Pen and Paper (Calamity of Thursday) in Sahih al-Bukhari and Sahih Muslim."
+    },
+    {
+      "timestamp": "00:03:34",
+      "claimEn": "Al-Abbas reacted to Umar's prevention of Muhammad's writing with severe dismay, calling it a total calamity.",
+      "claimAr": "ادعى المتحدث أن العباس اعترض بحدة على منع عمر لمحمد من كتابة الوصية ووصف ذلك بأنه الرزية كلها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Ibn Abbas's statement 'الرزية كل الرزية' in Sahih al-Bukhari."
+    },
+    {
+      "timestamp": "00:03:50",
+      "claimEn": "Muhammad's companions left his body unburied in Aisha's room for three days to compete over leadership at Saqifat Bani Sa'idah.",
+      "claimAr": "ادعى المتحدث أن الصحابة تركوا جثة محمد غير مدفونة في غرفة عائشة لمدة ثلاثة أيام للنزاع على الخلافة في سقيفة بني ساعدة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check early historical sources (Ibn Hisham, al-Tabari, Ibn Sa'd) for the timeline of Muhammad's burial."
+    },
+    {
+      "timestamp": "00:05:41",
+      "claimEn": "Muslim historians such as Ibn Hajar and Ibn Sa'd recorded that Sa'd ibn Ubadah was killed by jinn in Syria because he refused to pledge allegiance to Umar.",
+      "claimAr": "ادعى المتحدث أن المؤرخين المسلمين مثل ابن حجر وابن سعد ذكروا أن سعد بن عبادة قُتل على يد الجن في الشام لرفضه بيعة عمر.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Tabaqat Ibn Sa'd and Tahdhib al-Tahdhib by Ibn Hajar regarding the narrative of Sa'd ibn Ubadah's death."
+    },
+    {
+      "timestamp": "00:06:25",
+      "claimEn": "The Quranic endorsement of jinn and supernatural claims leads to widespread belief in jinn-related crimes and superstitions in modern Arab society.",
+      "claimAr": "ادعى المتحدث أن إقرار القرآن للجن والغيبيات أدى إلى انتشار الخرافات والبلاغات ضد الجن في المجتمعات العربية الحديثة.",
+      "claimType": "ethical",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Examine Quranic passages on jinn (e.g., Surah al-Jinn) and sociological studies on belief in jinn."
+    },
+    {
+      "timestamp": "00:09:00",
+      "claimEn": "Some followers delayed Muhammad's burial for three days believing he would rise from the dead like Jesus.",
+      "claimAr": "ادعى المتحدث أن بعض الاتباع أخروا دفن محمد لمدة ثلاثة أيام ظناً منهم أنه سيقوم من بين الأموات كالمسيح.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check early Islamic historical accounts regarding the belief in Muhammad's resurrection immediately after his death."
+    },
+    {
+      "timestamp": "00:09:30",
+      "claimEn": "Sunni traditions in al-Tabari present Ali's reluctance to pledge allegiance mildly, whereas Shia accounts in al-Ya'qubi state Umar threatened to burn Fatimah's house.",
+      "claimAr": "ادعى المتحدث أن الروايات السنية لدى الطبري تعرض تردد علي بشكليات، بينما ذكر اليعقوبي الشيعي أن عمر هدد بحرق بيت فاطمة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Tarikh al-Tabari (Vol. 2) with Tarikh al-Ya'qubi regarding the event of forced allegiance."
+    },
+    {
+      "timestamp": "00:11:10",
+      "claimEn": "Abu Bakr's declaration 'Whoever worshipped Muhammad, Muhammad is dead' triggered widespread apostasy because many tribes only followed Muhammad personally.",
+      "claimAr": "ادعى المتحدث أن خطبة أبي بكر 'من كان يعبد محمداً فإن محمداً قد مات' تسببت في موجة ارتداد لأن القبائل كانت تتبع محمداً شخصياً.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the speeches of Abu Bakr in early chronicles like Tarikh al-Tabari."
+    },
+    {
+      "timestamp": "00:13:26",
+      "claimEn": "Abu Hurairah was a poor beggar who spent only two and a half years with Muhammad but later produced thousands of political Hadiths to aid Abu Bakr and Umar.",
+      "claimAr": "ادعى المتحدث أن أبا هريرة كان شحاتاً فقيراً عاش سنتين ونصف فقط مع النبي، واستُغفل لاحقاً لإخراج آلاف الأحاديث السياسية لتأييد أبي بكر وعمر.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check biographical entries for Abu Hurairah in Siyar A'lam al-Nubala and Hadith count statistics."
+    },
+    {
+      "timestamp": "00:14:00",
+      "claimEn": "The hadith 'I have been commanded to fight people until they say there is no god but Allah and pay Zakat' was fabricated to justify military enforcement of taxes.",
+      "claimAr": "ادعى المتحدث أن حديث 'أمرت أن أقاتل الناس حتى يشهدوا أن لا إله إلا الله ويؤتوا الزكاة' تم افتراءه لتبرير فرض الزكاة بالقوة العسكرية.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check narrations of this Hadith in Sahih al-Bukhari and analysis in Hadith critical studies."
+    },
+    {
+      "timestamp": "00:15:40",
+      "claimEn": "Aisha narrated over 2,300 hadiths because she was Abu Bakr's daughter, whereas other wives like Um Salamah and Safiyyah narrated very few.",
+      "claimAr": "ادعى المتحدث أن عائشة روت أكثر من 2300 حديث لأنها ابنة أبي بكر، بينما لم تروَ أزواج أخرى مثل أم سلمة وصفية إلا القليل.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "hadith",
+        "women"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Hadith counts attributed to Aisha, Umm Salamah, and Safiyyah in Musnad Ahmad and Jawami' al-Sirah."
+    },
+    {
+      "timestamp": "00:19:50",
+      "claimEn": "Umar appointed Abu Hurairah as governor of Bahrain but later dismissed him and accused him of embezzling public funds.",
+      "claimAr": "ادعى المتحدث أن عمر عين أبا هريرة والياً على البحرين ثم عزله واتهمه بأكل مال المسلمين والسرقة.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check reports of Abu Hurairah's governorship in Bahrain and Umar's audit in Ibn Sa'd and Ibn Abd al-Barr."
+    },
+    {
+      "timestamp": "00:20:50",
+      "claimEn": "Ibn Ishaq compiled the Sirah 130 years after Muhammad's death, filled with myths and legends, later redacted by Ibn Hisham.",
+      "claimAr": "ادعى المتحدث أن ابن إسحاق جمع السيرة بعد 130 سنة من وفاة محمد وهي مليئة بالأساطير، وتم تعديلها لاحقاً بواسطة ابن هشام.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine the introduction of As-Sirah an-Nabawiyyah by Ibn Hisham and modern critical studies on Ibn Ishaq."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "hadith",
+      "timestamp": "00:01:05",
+      "asStatedInVideo": "بعثت أنا والساعة كهاتين",
+      "workTitle": "Sahih al-Bukhari / Sahih Muslim",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "بُعِثْتُ أَنَا وَالسَّاعَةُ كَهَاتَيْنِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:34",
+      "asStatedInVideo": "Hadith of Pen and Paper / Calamity of Thursday",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "اتركوا رسول الله فقد اشتد عليه الوجع / اتركوا رسول الله فإنه يهجر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:34",
+      "asStatedInVideo": "Al-Abbas",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "الرَّزِيَّةُ كُلُّ الرَّزِيَّةِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:06:05",
+      "asStatedInVideo": "Works of Ibn Hajar and Ibn Sa'd",
+      "workTitle": "Tabaqat / Tahdhib al-Tahdhib",
+      "author": "Ibn Sa'd / Ibn Hajar",
+      "locator": "",
+      "quotedArabic": "نَحْنُ قَتَلْنَا سَيِّدَ الخَزْرَجِ سَعْدَ بْنَ عُبَادَة / وَرَ‌مَيْنَاهُ بِسَهْمَيْنِ فَلَمْ نُخْطِئْ فُؤَادَه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:05",
+      "asStatedInVideo": "Surah al-Jinn",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "Surah 72",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:30",
+      "asStatedInVideo": "Tarikh al-Tabari, part 2",
+      "workTitle": "Tarikh al-Tabari",
+      "author": "Al-Tabari",
+      "locator": "Part 2",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:59",
+      "asStatedInVideo": "Tarikh al-Ya'qubi",
+      "workTitle": "Tarikh al-Ya'qubi",
+      "author": "Al-Ya'qubi",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:38",
+      "asStatedInVideo": "Abu Bakr's speech upon Muhammad's death",
+      "workTitle": "",
+      "author": "Abu Bakr",
+      "locator": "",
+      "quotedArabic": "مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ وَمَنْ كَانَ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لاَ يَمُوتُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:14:00",
+      "asStatedInVideo": "Hadith of fighting people until they testify and pay Zakat",
+      "workTitle": "Sahih al-Bukhari",
+      "author": "Abu Hurairah",
+      "locator": "",
+      "quotedArabic": "أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَيُقِيمُوا الصَّلاَةَ وَيُؤْتُوا الزَّكَاةَ فَإِنْ فَعَلُوا عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:45",
+      "asStatedInVideo": "ما فرطنا في الكتاب من شيء",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "6:38",
+      "quotedArabic": "مَا فَرَّطْنَا فِي الكِتَابِ مِنْ شَيْءٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:50",
+      "asStatedInVideo": "من بدل دينه فاقتلوه",
+      "workTitle": "Sahih al-Bukhari",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "مَنْ بَدَّلَ دِينَهُ فَاقْتُلُوهُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:20:50",
+      "asStatedInVideo": "Sirah of Ibn Ishaq redacted by Ibn Hisham",
+      "workTitle": "Al-Sirah al-Nabawiyyah",
+      "author": "Ibn Ishaq / Ibn Hisham",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

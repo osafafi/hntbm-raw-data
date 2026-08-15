@@ -1,0 +1,22 @@
+# Secrets and authentication material
+.env
+.env.*
+!.env.example
+cookies.txt
+credentials*.json
+client_secret*.json
+*.key
+*.pem
+*.p12
+
+# Re-downloadable media and interrupted downloads
+audio/
+*.part
+
+# Python and OS/editor artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

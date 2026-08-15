@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "videoId": "2CkVhyHpf8o",
+  "videoUrl": "https://www.youtube.com/watch?v=2CkVhyHpf8o",
+  "videoTitle": "صندوق الإسلام 27 كلام جديد عن كتاب لوكسنبرج عن القراءة الآرامية للقرآن",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151130",
+  "extractedAt": "2026-08-12T16:02:52+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In episode 27 of Box of Islam, host Hamed Abdel-Samad discusses Christoph Luxenberg's Syro-Aramaic reading of the Qur'an alongside guests Muhammad al-Masih and Dr. Ibrahim Malik. The episode focuses on how reading the early unpointed Arabic text through Syro-Aramaic and Syriac Christian liturgy reinterprets obscure Quranic terminology and concepts—such as 'Quran', 'surah', 'furqan', 'hur 'in', and 'ma malakat aymanukum'—shifting their meaning from late Islamic tradition toward early Syriac Christian backgrounds.",
+  "summaryAr": "في الحلقة 27 من برنامج صندوق الإسلام، يناقش حامد عبد الصمد كتاب القراءة السريانية الآرامية للقرآن لكريستوف لوكسنبرغ بمشاركة الأستاذ محمد المسيّح والدكتور إبراهيم مالك. تركز الحلقة على كيفية إعادة تفسير المصطلحات القرآنية المبهمة والمفاهيم الإسلامية — مثل القرآن، السورة، الفرقان، الحور العين، وما ملكت أيمانكم — عبر رد النص القرآني غير المنقوط إلى أصوله السريانية والطقوس المسيحية السريانية.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:31",
+      "stepEn": "Hamed Abdel-Samad introduces the topic of deciphering the language of the Qur'an and compares Christoph Luxenberg's 2000 book to Champollion's decipherment of the Rosetta Stone.",
+      "stepAr": "يقدم حامد عبد الصمد موضوع فك رموز لغة القرآن ويشبه كتاب كريستوف لوكسنبرغ الصادر عام 2000 بإنجاز شامبليون في فك رموز حجر رشيد."
+    },
+    {
+      "timestamp": "00:01:58",
+      "stepEn": "Abdel-Samad presents Luxenberg's claim that roughly 25% of the Qur'an's vocabulary was misunderstood by Muslim commentators because they ignored its Syro-Aramaic roots.",
+      "stepAr": "يعرض عبد الصمد ادعاء لوكسنبرغ بأن حوالي 25% من كلمات القرآن أسيء فهمها من قِبل المفسرين لإهمالهم جذورها السريانية والآرامية."
+    },
+    {
+      "timestamp": "00:03:52",
+      "stepEn": "Muhammad al-Masih explains that 'Qur'an' originates from the Syriac word 'Qeryana', meaning a Christian lectionary or liturgical book used in church readings.",
+      "stepAr": "يشرح محمد المسيح أن كلمة 'قرآن' تعود إلى الجذر السرياني 'قريان' بمعنى كتاب القراءات الكنسية أو الليتورجية."
+    },
+    {
+      "timestamp": "00:06:01",
+      "stepEn": "Dr. Ibrahim Malik describes the historical relation between Aramaic/Syriac and Northern Arabic, asserting that Arabic was not yet an established written literary language at the time of the Qur'an.",
+      "stepAr": "يشرح الدكتور إبراهيم مالك العلاقة التاريخية بين الآرامية/السريانية والعربية الشمالية، مؤكداً أن العربية لم تكن لغة كتابية أدبية مستقرة وقت نزول القرآن."
+    },
+    {
+      "timestamp": "00:08:59",
+      "stepEn": "Dr. Malik explains the Karshuni (Garshuni) script—Arabic written in Syriac letters—as evidence of early linguistic and orthographic overlap between Syriac and Arabic.",
+      "stepAr": "يوضح الدكتور مالك خط الكرشوني (الجَرْشُوني) — كتابة العربية بالحرُوف السريانية — كدليل على التداخل اللغوي والكتابي المبكر بين السريانية والعربية."
+    },
+    {
+      "timestamp": "00:11:24",
+      "stepEn": "Dr. Malik discusses the Syriac origin of the term 'surah', tracing it to the Syriac concept of 'surtho', meaning 'text' or 'scriptural text'.",
+      "stepAr": "يناقش الدكتور مالك الأصل السرياني لكلمة 'سورة'، وراداً إياها إلى المفهوم السرياني 'صورث' بمعنى النص أو نص الكتاب المقدس."
+    },
+    {
+      "timestamp": "00:13:22",
+      "stepEn": "Dr. Malik and Abdel-Samad examine 'al-Furqan', asserting that in Syriac theology 'furqana' means 'salvation' (redemption) and 'faruq' refers to Christ as savior.",
+      "stepAr": "يناقش الدكتور مالك وعبد الصمد مصطلح 'الفرقان'، مؤكدين أنه في اللاهوت السرياني يعني 'الخلاص' وأن 'الفاروق' يشير إلى المسيح المخلص."
+    },
+    {
+      "timestamp": "00:16:31",
+      "stepEn": "Al-Masih and Abdel-Samad discuss Luxenberg's reinterpretation of paradise motifs, arguing that 'hur 'in' refers to white grapes (symbolizing eternal life) rather than heavenly maidens.",
+      "stepAr": "يناقش المسيح وعبد الصمد إعادة تفسير لوكسنبرغ لوصف الجنة، مجادلين بأن 'الحور العين' تعني العنب الأبيض (رمز الحياة الأبدية) وليس حوريات إناثاً."
+    },
+    {
+      "timestamp": "00:20:13",
+      "stepEn": "Al-Masih presents Luxenberg's reading of marital verses and 'ma malakat aymanukum', claiming it refers to legal wives under covenant rather than female concubines.",
+      "stepAr": "يعرض المسيح قراءة لوكسنبرغ لآيات النكاح و'ما ملكت أيمانكم'، معتبراً أنها تشير إلى الزوجة الشرعية المعقود عليها بعهد وليست السراري الإماء."
+    },
+    {
+      "timestamp": "00:23:29",
+      "stepEn": "Dr. Malik explains how misread unpointed Arabic manuscript texts led commentators to read 'zawwajnahum bi-hur 'in' instead of Aramaic-based readings like 'rawwahnahum' among white grapes.",
+      "stepAr": "يشرح الدكتور مالك كيف أدى غياب التنقيط في المخطوطات المبكرة بالمفسرين إلى قراءة 'زوجناهم بحور عين' بدلاً من قراءتها بمعنى أرحناهم أو أروحناهم بين العنب الأبيض."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:01:58",
+      "claimEn": "Christoph Luxenberg discovered that roughly 25% of Quranic vocabulary is obscure or misinterpreted because commentators failed to recognize its Syro-Aramaic roots.",
+      "claimAr": "اكتشف كريستوف لوكسنبرغ أن حوالي 25% من كلمات القرآن مبهمة أو أسيء تفسيرها لأن المفسرين لم يفهموا جذورها السريانية والآرامية.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Luxenberg's 'Die syro-aramäische Lesart des Koran' (2000) for his quantitative claim regarding obscure Quranic words."
+    },
+    {
+      "timestamp": "00:04:00",
+      "claimEn": "Islamic sources themselves state that the word 'Qur'an' is not derived from the Arabic root 'qara'a' but from the Syriac word 'Qeryana'.",
+      "claimAr": "بعض المصادر الإسلامية نفسها تقول إن كلمة القرآن ليست من جذر 'قرأ' بل من الجذر السرياني 'قريان'.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check classical Islamic lexicographical literature (e.g., al-Suyuti's al-Itqan) for discussions on non-Arabic origins of the word Qur'an."
+    },
+    {
+      "timestamp": "00:04:35",
+      "claimEn": "The hamzah was invented by al-Khalil ibn Ahmad al-Farahidi in the 2nd century AH and did not exist in early Hijazi or Kufic scripts.",
+      "claimAr": "الهمزة هي من اختراع الخليل بن أحمد الفراهيدي في القرن الثاني للهجرة ولم تكن موجودة في الخطوط القديمة كالخط الحجازي والكوفي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check early Arabic palaeography studies and al-Farahidi's grammatical contributions regarding orthographic signs."
+    },
+    {
+      "timestamp": "00:04:45",
+      "claimEn": "Without the hamzah, the word 'Qur'an' would be read as 'Quran' and traces back to Syriac 'Qeryana', meaning a church lectionary or liturgical reading collection.",
+      "claimAr": "بدون الهمزة تقرأ الكلمة 'قران' وتعود للغة السريانية بمعنى كتاب القراءات البيعية أو تجميعة للصلوات والنصوص المستخدمة في الكنيسة.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Luxenberg's analysis of 'Qur'an' / 'Qeryana' and Syriac liturgical terminology."
+    },
+    {
+      "timestamp": "00:07:02",
+      "claimEn": "The Qur'an is the first full book written in the Arabic language.",
+      "claimAr": "القرآن هو أول كتاب عربي كامل تم تدوينه.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran",
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic Arabic literary and historical scholarship on whether any full books preceded the Qur'an in Northern Arabic."
+    },
+    {
+      "timestamp": "00:07:47",
+      "claimEn": "At the time of the Quranic revelation, Arabic did not exist as a developed written literary language capable of recording a complex text without relying on Aramaic/Syriac.",
+      "claimAr": "وقت نزول القرآن لم تكن هناك لغة عربية كتابية مستقلة بداتها قادرة على تدوين نص أدبي معقد مثل القرآن.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check epigraphic and linguistic literature on Northern Arabic script development prior to the 7th century."
+    },
+    {
+      "timestamp": "00:09:02",
+      "claimEn": "Karshuni (Garshuni) script refers to writing the Arabic language using the Syriac alphabet.",
+      "claimAr": "الخط الكرشوني أو الجرشوني هو الخط السرياني الذي استخدم لكتابة اللغة العربية.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check linguistic and manuscript definition of Karshuni/Garshuni texts."
+    },
+    {
+      "timestamp": "00:11:05",
+      "claimEn": "Theodor Nöldeke was the first scholar to discover the Syriac origin of the word 'Qur'an'.",
+      "claimAr": "ثيودور نولدكه كان أول من اكتشف الأصل السرياني لكلمة 'قرآن'.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Nöldeke's 'Geschichte des Qorans' to confirm if he proposed the Syriac origin of 'Qur'an' prior to Luxenberg."
+    },
+    {
+      "timestamp": "00:11:31",
+      "claimEn": "The word 'surah' is derived from the Syriac 'surtho' (surath kthaba), meaning text or scriptural text.",
+      "claimAr": "كلمة 'سورة' مشتقة من التعبير السرياني 'صورث' (صورث كتابا) بمعنى نص الكتاب المقدس.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Syriac 'surtho' with Quranic 'surah' in Luxenberg and Syriac lexicons."
+    },
+    {
+      "timestamp": "00:13:27",
+      "claimEn": "In Syriac Christian usage, 'furqana' means salvation/redemption, and 'faruq' refers to Christ as the savior of humanity.",
+      "claimAr": "كلمة 'الفرقان' عند السريان تعني الخلاص، و'الفاروق' تشير إلى المسيح بمفهوم مخلص البشرية.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the theological and lexicographical usage of 'furqana' and 'faruqa' in Syriac Christian liturgy and scriptures."
+    },
+    {
+      "timestamp": "00:14:29",
+      "claimEn": "Sura 25:1 ('Tabaraka alladhi nazzala al-furqana 'ala 'abdihi') originally meant 'Blessed is He who sent down salvation upon His servant'.",
+      "claimAr": "الآية 'تبارك الذي نزل الفرقان على عبده' كان معناها الأصلي 'تبارك الذي نزل الخلاص على عبده'.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare classical Quranic exegesis (Tafsir al-Tabari) on 25:1 with Luxenberg's Syro-Aramaic translation."
+    },
+    {
+      "timestamp": "00:16:38",
+      "claimEn": "The phrase 'hur 'in' in the Qur'an does not refer to heavenly maidens but to white grapes, which symbolize eternal life in Syriac Christian symbolism.",
+      "claimAr": "عبارة 'حور عين' في القرآن لا تعني حوريات الجنة ولا النساء بل تعني العنب الأبيض الذي يرمز للحياة الأبدية في المفهوم المسيحي السرياني.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Luxenberg's textual re-pointing of 'hur 'in' and Ephrem the Syrian's Hymns on Paradise for white grapes motifs."
+    },
+    {
+      "timestamp": "00:18:45",
+      "claimEn": "Christian iconography, such as paintings at the Wadi El Natrun monastery, depicts Abraham giving white grapes to believers as a symbol of eternal life.",
+      "claimAr": "الأيقونات المسيحية، مثل اللوحات في دير وادي النطرون، تصور إبراهيم وهو يعطي المؤمنين العنب الأبيض كرمز للحياة الأبدية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check art history records and wall paintings at Dayr al-Suryan or other monasteries in Wadi El Natrun regarding Abraham and grapes."
+    },
+    {
+      "timestamp": "00:20:13",
+      "claimEn": "The Quranic phrase 'ma malakat aymanukum' does not refer to female concubines but to the legal wife with whom a marriage covenant was established.",
+      "claimAr": "عبارة 'ما ملكت أيمانكم' في القرآن لا تقصد الإماء أو ملك اليمين بل تقصد الزوجة الشرعية التي أُعطيت عهد الزواج.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "slavery",
+        "women",
+        "quran"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check Luxenberg's linguistic arguments on 'aymanukum' (oaths/covenants) vs concubinage in Quranic legal passages."
+    },
+    {
+      "timestamp": "00:21:08",
+      "claimEn": "Sura 4:3 allows marrying multiple wives ('mathna wa-thulatha wa-ruba'a') only as an exception for orphans and widows who need support.",
+      "claimAr": "تعدد الزوجات في سورة النساء 'مثنى وثلاث ورباع' هو استثناء فقط في حالة اليتامى والأرامل اللاتي يحتجن إلى معيل.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "women",
+        "quran"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check Tafsir literature and Luxenberg's reading of Sura 4:3."
+    },
+    {
+      "timestamp": "00:24:30",
+      "claimEn": "The phrase 'wa-zawwajnahum bi-hur 'in' arose from a misunderstanding of unpointed manuscripts; in Aramaic prepositional usage, 'b' meant 'between' and the root 'z-w-j' unpointed read 'rawwahnahum', meaning 'we refreshed/rested them among white grapes'.",
+      "claimAr": "عبارة 'وزوجناهم بحور عين' نشأت بسبب سوء فهم المخطوطة غير المنقوطة؛ فكلمة 'زوجناهم' بدون نقط تقرأ 'روّحناهم' وحرف الباء بالآرامية يعني 'بين'، فتصبح 'أرحناهم بين العنب الأبيض'.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Luxenberg's emendation of 'zawwajnahum' to 'rawwahnahum' and his reading of preposition 'bi-' in Syro-Aramaic."
+    },
+    {
+      "timestamp": "00:26:11",
+      "claimEn": "The word 'jannah' derives from Aramaic 'ganntha', originally meaning a covered or shaded place such as a grape arbour (trellis).",
+      "claimAr": "كلمة 'جنة' تعود لأصل آرامي 'جِنّثا' بمعنى محل مستور أو عريشة العنب.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-reading"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Aramaic/Syriac 'ganntha' with Arabic 'jannah' in Semitic philology."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:51",
+      "asStatedInVideo": "كريستوف لوكسنبرغ",
+      "workTitle": "",
+      "author": "Christoph Luxenberg",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:00:57",
+      "asStatedInVideo": "كتاب باللغة الألمانية صدر سنة 2000 (القراءة السريانية الآرامية للقرآن)",
+      "workTitle": "Die syro-aramäische Lesart des Koran",
+      "author": "Christoph Luxenberg",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:04",
+      "asStatedInVideo": "شامبليون",
+      "workTitle": "",
+      "author": "Jean-François Champollion",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:04",
+      "asStatedInVideo": "الحملة الفرنسية إلى مصر سنة 1798",
+      "workTitle": "",
+      "author": "",
+      "locator": "1798",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:35",
+      "asStatedInVideo": "الخليل بن أحمد الفراهيدي في القرن الثاني للهجرة",
+      "workTitle": "",
+      "author": "al-Khalil ibn Ahmad al-Farahidi",
+      "locator": "2nd century AH",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:24",
+      "asStatedInVideo": "امرؤ القيس",
+      "workTitle": "Qabr Imru' al-Qays inscription",
+      "author": "Imru' al-Qays",
+      "locator": "Namara inscription",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:05",
+      "asStatedInVideo": "ثيودور نولدكه، يلي كتب تاريخ القرآن",
+      "workTitle": "Geschichte des Qorans",
+      "author": "Theodor Nöldeke",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:12",
+      "asStatedInVideo": "الطبري",
+      "workTitle": "Tafsir al-Tabari",
+      "author": "al-Tabari",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:48",
+      "asStatedInVideo": "تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَى عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "25:1",
+      "quotedArabic": "تَبَارَكَ الَّذِي نَزَّلَ الْفُرْقَانَ عَلَى عَبْدِهِ لِيَكُونَ لِلْعَالَمِينَ نَذِيرًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:20:36",
+      "asStatedInVideo": "فإن خفتم ألا تعدلوا فواحدة",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "4:3",
+      "quotedArabic": "فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:08",
+      "asStatedInVideo": "فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "4:3",
+      "quotedArabic": "فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَى وَثُلَاثَ وَرُبَاعَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:23",
+      "asStatedInVideo": "وزوجناهم بحور عين",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "44:54 / 52:20",
+      "quotedArabic": "وَزَوَّجْنَاهُمْ بِحُورٍ عِينٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:58",
+      "asStatedInVideo": "كواعب أتراباً وكأساً دهاقاً",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "78:33-34",
+      "quotedArabic": "وَكَوَاعِبَ أَتْرَابًا وَكَأْسًا دِهَاقًا",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "syro-aramaic-quran-reading",
+      "titleEn": "Syro-Aramaic Philological Readings of the Qur'an",
+      "titleAr": "القراءة السريانية الآرامية لنص القرآن",
+      "descriptionEn": "Philological theories and manuscript studies proposing that obscure Quranic vocabulary and grammar should be interpreted through Syro-Aramaic etymology and Christian liturgical backgrounds.",
+      "descriptionAr": "النظريات اللغوية والدراسات المخطوطية التي تقترح تفسير الألفاظ والنصوص القرآنية المبهمة من خلال الأصول السريانية الآرامية والطقوس المسيحية.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The video repeatedly focuses on Christoph Luxenberg's methodology of using Syro-Aramaic to decipher Quranic vocabulary and textual transmission errors."
+    }
+  ]
+}

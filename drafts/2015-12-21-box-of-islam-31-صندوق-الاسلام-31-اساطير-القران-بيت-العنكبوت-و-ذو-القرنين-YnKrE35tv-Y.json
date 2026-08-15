@@ -1,0 +1,385 @@
+{
+  "schemaVersion": 1,
+  "videoId": "YnKrE35tv-Y",
+  "videoUrl": "https://www.youtube.com/watch?v=YnKrE35tv-Y",
+  "videoTitle": "Box of islam 31 صندوق الاسلام 31 اساطير القرآن، بيت العنكبوت و ذو القرنين",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151221",
+  "extractedAt": "2026-08-12T16:05:07+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this episode, Rachid Hammami and researcher Muhammad al-Masih discuss the literary origins of Quranic stories and traditions. They explore how the story of the Companions of the Cave relies on Christian hagiography (such as Jacob of Serugh and Saint Felix of Nola), examine the myth of the spider web at the cave during Muhammad's emigration, and analyze the account of Dhu al-Qarnayn in Surah al-Kahf as a adaptation of the Syriac Alexander Legend and the Alexander Romance.",
+  "summaryAr": "في هذه الحلقة، يناقش رشيد حمامي والباحث محمد المسيّح الأصول الأدبية لقصص القرآن والتقاليد الإسلامية. يتناولان كيفية اعتتماد قصة أصحاب الكهف على السير المسيحية (مثل يعقوب السروجي والقديس فيلكس النولي)، ويبحثان في أسطورة نسيج العنكبوت على الغار أثناء هجرة النبي، كما يحللان قصة ذي القرنين في سورة الكهف باعتبارها اقتباساً من أسطورة الإسكندر السريانية وملحمة الإسكندر الإغريقية.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:51",
+      "stepEn": "Recap the previous discussion on the Seven Sleepers of Ephesus and Jacob of Serugh's fourth-century Syriac account.",
+      "stepAr": "تذكير بما تم تناوله في الحلقة السابقة حول أصحاب الكهف ورواية يعقوب السروجي السريانية في القرن الرابع."
+    },
+    {
+      "timestamp": "00:01:58",
+      "stepEn": "Discuss variant Quranic readings regarding the 'dog' in the cave versus a guardian angel ('kāli'uhum').",
+      "stepAr": "مناقشة القراءات القرآنية الشاذة المتعلقة بـ 'كلبهم' مقابل الملاك الحارس ('كاليُهم')."
+    },
+    {
+      "timestamp": "00:02:57",
+      "stepEn": "Present the story of Saint Felix of Nola and the spider web at the cave entrance as the source material for Jacob of Serugh and later Islamic tradition.",
+      "stepAr": "عرض قصة القديس فيلكس النولي ونسيج العنكبوت على باب المغارة كمصدر لقصة يعقوب السروجي والتراث الإسلامي لاحقاً."
+    },
+    {
+      "timestamp": "00:05:51",
+      "stepEn": "Compare the Saint Felix narrative to the Islamic Sira account of Muhammad and Abu Bakr in the Cave of Thawr.",
+      "stepAr": "مقارنة رواية القديس فيلكس برواية السيرة النبوية عن محمد وأبي بكر في غار ثور."
+    },
+    {
+      "timestamp": "00:09:27",
+      "stepEn": "Attribute the introduction of the spider web narrative into Islamic Sira to Ibn Ishaq, noting critical remarks about him by Imam Malik.",
+      "stepAr": "عزو إدخال رواية العنكبوت في السيرة النبوية إلى ابن إسحاق، مع الإشارة إلى طعن الإمام مالك فيه."
+    },
+    {
+      "timestamp": "00:11:40",
+      "stepEn": "Analyze Surah al-Kahf as a collection of ancient myths, including Adam and Iblis's refusal to bow.",
+      "stepAr": "تحليل سورة الكهف كجامع للأساطير القديمة، بما في ذلك قصة آدم وامتناع إبليس عن السجود."
+    },
+    {
+      "timestamp": "00:12:38",
+      "stepEn": "Examine the narrative of Dhu al-Qarnayn in Surah al-Kahf, focusing on the muddy spring and the wall against Gog and Magog.",
+      "stepAr": "فحص قصة ذي القرنين في سورة الكهف، مع التركيز على العين الحمئة والسد ضد يأجوج ومأجوج."
+    },
+    {
+      "timestamp": "00:15:23",
+      "stepEn": "Trace the biblical roots of Gog and Magog in Ezekiel and Revelation.",
+      "stepAr": "تتبع الجذور الكتابية ليأجوج ومأجوج في سفري حزقيال والرؤيا."
+    },
+    {
+      "timestamp": "00:17:22",
+      "stepEn": "Link Dhu al-Qarnayn to sixth-century Syriac praise poetry for Emperor Heraclius based on the Alexander Romance.",
+      "stepAr": "ربط ذي القرنين بالشعر السرياني في القرن السادس الذي يمدح الإمبراطور هِرقل والمعتمد على ملحمة الإسكندر."
+    },
+    {
+      "timestamp": "00:20:32",
+      "stepEn": "Debate textual chronology between the Quranic passage and Syriac documents, referencing scholarly works by Richard Stoneman and Kevin van Bladel.",
+      "stepAr": "مناقشة الترتيب الزمني للنصوص بين النص القرآني والوثائق السريانية مع الاستشهاد بأبحاث ريتشارد ستونمان وكيفن فان بلادل."
+    },
+    {
+      "timestamp": "00:25:31",
+      "stepEn": "Discuss Nadr ibn al-Harith's challenge to Muhammad with these stories and his subsequent execution after the Battle of Badr.",
+      "stepAr": "مناقشة تحدي النضر بن الحارث لمحمد بهذه القصص ومقتله بعد معركة بدر."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:57",
+      "claimEn": "The story of the Companions of the Cave in the Quran is taken almost verbatim from a 4th-century account by Jacob of Serugh.",
+      "claimAr": "قصة أصحاب الكهف في القرآن موجودة تقريباً بالنص في قصة كتبها يعقوب السروجي في القرن الرابع.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Syriac homily of Jacob of Serugh on the Sleepers of Ephesus with Surah al-Kahf (18:9-26)."
+    },
+    {
+      "timestamp": "00:02:18",
+      "claimEn": "There is a non-canonical variant reading of Surah 18:18 attributed to Abu 'Amr al-Zahid that reads 'kāli'uhum' (their guardian angel) instead of 'kalbuhum' (their dog).",
+      "claimAr": "توجد قراءة شاذة للآية تتلو 'كاليُهم' (أي حارسهم/ملاكهم) بدلاً من 'كلبهم'، وتُنسب لأبي عمر الزاهد.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check qira'at literature and commentaries (e.g., Al-Qurtubi, Ibn Jinni's Al-Muhtasab) for Abu 'Amr al-Zahid's reading of 'kali'uhum' in 18:18."
+    },
+    {
+      "timestamp": "00:03:13",
+      "claimEn": "Jacob of Serugh adapted the Sleepers narrative from the legend of Saint Felix of Nola (born mid-3rd century).",
+      "claimAr": "قصة يعقوب السروجي عن أصحاب الكهف مستوحاة من سيرة القديس فيلكس النولي المولود في منتصف القرن الثالث.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "sirah-christian-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical critical studies on the hagiography of Saint Felix of Nola and its relationship to the Syriac tradition of the Seven Sleepers."
+    },
+    {
+      "timestamp": "00:05:05",
+      "claimEn": "The story of Saint Felix hiding in a cave from Roman soldiers where a spider built a web over the entrance is the origin of the Islamic Hijra cave story.",
+      "claimAr": "قصة اختباء القديس فيلكس في المغارة وبناء العنكبوت بيتها على الباب هي الأصل لقصة غار الهجرة النبوية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Paulinus of Nola's poem on Saint Felix with Islamic Sira traditions regarding the Cave of Thawr."
+    },
+    {
+      "timestamp": "00:06:33",
+      "claimEn": "The Quranic phrase 'unseen soldiers' (9:40) was interpreted by later commentators using the spider web legend, which is not mentioned in the Quran itself.",
+      "claimAr": "عبارة 'جنود لم تروها' في القرآن (9:40) فسرها المفسرون بأسطورة نسيج العنكبوت التي لم تذكر في النص القرآني ذاته.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran",
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check classical Tafsir works (e.g., Tabari, Ibn Kathir) on Quran 9:40 to verify if 'unseen soldiers' is linked to the spider and dove."
+    },
+    {
+      "timestamp": "00:09:27",
+      "claimEn": "Ibn Ishaq introduced the Christian legend of the spider on the cave into the Islamic Sira 120 years after Muhammad's death.",
+      "claimAr": "ابن إسحاق هو من أدخل الأسطورة المسيحية حول العنكبوت في السيرة النبوية بعد أكثر من 120 سنة من وفاة الرسول.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Ibn Hisham's edition of Ibn Ishaq's Al-Sirah al-Nabawiyyah for the earliest attribution of the spider web at Cave Thawr."
+    },
+    {
+      "timestamp": "00:10:16",
+      "claimEn": "Imam Malik criticized Ibn Ishaq, calling him a 'Dajjal' (impostor/liar).",
+      "claimAr": "الإمام مالك قال عن ابن إسحاق إنه 'دَجَلٌ من الدجاجلة'.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah-ibn-ishaq",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check biographical evaluation works (Ilm al-Rijal) such as Al-Dhahabi's Mizan al-I'tidal or Ibn Hajar's Tahdhib al-Tahdhib for Malik's statement on Ibn Ishaq."
+    },
+    {
+      "timestamp": "00:12:03",
+      "claimEn": "The story of angels bowing to Adam and Iblis's refusal is not in the Old Testament but is found in Jewish Midrash Rabbah.",
+      "claimAr": "قصة أمر الملائكة بالسجود لآدم وامتناع إبليس ليست في العهد القديم وإنما هي موجودة في كتاب مدراش ربا اليهودي.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Rabbinic literature (e.g., Genesis Rabbah / Midrash Rabbah) and early non-canonical works (such as the Life of Adam and Eve) for the narration of Satan refusing to worship Adam."
+    },
+    {
+      "timestamp": "00:13:06",
+      "claimEn": "The Quranic statement that Dhu al-Qarnayn found the sun setting in a muddy spring contradicts basic science because the sun does not set in a specific place.",
+      "claimAr": "القول القرآني بأن ذي القرنين وجد الشمس تغرب في عين حمئة يخالف العلم لأن الشمس لا تغرب في مكان محدد.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-internal-tensions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Analyze Quran 18:86 alongside classical tafsir interpretations (e.g., whether literal or perceptual)."
+    },
+    {
+      "timestamp": "00:14:40",
+      "claimEn": "Islamic commentators generally identify Dhu al-Qarnayn as Alexander the Great, while a minority identify him as Cyrus the Great of Persia.",
+      "claimAr": "الإجماع أو الأغلبية من المفسرين المسلمين يقولون إن ذو القرنين هو الإسكندر الأكبر، والبعض قال إنه كورش العظيم ملك فارس.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Review classical Tafsir entries for Surah 18:83 to see the identification of Dhu al-Qarnayn with Alexander or Persian kings."
+    },
+    {
+      "timestamp": "00:15:27",
+      "claimEn": "The characters Gog and Magog originate in the Old Testament (Ezekiel 38) and New Testament (Revelation 20) as end-times prophecies.",
+      "claimAr": "شخصيتا يأجوج ومأجوج موجودتان في العهد القديم (سفر حزقيال 38) والعهد الجديد (سفر الرؤيا 20) كنبوءة لآخر الزمان.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Ezekiel 38-39 and Revelation 20:7-8 in the Christian Biblical canon."
+    },
+    {
+      "timestamp": "00:17:22",
+      "claimEn": "In the 6th century, Syriac Christians adapted the Alexander motif into a poem praising Emperor Heraclius for defeating the Persians and regaining Jerusalem in 628 AD.",
+      "claimAr": "في القرن السادس الميلادي، قام السريان بتكييف قصة الإسكندر في قصيدة لمدح الإمبراطور هِرقل لاستعادته القدس من الفرس عام 628 م.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check scholarly editions of the Syriac Alexander Legend and the Alexander Poem attributed to Jacob of Serugh/Pseudo-Ephrem."
+    },
+    {
+      "timestamp": "00:21:33",
+      "claimEn": "The Greek Alexander Romance from the 3rd century was translated into Syriac in the 6th or 7th century, serving as the source for the Syriac Alexander legend.",
+      "claimAr": "النص الإغريقي لملحمة الإسكندر من القرن الثالث تُرجم إلى السريانية في القرن السادس أو السابع الميلادي، وكان مصدراً للأسطورة السريانية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult Richard Stoneman's 'Alexander the Great in the Arabic Tradition' and related studies on the transmission of Pseudo-Callisthenes."
+    },
+    {
+      "timestamp": "00:23:09",
+      "claimEn": "Scholar Kevin van Bladel demonstrated a high degree of textual correspondence between Syriac Alexander manuscripts and the Quranic account in Surah al-Kahf.",
+      "claimAr": "المستشرق فان بلادل أجرى دراسة قارن فيها مخطوطات ذي القرنين بالنص القرآني ووجد تطابقاً هائلاً.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "See Kevin van Bladel, 'The Alexander Legend in the Qur'an 18:83-102' in 'The Qur'an in Its Historical Context' (ed. Gabriel Said Reynolds)."
+    },
+    {
+      "timestamp": "00:26:36",
+      "claimEn": "Al-Nadr ibn al-Harith challenged Muhammad with three questions advised by Jews (about the Spirit, Dhu al-Qarnayn, and the Sleepers), and Muhammad's delayed answer failed to convince him.",
+      "claimAr": "النضر بن الحارث تحدى محمداً بثلاثة أسئلة بالتشاور مع اليهود (عن الروح، وذي القرنين، وفتية إفسس)، وجاءت إجابة محمد متاخرة وغير مقنعة له.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Asbab al-Nuzul by al-Wahidi or Ibn Ishaq's Sira regarding Nadr ibn al-Harith and the revelation of Surah al-Kahf."
+    },
+    {
+      "timestamp": "00:27:16",
+      "claimEn": "Al-Nadr ibn al-Harith and his companion Uqbah were executed after the Battle of Badr specifically because he embarrassed Muhammad with these historical questions.",
+      "claimAr": "النضر بن الحارث وصديقه عقبة أُعدما بعد معركة بدر دوناً عن بقية الأسرى عقاباً لهما لأنه أحرج الرسول بهذه الأسئلة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check accounts of the Battle of Badr in Ibn Hisham's Sira or Tabari's History regarding the execution of Nadr ibn al-Harith and Uqbah ibn Abi Mu'ayt."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:57",
+      "asStatedInVideo": "يعقوب السروجي",
+      "author": "Jacob of Serugh",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:44",
+      "asStatedInVideo": "أبو عمر الزاهد",
+      "author": "Abu 'Amr al-Zahid",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:13",
+      "asStatedInVideo": "القديس فيلكس النولي",
+      "author": "Saint Felix of Nola",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:14",
+      "asStatedInVideo": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+      "workTitle": "Qur'an",
+      "locator": "9:40",
+      "quotedArabic": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:27",
+      "asStatedInVideo": "ابن إسحاق",
+      "author": "Ibn Ishaq",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:16",
+      "asStatedInVideo": "الإمام مالك",
+      "author": "Imam Malik",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:03",
+      "asStatedInVideo": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ",
+      "workTitle": "Qur'an",
+      "locator": "2:34",
+      "quotedArabic": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:12",
+      "asStatedInVideo": "مدراش ربا",
+      "workTitle": "Midrash Rabbah",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:06",
+      "asStatedInVideo": "مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ",
+      "workTitle": "Qur'an",
+      "locator": "18:86",
+      "quotedArabic": "مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:58",
+      "asStatedInVideo": "حَتَّىٰ إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+      "workTitle": "Qur'an",
+      "locator": "18:93",
+      "quotedArabic": "حَتَّىٰ إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:15:29",
+      "asStatedInVideo": "سفر حزقيال، الإصحاح 38",
+      "workTitle": "Book of Ezekiel",
+      "locator": "38",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:15:37",
+      "asStatedInVideo": "سفر الرؤيا، الإصحاح 20",
+      "workTitle": "Book of Revelation",
+      "locator": "20",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:21:38",
+      "asStatedInVideo": "الموسوعة الإيرانية إنسايكلوبيديا إيرانيكا",
+      "workTitle": "Encyclopædia Iranica",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:03",
+      "asStatedInVideo": "ريتشارد ستونمان",
+      "author": "Richard Stoneman",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:09",
+      "asStatedInVideo": "فان بلادل",
+      "author": "Kevin van Bladel",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:26:36",
+      "asStatedInVideo": "النضر بن الحارث",
+      "author": "Nadr ibn al-Harith",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": []
+}

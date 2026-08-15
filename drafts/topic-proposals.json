@@ -1,0 +1,570 @@
+{
+  "generatedAt": "2026-08-12T16:06:13+00:00",
+  "threshold": 0.78,
+  "existingTopicCount": 18,
+  "proposalCount": 15,
+  "notice": "Review each entry under newTopics and set \"decision\" to \"accept\" or \"reject\". Accepted topics are appended to the taxonomy by `extract topics --apply`.",
+  "assignedExistingTopics": [
+    {
+      "topicId": "quran-textual-transmission",
+      "claimCount": 99,
+      "videoIds": [
+        "CoqLRxWGbAg",
+        "3gFRv8Pwjls",
+        "4iJjjQ3DXiE",
+        "clCug1P_l_I",
+        "jgkEOr6bon0",
+        "fuPrisPa_F8",
+        "CyOCQmE0WL0",
+        "LrMRyQnRRLM",
+        "2CkVhyHpf8o",
+        "i2MwsFSwu-8",
+        "N-ot55_jJ2w",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "bSxvISZ862s"
+      ]
+    },
+    {
+      "topicId": "sirah",
+      "claimCount": 57,
+      "videoIds": [
+        "pDNhGKbIHIQ",
+        "CoqLRxWGbAg",
+        "-Q__-0N7B14",
+        "clCug1P_l_I",
+        "jgkEOr6bon0",
+        "fuPrisPa_F8",
+        "i2MwsFSwu-8",
+        "N-ot55_jJ2w",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "9QZIF9vlKvU",
+        "bSxvISZ862s"
+      ]
+    },
+    {
+      "topicId": "earlier-religious-parallels",
+      "claimCount": 49,
+      "videoIds": [
+        "3gFRv8Pwjls",
+        "-Q__-0N7B14",
+        "4iJjjQ3DXiE",
+        "clCug1P_l_I",
+        "jgkEOr6bon0",
+        "fuPrisPa_F8",
+        "LrMRyQnRRLM",
+        "2CkVhyHpf8o",
+        "i2MwsFSwu-8",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "bSxvISZ862s"
+      ]
+    },
+    {
+      "topicId": "quran-historical-claims",
+      "claimCount": 33,
+      "videoIds": [
+        "-Q__-0N7B14",
+        "clCug1P_l_I",
+        "jgkEOr6bon0",
+        "fuPrisPa_F8",
+        "LrMRyQnRRLM",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "9QZIF9vlKvU",
+        "bSxvISZ862s"
+      ]
+    },
+    {
+      "topicId": "quran",
+      "claimCount": 27,
+      "videoIds": [
+        "CoqLRxWGbAg",
+        "clCug1P_l_I",
+        "2CkVhyHpf8o",
+        "i2MwsFSwu-8",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "9QZIF9vlKvU"
+      ]
+    },
+    {
+      "topicId": "hadith",
+      "claimCount": 16,
+      "videoIds": [
+        "pDNhGKbIHIQ",
+        "CoqLRxWGbAg",
+        "3gFRv8Pwjls",
+        "clCug1P_l_I",
+        "LrMRyQnRRLM",
+        "N-ot55_jJ2w",
+        "YnKrE35tv-Y"
+      ]
+    },
+    {
+      "topicId": "sirah-ibn-ishaq",
+      "claimCount": 16,
+      "videoIds": [
+        "CoqLRxWGbAg",
+        "3gFRv8Pwjls",
+        "jgkEOr6bon0",
+        "YnKrE35tv-Y",
+        "9QZIF9vlKvU"
+      ]
+    },
+    {
+      "topicId": "quran-internal-tensions",
+      "claimCount": 8,
+      "videoIds": [
+        "-Q__-0N7B14",
+        "jgkEOr6bon0",
+        "LrMRyQnRRLM",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "bSxvISZ862s"
+      ]
+    },
+    {
+      "topicId": "women",
+      "claimCount": 7,
+      "videoIds": [
+        "CoqLRxWGbAg",
+        "-Q__-0N7B14",
+        "fuPrisPa_F8",
+        "2CkVhyHpf8o",
+        "i2MwsFSwu-8"
+      ]
+    },
+    {
+      "topicId": "sirah-christian-parallels",
+      "claimCount": 7,
+      "videoIds": [
+        "LrMRyQnRRLM",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "9QZIF9vlKvU"
+      ]
+    },
+    {
+      "topicId": "hadith-ethical-controversies",
+      "claimCount": 4,
+      "videoIds": [
+        "pDNhGKbIHIQ",
+        "CoqLRxWGbAg"
+      ]
+    },
+    {
+      "topicId": "jewish-rabbinic-parallels",
+      "claimCount": 3,
+      "videoIds": [
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y"
+      ]
+    },
+    {
+      "topicId": "quran-scientific-claims",
+      "claimCount": 2,
+      "videoIds": [
+        "fuPrisPa_F8",
+        "YnKrE35tv-Y"
+      ]
+    },
+    {
+      "topicId": "slavery",
+      "claimCount": 2,
+      "videoIds": [
+        "2CkVhyHpf8o",
+        "i2MwsFSwu-8"
+      ]
+    },
+    {
+      "topicId": "pre-islamic-poetry",
+      "claimCount": 1,
+      "videoIds": [
+        "bSxvISZ862s"
+      ]
+    }
+  ],
+  "matchedExisting": [
+    {
+      "topicId": "death-of-muhammad-theories",
+      "title": {
+        "en": "Theories Surrounding the Death of Muhammad",
+        "ar": "نظريات حول وفاة محمد"
+      },
+      "proposals": [
+        {
+          "id": "death-of-muhammad-theories",
+          "title": {
+            "en": "Theories Surrounding the Death of Muhammad",
+            "ar": "نظريات حول وفاة محمد"
+          },
+          "description": {
+            "en": "Historical, theological, and polemical discussions regarding the circumstances, causes, and political ramifications of Muhammad's death.",
+            "ar": "المناقشات التاريخية واللاهوتية والسجالية حول ظروف وأسباب والآثار السياسية لوفاة محمد."
+          },
+          "parent": "sirah",
+          "closestExistingId": "sirah",
+          "rationale": "The speaker spends significant time evaluating different accounts (poison, illness, assassination hypotheses) surrounding the death of Muhammad, which is a major recurring theme in polemical and historical critical discourse.",
+          "videoIds": [
+            "pDNhGKbIHIQ"
+          ],
+          "claimCount": 1,
+          "score": 1.0
+        }
+      ],
+      "claimCount": 0,
+      "videoIds": []
+    },
+    {
+      "topicId": "sirah-christian-parallels",
+      "title": {
+        "en": "Christian Parallels in Prophetic Biography",
+        "ar": "التوازي مع الأناجيل والسير المسيحية"
+      },
+      "proposals": [
+        {
+          "id": "sirah-christian-parallels",
+          "title": {
+            "en": "Christian Parallels in Prophetic Biography",
+            "ar": "التوازي مع الأناجيل والسير المسيحية"
+          },
+          "description": {
+            "en": "Literary borrowings, structural imitations, and thematic parallels between early Islamic sirah literature and Christian Gospel or hagiographical texts.",
+            "ar": "الاقتباسات الأدبية والمحاكاة الهيكلية والتوازي التيمي بين أدب السيرة النبوية المبكر والأناجيل أو النصوص الهجيوغرافية المسيحية."
+          },
+          "parent": "earlier-religious-parallels",
+          "closestExistingId": "earlier-religious-parallels",
+          "rationale": "The video argues specifically that Ibn Ishaq patterned his sirah on Gospel frameworks like Matthew to respond to Christian critics.",
+          "videoIds": [
+            "3gFRv8Pwjls"
+          ],
+          "claimCount": 2,
+          "score": 1.0
+        },
+        {
+          "id": "apocryphal-gospel-parallels",
+          "title": {
+            "en": "Apocryphal Gospel Parallels",
+            "ar": "التوازي مع الأناجيل المنحولة"
+          },
+          "description": {
+            "en": "Claims that Quranic descriptions of Jesus derive from apocryphal Christian gospels rather than canonical texts.",
+            "ar": "الادعاءات بأن وصف القرآن للمسيح مأخوذ من أناجيل غير رسمية (منحولة) بدلاً من الأناجيل الأربعة المعتمدة."
+          },
+          "parent": "earlier-religious-parallels",
+          "closestExistingId": "earlier-religious-parallels",
+          "rationale": "The video cites the Infancy Gospels of Thomas and James as sources for Quranic miracle stories.",
+          "videoIds": [
+            "jgkEOr6bon0"
+          ],
+          "claimCount": 1,
+          "score": 0.794
+        }
+      ],
+      "claimCount": 7,
+      "videoIds": [
+        "LrMRyQnRRLM",
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y",
+        "9QZIF9vlKvU"
+      ]
+    },
+    {
+      "topicId": "jewish-rabbinic-parallels",
+      "title": {
+        "en": "Jewish Rabbinic Parallels",
+        "ar": "التوازي مع الأدب الرابي اليهودي"
+      },
+      "proposals": [
+        {
+          "id": "jewish-rabbinic-parallels",
+          "title": {
+            "en": "Jewish Rabbinic Parallels",
+            "ar": "التوازي مع الأدب الرابي اليهودي"
+          },
+          "description": {
+            "en": "Claims that Quranic stories are derived from non-canonical Jewish texts such as Midrash, Mishnah, or Talmud.",
+            "ar": "الادعاءات بأن القصص القرآنية مأخوذة من نصوص يهودية غير مقدسة كالمشنا والمدراش والتلمود."
+          },
+          "parent": "earlier-religious-parallels",
+          "closestExistingId": "earlier-religious-parallels",
+          "rationale": "The speaker devotes significant time to claiming Quranic narratives mirror Jewish commentary literature (Midrash, Mishnah) rather than the Hebrew Bible.",
+          "videoIds": [
+            "jgkEOr6bon0"
+          ],
+          "claimCount": 2,
+          "score": 1.0
+        }
+      ],
+      "claimCount": 3,
+      "videoIds": [
+        "AxCfvsuJcdQ",
+        "YnKrE35tv-Y"
+      ]
+    }
+  ],
+  "newTopics": [
+    {
+      "id": "pre-islamic-legal-customs",
+      "title": {
+        "en": "Pre-Islamic Legal Customs",
+        "ar": "الأعراف القانونية الجاهلية"
+      },
+      "description": {
+        "en": "Legal, penal, and tribal customs existing in Arabia prior to Islam and their continuity or adaptation in Islamic texts.",
+        "ar": "الأعراف والتقاليد القانونية والعقابية والقبائلية التي كانت سائدة في شبه الجزيرة العربية قبل الإسلام وتأثيرها أو استمرارها في النصوص الإسلامية."
+      },
+      "parent": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The speaker explicitly references pre-Islamic tribal practices such as cross-amputation by brigand groups (Sa'alik) and the custom of neighborly asylum (jiwar) serving as background to Islamic penal rulings.",
+      "videoIds": [
+        "-Q__-0N7B14"
+      ],
+      "claimCount": 1,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "pre-islamic-poetry",
+        "score": 0.651
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "syro-aramaic-parallels",
+      "title": {
+        "en": "Syro-Aramaic Parallels",
+        "ar": "التوازي مع السريانية الآرامية"
+      },
+      "description": {
+        "en": "Linguistic, textual, and liturgical connections between Qur'anic Arabic vocabulary/phrases and Syro-Aramaic dialects.",
+        "ar": "الصلات اللغوية والنصية والليتورجية بين مفردات القرآن واللغة السريانية الآرامية."
+      },
+      "parent": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The video focuses heavily on Syro-Aramaic readings of the Qur'an (Christoph Luxenberg's thesis), which represents a distinct durable subfield under earlier religious parallels alongside Zoroastrian parallels.",
+      "videoIds": [
+        "4iJjjQ3DXiE"
+      ],
+      "claimCount": 0,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "earlier-religious-parallels",
+        "score": 0.72
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "tle-revelation-hypothesis",
+      "title": {
+        "en": "Temporal Lobe Epilepsy Hypothesis",
+        "ar": "فرضية صرع الفص الدماغي والوحي"
+      },
+      "description": {
+        "en": "Arguments and theories suggesting that prophetic revelations and religious visions are attributable to Temporal Lobe Epilepsy (TLE) or medical conditions.",
+        "ar": "النظريات والحجج التي تربط بين ظاهرة الوحي النبوي والرؤى الدينية وبين مرض صرع الفص الدماغي أو الحالات الطبية."
+      },
+      "parent": "sirah",
+      "closestExistingId": "sirah",
+      "rationale": "The speaker repeatedly invokes medical theories (specifically TLE) to explain physical and psychological aspects of revelation, which is a common polemical/critical thesis not specifically covered under existing Hadith or Sirah subtopics.",
+      "videoIds": [
+        "clCug1P_l_I"
+      ],
+      "claimCount": 1,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "jewish-rabbinic-parallels",
+        "score": 0.533
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "quran-psychological-origin",
+      "title": {
+        "en": "Psychological Origin of the Quran",
+        "ar": "الأصل النفسي للقرآن"
+      },
+      "description": {
+        "en": "Claims attributing Quranic texts and revelations to Muhammad's psychological states, traumas, personal desires, or neurological conditions.",
+        "ar": "الادعاءات التي تعزو النصوص القرآنية والوحي إلى الحالة النفسية أو الصدمات أو الرغبات الشخصية أو الظروف العصبية لمحمد."
+      },
+      "parent": "quran",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The speaker repeatedly argues that specific Quranic verses are direct expressions of Muhammad's human psychology and internal dialogue, which is a distinct thesis from textual history or transmission.",
+      "videoIds": [
+        "jgkEOr6bon0"
+      ],
+      "claimCount": 3,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "quran",
+        "score": 0.48
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "syriac-christian-parallels",
+      "title": {
+        "en": "Syriac Christian Parallels",
+        "ar": "التوازي مع المسيحية السريانية"
+      },
+      "description": {
+        "en": "Comparative claims linking Quranic vocabulary, poetic rhythm, or themes to Syriac Christian liturgy and poetry.",
+        "ar": "الادعاءات المقارنة التي تربط المفردات أو الإيقاع الشعري أو الموضوعات القرآنية بالطقوس والشعر المسيحي السرياني."
+      },
+      "parent": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The video explicitly proposes direct Syriac poetic sources (like Ephrem the Syrian) for apocalyptic Meccan surahs.",
+      "videoIds": [
+        "jgkEOr6bon0",
+        "9QZIF9vlKvU"
+      ],
+      "claimCount": 1,
+      "mergedFrom": [
+        {
+          "id": "armenian-christian-parallels",
+          "title": {
+            "en": "Armenian Christian Parallels",
+            "ar": "التوازي مع النصوص الأرمنية المسيحية"
+          },
+          "description": {
+            "en": "Literary, historical, and thematic parallels between Quranic passages and late antique Armenian Christian historical and liturgical texts.",
+            "ar": "التوازيات الأدبية والتاريخية والموضوعية بين النصوص القرآنية والنصوص التاريخية والطقسية الأرمنية المسيحية في أواخر العصور القديمة."
+          },
+          "parent": "earlier-religious-parallels",
+          "closestExistingId": "sirah-christian-parallels",
+          "rationale": "The video presents primary textual evidence from a 6th-century Armenian manuscript (Sebeos/Mushegh II) as a direct literary parallel to Surah al-Fil, which fits under earlier non-Islamic religious parallels.",
+          "videoIds": [
+            "9QZIF9vlKvU"
+          ],
+          "claimCount": 3
+        }
+      ],
+      "nearestExisting": {
+        "id": "zoroastrian-parallels",
+        "score": 0.723
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "satanic-verses-incident",
+      "title": {
+        "en": "Satanic Verses Incident",
+        "ar": "قصة الغرانيق"
+      },
+      "description": {
+        "en": "Historical and textual arguments surrounding the Gharaniq incident in Surah An-Najm and its historical transmission.",
+        "ar": "الأبحاث التاريخية والنصية المتعلقة بحادثة الغرانيق في سورة النجم ورواياتها التاريخية."
+      },
+      "parent": "sirah",
+      "closestExistingId": "sirah-ibn-ishaq",
+      "rationale": "The Gharaniq story is treated as a major turning point in the speaker's account of Meccan Quranic development.",
+      "videoIds": [
+        "jgkEOr6bon0"
+      ],
+      "claimCount": 1,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "quran",
+        "score": 0.556
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "syro-aramaic-quran-reading",
+      "title": {
+        "en": "Syro-Aramaic Philological Readings of the Qur'an",
+        "ar": "القراءة السريانية الآرامية لنص القرآن"
+      },
+      "description": {
+        "en": "Philological theories and manuscript studies proposing that obscure Quranic vocabulary and grammar should be interpreted through Syro-Aramaic etymology and Christian liturgical backgrounds.",
+        "ar": "النظريات اللغوية والدراسات المخطوطية التي تقترح تفسير الألفاظ والنصوص القرآنية المبهمة من خلال الأصول السريانية الآرامية والطقوس المسيحية."
+      },
+      "parent": "quran",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The video repeatedly focuses on Christoph Luxenberg's methodology of using Syro-Aramaic to decipher Quranic vocabulary and textual transmission errors.",
+      "videoIds": [
+        "2CkVhyHpf8o"
+      ],
+      "claimCount": 11,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "hadith-ethical-controversies",
+        "score": 0.456
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "syro-aramaic-quran-hypothesis",
+      "title": {
+        "en": "Syro-Aramaic Quran Hypothesis",
+        "ar": "فرضية الأصول السريانية الآرامية للقرآن"
+      },
+      "description": {
+        "en": "Theories and philological re-readings proposing that Quranic vocabulary, grammar, and diacritics are derived from or best illuminated by Syro-Aramaic.",
+        "ar": "النظريات والقراءات اللغوية التي تفترض أن مفردات القرآن وقواعده وتنقيطه مشتقة من السريانية الآرامية أو تُفسَّر بها."
+      },
+      "parent": "quran",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The speaker continuously focuses on Christoph Luxenberg's specific method of Aramaic lexicography and re-pointing of Quranic vocabulary across multiple episodes.",
+      "videoIds": [
+        "i2MwsFSwu-8"
+      ],
+      "claimCount": 11,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "jewish-rabbinic-parallels",
+        "score": 0.435
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "dome-of-the-rock-inscriptions",
+      "title": {
+        "en": "Dome of the Rock Inscriptions",
+        "ar": "نقوش قبة الصخرة"
+      },
+      "description": {
+        "en": "Studies and debates surrounding the early Arabic inscriptions inside the Dome of the Rock and their relationship to Quranic textual formation.",
+        "ar": "الدراسات والنقاشات حول النقوش العربية المبكرة داخل قبة الصخرة وعلاقتها بتشكل النص القرآني."
+      },
+      "parent": "quran-textual-transmission",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The Dome of the Rock inscription is cited as major material evidence for early Quranic/proto-Islamic textual state and epigraphy.",
+      "videoIds": [
+        "i2MwsFSwu-8"
+      ],
+      "claimCount": 2,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "quran-textual-transmission",
+        "score": 0.522
+      },
+      "decision": "undecided"
+    },
+    {
+      "id": "ahiqar-and-luqman-parallels",
+      "title": {
+        "en": "Ahiqar and Luqman Parallels",
+        "ar": "التوازي بين أحيقار ولقمان"
+      },
+      "description": {
+        "en": "Comparative study of the ancient Near Eastern wisdom literature of Ahiqar and the Quranic/Arabic traditions of Luqman.",
+        "ar": "دراسة مقارنة بين أدب الحكمة القديم لأحيقار والتراث القرآني والعربي حول لقمان."
+      },
+      "parent": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The episode focuses specifically on the literary, linguistic, and structural parallels between the story of Ahiqar and Luqman in Islamic literature.",
+      "videoIds": [
+        "bSxvISZ862s"
+      ],
+      "claimCount": 2,
+      "mergedFrom": [],
+      "nearestExisting": {
+        "id": "earlier-religious-parallels",
+        "score": 0.609
+      },
+      "decision": "undecided"
+    }
+  ]
+}

@@ -1,0 +1,1229 @@
+{
+  "schemaVersion": 1,
+  "videoId": "3caGzNr9jwU",
+  "videoUrl": "https://www.youtube.com/watch?v=3caGzNr9jwU",
+  "videoTitle": "Box of islam 50 .صندوق الإسلام 50 : كلام جديدعن الاسراء",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160516",
+  "extractedAt": "2026-08-15T04:33:14+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In episode 50 of \"Box of Islam,\" host Hamed Abdel-Samad and guest Muhammad al-Masih argue that Q17:1, the sole Qur'anic basis for the Night Journey (Isra'), is a later intrusion or a reworked verse, and that the Buraq and Mi'raj material grew out of Umayyad politics and older mythology. They cite Youssef Ziedan, Gustav Weil, Theodor Nöldeke and Édouard-Marie Gallez; point to the verse's isolated rhyme, its disconnection from the surrounding Bani Isra'il material, the non-existence of an \"al-Masjid al-Aqsa\" in Muhammad's lifetime, and the possible original reading \"bi-'ibadihi\" (his servants, i.e. the Israelites) supported by Q20:77, Q26:52 and Q44:23 and by undotted/unalifed manuscript orthography. They attribute the sanctification of Jerusalem to 'Abd al-Malik b. Marwan's rivalry with Ibn al-Zubayr, trace Buraq to the Greek Pegasus and the Luvian word for lightning, and cite the Abu Dawud hadith of 'A'isha's winged-horse doll as evidence that the Prophet's own circle knew no such flying mount.",
+  "summaryAr": "في الحلقة الخمسين من \"صندوق الإسلام\"، يطرح المقدّم حامد عبد الصمد وضيفه محمد المسيح أنّ الآية الأولى من سورة الإسراء، وهي السند القرآني الوحيد لقصة الإسراء، إمّا مضافة لاحقاً أو محرّفة عن أصلها، وأنّ قصة البراق والمعراج نشأت من السياسة الأموية ومن أساطير أقدم. يستشهدان بيوسف زيدان وغوستاف فايل وتيودور نولدكه وإدوار جالي، ويشيران إلى انفراد الآية بقافيتها، وانقطاعها عمّا يليها من حديث بني إسرائيل، وعدم وجود \"مسجد أقصى\" في حياة محمد، واحتمال القراءة الأصلية \"بعباده\" مستندَين إلى طه 77 والشعراء 52 والدخان 23 وإلى رسم المخطوطات بلا ألف. وينسبان تقديس القدس إلى صراع عبد الملك بن مروان مع ابن الزبير، ويردّان البراق إلى بيغاسوس الإغريقي وإلى كلمة \"بيهاسس\" اللوفية بمعنى البرق، ويستشهدان بحديث دمية الفرس المجنّح عند عائشة في سنن أبي داود.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:01:35",
+      "stepEn": "The host frames the episode as a viewer-requested treatment of the Isra' and Mi'raj, noting a recent public controversy in Egypt.",
+      "stepAr": "يقدّم المقدّم الحلقة كاستجابة لطلب المشاهدين لمناقشة الإسراء والمعراج، مشيراً إلى جدل عام أثير مؤخراً في مصر."
+    },
+    {
+      "timestamp": "00:02:22",
+      "stepEn": "He cites Youssef Ziedan's position that the Mi'raj did not happen and that the Isra' as a Mecca-to-Jerusalem journey is doubtful, then introduces the guest's research with Édouard-Marie Gallez on verses possibly added to the Qur'an later.",
+      "stepAr": "يستشهد بموقف يوسف زيدان أنّ المعراج لم يحدث وأنّ كون الإسراء من مكة إلى القدس مشكوك فيه، ثم يقدّم أبحاث الضيف مع إدوار جالي حول آيات يُحتمل أنها أضيفت لاحقاً."
+    },
+    {
+      "timestamp": "00:03:52",
+      "stepEn": "The guest argues the Qur'an's own text destroys the Isra' claim, using Q17:93 where the opponents demand an ascent to heaven and Muhammad answers that he is only a human messenger.",
+      "stepAr": "يرى الضيف أنّ النص القرآني نفسه يهدم دعوى الإسراء، مستنداً إلى الآية 93 من سورة الإسراء حيث يطلبون منه الرقي في السماء فيجيب بأنه بشر رسول."
+    },
+    {
+      "timestamp": "00:05:26",
+      "stepEn": "He presents Gustav Weil's view that Q17:1 was added after Muhammad's death because it does not fit the context, and shows that Q17:2 onward speaks of Moses and the Israelites.",
+      "stepAr": "يعرض رأي غوستاف فايل أنّ الآية أضيفت بعد موت محمد لأنها لا تتماشى مع السياق، ويبيّن أنّ الآية الثانية وما بعدها تتحدث عن موسى وبني إسرائيل."
+    },
+    {
+      "timestamp": "00:06:17",
+      "stepEn": "He adds a formal argument: the rhyme/tanwin of verse 1 (al-basir) is unique against the rest of the sura's endings.",
+      "stepAr": "يضيف حجة شكلية: قافية الآية الأولى وتنوينها (البصير) تنفرد عن سائر فواصل السورة."
+    },
+    {
+      "timestamp": "00:07:03",
+      "stepEn": "He argues al-Masjid al-Aqsa was built in 'Abd al-Malik b. Marwan's era, so it could not be named in Muhammad's lifetime.",
+      "stepAr": "يحتجّ بأنّ المسجد الأقصى بُني في عصر عبد الملك بن مروان، فلم يكن قائماً في زمن محمد."
+    },
+    {
+      "timestamp": "00:07:53",
+      "stepEn": "The host supplies the political motive: 'Abd al-Malik built the Dome of the Rock to divert pilgrims away from Ibn al-Zubayr's rival caliphate in Mecca.",
+      "stepAr": "يقدّم المقدّم الدافع السياسي: بنى عبد الملك قبة الصخرة لجذب الحجيج بعيداً عن خلافة ابن الزبير المنافسة في مكة."
+    },
+    {
+      "timestamp": "00:08:42",
+      "stepEn": "He notes the hadith \"no journey is undertaken except to three mosques\" appears in that same era, serving the same purpose.",
+      "stepAr": "يلاحظ ظهور حديث \"لا تشد الرحال إلا إلى ثلاثة مساجد\" في العصر نفسه خدمةً للغرض ذاته."
+    },
+    {
+      "timestamp": "00:09:28",
+      "stepEn": "He stresses the verse names neither the servant nor an identifiable mosque, and that the site of today's al-Aqsa was reportedly a rubbish dump.",
+      "stepAr": "يشدّد على أنّ الآية لم تسمِّ العبد ولا مسجداً بعينه، وأنّ موقع الأقصى اليوم قيل إنه كان مقلب زبالة."
+    },
+    {
+      "timestamp": "00:09:28",
+      "stepEn": "He brings in Nöldeke's suggestion that the night journey may derive from an earlier religious hero, and the difficulty that biblical ascension figures have no Kaaba connection.",
+      "stepAr": "يورد اقتراح نولدكه أنّ الإسراء الليلي قد يعود إلى بطل ديني أقدم، مع صعوبة أنّ شخصيات الصعود الكتابية لا صلة لها بالكعبة."
+    },
+    {
+      "timestamp": "00:11:06",
+      "stepEn": "The host reports Nöldeke's rejoinder to Weil — that contextual disconnection is common in the Qur'an — but keeps the rhyme argument as the stronger point, suggesting the verse was moved from elsewhere.",
+      "stepAr": "ينقل المقدّم ردّ نولدكه على فايل بأنّ الانقطاع السياقي شائع في القرآن، لكنه يبقي حجة القافية باعتبارها الأقوى ويرجّح أنّ الآية نُقلت من موضع آخر."
+    },
+    {
+      "timestamp": "00:11:57",
+      "stepEn": "The guest situates the verse within Gallez's list of more than 43 verses suspected of later addition, and gives Gallez's specific view that only the second half of Q17:1 was inserted under 'Abd al-Malik.",
+      "stepAr": "يضع الضيف الآية ضمن قائمة جالي لأكثر من 43 آية يُشتبه في إضافتها لاحقاً، وينقل رأيه أنّ الشطر الثاني وحده أُقحم في عهد عبد الملك."
+    },
+    {
+      "timestamp": "00:13:35",
+      "stepEn": "He offers his own manuscript-based alternative: the tanwin on laylan marks a verse end, and 'abdihi could be read 'ibadihi because early script omitted the alif — evidenced by the Samarkand codex at Q2:90.",
+      "stepAr": "يقدّم بديله المستند إلى المخطوطات: تنوين \"ليلاً\" يشير إلى نهاية آية، و\"عبده\" يمكن قراءتها \"عباده\" لأنّ الرسم القديم يسقط الألف، بدليل مخطوطة سمرقند في البقرة 90."
+    },
+    {
+      "timestamp": "00:15:12",
+      "stepEn": "He supports the plural reading with Q20:77, Q26:52 and Q44:23, where God commands Moses to travel by night with His servants — the Israelites — and where asra means walking, not flying.",
+      "stepAr": "يدعم قراءة الجمع بآيات طه 77 والشعراء 52 والدخان 23، حيث يأمر الله موسى أن يسري بعباده، أي بني إسرائيل، وحيث الإسراء سير لا طيران."
+    },
+    {
+      "timestamp": "00:16:57",
+      "stepEn": "He notes the sura's older name, Bani Isra'il, and its Israelite content fit the plural reading.",
+      "stepAr": "يلاحظ أنّ الاسم القديم للسورة، بني إسرائيل، ومضمونها الإسرائيلي ينسجمان مع قراءة الجمع."
+    },
+    {
+      "timestamp": "00:17:43",
+      "stepEn": "He lays out two possibilities: either the verse was about the Israelites and the Jerusalem clause was added, or the verse belongs to another sura or a dropped text.",
+      "stepAr": "يطرح احتمالين: إمّا أنّ الآية كانت عن بني إسرائيل وأُضيفت عبارة القدس، وإمّا أنها تعود إلى سورة أخرى أو إلى نصّ سقط."
+    },
+    {
+      "timestamp": "00:18:31",
+      "stepEn": "The host relays Ziedan's chronological objection: Surat al-Isra is late Meccan while Surat al-Najm, which supposedly alludes to the Mi'raj, is about five years earlier.",
+      "stepAr": "ينقل المقدّم اعتراض زيدان الزمني: سورة الإسراء متأخرة مكية بينما سورة النجم التي يُقال إنّ فيها إشارة للمعراج تسبقها بنحو خمس سنوات."
+    },
+    {
+      "timestamp": "00:19:26",
+      "stepEn": "He asks whether the Buraq story could be wholly invented by sira writers or hadith fabricators under 'Abd al-Malik to sanctify Jerusalem, and whether it has antecedents in other cultures.",
+      "stepAr": "يتساءل عمّا إذا كانت قصة البراق من نسج كتّاب السيرة أو واضعي الحديث في عهد عبد الملك لتقديس القدس، وهل لها أصل في ثقافات أخرى."
+    },
+    {
+      "timestamp": "00:20:17",
+      "stepEn": "The guest sets aside the Zoroastrian winged-camel parallel and proposes the Greek Pegasus as the closer model for Buraq.",
+      "stepAr": "يستبعد الضيف التوازي الزرادشتي (الجمل المجنّح) ويرشّح بيغاسوس الإغريقي نموذجاً أقرب للبراق."
+    },
+    {
+      "timestamp": "00:21:07",
+      "stepEn": "He narrates the Pegasus myth in full — Medusa, Poseidon, Athena, Perseus, the winged horse born of Medusa's blood, and its service to Zeus.",
+      "stepAr": "يسرد أسطورة بيغاسوس كاملة: ميدوزا وبوسيدون وأثينا وبيرسيوس، والفرس المجنّح المولود من دم ميدوزا وخدمته لزيوس."
+    },
+    {
+      "timestamp": "00:23:26",
+      "stepEn": "He closes the etymological loop: Pegasus is linked to lightning, the Luvian pihassas means lightning, and Buraq derives from barq.",
+      "stepAr": "يغلق الحلقة الاشتقاقية: بيغاسوس مرتبط بالبرق، وكلمة \"بيهاسس\" اللوفية تعني البرق، و\"البراق\" من البرق."
+    },
+    {
+      "timestamp": "00:24:58",
+      "stepEn": "He adduces the Abu Dawud hadith of 'A'isha's winged-horse doll, arguing the Prophet's astonished laughter is incompatible with his having ridden a winged mount to heaven.",
+      "stepAr": "يورد حديث أبي داود عن دمية الفرس المجنّح عند عائشة، محتجّاً بأنّ ضحك النبي واستغرابه لا يتفقان مع كونه ركب دابة مجنّحة إلى السماء."
+    },
+    {
+      "timestamp": "00:26:49",
+      "stepEn": "He rebuts the standard defence that 'A'isha was a small child, calculating she was at least seventeen at Khaybar.",
+      "stepAr": "يردّ على الدفاع المعتاد بأنّ عائشة كانت صغيرة، محتسباً أنّ عمرها في خيبر كان سبعة عشر عاماً على الأقل."
+    },
+    {
+      "timestamp": "00:27:35",
+      "stepEn": "The host concludes that a single unnamed, unlocated verse was spun into a vast story that became the nerve of Islamic identity and its politics over Jerusalem, while the story's real sources lie elsewhere.",
+      "stepAr": "يخلص المقدّم إلى أنّ آية واحدة بلا تسمية ولا تحديد نُسجت حولها قصة كبرى صارت عصب الهوية الإسلامية وسياستها تجاه القدس، بينما مصادر القصة الحقيقية في مكان آخر."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:02:22",
+      "claimEn": "The speaker relays Youssef Ziedan's position that the Mi'raj never happened and was merely a vision, and that the Isra' being a journey from Mecca to Jerusalem is doubtful.",
+      "claimAr": "ينقل المتحدث موقف الدكتور يوسف زيدان بأنّ قصة المعراج لم تحدث وأنها مجرد رؤية، وأنّ كون الإسراء مقصوداً به من مكة إلى القدس أمر مشكوك فيه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate Youssef Ziedan's actual statements on the Isra' and Mi'raj (lectures, interviews, or published writing) and confirm he holds the Mi'raj was a vision and the Mecca–Jerusalem destination doubtful."
+    },
+    {
+      "timestamp": "00:02:22",
+      "claimEn": "The speaker claims he conducted research with the French researcher Édouard-Marie Gallez on verses that were probably added to the Qur'anic text at a later date, and that Q17:1 is among them.",
+      "claimAr": "يقول المتحدث إنه أجرى أبحاثاً مع الباحث الفرنسي إدوار جالي حول آيات يُحتمل أنها أضيفت لاحقاً إلى النص القرآني، وإنّ الآية الأولى من سورة الإسراء من بينها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify Édouard-Marie Gallez's publications on suspected later additions to the Qur'an and confirm Q17:1 appears in his list."
+    },
+    {
+      "timestamp": "00:03:07",
+      "claimEn": "The speaker claims that scholarly study establishes the Isra' story to be a work of imagination rather than a real event, and that Muslim scholars entrenched it in the Muslim mind as historical fact.",
+      "claimAr": "يقول المتحدث إنّ الدراسات العلمية تثبت أنّ قصة الإسراء من نسج الخيال وليست قصة حقيقية، وإنّ العلماء رسّخوها في ذهنية المسلم كأنها واقعة تاريخية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Survey critical Qur'anic scholarship on the Isra' to see whether it supports the strong claim of fictionality, and distinguish the speaker's summary from what the cited scholars actually argue."
+    },
+    {
+      "timestamp": "00:03:52",
+      "claimEn": "The speaker claims that Q17:93, in the same sura, destroys the Night Journey claim: the opponents demand that Muhammad ascend into heaven and bring down a book they can read.",
+      "claimAr": "يقول المتحدث إنّ الآية 93 من سورة الإسراء نفسها تهدم دعوى الإسراء، إذ يطلب منه المعارضون أن يرقى في السماء وأن يأتيهم بكتاب يقرأونه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q17:90-93 in full and assess whether the demand for ascent and the reply are addressed to the same audience and period as the Night Journey verse."
+    },
+    {
+      "timestamp": "00:04:38",
+      "claimEn": "The speaker claims Muhammad's reply in the Qur'an — \"Glory be to my Lord, am I anything but a human messenger?\" — is a denial that he could ascend, which contradicts both the Isra' and the Mi'raj.",
+      "claimAr": "يقول المتحدث إنّ ردّ محمد في القرآن \"سبحان ربي هل كنت إلا بشراً رسولاً\" هو نفي لقدرته على الصعود، وهو ما يناقض الإسراء والمعراج معاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q17:93 and consult classical tafsir on whether the reply is read as a denial of capacity or as a refusal of a demanded sign."
+    },
+    {
+      "timestamp": "00:04:38",
+      "claimEn": "The speaker claims that German researchers took the initiative in studying the Qur'anic text critically and scientifically.",
+      "claimAr": "يقول المتحدث إنّ الباحثين الألمان كانت لهم المبادرة في دراسة النص القرآني دراسة علمية نقدية.",
+      "claimType": "historical",
+      "premiseStance": "irrelevant",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Background claim about the history of the field; check against standard accounts of nineteenth-century German Qur'anic scholarship."
+    },
+    {
+      "timestamp": "00:05:26",
+      "claimEn": "The speaker claims the German researcher Gustav Weil held that Q17:1 was added to the Qur'an after Muhammad's death because it does not agree with the text and does not run with its context.",
+      "claimAr": "يقول المتحدث إنّ الباحث الألماني غوستاف فايل رأى أنّ الآية الأولى من سورة الإسراء أضيفت إلى القرآن بعد موت محمد لأنها لا توافق النص ولا تتماشى مع سياقه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the passage in Gustav Weil's work (e.g. Mohammed der Prophet or his Einleitung in den Koran) where he argues Q17:1 is a post-Muhammad addition, and check how he states it."
+    },
+    {
+      "timestamp": "00:05:26",
+      "claimEn": "The speaker claims that if the first verse of the sura were about Muhammad's night journey, the verses that follow it — about God giving Moses the Book and making it guidance for the Children of Israel — would have no connection to it.",
+      "claimAr": "يقول المتحدث إنه لو كانت الآية الأولى تتحدث عن إسراء الرسول، لما كان لباقي الآيات التي تتحدث عن إيتاء موسى الكتاب وجعله هدىً لبني إسرائيل أيّ صلة بها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q17:1-8 and judge the degree of thematic discontinuity; compare with how classical exegetes explain the transition."
+    },
+    {
+      "timestamp": "00:06:17",
+      "claimEn": "The speaker claims that the rhyme and tanwin of Q17:1, ending in al-basir, differ from every other verse of the sura, which end in wakila, shakura, kabira, maf'ula and nafira, so verse one alone breaks a rhyme scheme that is otherwise harmonious.",
+      "claimAr": "يقول المتحدث إنّ قافية الآية الأولى وتنوينها (البصير) تختلف عن جميع آيات السورة الأخرى التي تنتهي بـ\"وكيلاً، شكوراً، كبيراً، مفعولاً، نفيراً\"، فقوافي بقية سورة الإسراء متناغمة إلا الآية الأولى.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Tabulate the verse endings of the whole of Surat al-Isra' and confirm whether verse 1 is genuinely unique in its rhyme, and whether other verses in the sura also end without the -an/-a pattern."
+    },
+    {
+      "timestamp": "00:07:03",
+      "claimEn": "The speaker claims that al-Masjid al-Aqsa was built in the era of 'Abd al-Malik ibn Marwan, so no such building existed in Muhammad's time, which means the phrase in the verse must be an addition made after Muhammad's death.",
+      "claimAr": "يقول المتحدث إنّ المسجد الأقصى بُني في عصر عبد الملك بن مروان، فلم يكن هذا البناء موجوداً في زمن الرسول، وبالتالي فإنّ العبارة في الآية إضافة جاءت بعد موت محمد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the archaeological and literary dating of construction on the Haram al-Sharif under 'Abd al-Malik and al-Walid, and whether the term al-masjid al-aqsa in the verse necessarily denotes a building."
+    },
+    {
+      "timestamp": "00:07:53",
+      "claimEn": "The host claims that 'Abd al-Malik ibn Marwan had a role in shaping the form of Islam known today, and that Jerusalem was very important to him because it was already a holy city for Jews and Christians.",
+      "claimAr": "يقول المقدّم إنّ لعبد الملك بن مروان دوراً في صياغة صورة الإسلام التي نعرفها اليوم، وإنّ القدس كانت مهمة جداً بالنسبة له لكونها مدينة مقدسة عند اليهود والمسيحيين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Assess the scholarly literature on 'Abd al-Malik's religious policy and the extent to which it shaped Islamic identity and sacred geography."
+    },
+    {
+      "timestamp": "00:07:53",
+      "claimEn": "The host claims it is a recurring historical pattern that whoever brings a new religion builds his sacred sites on the ruins of other sacred cities, and that Jerusalem was therefore a site of competition with Jews and Christians.",
+      "claimAr": "يقول المقدّم إنّ ظاهرة متكررة في التاريخ أنّ كل من يأتي بديانة جديدة يبني مقدساته على أطلال مدن مقدسة أخرى، وإنّ القدس كانت لذلك محلّ تنافس مع اليهود والمسيحيين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Treat as a general historical generalization; check whether comparative-religion scholarship supports it and whether it is applied here with evidence specific to Jerusalem."
+    },
+    {
+      "timestamp": "00:07:53",
+      "claimEn": "The host claims that 'Abdullah ibn al-Zubayr set up a rival caliphate in Mecca against the Umayyads and used the pilgrims coming to Mecca to incite against 'Abd al-Malik, and that it is said 'Abd al-Malik built the Dome of the Rock for this reason, to draw the pilgrims to it.",
+      "claimAr": "يقول المقدّم إنّ عبد الله بن الزبير أقام خلافة في مكة ضد الأمويين، وكان يستغل الحجاج القادمين إلى مكة للتحريض على عبد الملك بن مروان، وإنه قيل إنّ عبد الملك بنى قبة الصخرة لهذا السبب لجلب الحجيج إليها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Trace the report that 'Abd al-Malik built the Dome of the Rock to divert the hajj (found in al-Ya'qubi) and review the scholarly debate over its reliability."
+    },
+    {
+      "timestamp": "00:08:42",
+      "claimEn": "The host claims that the hadith \"no journey is to be undertaken except to three mosques\" — among them al-Masjid al-Aqsa — appeared in that same era in order to establish al-Aqsa as a place of pilgrimage and end the competition with Mecca.",
+      "claimAr": "يقول المقدّم إنّ حديث \"لا تشد الرحال إلا إلى ثلاثة\" ومنها المسجد الأقصى ظهر في ذلك العصر لجعل الأقصى مكاناً للحج وللقضاء على التنافس مع مكة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the hadith in Bukhari and Muslim, examine its isnads and datings, and check studies proposing an Umayyad-era origin for the fada'il al-Quds material."
+    },
+    {
+      "timestamp": "00:08:42",
+      "claimEn": "The speaker claims that the verse does not name who the servant is, and does not name al-Masjid al-Aqsa as a specific mosque; the place was only called al-Masjid al-Aqsa later, on the basis of this verse.",
+      "claimAr": "يقول المتحدث إنّ الآية لم تذكر من هو العبد، ولم تحدد المسجد الأقصى كمسجد بعينه، وإنما سُمّي المكان المسجد الأقصى فيما بعد استناداً إلى هذه الآية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm from the Arabic of Q17:1 that neither the servant nor a located mosque is named, and trace the earliest attestations of the name al-Masjid al-Aqsa for the Jerusalem site."
+    },
+    {
+      "timestamp": "00:09:28",
+      "claimEn": "The speaker claims the verse is supposed to have been revealed in the tenth year of the mission, after Khadija's death, two or three years before the hijra, and that at that date there was no Aqsa mosque at all.",
+      "claimAr": "يقول المتحدث إنّ المفروض أنّ الآية نزلت في السنة العاشرة من البعثة بعد موت خديجة، أي قبل الهجرة بسنتين أو ثلاث، وإنه في ذلك التوقيت لم يكن هناك مسجد أقصى.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the traditional dating of the Isra' in the sira sources against the archaeological record of the Jerusalem Temple Mount in the early seventh century."
+    },
+    {
+      "timestamp": "00:09:28",
+      "claimEn": "The speaker claims that the area where al-Aqsa stands today is said to have been a rubbish dump and an abandoned place, even after the Arab conquest.",
+      "claimAr": "يقول المتحدث إنّ المنطقة التي فيها المسجد الأقصى اليوم يقال إنها كانت مقلب زبالة ومكاناً مهجوراً حتى بعد فتح العرب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check early accounts (e.g. the Umar conquest narratives, Christian pilgrim sources) and archaeology on the state of the Temple Mount before Umayyad construction."
+    },
+    {
+      "timestamp": "00:09:28",
+      "claimEn": "The speaker quotes Theodor Nöldeke as saying it is permissible to see in the night journey an act performed by another religious hero of bygone ages, but that this explanation creates new difficulties, since none of the biblical figures connected with the Kaaba — such as Adam and Abraham — has such a miracle transmitted about him.",
+      "claimAr": "ينقل المتحدث عن تيودور نولدكه قوله إنه يجوز لنا أن نرى في الإسراء الليلي عملاً قام به بطل ديني آخر من أبطال العصور الخوالي، لكن هذا التفسير يخلق صعوبات جديدة، إذ ليس من بين شخصيات الكتاب المقدس المرتبطة بالكعبة مثل آدم وإبراهيم من تُنقل عنه معجزة كهذه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the passage in Nöldeke's Geschichte des Qorans dealing with Q17:1 and verify the quotation and its argument."
+    },
+    {
+      "timestamp": "00:10:14",
+      "claimEn": "The speaker claims that the biblical figures who ascended to heaven — Elijah, and Enoch who is Idris in the Qur'an — have no connection to Mecca and the Kaaba, whereas the figures connected to the Kaaba are Abraham, who rebuilt it, and Adam, to whom Islamic reports trace its first building.",
+      "claimAr": "يقول المتحدث إنّ الشخصيات الكتابية التي صعدت إلى السماء، مثل إيليا النبي وأخنوخ الذي هو إدريس في القرآن، لا علاقة لها بمكة والكعبة، بينما المرتبط بالكعبة هو إبراهيم الذي أعاد بناءها وآدم الذي تعود إليه بحسب الروايات الإسلامية أول بناء لها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the biblical ascension accounts of Elijah and Enoch, the Qur'anic identification of Idris, and the Islamic reports attributing the Kaaba's first construction to Adam."
+    },
+    {
+      "timestamp": "00:11:06",
+      "claimEn": "The host relays Nöldeke's comment on Weil that although there is nothing in the verse linking it to what follows — a sound observation — this is of no importance for the verse's authenticity, since Qur'anic suras sometimes begin with one verse and then shift subject.",
+      "claimAr": "ينقل المقدّم تعليق نولدكه على فايل بأنه ليس في الآية ما يربطها بما يليها، وهي ملاحظة صائبة، لكنها بلا أهمية بالنسبة لمسألة صحة الآية، لأنّ سور القرآن تبدأ أحياناً بآية ثم يتحول الموضوع.",
+      "claimType": "textual",
+      "premiseStance": "irrelevant",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "A counter-argument to the interpolation thesis; verify Nöldeke's actual wording and note that it weakens the contextual argument while leaving the rhyme argument standing."
+    },
+    {
+      "timestamp": "00:11:06",
+      "claimEn": "The host claims that a break in tanwin or rhyme is a rare thing in the Qur'an, and that this makes it plausible the verse is genuine but was taken from another place and set into this context.",
+      "claimAr": "يقول المقدّم إنّ اختلاف التنوين أو القافية شيء نادر في القرآن، وإنّ ذلك يجعل من المحتمل أنّ الآية صحيحة لكنها مأخوذة من مكان آخر ومحطوطة في هذا السياق.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Survey how often verse endings break the rhyme pattern of their sura elsewhere in the Qur'an, to test whether the phenomenon is genuinely rare."
+    },
+    {
+      "timestamp": "00:11:57",
+      "claimEn": "The host claims that the official or older name of Surat al-Isra' is Surat Bani Isra'il and that the whole sura tells the story of the Children of Israel.",
+      "claimAr": "يقول المقدّم إنّ الاسم الرسمي لسورة الإسراء هو سورة بني إسرائيل، وإنّ السورة كلها تحكي قصة بني إسرائيل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the alternative name Bani Isra'il for sura 17 in the classical sources, and assess whether the sura as a whole is about the Israelites."
+    },
+    {
+      "timestamp": "00:11:57",
+      "claimEn": "The speaker claims the joint research with Édouard-Marie Gallez covered more than 43 verses which may have been added to the Qur'an at a later date, and that he himself worked on them on the basis of manuscripts.",
+      "claimAr": "يقول المتحدث إنّ البحث مع إدوار جالي تناول أكثر من 43 آية يُحتمل أنها أضيفت لاحقاً إلى القرآن، وإنه عمل عليها شخصياً على أساس المخطوطات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Obtain the list of 43+ verses attributed to Gallez's research and check whether it is published and how the manuscript basis is argued."
+    },
+    {
+      "timestamp": "00:12:48",
+      "claimEn": "The speaker claims that Gallez holds the first part of the verse, \"Glory to Him who made His servant travel by night,\" to belong to the original text, while the second part of the same verse was added later in the era of 'Abd al-Malik ibn Marwan.",
+      "claimAr": "يقول المتحدث إنّ جالي يرى أنّ الجزء الأول من الآية \"سبحان الذي أسرى بعبده ليلاً\" يعود فعلاً إلى النص الأصلي، بينما الجزء الثاني من الآية نفسها أضيف لاحقاً في عهد عبد الملك بن مروان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify Gallez's specific argument for a partial interpolation in Q17:1 and the evidence he offers for dating it to 'Abd al-Malik's reign."
+    },
+    {
+      "timestamp": "00:12:48",
+      "claimEn": "The speaker claims that later addition is not the only hypothesis: the last part of the verse may belong to another sura whose place is unknown, or to a text that has dropped out — what Muslim scholars call \"that whose wording was abrogated.\"",
+      "claimAr": "يقول المتحدث إنّ الإضافة اللاحقة ليست الفرضية الوحيدة، فقد يكون الجزء الأخير من الآية عائداً إلى سورة أخرى لا نعرف مكانها بالضبط، أو إلى نص سقط وهو ما يسميه علماء الإسلام \"ما نُسخ حرفه\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the classical category of naskh al-tilawa (abrogation of wording) and whether any traditional source associates it with Q17:1."
+    },
+    {
+      "timestamp": "00:13:35",
+      "claimEn": "The speaker claims that the word laylan carries tanwin, so it would form the end of the verse, meaning the original verse could have ended at \"Glory to Him who made his servants travel by night.\"",
+      "claimAr": "يقول المتحدث إنّ كلمة \"ليلاً\" منوّنة، فتكون نهاية الآية، أي أنّ الآية الأصلية يمكن أن تنتهي عند \"سبحان الذي أسرى بعباده ليلاً\".",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check whether tanwin reliably marks verse endings in Surat al-Isra' and whether any transmitted verse-division tradition ends verse 1 at laylan."
+    },
+    {
+      "timestamp": "00:13:35",
+      "claimEn": "The speaker claims that the word 'abdihi in the verse could be read 'ibadihi, because there was no alif of prolongation in the early script, and cites the Samarkand manuscript at Q2:90, where 'ibadihi in \"upon whom He wills of His servants\" is written without an alif.",
+      "claimAr": "يقول المتحدث إنّ كلمة \"عبده\" في الآية يمكن قراءتها \"عباده\" لأنه لم يكن هناك ألف مدّ في الرسم القديم، ويستشهد بمخطوطة سمرقند في سورة البقرة الآية 90 حيث كُتبت \"عباده\" في قوله \"على من يشاء من عباده\" بدون ألف.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating",
+        "quran-textual-transmission-script-and-orthography",
+        "quran-textual-transmission-readings-and-ahruf"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine the Samarkand codex at Q2:90 to confirm the defective spelling of 'ibadihi, and check whether the rasm of Q17:1 in early manuscripts admits both readings."
+    },
+    {
+      "timestamp": "00:14:22",
+      "claimEn": "The speaker claims it is therefore possible that the original verse read \"Glory to Him who made His servants travel by night,\" and that the phrase \"from the Sacred Mosque to the Farthest Mosque\" was added later in the era of 'Abd al-Malik ibn Marwan in order to place sanctity on Jerusalem and make it a spiritual capital for Muslims to rival Mecca, then held by Ibn al-Zubayr.",
+      "claimAr": "يقول المتحدث إنه من الممكن أن تكون الآية الأصلية \"سبحان الذي أسرى بعباده ليلاً\"، وإنّ عبارة \"من المسجد الحرام إلى المسجد الأقصى\" أضيفت فيما بعد في عهد عبد الملك بن مروان لوضع قدسية على القدس وجعلها عاصمة روحية للمسلمين تنافس مكة التي كان يحتلها ابن الزبير آنذاك.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Test whether any manuscript, variant reading, or early report supports a shorter form of Q17:1, and whether the political reconstruction is documented independently."
+    },
+    {
+      "timestamp": "00:15:12",
+      "claimEn": "The speaker claims three Qur'anic verses support reading the plural \"His servants\": Q20:77 and Q26:52, both \"And We revealed to Moses: travel by night with My servants,\" where the servants are the Hebrews of the exodus from Egypt, and Q44:23, \"So travel by night with My servants,\" which even specifies the time.",
+      "claimAr": "يقول المتحدث إنّ ثلاث آيات في القرآن تدعم قراءة الجمع \"بعباده\": طه 77 والشعراء 52 وفيهما \"وأوحينا إلى موسى أن أسرِ بعبادي\" والمقصود العبرانيون في الخروج من مصر، والدخان 23 \"فأسرِ بعبادي ليلاً\" حيث يُحدَّد التوقيت أيضاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the exact wording of Q20:77, Q26:52 and Q44:23 and confirm that asra bi-'ibadi is the standard Qur'anic collocation for the exodus."
+    },
+    {
+      "timestamp": "00:16:02",
+      "claimEn": "The speaker claims that the verb asra in these verses means night travel on foot or by land — walking, not flying.",
+      "claimAr": "يقول المتحدث إنّ فعل \"أسرى\" في هذه الآيات معناه السير ليلاً على الأرض، أي المشي وليس الطيران.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the lexical range of s-r-y in classical Arabic dictionaries and the Qur'anic usage of asra, including whether it can carry a supernatural sense."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "The speaker concedes that two verses in the Qur'an speak of Lot travelling by night with his family, but claims this does not fit the context of the verse under discussion.",
+      "claimAr": "يعترف المتحدث بأنّ في القرآن آيتين تتحدثان عن إسراء لوط مع أهله، لكنه يقول إنّ هذا الموضوع لا يمشي مع سياق الآيات المطروحة.",
+      "claimType": "textual",
+      "premiseStance": "irrelevant",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the Lot night-travel verses (e.g. Q11:81, Q15:65) and note that they show asra is not exclusively tied to the Israelites."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "The speaker claims that the sura's name Bani Isra'il fits perfectly with the plural reading \"His servants,\" meaning the Children of Israel.",
+      "claimAr": "يقول المتحدث إنّ اسم السورة \"بني إسرائيل\" يتماشى تماماً مع قراءة الجمع \"بعباده\" أي بني إسرائيل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the sura's alternative title is early enough and whether the argument from title to original reading is methodologically sound."
+    },
+    {
+      "timestamp": "00:17:43",
+      "claimEn": "The speaker claims that a sura cannot begin with \"And We gave Moses the Book,\" so something must have preceded Q17:2, and that if the Jerusalem clause is removed the remaining verse would still connect to it — although the rhyme is then lost, which he treats as a difficulty for his own reconstruction.",
+      "claimAr": "يقول المتحدث إنّ سورة لا يمكن أن تبدأ بـ\"وآتينا موسى الكتاب\"، فلا بد أن يسبقها شيء، وإنه لو حذفنا عبارة المسجد الحرام والمسجد الأقصى لظلّت الآية متصلة بما بعدها، وإن كانت القافية تُفقد عندئذ، وهو ما يعدّه إشكالاً على طرحه نفسه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine whether other suras begin with a wa- conjunction, and evaluate the internal tension in the speaker's own reconstruction regarding the rhyme."
+    },
+    {
+      "timestamp": "00:17:43",
+      "claimEn": "The speaker claims there are two possible reconstructions: either the verse was originally about the Children of Israel and the second half was added later to sanctify Jerusalem, with the meaning then redirected to Muhammad, his journey from Mecca to Jerusalem and his flight on the Buraq; or the verse never belonged to this sura at all but to another, or to a sura that was dropped.",
+      "claimAr": "يقول المتحدث إنّ هناك تفسيرين محتملين: إمّا أن تكون الآية عن بني إسرائيل وأُضيف جزؤها الثاني فيما بعد لوضع قدسية على القدس، فصُرف المعنى إلى النبي محمد وإسرائه من مكة إلى القدس وطيرانه على البراق؛ وإمّا أن تكون الآية غير عائدة أصلاً لهذه السورة بل لسورة أخرى أو لسورة أُسقطت.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Note that the speaker offers competing reconstructions rather than one thesis; check whether either is supported by manuscript or variant-reading evidence."
+    },
+    {
+      "timestamp": "00:18:31",
+      "claimEn": "The host relays Ziedan's point that conflating the Isra' with the Mi'raj creates a chronological problem: Surat al-Isra' is supposed to be among the late Meccan suras, of the tenth year of the mission, while Surat al-Najm, which contains the allusion to the Mi'raj, is about five years earlier, at the time of the Gharaniq episode.",
+      "claimAr": "ينقل المقدّم عن زيدان أنّ خلط الإسراء بالمعراج يسبب مشكلة زمنية: فسورة الإسراء يفترض أنها من السور المتأخرة في مكة، في السنة العاشرة من البعثة، بينما سورة النجم التي فيها إشارة إلى المعراج تسبقها بنحو خمس سنوات، عند قصة الغرانيق.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the traditional chronological placement of suras 17 and 53, the Gharaniq reports, and the exegetical linking of Q53 to the Mi'raj."
+    },
+    {
+      "timestamp": "00:19:26",
+      "claimEn": "The host asks whether the Buraq story could be a complete fabrication of imagination by someone writing sira or circulating hadith in the era of 'Abd al-Malik ibn Marwan, who wanted to give Jerusalem a special standing and sanctity, and so invented the story of the night flight.",
+      "claimAr": "يطرح المقدّم أنّ قصة البراق قد تكون من نسج خيال كامل لمن كان يكتب السيرة أو يبثّ الحديث في عهد عبد الملك بن مروان، أراد أن يعطي القدس مكانة خاصة وقدسية فاخترع قصة الطيران ليلاً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-source-traditions",
+        "hadith"
+      ],
+      "newTopicIds": [
+        "umayyad-shaping-of-islam",
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Trace the earliest datable attestations of the Buraq in sira and hadith and check whether they cluster in or after the Marwanid period."
+    },
+    {
+      "timestamp": "00:19:26",
+      "claimEn": "The host claims that earlier episodes of the programme established that many stories mentioned in the Qur'an have traces of, and are even textually taken from, other texts and cultures.",
+      "claimAr": "يقول المقدّم إنّ حلقات سابقة من البرنامج أثبتت أنّ كثيراً من القصص المذكورة في القرآن لها آثار بل مأخوذة حتى بالنص من نصوص وثقافات أخرى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "A summary reference to the programme's prior arguments; verify each borrowing claim separately rather than as a block."
+    },
+    {
+      "timestamp": "00:20:17",
+      "claimEn": "The speaker claims there is a Zoroastrian story in which the Zoroastrian prophet flies on a winged camel, but he himself discounts this as the source of the Buraq, while maintaining that Zoroastrianism and Islam resemble each other in many places.",
+      "claimAr": "يقول المتحدث إنّ هناك قصة زرادشتية مفادها أنّ النبي الزرادشتي يطير بجمل مجنّح، لكنه يستبعد هذا الطرح مصدراً للبراق، مع تأكيده أنّ بين الزرادشتية والإسلام تشابهاً في مواضع كثيرة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Zoroastrian text the speaker has in mind (possibly the Arda Viraf ascent or a Zoroaster legend) and check whether a winged camel appears in it."
+    },
+    {
+      "timestamp": "00:20:17",
+      "claimEn": "The speaker claims that Muslim scholars describe the Buraq as a white beast larger than a donkey and smaller than a mule, with two wings, that flies.",
+      "claimAr": "يقول المتحدث إنّ علماء الإسلام يصفون البراق بأنه دابة بيضاء فوق الحمار ودون البغل، له جناحان ويطير.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadiths describing the Buraq (Bukhari, Muslim) and check whether wings are part of the canonical description or a later accretion."
+    },
+    {
+      "timestamp": "00:20:17",
+      "claimEn": "The speaker claims the closest image to the Buraq is found in Greek mythology, in the legendary winged horse named Pegasus.",
+      "claimAr": "يقول المتحدث إنّ أقرب صورة للبراق نجدها في الميثولوجيا اليونانية عند الإغريق، في الحصان الأسطوري ذي الجناحين المسمى بيغاسوس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "greek-mythological-parallels",
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether any scholarly literature argues for Greek mythological influence on the Buraq, and whether the resemblance is more than generic."
+    },
+    {
+      "timestamp": "00:21:07",
+      "claimEn": "The speaker recounts the Pegasus myth as background: Medusa was a beautiful woman whom the sea god Poseidon pursued, Athena turned her hair to snakes so that all who saw her turned to stone, the hero Perseus was sent to fetch her head as a bride price and cut it off using his shield, and from Medusa's blood came the winged horse Pegasus, on which Perseus flew through the heavens.",
+      "claimAr": "يسرد المتحدث أسطورة بيغاسوس: كانت ميدوزا سيدة جميلة أرادها إله البحر بوسيدون، فجعلت أثينة إلهة الحكمة شعرها أفاعي وجعلت كل من يراها يتحول إلى حجر، وطلب الملك من البطل بيرسيوس رأسها مهراً لابنته، فقطعه مستعيناً بدرعه، ومن دم ميدوزا خرج الفرس المجنّح بيغاسوس فطار به بيرسيوس في السماوات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "greek-mythological-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Perseus–Medusa–Pegasus myth against classical sources (Hesiod, Ovid) and note where the speaker's retelling departs from them."
+    },
+    {
+      "timestamp": "00:23:26",
+      "claimEn": "The speaker claims that the god Zeus used the winged horse in the wars among the gods and to carry heroes to Mount Olympus, and that in honour of it he made it a god — the god of lightning — and a constellation in the sky.",
+      "claimAr": "يقول المتحدث إنّ الإله زيوس استخدم الفرس المجنّح في الحروب بين الآلهة وفي نقل الأبطال إلى جبل الأوليمب، وإكراماً له جعل منه إلهاً هو إله البرق ومجموعة نجوم في السماء.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "greek-mythological-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the classical association of Pegasus with Zeus's thunderbolt and with the constellation Pegasus."
+    },
+    {
+      "timestamp": "00:23:26",
+      "claimEn": "The speaker claims that in the Luvian language, spoken in the region around 600 BC, the word pihassas means precisely lightning, and that the Arabic Buraq is the same word, derived from barq, so it points to the same mythical animal flying through the heavens.",
+      "claimAr": "يقول المتحدث إنّ في اللغة اللوفية التي كانت في المنطقة نحو 600 سنة قبل الميلاد كلمة \"بيهاسس\" ومعناها بالضبط البرق، وإنّ كلمة \"البراق\" هي نفس الكلمة مشتقة من البرق، فتشير إلى الحيوان الأسطوري الطائر في السماوات.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "greek-mythological-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Luvian epithet pihassassi (of lightning) and the scholarly proposal linking it to Pegasus; then assess independently whether Arabic buraq derives from barq and whether any etymological link to Pegasus is defensible."
+    },
+    {
+      "timestamp": "00:24:13",
+      "claimEn": "The host claims that the story of winged horses also appears in connection with King Solomon, and the speaker responds that the Qur'anic text does not say Solomon had flying horses — that belongs to the Jewish legends that were circulating.",
+      "claimAr": "يقول المقدّم إنّ قصة الأحصنة المجنّحة وردت أيضاً عند الملك سليمان، فيردّ المتحدث بأنّ النص القرآني لا يتحدث عن أنّ لسليمان خيولاً تطير، وإنّ ذلك من الخرافات اليهودية التي كانت منتشرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Qur'anic Solomon horse passage (Q38:31, al-safinat al-jiyad) and the rabbinic or midrashic legends about Solomon's flying mounts; note the speaker's mention of an alternative reading of al-safinat."
+    },
+    {
+      "timestamp": "00:24:58",
+      "claimEn": "The speaker claims that a hadith of 'A'isha, which he believes is recorded in Sunan Abi Dawud, says that after the battle of Khaybar the Prophet came in on her while she was playing with her dolls, among which was a horse with two wings, and that when she said it was a horse with two wings he laughed until his molars showed.",
+      "claimAr": "يقول المتحدث إنّ حديثاً عن عائشة، يعتقد أنه في سنن أبي داود، يذكر أنّ النبي بعد معركة خيبر دخل عليها وهي تلعب بدماها وكان بينها حصان له جناحان، فلما قالت إنه حصان له جناحان ضحك حتى بدت نواجذه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith of 'A'isha's dolls in Sunan Abi Dawud, verify the winged-horse detail and the laughter, and check its grading."
+    },
+    {
+      "timestamp": "00:26:04",
+      "claimEn": "The speaker claims that Khaybar was in the seventh or eighth year after the hijra, around 629 CE, whereas the Isra' is supposed to have happened before the hijra, so if the Prophet had himself flown to heaven on a winged horse and was its only witness, it makes no sense that he should later be astonished and laugh when someone speaks of such a creature.",
+      "claimAr": "يقول المتحدث إنّ خيبر كانت في السنة السابعة أو الثامنة بعد الهجرة نحو سنة 629 ميلادية، بينما الإسراء يفترض أنه حدث قبل الهجرة، فإذا كان النبي قد طار بنفسه إلى السماء على حصان مجنّح وهو الشاهد الوحيد عليه، فكيف يستغرب ويضحك فيما بعد حين تُذكر أمامه هذه الدابة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Confirm the dating of Khaybar in the sira, and evaluate whether the Prophet's laughter in the hadith can reasonably be read as astonishment at a winged horse."
+    },
+    {
+      "timestamp": "00:26:49",
+      "claimEn": "The speaker claims that if this hadith is sound, it negates that the entire story of the Isra' and Mi'raj ever occurred, since otherwise he would not have laughed at something he himself had recounted earlier.",
+      "claimAr": "يقول المتحدث إنه لو كان هذا الحديث صحيحاً فإنه ينفي أن تكون قصة الإسراء والمعراج برمتها قد حصلت، وإلا لما ضحك على شيء هو نفسه سبق أن حكاه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether the inference holds, and whether the hadith's wording supports reading the Prophet's reaction as disbelief in winged horses."
+    },
+    {
+      "timestamp": "00:26:49",
+      "claimEn": "The speaker claims that those who reply to this hadith by saying 'A'isha was still a small child are answered by the fact that at Khaybar she would have been at least seventeen; he adds that the hadith is also transmitted in connection with Mu'awiya ibn Abi Sufyan, who was a disbeliever at that time, and concludes that the evidence shows there was no harmony between the Isra' story and the hadiths.",
+      "claimAr": "يقول المتحدث إنّ من ردّ على هذا الحديث بأنّ عائشة كانت صغيرة يُجاب بأنها في خيبر كانت على الأقل في السابعة عشرة، ويضيف أنّ الحديث مرتبط أيضاً بمعاوية بن أبي سفيان الذي كان كافراً وقتها، ويخلص إلى أنّ الأدلة تفيد أنه لم يكن هناك تناغم بين قصة الإسراء والأحاديث.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check 'A'isha's age at Khaybar on the traditional chronology, and clarify what the speaker means by the Mu'awiya connection, which is stated only loosely."
+    },
+    {
+      "timestamp": "00:27:35",
+      "claimEn": "The host concludes that there is a single verse in the Qur'an saying \"Glory to Him who made His servant travel by night\" — with no one saying who the servant was, from where to where exactly, or where al-Masjid al-Aqsa is — and that around it a great story was woven which became the nerve of Islamic identity, the relation to Jerusalem, and the conflicts with Jews and Christians over the sanctity of that place.",
+      "claimAr": "يخلص المقدّم إلى أنّ في القرآن آية وحيدة تقول \"سبحان الذي أسرى بعبده ليلاً\"، لم يقل أحد من هو العبد ولا من أين إلى أين بالضبط ولا أين المسجد الأقصى، ثم نُسجت حولها قصة كبيرة صارت عصب الهوية الإسلامية والعلاقة بالقدس والمشاكل مع اليهود والمسيحيين على قدسية هذا المكان.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-isra-and-miraj"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Confirm that Q17:1 is the only Qur'anic verse cited for the Isra' and that it names neither the servant nor the mosque's location."
+    },
+    {
+      "timestamp": "00:28:20",
+      "claimEn": "The host concludes that when the legends are set aside and one returns to scholarly research, it turns out the whole story has other sources — whether the story of Enoch or the story of the famous Greek horse Pegasus — and that the verse was put to a particular political use.",
+      "claimAr": "يخلص المقدّم إلى أنه حين ننسى الأساطير ونرجع للبحث العلمي نكتشف أنّ القصة برمتها لها مصادر أخرى، سواء قصة أخنوخ أو قصة بيغاسوس الحصان الإغريقي المشهور، وأنّ الآية استُخدمت لتوظيف سياسي معين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [
+        "greek-mythological-parallels",
+        "umayyad-shaping-of-islam"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the two proposed sources separately: the Enoch ascent literature and the Pegasus myth, and whether either is argued for in the scholarly literature on the Isra'."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:01:35",
+      "asStatedInVideo": "الدكتور يوسف زيدان وهو متخصص في المخطوطات",
+      "author": "يوسف زيدان",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:22",
+      "asStatedInVideo": "الباحث الفرنسي إدوارد جالي",
+      "author": "إدوار ماري جالي (Édouard-Marie Gallez)",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:22",
+      "asStatedInVideo": "الآية الأولى من سورة الإسراء التي تقول سبحان الذي أسرى بعبده ليلا من المسجد الحرام إلى المسجد الأقصى الذي بركنا حوله لنريه من آياتنا إنه السميع البصير",
+      "locator": "17:1",
+      "quotedArabic": "سبحان الذي أسرى بعبده ليلا من المسجد الحرام إلى المسجد الأقصى الذي باركنا حوله لنريه من آياتنا إنه هو السميع البصير",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:52",
+      "asStatedInVideo": "نفس الصورة صورة الإسراء الآية 93",
+      "locator": "17:93",
+      "quotedArabic": "أو يكون لك بيت من زخرف أو ترقى في السماء ولن نؤمن لرقيك حتى تنزل علينا كتابا نقرأه",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:38",
+      "asStatedInVideo": "فهو رده قال سبحان ربي إن كنت إلا بشرا رسولا",
+      "locator": "17:93",
+      "quotedArabic": "قل سبحان ربي هل كنت إلا بشرا رسولا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:38",
+      "asStatedInVideo": "الباحث الألماني فايل ... جوستوف فايل",
+      "author": "غوستاف فايل (Gustav Weil)",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:26",
+      "asStatedInVideo": "الآية اللي بعدها وآتينا موسى الكتاب وجعلناه هدى لبني إسرائيل ألا تتخذوا من دوني وكيلا",
+      "locator": "17:2",
+      "quotedArabic": "وآتينا موسى الكتاب وجعلناه هدى لبني إسرائيل ألا تتخذوا من دوني وكيلا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:17",
+      "asStatedInVideo": "في الآية الأولى هو يقول السميع البصير وفي الآية الثانية وكيلا شكورا كبيرا مفعولا نفيرا",
+      "locator": "سورة الإسراء - فواصل الآيات",
+      "quotedArabic": "وكيلا شكورا كبيرا مفعولا نفيرا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:03",
+      "asStatedInVideo": "المسجد الأقصى كما نعرف أنه بني في عصر عبد الملك بن مروان",
+      "author": "عبد الملك بن مروان",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:53",
+      "asStatedInVideo": "عبد الله بن الزبير كان يعني في مكة يعني عمل خلافة ضد خلافة الأمويين",
+      "author": "عبد الله بن الزبير",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:07:53",
+      "asStatedInVideo": "قيل أنه بهذا السبب قام عبد الملك بن المروان ببناء قبة الصخرة لجلب الحجيج إليها",
+      "workTitle": "بناء قبة الصخرة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:08:42",
+      "asStatedInVideo": "ظهر في هذا العصر كمان حديث يقول لا يشد الرحال إلا إلى ثلاث ومنهم المسجد الأقصى",
+      "locator": "لم يذكر المصدر ولا الراوي",
+      "quotedArabic": "لا تشد الرحال إلا إلى ثلاثة مساجد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:28",
+      "asStatedInVideo": "بالنسبة لتيودر نولديكا نعم أنه هو قال يجوز لنا أن نرى في الإسراء الليلي عملا قام به بطل ديني آخر من أبطال العصور الخوالي",
+      "author": "تيودور نولدكه (Theodor Nöldeke)",
+      "workTitle": "لم يُسمَّ الكتاب في الحلقة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:14",
+      "asStatedInVideo": "ليس من بين الشخصيات الكتاب المقدس التي ترتبط بالكعبة مثل آدم وإبراهيم من تنقل عنه معجزة كهذه",
+      "author": "آدم وإبراهيم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:14",
+      "asStatedInVideo": "الشخصيات اللي هي طلعت للسماء زي إليا النبي أو كمثل النبي أخنوخ اللي هو إدريس في القرآن",
+      "author": "إيليا النبي، أخنوخ (إدريس)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:57",
+      "asStatedInVideo": "الصورة الكاملة بتاعة الإسراء حتى اسمها الرسمي هي صورة بني إسرائيل",
+      "workTitle": "سورة بني إسرائيل (سورة الإسراء)",
+      "locator": "سورة 17",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:57",
+      "asStatedInVideo": "البحث اللي حضرتك حكيت عنه مع الباحث الكبير ماري إدوار جالي واللي هو تطرق إلى عدة آيات أكتر من 43 آية فيها احتمالية أنها أضيفت لاحقاً للقرآن",
+      "author": "إدوار ماري جالي",
+      "workTitle": "بحث في الآيات المحتمل إضافتها لاحقاً إلى القرآن",
+      "locator": "أكثر من 43 آية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:35",
+      "asStatedInVideo": "ما يسمى عند علماء الإسلام بما نسخ حرفه",
+      "workTitle": "مفهوم ما نُسخ حرفه (نسخ التلاوة)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:35",
+      "asStatedInVideo": "مخطوطة سمرقند في سورة البقرة الآية 90 بتقول على من يشاء من عباده",
+      "workTitle": "مخطوطة سمرقند",
+      "locator": "القرآن 2:90",
+      "quotedArabic": "على من يشاء من عباده",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:12",
+      "asStatedInVideo": "الآية الأولى هي في سورة طه الآية 77 ولقد أوحينا إلى موسى أن أسر بعبادي",
+      "locator": "20:77",
+      "quotedArabic": "ولقد أوحينا إلى موسى أن أسر بعبادي",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:02",
+      "asStatedInVideo": "الآية الثانية جاءت في سورة الشعراء الآية 52 بتقول وأوحينا إلى موسى أن أسر بعبادي إنكم متبعون",
+      "locator": "26:52",
+      "quotedArabic": "وأوحينا إلى موسى أن أسر بعبادي إنكم متبعون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:02",
+      "asStatedInVideo": "وأخيرا في سورة الدخان الآية 23 فأسر بعبادي ليلا",
+      "locator": "44:23",
+      "quotedArabic": "فأسر بعبادي ليلا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:57",
+      "asStatedInVideo": "في آيتين في القرآن تتحدث عن إسراء لوط مع عائلته",
+      "locator": "لم تُذكر أرقام الآيات",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:18:31",
+      "asStatedInVideo": "وصورة النجم اللي فيها إشارة إلى المعراج قبلها بتاع خمس سنوات عند قصة الغرانيق وما ضل صاحبكم وما غوى وما ينطق عن الهوى",
+      "locator": "سورة النجم 53:2-3",
+      "quotedArabic": "ما ضل صاحبكم وما غوى وما ينطق عن الهوى",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:18:31",
+      "asStatedInVideo": "عند قصة الغرانيق",
+      "workTitle": "قصة الغرانيق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:17",
+      "asStatedInVideo": "عندنا قصة زراديشتية على أساس إنه نبي الزراديشتي بيطير بجمل مجنح",
+      "author": "النبي الزرادشتي (زرادشت)",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:20:17",
+      "asStatedInVideo": "البراق يقال عنه عند العلماء الإسلام إنه هو دابة أبيض فوق الحمار ودون البغل",
+      "workTitle": "وصف البراق عند علماء الإسلام",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:07",
+      "asStatedInVideo": "في المتولوجية اليونانية أنه فيه حصان أسطوري له جناحين اسمه بيغاسوس",
+      "author": "بيغاسوس (Pegasus)",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:52",
+      "asStatedInVideo": "فرآها إله البحر اللي هو بوسيدم ... فهي طبعا هربت للمعبد بتاع أتينة اللي هي إلهة الحكمة ... ساعدت ميدوزا",
+      "author": "بوسيدون، أثينة، ميدوزا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:52",
+      "asStatedInVideo": "في بطل من الأبطال اليونان اللي هو بيرتيوس",
+      "author": "بيرسيوس (Perseus)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:26",
+      "asStatedInVideo": "هناك الإله زيوس قد استخدم أو طلب مساعدة هذا الفرس المجنح",
+      "author": "زيوس",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:23:26",
+      "asStatedInVideo": "في إحدى اللغات القديمة اللي كانت في بلاد الأنبياء تقريبا 600 سنة قبل الميلاد وهي كانت لغة اسمها اللوفية كلمة بيهاسس معناها برق",
+      "workTitle": "اللغة اللوفية (Luwian)",
+      "locator": "نحو 600 ق.م.",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:58",
+      "asStatedInVideo": "حتى عند الملك سليمان كان برضو في قصة أنه عنده أحصنة مجنحة ... اللي هي الصافينات موجودة في صفنات الجياد ... صافيات لها قراءة أخرى",
+      "locator": "لم يُذكر رقم الآية (إشارة إلى الصافنات الجياد)",
+      "quotedArabic": "الصافنات الجياد",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:24:58",
+      "asStatedInVideo": "كان في حديث عائشة أعتقد في سنن أبي داود مذكور ... بعد معركة خيبر ... دخل عليها وهي بتلعب بالدمى بتاعتها وكان من بين هذه الدمى فيه حصان له جناحان ... فالنبي ضحك حتى بدت نواجذه",
+      "workTitle": "سنن أبي داود",
+      "author": "عائشة (الراوية)",
+      "locator": "لم يُذكر رقم الحديث؛ المتحدث يقول \"أعتقد\"",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:26:04",
+      "asStatedInVideo": "المفروض أن خيبر دي يعني سنة خمسة هجريا أو ستة هجريا ... هي خيبر كانت سنة ستمية وتسعة وعشرين يعني تقريبا السبعة والثامنة بعد الهجرة",
+      "workTitle": "معركة خيبر",
+      "locator": "629 م / السنة السابعة أو الثامنة للهجرة (تردد المتحدث بين 5 و6 و7 و8)",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:26:49",
+      "asStatedInVideo": "وكذلك معاوية بن أبي سفيان ... معاوية بن أبي سفيان كان كافر وقتها",
+      "author": "معاوية بن أبي سفيان",
+      "confidence": "uncertain"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-historical-claims-isra-and-miraj",
+      "titleEn": "The Night Journey and Ascension",
+      "titleAr": "الإسراء والمعراج",
+      "descriptionEn": "Claims concerning Q17:1 and the Night Journey and Ascension traditions: the identity of the servant and the mosque, the dating and setting of the episode, the conflation of Isra' and Mi'raj, the Buraq, and the literary and political backgrounds proposed for the narrative.",
+      "descriptionAr": "الدعاوى المتعلقة بالآية الأولى من سورة الإسراء وبروايات الإسراء والمعراج: هوية العبد وهوية المسجد، وتأريخ الحادثة وسياقها، والخلط بين الإسراء والمعراج، والبراق، والخلفيات الأدبية والسياسية المقترحة للقصة.",
+      "suggestedParentId": "quran-historical-claims",
+      "closestExistingId": "quran-historical-claims-narrative-origins",
+      "rationale": "The Isra'/Mi'raj is a recurring, self-contained subject that other critical videos regularly treat at length; it currently has no home and would be scattered across narrative-origins, revelation-context and sirah topics."
+    },
+    {
+      "proposedId": "umayyad-shaping-of-islam",
+      "titleEn": "Umayyad shaping of Islam",
+      "titleAr": "الأمويون وصياغة الإسلام",
+      "descriptionEn": "Claims that the caliphs of the Marwanid and wider Umayyad period — above all 'Abd al-Malik ibn Marwan — shaped Islamic doctrine, sacred geography, ritual and text for political ends, including the Dome of the Rock, the sanctification of Jerusalem, the rivalry with Ibn al-Zubayr, and hadith or textual interventions attributed to that era.",
+      "descriptionAr": "الدعاوى بأنّ خلفاء العصر المرواني والأموي عموماً، وفي مقدمتهم عبد الملك بن مروان، صاغوا العقيدة والجغرافيا المقدسة والشعائر والنص لأغراض سياسية، بما يشمل قبة الصخرة وتقديس القدس والصراع مع ابن الزبير وما يُنسب إلى ذلك العصر من تدخلات في الحديث والنص.",
+      "suggestedParentId": "-",
+      "closestExistingId": "quran-textual-transmission-collection-and-standardization",
+      "rationale": "The premise names 'the later rulers of Islam' as co-authors of the religion, and this video returns to 'Abd al-Malik repeatedly; the existing collection-and-standardization topic covers only textual interventions, not sacred geography, ritual policy, or hadith circulation."
+    },
+    {
+      "proposedId": "greek-mythological-parallels",
+      "titleEn": "Greek and Hellenistic mythological parallels",
+      "titleAr": "التوازي مع الأساطير اليونانية والهلينستية",
+      "descriptionEn": "Claims of borrowing or resemblance between Islamic narrative motifs and Greek or Hellenistic mythology and its onward transmission, including figures, creatures, and etymologies such as Pegasus and the Buraq.",
+      "descriptionAr": "الدعاوى المتعلقة بالاقتباس أو التشابه بين المواتيف السردية الإسلامية والأساطير اليونانية والهلينستية وما انتقل منها، بما يشمل الشخصيات والكائنات والاشتقاقات مثل بيغاسوس والبراق.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "zoroastrian-parallels",
+      "rationale": "The taxonomy has children for Zoroastrian, Christian, Jewish and Syriac parallels but none for Greek mythology, which this episode uses as its principal comparison for the Buraq and which recurs in this genre (Dhu al-Qarnayn/Alexander, the Sleepers, and similar)."
+    }
+  ]
+}

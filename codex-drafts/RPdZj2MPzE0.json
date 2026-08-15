@@ -1,0 +1,796 @@
+{
+  "schemaVersion": 1,
+  "videoId": "RPdZj2MPzE0",
+  "videoUrl": "https://www.youtube.com/watch?v=RPdZj2MPzE0",
+  "videoTitle": "صندوق الاسلام 61 : حقيقة الإعجاز العلمي في القران أطوار الجنين",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160829",
+  "extractedAt": "2026-08-15T04:57:58+00:00",
+  "model": "agent:codex-manual",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In episode 61 of Box of Islam, Hamed Abdel-Samad and Muhammad al-Masih challenge the use of Qur'anic embryology as a scientific-miracle argument. They argue that religious texts are not experimentally testable scientific works, that miracle advocates selectively retrofit current discoveries to old vocabulary, and that some Muslim scholars themselves rejected interpretations unknown to the Companions. Working through the sequence in Surat al-Mu'minun, they give older lexical senses for sulala, nutfa, alaqa and mudgha, argue that bones and flesh develop together rather than successively, and place the clay-formation imagery beside biblical potter motifs. Their historical thesis is that detailed embryological readings entered Abbasid-era exegesis after Syriac and Persian translators transmitted Galen and other Greek medical writers into Arabic; because Galen's stages predated Islam and have themselves been superseded, the speakers conclude that the Qur'anic passage neither disclosed novel science nor provides evidence of divine origin.",
+  "summaryAr": "في الحلقة 61 من صندوق الإسلام يناقش حامد عبد الصمد ومحمد المسيح الاستدلال بأطوار الجنين القرآنية على الإعجاز العلمي. يقولان إن النص الديني ليس عملاً علمياً قابلاً للتجربة، وإن دعاة الإعجاز يطابقون الاكتشافات الحديثة انتقائياً بألفاظ قديمة، مع أن بعض علماء المسلمين رفضوا تفسير القرآن بما لم يعرفه الصحابة. ويتتبعان ألفاظ السلالة والنطفة والعلقة والمضغة في سورة المؤمنون، ويقدمان لها معاني لغوية قديمة، ويقولان إن العظام واللحم يتكونان معاً لا على التعاقب، ويربطان صورة التشكيل من الطين بموتيفات كتابية أقدم. وأطروحتهما التاريخية أن القراءة الجنينية المفصلة دخلت التفسير في العصر العباسي بعد أن نقل المترجمون السريان والفرس طب جالينيوس وغيره إلى العربية؛ ولأن مراحل جالينيوس سبقت الإسلام ثم تجاوزها العلم، يخلصان إلى أن المقطع لم يكشف علماً جديداً ولا يثبت مصدراً إلهياً.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:01:38",
+      "stepEn": "Introduces scientific miracles as the practice of combining unrelated things and using apparent agreement with science as proof that the Qur'an is from God.",
+      "stepAr": "يقدّم الإعجاز العلمي بوصفه جمعاً بين أشياء لا علاقة بينها، واستخدام التشابه الظاهر مع العلم دليلاً على أن القرآن من عند الله."
+    },
+    {
+      "timestamp": "00:02:24",
+      "stepEn": "Contrasts the empirical method—observation, experiment and repeatability—with a religious text whose unseen claims cannot be tested in that way.",
+      "stepAr": "يقابل بين المنهج التجريبي القائم على المراقبة والتجربة والتكرار وبين كتاب ديني لا يمكن اختبار غيبياته بهذه الطريقة."
+    },
+    {
+      "timestamp": "00:03:16",
+      "stepEn": "Argues that miracle readings overlook passages the speakers regard as scientifically problematic while selecting phrases that can be made to resemble modern discoveries.",
+      "stepAr": "يقول إن قراءات الإعجاز تتغاضى عن مواضع يراها المتحدثان مصادمة للعلم، وتنتقي عبارات يمكن جعلها شبيهة بالاكتشافات الحديثة."
+    },
+    {
+      "timestamp": "00:04:48",
+      "stepEn": "Makes the embryo sequence in Surat al-Mu'minun the main test case and questions whether any modern research supports its stated order.",
+      "stepAr": "يجعل تسلسل الجنين في سورة المؤمنون المثال الرئيسي، ويسأل هل يؤيد أي بحث حديث الترتيب المذكور فيه."
+    },
+    {
+      "timestamp": "00:05:34",
+      "stepEn": "Sets a historical and methodological frame: natural descriptions reflect the concepts current when a text arose, and aligning scripture with changing theories places both science and scripture in a false bind.",
+      "stepAr": "يضع إطاراً تاريخياً ومنهجياً: وصف الظواهر الطبيعية يعكس مفاهيم زمن ظهور النص، وربط الكتاب بنظريات متغيرة يوقع العلم والنص معاً في مأزق."
+    },
+    {
+      "timestamp": "00:07:59",
+      "stepEn": "Surveys Muslim advocates and opponents of scientific interpretation, then invokes al-Shatibi's rule against readings unknown to the Companions.",
+      "stepAr": "يعرض أسماء مؤيدين ومعارضين للتفسير العلمي من علماء المسلمين، ثم يستند إلى قاعدة الشاطبي في رفض ما لم يكن معروفاً عند الصحابة."
+    },
+    {
+      "timestamp": "00:09:31",
+      "stepEn": "Characterizes scientific-miracle apologetics as post hoc: it waits for an external discovery, then reassigns an old word such as dharra or nutfa to the new scientific term.",
+      "stepAr": "يصف خطاب الإعجاز بأنه لاحق للاكتشاف: ينتظر نتيجة خارجية ثم يعيد تحميل لفظ قديم مثل الذرة أو النطفة معنى المصطلح العلمي الجديد."
+    },
+    {
+      "timestamp": "00:12:52",
+      "stepEn": "Reads the Qur'anic sequence lexically and contextually, moving from clay through sulala, nutfa, alaqa and mudgha rather than importing modern embryological labels.",
+      "stepAr": "يقرأ التسلسل القرآني لغوياً وسياقياً، من الطين إلى السلالة والنطفة والعلقة والمضغة، بدلاً من إسقاط مصطلحات علم الأجنة الحديث عليه."
+    },
+    {
+      "timestamp": "00:15:22",
+      "stepEn": "Identifies the decisive scientific problem as the succession of bones and then flesh, which the speakers say conflicts with their concurrent development.",
+      "stepAr": "يحدد المشكلة العلمية الحاسمة في تعاقب العظام ثم اللحم، إذ يقول المتحدثان إنهما يتكونان في الوقت نفسه."
+    },
+    {
+      "timestamp": "00:16:10",
+      "stepEn": "Places the clay-and-formation imagery within an older biblical and Aramaic model of a potter shaping matter before life is breathed into it.",
+      "stepAr": "يضع صورة الطين والتشكيل داخل نموذج كتابي وآرامي أقدم، كالفخاري الذي يشكل المادة قبل نفخ الحياة فيها."
+    },
+    {
+      "timestamp": "00:18:30",
+      "stepEn": "Reconstructs transmission: Abbasid-era Syriac and Persian translators, especially Hunayn ibn Ishaq, brought Galenic embryology into Arabic, after which exegetes mapped it onto Qur'anic terms.",
+      "stepAr": "يعيد بناء مسار النقل: نقل المترجمون السريان والفرس في العصر العباسي، ولا سيما حنين بن إسحاق، علم الأجنة الجالينوسي إلى العربية، ثم طابقه المفسرون بألفاظ القرآن."
+    },
+    {
+      "timestamp": "00:20:46",
+      "stepEn": "Uses al-Razi's explicit attribution to Galen and modern criticism of Galenic anatomy to argue that the material was inherited human science, not a uniquely Islamic discovery.",
+      "stepAr": "يستخدم نسبة الرازي الصريحة إلى جالينيوس والنقد الحديث لتشريحه ليقول إن المادة علم بشري موروث وليست كشفاً إسلامياً فريداً."
+    },
+    {
+      "timestamp": "00:24:34",
+      "stepEn": "Compares the reported stages and durations with Greek models and the backbone-and-ribs verse, presenting both as old physiological conceptions rather than modern embryology.",
+      "stepAr": "يقارن المراحل والمدد المروية بالنماذج اليونانية وبآية الصلب والترائب، ويقدمها كتصورات فسيولوجية قديمة لا كعلم أجنة حديث."
+    },
+    {
+      "timestamp": "00:26:04",
+      "stepEn": "Concludes that detailed Galenic stages entered Islamic interpretation through translation and were later disproved, so retrofitting them as revelation harms rather than supports the Qur'an's divine claim.",
+      "stepAr": "يخلص إلى أن مراحل جالينيوس المفصلة دخلت التفسير عبر الترجمة ثم نقضها العلم، ولذلك فإن تقديمها كوحي يضر دعوى المصدر الإلهي ولا يدعمها."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:02:24",
+      "claimEn": "The speakers claim that scientific theories are established through observation, experiment, repetition and reproducible results, whereas a religious book's unseen claims cannot be subjected to those criteria.",
+      "claimAr": "يقول المتحدثان إن النظرية العلمية تقوم على المراقبة والتجربة والتكرار وإعطاء النتيجة نفسها، بينما لا يمكن إخضاع غيبيات الكتاب الديني لهذه المعايير.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the speakers accurately distinguish empirical scientific claims from metaphysical claims and whether that distinction alone bears on authorship rather than only on testability."
+    },
+    {
+      "timestamp": "00:03:16",
+      "claimEn": "The speakers claim that Qur'anic descriptions of lamps as missiles against eavesdropping devils, the sun setting in a muddy spring, and the sun running to a resting place conflict with modern science.",
+      "claimAr": "يقول المتحدثان إن وصف المصابيح بأنها رجوم للشياطين، ووجدان الشمس تغرب في عين حميئة، وجريان الشمس لمستقر لها، يناقض العلم الحديث.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate each Qur'anic passage, verify the exact Arabic and classical interpretive range, and compare the speakers' literal readings with relevant astronomy rather than assuming their glosses."
+    },
+    {
+      "timestamp": "00:04:03",
+      "claimEn": "The speakers claim that scientific-miracle advocates selectively identify the separation of heaven and earth with the Big Bang while rejecting evolutionary biology, even though the modern scientific account they invoke includes the development culminating in Darwinian evolution.",
+      "claimAr": "يقول المتحدثان إن دعاة الإعجاز يطابقون فتق السماوات والأرض بالانفجار العظيم انتقائياً، ثم يرفضون علم الأحياء التطوري الذي انتهى إلى داروين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check representative scientific-miracle arguments about the Big Bang and evolution and determine whether the alleged selective acceptance is characteristic or overgeneralized."
+    },
+    {
+      "timestamp": "00:04:48",
+      "claimEn": "The speakers claim that no modern scientific research known to them describes fetal development in the Qur'anic order of nutfa, alaqa, mudgha, bones and then flesh.",
+      "claimAr": "يقول المتحدثان إنهما لا يعرفان بحثاً علمياً حديثاً يصف تطور الجنين بترتيب النطفة ثم العلقة ثم المضغة ثم العظام ثم اللحم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the stated Qur'anic sequence with current embryology references, paying particular attention to what each Arabic stage term denotes and to the timing of osteogenesis and myogenesis."
+    },
+    {
+      "timestamp": "00:05:34",
+      "claimEn": "Muhammad al-Masih claims that when the Qur'an or another scripture speaks about natural phenomena, it speaks through concepts available when its texts came into existence and primarily symbolically rather than with scientific precision.",
+      "claimAr": "يقول محمد المسيح إن القرآن أو أي كتاب سماوي حين يتحدث عن ظواهر طبيعية يتحدث بالمفهوم الموجود وقت وجود النصوص، وغالباً للرمزية لا للتدقيق العلمي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess this historical-contextual principle against the language and reception of the cited passages; the transcript offers it as a general inference rather than a demonstrated result."
+    },
+    {
+      "timestamp": "00:07:14",
+      "claimEn": "The speakers claim that tying a Qur'anic verse to a current scientific result creates an unstable interpretation because later research can overturn that result and force the verse to be remapped.",
+      "claimAr": "يقول المتحدثان إن ربط آية قرآنية بنتيجة علمية راهنة يجعل التفسير متقلباً، لأن بحثاً لاحقاً قد ينقض النتيجة فيضطر المفسر إلى إعادة مطابقة الآية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Review the history of scientific-miracle exegesis for documented cases in which a verse's proposed scientific referent changed after a scientific theory changed."
+    },
+    {
+      "timestamp": "00:07:59",
+      "claimEn": "Muhammad al-Masih claims that al-Razi, al-Suyuti, al-Ghazali and Muhammad Abduh were prominent Muslim scholars who allowed scientific-miracle interpretation, grounding it in the Qur'anic phrase 'We have neglected nothing in the Book.'",
+      "claimAr": "يقول محمد المسيح إن الرازي والسيوطي والغزالي ومحمد عبده من أبرز علماء المسلمين الذين أجازوا القول بالإعجاز العلمي، محتجين بعبارة: «ما فرطنا في الكتاب من شيء».",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify which al-Razi is intended and locate explicit statements by each named scholar allowing scientific interpretation; also verify how each interpreted the cited phrase from Surat al-An'am."
+    },
+    {
+      "timestamp": "00:11:21",
+      "claimEn": "Muhammad al-Masih claims that al-Shatibi, Amin al-Khuli, Muhammad al-Dhahabi and Mahmud Shaltut opposed scientific-miracle interpretation, and that al-Shatibi specifically prohibited interpreting Qur'anic verses by later knowledge unknown to the Companions.",
+      "claimAr": "يقول محمد المسيح إن الشاطبي وأمين الخولي ومحمد الذهبي ومحمود شلتوت رفضوا القول بالإعجاز العلمي، وإن الشاطبي قال: «لا يجوز لأحد أن يفسر آي القرآن الكريم بما لم يكن معروف عند الصحابة مما جد فيما بعد».",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the stated rule in al-Shatibi and explicit positions in works by Amin al-Khuli, Muhammad al-Dhahabi and Mahmud Shaltut; verify wording and context rather than treating the transcript's formulation as a quotation."
+    },
+    {
+      "timestamp": "00:09:31",
+      "claimEn": "The speakers claim that scientific-miracle apologetics works post hoc: no Arab physician derives a new embryological discovery from the Qur'an; advocates wait for Western research and then claim that an old word already contained it.",
+      "claimAr": "يقول المتحدثان إن خطاب الإعجاز يعمل بأثر رجعي: لا يستخرج طبيب عربي اكتشافاً جنينياً جديداً من القرآن، بل ينتظر الداعية نتيجة البحث الغربي ثم يقول إن لفظاً قديماً كان يتضمنها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey the history of modern scientific-miracle publications for prospective discoveries genuinely derived from scripture versus retrospective alignments after external scientific publication."
+    },
+    {
+      "timestamp": "00:10:13",
+      "claimEn": "The speakers claim that the Qur'anic word dharra originally meant something extremely light, the weight of or smaller than an ant, and had no connection to atomic fission, electrons, neutrons or protons.",
+      "claimAr": "يقول المتحدثان إن لفظ الذرة في الاستعمال القديم كان يعني شيئاً خفيفاً جداً، كوزن النملة أو أصغر منها، ولا علاقة له بانشطار الذرة أو الإلكترونات أو النيترونات أو البروتونات.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check premodern Arabic lexica and Qur'anic exegesis for the semantic range of dharra, and distinguish lexical meaning from the modern Arabic technical term for atom."
+    },
+    {
+      "timestamp": "00:12:52",
+      "claimEn": "Muhammad al-Masih claims that sulala in Qur'an 23:12 meant something pure or purified, citing an earlier discussion of a manuscript he calls Parisino-Petropolitanus, so the verse first speaks of pure clay before moving to nutfa.",
+      "claimAr": "يقول محمد المسيح إن «سلالة» في الآية 12 من سورة المؤمنون تعني النقي أو الطاهر، مشيراً إلى ما سماه مخطوطة «باريزينو بيترو بوليتانوس»، فيكون الكلام أولاً عن طين طاهر ثم ينتقل إلى النطفة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the reading and relevance of the manuscript name as stated, and test the proposed meaning of sulala against early manuscripts, lexica and classical tafsir of Qur'an 23:12."
+    },
+    {
+      "timestamp": "00:13:42",
+      "claimEn": "Muhammad al-Masih claims that nutfa means a small drop, as in a waterskin dripping and flowing, and that recognizing semen as a reproductive fluid was common knowledge rather than a miraculous discovery.",
+      "claimAr": "يقول محمد المسيح إن «نطفة» تعني قطرة صغيرة، كما يقال «نطفة القربة إذا قطرت وسالت»، وإن معرفة السائل المنوي لم تكن اكتشافاً معجزاً بل معرفة عامة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the sense and attested usage of nutfa in early Arabic lexica and texts, and independently evaluate what reproductive knowledge was ordinary in Late Antiquity."
+    },
+    {
+      "timestamp": "00:14:31",
+      "claimEn": "Muhammad al-Masih claims that alaqa in the passage means something adhesive or clinging, not the leech whose shape modern advocates compare to an embryo, and supports this with the phrase 'sticky clay' in Surat al-Saffat 37:11.",
+      "claimAr": "يقول محمد المسيح إن «علقة» في المقطع تعني شيئاً لازباً أو لاصقاً، لا الدودة التي يشبّه دعاة معاصرون شكل الجنين بها، ويستشهد بعبارة «طين لازب» في سورة الصافات، الآية 11.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the semantic range of alaqa and whether lazib in Qur'an 37:11 is a valid lexical parallel; compare early tafsir with modern leech analogies."
+    },
+    {
+      "timestamp": "00:14:31",
+      "claimEn": "Muhammad al-Masih claims that mudgha denotes chewed material whose form has been distorted, and that interpreting it simply as a piece of flesh forces the wording because flesh is introduced later in the stated sequence.",
+      "claimAr": "يقول محمد المسيح إن «مضغة» تدل على مادة جرى مضغها فتشوّه شكلها، وإن تفسيرها مباشرة بقطعة لحم يلوي عنق النص لأن اللحم يأتي لاحقاً في التسلسل المذكور.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check early Arabic usage, lexica and tafsir for mudgha, including whether 'piece of flesh' is an early sense and whether the later mention of flesh constrains it as the speaker argues."
+    },
+    {
+      "timestamp": "00:15:22",
+      "claimEn": "The speakers claim that the Qur'anic sequence forms bones first and then clothes them with flesh, whereas modern embryology says bone and flesh develop in parallel rather than one after the other.",
+      "claimAr": "يقول المتحدثان إن التسلسل القرآني يجعل العظام أولاً ثم يكسوها اللحم، بينما يقول علم الأجنة الحديث إن العظام واللحم يتكونان في توقيت متوازٍ لا واحداً بعد الآخر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the exact Qur'anic syntax and compare the developmental timelines of cartilage, ossification and skeletal muscle in current embryology; avoid collapsing cartilage and bone or all soft tissue into one category."
+    },
+    {
+      "timestamp": "00:15:22",
+      "claimEn": "Muhammad al-Masih claims that the Qur'anic formation model repeats an older Jewish conception in which the human is shaped like a potter's work from earth, citing Genesis 2:7 and the potter image in Jeremiah.",
+      "claimAr": "يقول محمد المسيح إن نموذج التشكيل القرآني يكرر تصوراً يهودياً أقدم يُصنع فيه الإنسان من التراب كعمل الفخاري، مستشهداً بسفر التكوين 2:7 وصورة الفخاري في سفر إرميا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Genesis 2:7 and the relevant potter passages in Jeremiah, then compare their wording and conceptual structure with the Qur'anic creation passages rather than inferring dependence from clay imagery alone."
+    },
+    {
+      "timestamp": "00:16:10",
+      "claimEn": "Muhammad al-Masih claims that the Qur'anic miracle in which Jesus shapes a bird from clay and breathes into it belongs to the same older model of matter being formed and then animated by breath.",
+      "claimAr": "يقول محمد المسيح إن معجزة المسيح القرآنية، حيث يشكل من الطين كهيئة طائر ثم ينفخ فيه، تنتمي إلى النموذج القديم نفسه: تشكيل المادة ثم إحياؤها بالنفخ.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Qur'anic clay-bird passages and compare the sequence of shaping and breathing with the human-creation model and with any proposed earlier Christian parallels."
+    },
+    {
+      "timestamp": "00:16:58",
+      "claimEn": "Muhammad al-Masih claims that an Aramaic term pronounced masa'a, written without dotting in a way he contrasts with mudgha, means 'middle,' making the mudgha a middle stage between formation and creation.",
+      "claimAr": "يقول محمد المسيح إن لفظاً آرامياً ينطقه «مصعة» ويقابله بـ«مضغة» من غير تنقيط، معناه «وسط»، فتكون المضغة مرحلة وسطى بين التكوين والخلق.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-textual-transmission-syro-aramaic-philology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the exact Aramaic word intended by the transcript's pronunciation 'مصعة', verify its spelling and sense, and test whether the proposed undotted relation to mudgha is philologically possible."
+    },
+    {
+      "timestamp": "00:16:58",
+      "claimEn": "Muhammad al-Masih claims that Surat al-Hajj 22:5's 'formed and unformed' mudgha reflects a two-stage model of uncreated shaped clay before the breath and created life after it, not a medically precise distinction between viable and miscarried embryos.",
+      "claimAr": "يقول محمد المسيح إن «مضغة مخلقة وغير مخلقة» في سورة الحج، الآية 5، تعكس مرحلتين: طيناً مشكلاً قبل النفخ ثم خلقاً بعد النفخ، لا تمييزاً طبياً دقيقاً بين جنين مكتمل وجنين ساقط.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Qur'an 22:5 and early tafsir of mukhallaqa wa-ghayr mukhallaqa, including miscarriage interpretations, and assess whether the speaker's clay-and-breath reading is textually supported."
+    },
+    {
+      "timestamp": "00:18:30",
+      "claimEn": "Muhammad al-Masih claims that detailed embryological interpretation entered Arabic exegesis in the Abbasid period, especially under al-Amin and al-Ma'mun, after Syriac translators transmitted Greek ideas into Arabic.",
+      "claimAr": "يقول محمد المسيح إن التفسير الجنيني المفصل دخل العربية والتفسير في العصر العباسي، وخصوصاً عصر الأمين والمأمون، بعد أن نقل المترجمون السريان الأفكار اليونانية إلى العربية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Establish the chronology of Arabic Galenic translations and compare pre-translation and Abbasid-era tafsir of the embryo verses to determine whether detailed stage mappings appear only after transmission."
+    },
+    {
+      "timestamp": "00:18:30",
+      "claimEn": "Muhammad al-Masih claims that Hunayn ibn Ishaq translated a work of Galen, a physician who lived centuries before Islam and described four embryological stages in detail; Aristotle and Hippocrates had discussed the subject even earlier.",
+      "claimAr": "يقول محمد المسيح إن حنين بن إسحاق ترجم كتاباً لجالينيوس، وهو طبيب عاش قبل الإسلام بقرون ووصف أربع مراحل للجنين بالتفصيل، وإن أرسطو وأبقراط تكلما في الموضوع قبله.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Galenic work intended, verify Hunayn ibn Ishaq's translation, date Galen, Aristotle and Hippocrates, and compare their actual stage descriptions with the Qur'anic and exegetical sequence."
+    },
+    {
+      "timestamp": "00:19:59",
+      "claimEn": "Muhammad al-Masih claims that Syriac and Persian scholars translated their inherited science into Arabic after mastering the language, supplying a culture that the Arabs themselves had not possessed.",
+      "claimAr": "يقول محمد المسيح إن علماء سرياناً وفرساً ترجموا العلوم والحضارة الموروثة عندهم إلى العربية بعد تمكنهم منها، فأدخلوا ثقافتهم القديمة عند العرب الذين لم تكن لهم حضارة مماثلة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the institutional and linguistic history of the Abbasid translation movement and separate the verifiable role of Syriac and Persian translators from the speaker's sweeping claim about Arabs lacking civilization."
+    },
+    {
+      "timestamp": "00:20:46",
+      "claimEn": "Muhammad al-Masih claims that al-Razi explicitly attributes anatomical observations to Galen, including an experiment on an ape, which shows Muslim medical authors were transmitting a named Greek source rather than presenting the result as an Islamic discovery.",
+      "claimAr": "يقول محمد المسيح إن الرازي ينسب مشاهدات تشريحية صراحة إلى جالينيوس، ومنها تجربة شق قرد وإدخال اليد ثم الإصبع، مما يبين أن المؤلف الطبي المسلم كان ينقل مصدراً يونانياً مسمى لا كشفاً إسلامياً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the al-Razi work and passage, verify the exact experiment and attribution to Galen, and determine its relevance to embryological exegesis rather than medicine generally."
+    },
+    {
+      "timestamp": "00:21:32",
+      "claimEn": "Muhammad al-Masih claims that the learned Christian family of Bukhtishu' and Hunayn ibn Ishaq formed a principal channel through which these medical interpretations reached Arabic culture.",
+      "claimAr": "يقول محمد المسيح إن عائلة بختيشوع المسيحية المتعلمة وحنين بن إسحاق شكّلوا قناة أساسية لوصول هذه التفسيرات الطبية إلى الثقافة العربية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Bukhtishu' family's and Hunayn ibn Ishaq's documented translation and medical roles, and look for evidence that their work specifically affected tafsir of the embryo passages."
+    },
+    {
+      "timestamp": "00:22:22",
+      "claimEn": "Muhammad al-Masih claims that a French scholar he names Christine Bonnet-Cadillac wrote a doctoral study rebutting Galen, and that modern microscopy shows bones and flesh develop together rather than in Galen's successive order.",
+      "claimAr": "يقول محمد المسيح إن باحثة فرنسية يسميها كريستين بونيت كاديلاك أعدت رسالة دكتوراه في الرد على جالينيوس، وإن المجهر الحديث أظهر أن العظام واللحم يتكونان معاً لا بالترتيب الجالينوسي المتعاقب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the scholar's exact name, dissertation title and findings; independently compare those findings with current embryology rather than using a single unspecified thesis as authority."
+    },
+    {
+      "timestamp": "00:23:11",
+      "claimEn": "Muhammad al-Masih claims that Galen taught that male semen carried the spirit and formed bones, cartilage, brain and nerves, while female blood formed the liver and flesh, a conception far removed from modern science.",
+      "claimAr": "يقول محمد المسيح إن جالينيوس كان يرى أن مني الرجل يحمل الروح ويتكون منه العظام والغضاريف والمخ والأعصاب، وأن دم المرأة يكوّن الكبد واللحم، وهو تصور بعيد عن العلم الحديث.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate these claims in Galen's embryological works and check the translation of the relevant physiological categories; compare them separately with modern reproductive biology."
+    },
+    {
+      "timestamp": "00:24:34",
+      "claimEn": "Muhammad al-Masih claims that hadith or tafsir says the nutfa remains in the womb for forty days, whereas Aristotle gave six days and Hippocrates more than six, showing competing ancient timings rather than divine foreknowledge.",
+      "claimAr": "يقول محمد المسيح إن التفسير أو الأحاديث تجعل النطفة تعيش أربعين يوماً في الرحم، بينما جعلها أرسطو ستة أيام وأبقراط أكثر من ستة، مما يكشف مددًا قديمة متنافسة لا علماً غيبياً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the forty-day report in hadith or tafsir and the six-day claims in Aristotle and Hippocrates, verify what stage each duration describes, and compare them with modern developmental chronology."
+    },
+    {
+      "timestamp": "00:24:34",
+      "claimEn": "Muhammad al-Masih claims that the Qur'an does not say semen is produced in the testes but says the gushing fluid comes from between the backbone and ribs, pointing to the back and chest or heart and reflecting an old physiological conception.",
+      "claimAr": "يقول محمد المسيح إن القرآن لا يقول إن المني يتكون في الخصيتين، بل يجعله يخرج «من بين الصلب والترائب»، أي بين الظهر والصدر أو باتجاه القلب، وهو تصور فسيولوجي قديم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-lexical-and-interpretive-questions-creation-fluid-verse"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the verse's exact wording and grammatical referents, survey classical and modern interpretations of sulb and tara'ib, and compare the claimed anatomy with reproductive physiology."
+    },
+    {
+      "timestamp": "00:26:04",
+      "claimEn": "The speakers conclude that the detailed four-stage Galenic scheme did not enter Islam in that mapped form until Galen's work was translated into Arabic and exegetes then aligned nutfa and alaqa with it; because modern science has rejected the scheme, it cannot serve as a Qur'anic miracle.",
+      "claimAr": "يخلص المتحدثان إلى أن مخطط جالينيوس ذي المراحل الأربع لم يدخل الإسلام بهذه المطابقة إلا بعد ترجمة كتابه إلى العربية، ثم طابق المفسرون به النطفة والعلقة؛ ولأن العلم الحديث رفض المخطط فلا يصلح إعجازاً قرآنياً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Test the full transmission claim chronologically: compare pre-Abbasid Qur'anic commentary, Galenic texts, Arabic translations and later tafsir, and verify which elements modern embryology rejects."
+    },
+    {
+      "timestamp": "00:26:50",
+      "claimEn": "Hamed Abdel-Samad concludes that a genuinely scientific and divinely knowledgeable Qur'an should have supplied useful discoveries such as medical treatments prospectively; claiming airplanes, rockets or other inventions only after the fact from vague phrases is a human interpretive maneuver.",
+      "claimAr": "يخلص حامد عبد الصمد إلى أن القرآن لو كان كتاباً علمياً عالماً بالغيب لقدم اكتشافات نافعة كعلاجات الأمراض مسبقاً، وأن إلحاق الطائرات والصواريخ وغيرها بعد وقوعها بعبارات عامة مناورة تفسيرية بشرية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the proposed criterion of prospective predictive usefulness and document whether the phrase 'creates what you do not know' has in fact been used for the technologies the speaker lists."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:16",
+      "asStatedInVideo": "زيّنا السماء الدنيا بمصابيح، وجعلناها رجوماً للشياطين",
+      "quotedArabic": "زيّنا السماء الدنيا بمصابيح، وجعلناها رجوماً للشياطين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:16",
+      "asStatedInVideo": "فوجدها تغرب في عين حميئة",
+      "quotedArabic": "فوجدها تغرب في عين حميئة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:03",
+      "asStatedInVideo": "والشمس تجري لمستقر لها",
+      "quotedArabic": "والشمس تجري لمستقر لها",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:03",
+      "asStatedInVideo": "أوَلم يروا أن السماوات والأرض كانت رتقاً ففتقناهما — يقول لك دا القرآن بيتكلم عن الانفجار العظيم",
+      "quotedArabic": "أوَلم يروا أن السماوات والأرض كانت رتقاً ففتقناهما",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:03",
+      "asStatedInVideo": "داروين — إيه موقعه في القرآن؟",
+      "locator": "داروين",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:48",
+      "asStatedInVideo": "في آية في سورة المؤمنون بتشرح مراحل تطور الجنين: ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظاماً فكسونا العظام لحماً ثم أنشأناه خلقاً آخر فتبارك الله أحسن الخالقين",
+      "workTitle": "سورة المؤمنون",
+      "quotedArabic": "ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظاماً فكسونا العظام لحماً ثم أنشأناه خلقاً آخر فتبارك الله أحسن الخالقين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:59",
+      "asStatedInVideo": "الرازي أبو بكر الرازي — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
+      "locator": "أبو بكر الرازي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:59",
+      "asStatedInVideo": "السيوطي — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
+      "locator": "السيوطي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:59",
+      "asStatedInVideo": "الإمام الغزالي — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
+      "locator": "الغزالي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:59",
+      "asStatedInVideo": "محمد عبده — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
+      "locator": "محمد عبده",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:44",
+      "asStatedInVideo": "ما فرطنا في الكتاب من شيء — في سورة الأنعام",
+      "workTitle": "سورة الأنعام",
+      "quotedArabic": "ما فرطنا في الكتاب من شيء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:13",
+      "asStatedInVideo": "نحن عندنا في القرآن كلمة: وَمَنْ يَعْمَلْ مَنْ يَشْتِقَلَ دَرَاتٍ خَيْراً يَرَى",
+      "quotedArabic": "وَمَنْ يَعْمَلْ مَنْ يَشْتِقَلَ دَرَاتٍ خَيْراً يَرَى",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:21",
+      "asStatedInVideo": "الإمام الشاطبي — أكبر شخص قال إنه لا يجوز القول بالإعجاز العلمي",
+      "locator": "الإمام الشاطبي",
+      "quotedArabic": "لا يجوز لأحد أن يفسر آي القرآن الكريم بما لم يكن معروف عند الصحابة مما جد فيما بعد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:21",
+      "asStatedInVideo": "الشيخ أمين الخولي — ممن قالوا إنه لا يجوز القول بالإعجاز العلمي",
+      "locator": "أمين الخولي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:21",
+      "asStatedInVideo": "الشيخ محمد الذهبي — ممن قالوا إنه لا يجوز القول بالإعجاز العلمي",
+      "locator": "محمد الذهبي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:21",
+      "asStatedInVideo": "الشيخ محمود شلتوت، شيخ الأزهر السابق وأول واحد أخذ لقب الإمام الأكبر",
+      "locator": "محمود شلتوت",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:52",
+      "asStatedInVideo": "في الآية 12 من سورة المؤمنون: وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ",
+      "workTitle": "سورة المؤمنون",
+      "locator": "12",
+      "quotedArabic": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:52",
+      "asStatedInVideo": "تكلمنا عن هذا الموضوع في مخطوطة صلال وصلصال، باريزينو بيترو بوليتانوس",
+      "workTitle": "باريزينو بيترو بوليتانوس",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:31",
+      "asStatedInVideo": "في سورة الصافات الآية 11: إن خلقناهم من طين لازب",
+      "workTitle": "سورة الصافات",
+      "locator": "11",
+      "quotedArabic": "إن خلقناهم من طين لازب",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:15:22",
+      "asStatedInVideo": "في التوراة في سفر التكوين، الإصحاح اثنين، الآية سبعة، يتكلم عن التراب، يعني إن آدم خلق من تراب",
+      "workTitle": "سفر التكوين",
+      "locator": "الإصحاح 2، الآية 7",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:22",
+      "asStatedInVideo": "آدم خلق من تراب",
+      "locator": "آدم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:16:10",
+      "asStatedInVideo": "وفي سفر إرميا بيحكي عن هذا الفخاري، عن هذا التشكيل",
+      "workTitle": "سفر إرميا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:10",
+      "asStatedInVideo": "في القرآن بالنسبة للمعجزة اللي عملها المسيح، ويخلق لكم من الطين كهذا، فهيأتي طائر فينفخوا فيه الروح",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:10",
+      "asStatedInVideo": "المسيح — المعجزة التي يعمل فيها من الطين هيئة طائر وينفخ فيه",
+      "locator": "المسيح",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:58",
+      "asStatedInVideo": "في سورة الحج الآية 5 تحكي عن هذه المضغة أو هذه المصعة أنها مخلقة وغير مخلقة",
+      "workTitle": "سورة الحج",
+      "locator": "5",
+      "quotedArabic": "مخلقة وغير مخلقة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:30",
+      "asStatedInVideo": "حنين بن إسحاق، مترجم وشخص مسيحي معروف، ترجم كتاباً لجالينيوس",
+      "locator": "حنين بن إسحاق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:30",
+      "asStatedInVideo": "غالينيوس، الطبيب الذي عاش قبل الإسلام وأعطى تفاصيل الأربع مراحل",
+      "locator": "غالينيوس / جالينيوس",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:30",
+      "asStatedInVideo": "ترجم كتاباً لغالينيوس",
+      "author": "غالينيوس",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:19",
+      "asStatedInVideo": "عندنا أريستو حتى من قبل، وأبو قراط، دول كلموا عن هذا الموضوع",
+      "locator": "أريستو / أرسطو",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:19",
+      "asStatedInVideo": "أبو قراط — تكلم عن هذا الموضوع قبل الإسلام",
+      "locator": "أبو قراط",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:46",
+      "asStatedInVideo": "الرازي يتحدث عن أن جالينيوس بقر قرد وأدخل يده وجده في بطنه ثم أدخل أصبعه في قلبه وجده حاراً",
+      "locator": "الرازي",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:32",
+      "asStatedInVideo": "حنين بن إسحاق — كانت قبله عيلة مثقفة تترجم من علماء وأطباء، عائلة بخت يشوع",
+      "locator": "حنين بن إسحاق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:21:32",
+      "asStatedInVideo": "عائلة بخت يشوع — عيلة مثقفة كانت تترجم من علماء وأطباء",
+      "locator": "عائلة بخت يشوع",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:22",
+      "asStatedInVideo": "دكتورة فرنسية اسمها كريستين بونيت كاديلاك عملت رسالة الدكتوراه بتاعتها في الرد على جالينيوس",
+      "locator": "كريستين بونيت كاديلاك",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:24:34",
+      "asStatedInVideo": "بالنسبة لتفسير أو الأحاديث تقول إن هذه النطفة تعيش أربعين يوماً في الرحم",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:34",
+      "asStatedInVideo": "وإنما يخرج من بين الصلب والترائب",
+      "quotedArabic": "يخرج من بين الصلب والترائب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:26:50",
+      "asStatedInVideo": "ويخلق ما لا تعلمون — يقول لك ما لا تعلمون دي هي الطيارات والصواريخ والتوك توك",
+      "quotedArabic": "ويخلق ما لا تعلمون",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

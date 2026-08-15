@@ -1,0 +1,216 @@
+{
+  "3gFRv8Pwjls#00:07:12": {
+    "verdict": "unsupported",
+    "summary": "Sahih al-Bukhari 2047 supports that Abu Hurairah was poor and stayed with the Prophet while others worked, but explains his prolific narration by attendance and memory, not by earning a livelihood from narration. Sahih al-Bukhari 6452 also depicts his food insecurity and dependence on hospitality, but does not call him a professional beggar or say traditions were his income.",
+    "references": [
+      {
+        "title": "Sahih al-Bukhari 2047",
+        "url": "https://sunnah.com/bukhari:2047",
+        "citation": "Book 34, Hadith 1",
+        "stance": "contradicts",
+        "whatItShows": "Abu Hurairah identifies himself as one of the poor men of al-Suffa and says his constant attendance and memory explain his many narrations; it does not describe narration as paid livelihood."
+      },
+      {
+        "title": "Sahih al-Bukhari 6452",
+        "url": "https://sunnah.com/bukhari:6452",
+        "citation": "Book 81, Hadith 41",
+        "stance": "context",
+        "whatItShows": "Abu Hurairah recounts severe hunger and receiving food with the people of al-Suffa, establishing poverty but not income from transmitting hadith."
+      }
+    ]
+  },
+  "3gFRv8Pwjls#00:10:33": {
+    "verdict": "inconclusive",
+    "summary": "Alfred Guillaume's The Life of Muhammad confirms that the Ibn Ishaq/Ibn Hisham work opens with Muhammad's genealogy and carries it back through Hashim and biblical ancestors to Adam. The available sources do not establish that Ibn Ishaq was the first to emphasize this lineage, or substantiate the exact wording 'through 40 grandfathers.'",
+    "references": [
+      {
+        "title": "The Life of Muhammad: A Translation of Ibn Ishaq's Sirat Rasul Allah",
+        "url": "https://almuslih.org/wp-content/uploads/Library/Guillaume%2C%20A%20-%20Life%20of%20Muhammad.pdf",
+        "citation": "Part I, 'The Genealogy of Muhammad', pp. 3-4",
+        "stance": "supports",
+        "whatItShows": "The received Ibn Ishaq material begins with a detailed genealogy of Muhammad extending through Hashim and earlier ancestors to Adam."
+      },
+      {
+        "title": "The Bloomsbury Companion to Islamic Studies",
+        "url": "https://dokumen.pub/the-bloomsbury-companion-to-islamic-studies-9781472548733-9781441127884.html",
+        "citation": "Section on Ibn Ishaq's Biography of God's Messenger",
+        "stance": "context",
+        "whatItShows": "It describes Ibn Ishaq's commissioned work as a history extending from Adam, but does not establish the claim of priority or the exact count of forty grandfathers."
+      }
+    ]
+  },
+  "3gFRv8Pwjls#00:18:49": {
+    "verdict": "unsupported",
+    "summary": "Guillaume's translation of Ibn Ishaq preserves several substantial episodes about Zaynab and her non-Muslim husband Abu al-As, including his capture at Badr, her ransom, her journey to Medina, their separation, his later protection and conversion, and their reunion. Sunan Abi Dawud 2692 independently preserves the ransom and migration episode, so Zaynab and Abu al-As are not an example of the biography simply omitting major details.",
+    "references": [
+      {
+        "title": "The Life of Muhammad: A Translation of Ibn Ishaq's Sirat Rasul Allah",
+        "url": "https://almuslih.org/wp-content/uploads/Library/Guillaume%2C%20A%20-%20Life%20of%20Muhammad.pdf",
+        "citation": "pp. 312-314 and 469-471",
+        "stance": "contradicts",
+        "whatItShows": "The sira narrates Zaynab's ransom of Abu al-As, her departure from Mecca, their separation, his later return and conversion, and restoration of their marriage."
+      },
+      {
+        "title": "Sunan Abi Dawud 2692",
+        "url": "https://sunnah.com/abudawud:2692",
+        "citation": "Book 15, Hadith 216",
+        "stance": "contradicts",
+        "whatItShows": "The report transmitted through Ibn Ishaq gives concrete details about Zaynab's necklace ransom and the arrangement for her journey to Medina."
+      }
+    ]
+  },
+  "3gFRv8Pwjls#00:19:32": {
+    "verdict": "unsupported",
+    "summary": "Guillaume's The Life of Muhammad preserves multiple Waraqah episodes rather than a single anecdote: his place among the four religious seekers, his Christianity and scriptural learning, Khadijah's consultation with him, his direct meeting with Muhammad, and a later report involving Bilal. The characterization of the sira as supplying only minimal information therefore overstates the omission.",
+    "references": [
+      {
+        "title": "The Life of Muhammad: A Translation of Ibn Ishaq's Sirat Rasul Allah",
+        "url": "https://almuslih.org/wp-content/uploads/Library/Guillaume%2C%20A%20-%20Life%20of%20Muhammad.pdf",
+        "citation": "pp. 99-107 and 143-144",
+        "stance": "contradicts",
+        "whatItShows": "The work includes Waraqah's conversion to Christianity and learning, two linked recognition scenes around Muhammad's first revelation, and a report about Bilal's persecution."
+      },
+      {
+        "title": "The Qur'an in Its Historical Context",
+        "url": "https://almuslih.org/wp-content/uploads/Library/Reynolds%2C%20G%20%28ed%29%20-%20The%20Qur%E2%80%99%C4%81n%20in%20its%20Historical%20Context.pdf",
+        "citation": "pp. 90-91",
+        "stance": "context",
+        "whatItShows": "The academic discussion quotes Ibn Ishaq's Waraqah recognition account and compares several early variants, demonstrating a broader report tradition."
+      }
+    ]
+  },
+  "3gFRv8Pwjls#00:21:05": {
+    "verdict": "unsupported",
+    "summary": "Gregor Schoeler's The Biography of Muhammad explains that Ibn Ishaq's court copy and his students' original books did not survive, while extensive student transmissions and later recensions did. It separately documents Ibn Hisham's declared omissions, but provides no basis for the claim that rulers discovered problematic content and caused the original to vanish.",
+    "references": [
+      {
+        "title": "The Biography of Muhammad: Nature and Authenticity",
+        "url": "https://almuslih.org/wp-content/uploads/2024/12/Schoeler-G-%E2%80%93-The-Biography-of-Mu%E1%B8%A5ammad-.pdf",
+        "citation": "pp. 47-49",
+        "stance": "contradicts",
+        "whatItShows": "Schoeler describes a court copy outside normal transmission, oral/aural transmission through students, several recensions, and Ibn Hisham's abridgment; he does not attribute the loss to rulers suppressing discovered content."
+      },
+      {
+        "title": "Notes about Censorship and Self-Censorship in the Biography of the Prophet Muhammad",
+        "url": "https://cris.huji.ac.il/en/publications/notes-about-censorship-and-self-censorship-in-the-biography-of-th/",
+        "citation": "Al-Qantara 35.1 (2014), pp. 233-254",
+        "stance": "context",
+        "whatItShows": "Michael Lecker documents specific editorial censorship by Ibn Hisham, not a ruler-driven destruction of Ibn Ishaq's original text."
+      }
+    ]
+  },
+  "4iJjjQ3DXiE#00:04:24": {
+    "verdict": "supported",
+    "summary": "The English edition of Nöldeke's The History of the Qur'an explicitly organizes the Meccan surahs into first, second, and third Meccan periods and describes this segmentation as foundational to later chronological discussion. The claim accurately summarizes Nöldeke's chronological arrangement, though the tripartite idea had a precursor in Gustav Weil.",
+    "references": [
+      {
+        "title": "The History of the Qur'an",
+        "url": "https://books.google.com/books/about/The_History_of_the_Qur%CA%BE%C4%81n.html?id=uKEHNcrPC9cC",
+        "citation": "Part I, pp. 55-134; contents list first, second, and third Meccan periods",
+        "stance": "supports",
+        "whatItShows": "Nöldeke's work places surahs into a chronological framework of three Meccan periods followed by a Medinan period."
+      },
+      {
+        "title": "The Qur'an (Palmer), Introduction",
+        "url": "https://en.wikisource.org/wiki/The_Qur%27an_%28Palmer%29/Introduction",
+        "citation": "Section 'Nöldeke's chronological order of the Surahs'",
+        "stance": "supports",
+        "whatItShows": "A contemporary published presentation lists Nöldeke's chronological order under successive Meccan periods."
+      }
+    ]
+  },
+  "4iJjjQ3DXiE#00:06:39": {
+    "verdict": "inconclusive",
+    "summary": "Y. Tzvi Langermann's review and Daniel King's detailed Syriac-philological assessment confirm that Luxenberg proposed many Syriac-based reinterpretations of Qur'anic passages, but neither supports a catalog of more than 1,250 words. The exact number and the claim that all were mistranslated into Arabic could not be substantiated in the book's scholarly reviews.",
+    "references": [
+      {
+        "title": "The Syro-Aramaic Reading of the Koran: A Contribution to the Decoding of the Language of the Koran",
+        "url": "https://www.ajis.org/index.php/ajiss/article/view/1454",
+        "citation": "American Journal of Islamic Social Sciences 25.3 (2008), pp. 121-123",
+        "stance": "context",
+        "whatItShows": "The review describes a sweeping lectionary thesis plus a collection of individual reinterpretations, but gives no 1,250-word finding."
+      },
+      {
+        "title": "A Christian Qur'an? A Study in the Syriac Background to the Language of the Qur'an",
+        "url": "https://orca.cardiff.ac.uk/id/eprint/78238/1/King%20A%20Christian%20Qur%27an.pdf",
+        "citation": "Journal for Late Antique Religion and Culture 3 (2009), pp. 44-71",
+        "stance": "context",
+        "whatItShows": "King evaluates Luxenberg's proposed readings case by case and finds the overall method severely deficient, without reporting a verified list of 1,250 Syriac-derived words."
+      }
+    ]
+  },
+  "4iJjjQ3DXiE#00:09:22": {
+    "verdict": "supported",
+    "summary": "The Ibn Ashur Centre's scholarly edition identifies chapter 38 of al-Suyuti's al-Itqan as 'Non-Arabic Words in the Qur'an' and describes extensive lists drawn from earlier literature. A Royal Asiatic Society article likewise states that al-Itqan section 38 summarizes al-Suyuti's monograph assigning foreign words to their source languages, which include Persian and Syriac.",
+    "references": [
+      {
+        "title": "Select Chapters of Itqan on the Language of the Qur'an",
+        "url": "https://www.ibnashur.com/publications/select-chapters-of-itqan",
+        "citation": "Chapter 38, 'Non-Arabic Words in the Qur'an'",
+        "stance": "supports",
+        "whatItShows": "The edition confirms that al-Itqan contains an extensive chapter of words thought to originate in other languages before absorption into Arabic."
+      },
+      {
+        "title": "Some Additions to Professor Jeffery's Foreign Vocabulary of the Qur'an",
+        "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/some-additions-to-professor-jefferys-foreign-vocabulary-of-the-quran/ACF49A7B5B1F047A1E9AF53967362627",
+        "citation": "Journal of the Royal Asiatic Society; discussion of section 38 of al-Itqan",
+        "stance": "supports",
+        "whatItShows": "The article states that al-Suyuti's section 38 summarizes his monograph on foreign Qur'anic words and the languages to which they were assigned."
+      }
+    ]
+  },
+  "4iJjjQ3DXiE#00:12:09": {
+    "verdict": "contested",
+    "summary": "Daniel King's A Christian Qur'an? confirms that Luxenberg proposed repointing zawwaja as rawwaha and reading hur in as white grapes or crystal-like jewels. King argues that the Arabic expression already works as 'white, wide-eyed women,' that the Syriac grape usage is uncommon and non-religious, and that Luxenberg's method is circular, so the proposal is documented but strongly disputed.",
+    "references": [
+      {
+        "title": "A Christian Qur'an? A Study in the Syriac Background to the Language of the Qur'an",
+        "url": "https://orca.cardiff.ac.uk/id/eprint/78238/1/King%20A%20Christian%20Qur%27an.pdf",
+        "citation": "Section IV, pp. 64-66",
+        "stance": "contradicts",
+        "whatItShows": "King reproduces Luxenberg's repointing and grape interpretation but criticizes its assumptions, notes the ordinary Arabic reading, and calls the method circular."
+      },
+      {
+        "title": "Review of Die syro-aramaeische Lesart des Koran",
+        "url": "https://hugoye.bethmardutho.org/article/hv6n1prphenixhorn.html",
+        "citation": "Paragraphs 30-33",
+        "stance": "supports",
+        "whatItShows": "The review accurately summarizes Luxenberg's proposed rawwaha reading and his interpretation of hur in as white crystal-like grapes."
+      },
+      {
+        "title": "Qur'an 44:54",
+        "url": "https://quran.com/44/54",
+        "citation": "44:54",
+        "stance": "context",
+        "whatItShows": "The received Arabic text reads wa-zawwajnahum bi-hurin in, the wording Luxenberg seeks to repoint and reinterpret."
+      }
+    ]
+  },
+  "4iJjjQ3DXiE#00:14:00": {
+    "verdict": "contested",
+    "summary": "François Déroche's Qur'ans of the Umayyads dates the Codex Parisino-petropolitanus (BnF Arabe 328a-b) to 671-695 CE, while the BnF catalogue records its provenance from the Amr ibn al-As mosque. But Déroche describes very few diacritics rather than none, and a defective long-a orthography rather than complete absence of alif, so the date and provenance are supported while the absolute palaeographic claims are not.",
+    "references": [
+      {
+        "title": "Qur'ans of the Umayyads: A First Overview",
+        "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/75/87/31/2021758731/2021758731.pdf",
+        "citation": "pp. 33-49, especially pp. 37-38 and 48-49",
+        "stance": "contradicts",
+        "whatItShows": "Déroche dates the codex to 671-695 and describes sparse diacritics and defective long-a spelling; the manuscript is not wholly devoid of dotting or alif spellings."
+      },
+      {
+        "title": "BnF Catalogue: Manuscrit Arabe 328a",
+        "url": "https://catalogue.bnf.fr/ark:/12148/cb16215654b",
+        "citation": "Notice FRBNF16215654",
+        "stance": "supports",
+        "whatItShows": "The official catalogue describes Arabe 328a as a Qur'an fragment originating from the Amr ibn al-As mosque in Fustat and possibly copied in Syria."
+      },
+      {
+        "title": "Corpus Coranicum: Bibliothèque nationale de France, Arabe 328(c)",
+        "url": "https://corpuscoranicum.de/en/manuscripts/158/page/83v",
+        "citation": "Manuscript description and diplomatic transcription",
+        "stance": "context",
+        "whatItShows": "The manuscript record explicitly notes that letters appear sometimes with and sometimes without diacritical dots, illustrating why 'lacks all dotting' is too absolute."
+      }
+    ]
+  }
+}

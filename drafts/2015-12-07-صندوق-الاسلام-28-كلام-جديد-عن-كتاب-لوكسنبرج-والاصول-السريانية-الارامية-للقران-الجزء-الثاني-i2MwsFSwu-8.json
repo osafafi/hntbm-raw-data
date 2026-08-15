@@ -1,0 +1,411 @@
+{
+  "schemaVersion": 1,
+  "videoId": "i2MwsFSwu-8",
+  "videoUrl": "https://www.youtube.com/watch?v=i2MwsFSwu-8",
+  "videoTitle": "صندوق الاسلام 28 كلام جديد عن كتاب لوكسنبرج والأصول السريانية الآرامية للقرآن الجزء الثاني",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151207",
+  "extractedAt": "2026-08-12T16:03:25+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this second part on Christoph Luxenberg's thesis, the host and guests discuss specific lexical re-interpretations of Quranic terms using Syro-Aramaic and diacritical re-pointing. They examine terms such as 'ma malakat aymanukum', 'ulu baqiyya', 'inahu', 'ashiyyan/ghishan', and 'dakhalan/dajalan', alongside historical discussions of palimpsests, the Dome of the Rock inscription, and early Islamic coinage.",
+  "summaryAr": "في هذا الجزء الثاني حول أطروحة كريستوف لوكسبيرغ، يناقش المضيف والضيوف تفسيرات لغوية محددة لألفاظ قرآنية اعتماداً على السريانية الآرامية وإعادة التنقيط. يتناولون مصطلحات مثل 'ما ملكت أيمانكم'، 'أولو بقية'، 'إناه'، 'عشاء/غشاً'، و'دخلاً/دجلاً'، إلى جانب مناقشات تاريخية حول الطروس (الرقوق الممسوحة)، ونقش قبة الصخرة، والعملات الإسلامية المبكرة.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:01:03",
+      "stepEn": "Listing various basic Quranic terms that Luxenberg argues are of Aramaic origin.",
+      "stepAr": "تعداد مفردات قرآنية أساسية يرى لوكسبيرغ أن أصلها آرامي."
+    },
+    {
+      "timestamp": "00:02:41",
+      "stepEn": "Noting classical Islamic acknowledgement (e.g., Al-Suyuti) of foreign vocabulary in the Quran.",
+      "stepAr": "الإشارة إلى اعتراف التراث الإسلامي الكلاسيكي (مثل السيوطي) بوجود ألفاظ أعجمية في القرآن."
+    },
+    {
+      "timestamp": "00:04:45",
+      "stepEn": "Analyzing 'ma malakat aymanukum' (Surah An-Nisa 4:3) using Aramaic semantics of 'mlk' (promise/covenant).",
+      "stepAr": "تحليل 'ما ملكت أيمانكم' (سورة النساء 4:3) باستعمال الدلالة الآرامية للجذر 'ملك' بمعنى الوعد والعهد."
+    },
+    {
+      "timestamp": "00:08:14",
+      "stepEn": "Re-interpreting 'ulu baqiyya' in Surah Hud (11:116) as a translation of Aramaic 'yattaruta' (virtue).",
+      "stepAr": "إعادة تفسير 'أولو بقية' في سورة هود (11:116) كترجمة للكلمة الآرامية 'يتاروتا' (الفضيلة)."
+    },
+    {
+      "timestamp": "00:12:32",
+      "stepEn": "Discussing manuscript palimpsests (e.g., Sanaa and Edinburgh Luke/Quran palimpsest) as material evidence for textual layering.",
+      "stepAr": "مناقشة الطروس (مثل طرس صنعاء وطرس إدنبرة للأنشيل/القرآن) كدليل مادي على طبقات النصوص."
+    },
+    {
+      "timestamp": "00:16:42",
+      "stepEn": "Examining the Dome of the Rock inscription and Volker Popp's theory on 'Muhammad' as a title for Jesus.",
+      "stepAr": "فحص نقش قبة الصخرة ونظرية فولكر بوب حول أن 'محمد' هو لقب للمسيح."
+    },
+    {
+      "timestamp": "00:20:54",
+      "stepEn": "Demonstrating Luxenberg's method of re-pointing Arabic text: changing 'inahu' to 'inathahu' in Surah Al-Ahzab (33:53).",
+      "stepAr": "توضيح منهج لوكسبيرغ في إعادة تنقيط النص العربي: تغيير 'إناه' إلى 'إناثه' في سورة الأحزاب (33:53)."
+    },
+    {
+      "timestamp": "00:23:51",
+      "stepEn": "Re-pointing 'isha'an' to 'ghishan' in Surah Yusuf (12:16) and 'dakhalan' to 'dajalan' in Surah An-Nahl (16:92).",
+      "stepAr": "إعادة تنقيط 'عشاءً' إلى 'غشاً' في سورة يوسف (12:16) و'دخلاً' إلى 'دجلاً' في سورة النحل (16:92)."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:01:03",
+      "claimEn": "Basic religious terms in the Quran such as quran, sura, aya, tur, tud, hanif, salat, zakat, and malakut have Syro-Aramaic origins.",
+      "claimAr": "المصطلحات الدينية الأساسية في القرآن مثل قرآن، سورة، آية، طور، طود، حنيف، صلاة، زكاة، وملكوت هي ذات أصول سريانية آرامية.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Luxenberg's proposed Syro-Aramaic etymologies against standard Arabic and Aramaic lexicographical tools."
+    },
+    {
+      "timestamp": "00:01:42",
+      "claimEn": "The Quranic orthography of words like salat (صلوة) and zakat (زكوة) copied the original Aramaic spelling.",
+      "claimAr": "رسم المصحف لكلمات مثل صلاة (صلوة) وزكاة (زكوة) نقل الرسم السرياني كما هو.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check early Quranic manuscripts and Syriac spellings for original orthographic features."
+    },
+    {
+      "timestamp": "00:02:41",
+      "claimEn": "Al-Suyuti listed numerous non-Arabic loanwords present in the Quran that were adapted into pre-Islamic Arabic usage.",
+      "claimAr": "ذكر السيوطي عدة كلمات موجودة في القرآن من أصل غير عربي استعملها العرب وأصبحت جارية في لسانهم.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Al-Suyuti's 'Al-Itqan fi 'Ulum al-Qur'an' or 'Al-Muwahhar' for lists of foreign words in the Quran."
+    },
+    {
+      "timestamp": "00:05:18",
+      "claimEn": "The word 'aw' (أو) in Syriac/Aramaic functions as 'that is' or 'meaning' (id est) rather than a disjunctive 'or'.",
+      "claimAr": "كلمة 'أو' بالآرامية تأتي بمعنى 'أي' أو 'هذا يعني' (id est) وليس بمعنى التخيير بين أمرين.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the grammatical particle 'aw' in Aramaic lexicons to see if it acts as an explanatory conjunction."
+    },
+    {
+      "timestamp": "00:06:38",
+      "claimEn": "In Surah An-Nisa 4:3, 'ma malakat aymanukum' derives from Syriac root 'mlk' meaning 'to promise/vow', referring to the unique marital covenant rather than concubines.",
+      "claimAr": "في سورة النساء 4:3، عبارة 'ما ملكت أيمانكم' تعود للجذر السرياني 'ملك' بمعنى 'وعد'، والمقصود بها العهد الزوجي للزوجة الواحدة وليس الإماء.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "slavery",
+        "women",
+        "quran"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Luxenberg's analysis of 4:3 and verify Syriac root 'mlk' and its semantic range in lexicography."
+    },
+    {
+      "timestamp": "00:08:14",
+      "claimEn": "In Surah Hud 11:116, 'ulu baqiyya' (أولو بقية) was translated literally from Syriac 'yattaruta', which means 'virtue' rather than 'remainder'.",
+      "claimAr": "في سورة هود 11:116، عبارة 'أولو بقية' تُرجِمت حرفياً عن السريانية 'يتاروتا' التي تعني 'الفضيلة' وليس 'البقية'.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Syriac term 'yattaruta' in Payne Smith / Costaz lexicons and compare with Quran 11:116."
+    },
+    {
+      "timestamp": "00:11:20",
+      "claimEn": "The term 'baqwa' is still used in contemporary Levantine Arabic dialects to mean conscience or virtue, reflecting Syriac influence.",
+      "claimAr": "تُستخدم كلمة 'بقوة' حتى اليوم في بعض اللهجات الشامية بمعنى الضمير أو الفضيلة، مما يعكس تأثيراً سريانياً مستمراً.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult Levantine dialectal dictionaries regarding the usage of 'baqwa'."
+    },
+    {
+      "timestamp": "00:13:10",
+      "claimEn": "A palimpsest researched at the University of Edinburgh contains a Christian text (Gospel of Luke 16:19-31) written over an erased Kufic Quranic undertext.",
+      "claimAr": "طرس أُجري عليه بحث في جامعة إدنبرة يحتوي على نص مسيحي (إنجيل لوقا 16: 19-31) مكتوب فوق نص قرآني كوفي ممسوح.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the research publications from University of Edinburgh concerning the Luke/Quran palimpsest."
+    },
+    {
+      "timestamp": "00:16:42",
+      "claimEn": "The inscription inside the Dome of the Rock consists of an integrated Christian Arabic theological text about Jesus.",
+      "claimAr": "النقش الموجود داخل قبة الصخرة هو نص مسيحي عربي متكامل يدور حول عقيدة عيسى المسيح.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the architectural inscriptions inside the Dome of the Rock recorded by modern epigraphers."
+    },
+    {
+      "timestamp": "00:17:33",
+      "claimEn": "According to Luxenberg, the word 'Muhammad' in the Dome of the Rock inscription is an adjectival passive participle meaning 'praiseworthy/praised' applied to Jesus, not a proper noun.",
+      "claimAr": "وفقاً للوكسبيرغ، كلمة 'محمد' في نقش قبة الصخرة ليست اسم علم بل صفة مشبهة/اسم مفعول بمعنى 'الممجد' أُطلقت على عيسى بن مريم.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "sirah"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis",
+        "dome-of-the-rock-inscriptions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult Luxenberg's essay on the Dome of the Rock inscription and scholarly responses to it."
+    },
+    {
+      "timestamp": "00:18:43",
+      "claimEn": "Early Umayyad coins researched by Volker Popp bear the inscription 'Muhammad' alongside a cross, indicating 'Muhammad' was used as an epithet for Christ.",
+      "claimAr": "العملات الأموية المبكرة التي درسهًا فولكر بوب تحمل كلمة 'محمد' مع صورة الصليب، مما يشير إلى أن 'محمد' كان صفة للمسيح.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify numismatic studies by Volker Popp regarding Arab-Sasanian and Arab-Byzantine coinage."
+    },
+    {
+      "timestamp": "00:22:15",
+      "claimEn": "In Surah Al-Ahzab 33:53, by re-pointing 'inahu' (إناه) to 'inathahu' (إناثه), the text correctly instructs visitors not to gaze at the Prophet's women.",
+      "claimAr": "في سورة الأحزاب 33:53، عبر إعادة تنقيط كلمة 'إناه' لتصبح 'إناثه'، يستقيم النص بطلب عدم النظر إلى نساء النبي عند تناول الطعام.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "women",
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Quran 33:53 and compare classical tafsir glosses for 'inahu' with Luxenberg's emendation to 'inathahu'."
+    },
+    {
+      "timestamp": "00:24:48",
+      "claimEn": "In Surah Yusuf 12:16, 'isha'an' (عشاءً) should be re-pointed without hamza and read as 'ghishan' (غشاً), meaning Joseph's brothers came 'deceitfully' rather than 'at night'.",
+      "claimAr": "في سورة يوسف 12:16، كلمة 'عشاءً' يجب إعادة تنقيطها بدون همزة لتقرأ 'غشاً'، أي جاء إخوة يوسف أباهم بمكر وكذب وليس في وقت العشاء.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the unpointed skeleton (rasm 'عسا') in early Quranic manuscripts and Luxenberg's commentary on 12:16."
+    },
+    {
+      "timestamp": "00:26:01",
+      "claimEn": "In Surah An-Nahl 16:92, 'dakhalan' (دخلاً) should be read as 'dajalan' (دجلاً), as the letter jim in Syriac and Kufic scripts resembles khah, meaning 'deceitfully'.",
+      "claimAr": "في سورة النحل 16:92، كلمة 'دخلاً' أصلها 'دجلاً'، حيث تتشابه الجيم والخاء في الخطوط القديمة، وتفي بالمعنى 'كذباً ودجلاً'.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "newTopicIds": [
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check early Kufic and Hijazi epigraphic variants for the letter forms of jim/ha/kha and Luxenberg's reading of 16:92."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:08",
+      "asStatedInVideo": "بلسان عربي مبين",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "16:103",
+      "quotedArabic": "بِلِسَانٍ عَرَبِيٍّ مُبِينٍ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:18",
+      "asStatedInVideo": "أولم يكن لهم آية أن يعلمه علماء بني إسرائيل",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "26:197",
+      "quotedArabic": "أَوَلَمْ يَكُن لَّهُمْ آيَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:41",
+      "asStatedInVideo": "السيوطي",
+      "workTitle": "",
+      "author": "Al-Suyuti",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:43",
+      "asStatedInVideo": "ثم أرسلناه إلى مئة ألف أو يزيدون",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "37:147",
+      "quotedArabic": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:01",
+      "asStatedInVideo": "فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "4:3",
+      "quotedArabic": "فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:14",
+      "asStatedInVideo": "فلولا كان من القرون من قبلكم أولوا بقية ينهون عن الفساد في الأرض إلا قليلاً ممن أنجينا منهم",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "11:116",
+      "quotedArabic": "فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:10",
+      "asStatedInVideo": "Gospel of Luke 16:19-31 in Edinburgh Palimpsest",
+      "workTitle": "Gospel of Luke",
+      "author": "",
+      "locator": "16:19-31",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:47",
+      "asStatedInVideo": "فولكر بوب",
+      "workTitle": "",
+      "author": "Volker Popp",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:20:59",
+      "asStatedInVideo": "يا أيها الذين آمنوا لا تدخلوا بيوت النبي إلا أن يؤذن لكم إلى طعام غير ناظرين إناه ولكن إذا دعيتم فادخلوا فإذا طعمتم فانتشروا ولا مستأنسين لحديث إن ذلكم كان يؤذي النبي",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "33:53",
+      "quotedArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلَّا أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانتَشِرُوا وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:08",
+      "asStatedInVideo": "طلحة بن عبيد الله",
+      "workTitle": "",
+      "author": "Talhah ibn Ubaydullah",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:20",
+      "asStatedInVideo": "وما كان لكم أن تنكحوا أزواجه من بعده",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "33:53",
+      "quotedArabic": "وَمَا كَانَ لَكُمْ أَن تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَن تَنكِحُوا أَزْوَاجَهُ مِن بَعْدِهِ أَبَدًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:51",
+      "asStatedInVideo": "وجاءوا أباهم عشاءً يبكون",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "12:16",
+      "quotedArabic": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:38",
+      "asStatedInVideo": "ولا تتخذوا أيمانكم دخلاً بينكم",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "16:92",
+      "quotedArabic": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "syro-aramaic-quran-hypothesis",
+      "titleEn": "Syro-Aramaic Quran Hypothesis",
+      "titleAr": "فرضية الأصول السريانية الآرامية للقرآن",
+      "descriptionEn": "Theories and philological re-readings proposing that Quranic vocabulary, grammar, and diacritics are derived from or best illuminated by Syro-Aramaic.",
+      "descriptionAr": "النظريات والقراءات اللغوية التي تفترض أن مفردات القرآن وقواعده وتنقيطه مشتقة من السريانية الآرامية أو تُفسَّر بها.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The speaker continuously focuses on Christoph Luxenberg's specific method of Aramaic lexicography and re-pointing of Quranic vocabulary across multiple episodes."
+    },
+    {
+      "proposedId": "dome-of-the-rock-inscriptions",
+      "titleEn": "Dome of the Rock Inscriptions",
+      "titleAr": "نقوش قبة الصخرة",
+      "descriptionEn": "Studies and debates surrounding the early Arabic inscriptions inside the Dome of the Rock and their relationship to Quranic textual formation.",
+      "descriptionAr": "الدراسات والنقاشات حول النقوش العربية المبكرة داخل قبة الصخرة وعلاقتها بتشكل النص القرآني.",
+      "suggestedParentId": "quran-textual-transmission",
+      "closestExistingId": "quran-textual-transmission",
+      "rationale": "The Dome of the Rock inscription is cited as major material evidence for early Quranic/proto-Islamic textual state and epigraphy."
+    }
+  ]
+}

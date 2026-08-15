@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "videoId": "pDNhGKbIHIQ",
+  "videoUrl": "https://www.youtube.com/watch?v=pDNhGKbIHIQ",
+  "videoTitle": "Episode 6 (برنامج صندوق الإسلام - حامد عبد الصمد: الحلقة السادسة (من قتل محمد؟ ولماذا؟",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150626",
+  "extractedAt": "2026-08-12T13:59:08+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In Episode 6 of 'Box of Islam', Hamed Abdel-Samad discusses Muhammad's transition after Khadijah's death to military pragmatism, alliance-building with outcasts (Saalik) and Yemeni tribes (Aws and Khazraj), and the lack of systemic succession rules before his death. Abdel-Samad explores theories around Muhammad's cause of death, contrasting the poison narrative with internal political conflict theories among his companions.",
+  "summaryAr": "في الحلقة السادسة من برنامج 'صندوق الإسلام'، يناقش حامد عبد الصمد التحول في حياة محمد بعد وفاة خديجة نحو البراغماتية العسكرية والتحالف مع الصعاليك والقبائل اليمنية (الأوس والخزرج). كما يتناول غياب قواعد واضحة للخلافة، ويستعرض التساؤلات والنظريات حول أسباب وفاة النبي وتداعيات الصراع السيادي في السقيفة.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:50",
+      "stepEn": "Argues that Khadijah's death was a turning point leading to ideological radicalization and armed conflict.",
+      "stepAr": "يعتبر أن وفاة خديجة كانت نقطة تحول أدت إلى التطرف الفكري والتحول نحو الخيار العسكري."
+    },
+    {
+      "timestamp": "00:02:25",
+      "stepEn": "Claims Muhammad sought military alliances with outcasts (Saalik) and Aws/Khazraj because honorable tribes refused to fight Quraysh.",
+      "stepAr": "يدعي أن محمد لخص تحالفاته العسكرية مع الصعاليك والأوس والخزرج بعد رفض القبائل الشريفة قتال قريش."
+    },
+    {
+      "timestamp": "00:07:05",
+      "stepEn": "Asserts the conquest of Mecca initiated Islamic fascism by eliminating religious pluralism while treating key opponents pragmatically.",
+      "stepAr": "يزعم أن فتح مكة كان بداية الفاشية الإسلامية بإنهاء التعددية الدينية مع التعامل البراغماتي مع الخصوم البارزين."
+    },
+    {
+      "timestamp": "00:11:24",
+      "stepEn": "Discusses how Muhammad regulated minute daily habits due to grandiosity but left no instructions for political succession.",
+      "stepAr": "يناقش كيف ينظم محمد دقائق الحياة اليومية بدافع جنون العظمة دون وضع نظام أو أسس للحكم بعده."
+    },
+    {
+      "timestamp": "00:16:36",
+      "stepEn": "Critiques the traditional narrative of Muhammad dying from poison contracted four years earlier in Khaybar and touches on rival Sunni/Shia assassination theories.",
+      "stepAr": "ينقد الرواية التقليدية حول وفاة النبي بسم خيبر قبل أربع سنوات، ويسلط الضوء على نظريات اغتياله والخلافات السياسية حول الخلافة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:50",
+      "claimEn": "Muhammad was peaceful before Khadijah's death, but radicalized intellectually and militarily after she died.",
+      "claimAr": "كان محمد مسالماً قبل موت خديجة، وتطرف فكرياً وعسكرياً بعد وفاتها.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check biographical timeline in Ibn Ishaq/Ibn Hisham regarding the transition between the Meccan and Medinan periods."
+    },
+    {
+      "timestamp": "00:02:25",
+      "claimEn": "Muhammad sent Abu Bakr to negotiate a military alliance with the Banu Shayban tribe on the outskirts of the peninsula, but they refused.",
+      "claimAr": "أرسل محمد أبا بكر للتفاوض مع قبيلة بني شيبان لعقد تحالف عسكري لقتال قريش فرفضوا.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify accounts of the Prophet presenting himself to Arab tribes in Sirah literature (e.g., Dalail al-Nubuwwah by al-Bayhaqi or Ibn Hisham)."
+    },
+    {
+      "timestamp": "00:03:55",
+      "claimEn": "Quraysh as well as the Aws and Khazraj were originally Yemeni tribes that migrated north after the collapse of the Ma'rib Dam.",
+      "claimAr": "قريش وكذلك الأوس والخزرج قبائل يمنية أصلاً هاجرت بعد انهيار سد مأرب.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Jawad Ali's 'Al-Mufassal fi Tarikh al-Arab Qabl al-Islam' regarding the South Arabian origin theories of Quraysh."
+    },
+    {
+      "timestamp": "00:04:13",
+      "claimEn": "Hashim and Abdul-Muttalib (Muhammad's grandfather) had established military alliances with the Khazraj clan.",
+      "claimAr": "كان هناك تحالف عسكري بين هاشم وعبد المطلب وبين الخزرج.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Ibn Hisham and Ibn Sa'd regarding Abdul-Muttalib's maternal ties to Banu al-Najjar of the Khazraj."
+    },
+    {
+      "timestamp": "00:05:28",
+      "claimEn": "Muhammad fought between 70 to 90 battles (ghazawat and saraya) in his final eight years in Medina.",
+      "claimAr": "خاض محمد ما بين 70 إلى 90 حرباً وغزوة وسرية في آخر 8 سنوات من حياته.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check primary sirah and maghazi works (e.g., al-Waqidi, Ibn Sa'd) for the total count of expeditions."
+    },
+    {
+      "timestamp": "00:07:05",
+      "claimEn": "The famous saying 'Go, for you are free' (Ithhabu fa-antum al-tulaqa') attributed to Muhammad at the Conquest of Mecca is weak (da'if) and baseless.",
+      "claimAr": "حديث 'اذهبوا فأنتم الطلاقاء' الذي قاله محمد لقت فتح مكة حديث ضعيف ولا أساس له.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check hadith grading and chain analysis for the 'al-tulaqa' report in Ibn Hisham, al-Bayhaqi, and hadith criticism literature."
+    },
+    {
+      "timestamp": "00:08:30",
+      "claimEn": "Upon entering Mecca, Muhammad executed Ibn Khatal while hanging onto the curtains of the Ka'bah and executed his slave girl, but pardoned Hind bint Utbah.",
+      "claimAr": "عند دخوله مكة قتل محمد ابن خطل وهو متعلق بأستار الكعبة وجاريته، وعفا عن هند بنت عتبة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the lists of persons excluded from general amnesty during the Conquest of Mecca in Ibn Hisham or Sunan Abi Dawud."
+    },
+    {
+      "timestamp": "00:09:12",
+      "claimEn": "Muhammad cut off the hand of the Makhzumi woman who stole, but excused Khalid ibn al-Walid when he massacred a Muslim tribe (Banu Jadhimah).",
+      "claimAr": "قطعت أيد المرأة المخزومية عندما سرقت، بينما سامح محمد خالد بن الوليد عندما أغار على قبيلة مسلمة وقتلهم.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "hadith-ethical-controversies"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Cross-reference the narrative of the Makhzumi woman in Sahih al-Bukhari with the account of Khalid ibn al-Walid and Banu Jadhimah."
+    },
+    {
+      "timestamp": "00:12:26",
+      "claimEn": "A polytheist remarked to a Muslim companion that Muhammad taught them everything, even how to defecate/clean themselves, as recorded in Sahih Muslim.",
+      "claimAr": "قال أحد المشركين لأحد الصحابة إن نبيكم علمكم كل شيء حتى الخراءة، وهو موجود في صحيح مسلم.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the hadith of Salman al-Farsi in Sahih Muslim, Kitab al-Taharah, Bab al-Istintja'."
+    },
+    {
+      "timestamp": "00:13:50",
+      "claimEn": "Muhammad did not leave behind any clear instructions or system for political governance or succession after his death.",
+      "claimAr": "لم يترك محمد أي تعليمات أو أسس واضحة بنظام الحكم أو الخلافة بعد موته.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Examine early Islamic political theology and reports concerning the events at Saqifat Bani Sa'idah."
+    },
+    {
+      "timestamp": "00:17:02",
+      "claimEn": "It is medically and historically illogical that Muhammad died in 11 AH from poison given to him by a Jewish woman in Khaybar four years earlier.",
+      "claimAr": "من غير المنطقي طبياً وتاريخياً أن يموت محمد سنة 11 هـ بسبب سم أطعمته إياه امرأة يهودية في خيبر قبل 4 سنوات.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare reports on the poison at Khaybar in Sahih al-Bukhari with medical and historical analysis."
+    },
+    {
+      "timestamp": "00:18:01",
+      "claimEn": "Abdullah ibn Mas'ud swore three times that the Messenger of Allah was killed.",
+      "claimAr": "أقسم عبد الله بن مسعود ثلاث مرات 'لقد قُتل رسول الله'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "sirah",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the narration attributed to Abdullah ibn Mas'ud in Musnad Ahmad or Al-Tabaqat al-Kubra by Ibn Sa'd."
+    },
+    {
+      "timestamp": "00:18:34",
+      "claimEn": "Shia tradition claims Aisha poisoned Muhammad with the knowledge of Abu Bakr, Umar, and Hafsah.",
+      "claimAr": "تدعي الأدبيات الشيعية أن عائشة هي من سمت محمد بمعرفة أبي بكر وعمر وحفصة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [
+        "death-of-muhammad-theories"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check non-canonical Shia polemical literature regarding the death of Muhammad."
+    },
+    {
+      "timestamp": "00:18:34",
+      "claimEn": "Umar ibn al-Khattab was angered by Muhammad appointing the 18-year-old Usamah ibn Zayd as military commander over senior companions.",
+      "claimAr": "غضب عمر بن الخطاب عندما عين محمد أسامة بن زيد (18 سنة) قائداً للجيش على كبار الصحابة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check historical sources (e.g., Ibn Hisham, Ibn Sa'd, al-Tabari) regarding opposition to the Expedition of Usamah ibn Zayd."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "book",
+      "timestamp": "00:03:55",
+      "asStatedInVideo": "كتاب المفصل في تاريخ العرب للدكتور جواد علي",
+      "workTitle": "Al-Mufassal fi Tarikh al-Arab Qabl al-Islam",
+      "author": "Jawad Ali",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:07:05",
+      "asStatedInVideo": "اذهبوا فأنتم الطُلقاء",
+      "quotedArabic": "اذهبوا فأنتم الطُلقاء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:12",
+      "asStatedInVideo": "خالد بن الوليد غار على قبيلة مسلمة وقتلهم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:09:30",
+      "asStatedInVideo": "اللهم إني أبرأ إليك مما فعل خالد",
+      "quotedArabic": "اللهم إني أبرأ إليك مما فعل خالد",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:11:00",
+      "asStatedInVideo": "من دخل بيت أبي سفيان فهو آمن",
+      "quotedArabic": "من دخل بيت أبي سفيان فهو آمن",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:12:26",
+      "asStatedInVideo": "صحيح مسلم في كتاب الطهارة في باب الاستطابة",
+      "quotedArabic": "لقد علمكم نبيكم حتى الخراء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:14:05",
+      "asStatedInVideo": "بُعثتُ أنا والساعةُ كهاتين",
+      "quotedArabic": "بُعثتُ أنا والساعةُ كهاتين",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:31",
+      "asStatedInVideo": "ومن لم يحكم بما أنزل الله فأولئك هم الكافرون",
+      "locator": "5:44",
+      "quotedArabic": "ومن لم يحكم بما أنزل الله فأولئك هم الكافرون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:01",
+      "asStatedInVideo": "عبد الله بن مسعود أقسم ثلاث مرات لقد قُتل رسول الله",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "death-of-muhammad-theories",
+      "titleEn": "Theories Surrounding the Death of Muhammad",
+      "titleAr": "نظريات حول وفاة محمد",
+      "descriptionEn": "Historical, theological, and polemical discussions regarding the circumstances, causes, and political ramifications of Muhammad's death.",
+      "descriptionAr": "المناقشات التاريخية واللاهوتية والسجالية حول ظروف وأسباب والآثار السياسية لوفاة محمد.",
+      "suggestedParentId": "sirah",
+      "closestExistingId": "sirah",
+      "rationale": "The speaker spends significant time evaluating different accounts (poison, illness, assassination hypotheses) surrounding the death of Muhammad, which is a major recurring theme in polemical and historical critical discourse."
+    }
+  ]
+}

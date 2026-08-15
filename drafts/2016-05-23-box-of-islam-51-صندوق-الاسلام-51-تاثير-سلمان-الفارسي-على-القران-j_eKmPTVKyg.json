@@ -1,0 +1,1300 @@
+{
+  "schemaVersion": 1,
+  "videoId": "j_eKmPTVKyg",
+  "videoUrl": "https://www.youtube.com/watch?v=j_eKmPTVKyg",
+  "videoTitle": "Box of islam 51 . صندوق الإسلام 51 : تأثير سلمان الفارسي على القران",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160523",
+  "extractedAt": "2026-08-15T04:40:48+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Episode 51 of \"Box of Islam\": host Hamid interviews Muhammad al-Masih about Salman al-Farisi as a channel through which Zoroastrian material is said to have entered Islam. The guest argues that Salman was a Zoroastrian fire-priest who then passed through Nasrani Christianity, that reports place him alone with Muhammad through whole nights while the biographical literature says almost nothing about their conversations, and that Islamic prayer times, ablution, polygamy, resurrection scenes, torment of the grave, the Mi'raj, the seven heavens, Sidrat al-Muntaha, and the shooting stars that drive off eavesdropping demons all have Zoroastrian counterparts. The second half rereads Surat al-Najm as speech about the star Sirius (al-Shi'ra / Tishtrya) descending to a worshipper who offers sacrifice, rather than about Gabriel, and links this to Abu Kabsha's star cult. The episode closes with the claim that the Qur'an is an artful blend of cultures collected by its human author.",
+  "summaryAr": "الحلقة 51 من \"صندوق الإسلام\": يحاور المقدّم حامد الأستاذ محمد المسيح حول سلمان الفارسي بوصفه قناةً دخلت عبرها موادّ زرادشتية إلى الإسلام. يرى الضيف أن سلمان كان كاهن نار زرادشتيًا ثم مرّ بالمسيحية النصرانية، وأن الروايات تجعله يخلو بمحمد ليالي كاملة بينما لا تحفظ كتب السير شيئًا عن مضمون تلك المجالس، وأن مواقيت الصلاة والوضوء وتعدد الزوجات ومشاهد الحشر وعذاب القبر والمعراج والسماوات السبع وسدرة المنتهى ورجم الشياطين بالشهب لها كلها نظائر زرادشتية. ويعيد النصف الثاني قراءة سورة النجم على أنها حديث عن نجم الشعرى (تِشتَريا) الذي ينزل إلى من يقدّم له القربان، لا عن جبريل، ويربط ذلك بعبادة أبي كبشة للنجم. وتُختم الحلقة بالقول إن القرآن مزيج بارع من ثقافات جمعها مؤلفه البشري.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:02",
+      "stepEn": "Opens a new series on early Islamic personalities who shaped Islam as we know it, beyond Muhammad himself.",
+      "stepAr": "يفتتح سلسلة جديدة عن الشخصيات الإسلامية الأولى التي شكّلت الإسلام كما نعرفه، بما يتجاوز محمدًا نفسه."
+    },
+    {
+      "timestamp": "00:00:54",
+      "stepEn": "Names Salman al-Farisi, Umar b. al-Khattab, Mu'awiya and Abd al-Malik b. Marwan as the four shaping figures, and begins with Salman as the most obscure.",
+      "stepAr": "يسمّي سلمان الفارسي وعمر بن الخطاب ومعاوية وعبد الملك بن مروان شخصياتٍ مشكِّلة، ويبدأ بسلمان بوصفه الأغمض."
+    },
+    {
+      "timestamp": "00:02:26",
+      "stepEn": "Argues that the figures closest to Muhammad's intellectual formation — Waraqa, Salman — are precisely the ones the biographical literature leaves blank.",
+      "stepAr": "يحاجّ بأن أقرب الشخصيات إلى تكوين محمد الفكري — ورقة وسلمان — هي بالضبط ما تركته كتب السير فارغًا."
+    },
+    {
+      "timestamp": "00:03:11",
+      "stepEn": "Establishes from Siyar A'lam al-Nubala' that Salman was a Zoroastrian fire-keeper, hence a priest who must have known the Avesta.",
+      "stepAr": "يثبت من سير أعلام النبلاء أن سلمان كان قاطن النار، أي كاهنًا لا بدّ أنه كان حافظًا للأفستا."
+    },
+    {
+      "timestamp": "00:05:30",
+      "stepEn": "Adds Aisha's report of Salman's night-long private sessions with Muhammad, and that he later passed through Nasrani Christianity too.",
+      "stepAr": "يضيف رواية عائشة عن مجالس سلمان الليلية الطويلة مع محمد، وأنه مرّ كذلك بالمسيحية النصرانية."
+    },
+    {
+      "timestamp": "00:07:01",
+      "stepEn": "Infers that those unrecorded nights were the transfer point for stories and religious material.",
+      "stepAr": "يستنتج أن تلك الليالي غير المدوَّنة كانت نقطة انتقال القصص والمواد الدينية."
+    },
+    {
+      "timestamp": "00:07:46",
+      "stepEn": "Places this inside an already-argued pattern of cultural interaction in the Qur'an (Midrash Rabbah, Infancy Gospel).",
+      "stepAr": "يضع ذلك داخل نمط سبق تقريره من التفاعل الثقافي في القرآن (مدراش ربّا، إنجيل الطفولة)."
+    },
+    {
+      "timestamp": "00:08:31",
+      "stepEn": "Compares the opening invocation of the Avesta with Ayat al-Kursi.",
+      "stepAr": "يقارن مناجاة الأفستا الافتتاحية بآية الكرسي."
+    },
+    {
+      "timestamp": "00:09:19",
+      "stepEn": "Moves to ritual: five daily prayers at the same times, and ablution of face, hands and feet.",
+      "stepAr": "ينتقل إلى الطقوس: خمس صلوات في المواقيت نفسها، ووضوء الوجه واليدين والرجلين."
+    },
+    {
+      "timestamp": "00:11:50",
+      "stepEn": "Extends the comparison to polygamy and to concubinage bounded by means.",
+      "stepAr": "يمدّ المقارنة إلى تعدد الزوجات وإلى ملك اليمين المحدود بالقدرة المالية."
+    },
+    {
+      "timestamp": "00:12:35",
+      "stepEn": "Turns to eschatology: soul, resurrection, separation of righteous and wicked, mutual seeing — matched to Surat al-A'raf.",
+      "stepAr": "ينتقل إلى الأخرويات: الروح والنشور وعزل الصالحين عن المسيئين ورؤية كلٍّ للآخر — مقارَنًا بسورة الأعراف."
+    },
+    {
+      "timestamp": "00:15:51",
+      "stepEn": "Adds torment of the grave as a motif he says only these two religions share.",
+      "stepAr": "يضيف عذاب القبر بوصفه فكرة يقول إنها لا تشترك فيها إلا هاتان الديانتان."
+    },
+    {
+      "timestamp": "00:16:38",
+      "stepEn": "Sets Zoroaster's flight on a winged camel beside the Mi'raj, with seven heavens and a tree above them.",
+      "stepAr": "يضع طيران زرادشت على الجمل المجنَّح بإزاء المعراج، مع سبع سماوات وشجرة فوقها."
+    },
+    {
+      "timestamp": "00:19:03",
+      "stepEn": "Notes that Surat al-Najm, the only Qur'anic peg for the ascent, contains none of the details tafsir later supplied.",
+      "stepAr": "يلاحظ أن سورة النجم، وهي السند القرآني الوحيد للعروج، لا تتضمن أيًّا من التفاصيل التي أضافها التفسير لاحقًا."
+    },
+    {
+      "timestamp": "00:19:52",
+      "stepEn": "Introduces the star: Abu Kabsha's cult of al-Shi'ra, al-Qurtubi on Q 53:49, and Quraysh's mockery of Muhammad as Ibn Abi Kabsha.",
+      "stepAr": "يُدخل النجم: عبادة أبي كبشة للشعرى، وقول القرطبي في الآية 49 من سورة النجم، وسخرية قريش من محمد بتسميته ابن أبي كبشة."
+    },
+    {
+      "timestamp": "00:20:40",
+      "stepEn": "Identifies al-Shi'ra with Zoroastrian Tishtrya, and describes the star descending in response to sacrifice.",
+      "stepAr": "يوحّد الشعرى بتِشتَريا الزرادشتية، ويصف نزول النجم استجابةً للقربان."
+    },
+    {
+      "timestamp": "00:22:18",
+      "stepEn": "Rereads Q 53:1-7 accordingly: it is the star, not Gabriel, that draws near and stands at the highest horizon.",
+      "stepAr": "يعيد قراءة الآيات 1-7 من سورة النجم تبعًا لذلك: النجم لا جبريل هو الذي دنا فتدلّى وكان بالأفق الأعلى."
+    },
+    {
+      "timestamp": "00:23:09",
+      "stepEn": "Cites the hadith of Abu Lahab's son disbelieving in \"the Lord of the star\" and Muhammad's answer invoking the dog of God, tied to Canis Major.",
+      "stepAr": "يستشهد بحديث ابن أبي لهب الذي كفر بربّ النجم وردّ محمد بذكر كلب الله، ويربطه بالمجموعة الكلبية."
+    },
+    {
+      "timestamp": "00:24:48",
+      "stepEn": "Collects further Qur'anic oaths by and statements about stars, up to the meteors that repel demons.",
+      "stepAr": "يجمع مزيدًا من أقسام القرآن بالنجوم وأخباره عنها، وصولًا إلى الشهب التي ترجم الشياطين."
+    },
+    {
+      "timestamp": "00:26:27",
+      "stepEn": "Asserts that the guarded-dome cosmology with star-fired meteors is present verbatim in Zoroastrian material.",
+      "stepAr": "يؤكد أن كوزمولوجيا القبة المحروسة ورجم الشهب موجودة بنصّها في المادة الزرادشتية."
+    },
+    {
+      "timestamp": "00:27:12",
+      "stepEn": "Contrasts this with modern astronomy and notes the Qur'an's failure to distinguish star, planet and meteor.",
+      "stepAr": "يقابل ذلك بعلم الفلك الحديث ويلاحظ أن القرآن لا يفرّق بين النجم والكوكب والشهاب."
+    },
+    {
+      "timestamp": "00:28:00",
+      "stepEn": "Concludes that the Qur'an is a skilled fusion of cultures collected and Arabized by its author — a compliment only if one does not insist it descended verbatim from God.",
+      "stepAr": "يخلص إلى أن القرآن مزيج بارع من ثقافات جمعها مؤلفه وصبغها بالصبغة العربية — وهو مديح إلا لمن يصرّ على أنه نزل بنصّه من عند الله."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:02",
+      "claimEn": "The speaker claims Islam was shaped not by Muhammad alone but by a set of early figures whose influence on its ideas and stories was decisive.",
+      "claimAr": "يقول المتحدث إن الإسلام لم يتشكّل على يد محمد وحده، بل على يد شخصيات أولى كان لتأثيرها في أفكاره وقصصه أثر حاسم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the classical sources themselves attribute doctrinal or narrative content in Islam to named companions rather than to revelation, and how this framing differs from the traditional account."
+    },
+    {
+      "timestamp": "00:00:54",
+      "claimEn": "The speaker claims that Salman al-Farisi, Umar b. al-Khattab, Mu'awiya b. Abi Sufyan and Abd al-Malik b. Marwan each redirected Islam, with Abd al-Malik shaping the image of Islam we know today without ever having met Muhammad.",
+      "claimAr": "يقول المتحدث إن سلمان الفارسي وعمر بن الخطاب ومعاوية بن أبي سفيان وعبد الملك بن مروان وجّهوا الإسلام كلٌّ بطريقته، وإن عبد الملك أثّر في صورة الإسلام التي نعرفها اليوم من غير أن يعاصر محمدًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the scholarship on Umar's legislative innovations, Mu'awiya's transformation of the caliphate, and Abd al-Malik's religious and epigraphic programme, and whether each is credibly described as reshaping Islam."
+    },
+    {
+      "timestamp": "00:00:54",
+      "claimEn": "The speaker claims Salman al-Farisi is a very obscure figure about whom the tradition preserves almost no detail.",
+      "claimAr": "يقول المتحدث إن سلمان الفارسي شخصية غامضة جدًا لا يحفظ عنها التراث تفاصيل تُذكر.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Survey the entries for Salman al-Farisi in the major companion dictionaries and measure how much biographical detail they actually carry compared with other prominent companions."
+    },
+    {
+      "timestamp": "00:01:39",
+      "claimEn": "The speaker claims Salman al-Farisi is the one credited with the idea of digging the trench around Medina before the Battle of the Confederates.",
+      "claimAr": "يقول المتحدث إن سلمان الفارسي هو صاحب فكرة حفر الخندق حول المدينة قبل غزوة الأحزاب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the sirah and maghazi sources for the attribution of the trench to Salman, and whether they present it as an imported Persian military practice."
+    },
+    {
+      "timestamp": "00:02:26",
+      "claimEn": "The speaker claims that the figures who spent long stretches of time with Muhammad and influenced his ideas are precisely the ones missing from the narrative, while the companion literature records tedious detail about everyone else.",
+      "claimAr": "يقول المتحدث إن الشخصيات التي قضت مع محمد وقتًا طويلًا وأثّرت في أفكاره هي بالذات الغائبة عن السرد، بينما تسجّل كتب الصحابة تفاصيل مملّة عن سواهم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the length and detail of entries for Waraqa b. Nawfal and Salman al-Farisi against comparable companions in al-Isaba, Ansab al-Ashraf and Tabaqat Ibn Sa'd to test whether the asymmetry the speaker describes exists."
+    },
+    {
+      "timestamp": "00:03:11",
+      "claimEn": "The speaker claims that, per a report from Ibn Abbas in Siyar A'lam al-Nubala', Salman said he was a Persian from a village of Isfahan called Jayy, that his father was its dihqan, that his father shut him in the house as one confines a slave girl, and that he strove in Magianism until he was the keeper of the fire who never let it die out.",
+      "claimAr": "يقول المتحدث إن خبرًا عن ابن عباس في سير أعلام النبلاء ينقل عن سلمان أنه كان رجلًا فارسيًا من أهل أصبهان من قرية يقال لها جي، وأن أباه كان دهقانها، وأنه حبسه في بيته كما تُحبس الجارية، وأنه اجتهد في المجوسية حتى صار قاطن النار الذي لا يتركها تخبو ساعة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate this report in Siyar A'lam al-Nubala' and its parallels, and check the wording, the isnad to Ibn Abbas, and whether the phrase describes a cultic office or merely household devotion."
+    },
+    {
+      "timestamp": "00:03:56",
+      "claimEn": "The speaker claims that being the keeper of the temple fire means Salman was a priest of a Zoroastrian fire temple.",
+      "claimAr": "يقول المتحدث إن كون سلمان قاطن النار يعني أنه كان كاهنًا لمعبد النار في الديانة الزرادشتية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check studies of Zoroastrian fire-temple personnel on whether the tender of the sacred fire held priestly rank, and whether the Arabic report supports that identification."
+    },
+    {
+      "timestamp": "00:04:44",
+      "claimEn": "The speaker claims Zoroastrian priesthood has three ranks — herbad, mobed and dastur, the dastur being the highest — and that a man in such a position must necessarily have memorized the Zoroastrian scripture, the Avesta, since he could not be appointed without it.",
+      "claimAr": "يقول المتحدث إن الكهنوت الزرادشتي ثلاث طبقات: الهيربد ثم الموبد ثم الدستور وهو أعلاها، وإن من يشغل هذا الموقع لا بد أن يكون حافظًا للكتاب المقدس الزرادشتي، الأفستا، إذ لا يُعيَّن من دون ذلك.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Zoroastrian studies on the herbad/mobed/dastur hierarchy and on memorization requirements for the Avesta, and whether they apply to a fire-keeper of Salman's described position."
+    },
+    {
+      "timestamp": "00:05:30",
+      "claimEn": "The speaker claims that a report from Aisha in al-Isaba fi Tamyiz al-Sahaba says Salman had a session with the Messenger of God that nearly took him from us, meaning Salman spent whole nights alone in conversation with Muhammad.",
+      "claimAr": "يقول المتحدث إن رواية عن عائشة في الإصابة في تمييز الصحابة تذكر أنه كان لسلمان مجلس من رسول الله حتى كاد يغلبنا عليه، أي أنه كان يقضي معه الليالي في الحديث.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions",
+        "hadith"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Find this report in al-Isaba and its earlier sources, verify the exact wording attributed to Aisha, and assess its chain."
+    },
+    {
+      "timestamp": "00:06:15",
+      "claimEn": "The speaker claims nothing is recorded about what Salman and Muhammad discussed through those nights, but that Muhammad's curiosity about Salman's material is evident from the fact of the sessions.",
+      "claimAr": "يقول المتحدث إنه لم يُسجَّل شيء عمّا كان يدور بين سلمان ومحمد في تلك الليالي، لكن فضول محمد تجاه ما عند سلمان واضح من مجرد وقوع تلك المجالس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether any early source describes the content of Salman's conversations with Muhammad, and whether the silence is as complete as the speaker asserts."
+    },
+    {
+      "timestamp": "00:06:15",
+      "claimEn": "The speaker claims Salman was not only a Zoroastrian priest but converted to Nasrani Christianity, studying and absorbing it, before converting to Islam — so he arrived carrying two religions rich in stories, knowledge and ritual.",
+      "claimAr": "يقول المتحدث إن سلمان لم يكن كاهنًا زرادشتيًا فحسب، بل تحوّل إلى المسيحية النصرانية فدرسها وهضمها قبل أن يدخل الإسلام، فجاء وهو يحمل ديانتين مليئتين بالقصص والمعرفة والطقوس.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the conversion narrative of Salman in the sirah and companion literature for the Christian stage, and what 'Nasrani' denotes there."
+    },
+    {
+      "timestamp": "00:07:01",
+      "claimEn": "The speaker claims that during those long nights Muhammad and Salman must have been discussing religious matters, with Muhammad taking stories and other material from him.",
+      "claimAr": "يقول المتحدث إن محمدًا وسلمان لا بد أنهما كانا يتناقشان في هذه الأمور الدينية خلال تلك الليالي الطويلة، وأن محمدًا كان يأخذ منه بعض القصص وبعض الأشياء.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "zoroastrian-parallels",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether any early report attributes Qur'anic or ritual content to Salman, and how the accusation in Q 16:103 about a human teacher has been discussed in relation to him."
+    },
+    {
+      "timestamp": "00:07:46",
+      "claimEn": "The speaker claims the Qur'an reflects the cultural interaction of its age, as previously shown with the Abraham stories found in Midrash Rabbah and the creation of a bird from clay found in the Infancy Gospel.",
+      "claimAr": "يقول المتحدث إن القرآن يعكس التفاعل الثقافي لعصره، كما سبق أن ظهر في قصص إبراهيم الموجودة في مدراش ربّا وفي خلق الطير من الطين الموجود في إنجيل الطفولة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Abraham material in Midrash Rabbah and the clay-bird episode in the Infancy Gospel of Thomas with the corresponding Qur'anic passages."
+    },
+    {
+      "timestamp": "00:07:46",
+      "claimEn": "The speaker claims Zoroastrianism is a monotheistic religion with a single God, Ahura Mazda, who has no partner, with Zoroaster as its prophet and a scripture of its own.",
+      "claimAr": "يقول المتحدث إن الزرادشتية ديانة توحيدية بإله واحد هو أهورا مازدا لا شريك له، وزرادشت نبيّها، ولها كتابها المقدس.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check how far Zoroastrianism is classified as monotheistic in the scholarship, and whether the dualism of Ahura Mazda and Angra Mainyu qualifies the claim."
+    },
+    {
+      "timestamp": "00:08:31",
+      "claimEn": "The speaker claims the opening invocation of the Avesta addresses Ahura Mazda as the sole creator, the greatest, best and wisest, who neither sleeps nor is heedless, in whose hand are the keys of creation so that what he wills is and what he does not will is not, and that this reads like Ayat al-Kursi in Surat al-Baqara.",
+      "claimAr": "يقول المتحدث إن مناجاة الأفستا الافتتاحية تخاطب أهورا مازدا بأنه الخالق الأوحد الأعظم الأحسن الأحكم الذي لا ينام ولا يسهو، مقاليد الخلق بيده فيكون ما يريد ولا يكون ما لا يريد، وإن ذلك أشبه بآية الكرسي في سورة البقرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "earlier-religious-parallels",
+        "quran"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Avestan text the speaker is paraphrasing, check the translation he is using, and compare its formulas with Q 2:255 point by point."
+    },
+    {
+      "timestamp": "00:09:19",
+      "claimEn": "The speaker claims Zoroastrians have five daily prayers at exactly the same times as the Islamic ones, differing only in the manner of performance, and that the dawn prayer is the most important among them.",
+      "claimAr": "يقول المتحدث إن للزرادشتيين خمس صلوات في اليوم بمواقيت مطابقة تمامًا لمواقيت الصلاة الإسلامية، والفرق في طريقة الأداء فقط، وإن صلاة الفجر أهمّها عندهم.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Zoroastrian gah divisions of the day against the five Islamic prayer times, including whether the boundaries match as closely as claimed."
+    },
+    {
+      "timestamp": "00:10:07",
+      "claimEn": "The speaker claims Zoroastrian prayer requires an ablution of washing the face, the hands and the feet, roughly the same as the Islamic wudu of washing the face, wiping the head and washing the hands and feet as found in the Qur'an.",
+      "claimAr": "يقول المتحدث إن الصلاة الزرادشتية تستوجب وضوءًا أساسه غسل الوجه واليدين والرجلين، وهو تقريبًا الوضوء الإسلامي من غسل الوجه ومسح الرأس وغسل اليدين والرجلين كما في القرآن.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the Zoroastrian padyab ritual purification with the ablution prescribed in Q 5:6 and its exegesis."
+    },
+    {
+      "timestamp": "00:11:50",
+      "claimEn": "The speaker claims Zoroastrianism permits a believer to marry several wives, the first wife being the mistress of the house, with no fixed maximum unlike the Qur'an's four, the limit being the man's means — which he compares to Islamic concubinage being bounded by a Muslim's purchasing power.",
+      "claimAr": "يقول المتحدث إن الزرادشتية تبيح للمؤمن الزواج من عدة نساء، والأولى هي سيدة المنزل، من غير عدد محدد بخلاف الأربع في القرآن، والحدّ هو طاقة الرجل المادية، ويشبّه ذلك بملك اليمين في الإسلام الذي يتحدد بالقدرة الشرائية للمسلم.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "women",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Zoroastrian law on plural marriage and the status of the padshah-zan (chief wife), and whether the comparison with the four-wife limit and with concubinage holds."
+    },
+    {
+      "timestamp": "00:12:35",
+      "claimEn": "The speaker claims Zoroastrianism holds a day of gathering and resurrection, recognizes that a human being consists of body and soul, and teaches that the soul passes to Ahura Mazda the creator after death.",
+      "claimAr": "يقول المتحدث إن في الزرادشتية يوم حشر ونشور، وإنها تعترف بأن الإنسان مركّب من جسد وروح، وأن الروح تنتقل بعد الوفاة إلى أهورا مازدا الخالق.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Zoroastrian eschatology on the fate of the soul after death and the general resurrection (frashokereti), and compare with the Islamic account."
+    },
+    {
+      "timestamp": "00:13:26",
+      "claimEn": "The speaker claims that in the Zoroastrian text the soul on the day of resurrection demands its original body back from the custody of the three elements — dust, fire and water — and that all the dead rise driven by their good and evil deeds, reflecting the ancients' belief that the world is composed of those three elements.",
+      "claimAr": "يقول المتحدث إن النص الزرادشتي يجعل الروح يوم النشور تطالب بجسدها الأصلي من وصاية العناصر الثلاثة: التراب والنار والماء، وينهض الموتى جميعًا مدفوعين بأعمالهم الصالحة والسيئة، وهي طبيعة ما كان يؤمن به القدماء من أن الكون مكوّن من هذه العناصر الثلاثة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the Zoroastrian resurrection passage the speaker paraphrases and check the three-element formulation and the role of deeds."
+    },
+    {
+      "timestamp": "00:14:16",
+      "claimEn": "The speaker claims the Zoroastrian judgment scene has the righteous separated from the wicked for three days and three nights, with the wicked kept within sight of paradise seeing the heavens while feeling hellfire, and that this is nearly the same scene as the verses of Surat al-A'raf in which the people of the heights address the people of the fire.",
+      "claimAr": "يقول المتحدث إن مشهد الحساب الزرادشتي يعزل الصالحين عن المسيئين ثلاثة أيام وثلاث ليالٍ، ويبقى المسيء على مرمى البصر من الفردوس يشاهد السماوات ويشعر بالجحيم، وإن هذا هو تقريبًا مشهد آيات سورة الأعراف حيث ينادي أصحاب الأعراف أصحاب النار.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Zoroastrian judgment passage with Q 7:44-50 and check whether the mutual-sight and three-day motifs are actually present in the Zoroastrian text."
+    },
+    {
+      "timestamp": "00:14:16",
+      "claimEn": "The speaker claims the Zoroastrian motif of the wicked regretting their deeds matches the Qur'anic motifs of the disbeliever saying 'would that I were dust' and the command 'stand apart today, O criminals'.",
+      "claimAr": "يقول المتحدث إن فكرة ندم المسيئين في الزرادشتية تطابق ما في القرآن من قول الكافر يا ليتني كنت ترابًا ومن الأمر وامتازوا اليوم أيها المجرمون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the Qur'anic wording and locations of these two phrases and check whether comparable separation and regret formulas appear in Zoroastrian eschatological texts."
+    },
+    {
+      "timestamp": "00:15:51",
+      "claimEn": "The speaker claims Zoroastrianism and Islam are the only two religions that contain the idea of the torment of the grave.",
+      "claimAr": "يقول المتحدث إن الزرادشتية والإسلام هما الديانتان الوحيدتان اللتان توجد فيهما فكرة عذاب القبر.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether post-mortem punishment before resurrection is genuinely absent from other traditions, and where the Islamic doctrine of 'adhab al-qabr is grounded in hadith rather than Qur'an."
+    },
+    {
+      "timestamp": "00:15:51",
+      "claimEn": "The speaker claims that in Zoroastrianism a person's deeds meet him in the grave in bodily form — as a hideous old woman for the wicked and a beautiful woman for the righteous — and that the wicked is tormented by scorpions and snakes that bite him, which he says is exactly the Islamic idea.",
+      "claimAr": "يقول المتحدث إن أعمال الإنسان في الزرادشتية تأتيه في القبر مجسّدة: امرأة شمطاء للشرير وامرأة جميلة للصالح، وإن الشرير يُعذَّب بعقارب وأفاعٍ تلدغه، وإنها الفكرة نفسها الموجودة في الإسلام.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Zoroastrian daena figure that meets the soul after death and the grave-punishment reports in hadith collections, and compare the imagery."
+    },
+    {
+      "timestamp": "00:15:51",
+      "claimEn": "The speaker claims the ascent to heaven is a phenomenon known from other cultures, such as the prophet Elijah in Judaism, in Christian tradition, and Zoroaster who flew up to his god Ahura Mazda on a winged camel.",
+      "claimAr": "يقول المتحدث إن الصعود إلى السماء ظاهرة معروفة في ثقافات أخرى، مثل إيليا النبي في اليهودية، وفي التراث المسيحي، وزرادشت الذي طار إلى إلهه أهورا مازدا فوق جمل مجنّح.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "ascension-narratives-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Elijah ascent account, Christian ascension traditions, and the Zoroastrian heavenly journey texts for the winged mount detail."
+    },
+    {
+      "timestamp": "00:16:38",
+      "claimEn": "The speaker claims Zoroaster's journey closely resembles the Islamic Mi'raj: he rode a legendary winged camel and flew to the highest heavens to draw near to Ahura Mazda, the camel standing in place of the winged horse of the Persians.",
+      "claimAr": "يقول المتحدث إن رحلة زرادشت شبيهة جدًا بالمعراج الإسلامي: ركب جملًا مجنّحًا خرافيًا وطار إلى أعالي السماوات ليتقرّب من أهورا مازدا، والجمل بدل الفرس المجنَّح عند الفرس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [
+        "ascension-narratives-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Zoroastrian text describing Zoroaster's ascent and its mount, and compare with the Buraq of the Mi'raj reports."
+    },
+    {
+      "timestamp": "00:17:23",
+      "claimEn": "The speaker claims Zoroastrianism has seven heavens, each layer inhabited by a group of spirits, and a tree above the seventh heaven like Sidrat al-Muntaha, and that Zoroaster ascended through all seven and knocked at each.",
+      "claimAr": "يقول المتحدث إن في الزرادشتية سبع سماوات تسكن كل طبقة منها مجموعة أرواح، وشجرة فوق السماء السابعة مثل سدرة المنتهى، وإن زرادشت صعد السماوات السبع وكان يطرق عليها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "newTopicIds": [
+        "ascension-narratives-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Zoroastrian cosmology for a sevenfold heaven and a cosmic tree above it, and compare with the Mi'raj reports and Sidrat al-Muntaha in Q 53:14."
+    },
+    {
+      "timestamp": "00:18:13",
+      "claimEn": "The speaker claims Zoroastrianism has angels including a chief angel comparable to Gabriel, and that the object of Zoroaster's journey was to meet Ahura Mazda and speak with him directly.",
+      "claimAr": "يقول المتحدث إن في الزرادشتية ملائكة ومنهم ملك أكبر يشبه جبريل، وإن منتهى رحلة زرادشت كان لقاء أهورا مازدا والتحاور معه مباشرة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "ascension-narratives-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Amesha Spentas and yazatas for a figure functioning as chief angel or guide, and compare with Gabriel's role in the Mi'raj reports."
+    },
+    {
+      "timestamp": "00:18:13",
+      "claimEn": "The speaker claims that for fourteen hundred years no one disputed the Mi'raj story or suspected it of being transferred from another tradition; scholars only debated whether it happened in spirit or in body and spirit.",
+      "claimAr": "يقول المتحدث إنه على مدى ألف وأربعمئة سنة لم يجادل أحد في قصة المعراج ولم يشكّ في كونها منقولة من تراث آخر، وإنما اختلف العلماء فقط في كونها بالروح أو بالروح والجسد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "ascension-narratives-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the classical disagreement over a bodily versus spiritual Isra and whether any premodern voices questioned the story's origin."
+    },
+    {
+      "timestamp": "00:19:03",
+      "claimEn": "The speaker claims Surat al-Najm is the only sura that points to the ascent of Muhammad to heaven, and that it mentions neither Muhammad nor a heaven nor any of the details that exegesis later crammed into it.",
+      "claimAr": "يقول المتحدث إن سورة النجم هي السورة الوحيدة التي تشير إلى المعراج أو صعود محمد إلى السماء، وإنها لا تذكر محمدًا ولا تذكر سماءً ولا شيئًا من التفاصيل التي حشرها التفسير فيها بعد ذلك.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 53 and check what it actually names, then trace how the Mi'raj details entered the exegesis of the sura."
+    },
+    {
+      "timestamp": "00:19:52",
+      "claimEn": "The speaker claims one of Muhammad's forebears on his mother's side, Abu Kabsha, believed in and worshipped the star al-Shi'ra, and that the chiefs of Quraysh mocked Muhammad by calling him Ibn Abi Kabsha in reference to that ancestor, to belittle him.",
+      "claimAr": "يقول المتحدث إن أحد أجداد محمد من جهة الأم، أبا كبشة، كان يؤمن بنجم الشعرى ويعبده، وإن سادات قريش كانوا يسخرون من محمد ويسمّونه ابن أبي كبشة نسبةً إليه تحقيرًا لشأنه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the sirah and hadith sources for the epithet Ibn Abi Kabsha, the identity of Abu Kabsha, and the claim of a maternal-line ancestry."
+    },
+    {
+      "timestamp": "00:19:52",
+      "claimEn": "The speaker claims al-Qurtubi, commenting on verse 49 of Surat al-Najm 'and that He is the Lord of al-Shi'ra', identifies al-Shi'ra as the star the Greeks call Sirius, and says Abu Kabsha was the first to worship it in the Arabian Peninsula and the one who introduced its worship among the Arabs.",
+      "claimAr": "يقول المتحدث إن القرطبي في تفسير الآية 49 من سورة النجم \"وأنه هو ربّ الشعرى\" يعرّف الشعرى بأنها النجم الذي يسميه اليونان سيريوس، وإن أبا كبشة أول من عبده في الجزيرة العربية وهو الذي أدخل عبادته إلى العرب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read al-Qurtubi on Q 53:49 and verify the identification of al-Shi'ra and the report about Abu Kabsha introducing its worship."
+    },
+    {
+      "timestamp": "00:20:40",
+      "claimEn": "The speaker claims Zoroastrianism venerates the star Tishtrya, which is the same star as Sirius, called al-Shi'ra by the ancient Arabs and Tishtrya by the Persians.",
+      "claimAr": "يقول المتحدث إن الزرادشتية تقدّس نجم تِشتَريا، وهو نفسه نجم سيريوس الذي كان العرب القدامى يسمّونه الشعرى ويسميه الفرس تِشتَريا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the identification of Avestan Tishtrya with Sirius and with the Arabic al-Shi'ra in the astronomical and Iranological literature."
+    },
+    {
+      "timestamp": "00:20:40",
+      "claimEn": "The speaker claims that in Zoroastrianism, when the believer venerates the star Tishtrya and offers it a sacrifice and prayers — not as a god but as an intercessor bringing him nearer to God — the star asks Ahura Mazda for leave to descend from the upper layers, draws near to the worshipper, blesses him and grants what he asked, and that this is stated verbatim in the Avesta.",
+      "claimAr": "يقول المتحدث إن المؤمن الزرادشتي إذا قدّس نجم تِشتَريا وقدّم له القربان والصلوات — لا على أنه الإله بل على أنه شفيع يقرّبه إلى الله — طلب النجم من أهورا مازدا أن ينزل من الطبقات العليا، فيقترب من العبد ويباركه ويعطيه ما طلب، وإن هذا موجود نصًّا في الأفستا.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Tishtar Yasht passages on offerings to Tishtrya and its descent, and check whether they describe an intercessory function as the speaker states."
+    },
+    {
+      "timestamp": "00:22:18",
+      "claimEn": "The speaker claims that in Surat al-Najm the subject of 'then he drew near and came down' and 'while he was on the highest horizon' is the star and not Gabriel, so the sura is describing the star descending to bless or answer the one who offers it sacrifices, exactly as in the Zoroastrian account.",
+      "claimAr": "يقول المتحدث إن الفاعل في قوله \"ثم دنا فتدلى\" و\"وهو بالأفق الأعلى\" في سورة النجم هو النجم لا جبريل، فالسورة تصف نزول النجم ليبارك أو يلبّي طلب من يقدّم له القرابين، تمامًا كما في الرواية الزرادشتية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Read Q 53:1-10 in Arabic and check whether the grammar permits the star as subject of dana fatadalla, and how classical exegetes assign the referent."
+    },
+    {
+      "timestamp": "00:23:09",
+      "claimEn": "The speaker claims there is a hadith in which one of Abu Lahab's sons said to the Messenger 'I have disbelieved in the Lord of the star', and the Messenger replied with words to the effect that the dog of God would come and devour him.",
+      "claimAr": "يقول المتحدث إن هناك حديثًا قال فيه أحد أبناء أبي لهب للرسول \"إني كفرت بربّ النجم\"، فردّ عليه الرسول بما معناه أن يأتي كلب الله فيأكله.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate this report about a son of Abu Lahab and the invocation of the 'dog of God' in the hadith and sirah collections; the speaker gives no collection or number."
+    },
+    {
+      "timestamp": "00:24:01",
+      "claimEn": "The speaker claims 'the dog of God' is a creature attested in Zoroastrianism, and that the constellation Canis Major, of which Sirius is the centre, is what the phrase refers to.",
+      "claimAr": "يقول المتحدث إن \"كلب الله\" مخلوق موجود في الزرادشتية، وإن المجموعة النجمية الكلبية التي مركزها نجم سيريوس هي المقصودة بهذه العبارة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Zoroastrian material on a divine dog figure and the association of Sirius with Canis Major, and whether the Arabic phrase in the report can bear this reading."
+    },
+    {
+      "timestamp": "00:24:48",
+      "claimEn": "The speaker claims Muhammad was in effect threatening Abu Lahab's son that the star would take revenge on him for his disbelief, since in this belief system the stars have specific functions such as punishing the wicked.",
+      "claimAr": "يقول المتحدث إن محمدًا كان في الواقع يهدّد ابن أبي لهب بأن هذا النجم سينتقم منه لأنه كفر، إذ للنجوم في هذا التصور مهمات خاصة مثل معاقبة الأشرار.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the report, if authentic, implies Muhammad shared an astral belief in stars as agents of punishment, and how commentators have explained it."
+    },
+    {
+      "timestamp": "00:24:48",
+      "claimEn": "The speaker claims the stars have more than one entry point in the Qur'an, which swears by them, as in 'I swear by the positions of the stars, and it is indeed a great oath if you only knew' and 'by the sky and the night-comer', the tariq being the star that comes by night.",
+      "claimAr": "يقول المتحدث إن للنجوم في القرآن أكثر من مدخل، فهو يقسم بها، كما في \"فلا أقسم بمواقع النجوم وإنه لقسم لو تعلمون عظيم\" و\"والسماء والطارق\"، والطارق هو النجم الذي يأتي ليلًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and locations of Q 56:75-76 and Q 86:1-3 and the exegetical identification of al-tariq with a star."
+    },
+    {
+      "timestamp": "00:25:35",
+      "claimEn": "The speaker claims Surat al-Mulk says God adorned the lowest heaven with lamps and made them missiles for the devils, treating the stars as projectiles.",
+      "claimAr": "يقول المتحدث إن سورة الملك تذكر أن الله زيّن السماء الدنيا بمصابيح وجعلها رجومًا للشياطين، فجعل النجوم قذائف.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and location of the verse in Surat al-Mulk about lamps made missiles for devils."
+    },
+    {
+      "timestamp": "00:25:35",
+      "claimEn": "The speaker claims Surat al-Jinn has the jinn saying they touched the sky and found it filled with stern guards and flames, that they used to sit there to eavesdrop, and that now whoever listens finds a shooting star lying in wait for him.",
+      "claimAr": "يقول المتحدث إن في سورة الجن آية يقول فيها الجنّ إنهم لمسوا السماء فوجدوها ملئت حرسًا شديدًا وشهبًا، وإنهم كانوا يقعدون منها مقاعد للسمع، فمن يستمع الآن يجد له شهابًا رصدًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and location of Q 72:8-9 and the exegesis of the jinn eavesdropping and being struck by meteors."
+    },
+    {
+      "timestamp": "00:26:27",
+      "claimEn": "The speaker claims this idea is present verbatim in Zoroastrianism, where the sky is a dome guarded by angels and by the stars, which defend it with meteors and burn every demon and devil that tries to eavesdrop on the highest assembly.",
+      "claimAr": "يقول المتحدث إن هذه الفكرة موجودة بنصّها في الزرادشتية، إذ السماء قبّة تحرسها الملائكة والنجوم وتدافع عنها بالشهب وتحرق كل عفريت وشيطان يحاول التنصّت على الملأ الأعلى.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "newTopicIds": [
+        "astral-religion-and-star-veneration"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the Zoroastrian texts describing the sky as a guarded dome and stars repelling demons, and judge how close the parallel to Q 72:8-9 and Q 67:5 is."
+    },
+    {
+      "timestamp": "00:27:12",
+      "claimEn": "The speaker claims modern science shows that the light we see from stars may come from stars that died a million years ago, that stars do not enter the atmosphere and any such body would destroy us, and that the Qur'an makes no distinction between star, planet and meteor, treating them as one and the same thing.",
+      "claimAr": "يقول المتحدث إن العلم الحديث أثبت أن ضوء النجوم قد يصلنا من نجوم ماتت منذ مليون سنة، وأن النجوم لا تدخل المجال الجوي وأن جرمًا كهذا سيدمّرنا جميعًا، وأن القرآن لا يفرّق بين النجم والكوكب والشهاب بل يخلطها جميعًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation",
+        "quran-lexical-and-interpretive-questions-cosmological-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check every Qur'anic use of najm, kawkab and shihab to test whether the text conflates them, and confirm the astronomical points about stellar distance and meteors."
+    },
+    {
+      "timestamp": "00:28:00",
+      "claimEn": "The speaker claims the story of Salman al-Farisi reveals another side of the sources of Islam and of the Qur'an, indicating a human channel through which foreign religious material reached the text.",
+      "claimAr": "يقول المتحدث إن قصة سلمان الفارسي توضح جانبًا آخر من مصادر الإسلام ومصادر القرآن، بما يشير إلى قناة بشرية وصلت عبرها موادّ دينية أجنبية إلى النص.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels",
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "sirah-formative-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Weigh whether Salman's biography can carry the explanatory role assigned to it, given how little the sources record about his contact with Muhammad."
+    },
+    {
+      "timestamp": "00:28:00",
+      "claimEn": "The speaker claims the Qur'an is a remarkable book precisely because it blends groups of cultures that never met in one place, collecting everything its author heard and knew, giving it a new identity and colouring it with an Arab and Islamic colour — which he presents as praise of the book and a problem only for anyone who insists it came down verbatim from God as the last book for humanity.",
+      "claimAr": "يقول المتحدث إن القرآن كتاب رائع لأنه مزج مجموعات من الثقافات لم تلتقِ في مكان واحد، فجمع كل ما سمعه مؤلفه وكل ما عرفه وصاغه في هوية جديدة وصبغه بالصبغة العربية والإسلامية، ويقدّم ذلك مديحًا للكتاب لا ذمًّا، ومشكلةً فقط لمن يصرّ على أنه نزل بنصّه من عند الله وأنه آخر كتاب للبشرية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the cumulative case: whether the individual parallels presented in the episode are strong enough to support a general claim of composite human authorship."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:54",
+      "asStatedInVideo": "سلمان الفارسي، شخصية غامضة جدا",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:54",
+      "asStatedInVideo": "شخصية عمر بن الخطاب وتأثيره في الإسلام وتشريعات الإسلام",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:54",
+      "asStatedInVideo": "شخصية معاوية بن أبي سفيان وكيف نقل الإسلام إلى خط آخر",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:54",
+      "asStatedInVideo": "عبد الملك بن مروان، شخصية لم تعاصر محمد ولكنها أثرت على صورة الإسلام",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:39",
+      "asStatedInVideo": "هو الذي صاحب فكرة بناء الخندق حول المدينة قبل غزوة الأحزاب",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:02:26",
+      "asStatedInVideo": "الإصابة في تمييز الصحابة",
+      "workTitle": "الإصابة في تمييز الصحابة",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:02:26",
+      "asStatedInVideo": "أنساب الأشراف للبلاذري",
+      "workTitle": "أنساب الأشراف",
+      "author": "البلاذري",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:02:26",
+      "asStatedInVideo": "طبقات ابن سعد",
+      "workTitle": "الطبقات الكبرى",
+      "author": "ابن سعد",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:02:26",
+      "asStatedInVideo": "إكمال تهذيبهم",
+      "workTitle": "إكمال تهذيب الكمال (كما يُفهم من السياق)",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:26",
+      "asStatedInVideo": "ورقة ابن نوفل",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:03:11",
+      "asStatedInVideo": "لدينا خبر في سير أعلام النبلاء عن ابن عباس، يقول: حدثني سلمان الفارسي",
+      "workTitle": "سير أعلام النبلاء",
+      "author": "",
+      "locator": "خبر عن ابن عباس عن سلمان الفارسي",
+      "quotedArabic": "كنت رجلا فارسيا من أهل أصبهان، من أهل قرية منها يقال لها جي، وكان أبي دهقانها، وكنت أحب خلق الله إليه، فلم يزل بي حبه إياي حتى حبسني في بيته كما تحبس الجارية، فاجتهدت في المجوسية حتى كنت قاطن النار الذي يوقدها، لا يتركها تخبو ساعة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:11",
+      "asStatedInVideo": "خبر ... عن ابن عباس",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:11",
+      "asStatedInVideo": "سلمان الفارسي، كنت رجلا فارسيا من أهل أصبهان",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:44",
+      "asStatedInVideo": "كان أكيد حافظا للكتاب المقدس ... والأفستا",
+      "workTitle": "الأفستا",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:05:30",
+      "asStatedInVideo": "حديث موجود في الإصابة في تمييز الصحابة، مروي عن عائشة",
+      "workTitle": "الإصابة في تمييز الصحابة",
+      "author": "",
+      "locator": "مروي عن عائشة، بلا رقم",
+      "quotedArabic": "كان لسلمان مجلس من رسول الله حتى كاد يغلبنا على رسول الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:30",
+      "asStatedInVideo": "مروي عن عائشة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:46",
+      "asStatedInVideo": "بعض القصص اللي هي موجودة في مدراش ربا، قصص إبراهيم مثلا",
+      "workTitle": "مدراش ربّا",
+      "author": "",
+      "locator": "قصص إبراهيم",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:46",
+      "asStatedInVideo": "إنجيل الطفولة على موضوع السيد المسيح وخلق الطير من الطين",
+      "workTitle": "إنجيل الطفولة",
+      "author": "",
+      "locator": "خلق الطير من الطين",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:46",
+      "asStatedInVideo": "زرادشت هو نبي هذا الدين",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:08:31",
+      "asStatedInVideo": "أول آية في الأفيستا هي تحكي عن هذا الإله، هذا الأهورا مازدا",
+      "workTitle": "الأفستا",
+      "author": "",
+      "locator": "الآية الأولى / مناجاة زرادشت لأهورا مازدا",
+      "quotedArabic": "يا أهورا مازدا، أيها الخالق المنير، العظيم، الأعظم، والأحسن، والأجمل، والأقدر، والأكمل، والأحكم، والأقوى ... يا أيها الخالق الأوحد، الذي لا ينام ولا يسهو، وأنت الخالق، مقاليد الخلق بيدك فيكون ما تريد ولا يكون ما لا تريد، أنت عليم، أنت بصير، وأنت عادل، وأنت أبو العدالة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:19",
+      "asStatedInVideo": "عملها زي آية الكرسي كده ... في سورة البقرة",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة البقرة، آية الكرسي (2:255)",
+      "quotedArabic": "لا تأخذه سنة ولا نوم ... من ذا الذي يشفع",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:07",
+      "asStatedInVideo": "في القرآن نجد غسل الوجه ومسح الرأس واليدين والرجلين، هذا هو الموجود في القرآن، طبعا بحسب التفاسير",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "آية الوضوء، بلا رقم في الفيديو",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:50",
+      "asStatedInVideo": "ليس هناك تحديد معين مثل القرآن اللي هم أربع نساء",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "حدّ الأربع نساء، بلا رقم في الفيديو",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:04",
+      "asStatedInVideo": "تقريبا زي الآيات اللي في سورة الأعراف اللي تصف هذا المشهد",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة الأعراف، بلا رقم آية",
+      "quotedArabic": "على الأعراف رجال ... ونادى أصحاب الجنة أصحاب النار أن قد وجدنا ما وعدنا ربنا حقا فهل وجدتم ما وعدكم ربكم حقا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:04",
+      "asStatedInVideo": "ويقول الكافر يا ليتني كنت ترابا",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "بلا سورة ولا رقم في الفيديو",
+      "quotedArabic": "يا ليتني كنت ترابا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:04",
+      "asStatedInVideo": "وامتازوا اليوم أيها المجرمون",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "بلا سورة ولا رقم في الفيديو",
+      "quotedArabic": "وامتازوا اليوم أيها المجرمون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:51",
+      "asStatedInVideo": "مثل إليا النبي في الديانة اليهودية",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:15:51",
+      "asStatedInVideo": "إحنا كنا تكلمنا في الحلقة السابقة عن موضوع الإسراء ... والمعراج للسماوات",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:23",
+      "asStatedInVideo": "وعندهم كذلك شجرة مثل شجرة سدرة المنتهى",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سدرة المنتهى، بلا رقم في الفيديو",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:03",
+      "asStatedInVideo": "سورة النجم هي السورة الوحيدة اللي بتشير إلى المعراج ... وهي تبدأ بعبارة والنجم إذا هوى",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة النجم",
+      "quotedArabic": "والنجم إذا هوى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:52",
+      "asStatedInVideo": "أحد أجداده من الأم كان يؤمن بالنجم الشعرى، هذا أبو كبشة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:19:52",
+      "asStatedInVideo": "وبيقول القرطبي في نفس تفسير سورة النجم في الآية 49",
+      "workTitle": "تفسير القرطبي",
+      "author": "القرطبي",
+      "locator": "تفسير سورة النجم، الآية 49",
+      "quotedArabic": "وأنه هو رب الشعرى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:52",
+      "asStatedInVideo": "في الآية 49 ... وأنه هو رب الشعرى",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "53:49",
+      "quotedArabic": "وأنه هو رب الشعرى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:21:33",
+      "asStatedInVideo": "طبعا هذا موجود نصا في الأفستا",
+      "workTitle": "الأفستا",
+      "author": "",
+      "locator": "نصوص نجم تِشتَريا، بلا موضع محدد",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:22:18",
+      "asStatedInVideo": "في سورة النجم في الآية السابعة تقول وهو بالأفق الأعلى",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "53:1-7",
+      "quotedArabic": "والنجم إذا هوى، ما ضل صاحبكم وما غوى، وما ينطق عن الهوى، إن هو إلا وحي يوحى، علمه شديد القوى، ذو مرة فاستوى، وهو بالأفق الأعلى، ثم دنا فتدلى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:23:09",
+      "asStatedInVideo": "وهناك حديث يتحدث عن أحد أبناء أبي لهب ... قال للرسول: إني كفرت برب النجم، فالرسول رد عليه: احضر ليأكلك كلب الله",
+      "workTitle": "",
+      "author": "",
+      "locator": "لم تُذكر المجموعة ولا رقم الحديث",
+      "quotedArabic": "إني كفرت برب النجم",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:09",
+      "asStatedInVideo": "أحد أبناء أبي لهب ... والأولاد الاثنين بتوع أبي لهب كانوا متزوجين بنات محمد وطلقوهم",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:09",
+      "asStatedInVideo": "في الفترة اللي حصل فيها موضوع تبت يدا أبي لهب",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "تبت يدا أبي لهب (سورة المسد)، بلا رقم في الفيديو",
+      "quotedArabic": "تبت يدا أبي لهب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:48",
+      "asStatedInVideo": "فلا أقسم بمواقع النجوم وإنه لقسم لو تعلمون عظيم",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "بلا سورة ولا رقم في الفيديو",
+      "quotedArabic": "فلا أقسم بمواقع النجوم وإنه لقسم لو تعلمون عظيم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:48",
+      "asStatedInVideo": "والسماء والطارق، الطارق هو النجم الذي يأتي بالليل",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "بلا سورة ولا رقم في الفيديو",
+      "quotedArabic": "والسماء والطارق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:35",
+      "asStatedInVideo": "إنا زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين، في سورة الملك",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة الملك، بلا رقم آية",
+      "quotedArabic": "إنا زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:35",
+      "asStatedInVideo": "في سورة الجن فيه آية ... وأنا لمسنا السماء",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة الجن، بلا رقم آية",
+      "quotedArabic": "وأنا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبا، وأنا كنا نقعد منها مقاعد للسمع، فمن يستمع الآن يجد له شهابا رصدا",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "sirah-formative-figures",
+      "titleEn": "Formative figures around Muhammad",
+      "titleAr": "الشخصيات المؤثرة حول محمد",
+      "descriptionEn": "Claims that named individuals — companions, converts from other religions, and later rulers — supplied ideas, stories, practices or institutional shape to Islam, and claims about how much or how little the biographical tradition records about them.",
+      "descriptionAr": "دعاوى بأن أشخاصًا بأعيانهم — من الصحابة ومن المتحولين عن ديانات أخرى ومن الحكام اللاحقين — أمدّوا الإسلام بأفكار أو قصص أو ممارسات أو صياغة مؤسسية، ودعاوى عن مقدار ما سجّله التراث السِيَري عنهم أو أغفله.",
+      "suggestedParentId": "sirah",
+      "closestExistingId": "sirah-historical-setting-and-identity",
+      "rationale": "The episode opens a whole announced series on Salman, Umar, Mu'awiya and Abd al-Malik as shapers of Islam, and returns repeatedly to the biographical silence surrounding Salman and Waraqa. Other videos in this series will fall under the same subject. The closest existing topic covers the Arabian setting and identity questions of the sirah, not the claim that particular individuals supplied Islam's content."
+    },
+    {
+      "proposedId": "astral-religion-and-star-veneration",
+      "titleEn": "Astral religion and star veneration",
+      "titleAr": "عبادة النجوم والدين الفلكي",
+      "descriptionEn": "Claims connecting Qur'anic and hadith material about stars — oaths by stars, the Lord of al-Shi'ra, lamps made missiles for demons, the star that draws near — with pre-Islamic Arabian and Iranian star cults such as the veneration of Sirius / Tishtrya.",
+      "descriptionAr": "دعاوى تربط ما في القرآن والحديث عن النجوم — الأقسام بالنجوم، وربّ الشعرى، والمصابيح رجومًا للشياطين، والنجم الذي يدنو — بعبادات النجوم في الجزيرة العربية وفارس قبل الإسلام، مثل تقديس نجم سيريوس / تِشتَريا.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "zoroastrian-parallels",
+      "rationale": "Roughly the last third of the episode is a sustained argument about Sirius, Abu Kabsha's star cult, Tishtrya, and a rereading of Surat al-Najm. The material spans Arabian paganism, Zoroastrianism and Qur'anic exegesis, so it does not sit cleanly under the Zoroastrian-only topic, and it is a durable subject other videos would fall under."
+    },
+    {
+      "proposedId": "ascension-narratives-parallels",
+      "titleEn": "Heavenly ascent narratives and their parallels",
+      "titleAr": "روايات العروج إلى السماء وتوازياتها",
+      "descriptionEn": "Claims comparing the Isra and Mi'raj with heavenly-journey accounts in other traditions — Elijah, Christian ascension material, Zoroaster's flight on a winged mount — including the seven heavens, the cosmic tree, the guiding angel, and how the details entered the Islamic account.",
+      "descriptionAr": "دعاوى تقارن الإسراء والمعراج بروايات الرحلة السماوية في تقاليد أخرى — إيليا، والمواد المسيحية عن الصعود، وطيران زرادشت على مركب مجنّح — بما في ذلك السماوات السبع والشجرة الكونية والملك الدليل، وكيفية دخول التفاصيل إلى الرواية الإسلامية.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "zoroastrian-parallels",
+      "rationale": "The speaker devotes a long stretch to the Mi'raj and says the previous episode was largely about it, drawing on Jewish, Christian and Zoroastrian material at once. It is a recurring cross-tradition subject that fits neither the Zoroastrian-only topic nor sirah-revelation-narratives, which covers the revelation experience rather than comparative ascent literature."
+    }
+  ]
+}

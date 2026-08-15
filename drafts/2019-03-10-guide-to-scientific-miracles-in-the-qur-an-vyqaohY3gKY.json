@@ -1,0 +1,1662 @@
+{
+  "schemaVersion": 1,
+  "videoId": "vyqaohY3gKY",
+  "videoUrl": "https://www.youtube.com/watch?v=vyqaohY3gKY",
+  "videoTitle": "Guide to Scientific Miracles in the Qur'an",
+  "creator": "Hassan Radwan",
+  "uploadDate": "20190310",
+  "extractedAt": "2026-08-13T11:56:07+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "A critical presentation arguing that the entire genre of \"scientific miracles in the Qur'an\" fails on its own terms. The speaker sets out three minimum requirements for such a claim (the knowledge was unavailable at the time, no alternative reading is possible, and the statement is scientifically accurate), then walks through the best-known claims one by one — embryology, the origin of semen, the Big Bang, life from water, iron sent down, the expanding universe, mountains and earthquakes, mountain roots, the heavens as smoke, Pharaoh's body, fresh and salt water, and the seven heavens as atmospheric layers — arguing in each case that the idea predates Islam, that classical tafsir understood the verse differently, or that the modern science does not in fact match. He closes with a history of the movement itself, tracing it to Maurice Bucaille's 1975 book and the Saudi Muslim World League's 1984 Commission on Scientific Signs, and citing scientists who say their remarks were manipulated.",
+  "summaryAr": "عرض نقدي يزعم فيه المتحدث أن باب \"الإعجاز العلمي في القرآن\" يسقط بمعاييره الخاصة. يضع ثلاثة شروط دنيا لإثبات أي دعوى إعجازية (أن تكون المعرفة غير متاحة آنذاك، وألا يكون للنص معنى بديل، وأن يكون الكلام دقيقًا علميًا)، ثم يستعرض أشهر الدعاوى واحدة تلو الأخرى: علم الأجنة، ومنشأ المني، والانفجار العظيم، وخلق كل شيء حي من الماء، وإنزال الحديد، وتوسع الكون، والجبال والزلازل، وجذور الجبال، والسماء وهي دخان، وجسد فرعون، والماء العذب والمالح، والسماوات السبع كطبقات الغلاف الجوي، محتجًا في كل حالة بأن الفكرة سابقة للإسلام، أو أن التفاسير الكلاسيكية فهمت الآية على وجه آخر، أو أن العلم الحديث لا يطابقها. ويختم بتأريخ الظاهرة نفسها، رادًّا إياها إلى كتاب موريس بوكاي سنة ١٩٧٥ وإلى هيئة الإعجاز العلمي التابعة لرابطة العالم الإسلامي سنة ١٩٨٤، ونقلًا عن علماء يقولون إن كلامهم استُخدم بعد اجتزائه.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:01",
+      "stepEn": "Opens by saying he returns to the subject reluctantly, because the flaws are already evident, but scientific miracles are still used in outreach and were the first reason given by two recent English converts he met.",
+      "stepAr": "يستهل بأنه يعود إلى الموضوع على مضض لأن عيوبه ظاهرة منذ حين، لكن دعاوى الإعجاز ما زالت تُستعمل في الدعوة، وكانت أول سبب ذكره زوجان إنجليزيان اعتنقا الإسلام حديثًا التقى بهما."
+    },
+    {
+      "timestamp": "00:00:32",
+      "stepEn": "Sets out a three-part test any miracle claim must pass, and asserts that not a single claim passes it.",
+      "stepAr": "يضع اختبارًا ثلاثيًا يجب أن تجتازه أي دعوى إعجازية، ويقرر أن ولا دعوى واحدة تجتازه."
+    },
+    {
+      "timestamp": "00:00:52",
+      "stepEn": "Applies the first criterion (prior knowledge) to embryology, comparing Qur'anic descriptions with Galen five centuries earlier.",
+      "stepAr": "يطبّق الشرط الأول (سبق المعرفة) على علم الأجنة، مقارنًا الأوصاف القرآنية بكلام جالينوس قبل خمسة قرون."
+    },
+    {
+      "timestamp": "00:01:31",
+      "stepEn": "Applies the accuracy criterion using the bones-then-flesh sequence, and plays footage of Adnan Rashid conceding to PZ Myers that the process is simultaneous while insisting \"thumma\" can mean simultaneity.",
+      "stepAr": "يطبّق شرط الدقة على تسلسل \"العظام ثم اللحم\"، ويعرض مقطعًا لعدنان رشيد وهو يقرّ أمام بي زد مايرز بتزامن العملية بينما يصرّ على أن \"ثم\" قد تفيد التزامن."
+    },
+    {
+      "timestamp": "00:02:55",
+      "stepEn": "Turns to the \"gushing fluid from between the backbone and ribs\" verse, arguing it is inaccurate on any semen reading and that the Qur'an's silence about the ovum is fatal to a foreknowledge claim.",
+      "stepAr": "ينتقل إلى آية \"ماء دافق يخرج من بين الصلب والترائب\"، محتجًا بأنها غير دقيقة على أي قراءة تجعل الماء منيًا، وأن سكوت القرآن عن البويضة يقوّض دعوى السبق العلمي."
+    },
+    {
+      "timestamp": "00:03:31",
+      "stepEn": "Shows that classical tafsir read the verse through the ancient pangenesis belief, quoting al-Qurtubi, Qatadah and al-Hasan, then lists three modern apologetic rescues and calls them self-defeating.",
+      "stepAr": "يبيّن أن التفاسير الكلاسيكية قرأت الآية على أساس الاعتقاد القديم بأن ماء الخلق يأتي من سائر البدن، ناقلًا عن القرطبي وقتادة والحسن، ثم يعدد ثلاث محاولات تأويلية معاصرة ويعدّها زيادة في الحفر."
+    },
+    {
+      "timestamp": "00:04:36",
+      "stepEn": "Takes the Big Bang claim, lines up Sumerian, Babylonian, Chinese and Egyptian separation-of-heaven-and-earth myths, then argues the physics does not fit either.",
+      "stepAr": "يتناول دعوى الانفجار العظيم، فيصفّ أساطير فصل السماء عن الأرض السومرية والبابلية والصينية والمصرية، ثم يحتج بأن الفيزياء نفسها لا تطابق الآية."
+    },
+    {
+      "timestamp": "00:05:45",
+      "stepEn": "Repeats the same move for \"we made from water every living thing\", citing Genesis, Thales and Anaximander as earlier expressions of the idea.",
+      "stepAr": "يكرر الحركة نفسها مع \"وجعلنا من الماء كل شيء حي\"، مستشهدًا بسفر التكوين وطاليس وأناكسيماندر كتعبيرات أقدم عن الفكرة."
+    },
+    {
+      "timestamp": "00:06:29",
+      "stepEn": "Applies both the prior-knowledge and alternative-meaning criteria to \"we sent down iron\", citing the Egyptian \"metal of heaven\" and the ordinary use of \"anzala\".",
+      "stepAr": "يطبّق شرطي سبق المعرفة والمعنى البديل على \"وأنزلنا الحديد\"، مستشهدًا بتسمية المصريين له \"معدن السماء\" وبالاستعمال العادي لـ\"أنزل\"."
+    },
+    {
+      "timestamp": "00:07:11",
+      "stepEn": "Argues the expanding-universe claim rests on a grammatical reading that classical tafsir did not adopt, and warns that tying Islam to current scientific models is risky.",
+      "stepAr": "يحتج بأن دعوى توسع الكون تقوم على قراءة نحوية لم تأخذ بها التفاسير الكلاسيكية، ويحذر من ربط الإسلام بالنماذج العلمية الراهنة."
+    },
+    {
+      "timestamp": "00:08:35",
+      "stepEn": "Attacks the mountains-and-earthquakes claim on three fronts: older myths said the same, the verse and Tabari say something else, and the geology is backwards since mountains are a product of tectonic movement.",
+      "stepAr": "يهاجم دعوى الجبال والزلازل من ثلاث جهات: أساطير أقدم قالت الشيء نفسه، والآية والطبري يقولان شيئًا آخر، والجيولوجيا معكوسة لأن الجبال نتاج الحركة التكتونية."
+    },
+    {
+      "timestamp": "00:10:33",
+      "stepEn": "Adds a theological objection: a God who made the ground shake and then added mountains to reduce it has not improved on millions of earthquake deaths.",
+      "stepAr": "يضيف اعتراضًا لاهوتيًا: إلهٌ جعل الأرض تميد ثم وضع الجبال للتخفيف لم يصنع تحسينًا يُذكر أمام ملايين القتلى بالزلازل."
+    },
+    {
+      "timestamp": "00:10:53",
+      "stepEn": "Notes the mountain-roots claim has ancient precedents in Aristotle's report and the Old Testament.",
+      "stepAr": "يشير إلى أن دعوى جذور الجبال لها سوابق قديمة عند أرسطو وفي العهد القديم."
+    },
+    {
+      "timestamp": "00:11:23",
+      "stepEn": "Argues the \"heavens as smoke\" claim fails on classical exegesis (water vapour), on Genesis parallels, on modern cosmology, and on the Qur'an's own order and day-counts for creating earth before the heavens.",
+      "stepAr": "يحتج بأن دعوى \"السماء وهي دخان\" تسقط بالتفسير الكلاسيكي (بخار الماء)، وبموازاة سفر التكوين، وبعلم الكون الحديث، وبترتيب القرآن نفسه وعدد الأيام في خلق الأرض قبل السماء."
+    },
+    {
+      "timestamp": "00:13:37",
+      "stepEn": "Dismantles the Pharaoh's body claim through classical tafsir, through mummification being common knowledge, and through the actual archaeological record of the Royal Cache.",
+      "stepAr": "يفكك دعوى جسد فرعون عبر التفسير الكلاسيكي، وعبر كون التحنيط معلومًا للجميع، وعبر السجل الأثري الفعلي لخبيئة الدير البحري."
+    },
+    {
+      "timestamp": "00:15:20",
+      "stepEn": "Handles the fresh/salt water and seven-atmospheric-layers claims briefly, and points out that apologists read al-samawat inconsistently across claims.",
+      "stepAr": "يعالج بإيجاز دعويي الماء العذب والمالح وطبقات الغلاف الجوي السبع، ويشير إلى تناقض المدافعين في تفسير \"السماوات\" بين دعوى وأخرى."
+    },
+    {
+      "timestamp": "00:16:38",
+      "stepEn": "Closes by historicising the whole genre: absent among Golden Age Muslim scientists, traceable to Bucaille in 1975 and the Saudi commission of 1984, and sustained by editing scientists' remarks — several of whom have since objected.",
+      "stepAr": "يختم بتأريخ الظاهرة كلها: غائبة عند علماء العصر الذهبي، ويمكن ردّها إلى بوكاي سنة ١٩٧٥ وإلى الهيئة السعودية سنة ١٩٨٤، وقامت على اجتزاء كلام العلماء، وقد اعترض عدد منهم لاحقًا."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:01",
+      "claimEn": "The speaker claims that the flaws in scientific-miracle arguments have been evident for some time and that many Muslims now distance themselves from them.",
+      "claimAr": "يقول المتحدث إن عيوب حجج الإعجاز العلمي صارت ظاهرة منذ حين، وإن كثيرًا من المسلمين باتوا ينأون بأنفسهم عنها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether scholarly or community surveys document a decline in the use of i'jaz 'ilmi arguments among Muslim writers and da'wah organisations."
+    },
+    {
+      "timestamp": "00:00:13",
+      "claimEn": "The speaker claims scientific-miracle arguments are still presented to non-Muslims at dawah book stalls, and that a young English couple he shared a taxi with gave scientific miracles as the first reason for their recent conversion.",
+      "claimAr": "يقول المتحدث إن حجج الإعجاز العلمي ما زالت تُقدَّم لغير المسلمين عند أكشاك الكتب الدعوية، وإن زوجين إنجليزيين شابين ركب معهما سيارة أجرة ذكرا الإعجاز العلمي كأول سبب لاعتناقهما الإسلام حديثًا.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "The taxi anecdote is personal testimony and not independently checkable; the wider claim that da'wah stalls still distribute scientific-miracle literature can be checked against current da'wah publications."
+    },
+    {
+      "timestamp": "00:00:32",
+      "claimEn": "The speaker claims that three minimum requirements must be met for a scientific-miracle claim to be proven: the knowledge did not exist at the time, there is no possible alternative meaning, and the statement is scientifically accurate.",
+      "claimAr": "يقول المتحدث إن إثبات أي دعوى إعجاز علمي يستلزم ثلاثة شروط دنيا: ألا تكون المعرفة موجودة آنذاك، وألا يكون للنص معنى بديل ممكن، وأن يكون الكلام دقيقًا من الناحية العلمية.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the speaker's own evidential standard, not a claim about a source. An editor should note it as the framework the rest of the video is judged by, and compare it with criteria used in the apologetic literature itself."
+    },
+    {
+      "timestamp": "00:00:46",
+      "claimEn": "The speaker claims that not a single scientific-miracle claim meets all three of his criteria.",
+      "claimAr": "يقول المتحدث إنه لا توجد ولا دعوى إعجاز علمي واحدة تستوفي شروطه الثلاثة جميعًا.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "An evaluative summary claim; verify only that the video's individual cases actually support it, and check whether any claim in the apologetic corpus is left unaddressed."
+    },
+    {
+      "timestamp": "00:00:52",
+      "claimEn": "The speaker claims the Qur'an makes references to the development of a fetus, but that the ancient Greeks and others described fetal development in similar terms long before Islam.",
+      "claimAr": "يقول المتحدث إن القرآن يشير إلى تطور الجنين، لكن الإغريق القدماء وغيرهم وصفوا تطور الجنين بعبارات مشابهة قبل الإسلام بزمن طويل.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Greek embryological texts (Hippocratic corpus, Aristotle, Galen) with Q 23:12-14 and 22:5, and check the scholarship on transmission of Greek medicine into late antique Arabia."
+    },
+    {
+      "timestamp": "00:01:04",
+      "claimEn": "The speaker claims the Qur'anic statements on embryology can be compared directly with those of Galen, who wrote roughly 500 years before Muhammad.",
+      "claimAr": "يقول المتحدث إن العبارات القرآنية في علم الأجنة يمكن مقارنتها مباشرة بعبارات جالينوس الذي كتب قبل محمد بنحو خمسمائة عام.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the specific Galenic passages (On Semen / On the Formation of the Foetus), confirm the dating gap, and check the on-screen comparison text the speaker displays but does not read aloud."
+    },
+    {
+      "timestamp": "00:01:31",
+      "claimEn": "The speaker claims that flesh and cartilage form simultaneously, so the Qur'anic sequence of bones being clothed with flesh is scientifically wrong.",
+      "claimAr": "يقول المتحدث إن اللحم والغضروف يتكونان في آن واحد، وعليه فإن التسلسل القرآني الذي تُكسى فيه العظام لحمًا خطأ من الناحية العلمية.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check current embryology texts on the relative timing of chondrogenesis, ossification and myogenesis, and confirm the wording of Q 23:14."
+    },
+    {
+      "timestamp": "00:01:31",
+      "claimEn": "The speaker claims this objection was put to Adnan Rashid when PZ Myers was cornered outside a conference in Dublin, and that Adnan Rashid immediately answered that \"thumma\" can also mean simultaneously.",
+      "claimAr": "يقول المتحدث إن هذا الاعتراض طُرح على عدنان رشيد حين حوصر بي زد مايرز خارج مؤتمر في دبلن، وإن عدنان رشيد ردّ فورًا بأن \"ثم\" قد تفيد التزامن أيضًا.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the source and date of the Dublin footage, and check Arabic lexica and grammatical works on whether thumma can denote simultaneity rather than sequence or delayed sequence."
+    },
+    {
+      "timestamp": "00:01:56",
+      "claimEn": "In the footage, Adnan Rashid claims that Keith Moore wrote on page 364A of his book The Human Embryo that in the seventh week the bones are formed and immediately afterwards the bones are clothed with flesh.",
+      "claimAr": "في المقطع المعروض، يقول عدنان رشيد إن كيث مور كتب في صفحة ٣٦٤أ من كتابه \"الجنين البشري\" أن العظام تتكون في الأسبوع السابع ثم تُكسى باللحم مباشرة بعد ذلك.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check whether a Keith Moore title matching \"The Human Embryo\" exists with a page 364A, and what it actually says about week seven; the standard Moore textbook is The Developing Human."
+    },
+    {
+      "timestamp": "00:02:12",
+      "claimEn": "In the footage, Adnan Rashid claims that he is himself an embryologist and that Keith Moore is wrong about the sequence.",
+      "claimAr": "في المقطع المعروض، يقول عدنان رشيد إنه هو نفسه مختص بعلم الأجنة وإن كيث مور مخطئ في التسلسل.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Adnan Rashid's stated academic background against the exchange; note the ambiguity in the clip about who is claiming the field as their own."
+    },
+    {
+      "timestamp": "00:02:26",
+      "claimEn": "In the footage, PZ Myers claims the actual sequence is differentiation of mesoderm, then segregation into embryonic mesenchyme, then cartilaginous centres that will form bone, with these forming simultaneously with each other.",
+      "claimAr": "في المقطع المعروض، يقول بي زد مايرز إن التسلسل الفعلي هو تمايز الأديم المتوسط، ثم انفصاله إلى نسيج ميزنشيمي جنيني، ثم مراكز غضروفية ستكوّن العظم، وأن هذه تتكون متزامنة فيما بينها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check a standard embryology reference on mesoderm differentiation, mesenchymal condensation and the timing of cartilage and muscle formation."
+    },
+    {
+      "timestamp": "00:02:55",
+      "claimEn": "The speaker claims that if the \"gushing fluid that issues from between the backbone and ribs\" is semen, the verse is inaccurate, because man is not created from semen — semen is only the vehicle carrying sperm, and conception occurs when a sperm penetrates the ovum.",
+      "claimAr": "يقول المتحدث إنه إذا كان \"الماء الدافق الذي يخرج من بين الصلب والترائب\" هو المني فالآية غير دقيقة، لأن الإنسان لا يُخلق من المني، إذ المني ليس إلا الوسط الحامل للحيوان المنوي، والإخصاب يحدث حين يخترق الحيوان المنوي البويضة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the wording and reference of the verse (Q 86:5-7) and check whether classical and modern commentators identify the ma' dafiq as semen."
+    },
+    {
+      "timestamp": "00:03:22",
+      "claimEn": "The speaker claims the Qur'an never mentions the female egg, and that for anyone claiming miraculous scientific foreknowledge this is an inexcusable omission.",
+      "claimAr": "يقول المتحدث إن القرآن لم يذكر البويضة الأنثوية قط، وإن هذا إغفال لا يُغتفر لمن يدّعي سبقًا علميًا إعجازيًا.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Search the Qur'anic text for any term interpreted as the ovum, and check how apologetic literature handles the absence (e.g. readings of nutfa amshaj in Q 76:2)."
+    },
+    {
+      "timestamp": "00:03:31",
+      "claimEn": "The speaker claims the verse instead resembles the ancient belief that conception is caused by male and female fluids drawn from all parts of the body, and that some classical tafsirs said exactly this.",
+      "claimAr": "يقول المتحدث إن الآية تشبه بدلًا من ذلك الاعتقاد القديم بأن الحمل ينتج عن ماء الرجل والمرأة المستمد من سائر أجزاء البدن، وإن بعض التفاسير الكلاسيكية قالت هذا بعينه.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read the tafsirs of Q 86:5-7 in al-Qurtubi, al-Tabari and others, and compare with Greek pangenesis theory as described in the Hippocratic corpus."
+    },
+    {
+      "timestamp": "00:03:44",
+      "claimEn": "The speaker claims al-Qurtubi says the fluid is semen, that it comes down from the brain and passes between the backbone and the ribs.",
+      "claimAr": "يقول المتحدث إن القرطبي ذكر أن الماء هو المني، وأنه ينزل من الدماغ ويمر بين الصلب والترائب.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the passage in al-Qurtubi's al-Jami' li-Ahkam al-Qur'an on Surat al-Tariq and verify the attribution and wording."
+    },
+    {
+      "timestamp": "00:03:49",
+      "claimEn": "The speaker claims Qatadah said the verse means the backbone of the man and the ribs of the woman.",
+      "claimAr": "يقول المتحدث إن قتادة فسّر الآية بأنها صلب الرجل وترائب المرأة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Trace the report from Qatadah in the classical tafsir collections (al-Tabari, al-Qurtubi) and check its chain and wording."
+    },
+    {
+      "timestamp": "00:03:53",
+      "claimEn": "The speaker claims al-Hasan said it means the backbone and ribs of both the man and the woman, since the nutfah comes from all parts of the body.",
+      "claimAr": "يقول المتحدث إن الحسن فسّرها بصلب الرجل وترائبه وصلب المرأة وترائبها، لأن النطفة تخرج من سائر أجزاء البدن.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Trace the report attributed to al-Hasan (al-Basri) in the tafsir literature and verify the pangenesis rationale attached to it."
+    },
+    {
+      "timestamp": "00:04:05",
+      "claimEn": "The speaker claims that one apologetic response holds \"sulb\" to be a euphemism for an erect penis and \"tara'ib\" a euphemism for the vagina.",
+      "claimAr": "يقول المتحدث إن أحد التأويلات الدفاعية يجعل \"الصلب\" كناية عن القضيب المنتصب و\"الترائب\" كناية عن المهبل.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify which apologists advance this reading and check classical Arabic lexica for any attested use of sulb and tara'ib in these senses."
+    },
+    {
+      "timestamp": "00:04:16",
+      "claimEn": "The speaker claims another apologetic response holds that the words \"issues from\" refer to a baby coming out of the womb.",
+      "claimAr": "يقول المتحدث إن تأويلًا دفاعيًا آخر يجعل \"يخرج من\" إشارة إلى خروج الطفل من الرحم.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the proponents of this reading and check whether the grammar of the verse allows the subject of yakhruj to be the child rather than the fluid."
+    },
+    {
+      "timestamp": "00:04:22",
+      "claimEn": "The speaker claims yet another apologetic response holds the verse means man is born from the loins of the male and fed by the breast of the female.",
+      "claimAr": "يقول المتحدث إن تأويلًا ثالثًا يجعل معنى الآية أن الإنسان يولد من صلب الرجل ويُغذّى من صدر المرأة.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify who advances this reading and check whether tara'ib is attested as denoting the area of the breast in classical usage."
+    },
+    {
+      "timestamp": "00:04:30",
+      "claimEn": "The speaker claims that the more attempts are made to rescue this verse, the deeper the hole its defenders dig for it.",
+      "claimAr": "يقول المتحدث إن كثرة محاولات إنقاذ هذه الآية تزيد الحفرة عمقًا على المدافعين عنها.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluative rhetorical claim; note only that it rests on the mutual incompatibility of the three readings just listed."
+    },
+    {
+      "timestamp": "00:04:36",
+      "claimEn": "The speaker claims the Big Bang miracle argument rests on the verse stating the heavens and the earth were one entity and were separated.",
+      "claimAr": "يقول المتحدث إن دعوى الانفجار العظيم تقوم على الآية التي تذكر أن السماوات والأرض كانتا رتقًا ففُتقتا.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the verse (Q 21:30) and check how classical tafsir understood ratq and fatq before modern cosmology."
+    },
+    {
+      "timestamp": "00:04:44",
+      "claimEn": "The speaker claims that heaven being separated from earth is a very old idea found in many creation myths, and cites the Sumerian Song of the Hoe as saying \"Did he hasten to separate heaven from earth, and hasten to separate earth from heaven?\"",
+      "claimAr": "يقول المتحدث إن فكرة فصل السماء عن الأرض قديمة جدًا وتوجد في أساطير خلق كثيرة، ويستشهد بنص سومري \"أنشودة المعول\" الذي يقول: \"أسرع ليفصل السماء عن الأرض، وأسرع ليفصل الأرض عن السماء؟\"",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the standard translation of the Sumerian Song of the Hoe (e.g. ETCSL) for this line and its dating."
+    },
+    {
+      "timestamp": "00:04:57",
+      "claimEn": "The speaker claims the Babylonian myth Enuma Elish says \"When the heavens had been separated from the earth\".",
+      "claimAr": "يقول المتحدث إن الأسطورة البابلية \"إينوما إيليش\" تقول: \"حين فُصلت السماوات عن الأرض\".",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether this line belongs to Enuma Elish proper or to a related Babylonian incantation text, and identify the translation used."
+    },
+    {
+      "timestamp": "00:05:03",
+      "claimEn": "The speaker claims that in the Chinese creation myth Pangu separated earth from sky by pushing the sky upward.",
+      "claimAr": "يقول المتحدث إن أسطورة الخلق الصينية تروي أن بانغو فصل الأرض عن السماء بدفعه السماء إلى أعلى.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Pangu myth's earliest textual attestation (Three Kingdoms period sources) and its date relative to the Qur'an."
+    },
+    {
+      "timestamp": "00:05:10",
+      "claimEn": "The speaker claims that in ancient Egyptian mythology Geb, representing earth, and Nut, representing heaven, were separated on the orders of the god Ra.",
+      "claimAr": "يقول المتحدث إن الأساطير المصرية القديمة تروي أن جِب رمز الأرض ونوت رمز السماء فُصلا بأمر الإله رع.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Egyptological sources on the Geb–Nut separation and whether it is Ra or Shu who effects it in the standard accounts."
+    },
+    {
+      "timestamp": "00:05:19",
+      "claimEn": "The speaker claims the Big Bang cannot under any circumstances be described as separating heaven from earth, because it was not an explosion of matter but an expansion of space, and at no point was the earth separated from anything.",
+      "claimAr": "يقول المتحدث إن الانفجار العظيم لا يمكن بحال وصفه بفصل السماء عن الأرض، لأنه لم يكن انفجارًا للمادة بل تمددًا للفضاء، ولم تُفصل الأرض في أي لحظة عن أي شيء.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check standard cosmology references on the distinction between an explosion in space and metric expansion of space."
+    },
+    {
+      "timestamp": "00:05:27",
+      "claimEn": "The speaker claims that on the contrary the earth came together from debris 9 billion years after the initial expansion.",
+      "claimAr": "يقول المتحدث إن الأرض على العكس تجمّعت من الحطام بعد نحو تسعة مليارات سنة من التمدد الأول.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check accepted figures: universe age ~13.8 Gyr and Earth formation ~4.54 Gya, giving roughly a 9 Gyr gap."
+    },
+    {
+      "timestamp": "00:05:45",
+      "claimEn": "The speaker claims the argument that the Qur'an confirms life originated in seas and lakes rests on the verse \"We made from water every living thing\", but that this idea also predates the Qur'an.",
+      "claimAr": "يقول المتحدث إن الاحتجاج بأن القرآن يؤكد نشأة الحياة في البحار والبحيرات يقوم على آية \"وجعلنا من الماء كل شيء حي\"، لكن هذه الفكرة أيضًا سابقة للقرآن.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the verse (Q 21:30) and survey pre-Islamic statements linking life or all things to water."
+    },
+    {
+      "timestamp": "00:05:58",
+      "claimEn": "The speaker claims the book of Genesis echoes the earlier creation myths and then says God commanded the waters to bring forth abundantly the moving creature that has life, and fowl that may fly above the earth.",
+      "claimAr": "يقول المتحدث إن سفر التكوين يردد صدى أساطير الخلق السابقة ثم يقول إن الله أمر المياه أن تفيض بالكائنات الحية المتحركة وبالطير الذي يطير فوق الأرض.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Genesis 1:20 in the King James Version, which the quoted wording appears to follow."
+    },
+    {
+      "timestamp": "00:06:13",
+      "claimEn": "The speaker claims the ancient Greek philosopher Thales said water was the nature of all things.",
+      "claimAr": "يقول المتحدث إن الفيلسوف اليوناني القديم طاليس قال إن الماء هو أصل كل شيء.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the doxographical sources for Thales' water principle (Aristotle, Metaphysics A3)."
+    },
+    {
+      "timestamp": "00:06:18",
+      "claimEn": "The speaker claims Anaximander put forward the view that life started from warm water and earth and emerged from fish-like creatures from the sea, calling it astonishingly farsighted.",
+      "claimAr": "يقول المتحدث إن أناكسيماندر طرح رأيًا مفاده أن الحياة بدأت من الماء الدافئ والأرض ونشأت من كائنات شبيهة بالسمك في البحر، ويصف ذلك ببعد النظر المدهش.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the fragments and testimonia for Anaximander's zoogony (Aetius, Hippolytus, Censorinus)."
+    },
+    {
+      "timestamp": "00:06:29",
+      "claimEn": "The speaker claims the iron miracle argument rests on the verse \"We sent down iron\" and asserts that no one could have known meteors contained iron from space.",
+      "claimAr": "يقول المتحدث إن دعوى إعجاز الحديد تقوم على آية \"وأنزلنا الحديد\"، وعلى الزعم بأن أحدًا لم يكن بوسعه معرفة أن النيازك تحتوي حديدًا آتيًا من الفضاء.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the verse (Q 57:25) and identify the apologetic sources making the meteoric-iron argument."
+    },
+    {
+      "timestamp": "00:06:39",
+      "claimEn": "The speaker claims a quick search shows this is untrue because many cultures knew meteors contained iron, and that 3,000 years before Islam the ancient Egyptians called iron \"the metal of heaven\".",
+      "claimAr": "يقول المتحدث إن بحثًا سريعًا يكشف بطلان ذلك، إذ عرفت ثقافات كثيرة أن النيازك تحتوي حديدًا، وإن المصريين القدماء سمّوا الحديد قبل الإسلام بثلاثة آلاف عام \"معدن السماء\".",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Egyptological literature on the term bia-n-pet (\"iron of the sky\") and archaeological work on meteoritic iron artefacts."
+    },
+    {
+      "timestamp": "00:06:53",
+      "claimEn": "The speaker claims that, more importantly, most of the iron we use does not come from space but from underground.",
+      "claimAr": "يقول المتحدث إن الأهم من ذلك أن معظم الحديد الذي نستعمله لا يأتي من الفضاء بل من باطن الأرض.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the geology of banded iron formations and terrestrial iron ore versus meteoritic iron as a share of production."
+    },
+    {
+      "timestamp": "00:07:00",
+      "claimEn": "The speaker claims that \"anzala\" often simply means God gave something to people, citing that the Qur'an also says \"O children of Adam, we sent down clothing for you\".",
+      "claimAr": "يقول المتحدث إن \"أنزل\" كثيرًا ما تعني ببساطة أن الله أعطاهم الشيء، مستشهدًا بأن القرآن يقول أيضًا: \"يا بني آدم قد أنزلنا عليكم لباسًا\".",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q 7:26 and survey other Qur'anic uses of anzala with non-celestial objects; consult classical lexica and tafsir on the idiom."
+    },
+    {
+      "timestamp": "00:07:11",
+      "claimEn": "The speaker claims the expanding-universe argument holds that the Qur'an reveals a continually expanding universe because \"musi'un\" is an active participle and can therefore carry the sense of an ongoing act.",
+      "claimAr": "يقول المتحدث إن دعوى توسع الكون تزعم أن القرآن يكشف عن كون يتوسع باستمرار لأن \"موسعون\" اسم فاعل يمكن أن يفيد الاستمرار في الفعل.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the verse (Q 51:47) and check the grammatical claim about the aspectual force of the active participle in classical Arabic."
+    },
+    {
+      "timestamp": "00:07:23",
+      "claimEn": "The speaker claims that is not how the word was understood by traditional scholars, since classical tafsirs say it means \"dhu si'ah\", possessing abundant ability, and treat \"inna la-musi'un\" as similar to \"inna la-qadirun\".",
+      "claimAr": "يقول المتحدث إن هذا ليس فهم العلماء التقليديين للكلمة، إذ تقول التفاسير الكلاسيكية إن معناها \"ذو سعة\" أي ذو قدرة واسعة، وتجعل \"وإنا لموسعون\" نظير \"وإنا لقادرون\".",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read al-Tabari, al-Qurtubi and Ibn Kathir on Q 51:47 and confirm the glosses dhu si'ah and la-qadirun."
+    },
+    {
+      "timestamp": "00:07:40",
+      "claimEn": "The speaker claims this is supported by the only other Qur'anic instance of the word, \"ala al-musi'i qadaruhu\", meaning the one with abundant means according to his capability, and that the tafsirs therefore make this the preferred meaning.",
+      "claimAr": "يقول المتحدث إن هذا يؤيده الموضع الوحيد الآخر للكلمة في القرآن: \"على الموسع قدره\"، أي ذي السعة بحسب طاقته، وإن التفاسير لذلك ترجّح هذا المعنى.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm Q 2:236 and check by concordance whether these are indeed the only two occurrences of the relevant form."
+    },
+    {
+      "timestamp": "00:07:55",
+      "claimEn": "The speaker claims some commentators also allow that the word can mean making a vast and wide expanse, which is something any human looking at the sky can observe.",
+      "claimAr": "يقول المتحدث إن بعض المفسرين يجيزون أيضًا أن تعني الكلمة توسيع السماء ومدّها، وهو أمر يستطيع أي إنسان ينظر إلى السماء ملاحظته.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify which classical commentators allow the spatial-expanse sense for Q 51:47."
+    },
+    {
+      "timestamp": "00:08:04",
+      "claimEn": "The speaker claims Muslims are free to believe the verse describes the scientific theory of a continually expanding universe, but cannot present it as a proven scientific miracle when alternative and better-attested meanings are available.",
+      "claimAr": "يقول المتحدث إن للمسلمين أن يعتقدوا أن الآية تصف نظرية الكون المتوسع باستمرار، لكن ليس لهم تقديمها كإعجاز علمي مثبت مع وجود معانٍ بديلة أثبت منها.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluative claim tied to the speaker's second criterion; verify only the underlying claim that the classical glosses are better attested."
+    },
+    {
+      "timestamp": "00:08:18",
+      "claimEn": "The speaker claims the continually expanding universe is the current popular model but that, unlike religions, science can change when new information arrives, so handcuffing Islam to current scientific theories is a risky business.",
+      "claimAr": "يقول المتحدث إن نموذج الكون المتوسع باستمرار هو النموذج الرائج حاليًا، لكن العلم بخلاف الأديان يتغير عند ورود معلومات جديدة، ولذا فربط الإسلام بالنظريات العلمية الراهنة مجازفة.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Methodological argument rather than a source claim; note it as the speaker's framing of the concordist risk."
+    },
+    {
+      "timestamp": "00:08:35",
+      "claimEn": "The speaker claims the mountains argument rests on the verse \"We set on the earth mountains standing firm lest it should shake with them\", and that the main version of the claim is that it has only recently been discovered that mountains reduce earthquakes.",
+      "claimAr": "يقول المتحدث إن دعوى الجبال تقوم على آية \"وجعلنا في الأرض رواسي أن تميد بهم\"، وإن أشهر صورها هي أنه لم يُكتشف إلا حديثًا أن الجبال تقلل الزلازل.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the verse (Q 21:31, cf. 16:15, 31:10) and identify the apologetic sources asserting seismic damping by mountains."
+    },
+    {
+      "timestamp": "00:08:44",
+      "claimEn": "The speaker claims there are several variations of this claim and that it is difficult keeping up with how miracle claims move the goalposts as critics point out flaws.",
+      "claimAr": "يقول المتحدث إن لهذه الدعوى صورًا عدة، وإن من الصعب ملاحقة تبديل دعاوى الإعجاز لمعاييرها كلما أشار النقاد إلى عيوبها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare successive editions of apologetic literature on mountains to see whether the formulation has shifted over time."
+    },
+    {
+      "timestamp": "00:09:00",
+      "claimEn": "The speaker claims ancient cosmological myths already depicted mountains as both holding up the heavens and keeping the earth firm, citing Canaanite mythology's twin mountains Targhizizi and Tharumagi which held up the firmament and bound the earth together.",
+      "claimAr": "يقول المتحدث إن الأساطير الكونية القديمة صوّرت الجبال أصلًا بأنها تحمل السماء وتثبّت الأرض، مستشهدًا بجبلي الأسطورة الكنعانية ترغزيز وثرومغي اللذين يحملان الجَلَد ويشدّان الأرض.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Ugaritic Baal cycle references to Trgzz and Thrmg and the scholarship on their cosmological function."
+    },
+    {
+      "timestamp": "00:09:18",
+      "claimEn": "The speaker claims the Old Testament describes mountains as pillars of the earth, quoting \"I set firm its pillars\" and \"for the pillars of the earth are the Lord's, and he has set the world upon them\".",
+      "claimAr": "يقول المتحدث إن العهد القديم يصف الجبال بأنها أعمدة الأرض، مستشهدًا بـ\"أنا وطّدت أعمدتها\" و\"لأن للرب أعمدة الأرض وقد وضع عليها المسكونة\".",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the quoted lines, likely Psalm 75:3 and 1 Samuel 2:8, and check the translation used and whether the pillars are identified with mountains."
+    },
+    {
+      "timestamp": "00:09:32",
+      "claimEn": "The speaker claims what really undermines the miracle claim is that the verse does not say mountains reduce the effect of earthquakes but says \"lest it should shake with them\", and that Tabari glosses this as \"so that it doesn't overturn on people, so they can live securely on its surface\".",
+      "claimAr": "يقول المتحدث إن ما يقوّض هذه الدعوى فعلًا هو أن الآية لا تقول إن الجبال تخفف أثر الزلازل بل تقول \"أن تميد بهم\"، وإن الطبري فسّرها بـ\"لئلا تنقلب بأهلها فيعيشوا على ظهرها آمنين\".",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read al-Tabari's Jami' al-Bayan on Q 21:31 and 16:15 and verify the wording of the gloss on tamid."
+    },
+    {
+      "timestamp": "00:09:54",
+      "claimEn": "The speaker claims earthquakes kill more people than every other type of natural disaster put together, that three quarters of a million men, women and children were killed by earthquakes in the twenty years between 1994 and 2013, and that they occur on the very fault lines where mountains exist.",
+      "claimAr": "يقول المتحدث إن الزلازل تقتل من البشر أكثر مما تقتله سائر أنواع الكوارث الطبيعية مجتمعة، وإن ثلاثة أرباع المليون من الرجال والنساء والأطفال قُتلوا بالزلازل في العشرين سنة بين ١٩٩٤ و٢٠١٣، وإنها تقع على خطوط الصدع نفسها التي توجد عندها الجبال.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the UNISDR/CRED 1994–2013 disaster mortality report for the 750,000 figure and the comparison with other disaster types."
+    },
+    {
+      "timestamp": "00:10:13",
+      "claimEn": "The speaker claims mountains do not solve the problem but are a byproduct of it, being formed by colliding tectonic plates, and that mountains are neither firm nor immovable even though they appear so, since their very existence results from continuous movement over long periods.",
+      "claimAr": "يقول المتحدث إن الجبال لا تحل المشكلة بل هي من نتاجها، إذ تتكون بتصادم الصفائح التكتونية، وإنها ليست ثابتة ولا راسخة وإن بدت كذلك، لأن وجودها ذاته ثمرة حركة مستمرة عبر أزمنة طويلة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check plate tectonics literature on orogeny and on whether mountain mass has any damping or amplifying effect on seismic shaking."
+    },
+    {
+      "timestamp": "00:10:33",
+      "claimEn": "The speaker claims those who make this miracle claim are in effect saying God chose to create a deadly environment that shakes and then placed mountains to reduce it, and asks why make it shake in the first place and whether millions of earthquake deaths count as much of an improvement.",
+      "claimAr": "يقول المتحدث إن أصحاب هذه الدعوى يقولون في حقيقة الأمر إن الله اختار أن يخلق بيئة قاتلة تهتز ثم وضع الجبال للتخفيف منها، ويتساءل: ولمَ جعلها تهتز أصلًا؟ وهل ملايين القتلى بالزلازل تحسينٌ يُذكر؟",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "A theodicy argument, not a source claim; record as the speaker's inference from the miracle claim rather than from the text."
+    },
+    {
+      "timestamp": "00:10:53",
+      "claimEn": "The speaker claims a related argument holds that the Qur'an discovered mountains have roots, but that people in the past held similar beliefs, since Aristotle referred to those who believed the earth had roots and the Old Testament refers to the roots of mountains, quoting \"People assail the flinty rock with their hands and lay bare the roots of mountains\" and \"To the roots of mountains I sank down\".",
+      "claimAr": "يقول المتحدث إن دعوى متصلة تزعم أن القرآن اكتشف أن للجبال جذورًا، لكن أقوامًا في الماضي اعتقدوا اعتقادًا مشابهًا، إذ أشار أرسطو إلى من يرون أن للأرض جذورًا، ويذكر العهد القديم جذور الجبال في: \"يمد يده إلى الصوان ويقلب الجبال من أصولها\" و\"إلى أسافل الجبال نزلت\".",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Aristotle passage (likely Meteorologica) and identify the biblical verses, probably Job 28:9 and Jonah 2:6, checking the translations quoted."
+    },
+    {
+      "timestamp": "00:11:23",
+      "claimEn": "The speaker claims the smoke argument rests on the verse \"Then he turned to the heavens when it was smoke\", that dukhan means smoke or vapour, and that Ibn Kathir in his tafsir glosses the dukhan as water vapour.",
+      "claimAr": "يقول المتحدث إن دعوى الدخان تقوم على آية \"ثم استوى إلى السماء وهي دخان\"، وإن الدخان يعني الدخان أو البخار، وإن ابن كثير فسّر الدخان في تفسيره ببخار الماء.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm Q 41:11 and read Ibn Kathir on it to verify the gloss huwa bukhar al-ma'."
+    },
+    {
+      "timestamp": "00:11:42",
+      "claimEn": "The speaker claims the miracle argument is that the Qur'an reveals the gaseous state of the early universe or cosmic dust, both of which can be argued to resemble smoke or vapour.",
+      "claimAr": "يقول المتحدث إن الدعوى الإعجازية هي أن القرآن يكشف عن الحالة الغازية للكون المبكر أو عن الغبار الكوني، وكلاهما يمكن القول بأنه يشبه الدخان أو البخار.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the apologetic sources that equate dukhan with primordial plasma or cosmic dust."
+    },
+    {
+      "timestamp": "00:11:53",
+      "claimEn": "The speaker claims Muslims are free to read the verse as a metaphor for the gaseous state of the universe, but cannot claim a scientific miracle without precise language to support it or where alternative meanings are possible.",
+      "claimAr": "يقول المتحدث إن للمسلمين أن يقرأوا الآية استعارةً للحالة الغازية للكون، لكن ليس لهم ادعاء الإعجاز العلمي من غير لفظ دقيق يسنده، ولا مع إمكان معانٍ بديلة.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluative application of the speaker's own criteria; no external source to check."
+    },
+    {
+      "timestamp": "00:12:11",
+      "claimEn": "The speaker claims the verse could just as easily echo the creation story in Genesis, which describes the heavens as water, that biblical commentators say this means water vapour, and that this is precisely how classical tafsirs described dukhan.",
+      "claimAr": "يقول المتحدث إن الآية قد تردد بالقدر نفسه صدى قصة الخلق في سفر التكوين التي تصف السماوات بالماء، وإن شرّاح الكتاب المقدس يقولون إن المقصود بخار الماء، وهو عين ما وصفت به التفاسير الكلاسيكية الدخان.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Genesis 1:6-8 on the waters above the firmament and the commentary tradition reading them as vapour."
+    },
+    {
+      "timestamp": "00:12:24",
+      "claimEn": "The speaker claims that, interestingly, some Christian creationists regard the Bible's reference to a vapour canopy in Genesis as a scientific miracle of their own.",
+      "claimAr": "يقول المتحدث إن من اللافت أن بعض الخلقيين المسيحيين يعدّون إشارة سفر التكوين إلى غلاف بخاري إعجازًا علميًا خاصًا بهم.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check creationist literature on the vapour canopy theory (e.g. Whitcomb and Morris) and its use as evidence of biblical foreknowledge."
+    },
+    {
+      "timestamp": "00:12:33",
+      "claimEn": "The speaker claims that neither the description of the heavens as smoke nor as water vapour accurately reflects modern theories about the early universe.",
+      "claimAr": "يقول المتحدث إن وصف السماء بالدخان أو ببخار الماء لا يعكس بدقة أيًا من النظريات الحديثة عن الكون المبكر.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check cosmological descriptions of the primordial plasma and recombination era against the semantics of smoke and vapour."
+    },
+    {
+      "timestamp": "00:12:42",
+      "claimEn": "The speaker claims a more serious problem is that the Qur'an describes the earth as being formed first and only then God turning to the heavens in their state of dukhan, whereas the universe was no longer in that gaseous state by the time the earth formed 9 billion years later, so the passage matches no scientific model of the early universe.",
+      "claimAr": "يقول المتحدث إن المشكلة الأكبر أن القرآن يصف الأرض بأنها خُلقت أولًا ثم استوى الله إلى السماء وهي دخان، مع أن الكون لم يعد في تلك الحالة الغازية حين تكونت الأرض بعد تسعة مليارات سنة، فلا تطابق الآية أي نموذج علمي للكون المبكر.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 41:9-12 in sequence and check how commentators handle the order of creation there against Q 79:27-30."
+    },
+    {
+      "timestamp": "00:13:06",
+      "claimEn": "The speaker claims the same passage describes the creation of the earth in four days and the heavens in two days, which implies the earth took longer to form than the entire universe.",
+      "claimAr": "يقول المتحدث إن المقطع نفسه يصف خلق الأرض في أربعة أيام والسماوات في يومين، وهو ما يلزم منه أن الأرض استغرقت في تكوّنها وقتًا أطول من الكون كله.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the day-counts in Q 41:9-12 and how commentators reconcile them with the six-day statements elsewhere in the Qur'an."
+    },
+    {
+      "timestamp": "00:13:19",
+      "claimEn": "The speaker claims that if those who claim miracles had the courage of their convictions they would proclaim that the earth took longer to form than the universe, in opposition to modern scientific theories, rather than confining themselves to retrofitting verses after science has already made a discovery.",
+      "claimAr": "يقول المتحدث إن أصحاب دعاوى الإعجاز لو كانوا صادقي القناعة لأعلنوا أن الأرض استغرقت في تكوّنها وقتًا أطول من الكون خلافًا للنظريات العلمية الحديثة، بدل الاقتصار على تطويع الآيات بعد أن يكتشف العلم الشيء.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Rhetorical challenge; record as the speaker's characterisation of the concordist method as retrospective."
+    },
+    {
+      "timestamp": "00:13:37",
+      "claimEn": "The speaker claims the Pharaoh's body argument rests on the verse \"We will this day deliver you with your body that you may be a sign to those after you\", read as saying Pharaoh's body would be preserved for later generations to see.",
+      "claimAr": "يقول المتحدث إن دعوى جسد فرعون تقوم على آية \"فاليوم ننجيك ببدنك لتكون لمن خلفك آية\"، مقروءةً على أن جسد فرعون سيُحفظ ليراه من يأتي بعده.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-historical-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the verse (Q 10:92) and identify the apologetic works making the mummy-preservation argument."
+    },
+    {
+      "timestamp": "00:13:51",
+      "claimEn": "The speaker claims classical tafsirs instead say God commanded the sea to throw out Pharaoh's body as a sign for the Bani Isra'il of that time, because some of them doubted he was dead, and that it is Pharaoh's story that is a lesson for those who come after, just as other past events in the Qur'an are signs for later people.",
+      "claimAr": "يقول المتحدث إن التفاسير الكلاسيكية تقول بدلًا من ذلك إن الله أمر البحر أن يلفظ جسد فرعون آيةً لبني إسرائيل في ذلك الزمان، لأن بعضهم شكّ في موته، وإن قصة فرعون هي العبرة لمن يأتي بعد، كسائر ما ذكره القرآن من أحداث ماضية آياتٍ لمن بعدهم.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read al-Tabari, al-Qurtubi and Ibn Kathir on Q 10:92 and verify the reported reason (Israelite doubt about Pharaoh's death) and the meaning of liman khalfak."
+    },
+    {
+      "timestamp": "00:14:20",
+      "claimEn": "The speaker claims that even granting the reading that the body would be preserved for everyone in the future to see, there is nothing miraculous about it since it was already known that the bodies of Pharaohs were preserved through mummification.",
+      "claimAr": "يقول المتحدث إنه حتى لو سُلّم بأن المراد حفظ الجسد ليراه كل من يأتي لاحقًا، فلا إعجاز في ذلك، إذ كان معلومًا أصلًا أن أجساد الفراعنة تُحفظ بالتحنيط.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether knowledge of Egyptian mummification was current in late antique Arabia and the Near East."
+    },
+    {
+      "timestamp": "00:14:30",
+      "claimEn": "The speaker claims some Muslims identify the Pharaoh of Moses as Ramesses II and others as Merneptah, but that it makes no difference because both were preserved through the usual mummification process.",
+      "claimAr": "يقول المتحدث إن بعض المسلمين يعينون فرعون موسى برمسيس الثاني وبعضهم بمرنبتاح، وإن ذلك لا يغير شيئًا لأن كليهما حُفظ بعملية التحنيط المعتادة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Egyptological identification debate and the mummification status of both rulers."
+    },
+    {
+      "timestamp": "00:14:43",
+      "claimEn": "The speaker claims the presence of salt in the bodies does not prove they drowned at sea, because salt was one of the ingredients of the mummification process.",
+      "claimAr": "يقول المتحدث إن وجود الملح في الجثتين لا يثبت أنهما غرقتا في البحر، لأن الملح كان أحد مواد التحنيط.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the role of natron in Egyptian mummification and trace the origin of the salt-proves-drowning claim, often attributed to Maurice Bucaille."
+    },
+    {
+      "timestamp": "00:14:52",
+      "claimEn": "The speaker claims the still-circulating story that Pharaoh's body was found by the Red Sea is untrue, because Ramesses II and Merneptah were both buried in the Valley of the Kings and, like many other Pharaohs, their bodies were moved to the nearby Royal Cache due to grave robbing, where they were discovered in 1881 and 1898 respectively.",
+      "claimAr": "يقول المتحدث إن الرواية التي ما زالت تُتداول عن العثور على جسد فرعون عند البحر الأحمر غير صحيحة، لأن رمسيس الثاني ومرنبتاح دُفنا كلاهما في وادي الملوك، ونُقلت جثتاهما كغيرهما من الفراعنة إلى الخبيئة الملكية القريبة بسبب نهب القبور، وهناك اكتُشفتا سنة ١٨٨١ و١٨٩٨ على الترتيب.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the excavation records for the Deir el-Bahari royal cache (TT320) in 1881 and the KV35 cache in 1898, and the find contexts of both mummies."
+    },
+    {
+      "timestamp": "00:15:20",
+      "claimEn": "The speaker claims fresh and salt water do in fact mix, and that in an estuary they simply do not mix straight away because fresh water is less dense and floats on top of the heavier sea water that sinks down.",
+      "claimAr": "يقول المتحدث إن الماء العذب والمالح يمتزجان فعلًا، وإنهما في المصبات لا يمتزجان فورًا فحسب، لأن الماء العذب أقل كثافة فيطفو فوق ماء البحر الأثقل الذي يهبط.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check oceanographic descriptions of estuarine stratification and the halocline against the apologetic reading of Q 55:19-20 and 25:53."
+    },
+    {
+      "timestamp": "00:15:35",
+      "claimEn": "The speaker claims this is something humans can observe without divine help and was known before Islam, citing Aristotle as saying \"The drinkable, sweet water then is light, and all of it is drawn up. The salt water is heavy and remains behind.\"",
+      "claimAr": "يقول المتحدث إن هذا أمر يمكن للبشر ملاحظته دون عون إلهي وكان معروفًا قبل الإسلام، مستشهدًا بقول أرسطو: \"فالماء العذب الصالح للشرب خفيف ويُرفع كله، أما الماء المالح فثقيل ويبقى في مكانه\".",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the passage in Aristotle's Meteorologica book 2 and check the translation quoted."
+    },
+    {
+      "timestamp": "00:15:51",
+      "claimEn": "The speaker claims the argument that the Qur'an discovered the seven layers of the atmosphere fails, because the seven heavens cannot mean the earth's atmosphere, not least since the Qur'an says the stars are in the lowest heaven, and if stars were in our atmosphere we would be in serious trouble.",
+      "claimAr": "يقول المتحدث إن دعوى اكتشاف القرآن لطبقات الغلاف الجوي السبع ساقطة، لأن السماوات السبع لا يمكن أن تعني الغلاف الجوي للأرض، لا سيما أن القرآن يذكر أن النجوم في السماء الدنيا، ولو كانت النجوم في غلافنا الجوي لكنا في ورطة شديدة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the verses placing lamps or stars in the lowest heaven (Q 37:6, 41:12, 67:5) and how apologists reconcile them with the atmospheric-layers reading."
+    },
+    {
+      "timestamp": "00:16:10",
+      "claimEn": "The speaker claims these arguments are inconsistent in how they interpret words, since al-samawat is interpreted as the whole universe for the Big Bang claim but as merely sky or atmosphere for the seven-layers claim.",
+      "claimAr": "يقول المتحدث إن هذه الدعاوى متناقضة في تفسير الألفاظ، إذ تُفسَّر \"السماوات\" بالكون كله في دعوى الانفجار العظيم، ثم بمجرد السماء أو الغلاف الجوي في دعوى الطبقات السبع.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the two apologetic arguments in their published forms to confirm the shift in the meaning assigned to al-samawat."
+    },
+    {
+      "timestamp": "00:16:27",
+      "claimEn": "The speaker claims he could go on because there are so many miracle claims, with new ones popping up or morphing as flaws are pointed out.",
+      "claimAr": "يقول المتحدث إن بوسعه الاسترسال لكثرة دعاوى الإعجاز، إذ تظهر دعاوى جديدة أو تتبدل القديمة كلما أُشير إلى عيوبها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey the growth of the i'jaz 'ilmi corpus over time to assess whether claims proliferate and mutate as described."
+    },
+    {
+      "timestamp": "00:16:38",
+      "claimEn": "The speaker claims the practice of using scientific discoveries to prove the Qur'an is a recent phenomenon, and that the great Muslim scientists of the Islamic Golden Age, who themselves made significant discoveries, never made such claims about the Qur'an.",
+      "claimAr": "يقول المتحدث إن استخدام الاكتشافات العلمية لإثبات القرآن ظاهرة حديثة، وإن كبار علماء المسلمين في العصر الذهبي الذين حققوا اكتشافات مهمة لم يدّعوا قط شيئًا من هذا عن القرآن.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the history of i'jaz literature and whether medieval figures such as al-Ghazali or al-Suyuti made proto-concordist claims, which would qualify the \"never\" here."
+    },
+    {
+      "timestamp": "00:16:50",
+      "claimEn": "The speaker claims the phenomenon can in part be traced back to a 1975 book called The Bible, The Qur'an and Science by Maurice Bucaille, a physician to King Faisal of Saudi Arabia, and that it has led to a phenomenon many refer to as Bucailleism.",
+      "claimAr": "يقول المتحدث إن الظاهرة يمكن ردّ جزء منها إلى كتاب صدر سنة ١٩٧٥ بعنوان \"التوراة والإنجيل والقرآن والعلم\" لموريس بوكاي طبيب الملك فيصل ملك السعودية، وإنها أفضت إلى ما يسميه كثيرون \"البوكايلية\".",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the publication date and title of Bucaille's book, his relationship to the Saudi royal family, and the coinage of \"Bucailleism\" in academic literature."
+    },
+    {
+      "timestamp": "00:17:03",
+      "claimEn": "The speaker claims that in 1984 the Saudi Muslim World League set up the Commission on Scientific Signs in the Quran and Sunnah with Sheikh Abdul Majeed al-Zindani at its head.",
+      "claimAr": "يقول المتحدث إن رابطة العالم الإسلامي السعودية أنشأت سنة ١٩٨٤ الهيئة العالمية للإعجاز العلمي في القرآن والسنة برئاسة الشيخ عبد المجيد الزنداني.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the commission's founding date, its official name, and al-Zindani's role at its head."
+    },
+    {
+      "timestamp": "00:17:13",
+      "claimEn": "The speaker claims the commission organised several international conferences to which scientists from various fields were invited, ostensibly to help spread science in Muslim countries, but that many of these scientists found themselves being presented with quotes from the Qur'an and asked to comment.",
+      "claimAr": "يقول المتحدث إن الهيئة نظّمت عدة مؤتمرات دولية دُعي إليها علماء من تخصصات مختلفة بدعوى المساعدة على نشر العلم في البلدان الإسلامية، لكن كثيرًا منهم وجدوا أنفسهم يُعرض عليهم نصوص من القرآن ويُطلب منهم التعليق.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the proceedings of the commission's conferences and the published accounts by the participating scientists."
+    },
+    {
+      "timestamp": "00:17:28",
+      "claimEn": "The speaker claims the scientists had to rely on their hosts' promises to be completely neutral, but their responses were then edited and used in dawah videos and publications.",
+      "claimAr": "يقول المتحدث إن العلماء اضطروا إلى الاعتماد على وعود مضيفيهم بالحياد التام، ثم جرى تحرير إجاباتهم واستخدامها في مقاطع دعوية ومنشورات.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare raw and edited footage where available and check the scientists' own published statements about the editing."
+    },
+    {
+      "timestamp": "00:17:38",
+      "claimEn": "The speaker claims the commission set in motion a trend that has dominated the popular imagination of Muslims ever since, but that it was a very dishonest and misleading process from which many of these scientists have since distanced themselves.",
+      "claimAr": "يقول المتحدث إن الهيئة أطلقت اتجاهًا هيمن على المخيلة الشعبية عند المسلمين منذ ذلك الحين، لكنه كان مسارًا بالغ التضليل وعدم الأمانة، وقد تبرأ منه لاحقًا كثير من أولئك العلماء.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Collect the retractions and clarifications issued by the named scientists and assess how widespread the disavowals are."
+    },
+    {
+      "timestamp": "00:17:52",
+      "claimEn": "The speaker claims William Hay complained of having \"fallen into a trap\" of interviews.",
+      "claimAr": "يقول المتحدث إن ويليام هاي اشتكى من أنه \"وقع في فخ\" المقابلات.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate William Hay's statement and its original context and date."
+    },
+    {
+      "timestamp": "00:17:58",
+      "claimEn": "The speaker claims the embryologist Gerald Goeringer complained of \"manipulation\".",
+      "claimAr": "يقول المتحدث إن عالم الأجنة جيرالد جورينجر اشتكى من \"التلاعب\".",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate Goeringer's statement, noting that he is elsewhere cited as a co-author of i'jaz material, and check the chronology."
+    },
+    {
+      "timestamp": "00:18:02",
+      "claimEn": "The speaker claims the geologist Professor Alfred Kröner has a standard email reply clarifying the out-of-context remarks of his that were used by Muslim apologists.",
+      "claimAr": "يقول المتحدث إن أستاذ الجيولوجيا ألفريد كرونر لديه رد بريدي جاهز يوضح فيه ملاحظاته التي اقتُطعت من سياقها واستخدمها مدافعون مسلمون.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the text of Kröner's standard reply and confirm its authenticity and circulation."
+    },
+    {
+      "timestamp": "00:18:13",
+      "claimEn": "The speaker claims that even Keith Moore, constantly quoted by apologists on embryology, lacked enough conviction in the miracle claims promoted by al-Zindani to include them in his book The Developing Human, except as footnotes in a special edition subtitled With Islamic Additions sold in Islamic countries.",
+      "claimAr": "يقول المتحدث إن كيث مور نفسه، الذي يكثر المدافعون من الاستشهاد به في علم الأجنة، لم يكن مقتنعًا بدعاوى الإعجاز التي روّج لها الزنداني بما يكفي لإدراجها في كتابه \"الإنسان النامي\"، إلا في صورة حواشٍ في طبعة خاصة عنوانها الفرعي \"مع إضافات إسلامية\" تُباع في البلدان الإسلامية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-embryology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the standard editions of Moore's The Developing Human with the edition titled With Islamic Additions and check where the i'jaz material appears."
+    },
+    {
+      "timestamp": "00:18:34",
+      "claimEn": "The speaker claims there are several interviews with some of these scientists conducted by The Rationalizer, available on his YouTube channel.",
+      "claimAr": "يقول المتحدث إن هناك عدة مقابلات مع بعض هؤلاء العلماء أجراها \"ذا راشنالايزر\" ومتاحة على قناته على يوتيوب.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate The Rationalizer's channel and the interviews, and note that these are themselves discovery inputs rather than evidence."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:01:04",
+      "asStatedInVideo": "compare these Quranic statements to those of Galen 500 years before Muhammad",
+      "author": "Galen",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:45",
+      "asStatedInVideo": "This is exactly what the Quran says Chapter, Chapter 23",
+      "locator": "23 (sura number only; verse not stated — commonly Q 23:14)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:31",
+      "asStatedInVideo": "This was pointed out to Adnan Rashid when he cornered PZ Myers outside a conference in Dublin",
+      "author": "Adnan Rashid",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:31",
+      "asStatedInVideo": "when he cornered PZ Myers outside a conference in Dublin",
+      "author": "PZ Myers",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:31",
+      "asStatedInVideo": "outside a conference in Dublin",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:01:56",
+      "asStatedInVideo": "What he said on the page number 364A of his book, The Human Embryo, that in the seventh week the bones are formed",
+      "workTitle": "The Human Embryo",
+      "author": "Keith Moore",
+      "locator": "p. 364A",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:56",
+      "asStatedInVideo": "Let me tell you what Keith Moore said... He's an embryologist",
+      "author": "Keith Moore",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:00",
+      "asStatedInVideo": "\"Let man consider from what he is created. He is created from gushing fluid that issues from between the backbone and ribs.\"",
+      "locator": "no sura:aya given in video (wording matches Q 86:5-7)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:03:44",
+      "asStatedInVideo": "that's what some classical tafsirs said. For example, al-Qurtubi says, \"The fluid is semen. It comes down from the brain and passes between the backbone and ribs.\"",
+      "workTitle": "Tafsir al-Qurtubi",
+      "author": "al-Qurtubi",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:49",
+      "asStatedInVideo": "Qatadah said, \"It means the backbone of the man and the ribs of the woman.\"",
+      "author": "Qatadah",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:53",
+      "asStatedInVideo": "While al-Hasan said, \"It means the backbone and ribs of the man, and the backbone and ribs of the woman, for as we know the nutfah comes from all parts of the body.\"",
+      "author": "al-Hasan",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:38",
+      "asStatedInVideo": "\"Do they not see the heavens and the earth were one entity and we separated them?\"",
+      "locator": "no sura:aya given in video (wording matches Q 21:30)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:44",
+      "asStatedInVideo": "The Sumerian \"Song of the Hoe\" said, \"Did he hasten to separate heaven from earth, and hasten to separate earth from heaven?\"",
+      "workTitle": "Song of the Hoe",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:57",
+      "asStatedInVideo": "The Babylonian myth of Enuma Elish says, \"When the heavens had been separated from the earth...\"",
+      "workTitle": "Enuma Elish",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:03",
+      "asStatedInVideo": "In the Chinese creation myth, Pangu separated earth from sky, pushing the sky upward",
+      "author": "Pangu",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:10",
+      "asStatedInVideo": "In ancient Egyptian mythology, Geb, representing earth, and Nut, representing heaven, were separated on the orders of the god Ra",
+      "author": "Geb, Nut and Ra",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:47",
+      "asStatedInVideo": "\"We made from water every living thing.\"",
+      "locator": "no sura:aya given in video (wording matches Q 21:30)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:58",
+      "asStatedInVideo": "The book of Genesis... says, \"And God said, 'Let the waters bring forth abundantly the moving creature that hath life and fowl that may fly above the earth.'\"",
+      "workTitle": "Genesis",
+      "locator": "chapter and verse not stated (wording matches Genesis 1:20, KJV)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:13",
+      "asStatedInVideo": "The ancient Greek philosopher Thales said water was the nature of all things",
+      "author": "Thales",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:18",
+      "asStatedInVideo": "And Anaximander put forward the astonishingly farsighted view that life started from warm water and earth and emerged from fish-like creatures from the sea",
+      "author": "Anaximander",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:31",
+      "asStatedInVideo": "\"We sent down iron.\"",
+      "locator": "no sura:aya given in video (wording matches Q 57:25)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:06:46",
+      "asStatedInVideo": "3,000 years before Islam, the ancient Egyptians called iron \"the metal of heaven\"",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:00",
+      "asStatedInVideo": "the Quran also says, \"O children of Adam, we sent down clothing for you\"",
+      "locator": "no sura:aya given in video (wording matches Q 7:26)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:28",
+      "asStatedInVideo": "And \"inna la-musi'un\" is similar to \"inna la-qadirun\", \"verily, we are well able\"",
+      "locator": "no sura:aya given in video (phrase occurs at Q 51:47)",
+      "quotedArabic": "وَإِنَّا لَمُوسِعُونَ",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:40",
+      "asStatedInVideo": "in the only other instance of the word \"musi'un\", it says \"ala al-musi'i qadaruhu\", \"the one with abundant means according to his capability\"",
+      "locator": "no sura:aya given in video (phrase occurs at Q 2:236)",
+      "quotedArabic": "عَلَى الْمُوسِعِ قَدَرُهُ",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:28",
+      "asStatedInVideo": "Classical tafsirs say it means \"dhu si'ah\", possessing abundant ability",
+      "workTitle": "unnamed classical tafsirs",
+      "quotedArabic": "ذُو سَعَةٍ",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:37",
+      "asStatedInVideo": "\"We set on the earth mountains standing firm lest it should shake with them.\"",
+      "locator": "no sura:aya given in video (wording matches Q 21:31, cf. 16:15)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:08",
+      "asStatedInVideo": "in Canaanite mythology, there were twin mountains, Targhizizi and Tharumagi, which held up the firmament and bound the earth together",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:18",
+      "asStatedInVideo": "The Old Testament describes mountains as pillars of the earth, and says, \"I set firm its pillars,\" and \"for the pillars of the earth are the Lord's, and he has set the world upon them.\"",
+      "workTitle": "Old Testament",
+      "locator": "chapter and verse not stated (wording resembles Psalm 75:3 and 1 Samuel 2:8)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:46",
+      "asStatedInVideo": "Tabari in his tafsir says, \"so that it doesn't overturn on people, so they can live securely on its surface.\"",
+      "workTitle": "Tafsir al-Tabari",
+      "author": "al-Tabari",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:59",
+      "asStatedInVideo": "In the 20-year period between 1994 and 2013, 3/4 of a million men, women, and children were killed by earthquakes",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:01",
+      "asStatedInVideo": "Aristotle referred to those who believed the earth had roots",
+      "author": "Aristotle",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:12",
+      "asStatedInVideo": "the Old Testament refers to roots of mountains. \"People assail the flinty rock with their hands and lay bare the roots of mountains.\" \"To the roots of mountains I sank down.\"",
+      "workTitle": "Old Testament",
+      "locator": "chapter and verse not stated (wording resembles Job 28:9 and Jonah 2:6)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:24",
+      "asStatedInVideo": "\"Then he turned to the heavens when it was smoke.\"",
+      "locator": "no sura:aya given in video (wording matches Q 41:11)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:31",
+      "asStatedInVideo": "Ibn Kathir in his tafsir says, \"Thumma istawa ila al-sama'i wa-hiya dukhan wa-huwa bukhar al-ma'\" \"Then he turned to the heavens when it was dukhan, which is water vapour.\"",
+      "workTitle": "Tafsir Ibn Kathir",
+      "author": "Ibn Kathir",
+      "quotedArabic": "ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ، وَهُوَ بُخَارُ الْمَاءِ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:11",
+      "asStatedInVideo": "The verse could just as easily echo the creation story in Genesis, which describes the heavens as water, which biblical commentators say means water vapour",
+      "workTitle": "Genesis",
+      "locator": "chapter and verse not stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:06",
+      "asStatedInVideo": "this same passage describes the creation of the earth in four days and the heavens in two days",
+      "locator": "no sura:aya given in video (matches Q 41:9-12)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:38",
+      "asStatedInVideo": "\"We will this day deliver you with your body that you may be a sign to those after you.\"",
+      "locator": "no sura:aya given in video (wording matches Q 10:92)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:30",
+      "asStatedInVideo": "Some Muslims identify the Pharaoh of Moses as Ramesses II, while others as Merneptah",
+      "author": "Ramesses II",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:30",
+      "asStatedInVideo": "Some Muslims identify the Pharaoh of Moses as Ramesses II, while others as Merneptah",
+      "author": "Merneptah",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:15:05",
+      "asStatedInVideo": "Ramesses II and Merneptah were both buried in the Valley of the Kings... their bodies were moved to the nearby Royal Cache due to grave robbing. And this is where they were discovered in 1881 and 1898, respectively.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:40",
+      "asStatedInVideo": "Aristotle says, \"The drinkable, sweet water then is light, and all of it is drawn up. The salt water is heavy and remains behind.\"",
+      "author": "Aristotle",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:56",
+      "asStatedInVideo": "the Quran says the stars are in the lowest heaven",
+      "locator": "no sura:aya given in video (cf. Q 37:6, 41:12, 67:5)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:16:50",
+      "asStatedInVideo": "it can be traced back to 1975 in a book called The Bible, The Qur'an and Science by Maurice Bucaille",
+      "workTitle": "The Bible, The Qur'an and Science",
+      "author": "Maurice Bucaille",
+      "locator": "published 1975",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:58",
+      "asStatedInVideo": "a physician to King Faisal of Saudi Arabia",
+      "author": "King Faisal of Saudi Arabia",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:17:03",
+      "asStatedInVideo": "In 1984, the Saudi Muslim World League set up Commission on Scientific Signs in the Quran and Sunnah",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:10",
+      "asStatedInVideo": "with Sheikh Abdul Majeed al-Zindani at its head",
+      "author": "Abdul Majeed al-Zindani",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:52",
+      "asStatedInVideo": "William Hay complained of having \"fallen into a trap\" of interviews",
+      "author": "William Hay",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:58",
+      "asStatedInVideo": "the embryologist Gerald Goeringer complained of \"manipulation\"",
+      "author": "Gerald Goeringer",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:02",
+      "asStatedInVideo": "Geologist Professor Alfred Kröner has a standard email reply clarifying his out-of-context remarks",
+      "author": "Alfred Kröner",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:22",
+      "asStatedInVideo": "to omit them from his book The Developing Human, apart from as footnotes in a special edition subtitled With Islamic Additions for sale in Islamic countries",
+      "workTitle": "The Developing Human (special edition: With Islamic Additions)",
+      "author": "Keith Moore",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:34",
+      "asStatedInVideo": "There are several interviews with some of these scientists conducted by The Rationalizer, available on his YouTube channel",
+      "author": "The Rationalizer",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "scientific-miracles-apologetics-movement",
+      "titleEn": "The scientific-miracles apologetics movement",
+      "titleAr": "حركة الإعجاز العلمي الدعوية",
+      "descriptionEn": "The modern history, institutions, publications and personnel of the i'jaz 'ilmi movement: Bucaille and Bucailleism, the Muslim World League commission, da'wah use of scientists' testimony, and the responses of those scientists.",
+      "descriptionAr": "التاريخ الحديث لحركة الإعجاز العلمي ومؤسساتها ومطبوعاتها ورجالها: بوكاي والبوكايلية، وهيئة رابطة العالم الإسلامي، واستخدام شهادات العلماء في الدعوة، وردود أولئك العلماء.",
+      "suggestedParentId": "quran-scientific-claims",
+      "closestExistingId": "quran-scientific-claims",
+      "rationale": "Roughly a quarter of this video is about who built the scientific-miracles industry and how, rather than about any verse. The existing quran-scientific-claims topic covers claims about nature examined through text; it has no room for the institutional and biographical material (Bucaille, the 1984 commission, al-Zindani, Hay, Goeringer, Kröner, Moore's Islamic-additions edition). Other videos on da'wah methodology and on individual apologists would fall here too."
+    },
+    {
+      "proposedId": "quran-scientific-claims-embryology",
+      "titleEn": "Embryology claims",
+      "titleAr": "دعاوى علم الأجنة",
+      "descriptionEn": "Claims about conception, semen, the ovum, stages of fetal development and the bones-then-flesh sequence, together with their Greek and late antique medical antecedents.",
+      "descriptionAr": "الدعاوى المتعلقة بالإخصاب والمني والبويضة ومراحل تطور الجنين وتسلسل \"العظام ثم اللحم\"، مع سوابقها الطبية اليونانية والمتأخرة القديمة.",
+      "suggestedParentId": "quran-scientific-claims",
+      "closestExistingId": "quran-scientific-claims",
+      "rationale": "Embryology is the single largest and most frequently recurring cluster within the scientific-miracle debate, and it has its own literature (Galen, Keith Moore, Q 23:12-14, Q 86:5-7). Filing it flat under quran-scientific-claims would put it alongside cosmology and geology with no way to gather the many videos that treat only this cluster."
+    },
+    {
+      "proposedId": "quran-scientific-claims-cosmology-and-creation",
+      "titleEn": "Cosmology and creation claims",
+      "titleAr": "دعاوى الكون والخلق",
+      "descriptionEn": "Claims concerning the Big Bang, the separation of heaven and earth, the expanding universe, the heavens as smoke or vapour, the seven heavens, and the sequence and duration of creation.",
+      "descriptionAr": "الدعاوى المتعلقة بالانفجار العظيم، وفصل السماء عن الأرض، وتوسع الكون، والسماء دخانًا أو بخارًا، والسماوات السبع، وترتيب الخلق ومدده.",
+      "suggestedParentId": "quran-scientific-claims",
+      "closestExistingId": "quran-scientific-claims",
+      "rationale": "The video returns to cosmological verses in five separate segments (Big Bang, expanding universe, smoke, days of creation, seven heavens) and the arguments cross-reference one another, notably over the meaning of al-samawat. This is a durable subject area that other videos treat on its own."
+    },
+    {
+      "proposedId": "earlier-religious-parallels-ancient-near-eastern-cosmogony",
+      "titleEn": "Ancient Near Eastern and other creation myths",
+      "titleAr": "أساطير الخلق في الشرق الأدنى القديم وغيره",
+      "descriptionEn": "Parallels between Qur'anic cosmological and creation statements and Sumerian, Babylonian, Ugaritic, Egyptian and other pre-Islamic mythological literature.",
+      "descriptionAr": "أوجه التوازي بين العبارات القرآنية عن الكون والخلق وبين الأدب الأسطوري السومري والبابلي والأوغاريتي والمصري وغيره مما سبق الإسلام.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The existing children of earlier-religious-parallels cover Christian, Jewish-rabbinic, Syriac and Zoroastrian material only. The Sumerian Song of the Hoe, Enuma Elish, the Ugaritic twin mountains, Geb and Nut, and Pangu have no home there, and forcing them under the bare parent would lose a distinct and recurring body of comparative material."
+    }
+  ]
+}

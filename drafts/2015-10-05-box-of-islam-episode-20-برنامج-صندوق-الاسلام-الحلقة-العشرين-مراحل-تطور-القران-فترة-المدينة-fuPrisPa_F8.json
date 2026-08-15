@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fuPrisPa_F8",
+  "videoUrl": "https://www.youtube.com/watch?v=fuPrisPa_F8",
+  "videoTitle": "Box of Islam Episode 20 برنامج صندوق الإسلام - الحلقة العشرين - مراحل تطور القرآن / فترة المدينة",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151005",
+  "extractedAt": "2026-08-12T14:03:08+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In this episode, Brother Rachid continues his psychological and source-critical examination of the Quran during its transition from late Meccan to Medinan periods. He argues that the Meccan Quran reflects psychological distress and auditory/visual hallucinations following personal losses (such as the deaths of Khadijah and Abu Talib), giving rise to miraculous narratives like Surat al-Jinn and Surat al-Isra. He asserts that the Quran consistently reflects human reaction to immediate circumstances rather than divine revelation, pointing out that Medinan passages introduced new terms like 'Muhammad' and 'Nabi' alongside shifting political stances toward Jews and Christians. Finally, he argues that the Quranic text includes contributions from contemporaries (such as 'Abd Allah ibn Abi Sarh) and concludes that holding Muhammad as an absolute moral authority blocks modern human progress and ethical development.",
+  "summaryAr": "في هذه الحلقة، يستكمل الأخ رشيد تحليله النفسي والنقدي لمصادر النص القرآني خلال مرحلة الانتقال من أواخر الفترة المكية إلى الفترة المدنية. ويزعم أن القرآن المكي يعكس أزمة نفسية وهلاوس سمعية وبصرية لحقت بالمؤلف بعد خسارات شخصية (كموت خديجة وأبي طالب)، مما أدى لظهور سور مثل «الجن» و«الإسراء». كما يدعي أن القرآن عبارة عن ردود أفعال بشرية للمواقف المباشرة وليس وحياً إلهياً، مشيراً إلى ظهور ألفاظ جديدة في المدينة مثل «محمد» و«نبي» بالتوازي مع تغير السياسات تجاه اليهود والنصارى. وأخيراً، يتهم النص القرآني بأنه يستوعب مدخلات من معاصرين (مثل عبد الله بن أبي السرح)، مخلصاً إلى أن إبقاء محمد كمرجعية مطلقة يعوق التقدم الإنساني والتطور الأخلاقي المعاصر.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:30",
+      "stepEn": "Recap of the shift in the Meccan Quran's tone from gentle persuasion to apocalyptic threats, stories of destroyed prophets, and attempts to appease the Quraysh.",
+      "stepAr": "استعراض تطور لغة القرآن في مكة من التهديد بنهاية العالم وقصص الأنبياء إلى محاولة التقرب لقريش."
+    },
+    {
+      "timestamp": "00:02:11",
+      "stepEn": "Argues that personal grief from Khadijah's and Abu Talib's deaths led to psychological distress and hallucinations, resulting in Surat al-Jinn and the Isra and Mi'raj narrative.",
+      "stepAr": "الادعاء بأن الحزن على موت خديجة وأبي طالب أدى إلى هلاوس سمعية وبصرية نتج عنها سورة الجن وقصة الإسراء والمعراج."
+    },
+    {
+      "timestamp": "00:04:06",
+      "stepEn": "Claims the Mi'raj story was borrowed from earlier religious myths like the Enoch traditions and Jacob's ladder.",
+      "stepAr": "القول بأن قصة المعراج اقتبست من أساطير دينية أقدم مثل أساطير أخنوخ وسلم يعقوب."
+    },
+    {
+      "timestamp": "00:05:47",
+      "stepEn": "Highlights text-internal tensions in Surat al-Isra, where the Quraysh demand visible miracles or a readable book, which Muhammad refuses by stating he is only a human messenger.",
+      "stepAr": "إبراز التناقضات الداخلية في سورة الإسراء حيث طالبت قريش بمعجزات أو كتاب يُقرأ، وكان الرد بأنه مجرد بشر رسول."
+    },
+    {
+      "timestamp": "00:07:07",
+      "stepEn": "Examines Surat ar-Ra'd to show how the text deflects demands for personal miracles by pointing to general natural phenomena, incorporating scientifically inaccurate cosmological views.",
+      "stepAr": "فحص سورة الرعد لتبيان دفاع النص بالاستدلال بالظواهر الطبيعية مع تضمنه مفاهيم علمية غير صحيحة عن السماء."
+    },
+    {
+      "timestamp": "00:10:37",
+      "stepEn": "Traces the shift in Medina where the Quran's focus moved to political maneuvering with Jews, Christians, and internal dissenters.",
+      "stepAr": "تتبع التحول في المدينة حيث انتقل تركيز القرآن إلى السياسة والدبلوماسية مع اليهود والنصارى والداخل."
+    },
+    {
+      "timestamp": "00:11:58",
+      "stepEn": "Discusses the origins of the name 'Muhammad' in Medinan texts, presenting theories linking it to Syriac translations of 'Paraclete' or Hebrew texts.",
+      "stepAr": "مناقشة أصل ظهور اسم «محمد» في النصوص المدنية وربطه بنظريات الترجمة السريانية للبارقليط أو أصول عبرية."
+    },
+    {
+      "timestamp": "00:16:42",
+      "stepEn": "Argues that Muslim followers actively shaped Quranic content through their queries and spontaneous contributions, citing the case of 'Abd Allah ibn Abi Sarh.",
+      "stepAr": "الادعاء بأن المؤمنين أنفسهم شاركوا في صياغة القرآن من خلال أسئلتهم واقتراحاتهم، مستشهداً بقصة عبد الله بن أبي السرح."
+    },
+    {
+      "timestamp": "00:18:07",
+      "stepEn": "Critiques Quranic social legislation regarding adoption, slavery, and women, arguing that naming a surah 'Surat al-Nisa' is not evidence of honoring women.",
+      "stepAr": "نقد التشريعات الاجتماعية في القرآن حول التبني وملك اليمين والمرأة، ومناقشة أن تسمية سورة النساء لا تعد تكريماً للمرأة."
+    },
+    {
+      "timestamp": "00:19:45",
+      "stepEn": "Concludes that Muhammad's historical persona and teachings stand as an obstacle between Muslims and modern humanistic ethics.",
+      "stepAr": "الخلص إلى أن شخصية محمد التعاليمية والتاريخية تقف عائقاً بين المسلمين والأخلاق الإنسانية الحديثة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:02:57",
+      "claimEn": "Surat al-Jinn and Surat al-Isra were produced as a result of psychological auditory and visual hallucinations following Muhammad's intense grief and isolation after the deaths of Khadijah and Abu Talib.",
+      "claimAr": "سورة الجن وسورة الإسراء نتجتا عن هلاوس سمعية وبصرية بسبب الحزن الشديد والعزلة بعد وفاة خديجة وأبي طالب.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "sirah"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check biographical reports on the timing of Khadijah's death and the revelation dates of Surat al-Jinn and Surat al-Isra, alongside modern psychological assessments of hallucinatory claims."
+    },
+    {
+      "timestamp": "00:04:06",
+      "claimEn": "The story of the Ascension (Mi'raj) to heaven was borrowed from earlier myths, specifically the Book of Enoch and Jacob's ladder in the Old Testament.",
+      "claimAr": "قصة المعراج إلى السماء مأخوذة من أساطير سابقة، خاصة قصة أخنوخ وسلم يعقوب في العهد القديم.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-historical-claims"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the Quranic and Hadith accounts of Mi'raj with 1 Enoch / 2 Enoch and Genesis 28:10-19 (Jacob's Ladder) in Jewish pseudepigrapha and biblical studies."
+    },
+    {
+      "timestamp": "00:06:36",
+      "claimEn": "By the 10th year of Muhammad's mission, no written Quranic book existed that could be presented to the Quraysh, as indicated by Surat al-Isra verse 93.",
+      "claimAr": "حتى السنة العاشرة من البعثة لم يكن هناك كتاب قرآني مكتوب يمكن تقديمه لقريش، كما تشير آية 93 من سورة الإسراء.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine Surat al-Isra (17:93) and early classical tafsir commentaries on the Quraysh's demand for a written book and Muhammad's response."
+    },
+    {
+      "timestamp": "00:07:42",
+      "claimEn": "The Quranic concept of the sky being raised without pillars reflects an obsolete cosmology, because scientifically the sky is merely atmospheric light reflection rather than a solid structure.",
+      "claimAr": "المفهوم القرآني برفع السماء بغير عمد يعكس علم كونيات قديم، لأن السماء علمياً ليست بنية صلبة بل هي انعكاس للضوء في الأثير.",
+      "claimType": "theological",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine Surat ar-Ra'd (13:2) and evaluate classical tafsir explanations regarding physical versus invisible pillars against atmospheric science."
+    },
+    {
+      "timestamp": "00:11:24",
+      "claimEn": "Muhammad expelled the Jewish tribe of Banu Qaynuqa' after the Battle of Badr primarily to seize their homes and property for the Muhajirun and vagabonds (S'alika).",
+      "claimAr": "طرد محمد يهود بني قينقاع بعد غزوة بدر كان أساساً للاستيلاء على ديارهم وأموالهم للصعاليك والمهاجرين.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check primary sirah texts (Ibn Hisham, al-Waqidi, al-Tabari) regarding the cause and economic consequences of the expulsion of Banu Qaynuqa'."
+    },
+    {
+      "timestamp": "00:11:58",
+      "claimEn": "The name 'Muhammad' never appears in any Meccan Quranic verses; all four occurrences of the name 'Muhammad' in the Quran belong to Medinan revelations.",
+      "claimAr": "اسم «محمد» لم يذكر في أي آية مكية، وجميع المرات الأربع التي ورد فيها الاسم هي في سور مدنية.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the textual locations of the four occurrences of the name 'Muhammad' in the Quran (3:144, 33:40, 47:2, 48:29) and confirm their Medinan classification."
+    },
+    {
+      "timestamp": "00:12:47",
+      "claimEn": "Muhammad's actual original name was Qutham ibn 'Abd Allah (or Qutham ibn 'Abd al-Muttalib), according to historical researchers such as Hichem Djaït.",
+      "claimAr": "اسم محمد الحقيقي الأصلي كان قثم بن عبد الله (أو قثم بن عبد المطلب)، حسب باحثين مثل الدكتور هشام جعيط.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult historical studies by Hichem Djaït and classical biographical works (e.g., Ibn Sa'd's al-Tabaqat al-Kubra) for references to the name Qutham."
+    },
+    {
+      "timestamp": "00:14:12",
+      "claimEn": "The name 'Muhammad' originated as a title derived from the Syriac translation 'Muhammadana' or 'Paracletos' in John 14:16, as well as the Hebrew word 'Mahmaddim' in the Old Testament.",
+      "claimAr": "لقب «محمد» نشأ كمصطلح مشتق من الترجمة السريانية «محمدانا» لـ «بارقليط» في إنجيل يوحنا 14: 16، ومن الكلمة العبرية «محماديم» في العهد القديم.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Cross-reference John 14:16 in Greek/Syriac Peshitta, Song of Solomon 5:16 ('Mahmaddim'), and modern scholarly theories regarding the linguistic origins of the name Muhammad."
+    },
+    {
+      "timestamp": "00:17:25",
+      "claimEn": "'Abd Allah ibn Abi Sarh suggested the phrase 'Fatabarak Allahu ahsan al-khaliqin' during scribal dictation, and Muhammad incorporated it directly into the Quranic verse.",
+      "claimAr": "عبد الله بن أبي السرح اقترح عبارة «فتبارك الله أحسن الخالقين» أثناء كتابة الوحي، فأدخلها محمد مباشرة في الآية القرآنية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check classical asbab al-nuzul and sirah sources (al-Wahidi, Ibn al-Athir, al-Tabari) for reports regarding 'Abd Allah ibn Abi Sarh and Surat al-Mu'minun verse 14."
+    },
+    {
+      "timestamp": "00:19:17",
+      "claimEn": "Naming a Quranic chapter 'Surat al-Nisa' does not imply honoring women, just as naming chapters after the Cow, Ant, or Spider does not honor those creatures.",
+      "claimAr": "تسمية سورة في القرآن باسم «سورة النساء» لا تعني تكريم المرأة، تماماً كما أن تسمية سور بالبقرة أو النمل أو العنكبوت لا تعني تكريم تلك الكائنات.",
+      "claimType": "ethical",
+      "existingTopicIds": [
+        "women"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the rhetorical comparison regarding Quranic chapter titles and their thematic contents regarding women's legal status."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:30",
+      "asStatedInVideo": "سورة الإسراء: سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى...",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "17:1",
+      "quotedArabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:03",
+      "asStatedInVideo": "سورة الإسراء: أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا...",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "17:92-93",
+      "quotedArabic": "أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِيَ بِاللَّهِ وَالْمَلَائِكَةِ قَبِيلًا أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرَقَىٰ فِي السَّمَاءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:42",
+      "asStatedInVideo": "سورة الرعد: اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا...",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "13:2-4",
+      "quotedArabic": "اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى ۚ مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا ۖ وَمِن كُلِّ الثَّمَرَاتِ يُغْشِي اللَّيْلَ النَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:30",
+      "asStatedInVideo": "سورة الرعد: هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا...",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "13:12-13",
+      "quotedArabic": "هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ وَيُرْسِلُ الصَّوَاعِقَ فَيُصِيبُ بِهَا مَن يَشَاءُ وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:54",
+      "asStatedInVideo": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ...",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "2:62",
+      "quotedArabic": "إِنَّ الَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:12",
+      "asStatedInVideo": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "29:46",
+      "quotedArabic": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:01",
+      "asStatedInVideo": "الدكتور هشام جعيط من تونس",
+      "workTitle": "",
+      "author": "Hichem Djaït",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:14:00",
+      "asStatedInVideo": "إنجيل يوحنا 14: 16",
+      "workTitle": "Gospel of John",
+      "author": "John",
+      "locator": "14:16",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:14:56",
+      "asStatedInVideo": "نشيد الإنشاد في أحد المزامير ... محماديم",
+      "workTitle": "Song of Songs / Hebrew Bible",
+      "author": "",
+      "locator": "Song of Songs 5:16",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:28",
+      "asStatedInVideo": "قسيسين ورهبانا وأنهم لا يستكبرون ... لقد كفر الذين قالوا إن الله ثالث ثلاثة",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "5:82, 5:73",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:42",
+      "asStatedInVideo": "يسألونك عن الخمر ... لا تقربوا الصلاة وأنتم سكارى ... فهل أنتم منتهون",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "2:219, 4:43, 5:91",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:25",
+      "asStatedInVideo": "فكسونا النطفة علقة فجعلنا العظام فكسونا العظام لحماً ثم أنشأناه خلقاً أخر ... فتبارك الله أحسن الخالقين",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "23:14",
+      "quotedArabic": "فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:25",
+      "asStatedInVideo": "عبد الله بن أبي السرح",
+      "workTitle": "",
+      "author": "'Abd Allah ibn Abi Sarh",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": []
+}

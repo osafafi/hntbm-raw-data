@@ -1,0 +1,490 @@
+{
+  "schemaVersion": 1,
+  "videoId": "N-ot55_jJ2w",
+  "videoUrl": "https://www.youtube.com/watch?v=N-ot55_jJ2w",
+  "videoTitle": "Box of islam 29 برنامج صندوق الإسلام 29 عن الأحرف السبعة والقراءات المختلفة للقرآن",
+  "creator": "Hamed.TV",
+  "uploadDate": "20151214",
+  "extractedAt": "2026-08-12T16:04:04+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "In Box of Islam episode 29, host Hamed Abdel-Samad and guest Mehdi Al-Masih discuss the seven ahruf (modes/letters) and the canonical and non-canonical qira'at (readings) of the Qur'an. They examine classical interpretations, early hadith reports, textual transmission, manuscript variant readings (Canonical vs. Anomalous/Shadhdh), and argue that variations arose primarily from unpointed and unvocalized early Arabic scripts rather than purely oral divine revelation.",
+  "summaryAr": "في الحلقة 29 من برنامج صندوق الإسلام، يناقش حامد عبد الصمد وضيفه محمد المسيّح الأحرف السبعة والقراءات القرأنية المختلفة (المتواترة والشاذة). يستعرض البرنامج التفاسير التراثية ومرويات الحديث، ويركز على كيفية نشأة الاختلافات القرأنية نتيجة طبيعة المخطوطات المبكرة غير المنقوطة وغير المنقوطة بدل الاقتصار على التواتر الشفهي.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:37",
+      "stepEn": "The host raises the question of how the Quran can be described as revealed in 'seven ahruf' and having multiple readings while asserting internal claims of being in a single clear Arabic tongue.",
+      "stepAr": "طرح تساؤل حول كيفية جمع القول بإنزاله على 'سبعة أحرف' وبقراءات متعددة مع نصوصه التي تؤكد نزوله بلسان عربي مبين."
+    },
+    {
+      "timestamp": "00:01:51",
+      "stepEn": "Reviewing the Sahih al-Bukhari hadith of Umar ibn al-Khattab and Hisham ibn Hakim arguing over Surah al-Furqan, highlighting how Muhammad validated both readings with 'Thus was it revealed'.",
+      "stepAr": "استعراض حديث البخاري حول نزاع عمر بن الخطاب وهشام بن حكيم في قراءة سورة الفرقان وإقرار النبي للقراءتين بقوله 'هكذا أنزلت'."
+    },
+    {
+      "timestamp": "00:04:16",
+      "stepEn": "Al-Masih outlines traditional interpretations of 'seven ahruf' (dialects, stylistic modes, theoretical variations, canonical readers).",
+      "stepAr": "استعراض التأويلات التراثية لمفهوم 'السبعة أحرف' (لهجات القبائل، الأوجه اللغوية، أبواب الأحكام، والقراء)."
+    },
+    {
+      "timestamp": "00:08:00",
+      "stepEn": "Critiquing the 'tribe dialects' explanation by noting the absence of a unified Arabic language in pre-Islamic times and arguing that attributing dialectal shifts to divine origin resembles myth.",
+      "stepAr": "نقد تفسير الأحرف بـ'لهجات القبائل' بالإشارة إلى عدم وجود لغة عربية موحدة حينها، واعتبار هذا التعليل أقرب للأسطورة."
+    },
+    {
+      "timestamp": "00:10:03",
+      "stepEn": "Proposing that the 'seven ahruf' tradition may have been introduced to cover for human memory slips, citing the story of Abd Allah ibn Abi Sarh.",
+      "stepAr": "افتراض أن فكرة الأحرف السبعة ربما اخترعت لتبرير النسيان، مع الاستشهاد بصلة ذلك بقصة عبد الله بن أبي السرح."
+    },
+    {
+      "timestamp": "00:11:13",
+      "stepEn": "Presenting the manuscript-critical view: variations arose because the early quranic text was a skeletal script (rasm) without dots, vowels, or alifs.",
+      "stepAr": "تقديم التفسير المادي/المخطوطاتي: نشوء القراءات جراء رسم المخطوطات المبكرة الخالي من النقاط والتشكيل وألفات المد."
+    },
+    {
+      "timestamp": "00:14:38",
+      "stepEn": "Listing the famous Seven Readers (and their narrators) and examining actual variant readings between Hafs and Warsh.",
+      "stepAr": "سرد القراء السبعة ورواة قراءاتهم، مع إيراد أمثلة تطبيقية للاختلافات بين روايتي حفص وورش."
+    },
+    {
+      "timestamp": "00:21:42",
+      "stepEn": "Analyzing 'anomalous' (shadhdh) readings and regional companion codices (e.g., Ibn Mas'ud, Ibn Abbas, Zayd ibn Ali) where word substitutions occur.",
+      "stepAr": "مناقشة القراءات الشاذة ومصاحف الصحابة (مثل ابن مسعود، ابن عباس، وزيد بن علي) والتغيرات الكلماتية فيها."
+    },
+    {
+      "timestamp": "00:26:27",
+      "stepEn": "Concluding with the political and textual suppression of companion variants (such as Ibn Mas'ud's reading of 3:19 as 'Al-Hanifiyyah') during Umayyad codification under Abd al-Malik and Al-Hajjaj.",
+      "stepAr": "الخلاصة بطمس ومنع مصحف ابن مسعود (مثال 3: 19 'الحنيفية') لأسباب سياسية وأموية في عهد عبد الملك بن مروان والحجاج."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:01:51",
+      "claimEn": "Umar ibn al-Khattab and Hisham ibn Hakim disputed over the reading of Surah al-Furqan in prayer, leading Muhammad to state that the Quran was revealed in seven ahruf.",
+      "claimAr": "اختلاف عمر بن الخطاب وهشام بن حكيم في قراءة سورة الفرقان أدى بـمحمد إلى القول إن القرآن أنزل على سبعة أحرف.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Sahih al-Bukhari (Kitab Fada'il al-Quran) for the hadith regarding Umar, Hisham ibn Hakim, and the revelation upon seven ahruf."
+    },
+    {
+      "timestamp": "00:03:25",
+      "claimEn": "The seven ahruf hadith is unusual because the companions silently accepted the term without asking Muhammad for its precise definition.",
+      "claimAr": "حديث السبعة أحرف غريب لأن الصحابة سكتوا ولم يسألوا محمداً عن تفسيرها الدقيق كما اعتادوا في أحاديث أخرى.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "hadith"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check hadith commentaries (such as Fath al-Bari) for discussions on companion responses to the phrase 'seven ahruf'."
+    },
+    {
+      "timestamp": "00:04:16",
+      "claimEn": "Islamic tradition contains over thirty different interpretations for the phrase 'seven ahruf'.",
+      "claimAr": "تتضمن الموروثات الإسلامية أكثر من 30 تفسيراً وتأويلاً لمعنى 'سبعة أحرف'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify in classical quranic sciences compendia (e.g., Al-Itqan fi Ulum al-Quran by al-Suyuti) for lists of interpretations of 'seven ahruf'."
+    },
+    {
+      "timestamp": "00:05:02",
+      "claimEn": "One interpretation of seven ahruf claims the Quran contains vocabulary from seven distinct Arab tribal dialects (e.g., Quraysh, Hudhayl, Tayy, Quda'ah).",
+      "claimAr": "أحد تفاسير الأحرف السبعة يتضمن اشتمال النص القرآني على لهجات سبع قبائل عربية مختلفة (مثل قريش وهذيل وطيئ وقضاعة).",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check al-Suyuti's Al-Itqan or al-Qurtubi's Tafsir for tribal dialect explanations of the seven ahruf."
+    },
+    {
+      "timestamp": "00:06:14",
+      "claimEn": "One interpretation considers seven ahruf to be grammatical case inflection variations (ikhtilaf harakat al-i'rab).",
+      "claimAr": "أحد تفاسير الأحرف السبعة يعتبرها اختلافات في حركات الإعراب.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify classical Ulum al-Quran literature regarding grammatical case differences as an explanation for ahruf."
+    },
+    {
+      "timestamp": "00:07:02",
+      "claimEn": "One interpretation defines seven ahruf as seven thematic categories of the Quran (command, prohibition, promise, threat, narrative, example, polemic).",
+      "claimAr": "أحد التفاسير يُعرّف الأحرف السبعة بأبواب القرآن (الأمر، النهي، الترغيب، الجدل، القصص، المثل، الجزم).",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check classic hadiths and Ulum al-Quran texts listing thematic categories (amr, nahy, qasas, etc.) as seven ahruf."
+    },
+    {
+      "timestamp": "00:08:22",
+      "claimEn": "There was no single unified 'Arabic language' during the period of Quranic revelation, but rather distinct regional tribal dialects.",
+      "claimAr": "لم تكن هناك 'لغة عربية' موحدة وقت نزول القرآن بل كانت هناك لهجات عربية مختلفة لكل قبيلة.",
+      "claimType": "linguistic",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check modern academic historical linguistics literature on pre-Islamic and early Islamic Arabic dialects."
+    },
+    {
+      "timestamp": "00:10:08",
+      "claimEn": "Abd Allah ibn Abi Sarh abandoned Islam after suggesting an ending to a verse Muhammad was dictating, which Muhammad then accepted into revelation.",
+      "claimAr": "ترك عبد الله بن أبي السرح الإسلام بعدما اقترح ختام آية كان يمليها محمد فوافق محمد على إدراجها كأنها أنزلت.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Asbab al-Nuzul (e.g., al-Wahidi) and Sirah Ibn Hisham for reports concerning Abd Allah ibn Abi Sarh and Surah al-Mu'minun 23:14."
+    },
+    {
+      "timestamp": "00:11:45",
+      "claimEn": "Extant Quranic manuscript analysis shows that variants among readings relate primarily to undotted letters, missing diacritics, and absent alifs.",
+      "claimAr": "دراسة المخطوطات القرآنية تدل على أن اختلافات القراءات ترجع أساساً للتنقيط والتشكيل والهمز وألفات المد.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare early Quranic manuscripts (e.g., Sanaa palimpsest, Birmingham leaf) against canonical variants."
+    },
+    {
+      "timestamp": "00:12:35",
+      "claimEn": "Ibn al-Khatib recorded that variations in reading paths across the Ten Readers exceed 980 distinct readings.",
+      "claimAr": "ذكر ابن الخطيب أن طرق القراءة في القراءات العشر تتجاوز 980 قراءة.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Ibn al-Khatib's work 'Furqan al-Qur'an' for the precise count of 980 reading routes."
+    },
+    {
+      "timestamp": "00:14:52",
+      "claimEn": "Abd Allah ibn Amir was the earliest and most prominent reader in Syria among the Seven Readers.",
+      "claimAr": "عبد الله بن عامر الشامي هو أقدم وأشهر القراء السبعة في الشام.",
+      "claimType": "biographical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check biographical dictionaries of Qurra (e.g., Ibn al-Jazari's Ghayat al-Nihayah) for Ibn Amir al-Shami."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "Three additional canonical readers (Abu Ja'far, Ya'qub al-Hadrami, Khalaf ibn Hisham) and four non-canonical readers (Ibn Muhaysin, al-Yazidi, al-Hasan al-Basri, al-A'mash) were added later.",
+      "claimAr": "أضيفت ثلاث قراءات متواترة لاحقاً (أبو جعفر، يعقوب الحضرمي، خلف بن هشام) وأربع قراءات إضافية (ابن محيصن، اليزيدي، الحسن البصري، الأعمش).",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Ibn al-Jazari's al-Nashr fi al-Qira'at al-Ashr for the formalization of the Ten and Fourteen readers."
+    },
+    {
+      "timestamp": "00:17:44",
+      "claimEn": "Surah al-Fatiha contains a canonical variant between Hafs ('Maliki') with an alif and Warsh ('Maliki') without an alif.",
+      "claimAr": "تتضمن سورة الفاتحة خِلافاً في القراءة بين حفص ('مَالِكِ' بالمد) وورش ('مَلِكِ' بغير مد).",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare standard Hafs and Warsh mushafs at Surah al-Fatiha (1:4)."
+    },
+    {
+      "timestamp": "00:19:15",
+      "claimEn": "Surah al-Jinn 72:20 contains a variant reading between Hafs ('Qul innama ad'u') and Warsh ('Qala innama ad'u').",
+      "claimAr": "تتضمن سورة الجن (آية 20) خِلافاً بين قراءة حفص ('قُلْ إِنَّمَا أَدْعُو') وقراءة ورش ('قَالَ إِنَّمَا أَدْعُو').",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check variant works (such as Al-Taysir by al-Dani) for 72:20 Qul vs. Qala."
+    },
+    {
+      "timestamp": "00:19:40",
+      "claimEn": "Surah al-Zukhruf 43:19 is read as 'ibadu al-Rahman' in Hafs and 'inda al-Rahman' in Warsh.",
+      "claimAr": "تُقرأ سورة الزخرف (43: 19) في قراءة حفص 'عِبَادُ الرَّحْمَنِ' بينما تُقرأ في ورش 'عِنْدَ الرَّحْمَنِ'.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check variant collections for 43:19 ('ibad' vs. 'inda')."
+    },
+    {
+      "timestamp": "00:22:16",
+      "claimEn": "Readings were classified as anomalous (shadhdh) if they diverged from the official Uthmanic consonantal rasm.",
+      "claimAr": "عُدّت القراءات شاذة إذا خالفت الرسم العثماني للمصحف.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check al-Jazari's three conditions for an authentic reading (Dawabit al-Qira'ah al-Sahihah)."
+    },
+    {
+      "timestamp": "00:22:45",
+      "claimEn": "Muhammad instructed followers to learn the Quran from four specific individuals including Ibn Mas'ud and Ubayy ibn Ka'b, yet both were excluded from Uthman's standardization committee.",
+      "claimAr": "أمر محمد بأخذ القرآن عن أربعة منهم ابن مسعود وأبي بن كعب، ومع ذلك أُستبعدا من لجنة عثمان لجمع المصحف.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "hadith"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Sahih al-Bukhari for 'Take the Quran from four...' and historical accounts of Zayd ibn Ka'b/Ibn Mas'ud during Uthmanic codification."
+    },
+    {
+      "timestamp": "00:24:07",
+      "claimEn": "Zayd ibn Ali read 'khaliqah' instead of 'khalifah' in Surah al-Baqarah 2:30.",
+      "claimAr": "قرأ زيد بن علي 'خليقة' بدلاً من 'خليفة' في سورة البقرة 2: 30.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Al-Muhtasab by Ibn Jinni or Al-Bahr al-Muhit for Zayd ibn Ali's reading in 2:30."
+    },
+    {
+      "timestamp": "00:24:38",
+      "claimEn": "Ibn Abbas read 'ila munfalatin yanfalitun' instead of 'ayya munqalabin yanqalibun' in Surah al-Shu'ara 26:227.",
+      "claimAr": "قرأ ابن عباس 'إلى منفلت ينفلتون' بدلاً من 'أي منقلب ينقلبون' في سورة الشعراء.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Mukhtasar fi Shawadhdhal-Qira'at by Ibn Khalawayh for Ibn Abbas's variant on 26:227."
+    },
+    {
+      "timestamp": "00:24:58",
+      "claimEn": "Tawus read 'ashawatan' instead of 'ghishawatan' in Surah al-Jathiyah 45:23.",
+      "claimAr": "قرأ طاووس 'عشاوة' بدلاً من 'غشاوة' في سورة الجاثية 45: 23.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Tawus's reading in Surah al-Jathiyah in classical shadhdh works."
+    },
+    {
+      "timestamp": "00:25:18",
+      "claimEn": "Abd Allah ibn Mas'ud read 'fa-waswasa lahuma al-shaytan' instead of 'fa-azallahuma al-shaytan' in Surah al-Baqarah 2:36.",
+      "claimAr": "قرأ ابن مسعود 'فوسوس لهما الشيطان' بدلاً من 'فأزلهما الشيطان' في سورة البقرة 2: 36.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Kitab al-Masahif by Ibn Abi Dawood for Ibn Mas'ud's codex variant at 2:36."
+    },
+    {
+      "timestamp": "00:25:45",
+      "claimEn": "Abd Allah ibn Mas'ud read 'illa hunafa'' instead of 'illa kha'ifin' in Surah al-Baqarah 2:114.",
+      "claimAr": "قرأ ابن مسعود 'إلا حُنفاء' بدلاً من 'إلا خائفين' في سورة البقرة 2: 114.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Kitab al-Masahif for Ibn Mas'ud's variant on 2:114."
+    },
+    {
+      "timestamp": "00:25:58",
+      "claimEn": "Abd Allah ibn Mas'ud read 'Inna al-dina 'inda Allahi al-Hanifiyyah' instead of 'al-Islam' in Surah Ali 'Imran 3:19.",
+      "claimAr": "قرأ ابن مسعود 'إن الدين عند الله الحنيفية' بدلاً من 'الإسلام' في آل عمران 3: 19.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Tafsir al-Tabari and Kitab al-Masahif for Ibn Mas'ud's reading of 3:19."
+    },
+    {
+      "timestamp": "00:26:34",
+      "claimEn": "Al-Hajjaj ibn Yusuf strictly prohibited and destroyed Ibn Mas'ud's codex because Abd al-Malik ibn Marwan had inscribed 'Inna al-dina 'inda Allahi al-Islam' on the Dome of the Rock.",
+      "claimAr": "منع الحجاج بن يوسف مصحف ابن مسعود لأن عبد الملك بن مروان كتب 'إن الدين عند الله الإسلام' على قبة الصخرة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-textual-transmission"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify historical reports regarding Al-Hajjaj's destruction of companion codices and epigraphics on the Dome of the Rock."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:05",
+      "asStatedInVideo": "Surah Ash-Shu'ara 26:193-195",
+      "workTitle": "Qur'an",
+      "locator": "26:193-195",
+      "quotedArabic": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ * عَلَى قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ * بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:14",
+      "asStatedInVideo": "Surah Maryam 19:97 / Ad-Dukhan 44:58",
+      "workTitle": "Qur'an",
+      "locator": "19:97",
+      "quotedArabic": "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:01:51",
+      "asStatedInVideo": "Sahih al-Bukhari hadith about Umar ibn al-Khattab and Hisham ibn Hakim",
+      "workTitle": "Sahih al-Bukhari",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:27",
+      "asStatedInVideo": "Surah Ar-Rum 30:2",
+      "workTitle": "Qur'an",
+      "locator": "30:2",
+      "quotedArabic": "غَلَبَتِ الرُّومُ / غُلِبَتِ الرُّومُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:20",
+      "asStatedInVideo": "Surah Al-Mu'minun 23:14",
+      "workTitle": "Qur'an",
+      "locator": "23:14",
+      "quotedArabic": "خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:35",
+      "asStatedInVideo": "Ibn al-Khatib",
+      "workTitle": "Furqan al-Qur'an",
+      "author": "Ibn al-Khatib",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:48",
+      "asStatedInVideo": "Surah Al-Fatiha 1:4",
+      "workTitle": "Qur'an",
+      "locator": "1:4",
+      "quotedArabic": "مَالِكِ يَوْمِ الدِّينِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:15",
+      "asStatedInVideo": "Surah Al-Jinn 72:20",
+      "workTitle": "Qur'an",
+      "locator": "72:20",
+      "quotedArabic": "قُلْ إِنَّمَا أَدْعُو رَبِّي / قَالَ إِنَّمَا أَدْعُو رَبِّي",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:40",
+      "asStatedInVideo": "Surah Az-Zukhruf 43:19",
+      "workTitle": "Qur'an",
+      "locator": "43:19",
+      "quotedArabic": "وَجَعَلُوا الْمَلائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَنِ إِنَاثًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:45",
+      "asStatedInVideo": "Abd Allah ibn Mas'ud",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:45",
+      "asStatedInVideo": "Ubayy ibn Ka'b",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:56",
+      "asStatedInVideo": "Zayd ibn Thabit",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:03",
+      "asStatedInVideo": "Surah Al-Baqarah 2:30",
+      "workTitle": "Qur'an",
+      "locator": "2:30",
+      "quotedArabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:44",
+      "asStatedInVideo": "Surah Ash-Shu'ara 26:227",
+      "workTitle": "Qur'an",
+      "locator": "26:227",
+      "quotedArabic": "وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:58",
+      "asStatedInVideo": "Surah Al-Jathiyah 45:23",
+      "workTitle": "Qur'an",
+      "locator": "45:23",
+      "quotedArabic": "وَجَعَلَ عَلَى بَصَرِهِ غِشَاوَةً",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:18",
+      "asStatedInVideo": "Surah Al-Baqarah 2:36",
+      "workTitle": "Qur'an",
+      "locator": "2:36",
+      "quotedArabic": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:45",
+      "asStatedInVideo": "Surah Al-Baqarah 2:114",
+      "workTitle": "Qur'an",
+      "locator": "2:114",
+      "quotedArabic": "مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلا خَائِفِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:58",
+      "asStatedInVideo": "Surah Ali 'Imran 3:19",
+      "workTitle": "Qur'an",
+      "locator": "3:19",
+      "quotedArabic": "إِنَّ الدِّينَ عِنْدَ اللَّهِ الإِسْلامُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:26:34",
+      "asStatedInVideo": "Inscription on the Dome of the Rock under Abd al-Malik ibn Marwan",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

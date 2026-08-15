@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "videoId": "-Q__-0N7B14",
+  "videoUrl": "https://www.youtube.com/watch?v=-Q__-0N7B14",
+  "videoTitle": "Episode 15 برنامج صندوق الإسلام - الحلقة الخامسة عشر/ محمد والنساء: المرأة التى هزمت النبى",
+  "creator": "Hamed.TV",
+  "uploadDate": "20150831",
+  "extractedAt": "2026-08-12T14:00:51+00:00",
+  "model": "gemini-3.6-flash",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Hamed Abdel-Samad discusses Muhammad's relations with women, focusing on Khadijah's financial and social status in pre-Islamic Arabia and the neglected story of Muhammad's eldest daughter, Zainab. He analyzes the narrative surrounding Zainab, her husband Abu al-As, and her refusal to leave him or convert, using her story to portray Muhammad as rigid and driven by pride, while highlighting the historical contradictions regarding Muhammad's offspring.",
+  "summaryAr": "يناقش حامد عبد الصمد علاقات محمد بالنساء، مع التركيز على المكانة المالية والاجتماعية لخديجة في الجاهلية، والقصة المتجاهلة لزينب كبرى بنات محمد. ويحلل الرواية المتعلقة بزينب وزوجها أبي العاص ورفضها التخلي عنه أو الإيمان بدعوة أبيها، مستدلاً بالقصة على النرجسية والعناد لدى النبي، ومعرجاً على تناقضات الروايات في ذرية محمد.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:29",
+      "stepEn": "Reiterate Khadijah's pivotal support for Muhammad and her status as evidence that pre-Islamic women were not completely oppressed.",
+      "stepAr": "التأكيد على دعم خديجة المحوري لمحمد ومكانتها كدليل على أن المرأة قبل الإسلام لم تكن محموشة بالكامل."
+    },
+    {
+      "timestamp": "00:02:18",
+      "stepEn": "Highlight the medical and logical implausibility of Khadijah bearing six children after age forty, noting Shia counter-narratives.",
+      "stepAr": "الإشارة إلى الاستحالة الطبية والمنطقية لإنجاب خديجة ستة أطفال بعد سن الأربعين، مع استعراض وجهة النظر الشيعية."
+    },
+    {
+      "timestamp": "00:04:07",
+      "stepEn": "Examine the tension between Surah al-Kawthar's 'abtar' (childless/impotent) and claims of Muhammad having multiple children.",
+      "stepAr": "مناقشة التناقض بين وصف القرآن لمحمد في سورة الكوثر بـ 'الأبتر' وبين المزاعم بأنه كان لديه عدة أطفال."
+    },
+    {
+      "timestamp": "00:05:58",
+      "stepEn": "Introduce Zainab's story, arguing Islamic tradition marginalizes her because she refused to convert to Muhammad's religion.",
+      "stepAr": "طرح قصة زينب والادعاء بأن السيرة همشتها لأنها رفضت الإيمان بدعوة محمد."
+    },
+    {
+      "timestamp": "00:08:06",
+      "stepEn": "Relate the execution of al-Nadr ibn al-Harith to illustrate Muhammad's intolerance toward intellectual challenges.",
+      "stepAr": "سرد قصة قتل النضر بن الحارث للدلالة على عدم تسامح محمد مع الشكوك الجدلية والإحراج الفكري."
+    },
+    {
+      "timestamp": "00:10:25",
+      "stepEn": "Detail Zainab's ransom offer (Khadijah's necklace) for Abu al-As and Muhammad's demand that she be separated from her husband.",
+      "stepAr": "تفصيل قصة افتداء زينب لزوجها أبي العاص بقلادة خديجة وشق محمد عليها باشتراط مفارقة زوجها."
+    },
+    {
+      "timestamp": "00:12:54",
+      "stepEn": "Narrate Zainab's journey, attack by highwaymen causing her miscarriage, and her forcible removal from her family.",
+      "stepAr": "سرد رحلة خروج زينب واعتداء قطاع الطرق عليها مما أدى لإجهاضها ثم انتزاعها من بين أطفالها وزوجها."
+    },
+    {
+      "timestamp": "00:15:23",
+      "stepEn": "Explain the punishment inflicted on those who attacked Zainab and link it to Quran 5:33 and pre-Islamic brigand codes.",
+      "stepAr": "شرح العقوبة المطبقة على مهاجمي زينب وربطها بالآية 33 من سورة المائدة وبسنن الصعاليك."
+    },
+    {
+      "timestamp": "00:17:07",
+      "stepEn": "Describe how Zainab protected Abu al-As using pre-Islamic neighborly protection (jiwar), forcing Muhammad to capitulate to her loyalty.",
+      "stepAr": "وصف كيفية إجارة زينب لأبي العاص بنظام الجوار الجاهلي، مما أجبر محمداً على الخضوع لوفائها."
+    },
+    {
+      "timestamp": "00:18:28",
+      "stepEn": "Speculate on Zainab's absolute refusal of divorce, suggesting a possible Christian background in Khadijah's family.",
+      "stepAr": "التخمين بأن رفض زينب القاطع للطلاق قد يعود إلى خلفية مسيحية لأسرة خديجة."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:29",
+      "claimEn": "Khadijah's status as an independent, wealthy businesswoman and former divorcee proves that pre-Islamic Arabian women had significant legal and social status.",
+      "claimAr": "مكانة خديجة كإمراة أعمال مستقلة وغنية ومطلقة سابقة تثبت أن النساء في الجاهلية كن يحظين بمكانة قانونية واجتماعية بارزة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "women"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check historical evaluations of pre-Islamic Arabian women's legal rights and status relative to Islamic sources."
+    },
+    {
+      "timestamp": "00:02:18",
+      "claimEn": "It is biologically implausible for Khadijah to have given birth to six children after marrying Muhammad at age forty, especially having Fatimah at age sixty-two.",
+      "claimAr": "من المستبعد بيولوجياً أن تنجب خديجة ستة أطفال بعد زواجها من محمد وهي في سن الأربعين، ولا سيما إنجاب فاطمة في سن الثانية والستين.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare classical biographical reports on Khadijah's age at marriage and birth dates of her children with modern medical views on late childbearing."
+    },
+    {
+      "timestamp": "00:02:50",
+      "claimEn": "Shia tradition claims Fatimah was Khadijah's only biological child with Muhammad, while other children were from her previous marriages.",
+      "claimAr": "تزعم الروايات الشيعية أن فاطمة هي الابنة الوحيدة لخديجة من محمد، بينما باقي الأولاد كانوا من زيجاتها السابقة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Shia biographical literature regarding Khadijah's children from previous marriages and her children with Muhammad."
+    },
+    {
+      "timestamp": "00:04:07",
+      "claimEn": "The Quran's usage of 'al-abtar' in Surah al-Kawthar implies a insult regarding childlessness or impotence, contradicting claims that Muhammad had multiple sons.",
+      "claimAr": "استخدام القرآن للفظ 'الأبتر' في سورة الكوثر يدل على مسبة تتعلق بعدم إنجاب الذكور أو العجز الجنسي، مما يناقض الروايات القائلة بأنه كان لمحمد أبناء ذكور.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check classical Tafsir works (e.g., al-Tabari, Ibn Kathir) on Surah al-Kawthar regarding the context of 'al-abtar'."
+    },
+    {
+      "timestamp": "00:05:58",
+      "claimEn": "Islamic biographical literature (sirah) marginalized Muhammad's eldest daughter Zainab because she initially refused to convert to Islam.",
+      "claimAr": "كتب السيرة النبوية همشت زينب كبرى بنات محمد لأنها رفضت في البداية الإيمان بالدين الجديد.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Examine the extent of coverage given to Zainab compared to other daughters in primary biographical sources like Ibn Ishaq and al-Baladhuri."
+    },
+    {
+      "timestamp": "00:08:06",
+      "claimEn": "Muhammad ordered the execution of al-Nadr ibn al-Harith after Badr because al-Nadr had previously exposed Muhammad's inability to answer questions about the Spirit, Dhul-Qarnayn, and the Sleepers of Ephesus.",
+      "claimAr": "أمر محمد بدم النضر بن الحارث بعد بدر لأن النضر كشف سابقاً عجز محمد عن الإجابة عن الروح وذي القرنين وأصحاب الكهف.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Ibn Hisham and al-Baladhuri regarding the reasons for al-Nadr ibn al-Harith's execution after the Battle of Badr."
+    },
+    {
+      "timestamp": "00:10:25",
+      "claimEn": "Zainab sent her mother Khadijah's wedding necklace to ransom her husband Abu al-As, leading Muhammad to release him on the condition that he send Zainab to Medina.",
+      "claimAr": "بعثت زينب بقلادة أمها خديجة لفداء زوجها أبي العاص، فقبل محمد الفداء واشترط عليه أن يرسل زينب إلى المدينة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the story of Zainab's ransom of Abu al-As in Ansab al-Ashraf by al-Baladhuri or Sirat Ibn Hisham."
+    },
+    {
+      "timestamp": "00:12:54",
+      "claimEn": "Zainab was attacked on her way to Medina while pregnant, resulting in a fractured rib and a miscarriage.",
+      "claimAr": "تعرضت زينب للاعتداء في طريقها إلى المدينة وهي حامل، مما أدى إلى كسر ضلعها وإجهاض جنينها.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Cross-check reports about the assault on Zainab during her migration to Medina in classical Sirah texts."
+    },
+    {
+      "timestamp": "00:15:23",
+      "claimEn": "The legal punishment of cross-amputation mentioned in Quran 5:33 originates from pre-Islamic brigand (Sa'alik) customs.",
+      "claimAr": "العقوبة القانونية بقطع الأيدي والأرجل من خلاف الواردة في المائدة 33 أصلها يعود إلى أعراف الصعاليك في الجاهلية.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "pre-islamic-legal-customs"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Investigate historical and anthropological sources on pre-Islamic Arab law and penal customs of brigands regarding cross-amputation."
+    },
+    {
+      "timestamp": "00:16:15",
+      "claimEn": "Apologists frequently cite Quran 5:32 out of context, omitting that the text explicitly states this law was dictated to the Children of Israel.",
+      "claimAr": "يقتطع الدعاة المعتدلون الآية 32 من سورة المائدة من سياقها، متجاهلين أنها تصرح بأن الحكم كُتب خصيصاً على بني إسرائيل.",
+      "claimType": "textual",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine the text and classical commentaries for Quran 5:32 to verify its framing regarding the Children of Israel."
+    },
+    {
+      "timestamp": "00:17:07",
+      "claimEn": "Zainab forced Muhammad to spare Abu al-As and return his captured caravan by invoking the pre-Islamic protection covenant (jiwar).",
+      "claimAr": "أجبرت زينب محمداً على العفو عن أبي العاص وإعادة قافلته عبر إعلان جواره طبقاً لنظام الجوار الجاهلي.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the report in classical Sirah literature where Zainab publicly grants jiwar to Abu al-As in Medina."
+    },
+    {
+      "timestamp": "00:18:28",
+      "claimEn": "Zainab was buried in a wooden coffin following Ethiopian Christian tradition, suggesting Khadijah's family may have had Christian ties.",
+      "claimAr": "دُفنت زينب في تابوت خشبي وفقاً للتقاليد المسيحية الحبشية، مما يشير إلى أرجحية وجود روابط مسيحية لأسرة خديجة.",
+      "claimType": "historical",
+      "existingTopicIds": [
+        "sirah",
+        "earlier-religious-parallels"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check biographical traditions describing Zainab's funeral in Medina and the use of a coffin (na't/tabut)."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:29",
+      "asStatedInVideo": "خديجة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:00",
+      "asStatedInVideo": "هند بنت عتبة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:07",
+      "asStatedInVideo": "إِنَّ شَانِئَكَ هُوَ الأَبْتَرُ",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "108:3",
+      "quotedArabic": "إِنَّ شَانِئَكَ هُوَ الأَبْتَرُ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:06",
+      "asStatedInVideo": "كتاب أنساب الأشراف للبلاذري",
+      "workTitle": "Ansab al-Ashraf",
+      "author": "al-Baladhuri",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:06",
+      "asStatedInVideo": "النضر بن الحارث",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:06",
+      "asStatedInVideo": "أبو العاص",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:06",
+      "asStatedInVideo": "وتغرب في عين حمئة",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "18:86",
+      "quotedArabic": "وَوَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:06",
+      "asStatedInVideo": "سيقولون ثلاثة رابعهم.. ويقولون خمسة سادسهم..",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "18:22",
+      "quotedArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:00",
+      "asStatedInVideo": "وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلاَّ قَلِيلًا",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "17:85",
+      "quotedArabic": "وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلاَّ قَلِيلًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:15:23",
+      "asStatedInVideo": "لا يعذب بالنار إلا الله",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "لَا يُعَذِّبُ بِالنَّارِ إِلَّا اللَّهُ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:23",
+      "asStatedInVideo": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا أَن يُقَتَّلُواْ أَوْ يُصَلَّبُواْ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْا مِنَ الأَرْضِ",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "5:33",
+      "quotedArabic": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا أَن يُقَتَّلُواْ أَوْ يُصَلَّبُواْ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْا مِنَ الأَرْضِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:15",
+      "asStatedInVideo": "مِنْ أَجْلِ ذَلِك كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا",
+      "workTitle": "Qur'an",
+      "author": "",
+      "locator": "5:32",
+      "quotedArabic": "مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:28",
+      "asStatedInVideo": "ورقة بن نوفل",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "pre-islamic-legal-customs",
+      "titleEn": "Pre-Islamic Legal Customs",
+      "titleAr": "الأعراف القانونية الجاهلية",
+      "descriptionEn": "Legal, penal, and tribal customs existing in Arabia prior to Islam and their continuity or adaptation in Islamic texts.",
+      "descriptionAr": "الأعراف والتقاليد القانونية والعقابية والقبائلية التي كانت سائدة في شبه الجزيرة العربية قبل الإسلام وتأثيرها أو استمرارها في النصوص الإسلامية.",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels",
+      "rationale": "The speaker explicitly references pre-Islamic tribal practices such as cross-amputation by brigand groups (Sa'alik) and the custom of neighborly asylum (jiwar) serving as background to Islamic penal rulings."
+    }
+  ]
+}

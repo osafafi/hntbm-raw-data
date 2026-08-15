@@ -1,0 +1,1360 @@
+{
+  "schemaVersion": 1,
+  "videoId": "E-b6N24Tkjs",
+  "videoUrl": "https://www.youtube.com/watch?v=E-b6N24Tkjs",
+  "videoTitle": "Box of islam 54 صندوق الإسلام 54 : فترة  ما بين معاوية بن ابي سفيان و عبد الملك بن مروان",
+  "creator": "Hamed.TV",
+  "uploadDate": "20160711",
+  "extractedAt": "2026-08-15T05:06:19+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Episode 54 of \"Box of Islam\" covers the period between Mu'awiya ibn Abi Sufyan and Abd al-Malik ibn Marwan, using numismatic evidence. The host and his guest, a collector-researcher of Umayyad-era coinage, argue that coins minted under Arab rule in this period carry Christian, Jewish, Sabian and Zoroastrian symbols alongside Arabic formulae such as \"there is no god but God alone\" and \"Muhammad is the messenger of God\" — a five-pointed star from Bahrain, a dove or eagle, a lion of Judah, a Syriac \"Jesus\" facing an Arabic \"Muhammad\", a five-branched menorah from Jerusalem, and the Christian fish (Ichthys). They take this as showing that no distinct Islamic religious identity existed yet, that the expansion was political rather than religious, and that the same cultural mixture visible on the coins is visible in the Qur'an, which they describe as a cultural aggregate of the era. A second strand uses Sebeos and Crone and Cook's \"Hagarism\" to argue for an early Jewish–Arab alliance against Byzantium in which the Arab prophet was seen as a redeemer. They conclude that the word \"Islam\" appears in no text or inscription before Abd al-Malik, who ended the earlier pragmatism and imposed a single religion and identity through his administration, the Dome of the Rock, and the first Islamic dinar.",
+  "summaryAr": "الحلقة 54 من \"صندوق الإسلام\" تتناول الفترة ما بين معاوية بن أبي سفيان وعبد الملك بن مروان اعتمادًا على أدلة العملات. يرى المقدّم وضيفه، وهو جامع وباحث في عملات العصر الأموي، أن العملات المسكوكة تحت الحكم العربي في تلك الفترة تحمل رموزًا مسيحية ويهودية وصابئية وزرادشتية إلى جانب عبارات عربية مثل \"لا إله إلا الله وحده\" و\"محمد رسول الله\": نجمة خماسية من البحرين، يمامة أو نسر، أسد سبط يهوذا، كلمة \"يسوع\" بالسريانية مقابل \"محمد\" بالعربية، ومينورة بخمس شعب من القدس، وسمكة المسيحيين الأوائل. ويستنتجان من ذلك أنه لم تكن هناك بعد هوية دينية إسلامية متمايزة، وأن التوسع كان سياسيًا لا دينيًا، وأن الخليط الثقافي نفسه الظاهر على العملات ظاهر في القرآن الذي يصفانه بأنه تجمّع ثقافي لذلك العصر. ويستعملان سيبيوس وكتاب \"الهاجريون\" لكرون وكوك للقول بتحالف يهودي عربي مبكر ضد البيزنطيين رأى فيه اليهود نبي العرب مخلّصًا. وينتهيان إلى أن كلمة \"الإسلام\" لا ترد في أي نص أو نقش قبل عبد الملك بن مروان الذي أنهى تلك البراغماتية وفرض دينًا وهوية واحدة عبر دواوينه وقبة الصخرة وأول دينار إسلامي.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:02",
+      "stepEn": "Recalls the previous episode: Mu'awiya is an obscure figure whose coins and inscriptions show him with a cross, like a Christian ruler.",
+      "stepAr": "يذكّر بالحلقة السابقة: معاوية شخصية غامضة، وعملاته ونقوشه تصوّره مع صليب وكأنه حاكم مسيحي."
+    },
+    {
+      "timestamp": "00:02:31",
+      "stepEn": "Establishes method: coins, manuscripts and inscriptions must be read together as an interdisciplinary whole, drawing on a compiled corpus of references and coins.",
+      "stepAr": "يؤسس للمنهج: لا بد من قراءة العملات والمخطوطات والنقوش معًا في عمل تكاملي متعدد التخصصات، استنادًا إلى ملف من المراجع والعملات."
+    },
+    {
+      "timestamp": "00:03:21",
+      "stepEn": "Sets the baseline: after the conquests the Arabs used the existing Byzantine and Sasanian coinage, including the Zoroastrian fire altar.",
+      "stepAr": "يضع خط الأساس: بعد الفتوحات استعمل العرب العملات البيزنطية والساسانية القائمة، بما فيها النار الزرادشتية."
+    },
+    {
+      "timestamp": "00:04:12",
+      "stepEn": "Introduces the turn: some coins are neither Byzantine nor Persian but local Arab issues bearing symbols indicating creed or allegiance.",
+      "stepAr": "يقدّم التحوّل: بعض العملات ليست بيزنطية ولا فارسية بل عملات عربية محلية تحمل رموزًا تفيد العقيدة أو الميول."
+    },
+    {
+      "timestamp": "00:05:02",
+      "stepEn": "Presents a first series of examples: a star coin from Bahrain, a dove/eagle coin, a lion coin — Sabian and Christian symbolism paired with Arabic religious formulae.",
+      "stepAr": "يعرض سلسلة أولى من الأمثلة: عملة النجمة من البحرين، وعملة اليمامة أو النسر، وعملة الأسد — رمزية صابئية ومسيحية مقترنة بعبارات دينية عربية."
+    },
+    {
+      "timestamp": "00:07:23",
+      "stepEn": "Draws an interim conclusion: the symbols have no relation to Islam, images were not yet forbidden, and some researchers read \"Muhammad\" on them as a title for Christ.",
+      "stepAr": "يستخلص نتيجة مرحلية: الرموز لا علاقة لها بالإسلام، والصورة لم تكن محرّمة بعد، وبعض الباحثين يقرأون \"محمد\" عليها إشارة إلى المسيح."
+    },
+    {
+      "timestamp": "00:08:12",
+      "stepEn": "Answers the objection that these are simply Byzantine coins: they differ completely from both Byzantine and Persian issues.",
+      "stepAr": "يردّ على اعتراض أن هذه مجرد عملات بيزنطية: فهي تختلف تمامًا عن العملات البيزنطية والفارسية معًا."
+    },
+    {
+      "timestamp": "00:09:06",
+      "stepEn": "Presents the three contested coins: the ruler with cross and orb beside a Syriac \"Jesus\" facing \"Muhammad\"; the Jerusalem menorah coin; the fish coin.",
+      "stepAr": "يعرض العملات الثلاث محل الجدل: الحاكم بالصليب وكرة الحكم إلى جانب \"يسوع\" بالسريانية مقابل \"محمد\"؛ وعملة المينورة من القدس؛ وعملة السمكة."
+    },
+    {
+      "timestamp": "00:09:51",
+      "stepEn": "Raises the script puzzle: Syriac \"Jesus\" and Arabic \"Muhammad\" are nearly identical in early Hijazi and Kufic writing, feeding the question of whether Muhammad was a person or a title for Christ.",
+      "stepAr": "يطرح لغز الرسم: \"يسوع\" بالسريانية و\"محمد\" بالعربية شبه متطابقين في الخط الحجازي والكوفي المبكر، وهو ما يغذّي سؤال هل كان محمد شخصًا أم لقبًا للمسيح."
+    },
+    {
+      "timestamp": "00:12:58",
+      "stepEn": "Turns the fish coin into a theological problem: the shahada faces a symbol asserting Jesus as Son of God and Savior, so either the issuers misunderstood it or the Qur'anic denial of the crucifixion means something else.",
+      "stepAr": "يحوّل عملة السمكة إلى إشكال لاهوتي: الشهادة في مقابل رمز يقرّ بأن يسوع ابن الله المخلّص، فإما أن السكّاكين لم يفهموه أو أن نفي القرآن للصلب له معنى آخر."
+    },
+    {
+      "timestamp": "00:13:50",
+      "stepEn": "Brings in Luxenberg's reading that the Qur'an does not deny the crucifixion but denies that it produced permanent death.",
+      "stepAr": "يستدعي قراءة لوكسنبرغ بأن القرآن لا ينكر الصلب بل ينكر أنه أفضى إلى موت دائم."
+    },
+    {
+      "timestamp": "00:14:35",
+      "stepEn": "Links coins to text: this is the very period in which the Qur'anic texts appeared and were assembled, and the same Sabian, Jewish, Christian and Greek influences appear in both.",
+      "stepAr": "يربط العملات بالنص: هذه هي الفترة نفسها التي ظهرت وتجمّعت فيها نصوص القرآن، والتأثيرات الصابئية واليهودية والمسيحية واليونانية نفسها تظهر في الاثنين."
+    },
+    {
+      "timestamp": "00:15:25",
+      "stepEn": "Generalizes: the Qur'an is a cultural aggregate of the age, a basin into which the surrounding traditions flowed.",
+      "stepAr": "يعمّم: القرآن تجمّع ثقافي لذلك العصر، ومصبّ تصبّ فيه التقاليد المحيطة."
+    },
+    {
+      "timestamp": "00:16:10",
+      "stepEn": "Explains the diversity politically: rulers over Christian, Sabian and Zoroastrian majorities needed taxes and obedience, so a transitional stage of tolerated local symbols was rational.",
+      "stepAr": "يفسّر التنوّع سياسيًا: حكّام على أغلبيات مسيحية وصابئية وزرادشتية يحتاجون الضرائب والطاعة، فكانت مرحلة انتقالية تُترك فيها الرموز المحلية أمرًا منطقيًا."
+    },
+    {
+      "timestamp": "00:17:42",
+      "stepEn": "Opens the Sebeos strand: the earliest non-Islamic mention of Muhammad describes an Arab merchant versed in Jewish tradition, in the aftermath of Heraclius' recapture of Jerusalem in 628.",
+      "stepAr": "يفتح خيط سيبيوس: أقدم ذكر غير إسلامي لمحمد يصف تاجرًا عربيًا ملمًّا بالتراث اليهودي، في أعقاب استرجاع هرقل للقدس سنة 628."
+    },
+    {
+      "timestamp": "00:19:16",
+      "stepEn": "Develops it: persecuted Jews sought a substitute power in the Arabs as fellow sons of Abraham to recover the Promised Land, and the two allied against an exhausted Byzantium.",
+      "stepAr": "يطوّره: اليهود المضطهدون بحثوا عن قوة بديلة في العرب بوصفهم أبناء إبراهيم لاسترجاع الأرض الموعودة، فتحالف الطرفان ضد بيزنطة المنهكة."
+    },
+    {
+      "timestamp": "00:21:36",
+      "stepEn": "Reads the Qur'an's shifting stance on the Jews — praise then curse — as tracking these political stages, and notes Jewish expectation of the Arab prophet as redeemer.",
+      "stepAr": "يقرأ تقلّب موقف القرآن من اليهود — مديح ثم لعن — بوصفه تتبّعًا لهذه المراحل السياسية، ويشير إلى انتظار اليهود لنبي العرب بوصفه مخلّصًا."
+    },
+    {
+      "timestamp": "00:22:21",
+      "stepEn": "Rebuts Volker Popp's identification of the coin figure as John the Baptist on grounds of the two crosses and the coin's date.",
+      "stepAr": "يردّ على تعريف فولكر بوب لشخصية العملة بيوحنا المعمدان استنادًا إلى الصليبين وإلى تاريخ العملة."
+    },
+    {
+      "timestamp": "00:23:54",
+      "stepEn": "Notes that most coins name no ruler while Sasanian-type issues name Arab governors, and infers a degree of local autonomy that explains the local symbols.",
+      "stepAr": "يلاحظ أن أكثر العملات لا تسمّي حاكمًا بينما تسمّي العملات الساسانية ولاة عربًا، ويستنتج قدرًا من الحكم الذاتي المحلي يفسّر الرموز المحلية."
+    },
+    {
+      "timestamp": "00:25:31",
+      "stepEn": "Concludes that the expansion was political rather than religious, since symbols contradicting the Qur'anic text were tolerated.",
+      "stepAr": "يخلص إلى أن التوسع كان سياسيًا لا دينيًا، ما دامت رموز تناقض النص القرآني قد قُبلت."
+    },
+    {
+      "timestamp": "00:26:19",
+      "stepEn": "Adds the argument from silence: neighbouring peoples record an Arab conquest or a Christian heresy, never a new religion, and the word \"Islam\" appears in no text or inscription before Abd al-Malik.",
+      "stepAr": "يضيف حجة الصمت: الشعوب المجاورة تذكر فتحًا عربيًا أو هرطقة مسيحية ولا تذكر دينًا جديدًا، وكلمة \"الإسلام\" لا ترد في نص ولا نقش قبل عبد الملك."
+    },
+    {
+      "timestamp": "00:27:09",
+      "stepEn": "Closes by trailing the next episode: Abd al-Malik ended the pragmatism and imposed one religion and identity through his administration, the Dome of the Rock, and the first Islamic dinar.",
+      "stepAr": "يختم بالتمهيد للحلقة القادمة: عبد الملك أنهى البراغماتية وفرض دينًا وهوية واحدة عبر دواوينه وقبة الصخرة وأول دينار إسلامي."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:02",
+      "claimEn": "The speaker claims that inscriptions and coins from Mu'awiya ibn Abi Sufyan's era depict him together with a cross, as though he were a Christian ruler.",
+      "claimAr": "يقول المتحدث إن نقوشًا وعملات من عصر معاوية بن أبي سفيان تصوّره مع صليب وكأنه حاكم مسيحي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy",
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check published Umayyad numismatic and epigraphic catalogues for coins and inscriptions attributed to Mu'awiya's reign that carry cross iconography, and confirm the attribution and dating independently of the speaker."
+    },
+    {
+      "timestamp": "00:00:02",
+      "claimEn": "The speaker claims that Mu'awiya is an obscure and confusing figure for researchers.",
+      "claimAr": "يقول المتحدث إن معاوية شخصية غامضة ومربكة للباحثين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey modern scholarship on Mu'awiya to see whether the material record is in fact regarded as difficult to reconcile with the traditional Islamic portrait."
+    },
+    {
+      "timestamp": "00:00:55",
+      "claimEn": "The speaker claims the cross imagery is explained either by Mu'awiya actually inclining towards Christianity or by pragmatic rationality aimed at winning the sympathy of the Christian majority living under Umayyad rule.",
+      "claimAr": "يقول المتحدث إن تصوير الصليب يُفسَّر إما بميل معاوية فعلًا إلى المسيحية وإما ببراغماتية عقلانية تستهدف كسب عطف الأغلبية المسيحية الخاضعة للحكم الأموي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check demographic estimates for the Christian population of Syria under early Umayyad rule and the scholarly explanations offered for cross iconography on Arab-Byzantine coinage."
+    },
+    {
+      "timestamp": "00:02:31",
+      "claimEn": "The speaker claims his numismatic file draws on some 52 specialist references and about 1,947 coins from the first Arab era, from the Umayyad period up to Abd al-Malik ibn Marwan and on to the Abbasids, and that coins, manuscripts and inscriptions must be read together because no single class of evidence can establish the truth of the era alone.",
+      "claimAr": "يقول المتحدث إن ملفه في العملات يضم نحو 52 مرجعًا مختصًا وقرابة 1947 عملة تعود إلى العصر العربي الأول من الفترة الأموية إلى عبد الملك بن مروان ثم العباسيين، وإن العملات والمخطوطات والنقوش يجب أن تُقرأ معًا لأن نوعًا واحدًا من الأدلة لا يكفي وحده لبيان حقيقة العصر.",
+      "claimType": "historical",
+      "premiseStance": "irrelevant",
+      "existingTopicIds": [
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Methodological and biographical statement about the guest's own corpus; an editor need only note that the underlying reference list and coin count are not published in the video."
+    },
+    {
+      "timestamp": "00:03:21",
+      "claimEn": "The speaker claims that when the Arabs entered Syria and Iraq after what are called the Islamic conquests, the coinage in use remained the local and Byzantine currency — the gold solidus and the bronze fals — alongside the Sasanian drachm bearing the image of Khusraw II on one face and the Zoroastrian sacred fire on the other.",
+      "claimAr": "يقول المتحدث إن العرب لما دخلوا بلاد الشام والعراق بعد ما يُسمى بالفتوحات الإسلامية بقيت العملات المتداولة هي العملات المحلية والبيزنطية — السوليدوس الذهبي والفلس البرونزي — إلى جانب الدرهم الساساني الذي يحمل صورة خسرو الثاني في وجه والنار المقدسة الزرادشتية في الوجه الآخر.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "zoroastrian-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify against standard catalogues of Arab-Byzantine and Arab-Sasanian coinage that the pre-reform issues retained Byzantine denominations and the Sasanian bust-and-fire-altar types."
+    },
+    {
+      "timestamp": "00:04:12",
+      "claimEn": "The speaker claims that some coins of that period belong neither to the Byzantines nor to the Persians but are local Arab issues carrying symbols and images that may indicate the creed, leanings or emblem of those who struck them.",
+      "claimAr": "يقول المتحدث إن بعض عملات تلك الفترة لا تعود للبيزنطيين ولا للفرس بل هي عملات عربية محلية تحمل رموزًا وصورًا ربما أفادت عقيدة من سكّها أو ميوله أو شعاره.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm from numismatic literature that distinct locally struck Arab types exist for this period that are not direct imitations of Byzantine or Sasanian prototypes."
+    },
+    {
+      "timestamp": "00:05:02",
+      "claimEn": "The speaker claims that one coin, found in Bahrain, carries a five-pointed star on one face and the words \"there is no god but God alone\" on the other, and that the star may point to star worship or to the Sabians of that region.",
+      "claimAr": "يقول المتحدث إن عملة وُجدت في البحرين تحمل نجمة خماسية في وجه وعبارة \"لا إله إلا الله وحده\" في الوجه الآخر، وإن النجمة قد تشير إلى عبادة النجوم أو إلى الصابئة في تلك المنطقة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the published specimen and its find-spot; check whether the five-pointed star is attested on early Arab coinage from eastern Arabia and whether any scholarship links it to Sabian star veneration."
+    },
+    {
+      "timestamp": "00:05:47",
+      "claimEn": "The speaker claims that another coin carries a bird which specialists dispute — some reading it as a dove, others as an eagle — and that the dove is the Christian image of the Holy Spirit while the eagle is the symbol of the evangelist John, whose gospel is called the gospel of vision because it sees the matter from above.",
+      "claimAr": "يقول المتحدث إن عملة أخرى تحمل طائرًا اختلف فيه المختصون بين من يراه يمامة ومن يراه نسرًا، وإن اليمامة عند المسيحيين صورة للروح القدس بينما النسر رمز للإنجيلي يوحنا الذي يُسمّى إنجيله إنجيل الرؤية لأنه يرى الموضوع من أعلى.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the coin type and the scholarly disagreement over the bird; check the traditional association of the eagle with John the Evangelist and of the dove with the Holy Spirit."
+    },
+    {
+      "timestamp": "00:06:36",
+      "claimEn": "The speaker claims that a third coin bears \"Muhammad is the messenger of God\" on one face and the image of a lion on the other, and that the lion symbolizes the one coming from the tribe of Judah, that is, a reference to Christ.",
+      "claimAr": "يقول المتحدث إن عملة ثالثة تحمل \"محمد رسول الله\" في وجه وصورة أسد في الوجه الآخر، وإن الأسد يرمز للآتي من سبط يهوذا، أي إشارة إلى المسيح.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the published lion-type coin with the Arabic legend, and check the biblical basis for the lion of Judah as a messianic symbol."
+    },
+    {
+      "timestamp": "00:07:23",
+      "claimEn": "The speaker claims that these coins combine Arabic religious formulae such as \"there is no god but God alone\" and \"Muhammad is the messenger of God\" with religious symbols that have no connection to Islam, and that some researchers have concluded from this that the \"Muhammad\" on them is the Messiah.",
+      "claimAr": "يقول المتحدث إن هذه العملات تجمع بين عبارات دينية عربية مثل \"لا إله إلا الله وحده\" و\"محمد رسول الله\" وبين رموز دينية لا علاقة لها بالإسلام، وإن بعض الباحثين استنتجوا من ذلك أن \"محمدًا\" فيها هو المسيح.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy",
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify which revisionist scholars read the numismatic \"muhammad\" as a christological epithet rather than a personal name, and how mainstream numismatists answer them."
+    },
+    {
+      "timestamp": "00:07:23",
+      "claimEn": "The speaker claims that the presence of these images, including images of animals, on the coins of that time shows that pictorial representation was not then regarded as forbidden in the way it is thought of now.",
+      "claimAr": "يقول المتحدث إن وجود هذه الصور، ومنها صور بعض الحيوانات، على عملات ذلك الوقت يدل على أن الصورة لم تكن حينئذ محرّمة كما يُتصوَّر الآن.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the chronology of the prohibition of figural images in hadith and law against the dated figural coinage of the first Islamic century."
+    },
+    {
+      "timestamp": "00:08:12",
+      "claimEn": "The speaker claims, against commenters on the previous episode who said these were simply Byzantine coins carrying Christian ideas, that these coins had changed completely and resemble neither Byzantine nor Persian coinage.",
+      "claimAr": "يقول المتحدث، ردًّا على معلّقين على الحلقة السابقة قالوا إن هذه عملات بيزنطية تحمل أفكارًا مسيحية، إن هذه العملات تغيّرت تمامًا فلم تعد تشبه العملة البيزنطية ولا العملة الفارسية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the specific types discussed with their Byzantine and Sasanian prototypes to test how far they diverge from imitative issues."
+    },
+    {
+      "timestamp": "00:09:06",
+      "claimEn": "The speaker claims that one of the three most disputed coins clearly shows an Arab ruler holding a cross in his left hand and the orb of rule in his right, with a cross above his head and, beside him in Syriac Estrangelo script, the name Jesus; while the other face carries the word \"Muhammad\" in Arabic above the letter M denoting forty nummi, the Byzantine coin's smallest unit, with a cross set on the M.",
+      "claimAr": "يقول المتحدث إن إحدى العملات الثلاث الأكثر إثارة للجدل تُظهر بوضوح حاكمًا عربيًا في يده الشمال صليب وفي يده اليمنى كرة الحكم، وفوق رأسه صليب، وإلى جانبه بالخط السرياني الإسطرنجيلي اسم يسوع؛ بينما يحمل الوجه الآخر كلمة \"محمد\" بالعربية فوق حرف الميم الدال على أربعين نومية، وهي أصغر وحدة في العملة البيزنطية، وعلى الميم صليب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "earlier-religious-parallels-syriac-aramaic-philology"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate this coin in the numismatic literature and check independently whether the Syriac legend reads \"Jesus\", whether the Arabic reads \"muhammad\", and how the M/40-nummi mark and crosses are described by specialists."
+    },
+    {
+      "timestamp": "00:09:51",
+      "claimEn": "The speaker claims that the Syriac spelling of the name Jesus is extremely close in its written form to the Arabic spelling of Muhammad, especially in the earliest Hijazi and Kufic Arabic scripts, and that Syriac speakers he asked confirmed the resemblance, some of them seeing it for the first time.",
+      "claimAr": "يقول المتحدث إن رسم اسم يسوع بالسريانية شبيه جدًا في شكله المكتوب برسم محمد بالعربية، خاصة في الخط العربي الأول الحجازي والكوفي، وإن سريانًا سألهم أكّدوا هذا الشبه وبعضهم رآه لأول مرة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-syriac-aramaic-philology",
+        "quran-textual-transmission-script-and-orthography",
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Estrangelo form of ܝܫܘܥ with early Hijazi and Kufic renderings of محمد letter by letter, and check whether any palaeographer has published this observation."
+    },
+    {
+      "timestamp": "00:09:51",
+      "claimEn": "The speaker claims that this graphic resemblance may feed into the research problem of whether Muhammad actually existed as a person or was a reference to the Messiah, and that studies on this question remain unsettled.",
+      "claimAr": "يقول المتحدث إن هذا الشبه في الرسم قد يصبّ في إشكالية البحث حول ما إذا كان محمد موجودًا فعلًا كشخص أم أنه إشارة إلى المسيح، وإن الدراسات في هذا الموضوع لا تزال غير محسومة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey the revisionist debate on whether early attestations of \"muhammad\" are personal names or honorific/christological titles, and note the counter-evidence for a historical individual."
+    },
+    {
+      "timestamp": "00:10:39",
+      "claimEn": "The speaker claims that a second important coin, from Jerusalem, carries \"Muhammad is the messenger of God\" on one face and the Jewish menorah on the other, and that this menorah has five branches rather than the usual seven, the five pointing to the five books written by Moses — meaning that the earliest Muslims or Arabs who struck it deliberately put five candles and not seven.",
+      "claimAr": "يقول المتحدث إن عملة ثانية مهمة من القدس تحمل \"محمد رسول الله\" في وجه والمينورة اليهودية في الوجه الآخر، وإن هذه المينورة بخمس شعب لا بسبع كالمعتاد، والخمس تشير إلى أسفار موسى الخمسة، أي أن المسلمين الأوائل أو العرب الذين سكّوها وضعوا خمس شمعات لا سبعًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Find the published menorah-type coin with the Arabic legend, confirm the number of branches on surviving specimens, and check whether any source supports reading five branches as the Pentateuch."
+    },
+    {
+      "timestamp": "00:11:28",
+      "claimEn": "The speaker claims that a third coin carries \"there is no god but God alone\" on one face and \"Muhammad is the messenger of God\" around the image of a fish on the other, the fish being the well-known Christian Ichthys, a Greek acronym for \"Jesus Christ, Son of God, Saviour\".",
+      "claimAr": "يقول المتحدث إن عملة ثالثة تحمل \"لا إله إلا الله وحده\" في وجه و\"محمد رسول الله\" حول صورة سمكة في الوجه الآخر، والسمكة هي الإخثوس المسيحي المعروف، وهي اختصار يوناني لعبارة \"يسوع المسيح ابن الله المخلّص\".",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the fish-type coin with both Arabic legends and confirm the standard expansion of the Greek ICHTHYS acronym."
+    },
+    {
+      "timestamp": "00:12:13",
+      "claimEn": "The speaker claims that the fish was the symbol of the first Christians before the sign of the cross became widespread, because the disciples of Christ such as Peter were fishermen and became fishers of believers.",
+      "claimAr": "يقول المتحدث إن السمكة كانت رمز المسيحيين الأوائل قبل أن يشيع علامة الصليب، لأن تلاميذ المسيح كبطرس كانوا صيادي سمك فصاروا صيادي مؤمنين.",
+      "claimType": "historical",
+      "premiseStance": "irrelevant",
+      "existingTopicIds": [
+        "sirah-christian-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Background on early Christian symbolism; check the standard account of the Ichthys preceding the cross as a Christian sign."
+    },
+    {
+      "timestamp": "00:12:58",
+      "claimEn": "The speaker claims it is strange for a coin to carry the Islamic testimony of faith on one face and on the other the fish declaring Jesus to be the Son of God and Saviour — something the Qur'an denies — and that this leaves only two options: either those who struck it did not understand what the symbol meant, or they did understand it, in which case \"they did not kill him nor crucify him\" must have another interpretation.",
+      "claimAr": "يقول المتحدث إنه من الغريب أن تحمل عملة الشهادة الإسلامية في وجه وفي الوجه الآخر السمكة التي تقول إن يسوع ابن الله المخلّص، وهو ما ينفيه القرآن، وإن ذلك لا يترك إلا احتمالين: إما أن من سكّوها لم يفهموا معنى الرمز، وإما أنهم فهموه فيكون لقوله \"وما قتلوه وما صلبوه\" تفسير آخر.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "quran-lexical-and-interpretive-questions",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the Qur'anic denial of divine sonship and of the crucifixion, and weigh whether the coexistence of the shahada and the Ichthys on one coin admits other explanations, such as reuse of engravers' dies or mixed workshops."
+    },
+    {
+      "timestamp": "00:13:50",
+      "claimEn": "The speaker claims that Dr Christoph Luxenberg has a detailed study arguing that the Qur'an may not reject the idea of the crucifixion at all, but means that those who crucified Christ supposed they had killed him while he did not die, since crucifixion's purpose is permanent death and Christ rose on the third day, so the killing did not perform its real function.",
+      "claimAr": "يقول المتحدث إن الدكتور كريستوف لوكسنبرغ له بحث مفصّل يرى أن القرآن ربما لا يرفض فكرة الصلب أصلًا، بل يعني أن من صلبوا المسيح ظنّوا أنهم قتلوه وهو لم يمت، لأن وظيفة الصلب الموت إلى الأبد والمسيح قام في اليوم الثالث، فلم تؤدِّ عملية القتل وظيفتها الحقيقية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis",
+        "quran-textual-transmission-syro-aramaic-philology",
+        "quran-lexical-and-interpretive-questions",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate Luxenberg's published treatment of the crucifixion verse, check the wording of the verse and its classical exegesis, and record the philological criticism of Luxenberg's method."
+    },
+    {
+      "timestamp": "00:14:35",
+      "claimEn": "The speaker claims that the period of these coins is the very period in which the texts of the Qur'an appeared and were collected.",
+      "claimAr": "يقول المتحدث إن فترة هذه العملات هي نفسها الفترة التي ظهرت فيها نصوص القرآن وتجمّعت.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the traditional dating of the Uthmanic collection with revisionist datings that place the text's fixation in the later seventh century, and with the radiocarbon and palaeographic evidence."
+    },
+    {
+      "timestamp": "00:14:35",
+      "claimEn": "The speaker claims that the same influences visible in the Qur'an — Sabian, Jewish, Christian and Greek — are found on the coins of the same period.",
+      "claimAr": "يقول المتحدث إن التأثيرات نفسها الظاهرة في القرآن من صابئية ويهودية ومسيحية ويونانية توجد أيضًا على عملات الفترة نفسها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the symbol repertoire on the coins can be matched item by item with the alleged religious strands in the Qur'anic text, or whether the parallel is rhetorical."
+    },
+    {
+      "timestamp": "00:14:35",
+      "claimEn": "The speaker claims that in earlier episodes it was shown that the story of Abraham appears in Midrash Rabbah, that the story of the People of the Cave was written by Jacob of Serugh more than a century and a half or two centuries before Islam, and that the star motif appears in Surat al-Najm.",
+      "claimAr": "يقول المتحدث إنه سبق أن بيّنوا في حلقات سابقة أن قصة إبراهيم موجودة في مدراش ربّة، وأن قصة أهل الكهف كتبها يعقوب السروجي قبل الإسلام بأكثر من قرن ونصف أو قرنين، وأن موضوع النجم يظهر في سورة النجم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels",
+        "quran-historical-claims-kahf-narratives",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Abraham material in Midrash Rabbah, the date and content of Jacob of Serugh's homily on the Sleepers of Ephesus, and the star material in Surat al-Najm against the Qur'anic versions."
+    },
+    {
+      "timestamp": "00:15:25",
+      "claimEn": "The speaker claims that the Qur'an is a cultural aggregation of what existed in that era: these stories and subjects were already known, and the text gives each group its own face within it.",
+      "claimAr": "يقول المتحدث إن القرآن عبارة عن تجمّع ثقافي لما كان موجودًا في ذلك العصر: فهذه القصص والمواضيع كانت معروفة، والنص يعطي كل مجموعة وجهها فيه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Test the aggregation thesis against the range of documented pre-Islamic parallels and against the counter-argument that shared regional material does not entail literary dependence."
+    },
+    {
+      "timestamp": "00:16:10",
+      "claimEn": "The speaker claims that the Qur'an is like a final basin into which small rivers and streams pour, and that this matches exactly what is seen on the coins, where the cultural influence of other cultures is evident.",
+      "claimAr": "يقول المتحدث إن القرآن أشبه بمصبّ نهائي تصبّ فيه أنهار صغيرة ومجارٍ صغيرة، وإن ذلك يتماشى تمامًا مع ما يُرى على العملات حيث يظهر التأثير الثقافي للثقافات الأخرى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Interpretive image restating the aggregation thesis; check whether the numismatic evidence is being used as an analogy or as an independent argument."
+    },
+    {
+      "timestamp": "00:16:10",
+      "claimEn": "The speaker claims that the early Umayyad period was a period of such openness because Arab rulers arrived with a new religion, or at least a new conception of God, over peoples in Iraq, Syria, Egypt and Bahrain who each still kept their original religion.",
+      "claimAr": "يقول المتحدث إن فترة العصر الأموي الأول كانت فترة انفتاح كهذا لأن حكامًا عربًا جاؤوا بديانة جديدة أو على الأقل بتصوّر جديد لفكرة الإله على شعوب في العراق وسوريا ومصر والبحرين ما زال كل شعب منها محتفظًا بدينه الأصلي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the religious composition of the early Umayyad provinces and the evidence for the pace of conversion in the first Islamic century."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "The speaker claims it was not feasible for the new rulers to impose their own religious symbols at once and abolish crosses, fishes, stars and Sabian emblems, because what they needed first from these populations was the jizya or taxes and obedience without rebellion.",
+      "claimAr": "يقول المتحدث إنه لم يكن ممكنًا للحكام الجدد أن يفرضوا رموزهم الدينية دفعة واحدة ويلغوا الصلبان والسمك والنجوم ورموز الصابئة، لأن ما كانوا يحتاجونه من هذه الشعوب أولًا هو الجزية أو الضرائب والسمع والطاعة دون تمرّد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the fiscal basis of early Arab rule and whether tax-driven pragmatism is the explanation given in the scholarship for the continuity of local religious iconography."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "The speaker claims that the local governors, as distinct from the emperor or caliph, saw the nature of the peoples under their rule — Christians, Sabians, Kaka'is and others in Iraq — and had more foresight than a caliph who might want only his own religion and language imposed.",
+      "claimAr": "يقول المتحدث إن الولاة المحليين، بخلاف الإمبراطور أو الخليفة، كانوا يرون طبيعة الشعوب الخاضعة لهم من مسيحيين وصابئة وكاكائيين وغيرهم في العراق، وكان عندهم بُعد نظر أكثر من خليفة قد يريد فرض دينه ولغته فقط.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check what is known about the autonomy of provincial governors in minting and religious policy under the Sufyanid Umayyads."
+    },
+    {
+      "timestamp": "00:17:42",
+      "claimEn": "The speaker claims that a transitional stage was necessary in which the subject peoples were left to display their own symbols and even to let their influences enter Islam, just as the Qur'an opened onto the surrounding cultures and took from Judaism, Greek culture, Christianity and Syriac, and the coinage likewise began to open up.",
+      "claimAr": "يقول المتحدث إنه كان لا بد من مرحلة انتقالية تُترك فيها الشعوب تضع رموزها بل وتُدخل تأثيراتها على الإسلام، تمامًا كما انفتح القرآن على الثقافات المحيطة وأخذ من اليهودية واليونانية والمسيحية والسريانية، وكذلك ابتدأت العملات تنفتح.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the claim that non-Arab religious influences entered Islam during a deliberate transitional stage is supported by any documentary evidence or is an inference from the coin iconography."
+    },
+    {
+      "timestamp": "00:18:29",
+      "claimEn": "The speaker claims that Sebeos was the first non-Islamic figure to mention the name Muhammad, describing him as an Arab man, a merchant, who was thoroughly acquainted with the Jewish heritage in all its aspects.",
+      "claimAr": "يقول المتحدث إن سيبيوس هو أول شخصية غير إسلامية ذكرت اسم محمد، وقد وصفه بأنه رجل عربي تاجر كان يُلمّ بالتراث اليهودي بكل جوانبه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read the relevant chapter of the Armenian History attributed to Sebeos in a critical translation, and check both the priority claim and the description of Muhammad as a merchant versed in Jewish tradition."
+    },
+    {
+      "timestamp": "00:18:29",
+      "claimEn": "The speaker claims that in the year 628 Heraclius recovered Jerusalem and Syria from the Persians, and that persecution of the Jews then began because the Jews had been loyal to the Persians and had been persecuting the Christians before the recapture.",
+      "claimAr": "يقول المتحدث إن هرقل استرجع في سنة 628 القدس وبلاد الشام من يد الفرس، فبدأ اضطهاد اليهود لأنهم كانوا موالين للفرس وكانوا يضطهدون المسيحيين قبل استرجاع القدس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the date and circumstances of Heraclius' restoration of Jerusalem and the reported measures taken against the Jewish population afterwards."
+    },
+    {
+      "timestamp": "00:19:16",
+      "claimEn": "The speaker claims that some references state that Jews at that time had to become baptized Christians or else be expelled.",
+      "claimAr": "يقول المتحدث إن بعض المراجع تفيد أن اليهود في ذلك الوقت كان عليهم أن يتعمّدوا مسيحيين وإلا طُردوا خارجًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the sources for Heraclius' reported edict of forced baptism of Jews and its geographical scope; the speaker names no reference, so the locator is vague."
+    },
+    {
+      "timestamp": "00:19:16",
+      "claimEn": "The speaker claims that the Jews, having no other recourse after the defeat of the weakened Sasanian power, looked for an alternative force and found it in the Arabs, and that according to Sebeos they went to the Arabs and asked their help to recover the Promised Land, that is Palestine, which had been given by God to the people of Israel, bringing the Arabs in on the ground that they are sons of Ishmael.",
+      "claimAr": "يقول المتحدث إن اليهود، إذ لم يبقَ لهم حلّ بعد هزيمة القوة الساسانية الضعيفة، بحثوا عن قوة بديلة فوجدوها في العرب، وإنهم بحسب سيبيوس ذهبوا إلى العرب وطلبوا منهم المساعدة لاسترجاع الأرض الموعودة أي فلسطين التي أُعطيت من الله لشعب إسرائيل، وأدخلوا العرب على أساس أنهم أولاد إسماعيل.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Sebeos' account of the Jewish-Arab approach and check whether the text presents it as a Jewish initiative appealing to Ishmaelite descent and the Promised Land."
+    },
+    {
+      "timestamp": "00:20:03",
+      "claimEn": "The speaker claims that the Arabs at first refused, saying the Jews had their own problems while the Arabs were Bedouin with a wholly different culture, but that the Jewish argument that the Arabs too are sons of Abraham with a right to the land prevailed, and the two allied against a Byzantium that had just emerged from a hard war with Persia.",
+      "claimAr": "يقول المتحدث إن العرب رفضوا في البداية قائلين إن لليهود إشكالياتهم وإن العرب بدو لهم ثقافتهم المختلفة تمامًا، لكن حجّة اليهود بأن العرب أيضًا أولاد إبراهيم ولهم حق في هذه الأرض غلبت، فتحالف الطرفان ضد بيزنطة الخارجة لتوّها من معركة قوية ضد الفرس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check whether Sebeos or another early source records the initial Arab refusal and the Abrahamic-descent argument, and whether the alliance is attested outside the revisionist reconstruction."
+    },
+    {
+      "timestamp": "00:20:54",
+      "claimEn": "The speaker claims that this alliance first met defeat for the Arabs at the battle of Mu'ta but that they later succeeded in overcoming the Romans or Byzantines, and that this whole problem is set out in the book \"Hagarism\" by Patricia Crone and Cook, translated into Arabic by Dr Nabil Fayyad.",
+      "claimAr": "يقول المتحدث إن هذا التحالف بدأ بانهزام العرب في معركة مؤتة ثم استطاعوا فيما بعد التغلّب على الروم أو البيزنطيين، وإن هذه الإشكالية كلها مشروحة في كتاب \"الهاجريون\" لباتريشيا كرون وكوك، وقد ترجمه إلى العربية الدكتور نبيل فياض.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Read Crone and Cook's \"Hagarism\" for the Jewish-Arab alliance thesis and note that the speaker gives the co-author's first name as Thomas rather than Michael; check the Arabic translation attributed to Nabil Fayyad."
+    },
+    {
+      "timestamp": "00:21:36",
+      "claimEn": "The speaker claims that the earliest Qur'anic text praises the Jews and raises their standing, saying \"I favoured you above the worlds\" and acknowledging them as God's chosen people, and that afterwards it reviles them, saying God cursed them, that among them are apes and swine and worshippers of taghut, and that they are the worst of beasts before God — and that these belong to distinct stages.",
+      "claimAr": "يقول المتحدث إن النص القرآني الأول فيه مديح لليهود ورفع من شأنهم، إذ يقول \"فضّلتكم على العالمين\" ويعترف بأنهم شعب الله المختار، ثم يشتمهم بعد ذلك فيقول إن الله لعنهم وإن منهم القردة والخنازير وعبدة الطاغوت وإنهم شرّ الدوابّ عند الله، وإن ذلك يعود إلى مراحل مختلفة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the verses quoted loosely here (the favouring of the Children of Israel, the cursing, the apes and swine, the worst of beasts), check their traditional chronological placement, and test whether the shift tracks a political alliance and its breakdown."
+    },
+    {
+      "timestamp": "00:21:36",
+      "claimEn": "The speaker claims that a second alliance between Jews and Muslims against the Byzantines was supposed to have followed, and that there are even texts showing that the Jews of that time looked on the prophet of the Arabs as the redeemer who was coming to save them from bondage and to recover the Promised Land.",
+      "claimAr": "يقول المتحدث إنه كان من المفترض أن يقوم بعد ذلك تحالف ثانٍ بين اليهود والمسلمين ضد البيزنطيين، وإن هناك نصوصًا توضّح أن يهود ذلك الوقت كانوا ينظرون إلى نبي العرب على أنه المخلّص الآتي ليخلّصهم من العبودية ويسترجع الأرض الموعودة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the texts said to portray the Arab prophet as a Jewish messianic deliverer, such as the Doctrina Jacobi and the Secrets of Rabbi Shim'on b. Yohai; the speaker names none."
+    },
+    {
+      "timestamp": "00:22:21",
+      "claimEn": "The speaker claims that Islamic tradition gives a completely different picture of this relationship from the one these external sources give.",
+      "claimAr": "يقول المتحدث إن الإسلام يعطينا صورة مختلفة تمامًا لهذه العلاقة عن الصورة التي تعطيها هذه المصادر الخارجية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-source-traditions",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the sirah account of relations with the Jews of Medina with the external reports of a Jewish-Arab alliance, and assess how far the two are genuinely irreconcilable."
+    },
+    {
+      "timestamp": "00:22:21",
+      "claimEn": "The speaker claims, against commenters who cited Volker Popp's explanation that the figure shown on the coin is not Mu'awiya but John the Baptist carrying his own head, that John the Baptist could not be shown carrying his head or carrying two crosses when the cross had not yet appeared as a symbol, and that since the coin belongs to Mu'awiya's reign the ruler on it must be either Abd al-Malik or Mu'awiya.",
+      "claimAr": "يقول المتحدث، ردًّا على معلّقين استشهدوا بشرح فولكر بوب أن الشخصية على العملة ليست معاوية بن أبي سفيان بل يوحنا المعمدان حاملًا رأسه، إن يوحنا المعمدان لا يمكن أن يُصوَّر حاملًا رأسه ولا حاملًا صليبين والصليب لم يكن قد ظهر بعد كرمز، وإن العملة ما دامت من عهد معاوية فالحاكم عليها لا بد أن يكون عبد الملك أو معاوية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Read Volker Popp's identification of the standing figure on the Arab-Byzantine coin and check the speaker's counter-arguments about the two crosses, the head, and the dating of cross iconography."
+    },
+    {
+      "timestamp": "00:23:54",
+      "claimEn": "The speaker claims that most of these coins give no names of rulers, showing only figures and symbols, while it is the Sasanian-type coinage that most often gives the ruler's name, and that there is a series of Arab governors named on such coins, the best known being Ubayd Allah ibn Ziyad, who was over Basra in the year 55 AH when the governor was Yazid ibn Mu'awiya, as well as Ziyad ibn Abi Sufyan and Umayya ibn Abdallah.",
+      "claimAr": "يقول المتحدث إن أكثر هذه العملات لا تعطي أسماء الحكام بل تُظهر بعض الشخصيات والرموز فقط، بينما العملة الساسانية هي الأكثر إعطاءً لاسم الحاكم، وإن هناك سلسلة من الولاة العرب على هذه العملات أشهرهم عبيد الله بن زياد الذي كان على البصرة سنة 55 هجرية وكان الوالي يزيد بن معاوية، وكذلك زياد بن أبي سفيان وأمية بن عبد الله.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Arab-Sasanian coin catalogues for the governors' names and mint dates cited, and confirm the roles and dates attributed to Ubayd Allah ibn Ziyad, Ziyad ibn Abi Sufyan and Umayya ibn Abdallah."
+    },
+    {
+      "timestamp": "00:24:42",
+      "claimEn": "The speaker claims that the fact that the caliph's name is not put on all the coins shows that there was self-rule in some regions, and that this in turn explains the local symbols, because the local ruler saw the nature of the peoples under him and wanted to placate tribal chiefs and religious leaders by telling them to keep their coinage as it was — he would write \"Muhammad\" on one face while they put the Messiah, or a fish, or the star of David, or the menorah, or the Zoroastrian fire.",
+      "claimAr": "يقول المتحدث إن كون اسم الخليفة ليس على كل العملات يدل على وجود حكم ذاتي في بعض المناطق، وإن ذلك يفسّر الرموز المحلية، لأن الحاكم المحلي كان يرى طبيعة الشعوب تحته ويريد استرضاء زعماء القبائل وزعماء الأديان فيقول لهم اتركوا عملتكم كما هي: أنا أكتب \"محمد\" في وجه وأنتم ضعوا المسيح أو سمكة أو نجمة داود أو المينورة أو النار الزرادشتية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "zoroastrian-parallels"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy",
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether the absence of the caliph's name on many issues is generally read as evidence of provincial autonomy, and whether the range of symbols listed is actually attested on struck coins rather than inferred."
+    },
+    {
+      "timestamp": "00:25:31",
+      "claimEn": "The speaker claims that a kind of pragmatism and a kind of diversity existed in the early Umayyad period, and that it is the same diversity and the same influences seen in the Qur'an, its texts and its stories.",
+      "claimAr": "يقول المتحدث إنه كان في العصر الأموي الأول نوع من البراغماتية ونوع من التنوّع، وإنه التنوّع نفسه والتأثيرات نفسها التي نراها في القرآن ونصوصه وقصصه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the claimed correspondence between coin iconography and Qur'anic content amounts to an argument or an analogy."
+    },
+    {
+      "timestamp": "00:25:31",
+      "claimEn": "The speaker claims that the expansion of that period was political par excellence and not religious as some believe, and that the very acceptance of symbols contrary to what the Qur'anic text says proves the matter was political.",
+      "claimAr": "يقول المتحدث إن التوسع في تلك الفترة كان توسعًا سياسيًا بامتياز لا توسعًا دينيًا كما يعتقد البعض، وإن مجرد قبولهم برموز تخالف ما يقوله النص القرآني يفيد بامتياز أن الموضوع سياسي لا ديني.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct",
+        "sirah-historical-setting-and-identity"
+      ],
+      "newTopicIds": [
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Weigh the inference from tolerated iconography to a purely political expansion against alternative explanations such as administrative continuity and mint conservatism."
+    },
+    {
+      "timestamp": "00:26:19",
+      "claimEn": "The speaker claims that the peoples surrounding the Arabs did not record that a new religion had come; all they mention is that these Arabs held a Christian heresy, or they speak simply of \"the Arab conquest\" with no reference at all to Islam or to an Islamic religion in this period.",
+      "claimAr": "يقول المتحدث إن الشعوب المحيطة بالعرب لم تذكر أنه جاء دين جديد، وكل ما تذكره أنها كانت هرطقة مسيحية لهؤلاء العرب، أو تقول \"الفتح العربي\" دون أي إشارة إلى الإسلام ولا ذكر للدين الإسلامي بالمرة في هذه الفترة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "sirah-source-traditions"
+      ],
+      "newTopicIds": [
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey seventh-century Syriac, Greek, Armenian and Coptic sources for how they describe the Arab conquerors and their religion, and check whether any of them describe a new religion before the 690s."
+    },
+    {
+      "timestamp": "00:26:19",
+      "claimEn": "The speaker claims that the word \"Islam\" does not occur in any text or in any inscription before Abd al-Malik ibn Marwan.",
+      "claimAr": "يقول المتحدث إن كلمة \"الإسلام\" لا توجد في أي نص ولا في أي نقش قبل عبد الملك بن مروان.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy",
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the corpus of dated seventh-century Arabic inscriptions, papyri and coin legends for any occurrence of the term islam before Abd al-Malik, including the Dome of the Rock inscriptions of 72 AH."
+    },
+    {
+      "timestamp": "00:27:09",
+      "claimEn": "The speaker claims that Abd al-Malik ibn Marwan changed this pragmatism and decided to create a single identity and a single religion to unite all the peoples under his rule, and that this is reflected in his administrative registers, in the Dome of the Rock which he built, and above all in the coinage, in the first Islamic dinar inscribed \"there is no god but God, Muhammad is the messenger of God\".",
+      "claimAr": "يقول المتحدث إن عبد الملك بن مروان غيّر هذه البراغماتية وقرّر أن يجعل هوية واحدة ودينًا واحدًا يجمع كل الشعوب التي تحت حكمه، وإن ذلك انعكس في دواوينه وفي قبة الصخرة التي بناها وأهم شيء في العملات، في أول دينار إسلامي كُتب عليه \"لا إله إلا الله محمد رسول الله\".",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [
+        "early-islamic-coinage-and-epigraphy",
+        "umayyad-religious-policy-and-identity"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the date and legends of Abd al-Malik's reformed epigraphic dinar, the Arabicization of the diwans, and the inscriptional programme of the Dome of the Rock, and assess whether these amount to the deliberate creation of a single religious identity."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:02",
+      "asStatedInVideo": "معاوية بن أبي سفيان — الحلقة السابقة تحدثت عنه كشخصية غامضة ومربكة للباحثين",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:55",
+      "asStatedInVideo": "عبد الملك بن مروان — الفترة موضوع الحلقة هي ما بينه وبين معاوية",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:44",
+      "asStatedInVideo": "الأستاذ محمد المسيح، ضيف الحلقة، جامع وباحث في عملات العصر الأموي",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:21",
+      "asStatedInVideo": "خسرو الثاني — صورته على الدرهم الساساني",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:03:21",
+      "asStatedInVideo": "العملات البيزنطية المتداولة بعد دخول العرب بلاد الشام والعراق: السوليدوس من الذهب والفلس من البرونز",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:03:21",
+      "asStatedInVideo": "الدرهم الساساني: صورة خسرو الثاني في وجه والنار المقدسة تبع الزرادشتية في الوجه الآخر",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:05:02",
+      "asStatedInVideo": "عملة من البحرين: نجمة خماسية في وجه، ومكتوب في الوجه الآخر لا إله إلا الله وحده",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "لا إله إلا الله وحده",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:05:47",
+      "asStatedInVideo": "عملة اختلف المختصون في طائرها بين يمامة ونسر",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:47",
+      "asStatedInVideo": "إنجيل يوحنا، ويُنسب إليه النسر لأن رؤيته من أعلى شاملة؛ ويسمّيه المتحدث إنجيل الرؤية",
+      "workTitle": "إنجيل يوحنا",
+      "author": "يوحنا",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:06:36",
+      "asStatedInVideo": "سفر الرؤيا — يميّزه المقدّم عن إنجيل يوحنا (\"ده غير إنجيل الرؤية، ده سفر رؤية\")",
+      "workTitle": "سفر الرؤيا",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:06:36",
+      "asStatedInVideo": "عملة رقم ثلاثة: محمد رسول الله من جهة وصورة الأسد من جهة أخرى",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "محمد رسول الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:36",
+      "asStatedInVideo": "الآتي من سبط يهوذا، والأسد يرمز له، وهو إشارة للمسيح",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:06",
+      "asStatedInVideo": "عملة عليها حاكم عربي في يده الشمال صليب وفي اليمنى كرة الحكم وفوق رأسه صليب، وبجانبه بالخط السرياني الإسطرنجيلي \"يسوع\"، وفي الجهة الثانية كلمة محمد بالعربي فوق حرف الميم (أربعين نومية) وعليه صليب",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:10:39",
+      "asStatedInVideo": "عملة من القدس: محمد رسول الله من ناحية والمينورة (الشمعدان اليهودي) بخمس شمعات من الناحية الثانية",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "محمد رسول الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "أسفار موسى الخمسة — الخمس شمعات تشير إليها لأن موسى كتب الأسفار الخمسة",
+      "workTitle": "أسفار موسى الخمسة",
+      "author": "موسى",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "عملة ثالثة: لا إله إلا الله وحده من جهة، ومحمد رسول الله حول سمكة من الجهة الأخرى",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "لا إله إلا الله وحده",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:13",
+      "asStatedInVideo": "بطرس وتلاميذ السيد المسيح، كانوا صيادي سمك فصاروا صيادي مؤمنين",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:58",
+      "asStatedInVideo": "\"وما قتلوه وما صلبوه ولكن شبه لهم\" — يُقتبس دون ذكر رقم السورة أو الآية",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وما قتلوه وما صلبوه ولكن شبه لهم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:50",
+      "asStatedInVideo": "الدكتور كريستوف لوكسنبرغ، له بحث بالتفصيل في معنى وما قتلوه وما صلبوه",
+      "author": "كريستوف لوكسنبرغ",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:14:35",
+      "asStatedInVideo": "قصة إبراهيم في \"مدراش ربة\"",
+      "workTitle": "مدراش ربّة",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:25",
+      "asStatedInVideo": "يعقوب السروجي هو الذي كتب قصة أهل الكهف قبل الإسلام بأكثر من قرن ونصف أو قرنين",
+      "author": "يعقوب السروجي",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:25",
+      "asStatedInVideo": "موضوع النجم \"في صورة النجم\" — أي سورة النجم، دون ذكر رقم آية",
+      "workTitle": "القرآن، سورة النجم",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:42",
+      "asStatedInVideo": "قصة الفيل \"صورة الفيل\" — أي سورة الفيل، مع ما رواه سيبيوس عن الموضوع",
+      "workTitle": "القرآن، سورة الفيل",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:29",
+      "asStatedInVideo": "سيبيوس، أول شخصية غير إسلامية ذكرت اسم محمد، ووصفه بأنه عربي تاجر ملمّ بالتراث اليهودي",
+      "author": "سيبيوس",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:18:29",
+      "asStatedInVideo": "هيراكليوس (هرقل) استرجع القدس من يد الفرس",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:18:29",
+      "asStatedInVideo": "استرجاع هرقل للقدس وبلاد الشام سنة 628 وما تلاه من اضطهاد لليهود",
+      "author": "",
+      "workTitle": "",
+      "locator": "سنة 628",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:19:16",
+      "asStatedInVideo": "\"بعض المراجع تفيد أن بالنسبة لليهود لازم يصير مسيحي يتعمد وإلا يطردوه برا\" — دون تسمية المرجع",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:20:54",
+      "asStatedInVideo": "معركة مؤتة، انهزم فيها العرب أولًا قبل أن يتغلبوا على البيزنطيين",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:20:54",
+      "asStatedInVideo": "\"كتاب شيق جدا اسمه الهاجريون يعني باتريشا كرون توماس كوك واللي ترجمه للعربية الدكتور نبيل فياض\" — اسم المؤلف الثاني ذُكر توماس كوك",
+      "workTitle": "الهاجريون",
+      "author": "باتريشيا كرون وكوك (ذُكر باسم توماس كوك)",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:54",
+      "asStatedInVideo": "باتريشيا كرون، مؤلفة كتاب الهاجريون",
+      "author": "باتريشيا كرون",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:54",
+      "asStatedInVideo": "\"توماس كوك\" كما ورد في الحلقة، المؤلف المشارك لكتاب الهاجريون",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:54",
+      "asStatedInVideo": "الدكتور نبيل فياض، مترجم كتاب الهاجريون إلى العربية",
+      "author": "نبيل فياض",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:36",
+      "asStatedInVideo": "\"وحتى بيقول فضلتكم على العالمين\" ويعترف بأنهم شعب الله المختار — دون ذكر رقم السورة أو الآية",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "فضلتكم على العالمين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:36",
+      "asStatedInVideo": "\"يقول إن الله لعنهم ومنهم القردة والخنازير وعبدة الطاغوت\" — دون ذكر رقم السورة أو الآية",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ومنهم القردة والخنازير وعبدة الطاغوت",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:36",
+      "asStatedInVideo": "\"وأن شر الدواب عند الله\" — دون ذكر رقم السورة أو الآية",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "شر الدواب عند الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:21",
+      "asStatedInVideo": "فولكر بوب، شرح أن الشخصية على العملة ليست معاوية بل يوحنا المعمدان",
+      "author": "فولكر بوب",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:21",
+      "asStatedInVideo": "يوحنا المعمدان — الصورة التي قيل إنها له وهو يحمل رأسه",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:54",
+      "asStatedInVideo": "عبيد الله بن زياد، كان على البصرة سنة 55 هجرية",
+      "author": "",
+      "workTitle": "",
+      "locator": "البصرة، سنة 55 هجرية",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:54",
+      "asStatedInVideo": "يزيد بن معاوية، ذُكر بوصفه الوالي في ذلك الوقت",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:54",
+      "asStatedInVideo": "زياد بن أبي سفيان، من الحكام الذين وردت أسماؤهم على العملة الساسانية",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:54",
+      "asStatedInVideo": "أمية بن عبد الله، من الحكام الذين وردت أسماؤهم على العملة الساسانية",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:27:09",
+      "asStatedInVideo": "قبة الصخرة التي بناها عبد الملك بن مروان",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:27:09",
+      "asStatedInVideo": "أول دينار إسلامي كُتب عليه لا إله إلا الله محمد رسول الله",
+      "author": "",
+      "workTitle": "",
+      "locator": "",
+      "quotedArabic": "لا إله إلا الله محمد رسول الله",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "early-islamic-coinage-and-epigraphy",
+      "titleEn": "Early Islamic coinage and epigraphy",
+      "titleAr": "العملات والنقوش الإسلامية المبكرة",
+      "descriptionEn": "Claims resting on struck coins, their legends and iconography, and on dated inscriptions of the first Islamic century, used to reconstruct the religious identity, symbols and administration of early Arab rule.",
+      "descriptionAr": "دعاوى تستند إلى العملات المسكوكة ونقوشها ورموزها وإلى النقوش المؤرَّخة في القرن الإسلامي الأول، تُستعمل لإعادة بناء الهوية الدينية والرموز والإدارة في الحكم العربي المبكر.",
+      "suggestedParentId": "sirah-historical-setting-and-identity",
+      "closestExistingId": "quran-textual-transmission-formation-and-chronology",
+      "rationale": "This episode is built almost entirely on numismatic material — coin legends, symbols, mint attributions, governors' names — and the series returns to coins and inscriptions repeatedly. The closest existing home, the formation-and-chronology topic, covers epigraphic evidence only insofar as it bears on the Qur'anic text, and nothing in the taxonomy covers material evidence for early Arab rule as such."
+    },
+    {
+      "proposedId": "umayyad-religious-policy-and-identity",
+      "titleEn": "Umayyad religious policy and the formation of Islamic identity",
+      "titleAr": "السياسة الدينية الأموية وتكوّن الهوية الإسلامية",
+      "descriptionEn": "Claims about how the early Arab rulers handled the religions of their subjects, the argument that the expansion was political rather than religious, and the process by which a single Islamic identity and creed was imposed, notably under Abd al-Malik ibn Marwan.",
+      "descriptionAr": "دعاوى حول تعامل الحكام العرب الأوائل مع أديان رعاياهم، والقول بأن التوسع كان سياسيًا لا دينيًا، وكيفية فرض هوية وعقيدة إسلامية واحدة، خاصة في عهد عبد الملك بن مروان.",
+      "suggestedParentId": "sirah-historical-setting-and-identity",
+      "closestExistingId": "sirah-historical-setting-and-identity",
+      "rationale": "A recurring subject in this series — the pragmatism of the Sufyanid period, the tolerated local symbols, and Abd al-Malik's standardization — that is about the Umayyad state rather than the prophetic biography, and so sits awkwardly under the general sirah setting topic without a dedicated child."
+    },
+    {
+      "proposedId": "non-muslim-witnesses-to-early-islam",
+      "titleEn": "Non-Muslim contemporary witnesses",
+      "titleAr": "الشهادات المعاصرة غير الإسلامية",
+      "descriptionEn": "Claims resting on seventh-century Christian, Jewish and other non-Muslim sources — Sebeos and comparable chronicles — including what they say and do not say about Muhammad, the Arab conquest, and the existence of a new religion.",
+      "descriptionAr": "دعاوى تستند إلى مصادر غير إسلامية من القرن السابع، مسيحية ويهودية وغيرها كسيبيوس والحوليات المشابهة، بما في ذلك ما تقوله وما لا تقوله عن محمد والفتح العربي ووجود دين جديد.",
+      "suggestedParentId": "sirah-historical-setting-and-identity",
+      "closestExistingId": "sirah-source-traditions",
+      "rationale": "A substantial block of this episode rests on external witnesses and on the argument from their silence. The existing source-traditions topic covers the internal Islamic literary tradition, and early attestations are only a clause in the historical-setting description; external testimony is a distinct and recurring evidential category in this series."
+    }
+  ]
+}
