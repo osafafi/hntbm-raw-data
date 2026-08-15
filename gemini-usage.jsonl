@@ -736,3 +736,5 @@
 {"timestamp": "2026-08-15T15:46:26+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-eschatology-and-the-grave", "backend": "claude", "attempts": 1, "durationMs": 22830}
 {"timestamp": "2026-08-15T15:46:26+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-salman-al-farisi"}
 {"timestamp": "2026-08-15T15:46:53+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-salman-al-farisi", "backend": "claude", "attempts": 1, "durationMs": 27096}
+{"timestamp": "2026-08-15T16:07:53+00:00", "event": "extract_started", "videoId": "yUlP6H7CasI"}
+{"timestamp": "2026-08-15T16:17:02+00:00", "event": "extract_succeeded", "videoId": "yUlP6H7CasI", "backend": "claude", "attempts": 1, "durationMs": 548512}
