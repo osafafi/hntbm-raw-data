@@ -365,3 +365,58 @@
 {"timestamp": "2026-08-15T05:06:19+00:00", "event": "extract_succeeded", "videoId": "E-b6N24Tkjs", "backend": "claude", "attempts": 1, "durationMs": 505245}
 {"timestamp": "2026-08-15T05:06:19+00:00", "event": "extract_started", "videoId": "sHhwtIxZc5c"}
 {"timestamp": "2026-08-15T05:13:46+00:00", "event": "extract_succeeded", "videoId": "sHhwtIxZc5c", "backend": "claude", "attempts": 1, "durationMs": 446541}
+{"timestamp": "2026-08-15T06:19:47+00:00", "event": "research_started", "claimId": "3aHUwinjsoQ#00:06:09-2"}
+{"timestamp": "2026-08-15T06:23:02+00:00", "event": "research_succeeded", "claimId": "3aHUwinjsoQ#00:06:09-2", "backend": "claude", "attempts": 1, "durationMs": 195872}
+{"timestamp": "2026-08-15T06:23:02+00:00", "event": "research_started", "claimId": "3aHUwinjsoQ#00:07:42"}
+{"timestamp": "2026-08-15T06:27:15+00:00", "event": "research_succeeded", "claimId": "3aHUwinjsoQ#00:07:42", "backend": "claude", "attempts": 1, "durationMs": 253008}
+{"timestamp": "2026-08-15T06:27:15+00:00", "event": "research_started", "claimId": "3aHUwinjsoQ#00:09:14-3"}
+{"timestamp": "2026-08-15T06:29:53+00:00", "event": "research_started", "claimId": "3aHUwinjsoQ#00:07:42-2"}
+{"timestamp": "2026-08-15T06:29:54+00:00", "event": "research_started", "claimId": "3aHUwinjsoQ#00:06:56"}
+{"timestamp": "2026-08-15T14:02:09+00:00", "event": "topic_split_started", "topicId": "sirah-historical-setting-and-identity"}
+{"timestamp": "2026-08-15T14:04:55+00:00", "event": "topic_split_succeeded", "topicId": "sirah-historical-setting-and-identity", "backend": "claude", "attempts": 1, "durationMs": 165378}
+{"timestamp": "2026-08-15T14:04:55+00:00", "event": "topic_split_started", "topicId": "women"}
+{"timestamp": "2026-08-15T14:06:41+00:00", "event": "topic_split_succeeded", "topicId": "women", "backend": "claude", "attempts": 1, "durationMs": 106455}
+{"timestamp": "2026-08-15T14:06:41+00:00", "event": "topic_split_started", "topicId": "earlier-religious-parallels"}
+{"timestamp": "2026-08-15T14:07:31+00:00", "event": "topic_split_succeeded", "topicId": "earlier-religious-parallels", "backend": "claude", "attempts": 1, "durationMs": 49457}
+{"timestamp": "2026-08-15T14:07:31+00:00", "event": "topic_split_started", "topicId": "sirah-conflict-and-political-conduct"}
+{"timestamp": "2026-08-15T14:09:55+00:00", "event": "topic_split_succeeded", "topicId": "sirah-conflict-and-political-conduct", "backend": "claude", "attempts": 1, "durationMs": 143891}
+{"timestamp": "2026-08-15T14:09:55+00:00", "event": "topic_split_started", "topicId": "hadith"}
+{"timestamp": "2026-08-15T14:12:39+00:00", "event": "topic_split_succeeded", "topicId": "hadith", "backend": "claude", "attempts": 1, "durationMs": 163856}
+{"timestamp": "2026-08-15T14:12:39+00:00", "event": "topic_split_started", "topicId": "quran-textual-transmission-formation-and-chronology"}
+{"timestamp": "2026-08-15T14:14:08+00:00", "event": "topic_split_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology", "backend": "claude", "attempts": 1, "durationMs": 89504}
+{"timestamp": "2026-08-15T14:14:08+00:00", "event": "topic_split_started", "topicId": "sirah-source-traditions"}
+{"timestamp": "2026-08-15T14:15:43+00:00", "event": "topic_split_succeeded", "topicId": "sirah-source-traditions", "backend": "claude", "attempts": 1, "durationMs": 94810}
+{"timestamp": "2026-08-15T14:15:43+00:00", "event": "topic_split_started", "topicId": "umayyad-period-and-religious-formation"}
+{"timestamp": "2026-08-15T14:16:25+00:00", "event": "topic_split_succeeded", "topicId": "umayyad-period-and-religious-formation", "backend": "claude", "attempts": 1, "durationMs": 42162}
+{"timestamp": "2026-08-15T14:16:25+00:00", "event": "topic_split_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives"}
+{"timestamp": "2026-08-15T14:17:11+00:00", "event": "topic_split_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives", "backend": "claude", "attempts": 1, "durationMs": 46093}
+{"timestamp": "2026-08-15T14:17:11+00:00", "event": "topic_split_started", "topicId": "quran"}
+{"timestamp": "2026-08-15T14:18:27+00:00", "event": "topic_split_succeeded", "topicId": "quran", "backend": "claude", "attempts": 1, "durationMs": 76092}
+{"timestamp": "2026-08-15T14:18:27+00:00", "event": "topic_split_started", "topicId": "hadith-ethical-controversies"}
+{"timestamp": "2026-08-15T14:19:27+00:00", "event": "topic_split_succeeded", "topicId": "hadith-ethical-controversies", "backend": "claude", "attempts": 1, "durationMs": 59773}
+{"timestamp": "2026-08-15T14:19:27+00:00", "event": "topic_split_started", "topicId": "jewish-rabbinic-parallels"}
+{"timestamp": "2026-08-15T14:20:03+00:00", "event": "topic_split_succeeded", "topicId": "jewish-rabbinic-parallels", "backend": "claude", "attempts": 1, "durationMs": 35640}
+{"timestamp": "2026-08-15T14:20:03+00:00", "event": "topic_split_started", "topicId": "quran-historical-claims-kahf-narratives"}
+{"timestamp": "2026-08-15T14:21:02+00:00", "event": "topic_split_succeeded", "topicId": "quran-historical-claims-kahf-narratives", "backend": "claude", "attempts": 1, "durationMs": 59798}
+{"timestamp": "2026-08-15T14:21:02+00:00", "event": "topic_split_started", "topicId": "quran-scientific-claims-embryology-and-human-creation"}
+{"timestamp": "2026-08-15T14:21:42+00:00", "event": "topic_split_succeeded", "topicId": "quran-scientific-claims-embryology-and-human-creation", "backend": "claude", "attempts": 1, "durationMs": 39246}
+{"timestamp": "2026-08-15T14:21:42+00:00", "event": "topic_split_started", "topicId": "zoroastrian-parallels"}
+{"timestamp": "2026-08-15T14:22:31+00:00", "event": "topic_split_succeeded", "topicId": "zoroastrian-parallels", "backend": "claude", "attempts": 1, "durationMs": 49294}
+{"timestamp": "2026-08-15T14:22:31+00:00", "event": "topic_split_started", "topicId": "quran-textual-transmission-collection-and-standardization"}
+{"timestamp": "2026-08-15T14:23:31+00:00", "event": "topic_split_succeeded", "topicId": "quran-textual-transmission-collection-and-standardization", "backend": "claude", "attempts": 1, "durationMs": 59822}
+{"timestamp": "2026-08-15T14:23:31+00:00", "event": "topic_split_started", "topicId": "sirah-christian-parallels"}
+{"timestamp": "2026-08-15T14:24:51+00:00", "event": "topic_split_succeeded", "topicId": "sirah-christian-parallels", "backend": "claude", "attempts": 1, "durationMs": 80029}
+{"timestamp": "2026-08-15T14:24:51+00:00", "event": "topic_split_started", "topicId": "early-islamic-state-and-caliphate"}
+{"timestamp": "2026-08-15T14:25:23+00:00", "event": "topic_split_succeeded", "topicId": "early-islamic-state-and-caliphate", "backend": "claude", "attempts": 1, "durationMs": 32507}
+{"timestamp": "2026-08-15T14:25:23+00:00", "event": "topic_split_started", "topicId": "quran-scientific-claims-cosmology-and-creation"}
+{"timestamp": "2026-08-15T14:25:57+00:00", "event": "topic_split_succeeded", "topicId": "quran-scientific-claims-cosmology-and-creation", "backend": "claude", "attempts": 1, "durationMs": 33269}
+{"timestamp": "2026-08-15T14:25:57+00:00", "event": "topic_split_started", "topicId": "quran-textual-transmission-readings-and-ahruf"}
+{"timestamp": "2026-08-15T14:26:43+00:00", "event": "topic_split_succeeded", "topicId": "quran-textual-transmission-readings-and-ahruf", "backend": "claude", "attempts": 1, "durationMs": 46433}
+{"timestamp": "2026-08-15T14:26:43+00:00", "event": "topic_split_started", "topicId": "quran-lexical-and-interpretive-questions"}
+{"timestamp": "2026-08-15T14:28:12+00:00", "event": "topic_split_succeeded", "topicId": "quran-lexical-and-interpretive-questions", "backend": "claude", "attempts": 1, "durationMs": 88760}
+{"timestamp": "2026-08-15T14:28:12+00:00", "event": "topic_split_started", "topicId": "syro-aramaic-quran-hypothesis"}
+{"timestamp": "2026-08-15T14:29:03+00:00", "event": "topic_split_succeeded", "topicId": "syro-aramaic-quran-hypothesis", "backend": "claude", "attempts": 1, "durationMs": 51402}
+{"timestamp": "2026-08-15T14:29:03+00:00", "event": "topic_split_started", "topicId": "quran-textual-transmission-manuscripts-and-dating"}
+{"timestamp": "2026-08-15T14:39:34+00:00", "event": "topic_split_succeeded", "topicId": "quran-textual-transmission-manuscripts-and-dating", "backend": "claude", "attempts": 1, "durationMs": 631920}
+{"timestamp": "2026-08-15T14:39:34+00:00", "event": "topic_split_started", "topicId": "quran-historical-claims-narrative-origins"}
+{"timestamp": "2026-08-15T14:40:21+00:00", "event": "topic_split_succeeded", "topicId": "quran-historical-claims-narrative-origins", "backend": "claude", "attempts": 1, "durationMs": 47231}
