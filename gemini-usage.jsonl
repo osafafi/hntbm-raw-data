@@ -838,3 +838,27 @@
 {"timestamp": "2026-08-16T05:37:13+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-ritual-and-doctrine", "backend": "claude", "attempts": 1, "durationMs": 39203}
 {"timestamp": "2026-08-16T05:37:13+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-zoroaster-biography"}
 {"timestamp": "2026-08-16T05:37:36+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-zoroaster-biography", "backend": "claude", "attempts": 1, "durationMs": 23126}
+{"timestamp": "2026-08-16T07:00:23+00:00", "event": "research_started", "claimId": "6HhDi8MKJlY#00:18:32-4"}
+{"timestamp": "2026-08-16T07:02:31+00:00", "event": "research_succeeded", "claimId": "6HhDi8MKJlY#00:18:32-4", "backend": "claude", "attempts": 1, "durationMs": 127922}
+{"timestamp": "2026-08-16T07:02:31+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:01:33"}
+{"timestamp": "2026-08-16T07:06:07+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:01:33", "backend": "claude", "attempts": 1, "durationMs": 216214}
+{"timestamp": "2026-08-16T07:06:07+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:12:39"}
+{"timestamp": "2026-08-16T07:07:27+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:12:39", "backend": "claude", "attempts": 1, "durationMs": 79694}
+{"timestamp": "2026-08-16T07:07:27+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:14:11"}
+{"timestamp": "2026-08-16T07:08:51+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:14:11", "backend": "claude", "attempts": 1, "durationMs": 84447}
+{"timestamp": "2026-08-16T07:08:51+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:14:57"}
+{"timestamp": "2026-08-16T07:11:17+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:14:57", "backend": "claude", "attempts": 1, "durationMs": 146169}
+{"timestamp": "2026-08-16T07:11:17+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:15:42-2"}
+{"timestamp": "2026-08-16T07:12:25+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:15:42-2", "backend": "claude", "attempts": 1, "durationMs": 67657}
+{"timestamp": "2026-08-16T07:12:25+00:00", "event": "research_started", "claimId": "i2MwsFSwu-8#00:06:38"}
+{"timestamp": "2026-08-16T07:14:32+00:00", "event": "research_succeeded", "claimId": "i2MwsFSwu-8#00:06:38", "backend": "claude", "attempts": 1, "durationMs": 126990}
+{"timestamp": "2026-08-16T07:14:32+00:00", "event": "research_started", "claimId": "w8ItxJMAFP0#00:22:30-2"}
+{"timestamp": "2026-08-16T07:15:56+00:00", "event": "research_succeeded", "claimId": "w8ItxJMAFP0#00:22:30-2", "backend": "claude", "attempts": 1, "durationMs": 84461}
+{"timestamp": "2026-08-16T07:15:56+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:15:42-3"}
+{"timestamp": "2026-08-16T07:19:38+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:15:42-3", "backend": "claude", "attempts": 1, "durationMs": 221541}
+{"timestamp": "2026-08-16T07:19:38+00:00", "event": "research_started", "claimId": "EX4xe0AddFk#00:16:30"}
+{"timestamp": "2026-08-16T07:21:12+00:00", "event": "research_succeeded", "claimId": "EX4xe0AddFk#00:16:30", "backend": "claude", "attempts": 1, "durationMs": 93712}
+{"timestamp": "2026-08-16T07:21:12+00:00", "event": "research_started", "claimId": "j_eKmPTVKyg#00:11:50"}
+{"timestamp": "2026-08-16T07:22:21+00:00", "event": "research_succeeded", "claimId": "j_eKmPTVKyg#00:11:50", "backend": "claude", "attempts": 1, "durationMs": 69779}
+{"timestamp": "2026-08-16T07:22:22+00:00", "event": "research_started", "claimId": "2CkVhyHpf8o#00:20:13"}
+{"timestamp": "2026-08-16T07:24:39+00:00", "event": "research_succeeded", "claimId": "2CkVhyHpf8o#00:20:13", "backend": "claude", "attempts": 1, "durationMs": 137354}
