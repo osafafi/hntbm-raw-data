@@ -27,3 +27,8 @@ git clone https://github.com/osafafi/hntbm-raw-data.git workspace
 Keep the `workspace/` rule in the parent repository's `.gitignore` when the
 main repository becomes public. Anything promoted to the public knowledge base
 still belongs under `data/kb/`; see `docs/knowledge-base.md`.
+
+Agent sessions started in this repository must follow `AGENTS.md` (Codex) or
+`CLAUDE.md` (Claude). Both route back to the public project's authoritative
+rules and require a validated commit after each completed step that produced
+repository edits.
