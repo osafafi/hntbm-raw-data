@@ -738,3 +738,103 @@
 {"timestamp": "2026-08-15T15:46:53+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-salman-al-farisi", "backend": "claude", "attempts": 1, "durationMs": 27096}
 {"timestamp": "2026-08-15T16:07:53+00:00", "event": "extract_started", "videoId": "yUlP6H7CasI"}
 {"timestamp": "2026-08-15T16:17:02+00:00", "event": "extract_succeeded", "videoId": "yUlP6H7CasI", "backend": "claude", "attempts": 1, "durationMs": 548512}
+{"timestamp": "2026-08-16T05:02:46+00:00", "event": "topic_split_started", "topicId": "zoroastrian-parallels"}
+{"timestamp": "2026-08-16T05:04:31+00:00", "event": "topic_split_succeeded", "topicId": "zoroastrian-parallels", "backend": "claude", "attempts": 1, "durationMs": 104600}
+{"timestamp": "2026-08-16T05:04:31+00:00", "event": "topic_split_started", "topicId": "umayyad-period-and-religious-formation"}
+{"timestamp": "2026-08-16T05:05:16+00:00", "event": "topic_split_succeeded", "topicId": "umayyad-period-and-religious-formation", "backend": "claude", "attempts": 1, "durationMs": 44905}
+{"timestamp": "2026-08-16T05:05:16+00:00", "event": "topic_split_started", "topicId": "women-sexual-ethics-and-repression"}
+{"timestamp": "2026-08-16T05:06:27+00:00", "event": "topic_split_succeeded", "topicId": "women-sexual-ethics-and-repression", "backend": "claude", "attempts": 1, "durationMs": 70832}
+{"timestamp": "2026-08-16T05:06:27+00:00", "event": "topic_split_started", "topicId": "early-islamic-state-and-caliphate"}
+{"timestamp": "2026-08-16T05:07:23+00:00", "event": "topic_split_succeeded", "topicId": "early-islamic-state-and-caliphate", "backend": "claude", "attempts": 1, "durationMs": 55954}
+{"timestamp": "2026-08-16T05:07:23+00:00", "event": "topic_split_started", "topicId": "earlier-religious-parallels"}
+{"timestamp": "2026-08-16T05:08:30+00:00", "event": "topic_split_succeeded", "topicId": "earlier-religious-parallels", "backend": "claude", "attempts": 1, "durationMs": 67222}
+{"timestamp": "2026-08-16T05:24:15+00:00", "event": "argument_build_started", "argumentId": "arg:documentary-and-epigraphic-evidence"}
+{"timestamp": "2026-08-16T05:24:15+00:00", "event": "argument_build_started", "argumentId": "arg:ascension-narratives-parallels"}
+{"timestamp": "2026-08-16T05:24:42+00:00", "event": "argument_build_succeeded", "argumentId": "arg:documentary-and-epigraphic-evidence", "backend": "codex", "attempts": 1, "durationMs": 26459}
+{"timestamp": "2026-08-16T05:24:42+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-greek-and-babylonian-antecedents"}
+{"timestamp": "2026-08-16T05:24:44+00:00", "event": "argument_build_succeeded", "argumentId": "arg:ascension-narratives-parallels", "backend": "claude", "attempts": 1, "durationMs": 28759}
+{"timestamp": "2026-08-16T05:24:44+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-ancient-near-eastern-cosmogony"}
+{"timestamp": "2026-08-16T05:25:09+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-greek-and-babylonian-antecedents", "backend": "codex", "attempts": 1, "durationMs": 26797}
+{"timestamp": "2026-08-16T05:25:09+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-zoroastrian-eschatology"}
+{"timestamp": "2026-08-16T05:25:22+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-ancient-near-eastern-cosmogony", "backend": "claude", "attempts": 1, "durationMs": 37282}
+{"timestamp": "2026-08-16T05:25:22+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-zoroaster-life-and-legends"}
+{"timestamp": "2026-08-16T05:25:29+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-zoroastrian-eschatology", "backend": "codex", "attempts": 1, "durationMs": 20225}
+{"timestamp": "2026-08-16T05:25:29+00:00", "event": "argument_build_started", "argumentId": "arg:early-islamic-state-and-caliphate"}
+{"timestamp": "2026-08-16T05:25:41+00:00", "event": "argument_build_succeeded", "argumentId": "arg:early-islamic-state-and-caliphate", "backend": "codex", "attempts": 1, "durationMs": 12318}
+{"timestamp": "2026-08-16T05:25:41+00:00", "event": "argument_build_started", "argumentId": "arg:early-islamic-state-and-caliphate-muawiya-rule-and-byzantium"}
+{"timestamp": "2026-08-16T05:25:42+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-zoroaster-life-and-legends", "backend": "claude", "attempts": 1, "durationMs": 20068}
+{"timestamp": "2026-08-16T05:25:42+00:00", "event": "argument_build_started", "argumentId": "arg:earlier-religious-parallels-zoroastrian-ritual-and-purity"}
+{"timestamp": "2026-08-16T05:26:06+00:00", "event": "argument_build_succeeded", "argumentId": "arg:early-islamic-state-and-caliphate-muawiya-rule-and-byzantium", "backend": "codex", "attempts": 1, "durationMs": 24605}
+{"timestamp": "2026-08-16T05:26:06+00:00", "event": "argument_build_started", "argumentId": "arg:hadith-companions-and-narrators"}
+{"timestamp": "2026-08-16T05:26:13+00:00", "event": "argument_build_succeeded", "argumentId": "arg:earlier-religious-parallels-zoroastrian-ritual-and-purity", "backend": "claude", "attempts": 1, "durationMs": 31736}
+{"timestamp": "2026-08-16T05:26:13+00:00", "event": "argument_build_started", "argumentId": "arg:early-islamic-state-and-caliphate-hashim-umayya-rivalry"}
+{"timestamp": "2026-08-16T05:26:34+00:00", "event": "argument_build_succeeded", "argumentId": "arg:hadith-companions-and-narrators", "backend": "codex", "attempts": 1, "durationMs": 28255}
+{"timestamp": "2026-08-16T05:26:34+00:00", "event": "argument_build_started", "argumentId": "arg:jewish-rabbinic-parallels"}
+{"timestamp": "2026-08-16T05:26:46+00:00", "event": "argument_build_succeeded", "argumentId": "arg:early-islamic-state-and-caliphate-hashim-umayya-rivalry", "backend": "claude", "attempts": 1, "durationMs": 32676}
+{"timestamp": "2026-08-16T05:26:46+00:00", "event": "argument_build_started", "argumentId": "arg:formative-figures-of-islam"}
+{"timestamp": "2026-08-16T05:26:57+00:00", "event": "argument_build_succeeded", "argumentId": "arg:jewish-rabbinic-parallels", "backend": "codex", "attempts": 1, "durationMs": 22990}
+{"timestamp": "2026-08-16T05:26:57+00:00", "event": "argument_build_started", "argumentId": "arg:paradise-sexual-rewards"}
+{"timestamp": "2026-08-16T05:27:24+00:00", "event": "argument_build_succeeded", "argumentId": "arg:paradise-sexual-rewards", "backend": "codex", "attempts": 1, "durationMs": 26704}
+{"timestamp": "2026-08-16T05:27:24+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims-revelation-context"}
+{"timestamp": "2026-08-16T05:27:41+00:00", "event": "argument_build_succeeded", "argumentId": "arg:formative-figures-of-islam", "backend": "claude", "attempts": 1, "durationMs": 54592}
+{"timestamp": "2026-08-16T05:27:41+00:00", "event": "argument_build_started", "argumentId": "arg:hadith-natural-world"}
+{"timestamp": "2026-08-16T05:27:47+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims-revelation-context", "backend": "codex", "attempts": 1, "durationMs": 23158}
+{"timestamp": "2026-08-16T05:27:47+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-method-and-criteria"}
+{"timestamp": "2026-08-16T05:28:11+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-method-and-criteria", "backend": "codex", "attempts": 1, "durationMs": 23840}
+{"timestamp": "2026-08-16T05:28:11+00:00", "event": "argument_build_started", "argumentId": "arg:quran-textual-transmission-formation-and-chronology-personal-circumstances"}
+{"timestamp": "2026-08-16T05:28:27+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-textual-transmission-formation-and-chronology-personal-circumstances", "backend": "codex", "attempts": 1, "durationMs": 15857}
+{"timestamp": "2026-08-16T05:28:27+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-christian-parallels"}
+{"timestamp": "2026-08-16T05:28:34+00:00", "event": "argument_build_succeeded", "argumentId": "arg:hadith-natural-world", "backend": "claude", "attempts": 1, "durationMs": 53640}
+{"timestamp": "2026-08-16T05:28:34+00:00", "event": "argument_build_started", "argumentId": "arg:narrative-origins-cultural-confluence"}
+{"timestamp": "2026-08-16T05:28:49+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-christian-parallels", "backend": "codex", "attempts": 1, "durationMs": 22631}
+{"timestamp": "2026-08-16T05:28:49+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-revelation-narratives"}
+{"timestamp": "2026-08-16T05:29:02+00:00", "event": "argument_build_succeeded", "argumentId": "arg:narrative-origins-cultural-confluence", "backend": "claude", "attempts": 1, "durationMs": 27869}
+{"timestamp": "2026-08-16T05:29:02+00:00", "event": "argument_build_started", "argumentId": "arg:quran-historical-claims-narrative-origins"}
+{"timestamp": "2026-08-16T05:29:17+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-revelation-narratives", "backend": "codex", "attempts": 1, "durationMs": 27600}
+{"timestamp": "2026-08-16T05:29:17+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-source-traditions-inherited-motifs-and-parallels"}
+{"timestamp": "2026-08-16T05:29:24+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-historical-claims-narrative-origins", "backend": "claude", "attempts": 1, "durationMs": 21944}
+{"timestamp": "2026-08-16T05:29:24+00:00", "event": "argument_build_started", "argumentId": "arg:quran-scientific-claims-cosmology-and-creation"}
+{"timestamp": "2026-08-16T05:29:45+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-source-traditions-inherited-motifs-and-parallels", "backend": "codex", "attempts": 1, "durationMs": 28057}
+{"timestamp": "2026-08-16T05:29:45+00:00", "event": "argument_build_started", "argumentId": "arg:women"}
+{"timestamp": "2026-08-16T05:30:03+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-scientific-claims-cosmology-and-creation", "backend": "claude", "attempts": 1, "durationMs": 38640}
+{"timestamp": "2026-08-16T05:30:03+00:00", "event": "argument_build_started", "argumentId": "arg:quran-sources-and-cultural-influences"}
+{"timestamp": "2026-08-16T05:30:04+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women", "backend": "codex", "attempts": 1, "durationMs": 19114}
+{"timestamp": "2026-08-16T05:30:04+00:00", "event": "argument_build_started", "argumentId": "arg:women-sexual-ethics-and-repression-contact-prohibitions-and-repression"}
+{"timestamp": "2026-08-16T05:30:24+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women-sexual-ethics-and-repression-contact-prohibitions-and-repression", "backend": "codex", "attempts": 1, "durationMs": 19901}
+{"timestamp": "2026-08-16T05:30:24+00:00", "event": "argument_build_started", "argumentId": "arg:women-sexual-ethics-and-repression-harassment-and-migration"}
+{"timestamp": "2026-08-16T05:30:41+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women-sexual-ethics-and-repression-harassment-and-migration", "backend": "codex", "attempts": 1, "durationMs": 16388}
+{"timestamp": "2026-08-16T05:30:41+00:00", "event": "argument_build_started", "argumentId": "arg:women-sexual-ethics-and-repression-umar-and-veiling-rules"}
+{"timestamp": "2026-08-16T05:30:42+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-sources-and-cultural-influences", "backend": "claude", "attempts": 1, "durationMs": 39426}
+{"timestamp": "2026-08-16T05:30:42+00:00", "event": "argument_build_started", "argumentId": "arg:quran-women-and-marriage-rules"}
+{"timestamp": "2026-08-16T05:31:11+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women-sexual-ethics-and-repression-umar-and-veiling-rules", "backend": "codex", "attempts": 1, "durationMs": 30513}
+{"timestamp": "2026-08-16T05:31:11+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-ahura-mazda-and-creation"}
+{"timestamp": "2026-08-16T05:31:32+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-ahura-mazda-and-creation", "backend": "codex", "attempts": 1, "durationMs": 21292}
+{"timestamp": "2026-08-16T05:31:32+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-eschatology-and-the-grave"}
+{"timestamp": "2026-08-16T05:31:39+00:00", "event": "argument_build_succeeded", "argumentId": "arg:quran-women-and-marriage-rules", "backend": "claude", "attempts": 1, "durationMs": 56983}
+{"timestamp": "2026-08-16T05:31:39+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-formative-figures"}
+{"timestamp": "2026-08-16T05:31:57+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-eschatology-and-the-grave", "backend": "codex", "attempts": 1, "durationMs": 24493}
+{"timestamp": "2026-08-16T05:31:57+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-religion-history-and-influence"}
+{"timestamp": "2026-08-16T05:32:04+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-formative-figures", "backend": "claude", "attempts": 1, "durationMs": 24521}
+{"timestamp": "2026-08-16T05:32:04+00:00", "event": "argument_build_started", "argumentId": "arg:sirah-source-traditions-informants-and-silences"}
+{"timestamp": "2026-08-16T05:32:12+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-religion-history-and-influence", "backend": "codex", "attempts": 1, "durationMs": 15327}
+{"timestamp": "2026-08-16T05:32:12+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-salman-al-farisi"}
+{"timestamp": "2026-08-16T05:32:34+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-salman-al-farisi", "backend": "codex", "attempts": 1, "durationMs": 22090}
+{"timestamp": "2026-08-16T05:32:37+00:00", "event": "argument_build_succeeded", "argumentId": "arg:sirah-source-traditions-informants-and-silences", "backend": "claude", "attempts": 1, "durationMs": 32802}
+{"timestamp": "2026-08-16T05:32:37+00:00", "event": "argument_build_started", "argumentId": "arg:syro-aramaic-quran-hypothesis"}
+{"timestamp": "2026-08-16T05:33:25+00:00", "event": "argument_build_succeeded", "argumentId": "arg:syro-aramaic-quran-hypothesis", "backend": "claude", "attempts": 1, "durationMs": 48101}
+{"timestamp": "2026-08-16T05:33:25+00:00", "event": "argument_build_started", "argumentId": "arg:women-rewards-in-the-hereafter"}
+{"timestamp": "2026-08-16T05:33:51+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women-rewards-in-the-hereafter", "backend": "claude", "attempts": 1, "durationMs": 25678}
+{"timestamp": "2026-08-16T05:33:51+00:00", "event": "argument_build_started", "argumentId": "arg:women-sexual-ethics-and-repression-dress-perfume-and-blame"}
+{"timestamp": "2026-08-16T05:34:32+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women-sexual-ethics-and-repression-dress-perfume-and-blame", "backend": "claude", "attempts": 1, "durationMs": 41781}
+{"timestamp": "2026-08-16T05:34:32+00:00", "event": "argument_build_started", "argumentId": "arg:women-sexual-ethics-and-repression-social-effects-and-hypocrisy"}
+{"timestamp": "2026-08-16T05:34:53+00:00", "event": "argument_build_succeeded", "argumentId": "arg:women-sexual-ethics-and-repression-social-effects-and-hypocrisy", "backend": "claude", "attempts": 1, "durationMs": 20771}
+{"timestamp": "2026-08-16T05:34:53+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels"}
+{"timestamp": "2026-08-16T05:35:34+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels", "backend": "claude", "attempts": 1, "durationMs": 40416}
+{"timestamp": "2026-08-16T05:35:34+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-ascent-and-heavens"}
+{"timestamp": "2026-08-16T05:36:08+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-ascent-and-heavens", "backend": "claude", "attempts": 1, "durationMs": 33850}
+{"timestamp": "2026-08-16T05:36:08+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-purity-and-bodily-rules"}
+{"timestamp": "2026-08-16T05:36:33+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-purity-and-bodily-rules", "backend": "claude", "attempts": 1, "durationMs": 25852}
+{"timestamp": "2026-08-16T05:36:33+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-ritual-and-doctrine"}
+{"timestamp": "2026-08-16T05:37:13+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-ritual-and-doctrine", "backend": "claude", "attempts": 1, "durationMs": 39203}
+{"timestamp": "2026-08-16T05:37:13+00:00", "event": "argument_build_started", "argumentId": "arg:zoroastrian-parallels-zoroaster-biography"}
+{"timestamp": "2026-08-16T05:37:36+00:00", "event": "argument_build_succeeded", "argumentId": "arg:zoroastrian-parallels-zoroaster-biography", "backend": "claude", "attempts": 1, "durationMs": 23126}
