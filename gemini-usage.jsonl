@@ -862,3 +862,7 @@
 {"timestamp": "2026-08-16T07:22:21+00:00", "event": "research_succeeded", "claimId": "j_eKmPTVKyg#00:11:50", "backend": "claude", "attempts": 1, "durationMs": 69779}
 {"timestamp": "2026-08-16T07:22:22+00:00", "event": "research_started", "claimId": "2CkVhyHpf8o#00:20:13"}
 {"timestamp": "2026-08-16T07:24:39+00:00", "event": "research_succeeded", "claimId": "2CkVhyHpf8o#00:20:13", "backend": "claude", "attempts": 1, "durationMs": 137354}
+{"timestamp": "2026-08-17T02:45:18+00:00", "event": "extract_started", "videoId": "2AbmjoqAxsE"}
+{"timestamp": "2026-08-17T02:51:17+00:00", "event": "extract_succeeded", "videoId": "2AbmjoqAxsE", "backend": "codex", "attempts": 1, "durationMs": 359355}
+{"timestamp": "2026-08-17T02:53:43+00:00", "event": "extract_started", "videoId": "tfEFS_TkeB4"}
+{"timestamp": "2026-08-17T02:58:49+00:00", "event": "extract_succeeded", "videoId": "tfEFS_TkeB4", "backend": "codex", "attempts": 1, "durationMs": 305477}
