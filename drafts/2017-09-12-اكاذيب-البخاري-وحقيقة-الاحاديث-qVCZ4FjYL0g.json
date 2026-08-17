@@ -1,0 +1,1741 @@
+{
+  "schemaVersion": 1,
+  "videoId": "qVCZ4FjYL0g",
+  "videoUrl": "https://www.youtube.com/watch?v=qVCZ4FjYL0g",
+  "videoTitle": "أكاذيب البخاري وحقيقة الأحاديث",
+  "creator": "Sherif Gaber",
+  "uploadDate": "20170912",
+  "extractedAt": "2026-08-17T08:25:06+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "An Arabic-language critical episode arguing that Sahih al-Bukhari and the hadith corpus generally are fabricated. The speaker opens with al-Bukhari's biography and his reported memorization claims (70,000 hadiths as a child, 300,000 as an adult, 600,000 sifted down to ~7,500), attacks them with arithmetic and with claims about the limits of human memory, then argues that the hadiths' miracle narratives contradict the Qur'an's presentation of Muhammad as an ordinary man without miracles and reproduce Gospel material. He then argues from the absence of documentary and archaeological attestation for Mecca, Quraysh and the major battles, disputes the Umari covenant as a late invention of al-Tabari, uses the repeated destructions of the Ka'ba against the Surat al-Fil narrative, lists internal contradictions inside and between Bukhari and Muslim, and ends with a political thesis: hadiths and their isnads were manufactured during the Umayyad–Abbasid conflict — citing Patricia Crone and al-Zuhri — as instruments of rule.",
+  "summaryAr": "حلقة نقدية بالعربية تُحاجّ بأن صحيح البخاري ومدونة الحديث عمومًا مؤلَّفة. يبدأ المتحدث بسيرة البخاري وبما يُروى عنه من دعاوى الحفظ (سبعون ألف حديث وهو طفل، وثلاثمائة ألف وهو كبير، وستمائة ألف غربلها إلى نحو 7500)، فيهاجمها بالحساب العددي وبدعاوى عن حدود الذاكرة البشرية، ثم يحاجّ بأن روايات المعجزات في الحديث تناقض تصوير القرآن لمحمد كبشر بلا معجزات وتستنسخ مادة إنجيلية. ثم يحاجّ بغياب الشواهد الوثائقية والأثرية عن مكة وقريش والغزوات الكبرى، ويطعن في العهدة العمرية بوصفها اختلاقًا متأخرًا للطبري، ويستعمل هدم الكعبة المتكرر ضد رواية سورة الفيل، ويعدّد التناقضات داخل البخاري ومسلم وبينهما، وينتهي إلى أطروحة سياسية: أن الأحاديث وأسانيدها صُنعت في أثناء الصراع الأموي العباسي — مستشهدًا بباتريشيا كرون وبالزهري — كأدوات حكم.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:01",
+      "stepEn": "Opens by placing al-Bukhari two centuries after Muhammad and stripping him of sanctity: an ordinary man whom some contemporaries called a liar.",
+      "stepAr": "يفتتح بوضع البخاري بعد محمد بمائتي سنة ونزع القداسة عنه: رجل عادي وصفه بعض معاصريه بالكذب."
+    },
+    {
+      "timestamp": "00:00:38",
+      "stepEn": "Converts the reported claim of 70,000 memorized hadiths in childhood into volumes, pages and words to show its scale.",
+      "stepAr": "يحوّل دعوى حفظ سبعين ألف حديث في الطفولة إلى مجلدات وصفحات وكلمات لإبراز حجمها."
+    },
+    {
+      "timestamp": "00:01:17",
+      "stepEn": "Runs a time calculation: even at ten hadiths a day with no rest, the child could not have finished before adulthood.",
+      "stepAr": "يجري حسابًا زمنيًا: حتى بعشرة أحاديث يوميًا بلا راحة لا يمكن للطفل أن ينتهي قبل سن الرشد."
+    },
+    {
+      "timestamp": "00:02:19",
+      "stepEn": "Adds a medical argument: such retention is impossible except in savant-type pathology, and compares the figure to the Guinness memory record.",
+      "stepAr": "يضيف حجة طبية: هذا الحفظ مستحيل إلا في حالات مرضية، ويقارن الرقم بالرقم القياسي في موسوعة غينيس."
+    },
+    {
+      "timestamp": "00:03:00",
+      "stepEn": "Recounts al-Bukhari's travel biography and the sifting of 600,000 hadiths down to about 7,500.",
+      "stepAr": "يسرد رحلات البخاري وغربلته ستمائة ألف حديث إلى نحو 7500."
+    },
+    {
+      "timestamp": "00:04:04",
+      "stepEn": "Draws the inference that 99% of what was told about Muhammad was fabrication, which should also cast doubt on the surviving remainder and on al-Bukhari.",
+      "stepAr": "يستنتج أن 99% مما رُوي عن محمد كان اختلاقًا، وأن ذلك يوجب الشك في الباقي وفي البخاري نفسه."
+    },
+    {
+      "timestamp": "00:04:35",
+      "stepEn": "Applies the same arithmetic to al-Bukhari's described vetting method, showing the stated 16 years cannot cover 600,000 hadiths plus 18 other books.",
+      "stepAr": "يطبّق الحساب نفسه على منهج البخاري في التحري، مبينًا أن ستة عشر عامًا لا تكفي لستمائة ألف حديث وثمانية عشر كتابًا آخر."
+    },
+    {
+      "timestamp": "00:06:18",
+      "stepEn": "Points to an internal inconsistency: 100,000 sound hadiths claimed as memorized, yet only 7,500 appear in a book he titled the comprehensive collection of the sound.",
+      "stepAr": "يشير إلى تناقض داخلي: يدّعي حفظ مائة ألف حديث صحيح ولا يورد إلا 7500 في كتاب سماه الجامع الصحيح."
+    },
+    {
+      "timestamp": "00:06:54",
+      "stepEn": "Turns to the Qur'an as the first witness against the hadiths: it presents Muhammad as an ordinary man refusing miracle demands, with the book itself as his only sign.",
+      "stepAr": "ينتقل إلى القرآن كشاهد أول ضد الأحاديث: يقدّم محمدًا بشرًا عاديًا يرفض طلب المعجزات، والكتاب وحده آيته."
+    },
+    {
+      "timestamp": "00:07:37",
+      "stepEn": "Sets the hadith miracle narratives against that picture, taking the multiplication of food at the Trench as his example.",
+      "stepAr": "يضع روايات المعجزات في الحديث في مواجهة تلك الصورة، متخذًا تكثير الطعام في الخندق مثالًا."
+    },
+    {
+      "timestamp": "00:08:16",
+      "stepEn": "Identifies that miracle as the Gospel feeding story transferred from Jesus to Muhammad, and lists further miracle reports.",
+      "stepAr": "يعرّف تلك المعجزة بأنها قصة تكثير الطعام الإنجيلية منقولة من المسيح إلى محمد، ويعدّد روايات معجزات أخرى."
+    },
+    {
+      "timestamp": "00:09:22",
+      "stepEn": "Concludes the miracle material was invented after Muhammad's death, before al-Bukhari was born, to magnify a figure many contemporaries rejected.",
+      "stepAr": "يخلص إلى أن مادة المعجزات اختُلقت بعد موت محمد وقبل مولد البخاري لتعظيم شخص رفضه كثير من معاصريه."
+    },
+    {
+      "timestamp": "00:10:05",
+      "stepEn": "Broadens the attack to the historical frame: no document attests Mecca, Quraysh, or any of the great battles the hadiths presuppose.",
+      "stepAr": "يوسّع الهجوم إلى الإطار التاريخي: لا وثيقة تشهد لمكة ولا لقريش ولا لأي من الغزوات الكبرى التي تفترضها الأحاديث."
+    },
+    {
+      "timestamp": "00:11:31",
+      "stepEn": "Contrasts Islamic accounts of peaceful conquest with contemporary sources, treating the Umari covenant as al-Tabari's late invention.",
+      "stepAr": "يقابل بين روايات الفتح السلمي في الكتب الإسلامية والمصادر المعاصرة، ويعدّ العهدة العمرية اختلاقًا متأخرًا للطبري."
+    },
+    {
+      "timestamp": "00:12:18",
+      "stepEn": "Uses the twelve later destructions of the Ka'ba against the story of the birds that defended it from Abraha.",
+      "stepAr": "يستعمل هدم الكعبة اثنتي عشرة مرة لاحقًا ضد قصة الطير التي دافعت عنها أمام أبرهة."
+    },
+    {
+      "timestamp": "00:14:02",
+      "stepEn": "Lists internal contradictions: Muhammad's age at death, his years in Mecca, the doubled slave-girl story, and the varying best-deed answers.",
+      "stepAr": "يعدّد التناقضات الداخلية: سن محمد عند الموت، وسنوات مكة، وتكرار قصة الجارية، واختلاف أجوبة أفضل الأعمال."
+    },
+    {
+      "timestamp": "00:16:44",
+      "stepEn": "Takes the Abdullah ibn Salam three-questions hadith as a specimen of a story built to prove prophethood, and shows its internal and scientific failure.",
+      "stepAr": "يتخذ حديث أسئلة عبد الله بن سلام الثلاثة نموذجًا لقصة صيغت لإثبات النبوة، ويبيّن انهيارها داخليًا وعلميًا."
+    },
+    {
+      "timestamp": "00:18:48",
+      "stepEn": "Presents the natural-world and sexual-prowess hadiths as folk lore of the period attributed to Muhammad to magnify him.",
+      "stepAr": "يعرض أحاديث الطبيعة والقوة الجنسية بوصفها ثقافة شعبية معاصرة نُسبت إلى محمد لتعظيمه."
+    },
+    {
+      "timestamp": "00:20:09",
+      "stepEn": "Attacks the isnad system itself, citing Patricia Crone that even near-contemporaries could not trace chains back to Muhammad.",
+      "stepAr": "يهاجم نظام الإسناد نفسه مستشهدًا بباتريشيا كرون بأن القريبين زمنًا لم يقدروا على تتبع السلاسل إلى محمد."
+    },
+    {
+      "timestamp": "00:21:35",
+      "stepEn": "Locates hadith production in the Umayyad–Abbasid conflict, with al-Zuhri recruited under Abd al-Malik as the named case.",
+      "stepAr": "يضع إنتاج الحديث في سياق الصراع الأموي العباسي، والزهري المجنَّد في عهد عبد الملك مثالًا مسمّى."
+    },
+    {
+      "timestamp": "00:23:50",
+      "stepEn": "Extends the thesis to hadiths mandating obedience to rulers and legitimizing wartime enslavement of women.",
+      "stepAr": "يمدّ الأطروحة إلى أحاديث وجوب طاعة الحاكم وإباحة سبي النساء في الحرب."
+    },
+    {
+      "timestamp": "00:24:32",
+      "stepEn": "Shows Sahih Muslim reproduces the same collection story and that even its hadith count is disputed.",
+      "stepAr": "يبيّن أن صحيح مسلم يكرر قصة الجمع نفسها وأن عدد أحاديثه نفسه متنازع فيه."
+    },
+    {
+      "timestamp": "00:26:02",
+      "stepEn": "Closes with the governing thesis: hadith was never a historical record but a ruler's instrument, and its content disfigures the figure it was meant to exalt.",
+      "stepAr": "يختم بالأطروحة الحاكمة: الحديث لم يكن سجلًا تاريخيًا بل أداة حكم، ومضمونه يشوّه الشخص الذي أُريد تعظيمه."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:01",
+      "claimEn": "The speaker claims al-Bukhari's real name was Muhammad al-Ju'fi, that he was born in the city of Bukhara in Uzbekistan, and that this was roughly 200 years after Muhammad's death.",
+      "claimAr": "يقول المتحدث إن اسم البخاري الحقيقي محمد الجعفي، وأنه وُلد في مدينة بخارى بأوزبكستان بعد نحو مئتي سنة من موت محمد.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check al-Bukhari's full name and nisba, his birthplace and birth/death dates in the biographical literature, and confirm the interval from Muhammad's traditional death date (11 AH / 632 CE)."
+    },
+    {
+      "timestamp": "00:00:01",
+      "claimEn": "The speaker claims the veneration of al-Bukhari did not exist in his own lifetime but accumulated over centuries after his death, and that in his own era some people called him a liar and a fabricator whose reports should not be accepted.",
+      "claimAr": "يقول المتحدث إن تقديس البخاري لم يكن موجودًا في عصره بل تراكم على مدى قرون بعد موته، وأن في عصره من وصفه بالكذب والاختلاق وقال إنه لا يُصدَّق.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the named contemporaries said to have impugned al-Bukhari (e.g. reports connected with al-Dhuhli and the khalq al-Qur'an dispute) and trace when his collection acquired its canonical standing."
+    },
+    {
+      "timestamp": "00:00:01",
+      "claimEn": "The speaker claims al-Bukhari spoke a great deal about his own abilities, including that as a child he had memorized more than 70,000 hadiths.",
+      "claimAr": "يقول المتحدث إن البخاري تحدث كثيرًا عن قدراته، ومنها أنه وهو طفل كان حافظًا أكثر من سبعين ألف حديث.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the biographical reports attributing memorization figures to al-Bukhari in childhood, and check whether the figure of 70,000 and the age range are actually stated in them."
+    },
+    {
+      "timestamp": "00:00:38",
+      "claimEn": "The speaker claims Sahih al-Bukhari itself is about six volumes, 2,000 pages and more than 7,000 hadiths, so 70,000 hadiths would equal ten times his own book — 60 volumes, 20,000 pages and roughly nine million words.",
+      "claimAr": "يقول المتحدث إن صحيح البخاري نفسه نحو ستة مجلدات وألفي صفحة وأكثر من سبعة آلاف حديث، فحفظ سبعين ألف حديث يساوي عشرة أضعاف كتابه: ستين مجلدًا وعشرين ألف صفحة ونحو تسعة ملايين كلمة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Recompute from an actual printed edition: number of volumes, pages, hadith count (with and without repetitions), and average words per page; the arithmetic depends entirely on these inputs."
+    },
+    {
+      "timestamp": "00:00:38",
+      "claimEn": "The speaker claims al-Bukhari also said he had memorized all these hadiths together with the names of the narrators, their birth and death dates, where they lived, and the names of their mothers, fathers, siblings, wives, uncles and aunts.",
+      "claimAr": "يقول المتحدث إن البخاري ادّعى أيضًا أنه كان يحفظ هذه الأحاديث كلها بأسماء رواتها وتواريخ ميلادهم ووفاتهم وأماكن سكناهم وأسماء أمهاتهم وآبائهم وإخوتهم ونسائهم وأعمامهم وعماتهم وخالاتهم.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the biographical sources for the reported statements about al-Bukhari's command of narrator data, and whether the detail described here is actually attributed to him."
+    },
+    {
+      "timestamp": "00:01:17",
+      "claimEn": "The speaker claims that even on generous assumptions — a child hearing ten hadiths a day with no holidays and memorizing each on first hearing — reaching 70,000 hadiths would take 19 years, so a child starting at five would be 24 by the end; therefore the childhood memorization claim is false.",
+      "claimAr": "يقول المتحدث إنه حتى بأسخى الافتراضات — طفل يسمع عشرة أحاديث يوميًا بلا عطلة ويحفظ كل حديث من أول مرة — فإن بلوغ سبعين ألف حديث يستغرق تسعة عشر عامًا، فمن بدأ في الخامسة يبلغ الرابعة والعشرين عند انتهائه، ومن ثم فدعوى الحفظ في الطفولة كاذبة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the arithmetic and the assumptions behind it, and whether the sources define the relevant age range or the rate of transmission sessions differently."
+    },
+    {
+      "timestamp": "00:01:17",
+      "claimEn": "The speaker claims it is also unexplained how a child could have found and heard 70,000 hadiths in a desert environment at all.",
+      "claimAr": "يقول المتحدث إنه لا تفسير أصلًا لكيفية عثور طفل على سبعين ألف حديث وسماعها في بيئة صحراوية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the density of hadith transmission circles in third-century AH Transoxiana and Khurasan; note that Bukhara was an urban centre, which bears on the 'desert environment' characterization."
+    },
+    {
+      "timestamp": "00:02:19",
+      "claimEn": "The speaker claims that from a scientific standpoint no one can memorize 70,000 hadiths — 20,000 pages, nine million words — as a child; the human mind is incapable of it except under conditions such as autism or savant syndrome, which in turn disable normal cognitive functioning.",
+      "claimAr": "يقول المتحدث إنه علميًا لا يستطيع أحد حفظ سبعين ألف حديث — عشرين ألف صفحة وتسعة ملايين كلمة — وهو طفل، فالعقل البشري عاجز عن ذلك إلا في حالات كالتوحد أو متلازمة العالِم، وهي حالات تعطّل الوظائف العقلية الأخرى.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the cognitive-science literature on eidetic and savant memory and on trained oral-tradition memorization, and whether the described trade-off with other cognitive functions is accurately stated."
+    },
+    {
+      "timestamp": "00:02:19",
+      "claimEn": "The speaker claims the Guinness memory record holder, a Chinese man he names as Shaolu, memorized about 68,000 consecutive digits, so that al-Bukhari — converting each digit to a word — would have memorized at least 132 times that capacity while still a child.",
+      "claimAr": "يقول المتحدث إن صاحب الرقم القياسي في موسوعة غينيس للحفظ، وهو صيني سماه شاولو، حفظ نحو ثمانية وستين ألف رقم متتالٍ، فيكون البخاري — بتحويل كل رقم إلى كلمة — قد حفظ ما لا يقل عن مئة واثنين وثلاثين ضعف قدرته وهو طفل.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the record holder's name (likely Chao Lu) and the digit count (commonly reported as 67,890 digits of pi), and check whether digits-to-words conversion is a defensible comparison."
+    },
+    {
+      "timestamp": "00:03:00",
+      "claimEn": "The speaker claims that according to medical opinion human memory retains only significant events, since storage capacity is limited; if everything seen, smelled, heard, every step and every passing thought were retained as memory, the mind would fill within days.",
+      "claimAr": "يقول المتحدث إن الطب يرى أن الذاكرة البشرية لا تحفظ إلا الأحداث المهمة لأن سعة التخزين محدودة، ولو حُفظ كل ما يُرى ويُشم ويُسمع وكل خطوة وكل خاطرة لامتلأ العقل في أيام.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check how accurately this represents current memory research, particularly the claim of a fixed and easily exhausted storage capacity."
+    },
+    {
+      "timestamp": "00:03:00",
+      "claimEn": "The speaker claims al-Bukhari said he travelled at sixteen with his mother and brother for hajj to Mecca and stayed two years, went to Medina at eighteen, then toured the whole Arabian peninsula and travelled to Baghdad, Basra, Kufa, Damascus, Jerusalem and Egypt, travelling for sixteen years.",
+      "claimAr": "يقول المتحدث إن البخاري ذكر أنه سافر في السادسة عشرة مع أمه وأخيه للحج إلى مكة فأقام سنتين، ثم قصد المدينة في الثامنة عشرة، ثم طاف الجزيرة العربية كلها وسافر إلى بغداد والبصرة والكوفة ودمشق والقدس ومصر، وظل مسافرًا ستة عشر عامًا.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the itinerary and durations against the standard biographical accounts of al-Bukhari's rihla, and check the sixteen-year figure."
+    },
+    {
+      "timestamp": "00:03:44",
+      "claimEn": "The speaker claims al-Bukhari said he gathered 600,000 hadiths, rejected 593,000 of them as false, kept only about 7,500 which he declared the sound ones, and made them into the book Sahih al-Bukhari.",
+      "claimAr": "يقول المتحدث إن البخاري ذكر أنه جمع ستمائة ألف حديث فردّ منها 593 ألفًا بوصفها كاذبة ولم يُبقِ إلا نحو 7500 عدّها الصحيحة وجعل منها كتاب صحيح البخاري.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Trace the 600,000 figure to its source in the biographical tradition and check what 'hadith' counts there (distinct chains versus distinct texts), and the actual number of entries in the Sahih."
+    },
+    {
+      "timestamp": "00:04:04",
+      "claimEn": "The speaker claims that if 600,000 hadiths yielded only 7,500, then roughly 99% of what was narrated about Muhammad was falsehood, which shows the period was an age of lying, invention and fabrication in which barely one Muslim in a hundred was truthful.",
+      "claimAr": "يقول المتحدث إنه إذا لم يخرج من ستمائة ألف حديث إلا 7500، فإن نحو 99% مما رُوي عن محمد كان كذبًا، وهذا يدل على أن ذلك العصر كان عصر كذب وتأليف وفبركة لم يصدق فيه إلا واحد من كل مائة مسلم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-political-fabrication"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the rejected material represents distinct fabricated texts or repeated chains of the same text, which determines whether the 99% figure supports the conclusion drawn."
+    },
+    {
+      "timestamp": "00:04:04",
+      "claimEn": "The speaker claims that a milieu in which 99% of reports were false is itself sufficient ground to doubt the surviving 1% and to doubt al-Bukhari himself.",
+      "claimAr": "يقول المتحدث إن بيئة كان 99% من رواياتها كاذبًا كافية وحدها للتشكيك في الواحد بالمئة الباقي وفي البخاري نفسه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections",
+        "isnad-authenticity-and-origins"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the inference: whether a high base rate of fabrication in the source pool undermines confidence in a filtered subset, and how hadith critics themselves address this."
+    },
+    {
+      "timestamp": "00:04:35",
+      "claimEn": "The speaker claims al-Bukhari described verifying each hadith by asking one, two and three people, hearing it from several transmitters, and investigating each transmitter's truthfulness in general conduct with his family and neighbours — a procedure that could take a month per hadith.",
+      "claimAr": "يقول المتحدث إن البخاري وصف تثبته من كل حديث بأنه كان يسأل واحدًا واثنين وثلاثة ويسمع من عدة رواة ويتحرى صدق كل راوٍ في سلوكه العام عند أهله وجيرانه، وهو إجراء قد يستغرق شهرًا للحديث الواحد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections",
+        "isnad-authenticity-and-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate al-Bukhari's own reported description of his vetting method and compare it with the procedure described here, including whether inquiry among a narrator's neighbours is attributed to him."
+    },
+    {
+      "timestamp": "00:05:07",
+      "claimEn": "The speaker claims that even assuming al-Bukhari heard and verified one hadith per hour for fourteen working hours a day — fourteen hadiths daily — 600,000 hadiths would require about 40,000 days, whereas he said he did it in sixteen years, during which he also composed eighteen other books of comparable or greater size.",
+      "claimAr": "يقول المتحدث إنه حتى بافتراض أن البخاري سمع حديثًا وتثبت منه كل ساعة على مدى أربع عشرة ساعة يوميًا — أي أربعة عشر حديثًا في اليوم — فإن ستمائة ألف حديث تحتاج نحو أربعين ألف يوم، بينما قال إنه أنجز ذلك في ستة عشر عامًا ألّف خلالها ثمانية عشر كتابًا آخر بحجم كتابه أو أكبر.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the arithmetic and the count of al-Bukhari's other works and their sizes; note the transcript's own internal slip between ten and fourteen hours."
+    },
+    {
+      "timestamp": "00:05:43",
+      "claimEn": "The speaker claims al-Bukhari said that in adulthood he had memorized 300,000 hadiths — 100,000 sound and 200,000 weak.",
+      "claimAr": "يقول المتحدث إن البخاري ذكر أنه في كبره كان حافظًا ثلاثمائة ألف حديث: مائة ألف صحيح ومائتا ألف ضعيف.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Trace the 100,000 sound / 200,000 weak statement to its source and check its wording and attribution."
+    },
+    {
+      "timestamp": "00:05:43",
+      "claimEn": "The speaker claims that scaling the earlier word count to 300,000 hadiths means al-Bukhari would have memorized more than 240 million words, some 558 times the capacity of the Guinness record holder, which he presents as impossible.",
+      "claimAr": "يقول المتحدث إن تطبيق حساب الكلمات السابق على ثلاثمائة ألف حديث يعني أن البخاري حفظ أكثر من مائتين وأربعين مليون كلمة، أي نحو 558 ضعف قدرة صاحب الرقم القياسي في غينيس، ويعدّ ذلك مستحيلًا.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Recheck the multiplication; the transcript states both 38 million and 240 million words in the same breath, so the internal figures need reconciling before the ratio can be assessed."
+    },
+    {
+      "timestamp": "00:06:18",
+      "claimEn": "The speaker claims there is a contradiction in al-Bukhari's own account: if he had memorized 100,000 sound hadiths, and if he travelled the world to gather all the sound hadiths and found only 7,500, then some 93,000 sound hadiths are unaccounted for and were left out of a book he himself titled al-Jami' al-Sahih, the comprehensive collection of the sound.",
+      "claimAr": "يقول المتحدث إن في كلام البخاري نفسه تناقضًا: فإن كان حافظًا مائة ألف حديث صحيح، وطاف العالم ليجمع كل الأحاديث الصحيحة فلم يجد إلا 7500، فأين ذهبت الثلاثة والتسعون ألف حديث صحيح ولماذا لم يكتبها في كتاب سماه هو الجامع الصحيح؟",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections",
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check al-Bukhari's own stated criteria for inclusion in the Sahih and whether he ever claimed the book exhausts all sound hadith; classical commentators address exactly this objection."
+    },
+    {
+      "timestamp": "00:06:54",
+      "claimEn": "The speaker claims the Qur'an is itself the first proof that the contents of Sahih al-Bukhari are false, because the Qur'an affirms repeatedly that Muhammad was a human being like anyone else and not a worker of miracles.",
+      "claimAr": "يقول المتحدث إن القرآن نفسه أول دليل على كذب ما في صحيح البخاري، لأنه أكد مرارًا أن محمدًا بشر مثل غيره وليس صانع معجزات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "hadith",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Collect the verses insisting Muhammad is only a human messenger and those refusing miracle demands (the speaker gives no locators), and assess whether they amount to a denial of all miracles."
+    },
+    {
+      "timestamp": "00:06:54",
+      "claimEn": "The speaker claims many Qur'anic verses report the words of those who disbelieved Muhammad's prophethood demanding that he show them a single miracle so they would believe, and that Muhammad in fact had no miracles, which is why he kept answering that the book he brought was itself his miracle.",
+      "claimAr": "يقول المتحدث إن آيات كثيرة تنقل قول المكذّبين لمحمد أن يريهم معجزة واحدة فيصدقوه، وأن محمدًا لم تكن معه معجزات، ولذلك كان يردّ بأن الكتاب الذي معه هو معجزته.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the verses in which opponents demand a sign and the responses given; the speaker cites none by number."
+    },
+    {
+      "timestamp": "00:07:37",
+      "claimEn": "The speaker claims the repetition of verses saying Muhammad had no miracles proves that this was the main objection people held against him at the time, and that people knew him as an ordinary person like themselves.",
+      "claimAr": "يقول المتحدث إن تكرار الآيات التي تقول إن محمدًا لا معجزات له دليل على أن ذلك كان أكثر ما أخذه الناس عليه حينئذ، وأنهم كانوا يعرفونه شخصًا عاديًا مثلهم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the frequency of such passages supports the inference about contemporary objections, and compare with exegetical accounts of the occasions of these verses."
+    },
+    {
+      "timestamp": "00:07:37",
+      "claimEn": "The speaker claims the hadiths say the exact opposite of the Qur'an, describing Muhammad as a blessed, legendary figure for whom this quantity of miracles was a routine daily matter.",
+      "claimAr": "يقول المتحدث إن الأحاديث تقول عكس القرآن تمامًا، إذ تصف محمدًا بأنه شخص مبارك أسطوري كانت هذه الكمية من المعجزات عنده أمرًا يوميًا معتادًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Survey the miracle reports (dala'il al-nubuwwa material) in the canonical collections and assess the tension with the Qur'anic passages cited."
+    },
+    {
+      "timestamp": "00:07:37",
+      "claimEn": "The speaker claims that among these miracles is one at the Battle of the Trench, where a follower brought Muhammad a small ewe to feed him alone, Muhammad summoned his entire army to eat with him, and the food did not decrease as the soldiers ate but increased.",
+      "claimAr": "يقول المتحدث إن من هذه المعجزات ما وقع في غزوة الخندق، حين جاء أحد أتباع محمد بشاة صغيرة ليطعمه إياها وحده، فنادى محمد جيشه كله ليأكلوا معه، وكان الطعام كلما أكل الجنود لا ينقص بل يزيد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "sirah"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Khandaq food-multiplication report in Sahih al-Bukhari (commonly the report of Jabir b. Abd Allah) and check whether the animal, the numbers and the increase are as described."
+    },
+    {
+      "timestamp": "00:08:16",
+      "claimEn": "The speaker claims the same story is told word for word in the Gospel, where Christ multiplied bread for the people when there was no food and the food increased rather than decreased as they ate, and that the story was transferred verbatim from the Gospel with Jesus replaced by Muhammad.",
+      "claimAr": "يقول المتحدث إن القصة نفسها وردت بالحرف في الإنجيل حين كثّر المسيح الخبز للناس حين لم يكن هناك طعام وكان الطعام يزيد كلما أكلوا، وأنها منقولة بالحرف من الإنجيل مع إبدال عيسى بمحمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-christian-parallels",
+        "sirah-christian-parallels-gospel-models",
+        "sirah-source-traditions-inherited-motifs-and-parallels"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Gospel feeding narratives (Matthew 14 / Mark 6 / Luke 9 / John 6) with the hadith account in detail; the speaker gives no chapter or verse and 'word for word' needs testing."
+    },
+    {
+      "timestamp": "00:08:42",
+      "claimEn": "The speaker claims another hadith miracle has a soldier whose eye was so badly wounded that it was dislodged from its socket, and Muhammad simply took it and put it back and it healed better than before.",
+      "claimAr": "يقول المتحدث إن من معجزات الحديث أن جنديًا أصيب في عينه حتى خرجت من مكانها، فأخذها محمد وردّها إلى موضعها فبرئت وصارت أحسن من قبل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report of the restored eye (commonly associated with Qatada b. al-Nu'man at Uhud or Badr) and check its collection, wording and grading."
+    },
+    {
+      "timestamp": "00:08:42",
+      "claimEn": "The speaker claims other reports have Muhammad bringing down rain, speaking to trees, and speaking to animals.",
+      "claimAr": "يقول المتحدث إن روايات أخرى تنسب إلى محمد إنزال المطر وتكليم الشجر وتكليم الحيوان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the istisqa' (rain), speaking-tree and speaking-animal reports in the canonical collections and check their wording and grading."
+    },
+    {
+      "timestamp": "00:08:42",
+      "claimEn": "The speaker claims that if these miracles had actually happened in Muhammad's lifetime he would not have been known as an ordinary man without miracles, people would not have kept demanding to see his miracles, and the Qur'an itself would have recorded them; instead the Qur'an spends a passage cursing Abu Lahab and his wife while ignoring supernatural events that would have benefited later generations.",
+      "claimAr": "يقول المتحدث إنه لو وقعت هذه المعجزات فعلًا في حياة محمد لما عُرف بأنه رجل عادي بلا معجزات، ولما ظل الناس يطالبونه بمعجزاته، ولذكرها القرآن نفسه؛ بينما القرآن يشتم أبا لهب وامرأته ولا يهتم بذكر خوارق تنفع الأجيال القادمة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-internal-tensions",
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the content of Surat al-Masad and the argument from Qur'anic silence about the hadith miracles, including the traditional responses (e.g. the splitting of the moon in Q54:1)."
+    },
+    {
+      "timestamp": "00:09:22",
+      "claimEn": "The speaker claims al-Bukhari is not necessarily the one who fabricated these miracle stories: Muhammad was known as an ordinary man without miracles, which did not serve him, and many of his contemporaries did not believe him even while he was alive, so the people who came after him — even before al-Bukhari was born — invented such stories in order to magnify him.",
+      "claimAr": "يقول المتحدث إن البخاري ليس بالضرورة من اختلق قصص المعجزات، فمحمد كان معروفًا بأنه شخص عادي لا معجزات له وهذا لم يكن في صالحه، وكثيرون من معاصريه لم يصدقوه وهو حي، فاختلق من جاء بعده — حتى قبل مولد البخاري — هذه القصص لتعظيمه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-political-fabrication",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the proposed motive and chronology of miracle-story growth against the dala'il al-nubuwwa literature and its dating."
+    },
+    {
+      "timestamp": "00:10:05",
+      "claimEn": "The speaker claims that a society living in an age of goats and tents would inevitably say of its most legendary figure that he was blessed, restored sight to the blind, healed the sick and cast out demons.",
+      "claimAr": "يقول المتحدث إن مجتمعًا يعيش في عصر المعز والخيام لا بد أن يقول عن أكثر شخص أسطوري عنده إنه مبارك يردّ بصر الأعمى ويشفي المريض ويُخرج العفاريت.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-source-traditions-inherited-motifs-and-parallels",
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare with the comparative literature on hagiographic accretion around founder figures; note the overlap of the listed miracles with Gospel healing accounts."
+    },
+    {
+      "timestamp": "00:10:05",
+      "claimEn": "The speaker claims that although Bukhari's book and hadith literature generally speak constantly of Mecca as the source of trade and worship, there is not a single historical document across all these centuries that mentions the word Mecca at all, let alone any trade conducted there, and no mention of a tribe called Quraysh.",
+      "claimAr": "يقول المتحدث إنه رغم أن كتاب البخاري والأحاديث عمومًا تتحدث كثيرًا عن مكة بوصفها مصدر التجارة والعبادة، فليس بين الوثائق التاريخية كلها وثيقة واحدة تذكر كلمة مكة أصلًا، فضلًا عن أي تجارة جرت فيها، ولا ذكر لقبيلة اسمها قريش.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "sirah-historical-setting-pre-islamic-arabia",
+        "sirah-source-traditions-external-and-material-evidence",
+        "non-muslim-witnesses-to-early-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the revisionist argument from silence about Mecca (Crone's Meccan Trade) against proposed attestations such as Ptolemy's Macoraba and the earliest datable references to Mecca and Quraysh."
+    },
+    {
+      "timestamp": "00:10:51",
+      "claimEn": "The speaker claims there is not a single historical document nor any archaeological or material evidence indicating that battles named Uhud, Badr, Khaybar, Tabuk or the Trench — or any of the wars attributed to Muhammad in which tens of thousands are said to have died — ever took place.",
+      "claimAr": "يقول المتحدث إنه لا توجد وثيقة تاريخية واحدة ولا أي أدلة أثرية تشير إلى أن معارك باسم أحد أو بدر أو خيبر أو تبوك أو الخندق — أو أي حرب من الحروب المنسوبة إلى محمد ومات فيها عشرات الآلاف — قد وقعت فعلًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "sirah-conflict-and-political-conduct-campaigns-and-alliances",
+        "sirah-source-traditions-external-and-material-evidence"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the state of archaeological survey of the maghazi sites and any external attestation; also check the casualty figures the traditional sources themselves give, which are far below tens of thousands."
+    },
+    {
+      "timestamp": "00:11:31",
+      "claimEn": "The speaker claims that while Islamic books say the Muslim rulers colonized countries with love, the historians all say the opposite, and that the historical contradictions between Islamic books and real history books are too numerous to exhaust.",
+      "claimAr": "يقول المتحدث إن الكتب الإسلامية تزعم أن الحكام المسلمين استعمروا البلدان بالحب بينما يقول المؤرخون جميعًا عكس ذلك، وأن التناقضات التاريخية بين الكتب الإسلامية وكتب التاريخ الحقيقي لا تُحصى.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "non-muslim-witnesses-to-early-islam",
+        "sirah-conflict-and-political-conduct-campaigns-and-alliances",
+        "early-islamic-state-and-caliphate"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Islamic futuh narratives with contemporary Syriac, Greek and Armenian accounts of the conquests; the sweeping 'all historians' claim needs testing against the actual range of scholarship."
+    },
+    {
+      "timestamp": "00:11:31",
+      "claimEn": "The speaker claims al-Tabari, writing 300 years after the Muslims entered Palestine, invented out of his own head a thing called the Umari covenant asserting that the Muslims entered Palestine with kisses and embraces, whereas the documents written at the time of the entry by historians living in Palestine itself say the opposite.",
+      "claimAr": "يقول المتحدث إن الطبري، بعد ثلاثمائة سنة من دخول المسلمين فلسطين، اخترع من عنده شيئًا اسمه العهدة العمرية يزعم أن المسلمين دخلوا فلسطين بالبوس والأحضان، بينما الوثائق التي كُتبت زمن الدخول على يد مؤرخين عاشوا في فلسطين نفسها تقول عكس ذلك.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "non-muslim-witnesses-to-early-islam",
+        "sirah-source-traditions-external-and-material-evidence",
+        "early-islamic-state-and-caliphate"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check al-Tabari's text of the Umari covenant, its dating and transmission history (including the debate over its relation to the Pact of Umar), and the contemporary Palestinian sources such as Sophronius' sermons."
+    },
+    {
+      "timestamp": "00:11:31",
+      "claimEn": "The speaker claims the Umari covenant is itself full of discrimination: Christians are forbidden to build new churches or to repair churches destroyed in the Muslim occupation, must open a church to any Muslim who wishes to enter and feed and give him drink, and must stand up from their seats for a Muslim who enters and wants to sit.",
+      "claimAr": "يقول المتحدث إن العهدة العمرية نفسها مليئة بالعنصرية: يُمنع المسيحيون من بناء كنائس جديدة أو ترميم ما تهدم منها بالاحتلال الإسلامي، وعليهم أن يفتحوا الكنيسة لأي مسلم يريد دخولها ويطعموه ويسقوه، وأن يقوموا من مجالسهم لمسلم دخل وأراد الجلوس.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "early-islamic-state-and-caliphate",
+        "sirah-conflict-and-political-conduct-treatment-of-opponents"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the listed stipulations with the transmitted text of the Pact of Umar (al-shurut al-umariyya) and check which clauses appear in which recension."
+    },
+    {
+      "timestamp": "00:12:18",
+      "claimEn": "The speaker claims the story of the Abyssinian who came to demolish the Ka'ba and against whom God prepared birds to pelt him with stones is merely a legend, since there is no such thing as a god sending birds to throw stones at people in order to protect some stones.",
+      "claimAr": "يقول المتحدث إن قصة الحبشي الذي جاء ليهدم الكعبة فأعدّ له الإله طيورًا ترميه بالحجارة ليست إلا أسطورة، إذ لا وجود لإله يبعث طيورًا ترمي الناس بالطوب حمايةً لبعض الحجارة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-elephant-narrative",
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the text of Surat al-Fil and the exegetical elaboration of the story; note that the speaker names the invader Ibrahim al-Habashi rather than Abraha."
+    },
+    {
+      "timestamp": "00:12:42",
+      "claimEn": "The speaker claims that God sent no birds when the Ka'ba was destroyed fifty years after Muhammad's death, nor when it was destroyed again at the hands of al-Hajjaj ibn Yusuf al-Thaqafi sixty years after his death.",
+      "claimAr": "يقول المتحدث إن الإله لم يبعث طيورًا حين هُدمت الكعبة بعد موت محمد بخمسين سنة، ولا حين هُدمت مرة أخرى على يد الحجاج بن يوسف الثقفي بعد موته بستين سنة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "umayyad-mecca-and-ibn-al-zubayr",
+        "quran-historical-claims-rulings-and-sanctuaries-setting"
+      ],
+      "newTopicIds": [
+        "kaaba-history-and-rebuildings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the dates and circumstances of the damage to the Ka'ba during the sieges of Ibn al-Zubayr's Mecca (64 AH and 73 AH) and al-Hajjaj's rebuilding, and verify the intervals stated."
+    },
+    {
+      "timestamp": "00:12:42",
+      "claimEn": "The speaker claims that 300 years after Muhammad's death the Qarmatians entered the Ka'ba, slaughtered all the pilgrims, threw their bodies into the well of Zamzam, and stole the Black Stone, keeping it for twenty years, so that in the end nobody knows whether the stone that was returned is the one that was taken or a forged replacement.",
+      "claimAr": "يقول المتحدث إن القرامطة دخلوا الكعبة بعد موت محمد بثلاثمائة سنة فذبحوا الحجاج جميعًا وألقوا جثثهم في بئر زمزم وسرقوا الحجر الأسود فبقي عندهم عشرين سنة، حتى لم يعد أحد يعرف هل الحجر الذي أُعيد هو المأخوذ نفسه أم حجر آخر مزوَّر.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-rulings-and-sanctuaries-setting"
+      ],
+      "newTopicIds": [
+        "kaaba-history-and-rebuildings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Qarmatian sack of Mecca in 317 AH / 930 CE, the duration of the Black Stone's removal, and the reports on the identity of the returned stone."
+    },
+    {
+      "timestamp": "00:13:21",
+      "claimEn": "The speaker claims that in 1979 a group he describes as Muslim Brothers entered the Ka'ba and opened fire on the pilgrims, killing 382 people and wounding more than a thousand, and that in 1996 the Ka'ba was demolished entirely to the ground and rebuilt by workmen from floor to walls to roof, nothing old remaining in it except the Black Stone whose authenticity is itself unknown.",
+      "claimAr": "يقول المتحدث إن جماعة وصفها بالإخوان المسلمين دخلت الكعبة سنة 1979 وأطلقت النار على الحجاج فقتلت 382 شخصًا وأصابت أكثر من ألف، وإن الكعبة هُدمت بالكامل سنة 1996 وأُعيد بناؤها من الأرضية إلى الحيطان إلى السقف ولم يبقَ فيها قديم إلا الحجر الأسود الذي لا يُعرف أصلًا إن كان الأصلي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-rulings-and-sanctuaries-setting"
+      ],
+      "newTopicIds": [
+        "kaaba-history-and-rebuildings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the 1979 Grand Mosque seizure (its perpetrators, casualty figures, and whether it occurred during hajj) and the scope of the 1996 restoration — whether the structure was fully demolished or partially rebuilt."
+    },
+    {
+      "timestamp": "00:13:21",
+      "claimEn": "The speaker claims the pattern shows that the god sent birds only when there was no historical evidence or witnesses, and sent nothing once events had witnesses and records, the Ka'ba having been destroyed at least twelve times since; and that the Ka'ba pilgrims save for is literally only twenty years old rather than built by Adam.",
+      "claimAr": "يقول المتحدث إن النمط يبيّن أن الإله بعث الطير فقط حين لم تكن هناك أدلة تاريخية ولا شهود، ولم يبعث شيئًا حين صار للأحداث شهود وسجلات، وقد هُدمت الكعبة بعد ذلك اثنتي عشرة مرة على الأقل؛ وأن الكعبة التي يدّخر الناس أعمارهم لزيارتها حديثة البناء منذ عشرين سنة لا بناء آدم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-elephant-narrative",
+        "quran-historical-claims-rulings-and-sanctuaries-setting"
+      ],
+      "newTopicIds": [
+        "kaaba-history-and-rebuildings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the count of twelve destructions/rebuildings against the historical record, and check the traditional attribution of the Ka'ba's construction to Adam and to Abraham."
+    },
+    {
+      "timestamp": "00:14:02",
+      "claimEn": "The speaker claims Sahih al-Bukhari is above all characterized by hadiths that contradict one another, including many reports describing the same rituals differently.",
+      "claimAr": "يقول المتحدث إن أبرز ما يميّز صحيح البخاري هو الأحاديث المتناقضة فيما بينها، ومنها أحاديث كثيرة تصف الطقوس نفسها وصفًا مختلفًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Collect the ritual reports the speaker alludes to and check whether the divergences are genuine contradictions or recognized variations recorded as such."
+    },
+    {
+      "timestamp": "00:14:02",
+      "claimEn": "The speaker claims nobody actually knows how old Muhammad was when he died: al-Bukhari gives 60 in one place and 63 in another, and Muslim after him gives 65, while other hadiths give 60 again.",
+      "claimAr": "يقول المتحدث إنه لا أحد يعرف حقيقة سنّ محمد عند وفاته: فالبخاري يقول ستين مرة وثلاثًا وستين مرة، ويأتي بعده مسلم فيقول خمسًا وستين، وفي أحاديث أخرى ستون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "sirah",
+        "death-of-muhammad-theories"
+      ],
+      "newTopicIds": [
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the reports in Sahih al-Bukhari and Sahih Muslim giving 60, 63 and 65 as Muhammad's age at death and check the wording and the harmonizations offered by commentators."
+    },
+    {
+      "timestamp": "00:14:02",
+      "claimEn": "The speaker claims the reports also contradict each other on how long Muhammad stayed in Mecca: some hadiths in al-Bukhari say ten years, others in al-Bukhari say thirteen, and hadiths in Muslim say fifteen — all of them supposedly sound and all their narrators supposedly infallible.",
+      "claimAr": "يقول المتحدث إن الروايات تتناقض أيضًا في مدة إقامة محمد بمكة: فبعض أحاديث البخاري تقول عشر سنين وبعضها الآخر ثلاث عشرة، وأحاديث مسلم تقول خمس عشرة، وكلها يُفترض أنها صحيحة ورواتها لا يغلطون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "sirah"
+      ],
+      "newTopicIds": [
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the reports giving ten, thirteen and fifteen years for the Meccan period in Sahih al-Bukhari and Sahih Muslim and check how commentators reconcile them."
+    },
+    {
+      "timestamp": "00:15:09",
+      "claimEn": "The speaker claims al-Bukhari contains a story in which the Messenger wanted to sleep with a slave girl in the house of his wife Umayma bint Sharahil, telling her to give herself to him for the night; she answered by asking whether a queen gives herself to a commoner, at which he raised his hand to strike her and she said 'I seek refuge in God from you'; he then left the room, called a man named Abu Sa'id, and told him to clothe her and take her back to her family.",
+      "claimAr": "يقول المتحدث إن في البخاري قصة أراد فيها الرسول أن ينام مع جارية في بيت زوجته أميمة بنت شراحيل وقال لها هبي نفسك لي فهذه ليلتنا، فردت بقولها أتهب الملكة نفسها لسوقة؟ فرفع يده ليضربها فقالت أعوذ بالله منك، فخرج ونادى رجلًا سماه أبا سعيد فأمره أن يكسوها ويلحقها بأهلها.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "women-marital-authority-and-obedience",
+        "slavery"
+      ],
+      "newTopicIds": [
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report of the woman who said 'a'udhu billahi minka' in Sahih al-Bukhari, check the identification of the woman (Umayma bint Sharahil / al-Jawniyya), the name of the man sent (Abu Usayd), and whether the raised hand and the words attributed here appear in the text."
+    },
+    {
+      "timestamp": "00:15:43",
+      "claimEn": "The speaker claims the same story appears a second time in Sahih al-Bukhari, but with Umayma bint Sharahil herself as the woman rather than a slave girl in her house — the story repeated verbatim with two different characters — so logically at least one of the two must be false, if not both.",
+      "claimAr": "يقول المتحدث إن القصة نفسها وردت مرة أخرى في صحيح البخاري لكن بأميمة بنت شراحيل نفسها بدل جارية في بيتها، فتكررت القصة بالحرف بشخصيتين مختلفتين، ومنطقيًا لا بد أن تكون إحداهما كاذبة إن لم تكونا معًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Find both versions in Sahih al-Bukhari and compare their wording and the identity of the woman in each; check whether the divergence is a genuine doubling or a difference among transmitters of one report."
+    },
+    {
+      "timestamp": "00:15:43",
+      "claimEn": "The speaker claims that a man believing his interlocutor to be a messenger sent from God would not be told 'I seek refuge in God from you' — and adds that the name Allah is in fact not an Islamic deity but one of the gods the Arabs worshipped before Muhammad was born.",
+      "claimAr": "يقول المتحدث إن من يعتقد أن الذي أمامه رسول من عند الله لا يقال له أعوذ بالله منك، ويضيف أن اسم الله في الحقيقة ليس إلهًا إسلاميًا بل إله من الآلهة التي كان العرب يعبدونها قبل مولد محمد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-pre-islamic-arabia",
+        "pre-islamic-hanif-monotheism",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic epigraphic and literary attestation of the name Allah / Allahumma in Arabian usage and the scholarship on its status among pre-Islamic deities."
+    },
+    {
+      "timestamp": "00:16:21",
+      "claimEn": "The speaker claims other hadiths asking which deeds are best give three different answers: once faith in God then jihad then hajj, once prayer at its time then filial piety, and a third time jihad — so either the answer is known and should be stated, or it is not.",
+      "claimAr": "يقول المتحدث إن أحاديث أخرى سُئل فيها عن أفضل الأعمال تعطي ثلاثة أجوبة مختلفة: مرة الإيمان بالله ثم الجهاد ثم الحج، ومرة الصلاة على وقتها ثم بر الوالدين، ومرة ثالثة الجهاد، فإما أن يكون أفضل العمل معروفًا فيُقال وإما لا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the afdal al-a'mal reports in Sahih al-Bukhari and Sahih Muslim, compare their wording, and check the classical explanations of the divergence by audience and circumstance."
+    },
+    {
+      "timestamp": "00:16:44",
+      "claimEn": "The speaker claims there is a hadith in which Abdullah ibn Salam, having heard of a man claiming prophethood, came to test him with three questions he said only a prophet could answer — the first sign of the Hour, the first food of the people of paradise, and what makes a child resemble its mother or its father — and Muhammad said Gabriel had just come down and given him the answers, whereupon Ibn Salam converted on the spot.",
+      "claimAr": "يقول المتحدث إن في الحديث أن عبد الله بن سلام لما سمع برجل يدّعي النبوة جاء يمتحنه بثلاثة أسئلة قال إنه لا يعرفها إلا نبي: أول أشراط الساعة، وأول طعام أهل الجنة، وما الذي يجعل الولد يشبه أمه أو أباه؛ فقال محمد إن جبريل نزل عليه للتوّ بالأجوبة، فأسلم ابن سلام في الحال.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "jewish-influence-transmitted-lore-and-questioning",
+        "jewish-influence-on-early-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Abdullah ibn Salam three-questions report in Sahih al-Bukhari and check its wording, especially the mention of Gabriel and the phrasing of the third answer."
+    },
+    {
+      "timestamp": "00:17:41",
+      "claimEn": "The speaker claims the hadith collapses on inspection, because Abdullah ibn Salam could not have known the answers were correct — he had himself said only a prophet knows them — so either he was himself a prophet or he converted for no reason; and Muhammad could simply have invented the answers, the first being unverifiable, the second about an imaginary thing, and the third asserting that the child resembles whichever parent's fluid predominates in the womb, which is unscientific and wrong. The hadith was therefore composed to magnify Muhammad and prove his prophethood to the common people.",
+      "claimAr": "يقول المتحدث إن الحديث ينهار عند الفحص، فعبد الله بن سلام لم يكن بوسعه أن يعرف صحة الأجوبة وقد قال هو إنه لا يعرفها إلا نبي، فإما أن يكون نبيًا وإما أنه أسلم بلا سبب؛ وكان بوسع محمد أن يؤلف الأجوبة، فالأولى لا دليل على صدقها والثانية عن شيء خيالي والثالثة تزعم أن الولد يشبه من غلب ماؤه في الرحم وهو كلام غير علمي وخاطئ، فالحديث مؤلَّف لتعظيم محمد وإثبات نبوته للعامة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "hadith-miracle-narratives"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the report's wording on parental resemblance against modern genetics, and assess the epistemic argument about how the questioner could verify the answers."
+    },
+    {
+      "timestamp": "00:18:48",
+      "claimEn": "The speaker claims the corpus contains hadiths saying that on waking one must blow the nose three times because Satan sleeps in one of the nostrils, that God loves sneezing but dislikes yawning, that the sick should take black seed, honey or dates, and that if a fly falls into a dish it should be dunked fully rather than the food thrown away.",
+      "claimAr": "يقول المتحدث إن في المدونة أحاديث تقول إن من استيقظ فلينثر ثلاثًا لأن الشيطان يبيت في إحدى فتحتي الأنف، وإن الإله يحب العطاس ويكره التثاؤب، وإن المريض يتداوى بالحبة السوداء أو العسل أو التمر، وإن الذبابة إذا وقعت في الإناء فليغمسها كلها ولا يرمِ الطعام.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate each of the four reports in Sahih al-Bukhari and Sahih Muslim (istinthar, sneezing and yawning, black seed, the fly in the vessel) and check their wording and grading."
+    },
+    {
+      "timestamp": "00:19:12",
+      "claimEn": "The speaker claims all such material is folk culture that existed at the time in a society where ignorance was widespread, and was attributed to Muhammad because people wanted him to be the source of these teachings and wanted to magnify him.",
+      "claimAr": "يقول المتحدث إن هذه المادة كلها ثقافة شعبية كانت موجودة حينذاك في مجتمع منتشر فيه الجهل، ونُسبت إلى محمد لأنهم أرادوا أن يكون هو مصدر هذه التعاليم وأرادوا تعظيمه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "hadith-political-fabrication"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the medical and folk-remedy content of these reports has attested pre-Islamic or late-antique parallels in the region."
+    },
+    {
+      "timestamp": "00:19:12",
+      "claimEn": "The speaker claims the same magnifying impulse produced reports that Muhammad slept with six women in a single night and that his sexual power equalled four thousand men, to the point that his semen showed on his garment.",
+      "claimAr": "يقول المتحدث إن دافع التعظيم نفسه أنتج روايات تقول إنه كان ينام مع ست نسوة في ليلة واحدة وإن قوته الجنسية تعادل أربعة آلاف رجل حتى كان المني يظهر على ثوبه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-ethical-controversies",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the reports of circulating among his wives in one night and of the sexual strength given to him; check the numbers actually stated (the tradition commonly gives thirty or forty men, not four thousand)."
+    },
+    {
+      "timestamp": "00:19:40",
+      "claimEn": "The speaker claims these hadiths serve no purpose but to magnify Muhammad, citing as an example the report that the miser is the one who hears Muhammad's name and does not invoke blessings on him — while nothing comparable is required on hearing the name of God himself.",
+      "claimAr": "يقول المتحدث إن هذه الأحاديث لا فائدة منها إلا التعظيم، ومثالها الحديث القائل إن البخيل من ذُكر عنده اسم محمد فلم يصلِّ عليه، بينما لا يُطلب مثل ذلك عند سماع اسم الله نفسه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the 'al-bakhil' hadith on failing to invoke blessings and check its collection and wording."
+    },
+    {
+      "timestamp": "00:20:09",
+      "claimEn": "The speaker claims al-Bukhari and those who said they were collecting hadiths devised the practice of distinguishing sound from doubtful reports by tracing who related them — the chain called the isnad — in order to make people believe the hadiths they were writing and forget the thousands of other hadiths that others were writing.",
+      "claimAr": "يقول المتحدث إن البخاري ومن قالوا إنهم يجمعون الأحاديث ابتكروا التفريق بين الصحيح والمشكوك فيه بتتبع من رواه — أي السند — لكي يصدّق الناس أحاديثهم هم وينسوا آلاف الأحاديث الأخرى التي كان غيرهم يكتبها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "isnad-authenticity-and-origins",
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the scholarship on the emergence of isnad criticism and on the competing collections that did not attain canonical status."
+    },
+    {
+      "timestamp": "00:20:53",
+      "claimEn": "The speaker claims Patricia Crone, whom he describes as a historian and scholar of oriental languages, said that shortly after Muhammad's death only a few hadiths were circulating, that people tried to find a source for them, and that although those people were close in time to Muhammad's death they were unable to determine who had transmitted these hadiths in sequence back to him.",
+      "claimAr": "يقول المتحدث إن باتريشيا كرون، ويصفها بأنها مؤرخة وعالمة باللغات الشرقية، ذكرت أنه بعد موت محمد بقليل كانت هناك أحاديث قليلة يتداولها الناس، وأنهم حاولوا إيجاد مصدر لها، ورغم قربهم الزمني من وفاته لم يستطيعوا معرفة من نقلها بالتتابع إليه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [
+        "isnad-authenticity-and-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the passage in Crone's work (e.g. Slaves on Horses or Meccan Trade) said to state this, and check the wording and the scope of her argument, along with the responses to it."
+    },
+    {
+      "timestamp": "00:21:19",
+      "claimEn": "The speaker claims that if near-contemporaries could not trace the chains, then the appearance of people two hundred years later saying they possess tens of thousands of hadiths with complete chains back to the person who heard it from Muhammad is the greatest proof that these hadiths are fabricated and their chains manufactured.",
+      "claimAr": "يقول المتحدث إنه إذا عجز القريبون زمنًا عن تتبع السلاسل، فإن ظهور أناس بعدهم بمئتي سنة يقولون إن عندهم عشرات الآلاف من الأحاديث بأسانيد كاملة إلى من سمعها من محمد هو أكبر دليل على أن هذه الأحاديث مؤلَّفة وأسانيدها مفبركة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-political-fabrication"
+      ],
+      "newTopicIds": [
+        "isnad-authenticity-and-origins",
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Assess this against the revisionist literature on isnad growth (Schacht, Juynboll, Crone) and against the counter-arguments from common-link analysis and early written collections."
+    },
+    {
+      "timestamp": "00:21:19",
+      "claimEn": "The speaker claims that for a full hundred years after the Messenger's death nobody at all was concerned with collecting what Muhammad had said.",
+      "claimAr": "يقول المتحدث إنه لمدة مائة سنة كاملة بعد موت الرسول لم يكن أحد مهتمًا بجمع ما قاله محمد إطلاقًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "isnad-authenticity-and-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the evidence for early written hadith collections (the sahifa material, Umar b. Abd al-Aziz's reported order to al-Zuhri) against the claim of a hundred-year gap."
+    },
+    {
+      "timestamp": "00:21:35",
+      "claimEn": "The speaker claims the hadiths began to appear at the height of the political conflict between the Umayyad state and the Abbasids who wanted to overthrow them, that the Umayyads attacked the Abbasids as against religion for refusing the Umayyad caliph and composed statements later called hadiths on Muhammad's tongue to prove it, and that the Abbasids likewise composed hadiths to make people hate the Umayyads.",
+      "claimAr": "يقول المتحدث إن الأحاديث بدأت تظهر في ذروة الصراع السياسي بين الدولة الأموية والعباسيين الذين أرادوا الانقلاب عليهم، وأن الأمويين كانوا يهاجمون العباسيين بوصفهم ضد الدين لرفضهم الخليفة الأموي ويؤلفون كلامًا سُمي بعد ذلك أحاديث على لسان محمد لإثبات ذلك، وأن العباسيين بدورهم ألّفوا أحاديث لتكريه الناس في الأمويين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-political-fabrication",
+        "umayyad-period-and-religious-formation",
+        "early-islamic-state-and-caliphate",
+        "sirah-source-traditions-competing-narratives-and-reputations"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the scholarship on partisan hadith fabrication during the late Umayyad and early Abbasid periods and on the chronology of hadith circulation relative to that conflict."
+    },
+    {
+      "timestamp": "00:22:16",
+      "claimEn": "The speaker claims Muhammad ibn Shihab al-Zuhri was recruited by the Umayyad state during the reign of Abd al-Malik ibn Marwan to compose hadiths, and that he himself said the Umayyad princes made people fabricate hadiths.",
+      "claimAr": "يقول المتحدث إن محمد بن شهاب الزهري جُنّد في الدولة الأموية في عهد عبد الملك بن مروان ليؤلف أحاديث، وأنه قال بنفسه إن الأمراء الأمويين كانوا يحملون الناس على تأليف الأحاديث.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-political-fabrication",
+        "umayyad-shaping-of-islam",
+        "abd-al-malik-unification-of-religion",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Find the statement attributed to al-Zuhri about the umara' compelling the writing of hadiths (as cited by Ibn Sa'd and discussed by Goldziher), check its wording and chain, and check al-Zuhri's relationship with Abd al-Malik and later Umayyad caliphs."
+    },
+    {
+      "timestamp": "00:23:50",
+      "claimEn": "The speaker claims hadiths came to be used to control the populace itself, with rulers manufacturing hadiths mandating the killing of anyone who rebels against or objects to the ruler and declaring such objection contrary to religion.",
+      "claimAr": "يقول المتحدث إن الأحاديث صارت تُستخدم في ضبط الشعب نفسه، فصنع الحكام أحاديث عن قتل كل من يخرج على الحاكم أو يعترض عليه وعدّوا ذلك مخالفًا للدين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-political-fabrication",
+        "quran-obedience-and-authority",
+        "hadith-ethical-controversies-penalties-and-exercise-of-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the reports on obedience to rulers and on killing those who split the community, and check the scholarship on their political context and dating."
+    },
+    {
+      "timestamp": "00:24:00",
+      "claimEn": "The speaker claims rulers likewise manufactured hadiths permitting sabi, so that when Muslims occupy a country it is lawful for them to take its women and daughters as captives and concubines for sexual enjoyment — and that someone later presents this as a mark of mercy in Islam, on the grounds that they are raped rather than killed.",
+      "claimAr": "يقول المتحدث إن الحكام صنعوا كذلك أحاديث في إباحة السبي، فإذا احتل المسلمون دولة حلّ لهم أخذ نسائها وبناتها سبايا وجواري للتلذذ بهن جنسيًا، ثم يأتي من يقول إن هذا من علامات الرحمة في الإسلام لأنهم يغتصبونهن بدل قتلهن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-captivity-and-wartime",
+        "slavery",
+        "jihad-incentive-structure",
+        "hadith-political-fabrication",
+        "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadiths on the lawfulness of captive women and the apologetic argument from mercy, and check the scholarship on whether these rules originate in the conquest period."
+    },
+    {
+      "timestamp": "00:24:32",
+      "claimEn": "The speaker claims the argument applies not only to al-Bukhari but to every hadith book, since they all copy from al-Bukhari.",
+      "claimAr": "يقول المتحدث إن الكلام لا ينطبق على البخاري وحده بل على كل كتاب فيه حديث لأنهم جميعًا ناقلون عن البخاري.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether later collections are in fact dependent on al-Bukhari, given that several were compiled by his contemporaries or from shared teachers."
+    },
+    {
+      "timestamp": "00:24:32",
+      "claimEn": "The speaker claims Muslim ibn al-Hajjaj, who wrote Sahih Muslim, told the same story as al-Bukhari to make people believe him: that he toured the whole Arabian peninsula and travelled to Mecca, Medina, Basra, Baghdad, Kufa, Egypt, Syria and Palestine, gathered 300,000 hadiths and in the end kept only 3,000, rejecting 297,000 as false.",
+      "claimAr": "يقول المتحدث إن مسلم بن الحجاج صاحب صحيح مسلم روى الحدوتة نفسها التي رواها البخاري ليصدقه الناس: أنه طاف الجزيرة العربية كلها وسافر إلى مكة والمدينة والبصرة وبغداد والكوفة ومصر وسوريا وفلسطين وجمع ثلاثمائة ألف حديث فلم يبقِ إلا ثلاثة آلاف وردّ 297 ألفًا.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Muslim's biography, his stated collection figures, and the number of hadiths in his Sahih."
+    },
+    {
+      "timestamp": "00:24:32",
+      "claimEn": "The speaker claims nobody even knows how many hadiths Sahih Muslim contains, with figures of 3,000, 4,000, 7,000 and 12,000 all given.",
+      "claimAr": "يقول المتحدث إنه لا أحد يعرف أصلًا عدد أحاديث صحيح مسلم، فمن قائل ثلاثة آلاف ومن قائل أربعة آلاف ومن قائل سبعة آلاف ومن قائل اثنا عشر ألفًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections",
+        "hadith-internal-contradictions"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the various counts given for Sahih Muslim and whether the divergence reflects counting with or without repetitions and differing numbering systems."
+    },
+    {
+      "timestamp": "00:25:17",
+      "claimEn": "The speaker claims the appeal to specialist complexity — fiqh, sharia, matn, isnad, defect, exegesis — is no argument, since thousands of other religions have equally complex disciplines, Christianity included, and complexity does not make a thing valuable.",
+      "claimAr": "يقول المتحدث إن الاحتجاج بتعقيد التخصص — الفقه والشريعة والمتن والسند والعلة والتفاسير — ليس حجة، فآلاف الأديان الأخرى فيها تعقيد مماثل والمسيحية منها، وليس كل معقّد ذا قيمة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith"
+      ],
+      "newTopicIds": [
+        "hadith-collectors-and-canonical-collections"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is a methodological argument rather than a source claim; an editor need only check that it is fairly stated as the speaker's position."
+    },
+    {
+      "timestamp": "00:25:17",
+      "claimEn": "The speaker claims the hadiths are built on stories for which there is no evidence at all, and that this alone should be the first reason not to believe them.",
+      "claimAr": "يقول المتحدث إن الأحاديث مبنية على قصص لا دليل عليها أصلًا، وأن هذا وحده أول ما يوجب عدم تصديقها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [
+        "isnad-authenticity-and-origins"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess against the standard arguments for and against the historical value of hadith as source material."
+    },
+    {
+      "timestamp": "00:26:02",
+      "claimEn": "The speaker claims the hadiths damage rather than serve Muhammad's image, containing bloody, illogical and abnormally licentious material — killing, blood, burning, invasion, captive-taking, sleeping with concubines, unbalanced sexual appetite and homophobia — things that could not be said of a normal human being, let alone of one said to be sent by the maker of the universe.",
+      "claimAr": "يقول المتحدث إن الأحاديث تشوّه صورة محمد لا تخدمها، لما فيها من كلام دموي وغير منطقي وإباحي على نحو غير طبيعي: قتل ودم وحرق وغزو وسبي ونوم مع الجواري وشهوة جنسية غير متزنة وكراهية للمثليين، وهي أمور لا تقال عن إنسان طبيعي فضلًا عمن يقال إنه مرسل ممن صنع الكون.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "slavery",
+        "women-captivity-and-wartime"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Sample the reports in each of the listed categories and check whether the characterization is supported by their texts."
+    },
+    {
+      "timestamp": "00:26:49",
+      "claimEn": "The speaker claims hadiths were never written to be a historical source for teaching Islam but were a necessity for rulers, who could not govern or discipline the populace without stories about Muhammad — killing so-and-so, sleeping with concubines and captives, beating his wives for refusing him, marrying a child — because they themselves were doing or wanted to do these things and needed to justify them by attaching them to the Messenger.",
+      "claimAr": "يقول المتحدث إن الأحاديث لم تُكتب لتكون مصدرًا تاريخيًا لتعليم الإسلام بل كانت ضرورة للحكام الذين لم يقدروا على الحكم وضبط الشعب بغير قصص عن محمد يقتل فلانًا وينام مع الجواري والسبايا ويضرب نساءه لرفضهن ويتزوج طفلة، لأنهم كانوا يفعلون ذلك أو يريدون فعله فاحتاجوا إلى تبريره بنسبته إلى الرسول.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-political-fabrication",
+        "umayyad-shaping-of-islam",
+        "early-islamic-state-and-caliphate",
+        "hadith-ethical-controversies-penalties-and-exercise-of-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the functional thesis against the scholarship on the relation between hadith, early legal practice and caliphal authority."
+    },
+    {
+      "timestamp": "00:26:49",
+      "claimEn": "The speaker claims the effect of this was that the standard of right and wrong collapsed in society, people ceasing to act by their own reason and acting instead by inherited books telling them what to do and not do — enforced by the threat of unbelief and by a hadith stating that an unbeliever should be killed.",
+      "claimAr": "يقول المتحدث إن أثر ذلك انهيار معيار الصواب والخطأ في المجتمع، فلم يعد الناس يمشون بعقولهم بل بكتب موروثة تأمرهم وتنهاهم، مدعومة بتهديد التكفير وبحديث يقول إن الكافر يُقتل.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-penalties-and-exercise-of-authority",
+        "quran-obedience-and-authority",
+        "hadith-political-fabrication"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the apostasy hadith ('man baddala dinahu fa-qtuluhu') in the canonical collections and check its wording and grading."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "البخاري، اسمه الحقيقي محمد الجعفي، اتولد في مدينة بخاري بأسباكستان بعد حوالي 200 سنة من موت محمد",
+      "author": "محمد بن إسماعيل البخاري (كما ورد: محمد الجعفي)",
+      "locator": "بخارى، أوزبكستان؛ بعد نحو 200 سنة من موت محمد",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:00:38",
+      "asStatedInVideo": "كتاب صحيح البخاري نفسه بيتكون على حسب الطبعة من 6 مجلدات، 2000 صفحة أكتر من 7000 حديث",
+      "workTitle": "صحيح البخاري (الجامع الصحيح)",
+      "author": "البخاري",
+      "locator": "6 مجلدات، 2000 صفحة، أكثر من 7000 حديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:19",
+      "asStatedInVideo": "أكتر شخص دخل موصوع الجينيز الأرقامي قياسية كان واحد صيني اسمه شاولو... حفظ حوالي 68 ألف رقم متتالي",
+      "author": "شاولو (رجل صيني، صاحب رقم قياسي في موسوعة غينيس)",
+      "locator": "نحو 68 ألف رقم متتالٍ",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:03:00",
+      "asStatedInVideo": "سافر من مدينته هو ومامته وأخوه عشان يحجوا في مكة... قعد لمدة سنتين في مكة، بعدين سافر المدينة المنورة لما كان عنده 18 سنة، وبعدها... سافر بغداد والبصرة والكوفة والدمشق والقدسة ومصر",
+      "workTitle": "رحلة البخاري في طلب الحديث",
+      "locator": "مكة، المدينة، بغداد، البصرة، الكوفة، دمشق، القدس، مصر؛ 16 سنة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:03:44",
+      "asStatedInVideo": "جمع فيهم 600 ألف حديث، وفي النهاية كذب منهم 593 ألف حديث، وما سابش غير حوالي 7500",
+      "workTitle": "صحيح البخاري",
+      "author": "البخاري",
+      "locator": "600,000 حديث مجموعة، 7500 مثبتة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:07",
+      "asStatedInVideo": "ده هو ما عدي كده بالمرة ألف 18 كتاب، كلهم بنفس حجم الكتاب دوت وكبر منه كمان",
+      "workTitle": "مؤلفات البخاري الأخرى (18 كتابًا)",
+      "author": "البخاري",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:54",
+      "asStatedInVideo": "القرآن أكد مئة مرة وقال إن محمد ده بشر زيه زي أي حد تاني، إنسان عادي يعني مش صانع للمعجزات",
+      "workTitle": "القرآن",
+      "locator": "لم يُذكر رقم سورة أو آية",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:54",
+      "asStatedInVideo": "فيه آيات كتيرة جداً فيها القرآن كان بيتكلم على لسان الناس اللي ما كانتش مصدقة... محمد ورينا ولا معجزة واحدة بس وإحنا نصدقك",
+      "workTitle": "القرآن",
+      "locator": "لم يُذكر رقم سورة أو آية",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:07:37",
+      "asStatedInVideo": "حصلت في غزوة الخندة، لما واحد من أتباع محمد جاب لمحمد نعجة صغيرة... وكان كل ما الجنود بيأكلوا، الأكل مش بينقص، بل بيزيد",
+      "workTitle": "حديث تكثير الطعام في غزوة الخندق",
+      "locator": "غير محدد؛ يُنسب إلى مادة الحديث/السيرة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:08:16",
+      "asStatedInVideo": "نفس القصة دي اتقالت بالحرف في الإنجيل، لما المسيح زود العيش للناس لما ما كانش فيه أكل",
+      "workTitle": "الإنجيل",
+      "locator": "لم يُذكر إصحاح ولا عدد",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:08:42",
+      "asStatedInVideo": "واحد من الجنود كان متعور في عينه جامد... راح محمد بكل بساطة... مسكها، رجعها مكانها، وخفت",
+      "workTitle": "حديث ردّ العين إلى موضعها",
+      "locator": "غير محدد",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:22",
+      "asStatedInVideo": "القرآن هيشتم أبو لهب ويقوله تباً لك أنت ومراتك",
+      "workTitle": "القرآن — سورة أبي لهب (لم يذكر رقمًا)",
+      "locator": "لم يُذكر رقم سورة أو آية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:22",
+      "asStatedInVideo": "نشتم أبو لهب ومراته",
+      "author": "أبو لهب وامرأته",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:10:51",
+      "asStatedInVideo": "مفيش وسيقة تاريخية واحدة، أو أي أدلة أركيولوجية أو أسارية، بتقول إن كانت في معركة حدثة، اسمها أحد، أو بدر، أو خيبر، أو تبوك، أو الخندق",
+      "workTitle": "غزوات أحد وبدر وخيبر وتبوك والخندق",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:31",
+      "asStatedInVideo": "واحد اسمه طبري، ييجي بعد 300 سنة من دخول المسلمين فلسطين، من دماغه كده يقولك إن كان في حاجة اسمها عهدة عمرية",
+      "author": "الطبري",
+      "locator": "بعد 300 سنة من دخول المسلمين فلسطين",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:31",
+      "asStatedInVideo": "العهدة العمرية دي أساساً مليانة عنصرية، زي مثلاً إن ممنوع المسيحين يبنوا أي كنايس جديدة",
+      "workTitle": "العهدة العمرية",
+      "author": "منسوبة إلى عمر بن الخطاب، ينسب المتحدث تأليفها إلى الطبري",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:18",
+      "asStatedInVideo": "قصة عم إبراهيم الحبشي، اللي في يوم من الأيام راح عشان يهدم الكعبة",
+      "author": "إبراهيم الحبشي (كما ورد؛ يقابل أبرهة في الرواية المعروفة)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:29",
+      "asStatedInVideo": "راح الإله مجهز الطيور اللي عنده... وعطله شوية طيور عشان تحدف عليه طوب",
+      "workTitle": "القرآن — رواية أصحاب الفيل",
+      "locator": "لم يُذكر رقم سورة أو آية",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:42",
+      "asStatedInVideo": "لما تهدت مرة تانية على إيد الحجاج من يوسف الثقفي بعد موت محمد بـ 60 سنة",
+      "author": "الحجاج بن يوسف الثقفي",
+      "locator": "بعد موت محمد بستين سنة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:12:42",
+      "asStatedInVideo": "بعد 300 سنة من موت محمد، لما القرامتها دخلوا الكعبة ودبحوا الحجاج كلهم ورموا جساسهم في بير زمزم، وسرقوا الحجر لسويد وفضل عندهم 20 سنة",
+      "workTitle": "دخول القرامطة مكة وسرقة الحجر الأسود",
+      "locator": "بعد موت محمد بثلاثمائة سنة؛ الحجر عندهم عشرين سنة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:13:21",
+      "asStatedInVideo": "سنة 1979، لما شوية إخوان مسلمين دخلوا الكعبة وفتحوا النار على كل الناس اللي كانوا بيحجوا هناك، وقتلوا 382 شخص وأكتر من 1000 شخص ضربوا النار",
+      "workTitle": "اقتحام الحرم المكي سنة 1979",
+      "locator": "382 قتيلًا وأكثر من 1000 جريح",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:13:21",
+      "asStatedInVideo": "سنة 1996، لما الكعبة دي تهدت كلها كده وتساوت بالأرض، وجابوا شوية عمال يبنوها من جديد",
+      "workTitle": "إعادة بناء الكعبة سنة 1996",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:14:35",
+      "asStatedInVideo": "البخاري مرة يقول لك 60، ومرة يقول لك 63، ويجي بعده واحد اسم مسلم من حاجات يقول لك لا، ده مات على 65",
+      "workTitle": "أحاديث سنّ محمد عند وفاته (صحيح البخاري وصحيح مسلم)",
+      "locator": "60 / 63 / 65 سنة؛ لا يذكر أرقام الأحاديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:14:35",
+      "asStatedInVideo": "فيه أحاديث البخاري بتقول ده قعد 10 سنين، بس فيه أحاديث تانية برضه البخاري بتقول قعد 13 سنة، وفيه أحاديث بقى ثالثة المسلم بتقول لك لا، ده قعد 15 سنة",
+      "workTitle": "أحاديث مدة إقامة محمد بمكة (صحيح البخاري وصحيح مسلم)",
+      "locator": "10 / 13 / 15 سنة؛ لا يذكر أرقام الأحاديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:15:09",
+      "asStatedInVideo": "قصة مذكورة في البخاري، إن كانت فيه جارية الرسول حبي نم معاها في بيت مراته اللي هي أميمة بنت شرحيل... قالت له أعوذ بالله منك",
+      "workTitle": "صحيح البخاري — قصة المرأة التي قالت أعوذ بالله منك",
+      "locator": "لم يُذكر رقم الحديث ولا الكتاب",
+      "quotedArabic": "هبي نفسك لي... أعوذ بالله منك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:09",
+      "asStatedInVideo": "في بيت مراته اللي هي أميمة بنت شرحيل",
+      "author": "أميمة بنت شراحيل",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:43",
+      "asStatedInVideo": "نادى على واحد اسمه أبا سيد وقال له لبسها وروح عند أهلها",
+      "author": "أبو سيد (كما ورد؛ يقابل أبا أُسيد في الرواية المعروفة)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:21",
+      "asStatedInVideo": "مرة يقول لك أفضل عمل هو الإيمان بالله ثم الجهاد ثم الحج، مرة تانية يقول لك أفضل عمل هو الصلاة على وقتها ثم بر الوالدين، ومرة ثالثة يقول لك أفضل عمل هو الجهاد",
+      "workTitle": "أحاديث أفضل الأعمال",
+      "locator": "لم تُذكر أرقام الأحاديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:01",
+      "asStatedInVideo": "كان في واحد اسمه عبد الله بن السلام... فرح لمحمد وقال له أنا هسألك ثلاث أسئلة",
+      "author": "عبد الله بن سلام",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:17:01",
+      "asStatedInVideo": "قال له أول سؤال إيه أول علامات الساعة، وإيه هو أول طعام أهل الجنة، وإيه اللي بيخلي الولد يطلع شبه الأم، أو شبه الأب",
+      "workTitle": "حديث أسئلة عبد الله بن سلام الثلاثة",
+      "locator": "لم يُذكر رقم الحديث ولا الكتاب",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:18:48",
+      "asStatedInVideo": "لما الواحد يصحى من النوم، لازم ينفخ في مناخيره ثلاث مرات عشان الشيطان بيكون نايم في فتحة من الفتحتين",
+      "workTitle": "حديث الاستنثار ثلاثًا عند الاستيقاظ",
+      "locator": "لم يُذكر رقم الحديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:18:48",
+      "asStatedInVideo": "إن الإله بيحب العطس بس مش بيحب إن حد يتاو",
+      "workTitle": "حديث محبة العطاس وكراهية التثاؤب",
+      "locator": "لم يُذكر رقم الحديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:18:48",
+      "asStatedInVideo": "لما الواحد يمرض يخده شوية حبة بركة، أو شوية عسل أو بلح",
+      "workTitle": "أحاديث التداوي بالحبة السوداء والعسل والتمر",
+      "locator": "لم تُذكر أرقام الأحاديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:18:48",
+      "asStatedInVideo": "لما الدبانة تقع في طبق إغمزها كلها ما ترميها",
+      "workTitle": "حديث غمس الذباب في الإناء",
+      "locator": "لم يُذكر رقم الحديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:19:12",
+      "asStatedInVideo": "لما كانوا بيقولوا إنه بينام مع ست نسوان في ليلة واحدة، أو إن قوته الجنسية بتعادل 4000 راجل",
+      "workTitle": "أحاديث طوافه على نسائه وقوته الجنسية",
+      "locator": "ست نسوة في ليلة؛ قوة تعادل 4000 رجل (كما ورد)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:19:40",
+      "asStatedInVideo": "إن البخيل هو اللي يسمع اسم محمد وما يصليش عليه",
+      "workTitle": "حديث البخيل من ذُكر عنده النبي فلم يصلِّ عليه",
+      "locator": "لم يُذكر رقم الحديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:53",
+      "asStatedInVideo": "باتريشيا كورون مؤرخة وعالمة باللغات الشرقية قالت إنه من بعد موت محمد بشوية كانت فيه شوية أحاديث قليلة كده الناس بتتدولها",
+      "author": "باتريشيا كرون",
+      "locator": "لم يُذكر كتاب ولا صفحة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:16",
+      "asStatedInVideo": "محمد بن شهاب الزهري ده واحد تم تجنيده في الدولة الأموية أثناء حكم عبد الملك بن مروان عشان يألف أحاديث، قال بنفسه إن الأمراء الأموين كانوا بيخلوا الناس تألف أحاديث",
+      "author": "محمد بن شهاب الزهري",
+      "locator": "في عهد عبد الملك بن مروان",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:16",
+      "asStatedInVideo": "أثناء حكم عبد الملك بن مروان",
+      "author": "عبد الملك بن مروان",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:21:35",
+      "asStatedInVideo": "الأحاديث دي بدأت تظهر في عز الصراع السياسي ما بين الدولة الأموية والعباسيين اللي كانوا عايزين ينقلبوا على الأموين",
+      "workTitle": "الصراع الأموي العباسي",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:23:50",
+      "asStatedInVideo": "هناك حكام أصنعوا أحاديث عن قتل أي شخص يخرج إلى الحاكم أو يعترض عليه وأن هذا ضد الدين",
+      "workTitle": "أحاديث طاعة الحاكم وقتل الخارج عليه",
+      "locator": "لم تُذكر أرقام الأحاديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:24:00",
+      "asStatedInVideo": "أصنعوا أحاديث عن إباحة السبي مثلاً أنه عندما يحتل المسلمين دولة محلل لهم أن يأخذوا نساء الدولة وابنتهم سبية وجواري",
+      "workTitle": "أحاديث إباحة السبي والتسري",
+      "locator": "لم تُذكر أرقام الأحاديث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:24:32",
+      "asStatedInVideo": "مسلم بن الحجاج اللي ألف كتاب صحيح مسلم قال نفس الحدودة بتاعت البخاري",
+      "author": "مسلم بن الحجاج",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:24:32",
+      "asStatedInVideo": "وجمعت 300 ألف حديث وفي النهاية ملقتش بس غير 3000 حديث كذبت 297 ألف حديث",
+      "workTitle": "صحيح مسلم",
+      "author": "مسلم بن الحجاج",
+      "locator": "300,000 حديث مجموعة، 3000 مثبتة؛ وتُذكر أعداد 3000/4000/7000/12000",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:27:20",
+      "asStatedInVideo": "وخد قادي حديثه هو بيقول إنك لو كافر المفروض تتقتل",
+      "workTitle": "حديث قتل المرتد/الكافر",
+      "locator": "لم يُذكر رقم الحديث",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "hadith-collectors-and-canonical-collections",
+      "titleEn": "The collectors and the canonical collections",
+      "titleAr": "جامعو الحديث والمجاميع المعتمدة",
+      "descriptionEn": "Claims about the compilers of the canonical hadith collections — al-Bukhari, Muslim and their successors: their biographies, the memorization and travel feats attributed to them, their described methods of gathering and screening reports, the numbers they claim to have sifted, and assessments of the resulting books' scope and authority.",
+      "descriptionAr": "دعاوى تتعلق بمصنّفي كتب الحديث المعتمدة — البخاري ومسلم ومن تبعهما: سِيَرهم، وما يُنسب إليهم من قدرات الحفظ والرحلة، ومناهجهم الموصوفة في الجمع والغربلة، والأعداد التي يقولون إنهم غربلوها، وتقييم نطاق كتبهم وسلطتها.",
+      "suggestedParentId": "hadith",
+      "closestExistingId": "hadith-companions-and-narrators",
+      "rationale": "The episode is built almost entirely on al-Bukhari's and Muslim's biographies, memorization claims and collection figures. The existing narrator topic covers transmitters within chains, not the compilers of the books themselves; this is a durable subject other videos on hadith criticism would also fall under."
+    },
+    {
+      "proposedId": "hadith-internal-contradictions",
+      "titleEn": "Contradictions within and between the collections",
+      "titleAr": "التناقضات داخل المجاميع وبينها",
+      "descriptionEn": "Claims that reports graded sound contradict one another within a single collection or across collections — divergent dates, ages, durations, ritual descriptions, doubled narratives with different protagonists, and conflicting answers to the same question — together with the harmonizations offered for them.",
+      "descriptionAr": "دعاوى بأن الأحاديث المصحَّحة يناقض بعضها بعضًا داخل الكتاب الواحد أو بين الكتب: اختلاف التواريخ والأعمار والمدد وأوصاف الطقوس، وتكرار القصة الواحدة بشخصيات مختلفة، وتعارض الأجوبة عن السؤال نفسه، مع ما يُقدَّم من محاولات للتوفيق بينها.",
+      "suggestedParentId": "hadith",
+      "closestExistingId": "quran-internal-tensions",
+      "rationale": "A recurring category in hadith-critical material with no home under the hadith branch; the existing internal-tensions topic is scoped to the Qur'an. This video devotes a whole section to it and other critics return to the same terrain."
+    },
+    {
+      "proposedId": "hadith-miracle-narratives",
+      "titleEn": "Miracle narratives attributed to Muhammad",
+      "titleAr": "روايات المعجزات المنسوبة إلى محمد",
+      "descriptionEn": "Claims about the miracle reports in the hadith and sirah corpus — multiplication of food, healing, control of weather, speech with trees and animals — their tension with Qur'anic passages presenting Muhammad as a man without signs, their parallels in Gospel and hagiographical material, and arguments that they accreted after his death to magnify him.",
+      "descriptionAr": "دعاوى تتعلق بروايات المعجزات في الحديث والسيرة — تكثير الطعام والشفاء والتحكم في المطر وتكليم الشجر والحيوان — وتوترها مع آيات تقدّم محمدًا بشرًا بلا آيات، وتوازياتها في مادة الأناجيل وسير القديسين، والقول بأنها تراكمت بعد موته لتعظيمه.",
+      "suggestedParentId": "hadith",
+      "closestExistingId": "hadith-natural-world",
+      "rationale": "A distinct and durable subject: the natural-world topic covers medicine and cosmology, not the dala'il al-nubuwwa miracle corpus and its Qur'anic and Gospel comparisons, which occupy several minutes of this episode and recur widely in critical material."
+    },
+    {
+      "proposedId": "isnad-authenticity-and-origins",
+      "titleEn": "The isnad as a criterion and its proposed origins",
+      "titleAr": "الإسناد كمعيار وأصوله المقترحة",
+      "descriptionEn": "Claims about the chain of transmission as a test of authenticity: when the practice emerged, whether near-contemporaries could trace reports back to Muhammad, the gap between his death and the first collections, and revisionist arguments that complete chains appearing generations later indicate backward projection.",
+      "descriptionAr": "دعاوى حول سلسلة الرواية بوصفها معيارًا للصحة: متى نشأت هذه الممارسة، وهل استطاع القريبون زمنًا ردّ الروايات إلى محمد، والفجوة بين وفاته وأول المجاميع، وحجج المراجعين بأن ظهور أسانيد كاملة بعد أجيال دليل على إسقاطها إلى الوراء.",
+      "suggestedParentId": "hadith",
+      "closestExistingId": "hadith-companions-and-narrators",
+      "rationale": "The isnad system as such — its date of origin and its evidential value — is the pivot of the video's final third and of the Crone citation. The existing narrator topic covers individual transmitters rather than the method itself."
+    },
+    {
+      "proposedId": "kaaba-history-and-rebuildings",
+      "titleEn": "The Ka'ba: history, destructions and rebuildings",
+      "titleAr": "الكعبة: تاريخها وهدمها وإعادة بنائها",
+      "descriptionEn": "Claims about the material history of the Ka'ba and the Black Stone: the traditional attributions of its construction, the recorded episodes of damage and rebuilding from the Umayyad sieges to the Qarmatian sack and modern restorations, and arguments drawn from that record against narratives of divine protection.",
+      "descriptionAr": "دعاوى حول التاريخ المادي للكعبة والحجر الأسود: نسبة بنائها في التراث، ووقائع هدمها وإعادة بنائها الموثقة من حصار الأمويين إلى غزو القرامطة والترميمات الحديثة، وما يُستخلص من ذلك ضد روايات الحماية الإلهية.",
+      "suggestedParentId": "quran-historical-claims",
+      "closestExistingId": "quran-historical-claims-rulings-and-sanctuaries-setting",
+      "rationale": "The video spends nearly two minutes on the successive destructions of the Ka'ba as a counter-argument to Surat al-Fil. The closest existing topic bundles sanctuaries with unrelated rulings; the physical history of the Ka'ba is a durable subject other material returns to."
+    }
+  ]
+}

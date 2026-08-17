@@ -1,0 +1,1585 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ikEChoRQgQ8",
+  "videoUrl": "https://www.youtube.com/watch?v=ikEChoRQgQ8",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 8 - بشرية القرآن",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200604",
+  "extractedAt": "2026-08-17T08:42:20+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Episode 8 of \"Why I Left Islam\" argues that the Qur'an's tone — its insults, curses, threats, tribal idioms, rhyme-driven numbers, obsession with wealth and sons, and animal similes — betrays a human, specifically Meccan Arab, author rather than an all-attribute deity. The speaker works through Meccan-period passages addressed to named opponents (Abu Jahl, al-'As ibn Wa'il, al-Walid ibn al-Mughira, Abu Lahab), then turns to Medinan verses of Surat al-Ahzab that he says serve only Muhammad's personal desires: the ban on marrying his widows after Talha's remark about Aisha, unlimited wives, women who give themselves without contract or dowry, Aisha's reported \"your Lord hastens to your desire,\" the Bukhari report of Umayma bint al-Nu'man with Ibn Hajar's gloss, and the prohibition of adoption tied to Zaynab. He concludes that the book reads as the product of one man arranging matters according to his own moods and wants.",
+  "summaryAr": "الحلقة الثامنة من \"لماذا تركت الإسلام\" تجادل بأن أسلوب القرآن — الشتم واللعن والتهديد والتعابير القبلية والأرقام المحكومة بالقافية والانشغال بالمال والبنين وتشبيه البشر بالحيوانات — يكشف عن كاتب بشري عربي مكي لا عن إله كلي المواصفات. يستعرض المتحدث آيات المرحلة المكية الموجهة إلى خصوم بأعيانهم (أبو جهل، العاص بن وائل، الوليد بن المغيرة، أبو لهب)، ثم ينتقل إلى آيات سورة الأحزاب التي يرى أنها لا تخدم إلا رغبات محمد الشخصية: تحريم الزواج من زوجاته بعد قول طلحة عن عائشة، وعدد الزوجات غير المحدود، وهبة المرأة نفسها بلا عقد ولا مهر، وقول عائشة \"إني أرى ربك يسارع في هواك\"، ورواية البخاري عن أميمة بنت النعمان وشرح ابن حجر لها، وتحريم التبني المرتبط بزينب. ويخلص إلى أن الكتاب يبدو صناعة شخص واحد يمشي الأمور حسب مزاجه ورغباته.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:14",
+      "stepEn": "Frames the episode: the verses to be examined have no parallel in earlier legends or other civilizations, so their content is exclusive to the Qur'an and therefore a direct window onto the mindset of its author.",
+      "stepAr": "يمهّد للحلقة: الآيات التي سيتناولها لا نظير لها في أساطير الأولين ولا في حضارات أخرى، فمحتواها حكر على القرآن، وهي بذلك تجسيد مباشر لعقلية كاتبه."
+    },
+    {
+      "timestamp": "00:00:54",
+      "stepEn": "Sets the Meccan stage: the taught narrative of a gentle miracle-working beginning is contradicted by the Qur'an itself, since in Mecca Muhammad could neither fight nor confiscate and the verses were of a different kind.",
+      "stepAr": "يضع الإطار المكي: الرواية التي تُعلَّم عن بداية لطيفة بالمعجزات يعارضها القرآن نفسه، إذ لم يكن محمد بمكة قادرًا على القتال ولا الاستيلاء، وكانت الآيات من نوع آخر."
+    },
+    {
+      "timestamp": "00:02:05",
+      "stepEn": "First case: Surat al-Alaq, the first sura revealed, turns before its midpoint into a quarrel with Abu Jahl over praying at the Ka'ba.",
+      "stepAr": "المثال الأول: سورة العلق، أول ما نزل، تتحول قبل منتصفها إلى شجار مع أبي جهل حول الصلاة عند الكعبة."
+    },
+    {
+      "timestamp": "00:03:32",
+      "stepEn": "Reads the closing verses of al-Alaq as tribal Bedouin speech — dragging by the forelock, and 'call your men and we shall call ours'.",
+      "stepAr": "يقرأ خواتيم العلق كلامًا بدويًا قبليًا: الشدّ من الناصية، و\"فليدع ناديه سندع الزبانية\" أي جِب رجالك لنجيب رجالنا."
+    },
+    {
+      "timestamp": "00:04:17",
+      "stepEn": "Draws the first inference: anger, spite and rejection are human emotions requiring a human mind and experience, so their presence in the text points to a human writer.",
+      "stepAr": "يستخلص أول استنتاج: الغضب والحقد والرفض مشاعر بشرية تتطلب عقلًا ووعيًا وتجربة بشرية، فوجودها في النص يشير إلى كاتب بشري."
+    },
+    {
+      "timestamp": "00:05:00",
+      "stepEn": "Second case: Surat al-Kawthar answers al-'As ibn Wa'il's insult 'abtar' with the same insult, at the level of a child's playground exchange — and the insult was factually false, since al-'As had sons.",
+      "stepAr": "المثال الثاني: سورة الكوثر تردّ شتيمة العاص بن وائل \"أبتر\" بالشتيمة نفسها بمستوى طفولي، والشتيمة غير صحيحة أصلًا لأن للعاص نسلًا."
+    },
+    {
+      "timestamp": "00:07:16",
+      "stepEn": "Third case: al-Walid ibn al-Mughira in Surat al-Muddaththir — 'leave him to me' as human idiom, and threat instead of argument.",
+      "stepAr": "المثال الثالث: الوليد بن المغيرة في المدثر — \"ذرني ومن خلقت وحيدًا\" تعبير بشري، والتهديد بدل الحجة."
+    },
+    {
+      "timestamp": "00:10:12",
+      "stepEn": "Notes that al-Walid, unlike others, examined the text and concluded it was human speech and magic — and the reply was Saqar, not persuasion.",
+      "stepAr": "يلاحظ أن الوليد، بخلاف غيره، فحص النص وخلص إلى أنه قول البشر وسحر — فكان الجواب سقر لا الإقناع."
+    },
+    {
+      "timestamp": "00:10:59",
+      "stepEn": "Argues from prosody: the numbers nineteen and eight are set by the rhyme scheme, as a poet binds himself, not by any wisdom.",
+      "stepAr": "يحتج بالعروض: الرقمان تسعة عشر وثمانية تحكمهما القافية كما يُلزم الشاعر نفسه، لا حكمة وراءهما."
+    },
+    {
+      "timestamp": "00:11:43",
+      "stepEn": "Argues from the recurring 'wealth and sons' motif that the author projects a personal lack — Muhammad at that time had neither — and shows by deletion that the motif adds nothing to the sense, as in Surat al-Masad.",
+      "stepAr": "يحتج بتكرار موضوع المال والبنين على إسقاط نقص شخصي — إذ لم يكن لمحمد حينها مال ولا بنون — ويبيّن بالحذف أن الموضوع لا يضيف شيئًا للمعنى كما في سورة المسد."
+    },
+    {
+      "timestamp": "00:13:57",
+      "stepEn": "Explains the background of Surat al-Qalam's invective: al-Walid and al-Nadr ibn al-Harith recited old books and legends to Muhammad's followers to show the material was not new, and the answer was personal abuse ending in 'zanim'.",
+      "stepAr": "يشرح خلفية هجاء سورة القلم: الوليد والنضر بن الحارث كانا يتلوان الكتب والأساطير القديمة على أتباع محمد ليريا أن المادة ليست جديدة، فجاء الجواب شخصنة تنتهي بلفظ \"زنيم\"."
+    },
+    {
+      "timestamp": "00:15:23",
+      "stepEn": "Points to an internal tension: the text forbids obeying the habitual swearer while its own speaker swears constantly, and forbids name-calling while doing it.",
+      "stepAr": "يشير إلى تعارض داخلي: النص ينهى عن طاعة الحلاف بينما المتكلم فيه يكثر القسم، وينهى عن التنابز بالألقاب بينما يمارسه."
+    },
+    {
+      "timestamp": "00:18:29",
+      "stepEn": "Collects the animal similes — cattle, dog, donkey, apes and pigs — as a human device of belittlement that a creator of animals would not use, and contrasts belief in a village literally transmuted into apes with rejection of evolutionary evidence.",
+      "stepAr": "يجمع تشبيهات الحيوان — الأنعام والكلب والحمار والقردة والخنازير — بوصفها أداة تحقير بشرية لا يستخدمها خالق الحيوان، ويقابل التصديق بقرية مُسخت قردةً بإنكار أدلة التطور."
+    },
+    {
+      "timestamp": "00:20:50",
+      "stepEn": "States the theological conclusion: an all-attribute god who speaks, thinks and behaves this way cannot exist; even an ordinary decent human would not.",
+      "stepAr": "يقرر الاستنتاج اللاهوتي: إله كلي المواصفات يتكلم ويفكر ويتصرف هكذا غير ممكن الوجود، بل حتى إنسان عادي جيد لا يتكلم هكذا."
+    },
+    {
+      "timestamp": "00:21:33",
+      "stepEn": "Opens the second half: a book claiming to be guidance for all times contains verses useful to one man in one time and place only.",
+      "stepAr": "يفتح النصف الثاني: كتاب يدّعي أنه هدى للعالمين يحوي آيات لا فائدة لها إلا لشخص واحد في زمان ومكان واحد."
+    },
+    {
+      "timestamp": "00:22:16",
+      "stepEn": "Case one of personal verses: the ban on marrying the Prophet's widows, tied by tafsir to Talha's remark about marrying Aisha after Muhammad's death.",
+      "stepAr": "الحالة الأولى من الآيات الشخصية: تحريم الزواج من أزواج النبي، وقد ربطته التفاسير بقول طلحة إنه سيتزوج عائشة بعد وفاة محمد."
+    },
+    {
+      "timestamp": "00:23:44",
+      "stepEn": "Case two: the marriage privileges of Q33:50 — unlimited wives and a woman who gives herself without contract, dowry, witnesses or permission, 'exclusively for you, not the believers'.",
+      "stepAr": "الحالة الثانية: امتيازات الزواج في آية الأحزاب — عدد غير محدود من الزوجات، وامرأة تهب نفسها بلا عقد ولا مهر ولا شهود ولا إذن، \"خالصة لك من دون المؤمنين\"."
+    },
+    {
+      "timestamp": "00:25:53",
+      "stepEn": "Case three: Aisha's objection to women offering themselves is answered at once by the deferral verse, and she says 'I see your Lord hastens to your desire'.",
+      "stepAr": "الحالة الثالثة: استغراب عائشة من عرض النساء أنفسهن يُجاب فورًا بآية الإرجاء، فتقول \"إني أرى ربك يسارع في هواك\"."
+    },
+    {
+      "timestamp": "00:28:49",
+      "stepEn": "Case four: the Bukhari report of Umayma bint al-Nu'man — 'give yourself to me', her refusal, his hand upon her, and Ibn Hajar's gloss that he caressed her to change her mind; the harmonizing answer that she was already his wife is rejected as inconsistent with the report.",
+      "stepAr": "الحالة الرابعة: رواية البخاري عن أميمة بنت النعمان — \"هبي نفسك لي\"، ورفضها، ووضع يده عليها، وشرح ابن حجر أنه لاطفها لتراجع نفسها؛ ويرفض ترقيع الشيوخ بأنها كانت زوجته لتعارضه مع الرواية."
+    },
+    {
+      "timestamp": "00:31:49",
+      "stepEn": "Case five: the prohibition of adoption and the divorce of Zaynab, legislated, he says, so that Muhammad could marry his adopted son's wife.",
+      "stepAr": "الحالة الخامسة: تحريم التبني وطلاق زينب، وقد شُرِّعا في رأيه ليتزوج محمد زوجة ابنه بالتبني."
+    },
+    {
+      "timestamp": "00:32:35",
+      "stepEn": "Concludes that the book is not merely human-made but the product of one individual arranging matters to fit his own wishes and anger.",
+      "stepAr": "يخلص إلى أن الكتاب ليس صناعة بشرية فحسب، بل صناعة شخص واحد يمشي الأمور حسب رغباته وغضبه."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:00",
+      "claimEn": "The speaker claims that the verses of the early Meccan period revolve around insult and menace directed at those who do not believe, and around what happened to those Muhammad called who refused him.",
+      "claimAr": "يقول المتحدث إن آيات تلك الفترة المكية تتمحور حول الشتم والوعيد لمن لا يؤمن، وحول ما كان يحصل مع الذين دعاهم فلم يؤمنوا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Survey the suras conventionally dated to the early Meccan period and assess whether invective and threat against opponents dominate them as claimed."
+    },
+    {
+      "timestamp": "00:00:14",
+      "claimEn": "The speaker claims that the verses he will examine are distinctive because, unlike other Qur'anic material, they contain no legends of the ancients and have no parallel in other narratives or civilizations, so their content is exclusive to the Qur'an and is therefore a direct embodiment of the way the Qur'an's author thought.",
+      "claimAr": "يقول المتحدث إن الآيات التي سيتناولها مميزة لأنها، بعكس آيات أخرى في القرآن، لا تتضمن أساطير الأولين ولا نجدها في روايات أو حضارات أخرى، فمحتواها حكر على القرآن وهي بذلك تجسيد مباشر لطريقة تفكير وعقلية كاتب القرآن.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the passages he treats (Q96, Q108, Q74, Q111, Q68) indeed lack known antecedents in earlier literature, unlike the narrative material discussed in his other episodes."
+    },
+    {
+      "timestamp": "00:00:54",
+      "claimEn": "The speaker claims that the standard teaching — that Muhammad first came with love, respect and miracles and that the Quraysh rejected him out of obstinacy — is contradicted by the Qur'an itself.",
+      "claimAr": "يقول المتحدث إن ما يُعلَّم من أن محمدًا أتى في المرحلة الأولى بالحب والاحترام والمعجزات وأن كفار قريش جحدوا بالحق، تعارضه نصوص القرآن نفسها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the popular pedagogical account of the Meccan phase with the tone of the Meccan suras he cites."
+    },
+    {
+      "timestamp": "00:00:54",
+      "claimEn": "The speaker claims that in the Meccan phase Muhammad could not order killing, captivity of women or seizure of property, first because he lacked the power and second because those verses did not yet exist, so the verses of that period were of a different type.",
+      "claimAr": "يقول المتحدث إنه في المرحلة المكية لم يكن محمد يستطيع أن يأمر بالقتل والسبي وأخذ الأموال، أولًا لأنه لم يكن قادرًا على ذلك، وثانيًا لأن تلك الآيات لم تكن موجودة بعد، فكانت آيات تلك الفترة من نوع آخر.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the conventional Meccan/Medinan classification of the verses on fighting and spoils and whether their content correlates with the community's changing power."
+    },
+    {
+      "timestamp": "00:01:34",
+      "claimEn": "The speaker claims, satirically, that a god of all attributes chose to communicate with humans by hiding so completely that the description of his concealment coincides exactly with the description of something that does not exist, and by setting a test whose outcome he already knew because he had decreed and written it in advance.",
+      "claimAr": "يقول المتحدث ساخرًا إن إلهًا كلي المواصفات قرر أن يتواصل مع الإنسان عبر اختفاء تام تنطبق مواصفاته تمامًا على مواصفات الشيء غير الموجود، وعبر اختبار يعرف نتيجته مسبقًا لأنه قدّره وكتبه مسبقًا.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Philosophical argument from divine hiddenness and predestination; check it against the standard Islamic doctrine of qadar rather than against a text."
+    },
+    {
+      "timestamp": "00:01:34",
+      "claimEn": "The speaker claims that an all-wise god chose to write his final book in an Arabic dialect that would become extinct and unintelligible to later readers.",
+      "claimAr": "يقول المتحدث إن الإله كلي الحكمة كتب كتابه بلغة عربية بلهجة ستنقرض وتصبح غير مفهومة في المستقبل.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess against the extent of lexical disagreement in classical tafsir over Qur'anic vocabulary and the text's own claim to be in clear Arabic."
+    },
+    {
+      "timestamp": "00:02:05",
+      "claimEn": "The speaker claims that Surat al-Alaq, the first sura revealed and supposedly a clear and beautiful introduction honouring the religion, its god and its messenger, does not reach its midpoint before it turns into quarrelling, threat and menace directed at the Quraysh.",
+      "claimAr": "يقول المتحدث إن سورة العلق، أول ما نزل والتي يفترض أن تكون مقدمة واضحة وجميلة تكريمًا لهذا الدين والإله والرسول، لا نكاد نصل إلى منتصفها حتى يبدأ الشجار والتهديد والوعيد مع قريش.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q96 in full and confirm the shift from the opening verses to the polemic of verses 9 onward, and confirm the tradition that it was the first revealed."
+    },
+    {
+      "timestamp": "00:02:05",
+      "claimEn": "The speaker claims that the verses 'have you seen the one who forbids a servant when he prays' were directed at a man named Abu al-Hakam, whom Muhammad renamed Abu Jahl.",
+      "claimAr": "يقول المتحدث إن آيات \"أرأيت الذي ينهى عبدًا إذا صلى\" جاءت في شخص اسمه أبو الحكم، وهو الذي كان محمد يسميه أبا جهل.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "sirah-historical-setting-names-and-descent"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the asbab al-nuzul literature for Q96:9-19 and the reported real name of Abu Jahl ('Amr ibn Hisham, Abu al-Hakam)."
+    },
+    {
+      "timestamp": "00:02:48",
+      "claimEn": "The speaker claims that changing a person's name in order to insult him is an ancient Arab custom of praise and lampoon (madh wa hija'), still practised by Arabs and by today's YouTube preachers, and that the Qur'an follows this human custom.",
+      "claimAr": "يقول المتحدث إن تبديل الأسماء للإهانة عادة عربية قديمة تسمى المدح والهجاء، ما زال العرب ودعاة اليوتيوب يستخدمونها، وإن القرآن يتبع هذه العادة البشرية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "pre-islamic-poetry"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check studies of pre-Islamic hija' and naming practices, and whether the Qur'anic use of derogatory kunyas fits that convention."
+    },
+    {
+      "timestamp": "00:02:48",
+      "claimEn": "The speaker claims the occasion of these verses was that Abu Jahl saw Muhammad praying to his new god at the Ka'ba, where the Quraysh had long prayed to their own gods, and ordered him to stop or face trouble — so the verses came down in response to a concrete local dispute.",
+      "claimAr": "يقول المتحدث إن سبب نزول هذه الآيات أن أبا جهل رأى محمدًا يصلي لإلهه الجديد عند الكعبة، وهم منذ زمن يصلون لآلهتهم عندها، فأمره ألا يصلي هناك وإلا حصلت مشاكل، فنزلت فيه هذه الآيات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the reported occasion of revelation for Q96:9-19 in the tafsir and hadith literature."
+    },
+    {
+      "timestamp": "00:03:32",
+      "claimEn": "The speaker claims that in Q96 God threatens to seize Abu Jahl by the forelock and drag him to hell — 'safa'' meaning to grip and pull, 'nasiya' meaning the front hair — which is the speech of a human quarrel, not of a creator.",
+      "claimAr": "يقول المتحدث إن الله في سورة العلق يهدد أبا جهل بالشد من مقدمة الشعر وجرّه إلى جهنم — فالسفع هو القبض على الشيء والشد، والناصية مقدمة الشعر — وهذا كلام شجار بشري لا كلام خالق.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the lexical entries for safa'a and nasiya and the wording of Q96:15-16."
+    },
+    {
+      "timestamp": "00:03:32",
+      "claimEn": "The speaker claims that 'let him call his council, we shall call the guards of hell' reproduces the old Bedouin tribal formula 'bring your men and we will bring ours', so that God in the Qur'an speaks with the very mentality and idiom of the Arabs of that time.",
+      "claimAr": "يقول المتحدث إن \"فليدع ناديه سندع الزبانية\" تعيد المقولة البدوية القبلية القديمة \"جِب رجالك لنجيب رجالنا\"، فالله في القرآن يتكلم بالطريقة والعقلية نفسها التي يفكر بها العرب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Compare Q96:17-18 with attested pre-Islamic tribal challenge formulas in poetry and akhbar."
+    },
+    {
+      "timestamp": "00:04:17",
+      "claimEn": "The speaker claims that the author of these verses is an entity feeling anger, spite and rejection, and that such feelings require a human mind, human consciousness and human experience to be felt and expressed, so it is hard to believe this is the speech of the creator of the universe addressing a single unbelieving Qurashi.",
+      "claimAr": "يقول المتحدث إن كاتب هذه الآيات كيان يشعر بالغضب والحقد والرفض، وإن هذه المشاعر تتطلب عقلًا ووعيًا وتجربة بشرية لنشعر بها ونعبر عنها، فيصعب تصديق أن هذا كلام خالق الكون وهو يخاطب شخصًا واحدًا كافرًا من قريش.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Inference from the emotional register of the text; check it against the classical theological treatment of divine attributes such as anger (ghadab)."
+    },
+    {
+      "timestamp": "00:04:17",
+      "claimEn": "The speaker claims that returning an insult with an insult is evidence of shallow and childish thinking, whereas ignoring an insult shows awareness — a standard by which the Qur'anic replies to opponents fall short.",
+      "claimAr": "يقول المتحدث إن رد الشتيمة بالشتيمة دليل على ضحالة التفكير وطفوليته، بينما تجاهل الشتيمة يدل على الوعي — وهو معيار لا ترقى إليه ردود القرآن على خصومه.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Ethical evaluation; no source check required beyond confirming the passages it is applied to."
+    },
+    {
+      "timestamp": "00:05:00",
+      "claimEn": "The speaker claims that Surat al-Kawthar was revealed concerning al-'As ibn Wa'il, who one day called Muhammad 'abtar' — an Arab insult meaning a man cut off from offspring, especially male offspring, whose name disappears when he dies.",
+      "claimAr": "يقول المتحدث إن سورة الكوثر نزلت في العاص بن وائل الذي قال يومًا عن الرسول \"أبتر\"، وهي شتيمة عند العرب بمعنى الشخص مبتور النسل الذي لا يعقب ذكورًا فيذهب اسمه بموته.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the asbab al-nuzul reports for Q108 and the lexical sense of abtar."
+    },
+    {
+      "timestamp": "00:05:44",
+      "claimEn": "The speaker claims that Muhammad did not answer the insult himself because he was bashful, and that God — who, as the famous verse of Surat al-Ahzab says, is not bashful — answered al-'As ibn Wa'il on his behalf.",
+      "claimAr": "يقول المتحدث إن محمدًا لم يجب على الشتيمة لأنه كان خجولًا، وإن الله — الذي لا يستحي كما في الآية الشهيرة من سورة الأحزاب — هو الذي أجاب العاص بن وائل نيابة عنه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the al-Ahzab verse on God not being ashamed (Q33:53) and the reports on Muhammad's reticence toward al-'As ibn Wa'il."
+    },
+    {
+      "timestamp": "00:05:44",
+      "claimEn": "The speaker claims that the sura shows clear human emotional turmoil: the creator of the universe left everything and came down to insult a man because that man had insulted Muhammad, first flattering Muhammad in front of people ('we gave you al-Kawthar') and then returning the same insult.",
+      "claimAr": "يقول المتحدث إن السورة فيها تخبط عاطفي بشري واضح: خالق الكون ترك كل شيء ونزل ليشتم شخصًا لأنه شتم محمدًا، فبدأ بتدليل محمد أمام الناس \"إنا أعطيناك الكوثر\" ثم ردّ الشتيمة بمثلها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the rhetorical structure of Q108 against the speaker's reading of it as consolation followed by counter-insult."
+    },
+    {
+      "timestamp": "00:06:31",
+      "claimEn": "The speaker claims that the scholars disagreed over the meaning of al-Kawthar — in a book described as clear (mubin) — and finally agreed it means a river in paradise.",
+      "claimAr": "يقول المتحدث إن العلماء اختلفوا في معنى الكوثر — في الكتاب المبين — ثم اتفقوا أخيرًا على أنه نهر في الجنة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-obscure-words",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Survey the classical glosses of al-kawthar in al-Tabari and other tafsirs and confirm the range of disagreement."
+    },
+    {
+      "timestamp": "00:06:31",
+      "claimEn": "The speaker claims that the level of the reply in Surat al-Kawthar is that of a mother comforting a small child who was called a name at school — promising him ice cream and telling him the name-caller is the one who deserves the name.",
+      "claimAr": "يقول المتحدث إن مستوى الرد في سورة الكوثر مثل أم تطمئن طفلًا صغيرًا نُبز في المدرسة، فتعده بالآيس كريم وتقول له إن الذي قال عليك هو كذلك.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Rhetorical comparison, not a source claim; confirm only the wording of Q108 that it rests on."
+    },
+    {
+      "timestamp": "00:06:31",
+      "claimEn": "The speaker claims that the insult in Surat al-Kawthar was emotional rather than factual, since al-'As ibn Wa'il was not in fact 'abtar' — he had offspring, namely 'Amr ibn al-'As and Hisham ibn al-'As.",
+      "claimAr": "يقول المتحدث إن الشتيمة في سورة الكوثر عاطفية لا حقيقية، فالعاص بن وائل لم يكن أبتر، إذ كان له نسل هما عمرو بن العاص وهشام بن العاص.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions-narrative-discrepancies"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm from the genealogical and biographical literature that 'Amr and Hisham were sons of al-'As ibn Wa'il, and check how commentators handle the apparent tension."
+    },
+    {
+      "timestamp": "00:07:16",
+      "claimEn": "The speaker asks what 'Amr ibn al-'As would have felt when reciting the Qur'an in devotion and reaching a verse in which the god of the universe describes his own father as 'abtar' while he knew his father was not.",
+      "claimAr": "يتساءل المتحدث عما كان يشعر به عمرو بن العاص وهو يتعبد ويقرأ القرآن حتى يصل إلى آية يصف فيها إله الكون أباه بالأبتر وهو يعلم أن أباه لم يكن أبتر.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Rhetorical inference resting on the previous claim about al-'As ibn Wa'il's offspring."
+    },
+    {
+      "timestamp": "00:07:16",
+      "claimEn": "The speaker claims that threat and menace are purely human habits, the resort of one who has no argument, typical of people who fail to convey their ideas or answer objections — and that the god of the universe follows exactly these habits in the Qur'an.",
+      "claimAr": "يقول المتحدث إن التهديد والوعيد عادة بشرية بحتة وحجة من لا حجة له، يلجأ إليها من يفشل في إيصال أفكاره أو الإجابة — والغريب أن إله الكون يتبع هذه العادات نفسها في القرآن.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate against the proportion of threat-of-punishment passages versus argumentative passages addressed to opponents."
+    },
+    {
+      "timestamp": "00:07:16",
+      "claimEn": "The speaker claims that many verses were revealed about a man named al-Walid ibn al-Mughira, one of the richest and most prestigious of the Quraysh, who was among the chief causes of the failure of Muhammad's preaching over thirteen years and who never believed in him or his message.",
+      "claimAr": "يقول المتحدث إن آيات كثيرة نزلت في شخص اسمه الوليد بن المغيرة، وكان من أغنى أغنياء قريش وأكثرهم جاهًا، وكان من أكبر أسباب فشل دعوة محمد لمدة ثلاث عشرة سنة، ولم يؤمن به ولا برسالته.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "sirah-historical-setting-names-and-descent"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the tafsir and sira reports identifying al-Walid ibn al-Mughira as the subject of Q74:11ff and Q68:10ff, and the description of the Meccan preaching as unsuccessful for thirteen years."
+    },
+    {
+      "timestamp": "00:08:02",
+      "claimEn": "The speaker claims that 'leave me and him whom I created alone' is transparently human idiom — the same as the Levantine 'leave him to me' — and that this is how the god of the universe speaks to a Bedouin man.",
+      "claimAr": "يقول المتحدث إن \"ذرني ومن خلقت وحيدًا\" تعبير بشري واضح، هو نفسه ما نقوله في الشام \"اتركني عليه\"، وهكذا يتكلم إله الكون مع إنسان بدوي.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q74:11 and the classical glosses on dharni, and whether the idiom is used elsewhere in Arabic in that sense."
+    },
+    {
+      "timestamp": "00:08:02",
+      "claimEn": "The speaker claims it is incoherent for the text to say that al-Walid 'covets that I should increase him', since al-Walid did not believe in Muhammad's god in the first place and so would not be seeking increase from him.",
+      "claimAr": "يقول المتحدث إن قوله \"ثم يطمع أن أزيد\" غير متسق، لأن الوليد بن المغيرة لم يكن يؤمن أصلًا بإله محمد حتى يطمع منه في زيادة المال والبنين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q74:15 and how commentators explain the object of al-Walid's expectation."
+    },
+    {
+      "timestamp": "00:08:43",
+      "claimEn": "The speaker claims that the god of Islam habitually inserts himself into events and beliefs already held by his audience — asking whether they have seen what 'your Lord' did to the People of the Elephant, or whether the disbelievers have seen that the heavens and earth were one mass then split — appropriating stories and convictions his hearers held before him.",
+      "claimAr": "يقول المتحدث إن إله الإسلام يحب أن يسقط نفسه في أماكن لم يكن موجودًا فيها، فيأخذ ما يؤمن به الناس مسبقًا — \"ألم تر كيف فعل ربك بأصحاب الفيل\"، \"أولم ير الذين كفروا أن السماوات والأرض كانتا رتقًا\" — وينسبه إلى نفسه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-elephant-narrative",
+        "quran-scientific-claims-cosmology-and-creation-separation-of-heaven-and-earth",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the elephant episode and the pre-existing cosmological notion of a split between sky and earth were current beliefs in the audience's environment before these verses."
+    },
+    {
+      "timestamp": "00:09:27",
+      "claimEn": "The speaker claims that the answer given to a man who was not convinced by the verses is not argument but immediate punishment — 'I shall burden him with a steep ascent' — because the god of Islam does not like discussion.",
+      "claimAr": "يقول المتحدث إن جواب الإله على من لم يقتنع بالآيات ليس النقاش بل العذاب الفوري \"سأرهقه صعودًا\"، لأن إله الإسلام لا يحب النقاش.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q74:17 and the tafsir explanations that describe climbing a mountain of fire in hell."
+    },
+    {
+      "timestamp": "00:09:27",
+      "claimEn": "The speaker claims that hell, which is supposed to belong to another dimension beyond human comprehension, is described in the tradition with plateaus, mountains and valleys exactly like the earth, the same features produced on earth by geological processes.",
+      "claimAr": "يقول المتحدث إن جهنم التي يفترض أنها في بعد آخر لا نستوعبه توصف بأن فيها هضابًا وجبالًا ووديانًا مثل الكرة الأرضية تمامًا، وهي الأشياء التي نتجت عندنا عن ظواهر طبيعية وتقلب القشرة الأرضية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Collect the tafsir and hadith descriptions of hell's topography, especially the mountain of Sa'ud attached to Q74:17."
+    },
+    {
+      "timestamp": "00:09:27",
+      "claimEn": "The speaker claims that the repeated 'may he be killed, how he determined' in Surat al-Muddaththir are curses in their own right that pass without comment.",
+      "claimAr": "يقول المتحدث إن \"فقتل كيف قدر ثم قتل كيف قدر\" في سورة المدثر هي بذاتها شتائم ولكن لا أحد يتوقف عندها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q74:19-20 and the lexical force of qutila as an imprecation."
+    },
+    {
+      "timestamp": "00:10:12",
+      "claimEn": "The speaker claims that most people at that time accused Muhammad of being a liar, a madman, a poet and a fabricator, and that all these accusations are recorded in the Qur'an itself.",
+      "claimAr": "يقول المتحدث إن أغلب الناس في ذلك الوقت كانوا يتهمون محمدًا بأنه كاذب ومجنون وشاعر ومفترٍ، وكل هذا الكلام موجود في القرآن.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Collect the Qur'anic verses reporting the charges of kadhib, junun, shi'r and iftira' against Muhammad."
+    },
+    {
+      "timestamp": "00:10:12",
+      "claimEn": "The speaker claims that al-Walid ibn al-Mughira reflected on the verses, admired their sweetness and beauty, and concluded that Muhammad was neither a liar nor a poet nor a madman but a magician, and that the text was human speech — 'this is nothing but the speech of a mortal' — and that the Qur'an's answer to a man who used his mind and reached that conclusion was that he would be burned in Saqar rather than persuaded by argument.",
+      "claimAr": "يقول المتحدث إن الوليد بن المغيرة فكر في الآيات وأعجب بها وقال مقولته المشهورة عن الحلاوة والطلاوة، ثم خلص إلى أن محمدًا ليس كاذبًا ولا شاعرًا ولا مجنونًا بل ساحر، وأن هذا الكلام قول البشر، فكان جواب القرآن على من استخدم عقله ووصل إلى أنها صناعة بشرية هو \"سأصليه سقر\" لا الحجة والبيان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q74:18-26 and the reports of al-Walid's statement about the Qur'an's halawa and tilawa in the sira and tafsir literature."
+    },
+    {
+      "timestamp": "00:10:59",
+      "claimEn": "The speaker claims that the number nineteen assigned to the keepers of Saqar has no wisdom behind it and was chosen because the writer of these Arabic poetic texts binds himself to the rhyme, sometimes altering word meanings or coining words to keep it.",
+      "claimAr": "يقول المتحدث إن رقم تسعة عشر في خزنة سقر لا حكمة وراءه، وإنما اختير لأن كاتب هذه النصوص الشعرية العربية يلزم نفسه بالقافية كما يفعل الشعراء، فيغير معاني الكلمات أحيانًا أو يأتي بكلمات جديدة ليحافظ عليها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "pre-islamic-poetry"
+      ],
+      "newTopicIds": [
+        "quran-rhyme-and-saj-constraints"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Examine the rhyme sequence of Q74 around verse 30 and assess whether 'tis'ata 'ashar' fits the surrounding rhyme pattern."
+    },
+    {
+      "timestamp": "00:10:59",
+      "claimEn": "The speaker claims that the eight who carry the throne of the Merciful on that day is likewise dictated by the surrounding rhymes rather than by any wisdom, and mocks the implication that God and his throne are subject to gravity.",
+      "claimAr": "يقول المتحدث إن \"ويحمل عرش ربك فوقهم يومئذ ثمانية\" تحكمها القوافي السابقة واللاحقة لا الحكمة، ويسخر من أن الله وعرشه متأثران بالجاذبية حتى يحتاج العرش إلى ثمانية يحملونه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors"
+      ],
+      "newTopicIds": [
+        "quran-rhyme-and-saj-constraints"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q69:17 in its context and the rhyme scheme of the surrounding verses."
+    },
+    {
+      "timestamp": "00:11:43",
+      "claimEn": "The speaker claims that 'wealth extended and sons present' expresses a purely Arab tribal concept in which a man with much wealth and many sons has higher social value, a notion that still largely holds today.",
+      "claimAr": "يقول المتحدث إن \"وجعلت له مالًا ممدودًا وبنين شهودًا\" تعبير عن مفهوم قبلي عربي بحت، فمن كثر ماله وبنوه علت قيمته الاجتماعية، وهو أمر ما زال قائمًا تقريبًا حتى اليوم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check studies of social prestige in pre-Islamic Arabian society against the Qur'anic pairing of mal and banun."
+    },
+    {
+      "timestamp": "00:11:43",
+      "claimEn": "The speaker claims that the theme of wealth and sons recurs frequently in the Meccan period although Muhammad at that time had neither wealth nor sons, as if his personal lack had a direct effect on these verses.",
+      "claimAr": "يقول المتحدث إن موضوع المال والبنين يتكرر كثيرًا في الفترة المكية مع أن محمدًا في تلك الفترة لم يكن له مال ولا بنون، وكأن هذا النقص كان له تأثير مباشر على هذه الآيات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Count the occurrences of mal/banun in Meccan suras and check the biographical reports on Muhammad's wealth and surviving sons in that period."
+    },
+    {
+      "timestamp": "00:12:26",
+      "claimEn": "The speaker claims that mentioning wealth and sons adds nothing to these verses — remove it and the story remains intact: a man heard the Qur'an, did not believe, and gets hell — as if God felt envy over these things.",
+      "claimAr": "يقول المتحدث إن إضافة المال والبنين في هذه الآيات لا قيمة لها، فلو حذفناها لبقيت القصة واضحة: شخص سمع كلام القرآن ولم يؤمن به فله العذاب — وكأن الله يشعر بالغيرة من هذه الأمور.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the rhetorical function of the wealth-and-sons motif in Q74 and Q111 against the speaker's deletion test."
+    },
+    {
+      "timestamp": "00:12:26",
+      "claimEn": "The speaker claims that in Surat al-Masad the clause 'his wealth and what he earned availed him nothing' is an irrelevant intrusion into a curse on Abu Lahab and his wife, and that removing it leaves the sura's meaning clearer — showing the addition comes from a human source, an inferiority complex or feeling of envy.",
+      "claimAr": "يقول المتحدث إن جملة \"ما أغنى عنه ماله وما كسب\" في سورة المسد مقحمة لا علاقة لها بموضوع من يذهب إلى جهنم، ولو استُئصلت لبقي معنى السورة أوضح، مما يعني أنها إسقاط إضافي مصدره بشري: عقدة نقص أو شعور بالغيرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q111 in full and evaluate whether verse 2 is integral to the sura's argument."
+    },
+    {
+      "timestamp": "00:13:57",
+      "claimEn": "The speaker claims that al-Walid ibn al-Mughira and al-Nadr ibn al-Harith and others used to bring books and old legends and recite them to Muhammad's small circle of followers to show them that what Muhammad recited was not his own and was already known — literally 'legends of the ancients' — and that the invective verses of Surat al-Qalam were revealed for that reason.",
+      "claimAr": "يقول المتحدث إن الوليد بن المغيرة والنضر بن الحارث وغيرهما كانوا يأتون بالكتب والأساطير القديمة ويتلونها على أتباع محمد القلائل ليروهم أن ما يتلوه ليس من عنده وأنه معروف قديم، أي أساطير الأولين حرفيًا، ولهذه الأسباب نزلت آيات الهجاء في سورة القلم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "narrative-terms-asatir-al-awwalin",
+        "quran-sources-and-cultural-influences",
+        "sirah-source-traditions-informants-and-silences"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the sira and tafsir reports about al-Nadr ibn al-Harith reciting Persian and other stories in competition with Muhammad's recitations."
+    },
+    {
+      "timestamp": "00:14:40",
+      "claimEn": "The speaker claims that Muhammad's followers believed he was bringing wholly new information known to no one else, in the way audiences today credit preachers who recite material taken from Wikipedia with special outpourings of knowledge.",
+      "claimAr": "يقول المتحدث إن أتباع محمد كانوا يظنون أنه يأتي بمعلومات جديدة كليًا لا يعلمها غيره، كما يفعل بعض الشيوخ اليوم حين يجمعون الناس ويأتون بمعلومات من ويكيبيديا فيظن السامعون أنها فيوضات من عنده.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Analogy rather than a source claim; check only whether the sources describe the early followers as regarding the recitations as unprecedented knowledge."
+    },
+    {
+      "timestamp": "00:14:40",
+      "claimEn": "The speaker claims that the verses of Surat al-Qalam addressed to al-Walid show the god of the universe using personal abuse (shakhsana) and lampoon against a human being.",
+      "claimAr": "يقول المتحدث إن آيات سورة القلم الموجهة إلى الوليد بن المغيرة تُظهر إله الكون وهو يستخدم الشخصنة والهجاء ضد إنسان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q68:10-16 and check the tafsir identification of its target."
+    },
+    {
+      "timestamp": "00:15:23",
+      "claimEn": "The speaker claims there is a contradiction in that the text forbids obeying 'every habitual swearer, contemptible', while the same speaker swears constantly throughout the Qur'an — by the star when it sets, by the sky and the night visitor, by the day of resurrection, by the self-reproaching soul, by the positions of the stars, and by the Lord of the easts and wests.",
+      "claimAr": "يقول المتحدث إن ثمة تناقضًا في أن النص ينهى عن طاعة \"كل حلاف مهين\" بينما المتكلم نفسه يكثر القسم في القرآن: والنجم إذا هوى، والسماء والطارق، ولا أقسم بيوم القيامة وبالنفس اللوامة، وبمواقع النجوم، ورب المشارق والمغارب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Q68:10 with the Qur'anic oath formulas cited and check whether the prohibition concerns swearing as such or false swearing."
+    },
+    {
+      "timestamp": "00:16:09",
+      "claimEn": "The speaker claims that 'zanim' in Surat al-Qalam means a child of fornication, a man of unknown father, so the god of the universe insults a man he is displeased with by calling him a bastard — reflecting the Arab failure of logic, from that time to today, which treats illegitimate birth as a disgrace borne by the child who had no part in it.",
+      "claimAr": "يقول المتحدث إن \"زنيم\" في سورة القلم تعني ابن الزنا مجهول الأب، فإله الكون يصف إنسانًا مزعوجًا منه بأنه ابن زنا، وهو انعكاس لعدم استيعاب المنطق عند العرب قديمًا وحديثًا حين يعتبرون ولادة الطفل من زنا عارًا يحمله الطفل نفسه مع أنه لا دخل له.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the classical lexical and exegetical range of zanim in Q68:13 and whether 'child of fornication' is the dominant gloss."
+    },
+    {
+      "timestamp": "00:16:55",
+      "claimEn": "The speaker claims that the man abused in Surat al-Qalam as a swearer, slanderer, sinner, brute and bastard committed only one offence — saying, when the verses were recited to him, 'legends of the ancients' — while Muslims themselves acknowledge that most Qur'anic narratives come from Judaism and Christianity.",
+      "claimAr": "يقول المتحدث إن الرجل الذي وُصف في سورة القلم بالحلاف المهين والهماز والأثيم والعتل والزنيم لم يرتكب سوى أنه قال حين تُتلى عليه الآيات: أساطير الأولين، بينما يعترف المسلمون أنفسهم بأن أغلب روايات القرآن من الدين اليهودي والمسيحي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "narrative-terms-asatir-al-awwalin",
+        "quran-sources-and-cultural-influences",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q68:14-15 and the extent of acknowledged overlap between Qur'anic narratives and biblical and post-biblical material."
+    },
+    {
+      "timestamp": "00:17:42",
+      "claimEn": "The speaker claims that the response 'we shall brand him on the snout' returns to the register of a neighbourhood brawl, and that the creator of the beautiful galaxies speaks exactly like the Arabs who lived fifteen hundred years ago, as if the verses come not from an all-attribute being but from a man living among them.",
+      "claimAr": "يقول المتحدث إن قوله \"سنسمه على الخرطوم\" يعود بنا إلى مستوى شجارات باب الحارة، وإن خالق المجرات يتكلم تمامًا مثل العرب الذين عاشوا قبل ألف وخمسمئة سنة، وكأن الآيات لا تأتي من كيان كلي المواصفات وإنما من رجل كان بينهم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q68:16 and the lexical sense of khurtum as an animal's snout used derogatorily of a human nose."
+    },
+    {
+      "timestamp": "00:17:42",
+      "claimEn": "The speaker claims that describing a human as an animal in order to belittle him is a purely human and emotional usage arising from the human sense that we are superior to animals, and that a creator who made both humans and animals well and loves them all should not make that distinction — yet the Qur'an is full of such verses.",
+      "claimAr": "يقول المتحدث إن وصف الإنسان بالحيوان للتصغير والتحقير استخدام بشري عاطفي بحت ينبع من شعورنا بأننا أعظم من الحيوانات، وإن خالقًا خلق كل شيء بشكل مميز ويحب كل شيء لا ينبغي أن يرى هذه المفارقة، ومع ذلك فالقرآن ملي بهذه الآيات.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Theological inference; verify by collecting the Qur'anic animal similes applied to disbelievers."
+    },
+    {
+      "timestamp": "00:18:29",
+      "claimEn": "The speaker claims that the verse 'they are only like cattle, indeed they are further astray' describes unbelievers as animals, with 'an'am' used to mean stupid, misguided and of lesser value, as the continuation of the verse itself shows.",
+      "claimAr": "يقول المتحدث إن آية \"إن هم إلا كالأنعام بل هم أضل سبيلًا\" تصف الكفار بالحيوانات، والأنعام هنا مستخدمة بمعنى الغبي والضال والأقل قيمة، والدليل تكملة الآية نفسها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording and context of Q25:44."
+    },
+    {
+      "timestamp": "00:19:11",
+      "claimEn": "The speaker claims that the simile 'like a dog that lolls its tongue whether you drive it off or leave it', applied to the people who denied the signs, is a general verse usable against anyone who does not believe in Islam at any time.",
+      "claimAr": "يقول المتحدث إن تشبيه \"كمثل الكلب إن تحمل عليه يلهث أو تتركه يلهث\" المطبق على القوم الذين كذبوا بالآيات هو آية شاملة تصلح للاستخدام ضد كل من لا يؤمن بالإسلام في أي زمن.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q7:176 and its exegesis, including whether it is read as specific to one man or general."
+    },
+    {
+      "timestamp": "00:19:49",
+      "claimEn": "The speaker claims that the verse likening those charged with the Torah who did not uphold it to a donkey carrying books is directed at the Jews and comes from the same god who commands 'do not insult one another with nicknames'.",
+      "claimAr": "يقول المتحدث إن آية \"مثل الذين حملوا التوراة ثم لم يحملوها كمثل الحمار يحمل أسفارًا\" موجهة لليهود، وهي من الإله نفسه الذي يقول \"ولا تنابزوا بالألقاب\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q62:5 and Q49:11 and how commentators reconcile the two."
+    },
+    {
+      "timestamp": "00:19:49",
+      "claimEn": "The speaker claims that the verse about those whom God cursed and made into apes and swine is the basis on which Muslims today call Jews apes and swine.",
+      "claimAr": "يقول المتحدث إن آية \"من لعنه الله وغضب عليه وجعل منهم القردة والخنازير\" هي التي يبني عليها المسلمون اليوم قولهم عن اليهود \"القردة والخنازير\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q5:60 and the currency of the epithet in contemporary preaching."
+    },
+    {
+      "timestamp": "00:20:00",
+      "claimEn": "The speaker claims that according to the Islamic account this transformation actually happened in a historical Jewish village, citing a report from Ibn Abbas in which the whole village was turned into apes and swine, their unchanged relatives did not know them, and the transformed apes came weeping to their kin who recognised them.",
+      "claimAr": "يقول المتحدث إن هذا التحول حصل بالفعل حسب الرواية الإسلامية في قرية يهودية تاريخيًا، مستشهدًا برواية عن ابن عباس أن القرية كلها مُسخت قردة وخنازير، وأن الناس لم تعلم أنهم مُسخوا، فلما دخلوا القرية صار القرد الممسوخ يعرف قريبه فيأتي إليه ويبكي فيبكي معهم القوم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report attributed to Ibn Abbas on the transformation of the sabbath-breaking village and the verses Q7:163-166 and Q2:65."
+    },
+    {
+      "timestamp": "00:20:50",
+      "claimEn": "The speaker claims it is inconsistent that a historical book with no supporting evidence asserting that humans were turned into apes and swine is treated as absolute undisputed fact, while scientific theory, fossils and genetic evidence for shared ancestry between humans and animals are dismissed as lies and superstition.",
+      "claimAr": "يقول المتحدث إن من التناقض أن يُعتبر كتاب تاريخي بلا أي دليل يقول إن البشر تحولوا إلى قردة وخنازير حقيقة مطلقة لا نقاش فيها، بينما تُرفض النظريات العلمية والحفريات والأدلة الجينية على أن للبشر أسلافًا مشتركة مع الحيوانات بوصفها كذبًا وخرافة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the asymmetry in evidential standards described; no single source to check."
+    },
+    {
+      "timestamp": "00:20:50",
+      "claimEn": "The speaker claims that whether or not a creator of the universe exists, a god with these attributes who speaks in this way cannot exist, since not even an ordinary decent human being would speak, think or behave in this manner.",
+      "claimAr": "يقول المتحدث إنه لا يعلم إن كان هناك إله أو خالق للكون، لكنه يعلم أن إلهًا بهذه المواصفات يتكلم بهذه الطريقة غير ممكن الوجود، فحتى إنسان عادي جيد لا يمكن أن يتكلم أو يفكر أو يتصرف هكذا.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "The central inference of the episode; verify the passages it rests on rather than the conclusion itself."
+    },
+    {
+      "timestamp": "00:21:33",
+      "claimEn": "The speaker claims that the Qur'an, supposed to be guidance for all the worlds and a message for every time and place, contains many verses of no use to any time or place and of benefit only to one person — Muhammad — in one time and one place, and that these verses were among the first causes of his own doubt.",
+      "claimAr": "يقول المتحدث إن القرآن الذي يفترض أن يكون هدى للعالمين ورسالة لكل زمان ومكان يحوي آيات كثيرة لا فائدة لها لأي زمان ومكان إلا لشخص واحد هو محمد في زمان ومكان واحد، وإن هذه الآيات كانت من أول أسباب تشكيكه في الدين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the set of Q33 verses he cites against the claim of universal applicability."
+    },
+    {
+      "timestamp": "00:22:16",
+      "claimEn": "The speaker claims that the verse forbidding believers to harm the Messenger or ever marry his wives after him was occasioned by Muhammad hearing that a man wished to marry Aisha after his death, citing Ibn Abbas's report that it was revealed about a man who intended to marry one of the Prophet's wives, identified in the exchange as Aisha.",
+      "claimAr": "يقول المتحدث إن آية \"وما كان لكم أن تؤذوا رسول الله ولا أن تنكحوا أزواجه من بعده أبدًا\" سببها أن الرسول سمع بشخص أراد الزواج من عائشة بعد وفاته، مستشهدًا برواية ابن عباس أنها نزلت في رجل هم أن يتزوج بعض نساء النبي، وقيل في الحوار إنها عائشة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q33:53 and the tafsir reports from Ibn Abbas on its occasion of revelation."
+    },
+    {
+      "timestamp": "00:22:16",
+      "claimEn": "The speaker claims that Muhammad was much older than Aisha when he married her, so it was natural that she would still be young when he died and that someone would speak of marrying her afterwards.",
+      "claimAr": "يقول المتحدث إن محمدًا كان كبيرًا في العمر كثيرًا حين تزوج عائشة، فمن الطبيعي أن تكون عند وفاته لا تزال صغيرة وأن يفكر أحد بالزواج منها بعده.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the reported ages of Muhammad and Aisha at marriage and at his death in the hadith and sira literature."
+    },
+    {
+      "timestamp": "00:22:58",
+      "claimEn": "The speaker claims, citing al-Suyuti's tafsir bi'l-ma'thur on the authority of Qatada, that Talha ibn Ubaydallah said 'if the Prophet dies I shall marry Aisha', whereupon the verse forbidding harm to the Messenger was revealed.",
+      "claimAr": "يقول المتحدث، نقلًا عن التفسير بالمأثور للسيوطي عن قتادة، إن طلحة بن عبيد الله قال: لو قُبض النبي تزوجت عائشة، فنزلت \"وما كان لكم أن تؤذوا رسول الله\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-companion-influence-on-wording"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Qatada report in al-Suyuti's al-Durr al-Manthur at the page cited and check its chain and wording."
+    },
+    {
+      "timestamp": "00:22:58",
+      "claimEn": "The speaker claims that Talha was not an ordinary or lowly man but one of the ten promised paradise and among Muhammad's intimates, which shows he saw nothing objectionable in speaking of marrying Aisha in the future — so no such prohibition existed until then.",
+      "claimAr": "يقول المتحدث إن طلحة لم يكن شخصًا عاديًا أو سوقيًا بل من المبشرين بالجنة ومن المقربين من محمد، مما يعني أنه لم يرَ ضيرًا في التكلم عن زواجه من عائشة مستقبلًا، أي أن هذا التحريم لم يكن موجودًا قبل ذلك.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm Talha's standing among the ten promised paradise and check whether any earlier prohibition on marrying the Prophet's wives is reported."
+    },
+    {
+      "timestamp": "00:23:00",
+      "claimEn": "The speaker claims that Islam was by then roughly seventeen or eighteen years old and nothing is recorded in all that time about a prohibition on marrying the Prophet's wives, yet the one time Talha spoke of it the verse came down immediately — the verses track Muhammad's feelings, since he was jealous and God wrote the verse for him at once.",
+      "claimAr": "يقول المتحدث إن الإسلام كان عمره حينها نحو سبع عشرة أو ثماني عشرة سنة ولا يُذكر خلالها شيء عن تحريم الزواج من زوجات الرسول، فلما قال طلحة ذلك مرة واحدة نزلت الآية فورًا، فالآيات تتماشى مع مشاعره: غار محمد فكتب له الله الآية فورًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the dating assigned to Q33:53 and whether the sources record any earlier discussion of the issue."
+    },
+    {
+      "timestamp": "00:23:44",
+      "claimEn": "The speaker claims that all these verses have no benefit for any time or place except to satisfy Muhammad's wishes at a particular moment, being reports about how he arranged matters according to his own desires.",
+      "claimAr": "يقول المتحدث إن كل هذه الآيات لا فائدة لها لأي زمان أو مكان إلا إرضاء رغبات محمد في وقت معين، فهي روايات عن كيفية تمشية الأمور حسب رغباته.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "General inference; verify against the specific Q33 verses cited."
+    },
+    {
+      "timestamp": "00:24:29",
+      "claimEn": "The speaker claims that Q33:50 grants Muhammad alone, through an angel only he could see, permission to marry an unlimited number of wives together with unrestricted right-hand possessions, whereas Muslims are permitted only four wives.",
+      "claimAr": "يقول المتحدث إن آية الأحزاب منحت محمدًا وحده، عبر ملاك لا يراه غيره، أن يتزوج عددًا غير محدود من الزوجات إضافة إلى ملك اليمين، بينما لا يُسمح للمسلمين إلا بأربع.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q33:50 against Q4:3 and the exegetical treatment of the Prophet's exemption from the limit of four."
+    },
+    {
+      "timestamp": "00:25:10",
+      "claimEn": "The speaker claims that Q33:50's clause on a believing woman who gives herself to the Prophet, exclusively for him and not for the believers, means intercourse with her required no contract, no dowry, no witnesses and not even permission — she says 'I give myself to you' and he may have relations with her immediately.",
+      "claimAr": "يقول المتحدث إن جملة \"وامرأة مؤمنة إن وهبت نفسها للنبي إن أراد النبي أن يستنكحها خالصة لك من دون المؤمنين\" تعني أن الأمر لا يستوجب عقدًا ولا مهرًا ولا شهودًا ولا حتى إذنًا، فتقول له وهبتك نفسي فيمارس معها الجنس فورًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the fiqh and tafsir treatment of the hiba marriage in Q33:50 regarding contract, dowry, witnesses and guardian's permission."
+    },
+    {
+      "timestamp": "00:25:53",
+      "claimEn": "The speaker claims that Aisha was shocked by this verse and said 'does a woman not feel shame to offer herself without a dowry', and that God then immediately revealed the verse allowing him to defer whom he wished and take to himself whom he wished.",
+      "claimAr": "يقول المتحدث إن عائشة صُدمت بهذه الآية فقالت \"ألا تستحي المرأة أن تهب نفسها بغير صداق\"، فأنزل الله فورًا \"ترجي من تشاء منهن وتؤوي إليك من تشاء ومن ابتغيت ممن عزلت فلا جناح عليك\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate Aisha's reported objection in the hadith collections and check the sequence and wording of Q33:51."
+    },
+    {
+      "timestamp": "00:26:36",
+      "claimEn": "The speaker claims that Q33:51 gives Muhammad discretion to accept or refuse the women who offer themselves and to return later to one he had previously set aside, again without witnesses, permission or dowry.",
+      "claimAr": "يقول المتحدث إن آية \"ترجي من تشاء\" تعطي محمدًا الخيار في قبول من تهب نفسها أو ردها، وفي العودة إلى من ردّها لاحقًا إن غير رأيه، من دون شهود ولا إذن ولا مهر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q33:51 and the exegesis of irja' and ta'wi in it."
+    },
+    {
+      "timestamp": "00:27:23",
+      "claimEn": "The speaker claims that at this point Aisha said, in a sound hadith, 'I see that your Lord hastens to fulfil your desire', and that nothing needs to be added to her remark.",
+      "claimAr": "يقول المتحدث إن عائشة قالت عندها، في الحديث الصحيح، \"إني أرى ربك يسارع في هواك\"، وإنه لا يملك ما يضيفه على كلامها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "hadith-revelation-and-quranic-text",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith of Aisha's 'your Lord hastens to your desire' in Sahih al-Bukhari and Muslim and confirm its context in Q33:51."
+    },
+    {
+      "timestamp": "00:28:06",
+      "claimEn": "The speaker claims that because of these verses Muhammad would walk among people, see women he found attractive, and ask them to give themselves to him, and would sexually harass them when they refused, in order to change their minds.",
+      "claimAr": "يقول المتحدث إنه بسبب هذه الآيات كان محمد يمشي بين الناس فيرى نساء جميلات يعجبنه فيطلب منهن أن يهبن أنفسهن له، وإذا رفضن كان يتحرش بهن جنسيًا ليحاول تغيير رأيهن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "women-sexual-ethics-and-repression"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check whether the Bukhari report of Umayma and any comparable reports support the generalisation drawn from them."
+    },
+    {
+      "timestamp": "00:28:49",
+      "claimEn": "The speaker claims that Sahih al-Bukhari records that the Prophet entered upon Umayma bint al-Nu'man ibn Sharahil, who was combing her hair, and said 'give yourself to me', that she replied 'does a queen give herself to a commoner', that he then put his hand on her to calm her, that she said 'I seek refuge in God from you', and that he said 'you have sought refuge in a refuge' and sent her away.",
+      "claimAr": "يقول المتحدث إن صحيح البخاري يروي أن الرسول دخل على أميمة بنت النعمان بن شراحيل ومعها داية تمشط شعرها فقال لها \"هبي نفسك لي\"، فقالت \"وهل تهب الملكة نفسها للسوقة\"، فأهوى بيده يضعها عليها لتسكن، فقالت \"أعوذ بالله منك\"، فقال \"قد عذت بمعاذ\" ثم خرج وأرسلها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith of the woman who sought refuge (al-Jawniyya / Umayma bint al-Nu'man) in Sahih al-Bukhari and check the names and wording, which vary across versions."
+    },
+    {
+      "timestamp": "00:29:35",
+      "claimEn": "The speaker claims that Ibn Hajar's Fath al-Bari explains the gesture by saying the Prophet wanted to reassure her and bring joy to her heart, so he inclined his noble hand toward her and began to be gentle and playful with her so that she might change her mind — which the speaker reads as harassment.",
+      "claimAr": "يقول المتحدث إن فتح الباري يشرح الحادثة بأن النبي أراد أن يطمئنها ويبعث السرور في نفسها فأمال يده الشريفة إليها وشرع في ملاطفتها ومداعبتها لعلها تراجع نفسها، ويقرأ المتحدث ذلك على أنه تحرش.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "women-sexual-ethics-and-repression"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the passage in Ibn Hajar's Fath al-Bari commenting on this hadith and confirm the wording quoted."
+    },
+    {
+      "timestamp": "00:31:04",
+      "claimEn": "The speaker claims that the harmonisation offered by scholars — that the Prophet was already married to her, had left her, and returned — fails, because if she were his wife he would not need to say 'give yourself to me' and could simply have gone in to her, and his own wife would not say 'does a queen give herself to a commoner'.",
+      "claimAr": "يقول المتحدث إن ترقيع الشيوخ بأن الرسول كان متزوجًا بها وهجرها ثم عاد إليها لا يصح، لأنه لو كانت زوجته لما احتاج أن يقول لها \"هبي نفسك لي\" ولكان يدخل عليها مباشرة، ولما قالت زوجته \"وهل تهب الملكة نفسها للسوقة\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the apologetic explanations of this hadith and whether the reports describe her as already married to the Prophet."
+    },
+    {
+      "timestamp": "00:31:49",
+      "claimEn": "The speaker claims that Muhammad had an adopted son named Zayd who was called Zayd ibn Muhammad, and that although Muhammad at that time had many wives, unrestricted right-hand possessions, captives and women who gave themselves to him, he fell in love with Zaynab, his adopted son's wife.",
+      "claimAr": "يقول المتحدث إن محمدًا كان له ابن بالتبني اسمه زيد يُدعى زيد بن محمد، وإنه مع كثرة زوجاته وانفتاح باب ملك اليمين والسبي ومن وهبت نفسها له، أُغرم بزينب زوجة ابنه بالتبني.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the sira reports on Zayd ibn Haritha's adoption, his renaming, and the reports about Muhammad and Zaynab bint Jahsh."
+    },
+    {
+      "timestamp": "00:31:49",
+      "claimEn": "The speaker claims that God then left the universe again and wrote a special verse prohibiting adoption, and another telling Zayd to divorce so that Muhammad could marry Zaynab — so that the most humane act available to people was banned in Islam for flimsy reasons rooted in that marriage.",
+      "claimAr": "يقول المتحدث إن الله ترك الكون مرة أخرى وكتب آية خاصة لتحريم التبني، وآية أخرى ليطلّق زيد حتى يتزوج محمد زينب، فحُرّم في الإسلام أكثر الأفعال إنسانية لأسباب واهية مردها ذلك الزواج.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q33:4-5 on adoption and Q33:37 on Zayd and Zaynab, and the exegetical accounts of their occasions of revelation."
+    },
+    {
+      "timestamp": "00:32:35",
+      "claimEn": "The speaker claims that these are verses recording one man's sexual exploits in a book supposed to be guidance for all the worlds, verses with no benefit except to one person who lived in one place and time.",
+      "claimAr": "يقول المتحدث إن هذه آيات هي بطولات جنسية لشخص واحد في كتاب يفترض أن يكون هدى للعالمين، آيات لا فائدة لها إلا لشخص واحد عاش في مكان وزمان معينين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the claim of universal applicability against the Q33 verses cited."
+    },
+    {
+      "timestamp": "00:32:35",
+      "claimEn": "The speaker concludes that reading these verses left him unable to patch the difficulties any longer and forced him to reject the book, which he says is clearly not only man-made but the making of one single individual arranging matters according to his own wishes and anger.",
+      "claimAr": "يخلص المتحدث إلى أن قراءة هذه الآيات جعلته غير قادر على الترقيع بعد ذلك، فوجد نفسه مجبرًا على رفض هذا الكتاب الذي يرى أنه ليس صناعة بشرية فحسب بل صناعة شخص واحد فقط يمشي الأمور حسب ما يريد ويغضب.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "quran-authorial-voice-and-invective"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "The episode's final conclusion; verify the underlying passages rather than the conclusion."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:05",
+      "asStatedInVideo": "أول سورة نزلت بالقرآن، سورة العلق",
+      "workTitle": "القرآن — سورة العلق",
+      "locator": "96",
+      "quotedArabic": "أرأيت الذي ينهى عبدا إذا صلى؟ أرأيت إن كان على الهدى؟ أو أمر بالتقوى؟ أرأيت إن كذب وتولى؟ ألم يعلم بأن الله يرى؟",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:32",
+      "asStatedInVideo": "لنسفعا بالناصية، ناصية كاذبة خاطئة، فليدع ناديه سندع الزبانية",
+      "workTitle": "القرآن — سورة العلق",
+      "locator": "96 (نهاية السورة)",
+      "quotedArabic": "لنسفعا بالناصية، ناصية كاذبة خاطئة، فليدع ناديه سندع الزبانية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:48",
+      "asStatedInVideo": "شخص اسمه أبو الحكم، أو اللي كان يسميه محمد بأبو جهل",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:00",
+      "asStatedInVideo": "السورة اللي بتقول إنا أعطيناك الكوثر",
+      "workTitle": "القرآن — سورة الكوثر",
+      "locator": "108",
+      "quotedArabic": "إنا أعطيناك الكوثر فصل لربك وانحر إن شانئك هو الأبتر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:00",
+      "asStatedInVideo": "العاص بن وائل يلي قال على الرسول بيوم من الأيام أبتر",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:31",
+      "asStatedInVideo": "هو عنده نسل: عمرو بن العاص وهشام بن العاص",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:44",
+      "asStatedInVideo": "كما نعلم من سورة الأحزاب، الآية الشهيرة أن الله لا يستحي",
+      "workTitle": "القرآن — سورة الأحزاب",
+      "locator": "33 (الآية غير محددة)",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:16",
+      "asStatedInVideo": "شخص اسمه الوليد بن المغيرة، كان من أغنى أغنياء قريش وأكثرهم جاهًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:02",
+      "asStatedInVideo": "الآيات التي تقول ذرني ومن خلقت وحيدا",
+      "workTitle": "القرآن — سورة المدثر",
+      "locator": "74",
+      "quotedArabic": "ذرني ومن خلقت وحيدا، وجعلت له مالا ممدودا، وبنين شهودا، ومهدت له تمهيدا، ثم يطمع أن أزيد، كلا إنه كان لآياتنا عنيدا، سأرهقه صعودا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:27",
+      "asStatedInVideo": "إنه فكر وقدر فقتل كيف قدر ثم قتل كيف قدر ثم نظر ثم عبس وبسر ثم أدبر واستكبر فقال إن هذا إلا سحر يؤثر إن هذا إلا قول البشر",
+      "workTitle": "القرآن — سورة المدثر",
+      "locator": "74",
+      "quotedArabic": "إنه فكر وقدر، فقتل كيف قدر، ثم قتل كيف قدر، ثم نظر، ثم عبس وبسر، ثم أدبر واستكبر، فقال إن هذا إلا سحر يؤثر، إن هذا إلا قول البشر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:59",
+      "asStatedInVideo": "سأصليه سقر وما أدراك ما سقر... لماذا تسعة عشر؟",
+      "workTitle": "القرآن — سورة المدثر",
+      "locator": "74 (عليها تسعة عشر)",
+      "quotedArabic": "سأصليه سقر، وما أدراك ما سقر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:20",
+      "asStatedInVideo": "الآية الشهيرة بتقول ويحمل عرش ربك فوقهم يومئذ ثمانية",
+      "workTitle": "القرآن — سورة الحاقة",
+      "locator": "69:17 (لم يذكر الرقم)",
+      "quotedArabic": "ويحمل عرش ربك فوقهم يومئذ ثمانية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:43",
+      "asStatedInVideo": "ألم تر كيف فعل ربك بأصحاب الفيل",
+      "workTitle": "القرآن — سورة الفيل",
+      "locator": "105:1",
+      "quotedArabic": "ألم تر كيف فعل ربك بأصحاب الفيل",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:43",
+      "asStatedInVideo": "أولم ير الذين كفروا أن السماوات والأرض كانتا رتقا",
+      "workTitle": "القرآن — سورة الأنبياء",
+      "locator": "21:30 (لم يذكر الرقم)",
+      "quotedArabic": "أولم ير الذين كفروا أن السماوات والأرض كانتا رتقا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:26",
+      "asStatedInVideo": "السورة الشهيرة تبع أبو لهب، تبت يدا أبي لهب وتب",
+      "workTitle": "القرآن — سورة المسد",
+      "locator": "111",
+      "quotedArabic": "تبت يدا أبي لهب وتب، ما أغنى عنه ماله وما كسب، سيصلى نارا ذات لهب، وامرأته حمالة الحطب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:26",
+      "asStatedInVideo": "أبو لهب وامرأته حمالة الحطب",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:57",
+      "asStatedInVideo": "الذي كان يفعله الوليد والنضر بن الحارث وغيرهم أن يأتوا بهذه الكتب وهذه الأساطير",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:23",
+      "asStatedInVideo": "ولا تطع كل حلاف مهين، هماز مشاء بنميم، مناع للخير معتد أثيم، عتل بعد ذلك زنيم",
+      "workTitle": "القرآن — سورة القلم",
+      "locator": "68 (لم يذكر أرقام الآيات)",
+      "quotedArabic": "ولا تطع كل حلاف مهين، هماز مشاء بنميم، مناع للخير معتد أثيم، عتل بعد ذلك زنيم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:55",
+      "asStatedInVideo": "أن كان ذا مال وبنين، إذا تتلى عليه آياتنا قال أساطير الأولين",
+      "workTitle": "القرآن — سورة القلم",
+      "locator": "68 (لم يذكر أرقام الآيات)",
+      "quotedArabic": "أن كان ذا مال وبنين، إذا تتلى عليه آياتنا قال أساطير الأولين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:42",
+      "asStatedInVideo": "سنسمه على الخرطوم",
+      "workTitle": "القرآن — سورة القلم",
+      "locator": "68 (لم يذكر رقم الآية)",
+      "quotedArabic": "سنسمه على الخرطوم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:23",
+      "asStatedInVideo": "هو نفسه بيحلف بالقرآن: والنجم إذا هوى، والسماء والطارق، ويقسم بيوم القيامة وبالنفس اللوامة، وبمواقع النجوم، ورب المشارق والمغارب",
+      "workTitle": "القرآن — آيات القسم",
+      "locator": "غير محدد (النجم، الطارق، القيامة، الواقعة، المعارج)",
+      "quotedArabic": "والنجم إذا هوى، والسماء والطارق، لا أقسم بيوم القيامة، ولا أقسم بالنفس اللوامة، فلا أقسم بمواقع النجوم، رب المشارق والمغارب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:18:29",
+      "asStatedInVideo": "أم تحسب أن أكثرهم يسمعون أو يعقلون، إن هم إلا كالأنعام بل هم أضل سبيلا",
+      "workTitle": "القرآن — سورة الفرقان",
+      "locator": "25:44 (لم يذكر الرقم)",
+      "quotedArabic": "أم تحسب أن أكثرهم يسمعون أو يعقلون، إن هم إلا كالأنعام بل هم أضل سبيلا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:11",
+      "asStatedInVideo": "مثلهم كمثل الكلب إن تحمل عليه يلهث وإن تتركه يلهث ذلك مثل القوم الذين كذبوا بآياتنا فاقصص القصص لعلهم يتفكرون",
+      "workTitle": "القرآن — سورة الأعراف",
+      "locator": "7:176 (لم يذكر الرقم)",
+      "quotedArabic": "كمثل الكلب إن تحمل عليه يلهث أو تتركه يلهث، ذلك مثل القوم الذين كذبوا بآياتنا فاقصص القصص لعلهم يتفكرون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:49",
+      "asStatedInVideo": "مثل الذين حملوا التوراة ثم لم يحملوها كمثل الحمار يحمل أسفارا",
+      "workTitle": "القرآن — سورة الجمعة",
+      "locator": "62:5 (لم يذكر الرقم)",
+      "quotedArabic": "مثل الذين حملوا التوراة ثم لم يحملوها كمثل الحمار يحمل أسفارا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:49",
+      "asStatedInVideo": "الإله اللي بيقلنا ولا تنابزوا بالألقاب",
+      "workTitle": "القرآن — سورة الحجرات",
+      "locator": "49:11 (لم يذكر الرقم)",
+      "quotedArabic": "ولا تنابزوا بالألقاب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:49",
+      "asStatedInVideo": "من لعنه الله وغضب عليه وجعل منهم القردة والخنازير",
+      "workTitle": "القرآن — سورة المائدة",
+      "locator": "5:60 (لم يذكر الرقم)",
+      "quotedArabic": "من لعنه الله وغضب عليه وجعل منهم القردة والخنازير",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:00",
+      "asStatedInVideo": "فيقول ابن عباس: فعلم كل قوم من مُسخ من أهله",
+      "author": "ابن عباس",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:33",
+      "asStatedInVideo": "وما كان لكم أن تؤذوا رسول الله ولا أن تنكحوا أزواجه من بعده أبدا إن ذلك كان عند الله عظيما",
+      "workTitle": "القرآن — سورة الأحزاب",
+      "locator": "33:53 (لم يذكر الرقم)",
+      "quotedArabic": "وما كان لكم أن تؤذوا رسول الله ولا أن تنكحوا أزواجه من بعده أبدا إن ذلك كان عند الله عظيما",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:16",
+      "asStatedInVideo": "تفسير الآية... عن ابن عباس في قوله تعالى وما كان لكم أن تؤذوا رسول الله قال: نزلت في رجل هم أن يتزوج بعض نساء النبي، قال رجل لسفيان: أهي عائشة؟ قال: قد ذكروا ذلك",
+      "author": "ابن عباس (والراوي سفيان)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:58",
+      "asStatedInVideo": "التفسير بالمأثور للسيوطي، الصفحة المئة والثانية عشر، عن قتادة قال: قال طلحة بن عبيد الله: لو قبض النبي تزوجت عائشة، فنزلت وما كان لكم أن تؤذوا رسول الله",
+      "workTitle": "التفسير بالمأثور (الدر المنثور)",
+      "author": "جلال الدين السيوطي",
+      "locator": "ص 112",
+      "quotedArabic": "قال طلحة بن عبيد الله: لو قبض النبي تزوجت عائشة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:58",
+      "asStatedInVideo": "طلحة هو من المبشرين بالجنة، يعني من المقربين من محمد",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:58",
+      "asStatedInVideo": "عن قتادة قال",
+      "author": "قتادة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:29",
+      "asStatedInVideo": "وبنات عمك وبنات عماتك وبنات خالك وبنات خالاتك اللاتي هاجرن معك، وامرأة مؤمنة إن وهبت نفسها للنبي إن أراد النبي أن يستنكحها خالصة لك من دون المؤمنين",
+      "workTitle": "القرآن — سورة الأحزاب",
+      "locator": "33:50 (لم يذكر الرقم)",
+      "quotedArabic": "وبنات عمك وبنات عماتك وبنات خالك وبنات خالاتك اللاتي هاجرن معك، وامرأة مؤمنة إن وهبت نفسها للنبي إن أراد النبي أن يستنكحها خالصة لك من دون المؤمنين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:53",
+      "asStatedInVideo": "ترجي من تشاء منهن وتؤوي إليك من تشاء ومن ابتغيت ممن عزلت فلا جناح عليك",
+      "workTitle": "القرآن — سورة الأحزاب",
+      "locator": "33:51 (لم يذكر الرقم)",
+      "quotedArabic": "ترجي من تشاء منهن وتؤوي إليك من تشاء ومن ابتغيت ممن عزلت فلا جناح عليك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:25:53",
+      "asStatedInVideo": "فقالت عائشة: ألا تستحي المرأة أن تعرض نفسها بغير صداق",
+      "quotedArabic": "ألا تستحي المرأة أن تهب نفسها بغير صداق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:27:23",
+      "asStatedInVideo": "بالحديث الصحيح الذي قالت فيه: إني أرى ربك يسارع في هواك",
+      "workTitle": "الحديث الصحيح (لم تُذكر المجموعة صراحة هنا)",
+      "quotedArabic": "إني أرى ربك يسارع في هواك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:28:49",
+      "asStatedInVideo": "بنقرأ بصحيح البخاري الحديث الصحيح عن موضوع هبي نفسك... أميمة بنت النعمان بن شراحيل... قال الرسول: هبي نفسك لي، فقالت: وهل تهب الملكة نفسها للسوقة؟ فأهوى بيده يضع يده عليها لتسكن، فقالت: أعوذ بالله منك، فقال: قد عذت بمعاذ، ثم خرج وأرسلها",
+      "workTitle": "صحيح البخاري",
+      "locator": "لم يُذكر رقم الحديث",
+      "quotedArabic": "هبي نفسك لي. قالت: وهل تهب الملكة نفسها للسوقة؟ ... أعوذ بالله منك. قال: قد عذت بمعاذ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:28:49",
+      "asStatedInVideo": "أميمة بنت النعمان بن شراحيل",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:29:35",
+      "asStatedInVideo": "التفسير بفتح الباري هو على النحو الآتي: ولهذا أراد النبي أن يطمئنها وأن يبعث السرور في نفسها فأمال يده الشريفة إليها وشرع في ملاطفتها ومداعبتها لعلها تراجع نفسها",
+      "workTitle": "فتح الباري",
+      "author": "ابن حجر العسقلاني",
+      "quotedArabic": "أراد النبي أن يطمئنها وأن يبعث السرور في نفسها فأمال يده الشريفة إليها وشرع في ملاطفتها ومداعبتها لعلها تراجع نفسها",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:31:49",
+      "asStatedInVideo": "محمد عنده ولد بالتبني اسمه زيد، الولد اسمه زيد بن محمد",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:31:49",
+      "asStatedInVideo": "أغرم بزوجة ابنه بالتبني زينب",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:31:49",
+      "asStatedInVideo": "كتب له آية خاصة لتحريم التبني، وآية تانية بتقله لزيد طلّق حتى محمد يتزوجها",
+      "workTitle": "القرآن — سورة الأحزاب",
+      "locator": "لم تُذكر أرقام الآيات (تحريم التبني وقصة زيد وزينب)",
+      "confidence": "uncertain"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-authorial-voice-and-invective",
+      "titleEn": "Authorial voice, invective and threat in the Qur'an",
+      "titleAr": "صوت الكاتب والشتم والوعيد في القرآن",
+      "descriptionEn": "Claims that the Qur'an's manner of address to its opponents — curses, name-changing and lampoon, threats of punishment in place of argument, tribal challenge formulas, and animal similes used to belittle people — reflects the emotions, register and social conventions of a human Arab author of the seventh century rather than of a deity.",
+      "descriptionAr": "دعاوى بأن أسلوب مخاطبة القرآن لخصومه — من اللعن وتبديل الأسماء والهجاء، والتهديد بالعذاب بدل الحجة، والصيغ القبلية في التحدي، وتشبيه البشر بالحيوانات للتحقير — يعكس مشاعر كاتب بشري عربي في القرن السابع ومستواه اللغوي وأعرافه الاجتماعية لا كلام إله.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "quran-psychological-origin",
+      "rationale": "The episode returns to this subject continuously and it has no home in the taxonomy: quran-psychological-origin covers revelations attributed to Muhammad's psychological states and desires, but not the tone, invective and threat register of the text itself as an argument for human authorship. Other episodes of this and similar series treat the same subject (Qur'anic cursing, the Abu Lahab and Abu Jahl passages, animal epithets), so it is a durable area rather than a one-off."
+    },
+    {
+      "proposedId": "quran-rhyme-and-saj-constraints",
+      "titleEn": "Rhyme, saj' and the constraints of the text's form",
+      "titleAr": "القافية والسجع وقيود شكل النص",
+      "descriptionEn": "Claims that the Qur'an's rhymed prose constrains its content — that numbers, word choices, altered meanings and coined forms are selected to preserve the rhyme, as a poet binds himself — and arguments drawn from that about the human composition of the text.",
+      "descriptionAr": "دعاوى بأن السجع والقافية في القرآن يقيدان مضمونه، فتُختار الأرقام والألفاظ وتُغيَّر المعاني وتُستحدث الصيغ حفاظًا على القافية كما يلزم الشاعر نفسه، وما يُستنتج من ذلك عن بشرية تأليف النص.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "quran-lexical-and-interpretive-questions",
+      "rationale": "The argument that specific content (nineteen guardians of Saqar, eight bearers of the throne) is dictated by rhyme is a recurring line in critical material on the Qur'an and is distinct from lexical or interpretive questions about individual words; pre-islamic-poetry concerns parallels with poetry rather than the Qur'an's own prosodic constraints."
+    }
+  ]
+}

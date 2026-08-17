@@ -1,0 +1,1702 @@
+{
+  "schemaVersion": 1,
+  "videoId": "8YDSnXuwKSc",
+  "videoUrl": "https://www.youtube.com/watch?v=8YDSnXuwKSc",
+  "videoTitle": "خرافة الإعجاز العلمي",
+  "creator": "Sherif Gaber",
+  "uploadDate": "20220924",
+  "extractedAt": "2026-08-17T08:21:24+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that alleged scientific and numerical miracles in the Qur’an and hadith are produced through mistranslation, selective counting, reinterpretation after modern discoveries, fabricated scientific endorsements, and the elevation of ordinary or previously known information into miracles. He maintains that Greek, Syriac, Jewish, commercial, and multilingual human channels could have conveyed relevant knowledge to Muhammad regardless of whether Muhammad himself could read. He concludes that such natural transmission scenarios are more plausible than divine disclosure and that miracle apologetics primarily reinforce prior belief rather than establish supernatural authorship.",
+  "summaryAr": "يجادل المتحدث بأن ما يسمى بالإعجاز العلمي والعددي في القرآن والحديث يُصنع عن طريق تحريف المعاني، والعد الانتقائي، وإعادة تفسير النصوص بعد ظهور الاكتشافات الحديثة، واختلاق تأييد العلماء، وتحويل المعلومات العادية أو المعروفة قبل الإسلام إلى معجزات. ويرى أن قنوات بشرية يونانية وسريانية ويهودية وتجارية ومتعددة اللغات كان يمكن أن تنقل المعلومات إلى محمد سواء كان يقرأ ويكتب أم لا. ويخلص إلى أن سيناريوهات الانتقال البشري الطبيعية أرجح من التعليم الإلهي، وأن خطاب المعجزات يعزز إيمان المؤمنين السابق أكثر مما يثبت مصدراً خارقاً للنص.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:42",
+      "stepEn": "He restates the question raised by his earlier criticism of Zakir Naik: if some Qur’anic information was already Greek, how could it have reached Muhammad?",
+      "stepAr": "يعيد طرح السؤال الناتج عن نقده السابق لزاكر نايك: إذا كانت بعض المعلومات القرآنية معروفة عند اليونانيين، فكيف وصلت إلى محمد؟"
+    },
+    {
+      "timestamp": "00:01:25",
+      "stepEn": "He defines a miracle as something that cannot be explained through natural laws, then argues that the transmission of old information admits ordinary explanations.",
+      "stepAr": "يعرّف المعجزة بأنها ما لا يمكن تفسيره بقوانين الطبيعة، ثم يقول إن انتقال المعلومات القديمة يقبل تفسيرات عادية."
+    },
+    {
+      "timestamp": "00:02:11",
+      "stepEn": "Using the fictional example of an illiterate sacred Chinese figure, he lists oral, commercial, translational, observational, and later-interpretive routes by which knowledge could arise.",
+      "stepAr": "يستخدم مثال شخصية صينية مقدسة وأمية متخيلة ليسرد طرقاً شفوية وتجارية وترجمية وملاحظاتية وتأويلات لاحقة يمكن أن تفسر وصول المعرفة."
+    },
+    {
+      "timestamp": "00:04:13",
+      "stepEn": "He argues that believers reject natural scenarios because of emotional attachment and substitute the word miracle for an unsupported supernatural inference.",
+      "stepAr": "يجادل بأن المؤمن يرفض السيناريوهات الطبيعية بسبب الارتباط العاطفي ويستبدل بها استنتاجاً غيبياً غير مسند تحت اسم المعجزة."
+    },
+    {
+      "timestamp": "00:05:10",
+      "stepEn": "He compares Islamic miracle belief with Christian, Buddhist, Hindu, Sikh, and Shinto miracle claims to expose what he regards as a double standard.",
+      "stepAr": "يقارن الاعتقاد بالمعجزات الإسلامية بدعاوى مسيحية وبوذية وهندوسية وسيخية وشنتوية لإظهار ما يراه معياراً مزدوجاً."
+    },
+    {
+      "timestamp": "00:11:36",
+      "stepEn": "He applies that comparison to scriptural wonders, arguing that believers accept extraordinary stories in their own religion while ridiculing analogous stories elsewhere.",
+      "stepAr": "يطبق المقارنة على خوارق النصوص، ويرى أن المؤمن يقبل القصص غير العادية في دينه ويسخر من نظائرها في الأديان الأخرى."
+    },
+    {
+      "timestamp": "00:12:22",
+      "stepEn": "He begins testing particular apologetic examples, starting with the alleged NASA confirmation of the splitting of the moon.",
+      "stepAr": "يبدأ بفحص أمثلة دعوية محددة، مبتدئاً بدعوى أن ناسا أثبتت انشقاق القمر."
+    },
+    {
+      "timestamp": "00:13:42",
+      "stepEn": "He argues that musi'un was traditionally understood as powerful or able, not as a prediction of cosmic expansion.",
+      "stepAr": "يجادل بأن «لموسعون» فُهمت تقليدياً بمعنى قادرون، لا بوصفها تنبؤاً بتمدد الكون."
+    },
+    {
+      "timestamp": "00:15:42",
+      "stepEn": "He generalizes that embryology and other scientific-miracle arguments either recycle older knowledge or depend on manufactured reinterpretations.",
+      "stepAr": "يعمم بأن حجج علم الأجنة وغيرها من دعاوى الإعجاز إما تعيد تدوير معرفة أقدم أو تعتمد على تأويلات مصنوعة."
+    },
+    {
+      "timestamp": "00:17:16",
+      "stepEn": "He treats the ascent and al-Tariq passages as ordinary expressions later retrofitted to altitude physiology and neutron stars.",
+      "stepAr": "يعرض آية الصعود وآيات الطارق بوصفها تعبيرات عادية أُعيد إسقاط علم الارتفاعات والنجوم النيوترونية عليها لاحقاً."
+    },
+    {
+      "timestamp": "00:20:11",
+      "stepEn": "He extends the critique to hadith, using the 360-joints claim as an example of old, mythically derived, and scientifically inaccurate information.",
+      "stepAr": "يوسع النقد إلى الحديث، مستخدماً دعوى 360 مفصلاً مثالاً على معلومة أقدم ذات أصل أسطوري وغير دقيقة علمياً."
+    },
+    {
+      "timestamp": "00:21:34",
+      "stepEn": "He examines numerical miracles and argues that their results depend on inconsistent definitions, exclusions, and treatment of derivatives.",
+      "stepAr": "يفحص الإعجاز العددي ويقول إن نتائجه تعتمد على تعريفات واستبعادات ومعاملة غير متسقة للمشتقات."
+    },
+    {
+      "timestamp": "00:25:39",
+      "stepEn": "He argues that even a genuine numerical coincidence would not logically identify the creator of the universe as the author of the text.",
+      "stepAr": "يجادل بأن المصادفة العددية، حتى لو صحت، لا تستلزم منطقياً أن خالق الكون هو مؤلف النص."
+    },
+    {
+      "timestamp": "00:26:24",
+      "stepEn": "He notes comparable miracle apologetics in Christianity and Hinduism and argues that such claims do not distinguish one religion as true.",
+      "stepAr": "يشير إلى وجود دعاوى إعجاز مماثلة في المسيحية والهندوسية ويرى أنها لا تميز ديناً واحداً بوصفه الحق."
+    },
+    {
+      "timestamp": "00:28:36",
+      "stepEn": "He contends that miracle claims mainly affect existing insiders and normally fail to persuade outsiders.",
+      "stepAr": "يرى أن دعاوى المعجزات تؤثر أساساً في أتباع الدين الموجودين داخله ولا تقنع الغرباء عنه عادة."
+    },
+    {
+      "timestamp": "00:34:10",
+      "stepEn": "He challenges stories that scientists converted because of Qur’anic science, focusing on Keith Moore and embryology.",
+      "stepAr": "يطعن في قصص دخول العلماء في الإسلام بسبب العلم القرآني، مركزاً على كيث مور وعلم الأجنة."
+    },
+    {
+      "timestamp": "00:37:08",
+      "stepEn": "He points to Greek embryology and to Moore’s later acknowledgment of Greek contributors as evidence that the Qur’anic sequence was not unprecedented.",
+      "stepAr": "يشير إلى علم الأجنة اليوناني وإقرار مور اللاحق بإسهام اليونانيين دليلاً على أن التسلسل القرآني لم يكن غير مسبوق."
+    },
+    {
+      "timestamp": "00:38:33",
+      "stepEn": "He distinguishes emotional conversion from scientific validation through the case of Jeffrey Lang.",
+      "stepAr": "يميز بين التحول الديني العاطفي والتصديق العلمي من خلال حالة جيفري لانج."
+    },
+    {
+      "timestamp": "00:40:09",
+      "stepEn": "He disputes the certainty of Muhammad’s lifelong illiteracy and surveys alternative Islamic interpretations and reports.",
+      "stepAr": "ينازع في اليقين بأمية محمد طوال حياته ويعرض تفسيرات وروايات إسلامية بديلة."
+    },
+    {
+      "timestamp": "00:40:50",
+      "stepEn": "He identifies Zayd ibn Thabit’s reported language learning and translation work as a possible human information channel.",
+      "stepAr": "يحدد تعلم زيد بن ثابت للغات وعمله في الترجمة، بحسب الروايات، بوصفه قناة بشرية محتملة للمعلومات."
+    },
+    {
+      "timestamp": "00:43:02",
+      "stepEn": "He adds Waraqa ibn Nawfal, multilingual associates, and Mecca’s commercial environment as further routes of cultural transmission.",
+      "stepAr": "يضيف ورقة بن نوفل والمقربين متعددي اللغات والبيئة التجارية لمكة بوصفها طرقاً أخرى للانتقال الثقافي."
+    },
+    {
+      "timestamp": "00:44:23",
+      "stepEn": "He concludes that numerous ordinary transmission scenarios can explain Muhammad’s access to information without positing direct divine communication.",
+      "stepAr": "يخلص إلى أن سيناريوهات انتقال عادية كثيرة يمكن أن تفسر وصول المعلومات إلى محمد من دون افتراض خطاب إلهي مباشر."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:42",
+      "claimEn": "The speaker claims that roughly half of Zakir Naik’s scientific-miracle arguments depend on invention, verbal maneuvering, and exploitation of audiences unfamiliar with Arabic, while the other half concern elementary information known before Islam, especially among the Greeks.",
+      "claimAr": "يدعي المتحدث أن نحو نصف حجج زاكر نايك في الإعجاز العلمي تقوم على التأليف واللف والدوران واستغلال جهل الجمهور بالعربية، وأن النصف الآخر معلومات بسيطة كانت معروفة قبل الإسلام، ولا سيما عند اليونانيين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria",
+        "earlier-religious-parallels-greek-and-babylonian-antecedents"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the specific arguments in the speaker’s earlier Zakir Naik video, compare Naik’s wording with the Arabic passages and pre-Islamic Greek sources, and assess whether the proposed proportions are defensible."
+    },
+    {
+      "timestamp": "00:01:25",
+      "claimEn": "The speaker claims that Muhammad’s possession of information also known to earlier Greeks is not inherently supernatural because ordinary routes of cultural transmission can explain it.",
+      "claimAr": "يدعي المتحدث أن معرفة محمد بمعلومات عرفها اليونانيون قبله ليست في ذاتها أمراً خارقاً، لأن طرق الانتقال الثقافي العادية يمكن أن تفسرها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the logical inference separately from the historical question, then investigate documented channels by which Greek learning circulated in late antique Arabia."
+    },
+    {
+      "timestamp": "00:02:11",
+      "claimEn": "Through his fictional analogy, the speaker claims that an illiterate sacred figure could receive old scientific information orally from a learned resident who had read earlier books.",
+      "claimAr": "يدعي المتحدث، من خلال مثاله المتخيل، أن شخصية مقدسة أمية يمكن أن تتلقى معلومة علمية قديمة شفوياً من شخص متعلم قرأ كتب السابقين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "sirah-source-traditions-informants-and-silences"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the analogy and check whether comparable learned intermediaries are independently attested in Muhammad’s environment."
+    },
+    {
+      "timestamp": "00:02:57",
+      "claimEn": "The speaker claims that books, merchants, local readers, translators, and relatives could transmit foreign information to an illiterate person without that person personally reading the source.",
+      "claimAr": "يدعي المتحدث أن الكتب والتجار والقراء المحليين والمترجمين والأقارب يستطيعون نقل معلومات أجنبية إلى شخص أمي من دون أن يقرأ المصدر بنفسه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "sirah-source-traditions-scribal-activity-and-languages"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Investigate literacy, book circulation, translation, trade, and oral transmission in western Arabia during late antiquity."
+    },
+    {
+      "timestamp": "00:02:57",
+      "claimEn": "The speaker claims that later followers may turn an ordinary statement into a unique discovery, or may misinterpret what their revered figure originally said.",
+      "claimAr": "يدعي المتحدث أن الأتباع اللاحقين قد يحولون عبارة عادية إلى اكتشاف فريد، أو يسيئون تفسير ما قالته الشخصية المقدسة أصلاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare early interpretations of the passages discussed later in the video with modern scientific-miracle interpretations."
+    },
+    {
+      "timestamp": "00:04:13",
+      "claimEn": "The speaker claims that invoking divine disclosure while rejecting numerous natural possibilities is not a scientific explanation but an unsupported leap concealed by the label miracle.",
+      "claimAr": "يدعي المتحدث أن افتراض الإخبار الإلهي مع رفض الاحتمالات الطبيعية الكثيرة ليس تفسيراً علمياً، بل قفزة غير مسندة تُغطى بكلمة «معجزة».",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether the miracle inference follows from the evidence or merely fills a perceived explanatory gap."
+    },
+    {
+      "timestamp": "00:05:10",
+      "claimEn": "The speaker claims that believers in different religions routinely prefer supernatural explanations for their own miracle traditions despite the availability of ordinary physical or fraudulent explanations.",
+      "claimAr": "يدعي المتحدث أن أتباع الأديان المختلفة يفضلون بصورة متكررة التفسير الخارق لمعجزات دينهم رغم إمكان طرح تفسيرات مادية أو احتيالية عادية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the cited Holy Fire, Buddhist, Hindu, Sikh, and Shinto examples and determine whether the comparison accurately represents the beliefs and proposed natural explanations."
+    },
+    {
+      "timestamp": "00:08:27",
+      "claimEn": "The speaker claims that religious attachment prevents neutral evaluation: believers excuse implausibility in their own tradition as miracle or unseen reality while applying ordinary evidential standards to rival religions.",
+      "claimAr": "يدعي المتحدث أن الارتباط العاطفي بالدين يمنع التقييم المحايد؛ فالمؤمن يبرر عدم المعقولية في دينه بأنها معجزة أو غيب، بينما يطبق معايير الأدلة العادية على الأديان المنافسة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Treat this as a psychological and epistemological generalization; review empirical literature on motivated reasoning and interreligious miracle assessment."
+    },
+    {
+      "timestamp": "00:11:36",
+      "claimEn": "The speaker claims that Muslims accept stories such as the sea being split, a staff becoming a serpent, and ascent to heaven while dismissing comparable extraordinary stories from other religions, showing that prior commitment rather than neutral evidence drives acceptance.",
+      "claimAr": "يدعي المتحدث أن المسلمين يقبلون قصص شق البحر وتحول العصا إلى ثعبان والصعود إلى السماء، مع رفض خوارق مماثلة في أديان أخرى، بما يدل عنده على أن الالتزام السابق لا الدليل المحايد هو الذي يحكم القبول.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "ascension-narratives-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the scriptural sources of each story and assess whether the comparison demonstrates inconsistent evidential standards."
+    },
+    {
+      "timestamp": "00:11:36",
+      "claimEn": "The speaker claims that the verse beginning “The Hour has drawn near and the moon has split” can naturally be read as a future end-time event expressed in the past tense for certainty, rather than as a historical lunar miracle.",
+      "claimAr": "يدعي المتحدث أن آية «اقتربت الساعة وانشق القمر» يمكن فهمها طبيعياً بوصفها حدثاً مستقبلياً من أحداث القيامة صيغ بالماضي للتوكيد، لا معجزة قمرية تاريخية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the verse’s Arabic grammar, early tafsir, hadith reports, and the range of eschatological versus historical interpretations without supplying a locator absent from the transcript."
+    },
+    {
+      "timestamp": "00:12:22",
+      "claimEn": "The speaker claims that Muslim webpages falsely represented ordinary lunar cracks as NASA evidence that the moon had once split into two and rejoined.",
+      "claimAr": "يدعي المتحدث أن صفحات إسلامية عرضت شقوقاً قمرية عادية بصورة كاذبة على أنها دليل من ناسا على أن القمر انقسم نصفين ثم التأم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the circulated images and claims, compare them with NASA’s descriptions of the relevant lunar geological features, and verify NASA’s official position."
+    },
+    {
+      "timestamp": "00:13:02",
+      "claimEn": "The speaker claims that NASA scientist Brad Bailey explicitly stated that there is no scientific evidence that the moon split at any time in the past.",
+      "claimAr": "يدعي المتحدث أن عالم ناسا براد بيلي صرح بأنه لا يوجد دليل علمي على انشقاق القمر في أي وقت من الماضي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate Brad Bailey’s original NASA response, verify its wording and context, and confirm the identity and role attributed to him."
+    },
+    {
+      "timestamp": "00:13:42",
+      "claimEn": "The speaker claims that in “We built the heaven with power, and indeed We are musi'un,” musi'un means able or powerful, not that the universe is expanding.",
+      "claimAr": "يدعي المتحدث أن كلمة «لموسعون» في عبارة «والسماء بنيناها بأيد وإنا لموسعون» تعني قادرون، لا أن الكون يتمدد.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-cosmological-vocabulary",
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Arabic morphology and syntax, the other Qur’anic occurrence cited by the speaker, and the full range of early and modern exegetical glosses."
+    },
+    {
+      "timestamp": "00:14:22",
+      "claimEn": "The speaker claims that al-Qurtubi, al-Baghawi, al-Tabari, al-Qinnawji, al-Mahalli, al-Shawkani, al-Sam'ani, and al-Zamakhshari predominantly glossed musi'un as capable, while minority glosses referred to abundant provision or making the sky spacious.",
+      "claimAr": "يدعي المتحدث أن القرطبي والبغوي والطبري والقنوجي والمحلي والشوكاني والسمعاني والزمخشري فسّروا «لموسعون» غالباً بمعنى قادرون، مع أقوال أقلية عن سعة الرزق أو جعل السماء واسعة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses",
+        "quran-lexical-and-interpretive-questions-cosmological-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Consult each named commentator’s text at the cited verse and record the exact gloss, date, textual variant, and whether the speaker accurately characterizes majority and minority positions."
+    },
+    {
+      "timestamp": "00:15:06",
+      "claimEn": "The speaker claims that a biblical text written centuries before Islam contains similar language about the heavens, so even an expansion reading would not be uniquely Qur’anic and could instead suggest borrowing.",
+      "claimAr": "يدعي المتحدث أن نصاً إنجيلياً سابقاً للإسلام بقرون يتضمن لغة مشابهة عن تمدد السماء، ولذلك فإن قراءة الآية بمعنى التمدد لا تجعلها فريدة وقد تشير بدلاً من ذلك إلى النقل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-sources-and-cultural-influences",
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the biblical passage the speaker meant, establish its date and wording in relevant languages, and compare it with the Qur’anic verse; the video supplies no locator."
+    },
+    {
+      "timestamp": "00:15:42",
+      "claimEn": "The speaker claims that the Qur’anic stages of embryonic formation were ordinary knowledge in the period and had been described by Greek thinkers about a millennium before Islam.",
+      "claimAr": "يدعي المتحدث أن مراحل تكوين الجنين المذكورة قرآنياً كانت معرفة عادية في ذلك العصر، وأن اليونانيين وصفوها قبل الإسلام بنحو ألف سنة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-scientific-claims-embryology-and-human-creation-greek-medical-transmission",
+        "earlier-religious-parallels-greek-and-babylonian-antecedents"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the Qur’anic stage terminology with extant Hippocratic, Aristotelian, and Galenic embryology and investigate documented transmission routes into late antique Arabia."
+    },
+    {
+      "timestamp": "00:15:42",
+      "claimEn": "The speaker claims that promoters such as Zaghloul al-Naggar, Zakir Naik, Muhammad Shahrur, and Ali Mansour al-Kayyali built profitable careers by manufacturing scientific-miracle interpretations.",
+      "claimAr": "يدعي المتحدث أن دعاة مثل زغلول النجار وزاكر نايك ومحمد شحرور وعلي منصور الكيالي بنوا نشاطاً مربحاً على اختلاق تفسيرات الإعجاز العلمي.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Catalogue the named speakers’ miracle arguments and investigate reliable financial and career evidence before assessing the allegation of profit motive."
+    },
+    {
+      "timestamp": "00:16:29",
+      "claimEn": "The speaker presents the story of a Japanese crystal researcher finding uniquely identical Zamzam-water crystals and word-dependent crystal shapes as an example of fabricated scientific-miracle folklore.",
+      "claimAr": "يعرض المتحدث قصة عالم ياباني وجد بلورات ماء زمزم متطابقة بصورة فريدة، وتتغير أشكالها بحسب الكلمات المكتوبة، بوصفها مثالاً على فلكلور الإعجاز العلمي المختلق.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the unnamed researcher and original experiment, check whether peer-reviewed methods and reproducible results exist, and trace how the Zamzam version circulated."
+    },
+    {
+      "timestamp": "00:17:16",
+      "claimEn": "The speaker claims that the passage comparing divine misguidance to a constricted chest while ascending merely draws on the familiar exertion and breathlessness of climbing, especially in a mountainous environment, rather than predicting modern atmospheric science.",
+      "claimAr": "يدعي المتحدث أن الآية التي تشبه إضلال الإنسان بضيق صدره عند الصعود تعتمد على خبرة التعب وضيق النفس المعروفة أثناء تسلق المرتفعات، ولا تتنبأ بعلم الغلاف الجوي الحديث.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-scientific-claims-method-and-criteria",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Arabic wording and early exegesis, then distinguish ordinary climbing symptoms from modern claims about oxygen partial pressure and atmospheric pressure."
+    },
+    {
+      "timestamp": "00:18:47",
+      "claimEn": "The speaker claims that al-tariq means something appearing at night and is immediately identified in the text as the bright or piercing star, so interpreting it as the knocking sound of a neutron star imports a modern meaning absent from the passage.",
+      "claimAr": "يدعي المتحدث أن «الطارق» يعني ما يظهر ليلاً، وأن النص يفسره مباشرة بأنه «النجم الثاقب» أي اللامع، ولذلك فإن جعله صوت نجم نيوتروني إدخال لمعنى حديث غير موجود في الآية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine the lexical history of al-tariq and al-thaqib, early tafsir, and the origin of the neutron-star interpretation."
+    },
+    {
+      "timestamp": "00:19:30",
+      "claimEn": "The speaker claims that recurring social-media announcements locating Noah’s Ark in different countries are invented stories rather than scientific confirmation of the flood narrative.",
+      "claimAr": "يدعي المتحدث أن الإعلانات المتكررة على مواقع التواصل عن اكتشاف سفينة نوح في بلدان مختلفة قصص مختلقة، لا إثباتات علمية لرواية الطوفان.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Trace the specific Ark-discovery stories alluded to, review archaeological reports, and determine whether any cited evidence was authenticated."
+    },
+    {
+      "timestamp": "00:20:11",
+      "claimEn": "The speaker claims that the hadith assertion that the human body has 360 joints repeats a number stated about eight centuries before Islam by the Chinese philosopher Dong Zhongshu.",
+      "claimAr": "يدعي المتحدث أن الحديث القائل إن جسم الإنسان يضم 360 مفصلاً يكرر عدداً ذكره الفيلسوف الصيني دونغ جونشو قبل الإسلام بنحو ثمانية قرون.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "earlier-religious-parallels",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the relevant hadith versions and the exact Dong Zhongshu passage, establish their dates, translations, and whether the number and anatomical term are genuinely comparable."
+    },
+    {
+      "timestamp": "00:20:11",
+      "claimEn": "The speaker claims that Dong Zhongshu’s number was based on the number of heavens in Chinese mythology rather than anatomical dissection, making the alleged scientific information myth-derived.",
+      "claimAr": "يدعي المتحدث أن رقم دونغ جونشو بُني على عدد السماوات في الأساطير الصينية لا على تشريح الجسد، ولذلك فالمعلومة المزعومة ذات أصل أسطوري.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Read the Chinese work in context and verify the cosmological reasoning, terminology, and relationship between the number of days or heavens and bodily joints."
+    },
+    {
+      "timestamp": "00:20:50",
+      "claimEn": "The speaker claims that 360 is not a scientifically fixed joint count because joint totals vary by definition, age, and individual anatomy.",
+      "claimAr": "يدعي المتحدث أن 360 ليس عدداً علمياً ثابتاً للمفاصل، لأن العدد يختلف باختلاف التعريف والعمر والتكوين التشريحي للفرد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Consult anatomical authorities on definitions of joints, age-related fusion, anatomical variants, and the ranges produced under different counting methods."
+    },
+    {
+      "timestamp": "00:21:34",
+      "claimEn": "The speaker claims that the numerical-miracle assertion that forms of “day” occur 365 times is false: he gives 348 for selected forms, 364 after adding yawman, and 377 after adding further derivatives.",
+      "claimAr": "يدعي المتحدث أن دعوى ورود صيغ «يوم» 365 مرة غير صحيحة؛ إذ يعطي 348 لبعض الصيغ، و364 بعد إضافة «يوماً»، و377 بعد إضافة مشتقات أخرى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Define the exact orthographic and morphological counting rules, run them against a documented Qur’anic text, and reproduce or refute each total."
+    },
+    {
+      "timestamp": "00:22:21",
+      "claimEn": "The speaker claims that matching “day” to 365 is additionally arbitrary because leap years have 366 days and the Islamic lunar year has about 354 days.",
+      "claimAr": "يدعي المتحدث أن مطابقة «يوم» بالعدد 365 اعتباطية أيضاً، لأن بعض السنوات الميلادية 366 يوماً ولأن السنة الهجرية نحو 354 يوماً.",
+      "claimType": "logical-conclusion",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the calendrical figures and evaluate whether the apologetic claim supplies a principled reason for selecting the common solar-year value."
+    },
+    {
+      "timestamp": "00:22:21",
+      "claimEn": "The speaker claims that the alleged eleven-to-eleven balance between “Iblis” and seeking refuge is produced by selective counting: relevant refuge expressions occur more often, none are directed to the word Iblis, and five are associated with Satan.",
+      "claimAr": "يدعي المتحدث أن المساواة المزعومة بين «إبليس» والاستعاذة في العدد 11 ناتجة عن العد الانتقائي؛ فعبارات الاستعاذة أكثر، ولا واحدة منها مرتبطة بلفظ إبليس، وخمس منها مرتبطة بالشيطان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Define the lexical set for refuge expressions and count every occurrence of Iblis and al-shaytan in a specified Qur’anic text."
+    },
+    {
+      "timestamp": "00:23:07",
+      "claimEn": "The speaker claims that numerical-apologetic lists pair unrelated terms and inconsistent ratios—such as the righteous and wicked, recompense and forgiveness, or light and reason—without a rule explaining why those terms or ratios are significant.",
+      "claimAr": "يدعي المتحدث أن قوائم الإعجاز العددي تقرن ألفاظاً غير مترابطة ونسباً غير متسقة، مثل الأبرار والفجار والجزاء والمغفرة والنور والعقل، من دون قاعدة تفسر أهمية الاختيار أو النسبة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate representative numerical-miracle tables, reproduce their counts, and inspect whether pairing and ratio criteria were defined before counting."
+    },
+    {
+      "timestamp": "00:24:08",
+      "claimEn": "The speaker claims that numerical counts inconsistently merge words with different meanings merely because they share a root, as when “calamity” is counted with forms meaning “hit the target.”",
+      "claimAr": "يدعي المتحدث أن العد العددي يدمج بصورة غير متسقة ألفاظاً مختلفة المعنى لمجرد اشتراكها في الجذر، مثل ضم «مصيبة» إلى صيغ تعني إصابة الهدف.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Inspect the morphological and semantic categories used in the cited counts and determine whether distinct senses were combined consistently."
+    },
+    {
+      "timestamp": "00:24:54",
+      "claimEn": "The speaker concedes that the singular word “month” occurs twelve times but claims that this result depends on excluding derivatives such as two months, months, and plural forms, unlike the method used for other numerical miracles.",
+      "claimAr": "يقر المتحدث بأن لفظ «شهر» المفرد ورد اثنتي عشرة مرة، لكنه يدعي أن النتيجة تعتمد على استبعاد مشتقات مثل شهرين وأشهر وشهور، بخلاف الطريقة المستخدمة في دعاوى عددية أخرى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Count all singular, dual, and plural forms from the relevant root and compare the inclusion rule with that used for other advertised word pairs."
+    },
+    {
+      "timestamp": "00:25:39",
+      "claimEn": "The speaker claims that even if two or three Qur’anic word totals genuinely matched, the match would not logically prove that the author of the wording created the universe.",
+      "claimAr": "يدعي المتحدث أنه حتى لو تساوت أعداد كلمتين أو ثلاث في القرآن فعلاً، فإن هذا التساوي لا يثبت منطقياً أن واضع الكلمات هو خالق الكون.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the inferential gap between a textual pattern, intentional human composition, coincidence, post hoc selection, and divine authorship."
+    },
+    {
+      "timestamp": "00:26:24",
+      "claimEn": "The speaker claims that Christians promote numerical and scientific miracles in the Bible and Hindus do the same for the Vedas, so the mere existence of such patterns cannot uniquely authenticate Islam.",
+      "claimAr": "يدعي المتحدث أن المسيحيين يروجون لإعجاز عددي وعلمي في الكتاب المقدس، وأن الهندوس يفعلون الأمر نفسه في الفيدا، ولذلك فإن وجود هذه الأنماط لا يثبت الإسلام بصورة فريدة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Document the biblical numerology attributed to Darby and scientific-miracle claims made for the Vedas, then compare their methods with Islamic examples."
+    },
+    {
+      "timestamp": "00:27:11",
+      "claimEn": "The speaker claims that a genuine evidential miracle should clearly distinguish one religion from thousands of alternatives, whereas disputed and obscure scientific-miracle interpretations fail even to persuade many Muslims.",
+      "claimAr": "يدعي المتحدث أن المعجزة ذات القيمة الاستدلالية ينبغي أن تميز ديناً واحداً بوضوح من آلاف البدائل، بينما التأويلات العلمية المختلف عليها والمبهمة لا تقنع حتى كثيراً من المسلمين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the proposed criterion of discriminatory evidential value and document intrareligious disagreement over the examples."
+    },
+    {
+      "timestamp": "00:28:36",
+      "claimEn": "The speaker claims that scientific and numerical miracle arguments mainly reinforce insiders and generally do not cause Christians or Jews to accept Islam, just as the Holy Fire does not cause Muslims to become Christians.",
+      "claimAr": "يدعي المتحدث أن حجج الإعجاز العلمي والعددي تعزز إيمان أهل الدين أساساً، ولا تجعل المسيحيين أو اليهود عادة يعتنقون الإسلام، كما لا تجعل معجزة سبت النور المسلمين مسيحيين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Seek conversion data and testimony capable of distinguishing the effects of miracle arguments on insiders and outsiders."
+    },
+    {
+      "timestamp": "00:34:10",
+      "claimEn": "The speaker claims that apologetic statements asserting that all embryologists accepted Islam are obvious fabrications.",
+      "claimAr": "يدعي المتحدث أن الأقوال الدعوية التي تزعم أن جميع علماء الأجنة أعلنوا إسلامهم تلفيقات ظاهرة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the original sermon or broadcast making the universal claim and compare it with documented religious affiliations and statements of embryologists."
+    },
+    {
+      "timestamp": "00:34:10",
+      "claimEn": "The speaker claims that Keith Moore did not convert to Islam and did not establish that Qur’anic embryology was miraculous or unprecedented.",
+      "claimAr": "يدعي المتحدث أن كيث مور لم يعتنق الإسلام ولم يثبت أن علم الأجنة القرآني معجزة أو غير مسبوق.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Review Moore’s recorded statements, publications, interviews, and reliable biographical evidence for his religious affiliation and precise assessment of Qur’anic embryology."
+    },
+    {
+      "timestamp": "00:34:57",
+      "claimEn": "The speaker claims that Moore praised the Qur’anic embryology description while employed in Saudi Arabia, where criticism of the Qur’an carried serious risks, making the circumstances relevant to the evidential value of his remarks.",
+      "claimAr": "يدعي المتحدث أن مور مدح وصف علم الأجنة في القرآن أثناء عمله في السعودية، حيث كان نقد القرآن محفوفاً بعواقب خطيرة، بما يجعل ظروف التصريح مؤثرة في قيمته الاستدلالية.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Establish Moore’s employment dates and institution, obtain the original recordings, and assess the legal and professional context without assuming coercion from context alone."
+    },
+    {
+      "timestamp": "00:34:57",
+      "claimEn": "The speaker claims that when the Wall Street Journal sought Moore’s comments in 2002, Moore declined and said he had not opened the Qur’an for ten or eleven years.",
+      "claimAr": "يدعي المتحدث أن وول ستريت جورنال طلبت تعليق مور سنة 2002، فامتنع وقال إنه لم يفتح القرآن منذ عشر أو إحدى عشرة سنة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the 2002 Wall Street Journal article or correspondence and verify Moore’s exact quoted words and context."
+    },
+    {
+      "timestamp": "00:35:44",
+      "claimEn": "The speaker claims that Moore’s Qur’an-related embryology project was a business arrangement aimed specifically at a religious Islamic market and supported materially by the Saudi royal establishment.",
+      "claimAr": "يدعي المتحدث أن مشروع مور المتعلق بعلم الأجنة والقرآن كان ترتيباً تجارياً موجهاً خصيصاً إلى سوق إسلامي متدين ومدعوماً مادياً من المؤسسة الملكية السعودية.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the book, contracts, editions, funders, distribution, intended curriculum, and any direct evidence for Moore’s motives."
+    },
+    {
+      "timestamp": "00:36:23",
+      "claimEn": "The speaker claims that Abd al-Majid al-Zindani participated in Moore’s Islamic embryology book and that a page in one edition credited Osama bin Laden among those who supported its dissemination.",
+      "claimAr": "يدعي المتحدث أن عبد المجيد الزنداني شارك في كتاب مور الإسلامي عن الأجنة، وأن صفحة في إحدى طبعاته ذكرت أسامة بن لادن ضمن من ساهموا في نشره.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Inspect all relevant editions and acknowledgment pages, verify authorship and support credits, and distinguish financial, logistical, and honorary contributions."
+    },
+    {
+      "timestamp": "00:36:23",
+      "claimEn": "The speaker claims that the sixth edition of Moore’s embryology book, published in 1998 after his Saudi period, credited Greek figures—especially Hippocrates and Galen—as major contributors to embryology.",
+      "claimAr": "يدعي المتحدث أن الطبعة السادسة سنة 1998 من كتاب مور في علم الأجنة، بعد انتهاء مرحلته السعودية، نسبت إسهامات كبرى إلى علماء يونانيين، وعلى رأسهم أبقراط وجالينوس.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-greek-medical-transmission",
+        "earlier-religious-parallels-greek-and-babylonian-antecedents"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the unnamed embryology textbook, inspect its sixth edition and publication date, and record exactly what it says about Hippocrates and Galen."
+    },
+    {
+      "timestamp": "00:37:08",
+      "claimEn": "The speaker claims that Galen’s work titled in the video “The Formation of the Embryo” described the same sequence of embryonic stages roughly 450–500 years before the Qur’an.",
+      "claimAr": "يدعي المتحدث أن كتاب جالينوس الذي سماه «تكوين الجنين» وصف تسلسل مراحل الجنين نفسه قبل القرآن بنحو 450 إلى 500 سنة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-greek-medical-transmission",
+        "quran-scientific-claims-embryology-and-human-creation-quranic-terms",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Galenic work intended, compare its original Greek or critical translation stage by stage with the Qur’anic wording, and verify the chronological interval."
+    },
+    {
+      "timestamp": "00:37:08",
+      "claimEn": "The speaker claims that both the Galenic and Qur’anic embryological stages contain scientific inaccuracies, further undermining their presentation as miraculous knowledge.",
+      "claimAr": "يدعي المتحدث أن مراحل الأجنة عند جالينوس وفي القرآن تتضمن معلومات غير دقيقة علمياً، مما يضعف تقديمها بوصفها معرفة معجزة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-scientific-claims-embryology-and-human-creation-bones-and-flesh"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Specify each alleged parallel and error, then compare them with modern embryology and the semantic range of the relevant ancient and Qur’anic terms."
+    },
+    {
+      "timestamp": "00:38:33",
+      "claimEn": "The speaker claims that Jeffrey Lang converted for emotional and spiritual reasons rather than because he scientifically proved agreement between science and the Qur’an.",
+      "claimAr": "يدعي المتحدث أن جيفري لانج أسلم لأسباب عاطفية وروحية، لا لأنه أثبت علمياً توافق العلم مع القرآن.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Review Lang’s own conversion accounts in full and determine whether he attributes the conversion to scientific evidence, spirituality, or other reasons."
+    },
+    {
+      "timestamp": "00:40:09",
+      "claimEn": "The speaker claims that there is no complete agreement, even within Islamic traditions, that Muhammad was unable to read and write throughout his life; some researchers say he was educated, and others say he learned later.",
+      "claimAr": "يدعي المتحدث أنه لا يوجد اتفاق كامل، حتى داخل التراث الإسلامي، على أن محمد ظل عاجزاً عن القراءة والكتابة طوال حياته؛ فبعض الباحثين يعده متعلماً، وبعضهم يقول إنه تعلم لاحقاً.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-and-identity",
+        "sirah-source-traditions-reliability-and-attribution",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Catalogue Sunni, Shi'i, classical, and modern positions and the primary reports each uses concerning Muhammad’s literacy at different periods."
+    },
+    {
+      "timestamp": "00:40:09",
+      "claimEn": "The speaker claims that Ibn Atiyya interpreted “the unlettered prophet” as the prophet from Umm al-Qura, Mecca, rather than necessarily as a prophet unable to read.",
+      "claimAr": "يدعي المتحدث أن ابن عطية فسر «النبي الأمي» بأنه النبي الآتي من أم القرى، أي مكة، لا بالضرورة النبي الذي لا يقرأ.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-narrative-terms",
+        "narrative-terms-names-and-titles"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate Ibn Atiyya’s exact gloss of al-nabi al-ummi and determine whether the video states his interpretation accurately and completely."
+    },
+    {
+      "timestamp": "00:40:09",
+      "claimEn": "The speaker claims that a Shi'i interpretive tradition says Muhammad could read several languages, demonstrating sectarian disagreement over the literacy argument.",
+      "claimAr": "يدعي المتحدث أن قراءة في التراث الشيعي تقول إن محمد كان يقرأ عدة لغات، بما يبين وجود خلاف مذهبي حول حجة الأمية.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions-competing-narratives-and-reputations",
+        "sirah-source-traditions-scribal-activity-and-languages"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Shi'i sources intended, their dates and chains of transmission, and their precise claims about languages and literacy."
+    },
+    {
+      "timestamp": "00:40:50",
+      "claimEn": "The speaker claims that reports portraying Muhammad as illiterate cannot be treated as conclusive because many hadiths were produced for political purposes.",
+      "claimAr": "يدعي المتحدث أن الروايات التي تصور محمد أمياً لا يمكن عدها حاسمة، لأن أحاديث كثيرة صُنعت لأغراض سياسية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-political-fabrication",
+        "hadith-revelation-and-quranic-text",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the specific literacy reports and the speaker’s earlier political-fabrication analysis, then assess each report’s isnad, textual history, and proposed political function."
+    },
+    {
+      "timestamp": "00:40:50",
+      "claimEn": "The speaker claims that a report in al-Tirmidhi says Muhammad ordered Zayd ibn Thabit to learn Syriac because he feared for the community’s correspondence.",
+      "claimAr": "يدعي المتحدث أن رواية في الترمذي تقول إن محمد أمر زيد بن ثابت بتعلم السريانية لأنه كان يخشى على مكاتبات الجماعة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions-scribal-activity-and-languages",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the al-Tirmidhi report without inventing a number, verify its Arabic wording, grading, variant language designation, and historical interpretation."
+    },
+    {
+      "timestamp": "00:40:50",
+      "claimEn": "The speaker claims that Muhammad also ordered Zayd ibn Thabit to learn Hebrew, making Zayd a multilingual intermediary for material unavailable directly in Arabic.",
+      "claimAr": "يدعي المتحدث أن محمداً أمر زيد بن ثابت أيضاً بتعلم العبرية، مما يجعله وسيطاً متعدد اللغات لمواد غير متاحة مباشرة بالعربية.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions-scribal-activity-and-languages",
+        "jewish-influence-converts-and-appointed-officials",
+        "formative-figures-converts-and-informants"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate all versions of the report, distinguish Hebrew from Syriac wording, and examine whether the language competence and translation role are historically credible."
+    },
+    {
+      "timestamp": "00:40:50",
+      "claimEn": "The speaker claims that the Qur’an contains many Syriac terms, indicating that Syriac linguistic material entered the text through human cultural contact.",
+      "claimAr": "يدعي المتحدث أن القرآن يحتوي على مصطلحات سريانية كثيرة، بما يشير إلى دخول مادة لغوية سريانية إلى النص عبر الاتصال الثقافي البشري.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-religious-vocabulary",
+        "quran-foreign-vocabulary-and-transmission-routes",
+        "syriac-aramaic-religious-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the terms discussed in the speaker’s earlier video and compare accepted loanword scholarship with disputed Syro-Aramaic derivations."
+    },
+    {
+      "timestamp": "00:41:34",
+      "claimEn": "The speaker claims that Ibn Hajar said Syriac and Hebrew are distinct and that nothing prevents Muhammad from having ordered Zayd to learn both.",
+      "claimAr": "يدعي المتحدث أن ابن حجر قال إن السريانية غير العبرية، وإنه لا مانع من أن يكون محمد قد أمر زيداً بتعلم اللغتين معاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions-scribal-activity-and-languages"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate Ibn Hajar’s statement, record its work and context, and verify whether it reconciles separate report variants as the speaker says."
+    },
+    {
+      "timestamp": "00:42:20",
+      "claimEn": "The speaker claims that illiteracy would not have prevented accusations of borrowing because Muhammad’s contemporaries allegedly accused him of taking material from earlier books anyway.",
+      "claimAr": "يدعي المتحدث أن الأمية لم تكن لتمنع تهمة النقل، لأن معاصري محمد اتهموه بالفعل، بحسب قوله، بأخذ المعلومات من كتب أقدم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "foreign-vocabulary-arabic-character-claim",
+        "narrative-terms-asatir-al-awwalin"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the Qur’anic passages and early reports describing accusations of foreign instruction or earlier tales, and distinguish what the sources actually allege."
+    },
+    {
+      "timestamp": "00:43:02",
+      "claimEn": "The speaker claims that Muhammad’s tribal and urban environment included historians, translators, philosophers, and learned Jews connected with Iraq, Syria, and Mesopotamia, providing plausible human access to foreign learning.",
+      "claimAr": "يدعي المتحدث أن بيئة محمد القبلية والحضرية ضمت مؤرخين ومترجمين وفلاسفة ويهوداً متعلمين ذوي صلات بالعراق وسوريا وبلاد الرافدين، بما وفر وصولاً بشرياً محتملاً إلى المعارف الأجنبية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-pre-islamic-arabia",
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check contemporary and early evidence for the presence, occupations, languages, origins, and level of learning of these groups in Mecca and Muhammad’s wider environment."
+    },
+    {
+      "timestamp": "00:43:02",
+      "claimEn": "The speaker claims that Waraqa ibn Nawfal knew several languages, studied religions, and knew stories from other civilizations, making him a possible personal channel of information to Muhammad.",
+      "claimAr": "يدعي المتحدث أن ورقة بن نوفل كان يعرف عدة لغات ودرس الأديان وعرف قصص حضارات أخرى، مما يجعله قناة شخصية محتملة للمعلومات إلى محمد.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-formative-figures",
+        "formative-figures-converts-and-informants",
+        "sirah-source-traditions-informants-and-silences"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Examine the earliest reports about Waraqa’s literacy, languages, scriptural activity, relationship with Muhammad, and chronology of contact."
+    },
+    {
+      "timestamp": "00:43:02",
+      "claimEn": "The speaker claims that reports say Zayd ibn Thabit read Jewish correspondence aloud to Muhammad, allowing Muhammad access to written Jewish material without personally reading it.",
+      "claimAr": "يدعي المتحدث أن الروايات تقول إن زيد بن ثابت كان يقرأ لمحمد كتب اليهود، مما أتاح له الوصول إلى مادة يهودية مكتوبة من دون أن يقرأها بنفسه.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-influence-converts-and-appointed-officials",
+        "sirah-source-traditions-scribal-activity-and-languages",
+        "jewish-influence-transmitted-lore-and-questioning"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report quoted by the speaker, verify its source, wording, dating, isnad assessment, and whether 'books' means correspondence or scriptural texts."
+    },
+    {
+      "timestamp": "00:43:43",
+      "claimEn": "The speaker claims that Mecca was a commercial meeting point through which people from surrounding countries, cultures, and religions passed, making oral transmission sufficient even if Muhammad owned no multilingual library.",
+      "claimAr": "يدعي المتحدث أن مكة كانت ملتقى تجارياً تمر به شعوب من البلدان والثقافات والأديان المحيطة، ولذلك كان الانتقال الشفوي كافياً حتى لو لم يملك محمد مكتبة متعددة اللغات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-pre-islamic-arabia",
+        "quran-sources-and-cultural-influences",
+        "narrative-origins-cultural-confluence"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the traditional portrayal of Meccan trade with archaeological, epigraphic, geographic, and late antique historical scholarship on Mecca’s actual commercial reach."
+    },
+    {
+      "timestamp": "00:44:23",
+      "claimEn": "The speaker concludes that the combined possibilities of oral teaching, translation, trade, multilingual associates, older Greek learning, and later reinterpretation provide many natural explanations for Muhammad’s knowledge without requiring the creator of the universe to speak to him.",
+      "claimAr": "يخلص المتحدث إلى أن احتمالات التعليم الشفوي والترجمة والتجارة والمقربين متعددي اللغات والمعرفة اليونانية الأقدم والتأويل اللاحق تقدم تفسيرات طبيعية كثيرة لمعرفة محمد من دون الحاجة إلى افتراض أن خالق الكون كلمه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the cumulative inference after independently verifying each proposed transmission channel and distinguishing mere possibility from demonstrated historical dependence."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:42",
+      "asStatedInVideo": "زاكر نايك، الذي يردد دعاوى الإعجاز العلمي منذ نحو 25 سنة.",
+      "workTitle": "",
+      "author": "Zakir Naik",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:05:10",
+      "asStatedInVideo": "معجزة سبت النور: دخول البطريرك قبر المسيح في القدس وخروجه بشمعة مشتعلة يقال إن نارها لا تحرق في البداية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Annual ceremony before Easter, as stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:28",
+      "asStatedInVideo": "بوذا، المنسوبة إليه معجزات الميلاد والمشي سبع خطوات ومعرفة الغيب والصعود إلى السماوات.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:07:11",
+      "asStatedInVideo": "رواية بوذية عن صعود بوذا إلى السماوات ونزوله في سانكيسا أو سانكاسيا أمام شهود.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:10",
+      "asStatedInVideo": "حكاية كنسية عن وصول فرمان من الخليفة هارون الرشيد بواسطة حمامة بعد شفاعة العذراء وإنقاذ كنيسة من الهدم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Reign of Harun al-Rashid, no further locator stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:51",
+      "asStatedInVideo": "هارون الرشيد، الخليفة المنسوب إليه الفرمان في الحكاية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:51",
+      "asStatedInVideo": "تمثال ناندي في معبد يوغاناندي الذي يؤمن ملايين الهنود بأن حجمه يكبر وحده.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:10:36",
+      "asStatedInVideo": "دعاوى إعجاز بول الإبل مقارنة بشرب بول البقر عند بعض الهنود.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:11:03",
+      "asStatedInVideo": "دعاوى شفاء ماء زمزم، وبرك معابد السيخ، والينابيع المقدسة في الشنتو، والماء المقروء عليه القرآن أو الإنجيل.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:36",
+      "asStatedInVideo": "آية «اقتربت الساعة وانشق القمر»؛ لم يذكر المتحدث رقم السورة أو الآية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "اقتربت الساعة وانشق القمر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:12:22",
+      "asStatedInVideo": "منشورات إسلامية تزعم أن علماء ناسا اكتشفوا انشقاق القمر، مستخدمة صوراً لشقوق قمرية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "براد بيلي، عالم في ناسا قيل إنه أجاب عن سؤال حول انشقاق القمر.",
+      "workTitle": "",
+      "author": "Brad Bailey",
+      "locator": "NASA response, no URL or date stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:42",
+      "asStatedInVideo": "آية «والسماء بنيناها بأيد وإنا لموسعون»؛ لم يذكر المتحدث السورة أو رقم الآية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "والسماء بنيناها بأيد وإنا لموسعون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "موضع قرآني ثانٍ لكلمة «موسعون» قال المتحدث إن معناها فيه أيضاً قادرون، من دون تحديد الموضع.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Second occurrence not identified",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "القرطبي، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Qurtubi",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "البغوي، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Baghawi",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "الطبري، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Tabari",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "القنوجي، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Qinnawji",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "المحلي، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Mahalli",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "الشوكاني، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Shawkani",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "السمعاني، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Sam'ani",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "الزمخشري، ضمن المفسرين الذين نسب إليهم معنى «قادرون».",
+      "workTitle": "",
+      "author": "al-Zamakhshari",
+      "locator": "Tafsir at the musi'un verse; work title not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:15:06",
+      "asStatedInVideo": "«الإنجيل» الذي قال المتحدث إن فيه آية سابقة للإسلام تتحدث عن تمدد السماء؛ لم يحدد السفر أو الآية.",
+      "workTitle": "الإنجيل / الكتاب المقدس",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:42",
+      "asStatedInVideo": "زغلول النجار، ضمن المروجين للإعجاز العلمي الذين سماهم المتحدث.",
+      "workTitle": "",
+      "author": "Zaghloul El-Naggar",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:42",
+      "asStatedInVideo": "زاكر نايك، ضمن المروجين للإعجاز العلمي الذين سماهم المتحدث.",
+      "workTitle": "",
+      "author": "Zakir Naik",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:42",
+      "asStatedInVideo": "الشحرور، ضمن المروجين الذين سماهم المتحدث.",
+      "workTitle": "",
+      "author": "Muhammad Shahrur",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:15:42",
+      "asStatedInVideo": "الكيالي، ضمن المروجين الذين سماهم المتحدث.",
+      "workTitle": "",
+      "author": "Ali Mansour al-Kayyali",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:16:29",
+      "asStatedInVideo": "تجربة منسوبة إلى عالم ياباني على بلورات ماء زمزم وتأثير كلمات مثل بسم الله والسلام والخير والجنة والشيطان والنار والظلم.",
+      "workTitle": "",
+      "author": "Unnamed Japanese researcher",
+      "locator": "No publication or experiment details stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:16",
+      "asStatedInVideo": "الآية التي أوردها المتحدث بصيغة «ومن يريد أن يضله يجعل صدره ضيقاً حرجاً كأنما يصعد في السماء» من دون ذكر السورة أو رقم الآية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "ومن يريد أن يضله يجعل صدره ضيقاً حرجاً كأنما يصعد في السماء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:18:47",
+      "asStatedInVideo": "آيات «والسماء والطارق، وما أدراك ما الطارق، النجم الثاقب»؛ لم يذكر المتحدث السورة أو أرقام الآيات.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "والسماء والطارق، وما أدراك ما الطارق، النجم الثاقب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:19:30",
+      "asStatedInVideo": "إعلانات متكررة عن اكتشاف خشب سفينة نوح، مرة في نيكاراغوا ومرة في روسيا، من دون مصدر محدد.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:20:11",
+      "asStatedInVideo": "حديث يقول إن عدد مفاصل جسم الإنسان 360 مفصلاً؛ لم يذكر المتحدث المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Collection and number not stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:11",
+      "asStatedInVideo": "الفيلسوف الصيني دونغ جونشو، الذي نسب إليه المتحدث ذكر 360 مفصلاً قبل الإسلام بنحو 800 سنة.",
+      "workTitle": "",
+      "author": "Dong Zhongshu",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:20:11",
+      "asStatedInVideo": "كتاب لدونغ جونشو وصفه المتحدث بأنه من أشهر الكتب الصينية العريقة، من دون ذكر عنوانه.",
+      "workTitle": "كتاب صيني غير مسمى",
+      "author": "Dong Zhongshu",
+      "locator": "Passage asserting 360 joints; no locator stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:21:34",
+      "asStatedInVideo": "إحصاء ألفاظ «يوم» و«بيوم» و«قال يوم» ومشتقات أخرى في القرآن.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Corpus-wide word count; no edition stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:22:21",
+      "asStatedInVideo": "إحصاء ألفاظ «إبليس» و«الشيطان» وصيغ الاستعاذة في القرآن.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Corpus-wide word count; no edition stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:07",
+      "asStatedInVideo": "إحصاءات مزعومة لألفاظ الأبرار والفجار والجزاء والمغفرة والنور والعقل.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Corpus-wide word counts; no source table stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:08",
+      "asStatedInVideo": "إحصاء «مصيبة» ومشتقاتها و«الشكر» ومشتقاته، مع ضم صيغ من الجذر أصاب.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Corpus-wide word count; no edition stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:24:54",
+      "asStatedInVideo": "إحصاء كلمة «شهر» اثنتي عشرة مرة مع استبعاد شهرين وأشهر وشهور.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Corpus-wide word count; no edition stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:26:24",
+      "asStatedInVideo": "العالم المشهور داربي، المنسوب إليه اكتشاف الإعجاز العددي في الكتاب المقدس.",
+      "workTitle": "",
+      "author": "Darby",
+      "locator": "No first name, work, or locator stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:26:24",
+      "asStatedInVideo": "الكتاب المقدس، المنسوبة إليه دعاوى إعجاز عددي وعلمي.",
+      "workTitle": "الكتاب المقدس",
+      "author": "",
+      "locator": "No passage stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:26:24",
+      "asStatedInVideo": "الفيدا، التي وصفها المتحدث بأنها أشهر كتاب هندوسي في دعاوى الإعجاز العلمي.",
+      "workTitle": "الفيدا",
+      "author": "",
+      "locator": "No specific Veda or passage stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:28:36",
+      "asStatedInVideo": "عبارة «فإن مع العسر يسراً» استُخدمت في مثال عددي عن العسر واليسر؛ لم يذكر المتحدث رقم الآية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "فإن مع العسر يسراً",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:34:10",
+      "asStatedInVideo": "كيث مور، عالم الأجنة الذي تزعم الدعاية الإسلامية أنه أسلم بسبب مراحل تكوين الجنين في القرآن.",
+      "workTitle": "",
+      "author": "Keith Moore",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:34:57",
+      "asStatedInVideo": "عمل كيث مور في جامعة سعودية قال المتحدث إنها على الأرجح جامعة الملك عبد العزيز، ومناقشة مدرسين سعوديين معه لآيات الجنين.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Saudi university, institution stated uncertainly",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:34:57",
+      "asStatedInVideo": "طلب وول ستريت جورنال مقابلة كيث مور سنة 2002 عن اهتمامه بالإسلام، وردّه بأنه لم يفتح القرآن منذ عشر أو إحدى عشرة سنة.",
+      "workTitle": "Wall Street Journal",
+      "author": "",
+      "locator": "2002 interview request/article; no date or title stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:35:44",
+      "asStatedInVideo": "كتاب عن علم الأجنة أعده كيث مور للعالم الإسلامي؛ لم يذكر المتحدث عنوانه.",
+      "workTitle": "كتاب كيث مور عن علم الأجنة المخصص للعالم الإسلامي",
+      "author": "Keith Moore and collaborators",
+      "locator": "Title and edition not stated at this timestamp",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:35:44",
+      "asStatedInVideo": "عبد المجيد الزنداني، المشارك في كتابة كتاب كيث مور بحسب المتحدث.",
+      "workTitle": "",
+      "author": "Abd al-Majid al-Zindani",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:36:23",
+      "asStatedInVideo": "أسامة بن لادن، الذي قال المتحدث إن اسمه ظهر ضمن المساهمين في نشر الكتاب بالمال أو الوقت.",
+      "workTitle": "",
+      "author": "Osama bin Laden",
+      "locator": "Acknowledgment page in an unspecified edition",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:36:23",
+      "asStatedInVideo": "النسخة السادسة سنة 1998 من كتاب كيث مور في علم الأجنة؛ العنوان غير مذكور.",
+      "workTitle": "كتاب كيث مور في علم الأجنة، الطبعة السادسة",
+      "author": "Keith Moore",
+      "locator": "Sixth edition, 1998, as stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:36:23",
+      "asStatedInVideo": "أبقراط، الذي قال المتحدث إن الطبعة السادسة وضعته في مقدمة علماء اليونان المساهمين في علم الأجنة.",
+      "workTitle": "",
+      "author": "Hippocrates",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:37:08",
+      "asStatedInVideo": "جالينوس، الذي نسب إليه المتحدث وصف مراحل تكوين الجنين قبل القرآن.",
+      "workTitle": "",
+      "author": "Galen",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:37:08",
+      "asStatedInVideo": "كتاب لجالينوس سماه المتحدث حرفياً «تكوين الجنين».",
+      "workTitle": "تكوين الجنين",
+      "author": "Galen",
+      "locator": "No section or passage stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:38:33",
+      "asStatedInVideo": "جيفري لانج، أستاذ رياضيات في جامعة أمريكية، الذي قال المتحدث إنه أسلم لأسباب روحية وعاطفية.",
+      "workTitle": "",
+      "author": "Jeffrey Lang",
+      "locator": "Conversion-story videos, no specific title stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:40:09",
+      "asStatedInVideo": "التعبير القرآني «النبي الأمي»؛ لم يذكر المتحدث السورة أو رقم الآية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "Not stated in video",
+      "quotedArabic": "النبي الأمي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:40:09",
+      "asStatedInVideo": "ابن عطية، المنسوب إليه تفسير «النبي الأمي» بأنه النبي الآتي من أم القرى.",
+      "workTitle": "",
+      "author": "Ibn Atiyya",
+      "locator": "Tafsir passage not identified",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:40:09",
+      "asStatedInVideo": "أحاديث يستدل بها على أن محمد لم يكن يقرأ أو يكتب؛ لم يحدد المتحدث المجموعات أو الأرقام.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Unspecified reports",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:40:09",
+      "asStatedInVideo": "قراءة شيعية تقول إن محمد كان يعرف قراءة عدة لغات؛ لم يسم المتحدث المصدر.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Unspecified Shi'i source",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:40:50",
+      "asStatedInVideo": "فيديو سابق للمتحدث عن الأحاديث المصنوعة لأغراض سياسية.",
+      "workTitle": "فيديو سابق غير مسمى",
+      "author": "The speaker",
+      "locator": "No title or URL stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:40:50",
+      "asStatedInVideo": "زيد بن ثابت، الذي قيل إن محمد أمره بتعلم العبرية والسريانية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:40:50",
+      "asStatedInVideo": "رواية في الترمذي عن أمر زيد بن ثابت بتعلم السريانية؛ لم يذكر رقم الحديث.",
+      "workTitle": "الترمذي",
+      "author": "al-Tirmidhi",
+      "locator": "Hadith number not stated",
+      "quotedArabic": "قال زيد قال لي النبي صلى الله عليه وسلم تعلم السريانية أخشى على كتابنا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:40:50",
+      "asStatedInVideo": "فيديو سابق للمتحدث عن المصطلحات السريانية في القرآن، قال إنه حُكم عليه بالسجن ثلاث سنوات بسببه.",
+      "workTitle": "فيديو سابق عن السريانية في القرآن",
+      "author": "The speaker",
+      "locator": "No title or URL stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:41:34",
+      "asStatedInVideo": "الحافظ ابن حجر، المنسوب إليه القول إن السريانية غير العبرية ولا مانع من الأمر بتعلم اللغتين.",
+      "workTitle": "",
+      "author": "Ibn Hajar",
+      "locator": "Work and passage not stated",
+      "quotedArabic": "السريانية غير العبرية، ولا مانع أن يكون أمر بتعلم اللغتين معاً",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:41:34",
+      "asStatedInVideo": "الشعراوي، الذي نسب إليه المتحدث تبرير أمية النبي بأن الله كان يعلمه مباشرة.",
+      "workTitle": "",
+      "author": "Muhammad Metwally al-Sha'rawi",
+      "locator": "Sermon or recording not identified",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:42:20",
+      "asStatedInVideo": "اتهامات قيل إنها وُجهت إلى محمد بأنه ينقل معلومات من كتب أخرى رغم وصفه بالأمية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No verse or report identified",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:43:02",
+      "asStatedInVideo": "ورقة بن نوفل، الذي وصفه المتحدث بأنه متعدد اللغات ودارس للأديان وعارف بقصص حضارات أخرى.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:43:02",
+      "asStatedInVideo": "زيد بن ثابت، الذي وصفه المتحدث بأنه يترجم لمحمد كتباً سريانية ويقرأ له كتب اليهود.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:43:02",
+      "asStatedInVideo": "رواية غير مسماة عن قراءة زيد بن ثابت كتب اليهود لمحمد.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Collection and number not stated",
+      "quotedArabic": "لا يأتيه كتاب من اليهود إلا ويأتي بزيد بن ثابت فيقول له اقرأه لي، فكان زيد بن ثابت يقرأه",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:43:43",
+      "asStatedInVideo": "مكة بوصفها مركزاً تجارياً وملتقى للثقافات والحضارات والأديان في شبه الجزيرة العربية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "Pre-Islamic and early Islamic Mecca; no source stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

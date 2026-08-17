@@ -1,0 +1,1196 @@
+{
+  "schemaVersion": 1,
+  "videoId": "iE-NUEjckJA",
+  "videoUrl": "https://www.youtube.com/watch?v=iE-NUEjckJA",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 3 - مغالطات و تناقضات منطقية في القرآن",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200405",
+  "extractedAt": "2026-08-17T08:48:52+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker tests the Qur’an against the expectation that a book from a perfect, omniscient God would be wholly clear, consistent, logically sound, and reliably preserved. He alleges fallacious responses to demands for evidence, tensions concerning monotheism, clarity, miracles, omniscience, revelation, preservation, lightning, and free will, and conflicting reports about companion codices. He concludes that these features are more consistent with composition by historically situated human beings than with authorship by a perfect deity.",
+  "summaryAr": "يختبر المتحدث القرآن وفق توقعه أن يكون الكتاب الصادر عن إله كامل وكلي العلم واضحًا تمامًا، ومتسقًا، وسليمًا منطقيًا، ومحفوظًا بصورة موثوقة. ويدّعي وجود ردود مغالِطة على طلب الدليل، وتوترات تتعلق بالتوحيد والوضوح والمعجزات والعلم الإلهي والوحي والحفظ والصواعق وحرية الإرادة، إلى جانب روايات متعارضة عن مصاحف الصحابة. ويخلص إلى أن هذه السمات أنسب بتأليف بشر عاشوا في سياق تاريخي محدد منها بتأليف إله كامل.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "He establishes clarity, freedom from error, consistency, and logical validity as the expected criteria for a book authored by a perfect God.",
+      "stepAr": "يضع الوضوح والخلو من الأخطاء والتناقض وسلامة المنطق معايير متوقعة لكتاب ألّفه إله كامل."
+    },
+    {
+      "timestamp": "00:00:48",
+      "stepEn": "He defines the straw-man fallacy and applies it to the Qur’anic response to people requesting a miracle.",
+      "stepAr": "يعرّف مغالطة رجل القش ويطبقها على الرد القرآني على طالبي المعجزة."
+    },
+    {
+      "timestamp": "00:02:04",
+      "stepEn": "He defines shifting the burden of proof and applies it to the challenge to produce something like the Qur’an.",
+      "stepAr": "يعرّف تبديل عبء الدليل ويطبقه على تحدي الإتيان بمثل القرآن."
+    },
+    {
+      "timestamp": "00:03:18",
+      "stepEn": "He characterizes the continuation of that challenge as circular reasoning joined to a false conclusion.",
+      "stepAr": "يصف تتمة التحدي بأنها استدلال دائري مقترن باستنتاج زائف."
+    },
+    {
+      "timestamp": "00:03:57",
+      "stepEn": "He contrasts Qur’anic monotheism with the expression describing God as the best of creators.",
+      "stepAr": "يقابل بين التوحيد القرآني وعبارة وصف الله بأنه أحسن الخالقين."
+    },
+    {
+      "timestamp": "00:05:49",
+      "stepEn": "He contrasts claims that the Qur’an is clear Arabic with its classification of some verses as ambiguous.",
+      "stepAr": "يقابل بين ادعاء أن القرآن عربي مبين وتصنيفه بعض الآيات على أنها متشابهة."
+    },
+    {
+      "timestamp": "00:07:10",
+      "stepEn": "He argues that deliberately providing unintelligible verses and blaming people for misunderstanding them is incompatible with perfect communication.",
+      "stepAr": "يجادل بأن تقديم آيات غير مفهومة ثم لوم الناس على عدم فهمها لا ينسجم مع التواصل الكامل."
+    },
+    {
+      "timestamp": "00:08:28",
+      "stepEn": "He argues from the Qur’an that Muhammad lacked miracles and says later miracle stories were composed in the sirah and hadith literature.",
+      "stepAr": "يجادل من القرآن بأن محمدًا لم تكن له معجزات، ويقول إن قصص المعجزات أُلّفت لاحقًا في السيرة والحديث."
+    },
+    {
+      "timestamp": "00:09:08",
+      "stepEn": "He argues that withholding miracles because earlier peoples rejected them conflicts with individual responsibility.",
+      "stepAr": "يجادل بأن حجب المعجزات بسبب رفض أقوام سابقين يتعارض مع المسؤولية الفردية."
+    },
+    {
+      "timestamp": "00:09:48",
+      "stepEn": "He argues that the same explanation portrays God as learning from experience and therefore conflicts with omniscience.",
+      "stepAr": "يجادل بأن التفسير نفسه يصور الله كأنه تعلم من التجربة، فيتعارض مع كليّة العلم."
+    },
+    {
+      "timestamp": "00:10:30",
+      "stepEn": "He compares the stated modes of divine revelation with the verse about Satan casting material into a prophet’s recitation.",
+      "stepAr": "يقارن طرق الوحي الإلهي المذكورة بالآية التي تتحدث عن إلقاء الشيطان في أمنية النبي."
+    },
+    {
+      "timestamp": "00:11:11",
+      "stepEn": "He presents the satanic-verses narrative as showing Muhammad unable to distinguish divine from satanic wording and God correcting it only afterward.",
+      "stepAr": "يعرض رواية الآيات الشيطانية باعتبارها تُظهر عجز محمد عن تمييز الكلام الإلهي من الشيطاني، وتصحيح الله له بعد ذلك."
+    },
+    {
+      "timestamp": "00:12:23",
+      "stepEn": "He uses lightning rods on mosques and buildings near the Kaaba to challenge the practical implications of the verse attributing lightning strikes to God’s choice.",
+      "stepAr": "يستخدم موانع الصواعق على المساجد والمباني المجاورة للكعبة للطعن في الدلالة العملية للآية التي تنسب إصابة الصواعق إلى مشيئة الله."
+    },
+    {
+      "timestamp": "00:13:45",
+      "stepEn": "He challenges the free-choice reading of the invitation to believe or disbelieve by citing its threatened punishment and other predestination passages.",
+      "stepAr": "يطعن في قراءة دعوة الإيمان أو الكفر بوصفها حرية اختيار، مستشهدًا بالوعيد وبآيات أخرى عن التقدير والهداية والإضلال."
+    },
+    {
+      "timestamp": "00:16:00",
+      "stepEn": "He introduces reports that Muhammad designated four authoritative Qur’an reciters.",
+      "stepAr": "يقدم روايات تقول إن محمدًا عيّن أربعة قراء مرجعيين للقرآن."
+    },
+    {
+      "timestamp": "00:16:38",
+      "stepEn": "He contrasts allegedly different companion codex sizes and the disputed status of al-Fatiha with the present 114-surah Qur’an.",
+      "stepAr": "يقابل بين أعداد السور المختلفة المنسوبة إلى مصاحف الصحابة والخلاف حول الفاتحة وبين المصحف الحالي ذي 114 سورة."
+    },
+    {
+      "timestamp": "00:17:18",
+      "stepEn": "He applies the Qur’an’s own no-discrepancy criterion and concludes that the alleged tensions favor human authorship.",
+      "stepAr": "يطبق معيار القرآن نفسه المتعلق بعدم الاختلاف، ويخلص إلى أن التوترات المزعومة ترجح التأليف البشري."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:00",
+      "claimEn": "The speaker claims that a book composed by a perfect God should be completely clear to everyone and free from errors, contradictions, and logical fallacies.",
+      "claimAr": "يدّعي المتحدث أن الكتاب الذي يؤلفه إله كامل يجب أن يكون واضحًا تمامًا للجميع وخاليًا من الأخطاء والتناقضات والمغالطات المنطقية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-self-consistency-criterion",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the speaker’s philosophical premise about the expected properties of divine communication and whether the subsequent examples satisfy his stated test."
+    },
+    {
+      "timestamp": "00:01:26",
+      "claimEn": "The speaker claims that the passage about opening a gate in heaven answers requests for a miracle with a straw man: instead of supplying evidence, it attributes hypothetical denials and accusations of sorcery to the requesters.",
+      "claimAr": "يدّعي المتحدث أن مقطع فتح باب من السماء يجيب طلب المعجزة برجل قش؛ فبدل تقديم الدليل ينسب إلى الطالبين إنكارًا افتراضيًا وادعاء أنهم مسحورون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the quoted passage, read its surrounding context and major exegeses, and determine who is speaking, what was requested, and whether the response accurately represents an expressed position."
+    },
+    {
+      "timestamp": "00:02:43",
+      "claimEn": "The speaker claims that the challenge to produce a surah like the Qur’an shifts the burden of proof from the claimant of divine revelation to those asking for evidence.",
+      "claimAr": "يدّعي المتحدث أن تحدي الإتيان بسورة من مثل القرآن ينقل عبء الإثبات من صاحب دعوى الوحي الإلهي إلى من يطلبون الدليل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the wording and context of the quoted challenge and evaluate whether it is presented as evidence for divine authorship or as a separate rhetorical test."
+    },
+    {
+      "timestamp": "00:03:18",
+      "claimEn": "The speaker claims that inferring divine authorship from the inability to produce a comparable Qur’an is both circular reasoning and a false conclusion unrelated to the stated premises.",
+      "claimAr": "يدّعي المتحدث أن استنتاج المصدر الإلهي من العجز عن الإتيان بقرآن مماثل هو استدلال دائري واستنتاج زائف لا يلزم من المقدمات.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Formalize the argument actually made by the verses and their exegetes, then test whether divine authorship is assumed in a premise or follows validly from the challenge."
+    },
+    {
+      "timestamp": "00:03:57",
+      "claimEn": "The speaker claims that calling God the best of creators implies the existence of other creators and therefore conflicts with statements that God alone is deity.",
+      "claimAr": "يدّعي المتحدث أن وصف الله بأنه أحسن الخالقين يفترض وجود خالقين آخرين، ولذلك يتعارض مع العبارات التي تقرر أن الله وحده الإله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Locate both quoted expressions, examine the Arabic range of khalaqa and khaliqin in classical lexicons and exegesis, and assess whether the comparative wording entails rival divine creators."
+    },
+    {
+      "timestamp": "00:04:33",
+      "claimEn": "The speaker claims that the apologetic explanation identifying human makers as the other 'creators' fails because humans manufacture from pre-existing materials rather than create ex nihilo.",
+      "claimAr": "يدّعي المتحدث أن التفسير الدفاعي الذي يجعل البشر هم «الخالقين» الآخرين يفشل لأن البشر يصنعون من مواد موجودة مسبقًا ولا يخلقون من العدم.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the speaker’s restricted definition of creation with classical Arabic lexical usage and the meanings assigned to the verse by early and later commentators."
+    },
+    {
+      "timestamp": "00:05:13",
+      "claimEn": "The speaker claims that the wording should have said 'best of makers' if humans were intended; he concludes that the existing wording either acknowledges other creators or reflects a human author who failed to notice the contradiction.",
+      "claimAr": "يدّعي المتحدث أن العبارة كان ينبغي أن تقول «أحسن الصانعين» إن كان المقصود البشر، ويخلص إلى أن الصياغة الحالية إما تقر بوجود خالقين آخرين أو تعكس مؤلفًا بشريًا لم ينتبه إلى التناقض.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the semantic distinction between creation and manufacture in early Arabic and assess whether the speaker’s proposed alternatives exhaust the possible readings."
+    },
+    {
+      "timestamp": "00:05:49",
+      "claimEn": "The speaker claims that more than twenty Qur’anic verses describe the book or its verses as clear, manifest, or in clear Arabic.",
+      "claimAr": "يدّعي المتحدث أن أكثر من عشرين آية قرآنية تصف الكتاب أو آياته بأنها مبينة أو واضحة أو بلسان عربي مبين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compile every verse using the cited clarity formulas, count them, and distinguish descriptions of the language, the book, particular signs, and the act of explanation."
+    },
+    {
+      "timestamp": "00:06:33",
+      "claimEn": "The speaker claims that the verse dividing the Qur’an into decisive and ambiguous verses directly qualifies or contradicts the repeated claim that the book is clear.",
+      "claimAr": "يدّعي المتحدث أن الآية التي تقسم القرآن إلى آيات محكمات وأخرى متشابهات تقيد أو تناقض مباشرة الادعاء المتكرر بأن الكتاب واضح.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the full verse, punctuation alternatives, and classical definitions of muhkam and mutashabih, then compare them with the scope of the verses calling the Qur’an clear."
+    },
+    {
+      "timestamp": "00:06:33",
+      "claimEn": "The speaker claims that ambiguous verses may permit many interpretations, may have been abrogated in ruling or wording, or may have no interpretation known to anyone except God.",
+      "claimAr": "يدّعي المتحدث أن الآيات المتشابهات قد تحتمل تفاسير متعددة، أو تكون منسوخة حكمًا أو لفظًا، أو لا يكون لها تفسير يعلمه أحد سوى الله.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether these categories occur in early tafsir, usul al-tafsir, and abrogation literature and whether they are all treated as meanings of mutashabih."
+    },
+    {
+      "timestamp": "00:07:10",
+      "claimEn": "The speaker claims that Muhammad himself did not know the interpretation of the ambiguous verses and warned companions against both mockers and Muslims attempting to interpret them.",
+      "claimAr": "يدّعي المتحدث أن محمدًا نفسه لم يكن يعرف تأويل الآيات المتشابهات، وأنه حذر الصحابة من المستهزئين بها ومن المسلمين الذين يحاولون تأويلها.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "sirah-revelation-narratives",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the unstated report or reports behind this claim, verify their wording and grading, and distinguish warnings against pursuing ambiguous verses from a claim that Muhammad knew no interpretation."
+    },
+    {
+      "timestamp": "00:07:49",
+      "claimEn": "The speaker claims that the text praises unquestioning acceptance of mutually tense statements as intellectual depth even though such acceptance is blind faith rather than understanding.",
+      "claimAr": "يدّعي المتحدث أن النص يمدح القبول غير المتسائل لعبارات متوترة بوصفه رسوخًا في العلم، مع أن هذا القبول إيمان أعمى لا فهمًا.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Examine the syntax and exegetical readings of the passage concerning those firmly grounded in knowledge, including the competing pause after 'except God.'"
+    },
+    {
+      "timestamp": "00:08:28",
+      "claimEn": "The speaker claims that the coexistence of clear and fundamentally ambiguous verses shows that the supposedly perfect deity failed at the single task of delivering a fully clear Qur’an.",
+      "claimAr": "يدّعي المتحدث أن اجتماع الآيات المحكمة والمتشابهة يدل على أن الإله المفترض الكامل أخفق في مهمة إيصال قرآن واضح بالكامل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether complete semantic transparency is required by the Qur’an’s own claims or by the speaker’s independent criterion for divine authorship."
+    },
+    {
+      "timestamp": "00:08:28",
+      "claimEn": "The speaker claims that the Qur’an explicitly indicates that Muhammad had no confirming miracle and that producing miracles was not his function.",
+      "claimAr": "يدّعي المتحدث أن القرآن ينص بوضوح على أن محمدًا لم تكن لديه معجزة تثبت نبوته، وأن الإتيان بالمعجزات لم يكن من وظيفته.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Review the quoted verse and all relevant Qur’anic passages about signs, miracles, the moon, and Muhammad’s role to determine whether the text denies every miracle or only requested signs."
+    },
+    {
+      "timestamp": "00:09:08",
+      "claimEn": "The speaker claims that reports of water flowing from Muhammad’s hands, the splitting of the moon, and other miracles were invented in sirah and hadith literature roughly two hundred years after Muhammad’s death.",
+      "claimAr": "يدّعي المتحدث أن روايات خروج الماء من يدي محمد وانشقاق القمر وسائر المعجزات أُلّفت في كتب السيرة والحديث بعد وفاة محمد بنحو مئتي سنة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions-reliability-and-attribution",
+        "sirah-source-traditions-competing-narratives-and-reputations",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the earliest extant attestations and transmission histories of each miracle report, distinguish oral-report claims from surviving compilation dates, and test the approximate two-century chronology."
+    },
+    {
+      "timestamp": "00:09:08",
+      "claimEn": "The speaker claims that withholding signs from Quraysh because earlier peoples such as Thamud rejected signs makes later people bear the consequence of others’ wrongdoing, contrary to the Qur’anic rule that no bearer bears another’s burden.",
+      "claimAr": "يدّعي المتحدث أن حجب الآيات عن قريش لأن أقوامًا سابقين كثمود كذبوا بها يجعل اللاحقين يتحملون نتيجة ذنب غيرهم، خلافًا لقاعدة ألا تزر وازرة وزر أخرى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the grammar and context of the verse about withholding signs, determine whether punishment or evidentiary policy is at issue, and compare it with each occurrence of the individual-burden formula."
+    },
+    {
+      "timestamp": "00:09:48",
+      "claimEn": "The speaker claims that the explanation for withholding miracles portrays God as first discovering from previous peoples’ rejection that miracles do not produce belief.",
+      "claimAr": "يدّعي المتحدث أن تفسير حجب المعجزات يصور الله كأنه اكتشف بعد تكذيب الأقوام السابقين أن المعجزات لا تؤدي إلى الإيمان.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Examine whether the verse grammatically implies acquisition of new knowledge or instead states a policy grounded in foreknown human behavior."
+    },
+    {
+      "timestamp": "00:10:30",
+      "claimEn": "The speaker claims that a God who learned only after sending earlier miracles would not be omniscient, because an omniscient God would already have known that the recipients would reject them.",
+      "claimAr": "يدّعي المتحدث أن الإله الذي لم يتعلم عدم جدوى المعجزات إلا بعد إرسالها لا يكون كلي العلم، لأن الإله كلي العلم كان سيعرف مسبقًا أن متلقيها سيرفضونها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the logical inference after establishing what the preceding verse claims about divine foreknowledge and purpose."
+    },
+    {
+      "timestamp": "00:10:30",
+      "claimEn": "The speaker claims that the Qur’an presents revelation, speech from behind a veil, or an angelic messenger as God’s special means of communicating with a human such as Muhammad.",
+      "claimAr": "يدّعي المتحدث أن القرآن يقدم الوحي أو الكلام من وراء حجاب أو إرسال رسول ملائكي بوصفها طرق الله الخاصة للتواصل مع بشر مثل محمد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the quoted verse and verify its three modes of divine communication and whether it specifically describes communication with Muhammad."
+    },
+    {
+      "timestamp": "00:11:11",
+      "claimEn": "The speaker claims that Satan could use the same revelatory channel to supply Muhammad with verses and that Muhammad could not distinguish satanic material from divine revelation.",
+      "claimAr": "يدّعي المتحدث أن الشيطان استطاع استعمال قناة الوحي نفسها لتلقين محمد آيات، وأن محمدًا لم يستطع تمييز المادة الشيطانية من الوحي الإلهي.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "sirah-source-traditions-reliability-and-attribution",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the verse about Satan casting into a prophet’s recitation with the earliest satanic-verses reports, their chains and wording, and scholarly interpretations of tamanna and umniyya."
+    },
+    {
+      "timestamp": "00:11:11",
+      "claimEn": "The speaker claims that God did not prevent the satanic insertion but sent Gabriel only after Muhammad had recited it, then replaced or abrogated the wording.",
+      "claimAr": "يدّعي المتحدث أن الله لم يمنع الإدخال الشيطاني، بل أرسل جبريل بعد أن تلا محمد الكلام ثم بدّل أو نسخ تلك الصياغة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify which early narrative explicitly mentions Gabriel’s correction, compare its variants, and determine whether the Qur’anic verse itself states this sequence."
+    },
+    {
+      "timestamp": "00:11:45",
+      "claimEn": "The speaker claims that the possibility of satanic material entering recitation before divine correction conflicts with the Qur’anic promise that God preserves the reminder.",
+      "claimAr": "يدّعي المتحدث أن إمكان دخول مادة شيطانية في التلاوة قبل تصحيحها إلهيًا يتعارض مع الوعد القرآني بأن الله يحفظ الذكر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "hadith-revelation-and-quranic-text",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the scope and chronology of the preservation promise with the verse about Satanic casting and the associated narrative; determine whether temporary correction is compatible with the claimed preservation."
+    },
+    {
+      "timestamp": "00:12:23",
+      "claimEn": "The speaker claims that contemporary preachers minimize the satanic-verses reports and avoid the Qur’anic verse that he considers clear support for the episode.",
+      "claimAr": "يدّعي المتحدث أن الدعاة المعاصرين يضعفون روايات الآيات الشيطانية ويتجنبون الآية القرآنية التي يعدها مؤيدة بوضوح للحادثة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-source-traditions-reliability-and-attribution",
+        "sirah-source-traditions-competing-narratives-and-reputations"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey representative modern apologetic treatments, their assessment of the reports, and their exegesis of the cited verse."
+    },
+    {
+      "timestamp": "00:13:00",
+      "claimEn": "The speaker claims that the verse attributes thunder and lightning strikes to God’s deliberate choice of targets.",
+      "claimAr": "يدّعي المتحدث أن الآية تنسب الرعد والصواعق إلى الله وتقول إنه يتعمد إصابة من يشاء بها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the verse, verify the antecedents and grammar of 'He strikes with them whom He wills,' and review classical explanations of agency and natural causation."
+    },
+    {
+      "timestamp": "00:13:00",
+      "claimEn": "The speaker claims that the installation of lightning rods on mosques, the Prophet’s Mosque, and buildings beside the Kaaba is behavior inconsistent with confidence that God deliberately controls lightning and would protect his own sacred buildings.",
+      "claimAr": "يدّعي المتحدث أن تركيب موانع الصواعق على المساجد والمسجد النبوي والمباني المجاورة للكعبة سلوك لا ينسجم مع الثقة بأن الله يتحكم عمدًا بالصواعق ويحمي بيوته المقدسة.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the presence and engineering purpose of lightning-protection systems at the named sites, then assess whether Islamic theology predicts immunity of sacred buildings from natural hazards."
+    },
+    {
+      "timestamp": "00:13:45",
+      "claimEn": "The speaker concludes from the use of lightning protection that nature strikes without regard for human gods, beliefs, or sacred locations.",
+      "claimAr": "يخلص المتحدث من استعمال الحماية من الصواعق إلى أن الطبيعة تضرب بلا اعتبار لآلهة البشر أو معتقداتهم أو أماكنهم المقدسة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Distinguish the empirical distribution of lightning from the theological conclusion and examine whether the cited verse predicts protection of religious buildings."
+    },
+    {
+      "timestamp": "00:14:22",
+      "claimEn": "The speaker claims that 'whoever wills, let him believe, and whoever wills, let him disbelieve' does not establish genuine freedom because the immediately stated punishment makes the offer analogous to a choice made under threat.",
+      "claimAr": "يدّعي المتحدث أن عبارة «فمن شاء فليؤمن ومن شاء فليكفر» لا تثبت حرية حقيقية لأن الوعيد المباشر يجعل العرض شبيهًا باختيار تحت التهديد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Read the entire verse and continuation, review whether the imperative is permissive, threatening, or rhetorical, and separate freedom of action from freedom from consequences."
+    },
+    {
+      "timestamp": "00:14:22",
+      "claimEn": "The speaker claims that the invitation to believe or disbelieve conflicts with the statement that no soul can believe except by God’s permission.",
+      "claimAr": "يدّعي المتحدث أن إتاحة الإيمان أو الكفر تتعارض مع القول إنه لا يمكن لنفس أن تؤمن إلا بإذن الله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Locate both passages, compare the senses of will and permission, and review classical attempts to reconcile human choice with divine permission."
+    },
+    {
+      "timestamp": "00:15:00",
+      "claimEn": "The speaker claims that the statement that God leads astray and guides whom he wills contradicts the attribution of belief and disbelief to a person’s own will.",
+      "claimAr": "يدّعي المتحدث أن القول إن الله يضل من يشاء ويهدي من يشاء يتعارض مع نسبة الإيمان والكفر إلى مشيئة الشخص نفسه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the cited wording in context and examine grammatical antecedents and major theological interpretations of divine and human willing."
+    },
+    {
+      "timestamp": "00:15:00",
+      "claimEn": "The speaker claims that 'you do not will unless God wills' subordinates human will to divine will and conflicts with presenting belief or disbelief as an independent choice.",
+      "claimAr": "يدّعي المتحدث أن عبارة «وما تشاءون إلا أن يشاء الله» تجعل مشيئة البشر تابعة لمشيئة الله، فتتعارض مع عرض الإيمان أو الكفر كاختيار مستقل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the wording and context of both passages and compare compatibilist, determinist, and libertarian readings in early Islamic theology."
+    },
+    {
+      "timestamp": "00:15:00",
+      "claimEn": "The speaker claims that the statement that people would not have fought had God willed otherwise makes religious warfare dependent on divine will rather than human freedom.",
+      "claimAr": "يدّعي المتحدث أن القول إن الناس ما كانوا ليقتتلوا لو شاء الله غير ذلك يجعل الحروب الدينية تابعة للمشيئة الإلهية لا لحرية البشر.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "sirah-conflict-and-political-conduct"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Read the full verse and determine whether it concerns divine permission, decree, prevention, or moral approval of fighting."
+    },
+    {
+      "timestamp": "00:15:40",
+      "claimEn": "The speaker claims that the verse saying God could have made humanity one community but instead guides and misguides whom he wills explicitly removes the decisive role from human choice.",
+      "claimAr": "يدّعي المتحدث أن الآية القائلة إن الله لو شاء لجعل الناس أمة واحدة لكنه يضل من يشاء ويهدي من يشاء تنزع الدور الحاسم صراحة من اختيار الإنسان.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the verse’s wording and pronoun antecedents and compare exegetical explanations of why unity, guidance, and misguidance are attributed to God."
+    },
+    {
+      "timestamp": "00:15:40",
+      "claimEn": "The speaker concludes that the free-will passages lack a coherent logical sequence, as though their human writer did not plan their relationship.",
+      "claimAr": "يخلص المتحدث إلى أن آيات الإرادة لا تتبع تسلسلًا منطقيًا متماسكًا، وكأن كاتبها البشري لم يخطط للعلاقة بينها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the cited passages are logically inconsistent after accounting for their contexts and the distinction between different conceptions of freedom."
+    },
+    {
+      "timestamp": "00:16:00",
+      "claimEn": "The speaker claims that Muhammad, whose speech is characterized as revelation rather than personal desire, selected Abdullah ibn Masud, Salim, Ubayy ibn Ka'b, and Muadh ibn Jabal as the four people from whom Muslims should take the Qur’an.",
+      "claimAr": "يدّعي المتحدث أن محمدًا، الذي وُصف كلامه بأنه وحي لا هوى، اختار عبد الله بن مسعود وسالمًا وأبيّ بن كعب ومعاذ بن جبل باعتبارهم الأربعة الذين ينبغي للمسلمين أخذ القرآن عنهم.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes",
+        "hadith-revelation-and-quranic-text",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the four-reciters hadith, verify its collection, chains, wording, and intended scope, and check whether the verse about speaking from desire applies to all of Muhammad’s speech or specifically to revelation."
+    },
+    {
+      "timestamp": "00:16:00",
+      "claimEn": "The speaker claims that after Muhammad’s death Abdullah ibn Masud and Ubayy ibn Ka'b each undertook to collect the Qur’an but disagreed about how many surahs belonged in it, giving totals of 108 and 105 respectively as stated in the video.",
+      "claimAr": "يدّعي المتحدث أن عبد الله بن مسعود وأبيّ بن كعب توليا بعد وفاة محمد جمع القرآن، لكنهما اختلفا في عدد سوره، فذكر في الفيديو عددي 108 و105 على الترتيب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "formative-figures-collection-of-the-quran-and-later-caliphs"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the earliest reports and manuscript evidence for codices attributed to Ibn Masud and Ubayy, verify which totals are actually reported, and determine whether the transcript or speaker may have misstated the numbers."
+    },
+    {
+      "timestamp": "00:16:38",
+      "claimEn": "The speaker claims that one of the authoritative companion traditions excluded al-Fatiha from the Qur’an on the ground that it was a prayer rather than divine Qur’anic speech.",
+      "claimAr": "يدّعي المتحدث أن أحد تقاليد مصاحف الصحابة المرجعيين استبعد سورة الفاتحة من القرآن على أساس أنها صلاة وليست كلامًا قرآنيًا إلهيًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-textual-transmission-readings-and-ahruf-non-canonical-variants"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify which companion the report concerns, verify whether al-Fatiha was absent, and distinguish absence from a personal codex, liturgical use, and an explicit denial of Qur’anic status."
+    },
+    {
+      "timestamp": "00:16:38",
+      "claimEn": "The speaker claims that al-Fatiha’s first-person prayer form is itself awkward as divine speech because it appears to depict God addressing himself about himself.",
+      "claimAr": "يدّعي المتحدث أن صيغة الدعاء في الفاتحة تبدو بذاتها غريبة بوصفها كلامًا إلهيًا، لأنها توحي بأن الله يخاطب نفسه عن نفسه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Analyze the grammatical speakers and addressees in al-Fatiha and review the traditional explanation that God teaches worshippers what to say."
+    },
+    {
+      "timestamp": "00:17:18",
+      "claimEn": "The speaker claims that the alleged companion totals of 108 and 105 surahs, compared with the present Qur’an’s 114, contradict the claim that God preserved the Qur’an.",
+      "claimAr": "يدّعي المتحدث أن عددي 108 و105 المنسوبين إلى مصحفي الصحابيين، مقارنة بعدد 114 في المصحف الحالي، يناقضان ادعاء أن الله حفظ القرآن.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-textual-transmission-collection-and-standardization",
+        "formative-figures-collection-of-the-quran-and-later-caliphs"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "First verify all three counts and what each purported codex contained, then assess whether personal-codex differences amount to loss or alteration of the canonical text."
+    },
+    {
+      "timestamp": "00:17:18",
+      "claimEn": "The speaker claims that the Qur’an itself states that a text from someone other than God would contain many discrepancies, and he treats the alleged examples in the episode as satisfying that criterion.",
+      "claimAr": "يدّعي المتحدث أن القرآن نفسه يقول إن النص الصادر عن غير الله سيحتوي اختلافًا كثيرًا، ويعد الأمثلة المزعومة في الحلقة محققة لهذا المعيار.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Locate the quoted verse, determine the intended sense of ikhtilaf, and independently test each alleged discrepancy before applying the verse’s criterion."
+    },
+    {
+      "timestamp": "00:17:18",
+      "claimEn": "The speaker concludes that the Qur’an’s alleged contradictions and logical fallacies are compatible with production by humans living about fifteen centuries ago and incompatible with authorship by a perfect God.",
+      "claimAr": "يخلص المتحدث إلى أن التناقضات والمغالطات المنطقية المزعومة في القرآن تنسجم مع صناعة بشر عاشوا قبل نحو خمسة عشر قرنًا، ولا تنسجم مع تأليف إله كامل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-self-consistency-criterion",
+        "quran-textual-transmission",
+        "quran"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the conclusion only after verifying the textual, historical, and logical premises recorded above and consider whether human authorship is the necessary or best explanation."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:48",
+      "asStatedInVideo": "الآية التي تقول: ولو فتحنا عليهم باباً من السماء فظلوا فيه يعرجون...",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَاباً مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرَجُونَ لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:26",
+      "asStatedInVideo": "محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:04",
+      "asStatedInVideo": "الآية التي تتحدى المرتابين أن يأتوا بسورة من مثله",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وإن كنتم في ريب مما نزل الله على عبدنا، فآتوا بصورة من مثله، وأدعوا شهداءكم من دون الله إن كنتم صادقون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:18",
+      "asStatedInVideo": "الآية التالية لتحدي الإتيان بسورة",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "فإن لم تفعلوا ولن تفعلوا فاتقوا النار التي يقودها الناس والحجار",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:57",
+      "asStatedInVideo": "آية في وحدانية الله",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وهو الله الذي لا إله إلا هو",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:57",
+      "asStatedInVideo": "العبارة القرآنية: تبارك الله أحسن الخالقين",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "تبارك الله أحسن الخالقين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:49",
+      "asStatedInVideo": "واحدة من الآيات الكثيرة التي يذكرها المتحدث لإثبات وضوح الكتاب",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ذلك الكتاب لا ريب فيه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:49",
+      "asStatedInVideo": "واحدة من صيغ وصف القرآن بأنه مبين",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "تلك آيات الكتاب وقرآن مبين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:49",
+      "asStatedInVideo": "صيغة أخرى لوصف القرآن بأنه مبين",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "إن هو إلا ذكر وقرآن مبين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:49",
+      "asStatedInVideo": "آيات كثيرة تصف القرآن بأنه بلسان عربي مبين وكتاب مبين",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:33",
+      "asStatedInVideo": "آية المحكم والمتشابه",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "هو الذي أنزل عليك الكتاب منه آيات محكمات هم أم الكتاب وأخرى متشابهات، فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه ابتغاء الفتنة وأبتغاء تأويله، وما يعلم تأويله إلا الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:07:10",
+      "asStatedInVideo": "رواية غير مسماة يقول المتحدث فيها إن الرسول حذر الصحابة من الجلوس مع المستهزئين بالمتشابه أو مع من يحاولون تأويله",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:10",
+      "asStatedInVideo": "الرسول محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:28",
+      "asStatedInVideo": "آية تفسر عدم إرسال المعجزات",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وما منعنا أن نرسل بآيات إلا أن كذب بها الأول",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:28",
+      "asStatedInVideo": "محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:09:08",
+      "asStatedInVideo": "روايات خروج الماء من يدي الرسول",
+      "workTitle": "كتب الحديث غير المسماة / Unnamed hadith collections",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:09:08",
+      "asStatedInVideo": "روايات انشقاق القمر",
+      "workTitle": "كتب الحديث غير المسماة / Unnamed hadith collections",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:09:08",
+      "asStatedInVideo": "السيرة التي يقول المتحدث إن المعجزات أُلّفت فيها بعد وفاة الرسول بنحو مئتي سنة",
+      "workTitle": "السيرة غير المسماة / Unnamed sirah literature",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:08",
+      "asStatedInVideo": "قوم ثمود وغيرهم كذبوا بالمعجزات",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:08",
+      "asStatedInVideo": "قاعدة عدم حمل شخص ذنب غيره",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَلَا تَزِرُوا وَازِرَةٌ وِزْرَ أُخْرَى",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:30",
+      "asStatedInVideo": "آية طرق تكليم الله للبشر",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وما كان لبشر ان يكلمه الله الا وحيا او من وراء حجاب او يرسل رسولا فيوحي باذنه ما يشاء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:11",
+      "asStatedInVideo": "آية إلقاء الشيطان في أمنية الرسول أو النبي",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَتِهِ فَيَنْسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:11:11",
+      "asStatedInVideo": "رواية غير مسماة عن تلقي محمد آيات من الشيطان ثم إبلاغ جبريل له بأنها لم تُرسل من الله",
+      "workTitle": "رواية الآيات الشيطانية غير المسماة / Unnamed satanic-verses narrative",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:11",
+      "asStatedInVideo": "محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:11",
+      "asStatedInVideo": "جبريل",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:45",
+      "asStatedInVideo": "آية حفظ الذكر",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "نحن نزلنا الذكرى وإن له لحافظون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:00",
+      "asStatedInVideo": "آية الرعد والصواعق",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيْفَتِهِ وَيُرْسِلُ السَّوَاعِقَ فَيُصِيبُ بِهَا مَنْ يَشَاءُ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:12:23",
+      "asStatedInVideo": "تركيب موانع صواعق على الجوامع والمسجد النبوي والأبراج بجوار الكعبة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:13:00",
+      "asStatedInVideo": "فيديو لبرج الساعة بجوار الكعبة يظهر في سياق الحديث عن مانع الصواعق",
+      "workTitle": "فيديو برج الساعة غير المعرّف / Unidentified Clock Tower footage",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:45",
+      "asStatedInVideo": "الآية المستخدمة للدلالة على حرية الإيمان والكفر",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ومن شاء فليؤمن ومن شاء فليكفر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "الوعيد الوارد مباشرة بعد اختيار الكفر؛ لم يقتبس المتحدث نصه كاملًا",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:22",
+      "asStatedInVideo": "آية اشتراط إذن الله للإيمان",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وما كان لنفس أن تؤمن إلا بإذن الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:00",
+      "asStatedInVideo": "آية تزيين سوء العمل والإضلال والهداية",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "زين له سوء عمله فرآه حسنة... فإن الله يضل من يشاء ويهدي من يشاء",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:00",
+      "asStatedInVideo": "آية تبعية مشيئة البشر لمشيئة الله",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وما تشاءون إلا أن يشاء الله رب العالمين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:00",
+      "asStatedInVideo": "آية الاقتتال ومشيئة الله",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ولو شاء الله مقتتلوا ولكن الله يفعل ما يريد",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:40",
+      "asStatedInVideo": "آية الأمة الواحدة والهداية والإضلال",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ولو شاء الله لجعلكم أمة واحدة ولكن يضل من يشاء ويهدي من يشاء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "آية حفظ القرآن",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "إن نحن نزلنا الذكرى وإن له لحافظون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "آية عدم نطق الرسول عن الهوى",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "والرسول الذي لا يتكلم عن الهوى إن هو إلا وحي يوحى",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "حديث غير محدد يقول فيه النبي للمسلمين ألا يأخذوا القرآن إلا من أربعة",
+      "workTitle": "حديث خذوا القرآن من أربعة / Hadith of taking the Qur’an from four",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "عبد الله بن مسعود",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "سالم",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "أبي بن كعب",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:00",
+      "asStatedInVideo": "معاذ بن جبل",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:16:38",
+      "asStatedInVideo": "مصحف منسوب إلى عبد الله بن مسعود بعدد 108 سور كما قال المتحدث",
+      "workTitle": "مصحف عبد الله بن مسعود / Codex attributed to Abdullah ibn Masud",
+      "author": "عبد الله بن مسعود / Abdullah ibn Masud",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:16:38",
+      "asStatedInVideo": "مصحف منسوب إلى أبي بن كعب بعدد 105 سور كما قال المتحدث",
+      "workTitle": "مصحف أبي بن كعب / Codex attributed to Ubayy ibn Ka'b",
+      "author": "أبي بن كعب / Ubayy ibn Ka'b",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:38",
+      "asStatedInVideo": "سورة الفاتحة التي يقول المتحدث إن أحد الصحابة عدها صلاة لا قرآنًا",
+      "workTitle": "القرآن: سورة الفاتحة / Qur’an: Surat al-Fatiha",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:17:18",
+      "asStatedInVideo": "القرآن الحالي الذي يقول المتحدث إنه يتكون من 114 سورة",
+      "workTitle": "المصحف الحالي / Present standard Qur’an codex",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:18",
+      "asStatedInVideo": "آية معيار الاختلاف في الكتاب لو كان من عند غير الله",
+      "workTitle": "القرآن / Qur’an",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "أفلا يتدبرون القرآن؟ ولو كان من عندي غير الله لوجدوا فيه اختلافات كثيرة",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

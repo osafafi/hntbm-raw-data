@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "videoId": "XTEuF1-UGw0",
+  "videoUrl": "https://www.youtube.com/watch?v=XTEuF1-UGw0",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 14 - وحي من دون إله",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200923",
+  "extractedAt": "2026-08-17T08:26:42+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that the Qur’an reflects Muhammad’s circumstances, material interests, sexual desires, and pursuit of unquestioned authority rather than divine revelation. He bases the case on the character of Meccan passages, the allocation of spoils, Muhammad-specific marriage privileges, the accounts of Zaynab and Zayd, verses equating Muhammad’s speech and decisions with revelation, and reports of companions venerating his bodily fluids. He concludes with an analogy portraying the same pattern as the conduct of an unverifiable, self-serving tribal leader.",
+  "summaryAr": "يجادل المتحدث بأن القرآن يعكس ظروف محمد ومصالحه المادية ورغباته الجنسية وسعيه إلى سلطة لا تُسأل، لا وحياً إلهياً. ويبني حجته على طبيعة المقاطع المكية، وتقسيم الغنائم، وامتيازات الزواج الخاصة بمحمد، وروايات زينب وزيد، والآيات التي تجعل كلام محمد وأحكامه بمنزلة الوحي، وروايات تبرك الصحابة بسوائل جسده. ويختم بتجربة فكرية تصف النمط نفسه بوصفه سلوك قائد قبلي يدعي اتصالاً غير قابل للإثبات بالآلهة ويستخدمه لمصلحته.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "He contrasts the orthodox claim that every Qur’anic word is divine guidance with his discovery of verses he considers impossible to attribute to God.",
+      "stepAr": "يقابل بين الاعتقاد التقليدي بأن كل كلمة في القرآن وحي وهداية وبين اكتشافه آيات يرى استحالة نسبتها إلى الله."
+    },
+    {
+      "timestamp": "00:00:45",
+      "stepEn": "He characterizes the Meccan material as recycled legends, evasion of demands for proof, and abuse or threats directed at opponents.",
+      "stepAr": "يصف المادة المكية بأنها إعادة صياغة لأساطير سابقة وتهرب من طلب الدليل وشتم ووعيد للمعارضين."
+    },
+    {
+      "timestamp": "00:02:09",
+      "stepEn": "He treats the prohibition on questioning God as authoritarian rhetoric that protects the claim from scrutiny.",
+      "stepAr": "يتعامل مع النهي عن سؤال الله بوصفه خطاباً سلطوياً يحمي الدعوى من الفحص."
+    },
+    {
+      "timestamp": "00:02:59",
+      "stepEn": "He turns to the spoils verse and argues that divine language was used to assign Muhammad a material share.",
+      "stepAr": "ينتقل إلى آية الغنائم ويجادل بأن اللغة الإلهية استُخدمت لتخصيص حصة مادية لمحمد."
+    },
+    {
+      "timestamp": "00:04:16",
+      "stepEn": "He presents personal authorship by Muhammad as more plausible than a cosmic God requesting a share of captured property.",
+      "stepAr": "يطرح كتابة محمد للآية بوصفها أرجح من طلب إله الكون حصة من الممتلكات المغنومة."
+    },
+    {
+      "timestamp": "00:04:59",
+      "stepEn": "He introduces Qur’anic marriage and sexual rules as personal details inconsistent with a universal final revelation.",
+      "stepAr": "يقدم أحكام الزواج والجنس القرآنية بوصفها تفاصيل شخصية لا تنسجم مع رسالة أخيرة عالمية."
+    },
+    {
+      "timestamp": "00:06:36",
+      "stepEn": "He reads the verses concerning Muhammad’s wives, captives, and women who offer themselves as special sexual privileges.",
+      "stepAr": "يقرأ آيات زوجات محمد والسبايا والنساء الواهبات أنفسهن بوصفها امتيازات جنسية خاصة."
+    },
+    {
+      "timestamp": "00:09:52",
+      "stepEn": "He links the removal of marital constraint to reports of Muhammad having more than nine wives and visiting them in one night.",
+      "stepAr": "يربط رفع الحرج في الزواج بروايات امتلاك محمد أكثر من تسع زوجات والطواف عليهن في ليلة واحدة."
+    },
+    {
+      "timestamp": "00:11:18",
+      "stepEn": "He examines the report of a woman offering herself and the verse granting Muhammad discretion to accept, defer, or recall such women.",
+      "stepAr": "يفحص رواية المرأة التي وهبت نفسها والآية التي تمنح محمداً حرية قبول الواهبات أو إرجائهن أو إعادتهن."
+    },
+    {
+      "timestamp": "00:13:29",
+      "stepEn": "He invokes Aisha’s reported remark that Muhammad’s Lord hastened to satisfy his desires.",
+      "stepAr": "يستشهد بقول منسوب إلى عائشة إن رب محمد يسارع في هواه."
+    },
+    {
+      "timestamp": "00:14:59",
+      "stepEn": "He interprets the abolition of adoptive filiation and Muhammad’s marriage to Zayd’s former wife as legislation serving Muhammad’s attraction to Zaynab.",
+      "stepAr": "يفسر إلغاء بنوة التبني وزواج محمد من مطلقة زيد بوصفهما تشريعاً خدم انجذابه إلى زينب."
+    },
+    {
+      "timestamp": "00:18:24",
+      "stepEn": "He combines verses describing Muhammad’s speech as revelation with verses denying believers any choice after Muhammad rules, and concludes that Muhammad effectively made himself divine.",
+      "stepAr": "يجمع بين الآيات التي تصف كلام محمد بالوحي والآيات التي تنفي اختيار المؤمنين بعد حكمه، ويخلص إلى أن محمداً جعل نفسه إلهاً عملياً."
+    },
+    {
+      "timestamp": "00:20:10",
+      "stepEn": "He uses reports about saliva, ablution water, blood, and urine to argue that Muhammad accepted and encouraged cultic veneration of his body.",
+      "stepAr": "يستخدم روايات النخامة وماء الوضوء والدم والبول ليجادل بأن محمداً قبل وشجع تقديس جسده."
+    },
+    {
+      "timestamp": "00:24:53",
+      "stepEn": "He restates the evidence as a thought experiment about an isolated tribe and asks whether its leader would be recognized as a self-serving human claimant rather than a divine messenger.",
+      "stepAr": "يعيد صياغة الأدلة في تجربة فكرية عن قبيلة منعزلة ويسأل هل سيُنظر إلى قائدها كمدعٍ بشري يخدم نفسه لا كرسول إلهي."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:45",
+      "claimEn": "The speaker claims that a major component of the Meccan Qur’an consists of earlier legends copied and reproduced according to Muhammad’s own understanding.",
+      "claimAr": "يزعم المتحدث أن قسماً أساسياً من القرآن المكي يتكون من أساطير الأولين التي نسخها محمد وأعادها بحسب فهمه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "narrative-origins-cultural-confluence"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the relevant Meccan narratives with demonstrably earlier Jewish, Christian, Syriac, and other texts, and check whether the proposed transmission routes and chronology are supportable."
+    },
+    {
+      "timestamp": "00:00:45",
+      "claimEn": "The speaker claims that Meccan passages evade demands that Muhammad produce a miracle or other evidence of prophethood.",
+      "claimAr": "يزعم المتحدث أن المقاطع المكية تتهرب من مطالب تقديم معجزة أو دليل آخر على نبوة محمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify all Meccan passages responding to demands for signs and assess whether they refuse, defer, reinterpret, or claim to provide the requested evidence."
+    },
+    {
+      "timestamp": "00:00:45",
+      "claimEn": "The speaker claims that another major component of the Meccan Qur’an is human-sounding insult, humiliation, and threats of punishment directed at Quraysh and anyone who does not believe Muhammad blindly.",
+      "claimAr": "يزعم المتحدث أن قسماً أساسياً آخر من القرآن المكي هو شتم قريش وإهانتها وتهديدها بالعذاب، وكذلك كل من لا يصدق محمداً بصورة عمياء.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Catalogue the Meccan passages directed against Quraysh and unbelievers and distinguish insults and threats from doctrinal or eschatological statements."
+    },
+    {
+      "timestamp": "00:01:32",
+      "claimEn": "The speaker concludes that the hostile exchanges in those passages resemble human beings insulting one another rather than speech from a deity.",
+      "claimAr": "يخلص المتحدث إلى أن الخطاب العدائي في تلك الآيات يشبه شتائم بشر يتخاصمون، لا كلاماً صادراً عن إله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the inference after verifying the wording, addressees, genre, and proposed historical setting of the cited Meccan polemics."
+    },
+    {
+      "timestamp": "00:02:09",
+      "claimEn": "The speaker claims that the statement that God is not questioned about what he does depicts a purely dictatorial being and functions to suppress questions and doubt.",
+      "claimAr": "يزعم المتحدث أن عبارة «لا يُسأل عما يفعل» تصف كياناً ديكتاتورياً محضاً وتؤدي وظيفة قمع الأسئلة والتشكيك.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the full verse and its context, then compare the speaker’s authoritarian reading with major classical and modern interpretations."
+    },
+    {
+      "timestamp": "00:02:09",
+      "claimEn": "The speaker claims that the use of this verse as an answer to ordinary questions increased his suspicion because it shields the purported revelation from rational examination.",
+      "claimAr": "يزعم المتحدث أن استخدام هذه الآية جواباً عن الأسئلة العادية زاد شكه لأنها تحصّن الوحي المزعوم من الفحص العقلي.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Separate the verse’s textual meaning from the modern apologetic use described by the speaker and assess whether the latter represents the source tradition broadly."
+    },
+    {
+      "timestamp": "00:02:59",
+      "claimEn": "The speaker claims that Islamic historical sources portray Muhammad as personally poor until raiding and the acquisition of spoils improved the community’s material circumstances.",
+      "claimAr": "يزعم المتحدث أن المراجع التاريخية الإسلامية تصور محمداً فقيراً شخصياً إلى أن حسّنت الغزوات والغنائم الأحوال المادية للجماعة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the unspecified Islamic historical sources and reconstruct Muhammad’s reported income, property, and access to spoils across the Medinan period."
+    },
+    {
+      "timestamp": "00:02:59",
+      "claimEn": "The speaker claims that the Qur’anic spoils verse assigns one fifth to God, the Messenger, his relatives, orphans, the poor, and travellers, thereby giving Muhammad a material interest in warfare.",
+      "claimAr": "يزعم المتحدث أن آية الغنائم تخصص الخمس لله وللرسول وذوي القربى واليتامى والمساكين وابن السبيل، وبذلك تمنح محمداً مصلحة مادية في الحرب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation",
+        "jihad-incentive-structure"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the quoted verse and examine classical legal and exegetical treatments of the khums, including who controlled and received each listed share."
+    },
+    {
+      "timestamp": "00:03:39",
+      "claimEn": "The speaker claims that Muslim scholars themselves treated God’s share and Muhammad’s share as one allocation under Muhammad’s control, including discretion to give or withhold it.",
+      "claimAr": "يزعم المتحدث أن علماء مسلمين أنفسهم اعتبروا سهم الله وسهم محمد حصة واحدة تحت تصرف محمد، وله أن يعطي منها أو يمنع.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate the unattributed scholarly quotation, identify its author and work, and compare its wording with the major legal opinions on the divine and prophetic shares."
+    },
+    {
+      "timestamp": "00:04:16",
+      "claimEn": "The speaker concludes that Muhammad more plausibly wrote the spoils verse and used a fictitious divine partner whose nominal share would remain available to him.",
+      "claimAr": "يخلص المتحدث إلى أن الأرجح هو أن محمداً كتب آية الغنائم واستخدم شريكاً إلهياً وهمياً تبقى حصته الاسمية متاحة له.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate this authorship inference after establishing the verse’s date, the administration of the khums, and Muhammad’s actual personal access to the relevant property."
+    },
+    {
+      "timestamp": "00:04:59",
+      "claimEn": "The speaker claims that the Qur’an contains numerous details about Muhammad’s sexual and domestic life that have no place in a universal book of guidance.",
+      "claimAr": "يزعم المتحدث أن القرآن يحتوي تفاصيل كثيرة عن حياة محمد الجنسية والمنزلية لا محل لها في كتاب هداية عالمي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Inventory the Muhammad-specific domestic passages and assess whether their stated legal or communal purposes extend beyond his personal circumstances."
+    },
+    {
+      "timestamp": "00:05:44",
+      "claimEn": "The speaker claims that Qur’anic marriage law permits a Muslim man as many as four wives while also preserving access to women held by the right hand.",
+      "claimAr": "يزعم المتحدث أن تشريع الزواج القرآني يبيح للرجل المسلم ما يصل إلى أربع زوجات مع إبقاء الإباحة المتعلقة بملك اليمين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the verse intended by the speaker, verify its complete wording, and check classical interpretations of the relationship between wives and those whom the right hand possesses."
+    },
+    {
+      "timestamp": "00:06:36",
+      "claimEn": "The speaker claims that the verse addressed to Muhammad expressly permits him his dowered wives and female captives obtained through booty.",
+      "claimAr": "يزعم المتحدث أن الآية الموجهة إلى محمد تبيح له صراحة زوجاته اللاتي دفع أجورهن والسبايا اللاتي وصلن إليه من الفيء.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-captivity-and-wartime",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the quoted passage and examine the meanings of ajur and ma malakat yaminuka mimma afa'a Allahu alayk in classical exegesis and law."
+    },
+    {
+      "timestamp": "00:07:17",
+      "claimEn": "The speaker claims that the same verse grants Muhammad alone the right to marry a believing woman who offers herself to him.",
+      "claimAr": "يزعم المتحدث أن الآية نفسها تمنح محمداً وحده حق نكاح امرأة مؤمنة تهب نفسها له.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording 'khalisatan laka min duni al-mu'minin' and check classical rulings on whether this was an exclusive prophetic privilege."
+    },
+    {
+      "timestamp": "00:08:17",
+      "claimEn": "The speaker claims that a self-gifting woman could become sexually available to Muhammad without a dower, guardian, witnesses, or ordinary contractual formalities.",
+      "claimAr": "يزعم المتحدث أن المرأة الواهبة نفسها كانت تصبح مباحة لمحمد بلا مهر ولا ولي ولا شهود ولا إجراءات العقد المعتادة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marriage-contracts-and-forms",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the relevant schools of law and early exegetical reports concerning dower, guardian, witnesses, acceptance, and consummation in a prophetic marriage by gift."
+    },
+    {
+      "timestamp": "00:09:05",
+      "claimEn": "The speaker concludes that the self-gifting provision has no value for humanity in the past, present, or future and gives only Muhammad a sexual benefit.",
+      "claimAr": "يخلص المتحدث إلى أن حكم هبة المرأة نفسها لا منفعة له للبشر في الماضي أو الحاضر أو المستقبل، وأن المستفيد الجنسي الوحيد منه هو محمد.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess claimed legal, exemplary, historical, or theological purposes for the passage and whether any apply beyond Muhammad’s household."
+    },
+    {
+      "timestamp": "00:09:52",
+      "claimEn": "The speaker claims that the continuation of the verse removes the four-wife constraint from Muhammad and permits him an unlimited number of wives or sexual partners.",
+      "claimAr": "يزعم المتحدث أن تتمة الآية ترفع عن محمد قيد الزوجات الأربع وتبيح له عدداً غير محدود من الزوجات أو الشريكات الجنسيات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the verse’s syntax and classical interpretation, and distinguish wives, captives, concubines, and proposed but uncontracted unions."
+    },
+    {
+      "timestamp": "00:09:52",
+      "claimEn": "The speaker claims that this exemption explains sound Islamic reports according to which Muhammad had more than nine wives at one time, in addition to concubines, slave women, and women given as gifts.",
+      "claimAr": "يزعم المتحدث أن هذا الاستثناء يفسر الروايات الإسلامية الصحيحة التي تقول إن محمداً جمع أكثر من تسع زوجات في وقت واحد، فضلاً عن السراري والجواري والنساء المهداة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the reports supporting each numerical and status claim and reconstruct the chronology of Muhammad’s wives, concubines, captives, and gifted women."
+    },
+    {
+      "timestamp": "00:10:36",
+      "claimEn": "The speaker claims that a report judged sound in Sahih al-Bukhari says Muhammad visited all his wives for intercourse with only one ritual bath, and that preachers defend this as a prophetic specialty.",
+      "claimAr": "يزعم المتحدث أن حديثاً صحيحاً في صحيح البخاري يقول إن محمداً كان يطوف على نسائه بغسل واحد، وإن الدعاة يدافعون عن ذلك بوصفه من خصائص النبي.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-companions-and-narrators",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate all Bukhari versions attributed to Anas, verify their wording and locator, and distinguish the hadith itself from the modern preacher’s interpretation."
+    },
+    {
+      "timestamp": "00:11:18",
+      "claimEn": "The speaker claims that Muhammad did not accept every woman who offered herself; when a woman did not attract him, he could arrange her marriage to a companion instead.",
+      "claimAr": "يزعم المتحدث أن محمداً لم يقبل كل امرأة وهبت نفسها له، وأنه إذا لم تعجبه كان يستطيع تزويجها لأحد الصحابة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report attributed to Sahl ibn Sa'd, verify its collection and complete wording, and check whether the woman is characterized as a self-gifter and whether Muhammad selected the companion."
+    },
+    {
+      "timestamp": "00:12:44",
+      "claimEn": "The speaker claims that another Qur’anic passage gives Muhammad sole discretion to defer, accept, dismiss, or later recall women, while requiring the women to remain satisfied with his decision.",
+      "claimAr": "يزعم المتحدث أن مقطعاً قرآنياً آخر يمنح محمداً وحده حرية إرجاء النساء أو قبولهن أو ردهن أو استعادتهن لاحقاً، مع مطالبة النساء بالرضا بقراره.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marital-authority-and-obedience",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the passage and compare interpretations of turji, tu'wi, and ibtaghayta with the speaker’s claim that it concerns self-gifting women."
+    },
+    {
+      "timestamp": "00:13:29",
+      "claimEn": "The speaker claims that Aisha objected to women offering themselves without a dower and, after a verse resolved the matter in Muhammad’s favor, remarked that his Lord hastened to satisfy his desire.",
+      "claimAr": "يزعم المتحدث أن عائشة عيّرت النساء اللاتي وهبن أنفسهن بلا صداق، ثم قالت بعد نزول آية تحسم الأمر لصالح محمد إنها ترى ربه يسارع في هواه.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "quran-psychological-origin",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the variants of Aisha’s report, verify their collections, chains, wording, and relation to the cited verse, and check the separate attribution to Imam Ahmad."
+    },
+    {
+      "timestamp": "00:14:14",
+      "claimEn": "The speaker concludes from the self-gifting verses and Aisha’s remark that the material came from a sexually preoccupied human willing to invoke revelation to obtain what he wanted.",
+      "claimAr": "يخلص المتحدث من آيات الواهبات وتعليق عائشة إلى أن المادة صدرت عن إنسان منشغل بالجنس ومستعد لاستدعاء الوحي للوصول إلى ما يريده.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the inference only after verifying the chronology, authenticity, and interpretation of the verses and Aisha reports on which it rests."
+    },
+    {
+      "timestamp": "00:14:59",
+      "claimEn": "The speaker claims that Muhammad became attracted to the beautiful wife of his adopted son Zayd and that adoption was then prohibited so Zayd would no longer count as Muhammad’s son.",
+      "claimAr": "يزعم المتحدث أن محمداً افتتن بزوجة ابنه المتبنى زيد، ثم حُرمت بنوة التبني لكي لا يبقى زيد ابناً لمحمد.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the early sirah and tafsir versions of Muhammad seeing Zaynab, assess their chains and chronology, and compare them with the Qur’anic treatment of adoptive filiation."
+    },
+    {
+      "timestamp": "00:15:44",
+      "claimEn": "The speaker claims that the command to call adopted sons by their biological fathers served Muhammad’s immediate interest by removing the filial status that obstructed marriage to Zayd’s former wife.",
+      "claimAr": "يزعم المتحدث أن الأمر بدعوة الأبناء المتبنين لآبائهم الحقيقيين خدم مصلحة محمد المباشرة بإزالة البنوة التي كانت تعوق زواجه من مطلقة زيد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the sequence and contexts of the adoption and marriage passages and check whether the prohibition preceded, followed, or was independent of the marriage episode."
+    },
+    {
+      "timestamp": "00:16:52",
+      "claimEn": "The speaker claims that the Qur’an names Zayd and orders or declares Muhammad’s marriage to Zayd’s former wife after Zayd had finished with her.",
+      "claimAr": "يزعم المتحدث أن القرآن يذكر زيداً بالاسم ويأمر أو يعلن تزويج محمد من مطلقته بعد أن قضى زيد منها وطراً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the complete verse, its grammar, and its early exegetical context, including the identity of the unnamed wife and the force of zawwajnakaha."
+    },
+    {
+      "timestamp": "00:17:38",
+      "claimEn": "The speaker claims that the stated need to demonstrate the legality of marrying an adopted son’s former wife is implausible because an omnipotent God could simply have issued a general rule.",
+      "claimAr": "يزعم المتحدث أن تبرير الزواج بإظهار جواز نكاح مطلقة الابن المتبنى غير معقول، لأن الإله القادر كان يستطيع إصدار حكم عام ببساطة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the inference against the text’s expressly stated exemplary purpose and broader Islamic concepts of prophetic conduct as enacted legislation."
+    },
+    {
+      "timestamp": "00:17:38",
+      "claimEn": "The speaker concludes that Muhammad personally wrote the marriage and adoption passages because they provide him a concrete benefit while requiring no unobservable supernatural explanation.",
+      "claimAr": "يخلص المتحدث إلى أن محمداً كتب بنفسه مقاطع الزواج والتبني لأنها تحقق له منفعة واضحة ولا تتطلب افتراض تفسير خارق غير قابل للرصد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate this authorship conclusion after checking the source history, chronology, competing explanations, and whether the passages demonstrably originated during Muhammad’s lifetime."
+    },
+    {
+      "timestamp": "00:18:24",
+      "claimEn": "The speaker claims that the Qur’anic declaration that Muhammad does not speak from desire and that his speech is revelation removes his utterances from ordinary human error.",
+      "claimAr": "يزعم المتحدث أن إعلان القرآن أن محمداً لا ينطق عن الهوى وأن كلامه وحي يرفع أقواله عن الخطأ البشري العادي.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the passage and determine whether its pronouns refer to all of Muhammad’s speech, Qur’anic recitation specifically, or the vision described in its context."
+    },
+    {
+      "timestamp": "00:19:25",
+      "claimEn": "The speaker claims that another verse removes believers’ freedom to reject any matter decided by God and Muhammad and labels disobedience manifest error.",
+      "claimAr": "يزعم المتحدث أن آية أخرى تسلب المؤمنين حرية رفض أي أمر يقضي به الله ومحمد، وتصف العصيان بأنه ضلال مبين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the quoted passage, its occasion and scope, and how early exegetes understood the relationship between divine and prophetic decisions."
+    },
+    {
+      "timestamp": "00:19:25",
+      "claimEn": "The speaker concludes that combining supposedly desire-free, revelatory speech with mandatory unquestioning obedience effectively makes Muhammad a god within the Qur’an.",
+      "claimAr": "يخلص المتحدث إلى أن الجمع بين كلام يوصف بأنه منزه عن الهوى ووحي دائم وبين طاعة عمياء واجبة يجعل محمداً إلهاً عملياً داخل القرآن.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the cited verses support the speaker’s universal reading of Muhammad’s speech and authority or preserve a doctrinal distinction between messenger and deity."
+    },
+    {
+      "timestamp": "00:20:10",
+      "claimEn": "The speaker claims that a sound report in Sahih al-Bukhari about the Hudaybiyya negotiations says companions caught Muhammad’s saliva, rubbed it on their faces and skin, rushed to obey him, and nearly fought over his ablution water.",
+      "claimAr": "يزعم المتحدث أن حديثاً صحيحاً في صحيح البخاري عن صلح الحديبية يقول إن الصحابة كانوا يتلقون نخامة محمد ويدلكون بها وجوههم وجلودهم، ويبادرون أمره، ويكادون يقتتلون على ماء وضوئه.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Hudaybiyya report in Sahih al-Bukhari, verify its complete wording and narrator, and examine its narrative purpose and transmission variants."
+    },
+    {
+      "timestamp": "00:20:57",
+      "claimEn": "The speaker claims that eight-year-old Abd Allah ibn al-Zubayr drank Muhammad’s cupping blood and that Muhammad responded with statements interpreted as granting strength and protection from hellfire.",
+      "claimAr": "يزعم المتحدث أن عبد الله بن الزبير، وكان عمره ثماني سنوات، شرب دم حجامة محمد، وأن محمداً أجابه بعبارات فُسرت بأنها تمنحه القوة والحماية من النار.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate all versions of the blood-drinking report, verify the age claim, chains, gradings, wording, and whether 'the fire will not touch you' belongs to the earliest text."
+    },
+    {
+      "timestamp": "00:22:30",
+      "claimEn": "The speaker claims that reports say Umm Ayman or Baraka drank urine from a vessel kept beneath Muhammad’s bed and that Muhammad told her the fire would never reach her stomach.",
+      "claimAr": "يزعم المتحدث أن روايات تقول إن أم أيمن أو بركة شربت بولاً من إناء كان تحت سرير محمد، وإن محمداً قال لها إن النار لن تمس بطنها بعد ذلك.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the two reports alluded to, distinguish Umm Ayman from any other named Baraka, and verify their chains, wording, grading, and legal interpretation."
+    },
+    {
+      "timestamp": "00:23:19",
+      "claimEn": "The speaker claims that a contemporary religious teacher openly said he would drink Muhammad’s urine for blessing if it were available, showing that bodily veneration remains religiously endorsed.",
+      "claimAr": "يزعم المتحدث أن معلماً دينياً معاصراً صرح بأنه سيشرب بول محمد تبركاً لو وُجد، بما يدل عنده على استمرار إقرار تقديس جسده دينياً.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the unnamed speaker and original recording, verify the unedited wording and context, and determine which scholarly position he invokes."
+    },
+    {
+      "timestamp": "00:24:53",
+      "claimEn": "The speaker claims that, if an isolated tribal leader alone asserted unverifiable divine contact and used it to acquire wealth, unlimited women, another man’s wife, infallible authority, and veneration of his bodily fluids, observers would recognize a self-serving human leader rather than revelation.",
+      "claimAr": "يزعم المتحدث أن المراقب سيعد قائداً قبلياً يدعي وحده اتصالاً إلهياً غير قابل للإثبات، ويستخدمه لاكتساب المال والنساء بلا حد وزوجة رجل آخر والسلطة المعصومة وتقديس سوائل جسده، قائداً بشرياً يخدم نفسه لا صاحب وحي.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-obedience-and-authority",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the analogy only after independently verifying each mapped premise: the spoils allocation, marriage privileges, Zayd episode, authority verses, and bodily-fluid reports."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:45",
+      "asStatedInVideo": "محمد، presented as the person through whose understanding the earlier legends were reproduced and as the putative human author.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:45",
+      "asStatedInVideo": "The Meccan suras from the first thirteen years of the mission; no individual suras or verses are identified.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:45",
+      "asStatedInVideo": "أهل قريش, named collectively as the principal targets of insults and threats in the Meccan material.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:09",
+      "asStatedInVideo": "The well-known verse quoted as saying that God is not questioned about what he does while others are questioned; no sura or aya number is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "لا يُسأل عما يفعل وهم يُسألون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:02:59",
+      "asStatedInVideo": "Unspecified Islamic historical references said to describe Muhammad as poor and to describe the community’s acquisition of spoils through raids.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:59",
+      "asStatedInVideo": "The verse allocating a fifth of spoils to God, the Messenger, relatives, orphans, the poor, and the traveller; no sura or aya number is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَيْءٍ فَإِنَّ لِلَّهِ خُمْسُهُ وَلِلرَّسُولِ وَلِذَوِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:03:39",
+      "asStatedInVideo": "An unattributed Islamic scholarly explanation that God made his share and Muhammad’s share one and that the khums was property granted to the Messenger and his relatives.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "الله جعل سهمه وسهم محمد واحد. الخمس هو فيء أفاءه الله سبحانه وتعالى إلى رسوله صلى الله عليه وسلم وأقربائه فقط، وقد اختصه الله سبحانه وتعالى بذلك، له أن يعطي من شاء ويمنع من شاء",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:44",
+      "asStatedInVideo": "A verse said to permit men up to four wives and otherwise one wife plus those whom the right hand possesses; the verse text and locator are not supplied in the transcript.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:36",
+      "asStatedInVideo": "The passage addressed to the Prophet permitting dowered wives and those whom his right hand possesses from what God granted as fay'; no sura or aya number is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "يَا أَيُّهَا النَّبِيُّ إِنَّا أَحْلَلْنَا لَكَ أَزْوَاجَكَ اللَّاتِي آتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّا أَفَاءَ اللَّهُ عَلَيْكَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:17",
+      "asStatedInVideo": "The continuation permitting a believing woman who offers herself to the Prophet, exclusively for him rather than other believers; no locator is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَامْرَأَةً مُؤْمِنَةً إِنْ وَهَبَتْ نَفْسَهَا لِلنَّبِيِّ إِنْ أَرَادَ النَّبِيُّ أَنْ يَسْتَنْكِحَهَا خَالِصَةً لَكَ مِنْ دُونِ الْمُؤْمِنِينَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:52",
+      "asStatedInVideo": "The continuation referring to what was prescribed for other believers regarding their wives and those whom their right hands possess, so that there would be no constraint on Muhammad; no locator is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَقَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِي أَزْوَاجِهِمْ وَمَا مَلَكَتْ أَيْمَانُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:10:36",
+      "asStatedInVideo": "A report from Anas in Sahih al-Bukhari that the Prophet visited his wives with one bath; no hadith number is stated.",
+      "workTitle": "صحيح البخاري",
+      "author": "محمد بن إسماعيل البخاري",
+      "locator": "",
+      "quotedArabic": "أن النبي صلى الله عليه وسلم كان يطوف على نسائه بغسل واحد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:36",
+      "asStatedInVideo": "أنس بن مالك, named as the transmitter of the report about Muhammad visiting his wives with one bath.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:11:57",
+      "asStatedInVideo": "The report of a woman offering herself to Muhammad and a companion asking to marry her; the collection and locator are not stated.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "جاءت امرأة إلى النبي صلى الله عليه وسلم فقالت: جئت أهب لك نفسي... فقال رجل: زوجنيها إن لم يكن لك بها حاجة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:57",
+      "asStatedInVideo": "سهل بن سعد رضي الله عنه, named as the transmitter of the self-gifting woman report.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:44",
+      "asStatedInVideo": "The passage allowing Muhammad to defer whom he wished, receive whom he wished, and seek again one he had set aside; no locator is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ، وَمَنِ ابْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:13:29",
+      "asStatedInVideo": "A report attributed through Imam Ahmad to Aisha concerning women who offered themselves and her remark that Muhammad’s Lord hastened in his desire; no work or report number is stated.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ألا تستحي المرأة أن تعرض نفسها بغير صداق؟ ... إني أرى ربك يا محمد يسارع في هواك",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:29",
+      "asStatedInVideo": "الإمام أحمد, named as reporting from Aisha in an explanation of the verse.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:29",
+      "asStatedInVideo": "عائشة رضي الله عنها, named as criticizing women who offered themselves and as making the remark about Muhammad’s Lord hastening in his desire.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:14:59",
+      "asStatedInVideo": "The well-known narrative that Muhammad visited while Zayd was absent, saw Zaynab occupied with housework, praised the Creator, and became attracted to her; no sirah work is named.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "تبارك الله أحسن الخالقين",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:59",
+      "asStatedInVideo": "زينب, identified as Zayd’s beautiful wife with whom Muhammad became enamoured; her full name is not clearly stated in the transcript.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:59",
+      "asStatedInVideo": "زيد, introduced as Muhammad’s adopted son and Zaynab’s husband.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:44",
+      "asStatedInVideo": "The verse commanding that adopted sons be called by their biological fathers; no locator is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ادْعُوهُمْ لِآبَائِهِمْ هُوَ أَقْسَطُ عِنْدَ اللَّهِ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:52",
+      "asStatedInVideo": "زيد بن حارثة, named as Muhammad’s former adopted son whose divorced wife Muhammad married.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:52",
+      "asStatedInVideo": "The passage recounting Muhammad’s words to Zayd and declaring that God married Muhammad to Zayd’s former wife; no sura or aya number is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَإِذْ تَقُولُ لِلَّذِي أَنْعَمَ اللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَاتَّقِ اللَّهَ وَتُخْفِي فِي نَفْسِكَ مَا اللَّهُ مُبْدِيهِ وَتَخْشَى النَّاسَ وَاللَّهُ أَحَقُّ أَنْ تَخْشَاهُ، فَلَمَّا قَضَى زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:18:24",
+      "asStatedInVideo": "The opening oath by the star and the declaration that Muhammad’s companion did not stray and does not speak from desire, but speaks revelation; no locator is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَالنَّجْمِ إِذَا هَوَى، مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى، وَمَا يَنْطِقُ عَنِ الْهَوَى، إِنْ هُوَ إِلَّا وَحْيٌ يُوحَى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:25",
+      "asStatedInVideo": "The verse denying believing men and women any choice after God and his Messenger decide a matter and calling disobedience manifest error; no locator is stated.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ، وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:20:10",
+      "asStatedInVideo": "A long report in Sahih al-Bukhari concerning the Treaty of Hudaybiyya and the companions’ treatment of Muhammad’s saliva and ablution water; no hadith number is stated.",
+      "workTitle": "صحيح البخاري",
+      "author": "محمد بن إسماعيل البخاري",
+      "locator": "",
+      "quotedArabic": "فوالله ما تنخّم رسول الله صلى الله عليه وسلم نخامة إلا وقعت في كف رجل منهم فدلك بها وجهه وجلده، وإذا أمرهم ابتدروا أمره، وإذا توضأ كادوا يقتتلون على وضوئه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:20:10",
+      "asStatedInVideo": "صلح الحديبية, identified as the setting of the long Bukhari report.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:20:57",
+      "asStatedInVideo": "A report that Abd Allah ibn al-Zubayr drank Muhammad’s cupping blood and received remarks about people, strength, and the fire; no collection or locator is stated.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "قال: شربته يا رسول الله. قال: ويل لك من الناس، وويل للناس منك، لا تمسك النار",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:20:57",
+      "asStatedInVideo": "عبد الله بن الزبير, identified as the child who drank Muhammad’s cupping blood.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:30",
+      "asStatedInVideo": "An IslamWeb answer stating that the story of Ibn al-Zubayr drinking Muhammad’s blood is established and referring readers to fatwa number 3034.",
+      "workTitle": "إسلام ويب",
+      "author": "",
+      "locator": "الفتوى رقم 3034",
+      "quotedArabic": "قصة شرب ابن الزبير رضي الله عنه دم الرسول عليه الصلاة والسلام ثابتة، كما بيناه في الفتوى رقم 3034",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:22:30",
+      "asStatedInVideo": "One of two reports said to concern Baraka or Umm Ayman drinking from the Prophet’s urine vessel; no collection or locator is stated.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "كان عند النبي صلى الله عليه وسلم فخارة يبول فيها بالليل، وكانت تجعل تحت سريره، فجاءت بركة فأخذت الفخارة فشربت بول النبي صلى الله عليه وسلم",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:30",
+      "asStatedInVideo": "بركة أم أيمن, identified as a woman said to have drunk from Muhammad’s urine vessel; the transcript’s subsequent naming is garbled.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:23:19",
+      "asStatedInVideo": "An unnamed contemporary religious teacher’s video statement that he would drink Muhammad’s urine for blessing if it were brought to him.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "لو أتيتني ببوله فأنا أتبرك به... يا أخي لو جئتني به أنا أشرب، أنا أتبرك به، ولكن أين هو؟",
+      "confidence": "uncertain"
+    }
+  ],
+  "topicProposals": []
+}

@@ -902,3 +902,34 @@
 {"timestamp": "2026-08-17T04:46:52+00:00", "event": "topic_split_succeeded", "topicId": "quran-foreign-vocabulary-and-transmission-routes", "backend": "claude", "attempts": 1, "durationMs": 56379}
 {"timestamp": "2026-08-17T04:46:52+00:00", "event": "topic_split_started", "topicId": "formative-figures-of-islam"}
 {"timestamp": "2026-08-17T04:47:48+00:00", "event": "topic_split_succeeded", "topicId": "formative-figures-of-islam", "backend": "claude", "attempts": 1, "durationMs": 55824}
+{"timestamp": "2026-08-17T08:13:56+00:00", "event": "extract_started", "videoId": "qVCZ4FjYL0g"}
+{"timestamp": "2026-08-17T08:13:56+00:00", "event": "extract_started", "videoId": "8YDSnXuwKSc"}
+{"timestamp": "2026-08-17T08:21:24+00:00", "event": "extract_succeeded", "videoId": "8YDSnXuwKSc", "backend": "codex", "attempts": 1, "durationMs": 447975}
+{"timestamp": "2026-08-17T08:21:24+00:00", "event": "extract_started", "videoId": "XTEuF1-UGw0"}
+{"timestamp": "2026-08-17T08:25:06+00:00", "event": "extract_succeeded", "videoId": "qVCZ4FjYL0g", "backend": "claude", "attempts": 1, "durationMs": 669286}
+{"timestamp": "2026-08-17T08:25:06+00:00", "event": "extract_started", "videoId": "6Fewib-ZrZY"}
+{"timestamp": "2026-08-17T08:26:42+00:00", "event": "extract_succeeded", "videoId": "XTEuF1-UGw0", "backend": "codex", "attempts": 1, "durationMs": 317410}
+{"timestamp": "2026-08-17T08:26:42+00:00", "event": "extract_started", "videoId": "fZMFZvKPjX4"}
+{"timestamp": "2026-08-17T08:31:53+00:00", "event": "extract_succeeded", "videoId": "fZMFZvKPjX4", "backend": "codex", "attempts": 1, "durationMs": 310882}
+{"timestamp": "2026-08-17T08:31:53+00:00", "event": "extract_started", "videoId": "fvK0nFHg1js"}
+{"timestamp": "2026-08-17T08:31:58+00:00", "event": "extract_succeeded", "videoId": "6Fewib-ZrZY", "backend": "claude", "attempts": 1, "durationMs": 412653}
+{"timestamp": "2026-08-17T08:31:58+00:00", "event": "extract_started", "videoId": "ikEChoRQgQ8"}
+{"timestamp": "2026-08-17T08:38:41+00:00", "event": "extract_succeeded", "videoId": "fvK0nFHg1js", "backend": "codex", "attempts": 1, "durationMs": 408785}
+{"timestamp": "2026-08-17T08:38:41+00:00", "event": "extract_started", "videoId": "nLnyiej3X5Q"}
+{"timestamp": "2026-08-17T08:42:20+00:00", "event": "extract_succeeded", "videoId": "ikEChoRQgQ8", "backend": "claude", "attempts": 1, "durationMs": 621556}
+{"timestamp": "2026-08-17T08:42:20+00:00", "event": "extract_started", "videoId": "W0BsYMDMPRw"}
+{"timestamp": "2026-08-17T08:43:26+00:00", "event": "extract_succeeded", "videoId": "nLnyiej3X5Q", "backend": "codex", "attempts": 1, "durationMs": 284338}
+{"timestamp": "2026-08-17T08:43:26+00:00", "event": "extract_started", "videoId": "iE-NUEjckJA"}
+{"timestamp": "2026-08-17T08:48:52+00:00", "event": "extract_succeeded", "videoId": "iE-NUEjckJA", "backend": "codex", "attempts": 1, "durationMs": 326226}
+{"timestamp": "2026-08-17T08:48:52+00:00", "event": "extract_started", "videoId": "fvfaDwgl60w"}
+{"timestamp": "2026-08-17T08:53:11+00:00", "event": "extract_succeeded", "videoId": "W0BsYMDMPRw", "backend": "claude", "attempts": 1, "durationMs": 650902}
+{"timestamp": "2026-08-17T08:53:11+00:00", "event": "extract_started", "videoId": "cpUXg5ejZZs"}
+{"timestamp": "2026-08-17T08:54:07+00:00", "event": "extract_succeeded", "videoId": "fvfaDwgl60w", "backend": "codex", "attempts": 1, "durationMs": 315485}
+{"timestamp": "2026-08-17T08:54:07+00:00", "event": "extract_started", "videoId": "igugkSLM0nI"}
+{"timestamp": "2026-08-17T09:01:02+00:00", "event": "extract_succeeded", "videoId": "cpUXg5ejZZs", "backend": "claude", "attempts": 1, "durationMs": 471071}
+{"timestamp": "2026-08-17T09:01:02+00:00", "event": "extract_started", "videoId": "ZII2R77JWpc"}
+{"timestamp": "2026-08-17T09:05:14+00:00", "event": "extract_succeeded", "videoId": "igugkSLM0nI", "backend": "codex", "attempts": 1, "durationMs": 667004}
+{"timestamp": "2026-08-17T09:05:14+00:00", "event": "extract_started", "videoId": "MJAjSx3UKPU"}
+{"timestamp": "2026-08-17T09:07:55+00:00", "event": "extract_succeeded", "videoId": "ZII2R77JWpc", "backend": "claude", "attempts": 1, "durationMs": 413462}
+{"timestamp": "2026-08-17T09:07:55+00:00", "event": "extract_started", "videoId": "5fYrCxLumdI"}
+{"timestamp": "2026-08-17T09:10:34+00:00", "event": "extract_succeeded", "videoId": "MJAjSx3UKPU", "backend": "codex", "attempts": 1, "durationMs": 319627}

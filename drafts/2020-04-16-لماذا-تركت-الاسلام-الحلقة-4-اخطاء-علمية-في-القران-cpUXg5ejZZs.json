@@ -1,0 +1,1203 @@
+{
+  "schemaVersion": 1,
+  "videoId": "cpUXg5ejZZs",
+  "videoUrl": "https://www.youtube.com/watch?v=cpUXg5ejZZs",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 4 - أخطاء علمية في القرآن",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200416",
+  "extractedAt": "2026-08-17T09:01:02+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Episode 4 of \"Why I Left Islam\" argues that the Qur'an and the sahih hadith corpus contain plain scientific errors, and that these errors track exactly the folk knowledge available in seventh-century Arabia. The speaker works through embryology (the fluid issuing from between the backbone and the ribs, the mixed nutfa, the white and yellow fluids hadith, the forty-night angel hadith, bones then flesh), animal biology (milk produced in the belly between dung and blood, and said to be palatable to all drinkers), and cosmology (a flat, stationary earth pegged by mountains, a sun and moon circling it, the sun going beneath the Throne at sunset, seven layered heavens, a physical sky held from falling, and six days of creation with four for the earth and two for the heavens). He argues that the i'jaz preachers cherry-pick single verses (yukawwir, musi'un, tajri li-mustaqarr laha) while hiding the surrounding verses, and closes with a methodological point: even genuine scientific foreknowledge in an old book would not establish a divine author, which he labels a non-sequitur.",
+  "summaryAr": "الحلقة الرابعة من \"لماذا تركت الإسلام\" تدّعي أن القرآن وكتب الحديث الصحيح تتضمن أخطاء علمية صريحة، وأن هذه الأخطاء تطابق تمامًا المعارف الشائعة في جزيرة العرب في القرن السابع. يعرض المتحدث لمسائل علم الأجنة (الماء الدافق الخارج من بين الصلب والترائب، النطفة الأمشاج، حديث ماء الرجل الأبيض وماء المرأة الأصفر، حديث الملك بعد أربعين ليلة، خلق العظام ثم كسوها لحمًا)، ولبيولوجيا الحيوان (اللبن المتكوّن في البطن من بين فرث ودم وكونه سائغًا للشاربين)، ولعلم الكون (أرض مسطحة ثابتة مثبَّتة بالجبال كالأوتاد، شمس وقمر يدوران حولها، الشمس تسجد تحت العرش عند الغروب، سبع سماوات طباقًا، سقف مادي يُمسَك أن يقع، وستة أيام للخلق أربعة منها للأرض ويومان للسماوات). ويرى أن دعاة الإعجاز ينتقون آية واحدة (يكوّر، موسعون، تجري لمستقر لها) ويخفون سياقها، ثم يختم بنقطة منهجية: حتى لو وُجدت معلومات علمية سابقة لأوانها في كتاب قديم فهذا لا يثبت مصدرًا إلهيًا، وهي عنده مغالطة الاستنتاج الزائد.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:12",
+      "stepEn": "Opens by saying no greater trial has befallen Muslims than the claim that the Qur'an contains scientific miracles, and recalls his own former answer that the Qur'an is a book of guidance, not of science.",
+      "stepAr": "يفتتح بأنه ما كان على أهل الإسلام فتنة أكبر من ادعاء وجود إعجاز علمي في القرآن، ويستعيد جوابه السابق كمسلم بأن القرآن كتاب هداية لا كتاب علوم."
+    },
+    {
+      "timestamp": "00:00:59",
+      "stepEn": "Turns to embryology and argues the preachers begin at the nutfa stage while hiding the earlier verse on the gushing fluid from between the backbone and the ribs.",
+      "stepAr": "ينتقل إلى مراحل الجنين ويقول إن الدعاة يبدؤون من مرحلة النطفة ويخفون الآية السابقة عن الماء الدافق الخارج من بين الصلب والترائب."
+    },
+    {
+      "timestamp": "00:01:40",
+      "stepEn": "Traces that picture of the male fluid coming from the back to pre-Islamic Arab usage, and concludes the supposed creator repeated the same mistake as desert Arabs.",
+      "stepAr": "يرجع تصوّر خروج ماء الرجل من الصلب إلى استعمال العرب قبل الإسلام، ويستنتج أن الخالق المفترض وقع في الغلط نفسه الذي وقع فيه عرب الصحراء."
+    },
+    {
+      "timestamp": "00:02:06",
+      "stepEn": "Adds a second error: the author imagined fertilization as the mixing of two fluids and did not know of the ovum.",
+      "stepAr": "يضيف خطأً ثانيًا: تصوّر الكاتب أن التلقيح يحصل بامتزاج ماءين، ولم يعرف البويضة."
+    },
+    {
+      "timestamp": "00:02:47",
+      "stepEn": "Brings the sahih hadith on the white and yellow fluids and sex determination as an explicit statement of the same wrong physiology.",
+      "stepAr": "يستدعي الحديث الصحيح عن ماء الرجل الأبيض وماء المرأة الأصفر وتحديد الجنس بوصفه تصريحًا بالفسيولوجيا الخاطئة نفسها."
+    },
+    {
+      "timestamp": "00:03:47",
+      "stepEn": "Adds the hadith of the angel entering after forty nights and God deciding the sex, against determination at fertilization by the Y chromosome.",
+      "stepAr": "يضيف حديث دخول الملك على النطفة بعد أربعين ليلة وتقدير الله للذكورة والأنوثة، في مقابل تحديد الجنس لحظة الإخصاب بكروموزوم Y."
+    },
+    {
+      "timestamp": "00:04:49",
+      "stepEn": "Attacks the bones-then-flesh sequence as imagining a skeleton in the womb later clothed with flesh, and calls the modern gloss of flesh as muscle an invention.",
+      "stepAr": "يهاجم تسلسل العظام ثم اللحم بوصفه تخيلًا لهيكل عظمي في الرحم يُكسى لحمًا لاحقًا، ويعدّ تفسير اللحم بالعضلات عند المحدثين مختلقًا."
+    },
+    {
+      "timestamp": "00:05:29",
+      "stepEn": "Argues nobody was shocked when these verses were recited because the picture was already current, citing the Book of Job and saying the biblical material itself drew on old Greek scientific books.",
+      "stepAr": "يحتج بأن أحدًا لم يُصدم عند تلاوة هذه الآيات لأن التصوّر كان سائدًا، مستشهدًا بسفر أيوب وقائلًا إن مادة الكتاب المقدس نفسها مأخوذة من كتب يونانية علمية قديمة."
+    },
+    {
+      "timestamp": "00:06:07",
+      "stepEn": "Moves to animal biology: the milk verse places milk in the belly between dung and blood and calls it palatable to all drinkers.",
+      "stepAr": "ينتقل إلى بيولوجيا الحيوان: آية اللبن تجعله في البطن من بين فرث ودم وتصفه بأنه سائغ للشاربين."
+    },
+    {
+      "timestamp": "00:07:17",
+      "stepEn": "Turns to the shape of the earth and states that once he arranged the verses he saw the author pictured things exactly as they appear to the naked eye.",
+      "stepAr": "ينتقل إلى شكل الأرض ويقول إنه حين رتّب الآيات اتضح له أن كاتب القرآن تصوّر الأمور تمامًا كما تبدو للعين المجردة."
+    },
+    {
+      "timestamp": "00:07:59",
+      "stepEn": "Lists the spreading verses (madda, bisat, firash) and the qarar verse to argue for a flat and immobile earth, rejecting the appearance-only reading.",
+      "stepAr": "يعدّد آيات المدّ والبساط والفراش وآية القرار للاستدلال على أرض مسطحة ثابتة، رافضًا تأويلها بأنها وصف للمظهر."
+    },
+    {
+      "timestamp": "00:09:18",
+      "stepEn": "Adds the mountains as pegs driven from above to hold the flat earth steady, against their formation from below by crustal movement.",
+      "stepAr": "يضيف الجبال كأوتاد أُنزلت من فوق لتثبيت الأرض المسطحة، خلافًا لتكوّنها من تحت بفعل حركة القشرة الأرضية."
+    },
+    {
+      "timestamp": "00:10:31",
+      "stepEn": "Shows the cherry-picking: yukawwir is used to prove a spherical earth while about twelve flatness verses are ignored, and the chasing sun and moon verses are read against it.",
+      "stepAr": "يكشف الانتقائية: تُستخدم كلمة يكوّر لإثبات كروية الأرض مع تجاهل نحو اثنتي عشرة آية عن التسطيح، ويقابلها بآيات جري الشمس والقمر وطلبهما الحثيث."
+    },
+    {
+      "timestamp": "00:11:44",
+      "stepEn": "Counters the black-hole reading of tajri li-mustaqarr laha with the Prophet's own reported explanation that the sun goes beneath the Throne and seeks permission to rise.",
+      "stepAr": "يردّ على تفسير \"تجري لمستقر لها\" بدوران الشمس حول الثقب الأسود بحديث النبي نفسه أن الشمس تذهب تحت العرش وتستأذن في الطلوع."
+    },
+    {
+      "timestamp": "00:13:08",
+      "stepEn": "Notes that the Qur'an's God boasts of being Lord of the two easts and two wests and of bringing the sun from the east, a phenomenon that does not exist as described.",
+      "stepAr": "يلاحظ أن إله القرآن يتبجح بكونه رب المشرقين والمغربين وبالإتيان بالشمس من المشرق، وهي ظاهرة غير موجودة على النحو الموصوف."
+    },
+    {
+      "timestamp": "00:13:48",
+      "stepEn": "Concludes that the Qur'an's errors match the ignorance of our ancestors, then moves to the seven layered heavens as a pre-Islamic notion astronomy never found.",
+      "stepAr": "يستنتج أن أخطاء القرآن تتماشى مع جهل الأجداد، ثم ينتقل إلى السماوات السبع الطباق بوصفها مفهومًا سابقًا للإسلام لم يجده علم الفلك."
+    },
+    {
+      "timestamp": "00:14:32",
+      "stepEn": "Blocks the ghayb escape: the lamps of the lowest heaven are the stars we see and the missiles thrown at devils, so the heavens must sit just outside the atmosphere.",
+      "stepAr": "يسدّ مهرب الغيب: مصابيح السماء الدنيا هي النجوم التي نراها وهي رجوم الشياطين، فلا بد أن تكون السماوات خارج الغلاف الجوي مباشرة."
+    },
+    {
+      "timestamp": "00:16:41",
+      "stepEn": "Rejects the expanding-universe reading of musi'un by interpreting Qur'an by Qur'an through the divorce verse on al-musi' qadaruh.",
+      "stepAr": "يرفض تفسير \"موسعون\" بتمدد الكون معتمدًا تفسير القرآن بالقرآن عبر آية الطلاق \"على الموسع قدره\"."
+    },
+    {
+      "timestamp": "00:17:23",
+      "stepEn": "Adds a methodological objection: the expansion of the universe is a theory, and the apologists treat theories as facts only when they suit them.",
+      "stepAr": "يضيف اعتراضًا منهجيًا: تمدد الكون نظرية، والدعاة يعاملون النظريات كحقائق فقط حين توافق كتابهم."
+    },
+    {
+      "timestamp": "00:19:05",
+      "stepEn": "Uses the four days for the earth and two for the seven heavens to argue the author had no conception of the size of the universe, and blocks the smoke reinterpretation.",
+      "stepAr": "يستخدم أربعة أيام للأرض ويومين للسماوات السبع للاستدلال على أن الكاتب لم يكن لديه تصوّر لحجم الكون، ويسدّ تأويل الدخان."
+    },
+    {
+      "timestamp": "00:20:34",
+      "stepEn": "Grants the miracle claim for argument's sake and answers that advanced information in an old book proves only that, calling the inference to a divine author a non-sequitur.",
+      "stepAr": "يسلّم جدلًا بدعوى الإعجاز ويجيب بأن وجود معلومات متقدمة في كتاب قديم لا يدل إلا على ذلك، ويسمي الانتقال منه إلى إثبات خالق مغالطة الاستنتاج الزائد."
+    },
+    {
+      "timestamp": "00:21:13",
+      "stepEn": "Closes that the i'jaz preachers themselves pushed people to read and arrange the verses and so to see a God who does not know how bodies, animals, the earth or the sky work.",
+      "stepAr": "يختم بأن دعاة الإعجاز أنفسهم دفعوا الناس إلى قراءة الآيات وترتيبها فرأوا إلهًا لا يعرف كيف يعمل الجسم ولا الحيوان ولا شكل الأرض ولا السماء."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:12",
+      "claimEn": "The speaker claims that no greater trial has befallen Muslims than the modern claim that the Qur'an contains scientific miracles, because it invites believers to test the text against science and so exposes its errors.",
+      "claimAr": "يدّعي المتحدث أنه ما كان على أهل الإسلام فتنة أكبر من ادعاء وجود إعجازات علمية في القرآن، لأنه يدفع المؤمنين إلى اختبار النص بالعلم فتنكشف أخطاؤه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Editorial framing claim. Check that the i'jaz movement is accurately characterised as inviting empirical testing of the text, and record it as the speaker's thesis rather than a source-based claim."
+    },
+    {
+      "timestamp": "00:00:12",
+      "claimEn": "The speaker claims that the standard Muslim answer he himself used to give — that the Qur'an is a book of guidance and not a book of science — cannot be sustained, because the Qur'an in fact speaks about many things that can be checked scientifically.",
+      "claimAr": "يدّعي المتحدث أن الجواب المسلم المعتاد الذي كان يقدمه بنفسه — أن القرآن كتاب هداية لا كتاب علوم — لا يصمد، لأن القرآن يتكلم فعلًا عن أشياء كثيرة يمكن التأكد منها بطريقة علمية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the Qur'an makes descriptive statements about the natural world that are empirically testable, independent of whether it presents itself as a science book."
+    },
+    {
+      "timestamp": "00:00:59",
+      "claimEn": "The speaker claims that the miracle preachers deliberately begin the embryology argument at the nutfa stage and hide the earlier Qur'anic verse describing the gushing fluid issuing from between the backbone and the ribs, because that verse cannot be reinterpreted.",
+      "claimAr": "يدّعي المتحدث أن دعاة الإعجاز يبدؤون حجة علم الأجنة عمدًا من مرحلة النطفة ويخفون الآية القرآنية السابقة التي تصف الماء الدافق الخارج من بين الصلب والترائب، لأنها آية لا يمكن تأويلها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid",
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey i'jaz publications and lectures on embryology and check whether Q86:5-7 is systematically omitted while Q23:12-14 is cited."
+    },
+    {
+      "timestamp": "00:00:59",
+      "claimEn": "The speaker claims that the author of the verse on the fluid issuing from between the backbone and the ribs imagined that the fetus is formed from the man's fluid coming from his back or spine joining the woman's fluid coming from her chest, whereas semen is produced in the testicles and has no relation to the back or the chest.",
+      "claimAr": "يدّعي المتحدث أن كاتب آية الماء الدافق الخارج من بين الصلب والترائب تخيّل أن الجنين يتكوّن من اجتماع ماء الرجل الآتي من ظهره أو صلبه مع ماء المرأة الآتي من صدرها، بينما يتكوّن المني في الخصيتين ولا علاقة له بالظهر ولا بالصدر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid",
+        "quran-lexical-and-interpretive-questions-creation-fluid-verse"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q86:5-7 and the classical glosses of al-sulb and al-tara'ib against the anatomical origin of semen in modern physiology."
+    },
+    {
+      "timestamp": "00:01:40",
+      "claimEn": "The speaker claims that this picture came from the Arabs before Muhammad, who believed the man's semen was formed in his back or spine, which is why they said 'this man is from the loins of so-and-so' — an idiom still repeated today.",
+      "claimAr": "يدّعي المتحدث أن هذا التصوّر جاء من العرب قبل محمد، إذ كانوا يعتقدون أن مني الرجل يتكوّن من ظهره أو صلبه، ولذلك كانوا يقولون \"هذا الرجل من صلبه فلان\"، وهو تعبير ما زلنا نكرره إلى اليوم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic and early Arabic usage of min sulbihi for descent, and whether lexicographers connect the idiom to a belief that semen originates in the spine."
+    },
+    {
+      "timestamp": "00:01:40",
+      "claimEn": "The speaker claims it is strange that the supposed creator of human beings, when explaining how the human body works, fell into exactly the same error as Arabs who lived in the desert hundreds of years ago.",
+      "claimAr": "يدّعي المتحدث أنه من الغريب أن خالق البشر المفترض، حين حاول شرح طريقة عمل الجسم البشري، وقع في الغلط نفسه الذي وقع فيه العرب الذين عاشوا في الصحراء قبل مئات السنين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Inference drawn from the preceding two claims; verify that the text's statement matches the attested folk belief rather than any independent anatomical description."
+    },
+    {
+      "timestamp": "00:02:06",
+      "claimEn": "The speaker claims that the author of the Qur'an also erred about human fertilization: the word amshaj means mixed, and the verse pictures conception as the meeting of the man's fluid with the woman's fluid, whereas the woman has no semen but an ovum, and fertilization occurs through the ovum.",
+      "claimAr": "يدّعي المتحدث أن كاتب القرآن أخطأ أيضًا في مفهوم التلقيح البشري: فكلمة أمشاج تعني ممزوجة، والآية تتصوّر الحمل باجتماع ماء الرجل مع ماء المرأة، بينما ليس للمرأة ماء أو مني وإنما لها بويضة، والتلقيح يحصل بالبويضة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-quranic-terms",
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q76:2 and the classical exegesis of nutfa amshaj as the mixture of two fluids, against the modern account of fertilization by sperm and ovum."
+    },
+    {
+      "timestamp": "00:02:06",
+      "claimEn": "The speaker claims that the fluid observed leaving a woman during intercourse or arousal was taken to be semen like the man's, but these are vaginal secretions with no role in fertilization.",
+      "claimAr": "يدّعي المتحدث أن السائل الذي يُشاهد خروجه من المرأة أثناء الجماع أو الإثارة الجنسية اعتُبر منيًا كمني الرجل، بينما هي إفرازات مهبلية لا علاقة لها بعملية التلقيح.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the physiological account of vaginal secretion versus gametes, and whether classical Arabic sources identify that fluid as the woman's maniyy."
+    },
+    {
+      "timestamp": "00:02:47",
+      "claimEn": "The speaker claims that a sahih hadith has the Prophet state that the man's fluid is white and the woman's fluid is yellow, which he says shows the same mistaken belief that vaginal fluid is a female semen participating in fertilization.",
+      "claimAr": "يدّعي المتحدث أن حديثًا صحيحًا ينسب إلى النبي قوله إن ماء الرجل أبيض وماء المرأة أصفر، ويرى أن هذا يكشف الاعتقاد الخاطئ نفسه بأن السائل المهبلي مني أنثوي يشارك في التلقيح.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith on the white and yellow fluids in Sahih Muslim or Sahih al-Bukhari, record collection and number, and confirm its grading; the speaker names no collection."
+    },
+    {
+      "timestamp": "00:02:47",
+      "claimEn": "The speaker claims that the same hadith explains the sex of the child by which fluid prevails over the other — the man's over the woman's producing a male and the reverse producing a female — and that this is scientifically false.",
+      "claimAr": "يدّعي المتحدث أن الحديث نفسه يفسّر جنس الجنين بأيّ الماءين علا الآخر — إذا علا مني الرجل مني المرأة كان ذكرًا وإذا علا مني المرأة كان أنثى — وأن هذا كلام غير صحيح علميًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the sex-determination clause in the same hadith text and compare with chromosomal sex determination."
+    },
+    {
+      "timestamp": "00:03:30",
+      "claimEn": "The speaker claims that Muslim physicians and specialists read these reports without noticing anything wrong, and that even the most zealous Islamic schools keep this material out of the science curriculum because they know it is false.",
+      "claimAr": "يدّعي المتحدث أن الأطباء والمختصين المسلمين يقرؤون هذه الروايات دون أن يجدوا فيها أي إشكال، وأن حتى أشد الدور الإسلامية تعصبًا لا تدرّس هذا الكلام في حصة العلوم لأنهم يعرفون أنه خاطئ.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check science curricula in religious schools in Muslim-majority states for whether the white/yellow fluid and forty-night hadiths appear as biology content."
+    },
+    {
+      "timestamp": "00:03:47",
+      "claimEn": "The speaker claims that another hadith has the angel come to the nutfa forty nights after it settles in the womb and ask God whether the fetus is wretched or happy, male or female, so that God decides the sex after forty days.",
+      "claimAr": "يدّعي المتحدث أن حديثًا آخر يذكر أن الملك يدخل على النطفة بعد أن تستقر في الرحم بأربعين ليلة فيسأل الله أشقي هو أم سعيد، أذكر أم أنثى، فيقرر الله جنس الجنين بعد أربعين يومًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the forty-nights angel hadith in the canonical collections, record collection and number, and check the wording on the timing of the decree of sex; the speaker gives no locator."
+    },
+    {
+      "timestamp": "00:04:07",
+      "claimEn": "The speaker claims that both hadiths are wrong because the sex of the fetus is fixed at the moment the sperm fertilizes the ovum — a Y chromosome yielding a male and two X chromosomes a female — and not after forty days as Muhammad expected.",
+      "claimAr": "يدّعي المتحدث أن الحديثين خطأ لأن جنس الجنين يتحدد لحظة تلقيح النطفة للبويضة — فوجود كروموزوم Y يعطي ذكرًا ووجود كروموزومين X يعطي أنثى — وليس بعد أربعين يومًا كما كان محمد يتوقع.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Confirm the standard account of chromosomal sex determination at fertilization and check whether any classical reading of the hadith avoids fixing the sex at day forty."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims that the miracle preachers ignore and flee from all the earlier verses because they know these contain scientific errors that cannot be reinterpreted, and cherry-pick the verse beginning with the nutfa amshaj — the same verse Keith Moore testified about.",
+      "claimAr": "يدّعي المتحدث أن دعاة الإعجاز يتجاهلون كل الآيات السابقة ويهربون منها لأنهم يعرفون أنها تحوي أخطاء علمية لا يمكن تأويلها، وينتقون الآية التي تبدأ بالنطفة الأمشاج، وهي الآية نفسها التي شهد عليها كيث مور.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Keith Moore's involvement with the embryology i'jaz argument and which verses his published statements address."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims that the clearest error in the stages verse is 'then We made the lump into bones and clothed the bones with flesh', because the author imagined that at one stage the fetus is a bare skeleton inside its mother's belly which is afterwards clothed in flesh.",
+      "claimAr": "يدّعي المتحدث أن أوضح خطأ في آية المراحل هو \"فخلقنا المضغة عظامًا فكسونا العظام لحمًا\"، لأن الكاتب تخيّل أن الجنين يمر بمرحلة يكون فيها هيكلًا عظميًا داخل بطن أمه ثم يُكسى لحمًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-bones-and-flesh"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q23:14 and compare the stated sequence with the simultaneous development of bone and muscle tissue in modern embryology."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims that modern commentators now play a game by glossing 'flesh' in that verse as muscles, a reading he says has no known basis.",
+      "claimAr": "يدّعي المتحدث أن المفسرين المعاصرين صاروا يلعبون لعبة بتفسير \"اللحم\" في تلك الآية بالعضلات، وهو تفسير يقول إنه لا يُعرف من أين جاؤوا به.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses",
+        "quran-scientific-claims-embryology-and-human-creation-bones-and-flesh"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare classical tafsir glosses of lahm in Q23:14 with the muscle reading used in modern i'jaz literature."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims that the stages described were already familiar knowledge at the time, since women who miscarried could see such material come out of them, so there was nothing surprising in the description.",
+      "claimAr": "يدّعي المتحدث أن المراحل الموصوفة كانت معلومة في ذلك الزمن، لأن النساء اللواتي كنّ يُجهضن كنّ يرين نزول مثل هذه الأشياء، فلم يكن في الوصف شيء غريب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic and late-antique knowledge of miscarried fetal material and whether the described stages were observable without instruments."
+    },
+    {
+      "timestamp": "00:05:29",
+      "claimEn": "The speaker claims that when Muhammad recited these verses nobody was shocked — not the companions, nor the Jews and Christians — because they already held the same conception, which shows the verses were offered as commonly accepted information used as argument, not as miracles.",
+      "claimAr": "يدّعي المتحدث أنه حين تلا محمد هذه الآيات لم يُصدم أحد — لا الصحابة ولا اليهود والنصارى — لأن التصوّر نفسه كان عندهم، مما يدل على أنها قُدّمت كمعلومات عامة مقبولة يُستدل بها، لا كإعجاز.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether any early report records astonishment at the embryology verses, and whether the surrounding rhetoric presents them as agreed premises."
+    },
+    {
+      "timestamp": "00:05:29",
+      "claimEn": "The speaker claims that the Book of Job already contains the same picture, quoting a passage about being formed from clay, curdled like cheese, and knit together with bones and sinews.",
+      "claimAr": "يدّعي المتحدث أن سفر أيوب يتضمن التصوّر نفسه، مستشهدًا بمقطع عن الجبل من الطين والتخثّر كالجبن والنسج بالعظام والعصب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-greek-and-babylonian-antecedents",
+        "quran-scientific-claims-embryology-and-human-creation-bones-and-flesh",
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Job 10:8-11 in Arabic and English translations for the clay, curdling and bones-and-sinews imagery; the speaker states the chapter and verses loosely as 'Job 10 13 8'."
+    },
+    {
+      "timestamp": "00:05:29",
+      "claimEn": "The speaker claims that the biblical material, which predates the Qur'an, is itself taken from old Greek scientific books.",
+      "claimAr": "يدّعي المتحدث أن كلام الإنجيل، وهو سابق للقرآن، مأخوذ هو نفسه من كتب يونانية علمية قديمة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-greek-and-babylonian-antecedents",
+        "quran-scientific-claims-embryology-and-human-creation-greek-medical-transmission"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "The speaker names no Greek work. Check scholarship on Greek medical influence on biblical and late-antique embryological imagery, and note that he conflates Job with 'the Gospel'."
+    },
+    {
+      "timestamp": "00:06:07",
+      "claimEn": "The speaker claims that verses of this kind, like the verse asking whether the disbelievers do not see that the heavens and earth were one mass then split apart, are argumentative appeals to things the audience already believed rather than new disclosures.",
+      "claimAr": "يدّعي المتحدث أن هذا النوع من الآيات، مثل آية \"أولم ير الذين كفروا أن السماوات والأرض كانتا رتقًا\"، هي آيات خبرية استدلالية تخاطب أمورًا كان المخاطبون يؤمنون بها مسبقًا، لا إخبارًا بجديد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-separation-of-heaven-and-earth",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the rhetorical form of Q21:30 and comparable verses — whether they invoke agreed premises as evidence rather than announce unknown facts."
+    },
+    {
+      "timestamp": "00:06:32",
+      "claimEn": "The speaker claims that the Qur'anic verse on cattle states that the milk given to drink is produced in their bellies from between dung and blood, whereas milk is not formed in the belly and is not mixed with blood or excrement but produced in a visible organ.",
+      "claimAr": "يدّعي المتحدث أن آية الأنعام تقول إن اللبن الذي نُسقاه يخرج من بطونها من بين فرث ودم، بينما اللبن لا يتكوّن في البطن ولا يمتزج بالدم ولا بالغائط، وإنما يتكوّن في موضع ظاهر يُرى بالعين المجردة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-animal-biology"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q16:66 and classical glosses of farth and dam, then compare with mammary gland physiology."
+    },
+    {
+      "timestamp": "00:07:17",
+      "claimEn": "The speaker claims that the same verse's description of milk as palatable to all who drink it is false, since many people — most of them Arabs, he says — suffer intestinal pain and long-term problems from it.",
+      "claimAr": "يدّعي المتحدث أن وصف الآية نفسها للبن بأنه سائغ للشاربين غير صحيح، لأن كثيرًا من الناس — وأغلبهم عرب كما يقول — تصيبهم آلام معوية ومشاكل طويلة الأمد منه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-animal-biology"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the phrase sa'igh lil-sharibin in Q16:66 and its classical sense, and the epidemiology of lactose intolerance including rates in Arab populations; the speaker's word for the condition is missing from the transcript."
+    },
+    {
+      "timestamp": "00:07:17",
+      "claimEn": "The speaker claims that once he arranged the scattered verses in the right order it became clear that the author of the Qur'an thought the shape of the earth and the working of night and day are exactly as they appear to the naked human eye — a flat, motionless earth with edges, around which the sun and moon move.",
+      "claimAr": "يدّعي المتحدث أنه حين رتّب الآيات المبعثرة على وجهها الصحيح اتضح له أن كاتب القرآن كان يظن أن شكل الأرض وطريقة عمل الليل والنهار هي تمامًا كما تبدو للعين البشرية المجردة: أرض مسطحة لها أطراف ثابتة لا تتحرك، وشمس وقمر يتحركان حولها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assemble the full set of verses the speaker relies on and check whether taken together they describe a naked-eye cosmography."
+    },
+    {
+      "timestamp": "00:07:59",
+      "claimEn": "The speaker claims the Qur'an describes the earth as flat beyond doubt, citing the verses that God spread out the earth and placed firm mountains and rivers in it, made the earth a carpet, and made the earth a bed, and argues the verb 'made for you' rules out the apologists' reading that these describe appearance only.",
+      "claimAr": "يدّعي المتحدث أن القرآن يصف الأرض بأنها مسطحة بما لا يدع مجالًا للشك، مستشهدًا بآيات \"هو الذي مدّ الأرض وجعل فيها رواسي وأنهارًا\" و\"جعل لكم الأرض بساطًا\" و\"جعل لكم الأرض فراشًا\"، ويحتج بأن فعل \"جعل لكم\" يبطل تأويل الدعاة بأنها وصف للمظهر فقط.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q13:3, Q71:19 and Q2:22 and their classical glosses (basataha wa-maddaha), and assess whether the grammar supports the appearance-only reading."
+    },
+    {
+      "timestamp": "00:08:38",
+      "claimEn": "The speaker claims that the verse asking who made the earth a qarar teaches that the earth is stationary, since qarar derives from qarra meaning fixed and not moving.",
+      "claimAr": "يدّعي المتحدث أن آية \"أمّن جعل الأرض قرارًا\" تفيد أن الأرض ثابتة، لأن كلمة قرار من قارّة أي ثابتة لا تتحرك.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q27:61 and the lexical range of qarar in the classical dictionaries; note the speaker derives it from qarra/qarra, which an editor should verify."
+    },
+    {
+      "timestamp": "00:09:18",
+      "claimEn": "The speaker claims that according to the Qur'an the mountains are pegs set down from above to hold the flat earth steady, citing the verse on how the mountains were erected and the earth spread out, and the two verses on firm mountains placed lest the earth sway with people.",
+      "claimAr": "يدّعي المتحدث أن الجبال في القرآن أوتاد أُنزلت من فوق لتثبيت الأرض المسطحة، مستشهدًا بآية \"وإلى الجبال كيف نُصبت وإلى الأرض كيف سُطحت\" وبآيتي \"وجعلنا في الأرض رواسي أن تميد بهم\" و\"وألقى في الأرض رواسي أن تميد بكم\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q88:17-20, Q21:31 and Q16:15 with their classical tafsir on rawasi and an tamida bikum."
+    },
+    {
+      "timestamp": "00:10:00",
+      "claimEn": "The speaker claims this is scientifically wrong because mountains are not pegs driven from above but rise from below through movements of the earth's crust.",
+      "claimAr": "يدّعي المتحدث أن هذا خطأ علميًا لأن الجبال ليست أوتادًا دُقّت من فوق، بل ترتفع من تحت بفعل تقلبات القشرة الأرضية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the geological account of orogeny and the isostatic-root argument used in i'jaz literature to defend the peg reading."
+    },
+    {
+      "timestamp": "00:10:00",
+      "claimEn": "The speaker claims that in the Qur'anic verses the sun and the moon are what move across the sky around the flat earth, so that when the sun sets and the moon rises it becomes night over the whole flat earth at once, with no daytime anywhere else.",
+      "claimAr": "يدّعي المتحدث أن الشمس والقمر في الآيات القرآنية هما اللذان يتحركان في السماء حول الأرض المسطحة، فإذا غابت الشمس وطلع القمر صار الليل على جميع بقاع الأرض المسطحة دفعة واحدة ولم يكن نهار في أي مكان آخر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the day-and-night verses presuppose simultaneous night over the whole earth, and whether any classical commentator addresses the question."
+    },
+    {
+      "timestamp": "00:10:31",
+      "claimEn": "The speaker claims the miracle preachers use the verse containing the word yukawwir as proof that the Qur'an teaches a spherical earth, while ignoring roughly twelve verses that plainly describe a flat earth.",
+      "claimAr": "يدّعي المتحدث أن دعاة الإعجاز يستخدمون الآية التي فيها كلمة \"يكوّر\" دليلًا على أن الأرض كروية في القرآن، بينما يتجاهلون نحو اثنتي عشرة آية تتكلم بوضوح عن أرض مسطحة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses",
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q39:5 and the classical glosses of yukawwir, and count the verses commonly cited as describing a spread-out earth to test the figure of about twelve."
+    },
+    {
+      "timestamp": "00:11:01",
+      "claimEn": "The speaker claims that the verse describing the night covering the day and pursuing it swiftly, and the verse on the sun and moon each seeking the other, show a picture in which the two bodies never stop but continually run one behind the other around the earth, citing Mujahid's gloss.",
+      "claimAr": "يدّعي المتحدث أن آية \"يغشي الليل النهار يطلبه حثيثًا\" والآية التي فيها أن كلًا من الشمس والقمر يطلب الآخر تكشفان تصوّرًا لا يثبتان فيه بل يظلان يسيران وراء بعضهما حول الأرض، مستشهدًا بتفسير مجاهد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q7:54 and the parallel verse, and locate the gloss attributed to Mujahid in the tafsir literature; the transcript does not preserve the quoted wording."
+    },
+    {
+      "timestamp": "00:11:44",
+      "claimEn": "The speaker claims the preachers take the verse 'and the sun runs to a resting place appointed for it' out of context to argue the Qur'an described the sun orbiting the black hole at the centre of our galaxy.",
+      "claimAr": "يدّعي المتحدث أن الدعاة يخرجون آية \"والشمس تجري لمستقر لها\" عن سياقها ليقولوا إن القرآن تكلم عن دوران الشمس حول الثقب الأسود في مركز مجرتنا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check i'jaz literature for the galactic-orbit reading of Q36:38 and the wording of the verse itself."
+    },
+    {
+      "timestamp": "00:11:44",
+      "claimEn": "The speaker claims that the Prophet himself refutes that reading, since a report has him explain that the sun's resting place is beneath the Throne of the Merciful, where it goes daily, holds a conversation with God, asks permission and is ordered to return and rise again.",
+      "claimAr": "يدّعي المتحدث أن النبي نفسه يردّ على هذا التأويل، إذ ورد عنه أن مستقر الشمس تحت عرش الرحمن، تذهب إليه يوميًا وتحاور الله وتستأذن ثم يُؤمر بأن ترجع فتطلع من جديد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith on the sun prostrating beneath the Throne and seeking permission to rise, record its collection and number, and compare it with the wording of Q36:38; the speaker names no collection."
+    },
+    {
+      "timestamp": "00:12:25",
+      "claimEn": "The speaker claims that the resulting Qur'anic picture as a whole — a flat, motionless earth, mountains as pegs holding it, sun and moon circling it, and the sun descending beneath the Throne at night — is a set of scientific errors, not scientific miracles.",
+      "claimAr": "يدّعي المتحدث أن الصورة القرآنية النهائية في مجموعها — أرض مسطحة ثابتة، وجبال أوتاد تثبتها، وشمس وقمر يدوران حولها، وشمس تنزل تحت العرش ليلًا — هي أخطاء علمية لا إعجاز علمي.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the individual verses and reports cited combine into the single cosmography the speaker reconstructs, or whether they admit separate readings."
+    },
+    {
+      "timestamp": "00:13:08",
+      "claimEn": "The speaker claims that sunrise and sunset do not exist as physical events — the earth's rotation on its axis only makes the sun appear to rise and set — and that the author of the Qur'an did not know this.",
+      "claimAr": "يدّعي المتحدث أن الشروق والغروب لا وجود لهما كحدثين فيزيائيين — فدوران الأرض حول محورها هو ما يجعل الشمس تبدو لنا شارقة وغاربة — وأن كاتب القرآن لم يكن يعرف ذلك.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Straightforward astronomy; check how the argument bears on verses that describe the sun's rising and setting as events."
+    },
+    {
+      "timestamp": "00:13:08",
+      "claimEn": "The speaker claims that the God of the Qur'an boasts of this non-existent phenomenon by calling himself Lord of the two easts and the two wests, and in the challenge of Abraham to Nimrod by saying God brings the sun from the east so bring it from the west.",
+      "claimAr": "يدّعي المتحدث أن إله القرآن يتبجح بهذه الظاهرة غير الموجودة فيسمّي نفسه \"رب المشرقين ورب المغربين\"، وفي تحدي إبراهيم للنمرود يقول \"فإن الله يأتي بالشمس من المشرق فأت بها من المغرب\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-flat-and-stationary-earth"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q55:16-17 and Q2:258 for the quoted wording and the classical exegesis of the two easts and two wests."
+    },
+    {
+      "timestamp": "00:13:48",
+      "claimEn": "The speaker claims that speaking of the sun rising and setting is a linguistic habit inherited from ancestors who thought things were only as they appear, and that it is remarkable how the Qur'an's errors match exactly the ignorance and level of thinking of those ancestors.",
+      "claimAr": "يدّعي المتحدث أن الحديث عن شروق الشمس وغروبها عادة لغوية موروثة عن أجداد ظنوا أن الأمور كما تبدو فقط، وأن اللافت هو كيف تتماشى أخطاء القرآن تمامًا مع جهل الأجداد ومستوى أفكارهم.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Central inference of the episode toward human authorship; check whether the text's natural-world statements go beyond ordinary idiom into assertions about how things are."
+    },
+    {
+      "timestamp": "00:13:48",
+      "claimEn": "The speaker claims that the notion of seven heavens one above another was already current in ancient civilisations before Islam, and that the Qur'an adopted it, while the development of astronomy revealed a vast universe with no such seven heavens in it.",
+      "claimAr": "يدّعي المتحدث أن مفهوم سبع سماوات طباقًا كان سائدًا في الحضارات القديمة قبل الإسلام، وأن القرآن تبنّاه، بينما كشف تطور علم الفلك عن كون هائل لا وجود فيه لسبع سماوات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic Near Eastern and late-antique seven-heaven cosmologies and their transmission into Arabian religious language."
+    },
+    {
+      "timestamp": "00:14:32",
+      "claimEn": "The speaker claims that preachers now escape the seven heavens problem by calling them unseen and outside reality, but that the Qur'an itself refutes this, because the lowest heaven is said to be adorned with lamps which are also missiles thrown at the devils who try to eavesdrop.",
+      "claimAr": "يدّعي المتحدث أن الدعاة صاروا يهربون من مسألة السماوات السبع بجعلها غيبية خارج الواقع، لكن القرآن نفسه يردّ عليهم، لأن السماء الدنيا مزيّنة بمصابيح هي أيضًا رجوم تُرمى بها الشياطين التي تسترق السمع.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q67:5 and Q37:6-10 for the lamps-and-missiles wording, and whether the ghayb reading is compatible with them."
+    },
+    {
+      "timestamp": "00:15:17",
+      "claimEn": "The speaker claims it follows that the seven heavens must lie inside our universe and immediately outside the atmosphere, since the meteors striking the eavesdropping devils are visible to people standing on the earth, so anyone going up should find them.",
+      "claimAr": "يدّعي المتحدث أنه يلزم من ذلك أن تكون السماوات السبع داخل كوننا وخارج الغلاف الجوي مباشرة، لأن الشهب التي تُضرب بها الشياطين المسترقة نراها ونحن واقفون على الأرض، فلو صعدنا لوجب أن نجدها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Test the inference against the verses on the lowest heaven and the meteors, and against the meteorological account of meteors within the atmosphere."
+    },
+    {
+      "timestamp": "00:15:57",
+      "claimEn": "The speaker claims this raises a further problem, that on these verses God is inside the universe and therefore inside the fabric of spacetime, which would require an external entity to have made it.",
+      "claimAr": "يدّعي المتحدث أن هذا يفتح إشكالًا آخر، إذ يلزم على هذه الآيات أن الله داخل الكون وبالتالي داخل النسيج الزمكاني، مما يستدعي كيانًا خارجيًا صنعه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Philosophical inference the speaker defers to another episode; check which verses place God's Throne within the created heavens."
+    },
+    {
+      "timestamp": "00:15:57",
+      "claimEn": "The speaker claims that the Qur'an has no concept of an atmosphere and instead pictures the first heaven as a solid roof which God built and raised and holds back from falling on the earth, citing the verse that He holds the sky lest it fall upon the earth except by His leave.",
+      "claimAr": "يدّعي المتحدث أنه لا وجود لمفهوم الغلاف الجوي في القرآن، وأن القرآن يتصوّر السماء الأولى سقفًا ماديًا بناه الله ورفعه ويمسكه أن يقع علينا، مستشهدًا بآية \"ويمسك السماء أن تقع على الأرض إلا بإذنه\".",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q22:65 and the verses on the sky as a preserved roof, together with their classical glosses."
+    },
+    {
+      "timestamp": "00:16:41",
+      "claimEn": "The speaker claims that the miracle preachers cherry-pick the verse 'and the heaven We built with power, and We are surely expanding it' as proof that the Qur'an announced the expansion of the universe.",
+      "claimAr": "يدّعي المتحدث أن دعاة الإعجاز ينتقون آية \"والسماء بنيناها بأيد وإنا لموسعون\" دليلًا على أن القرآن أخبر بتمدد الكون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q51:47 and the i'jaz literature that reads musi'un as cosmic expansion."
+    },
+    {
+      "timestamp": "00:16:41",
+      "claimEn": "The speaker claims that interpreting the Qur'an by the Qur'an refutes that reading, because musi'un means having capacity or undertaking the care of something, as in the verse on providing for divorced women according to the means of the well-off.",
+      "claimAr": "يدّعي المتحدث أن تفسير القرآن بالقرآن يبطل هذا التأويل، لأن \"موسعون\" تعني القدرة أو التكفل بالشيء، كما في آية متعة المطلقات \"على الموسع قدره\".",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-cosmological-vocabulary",
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q2:236 and the lexical range of the root w-s-' in the classical dictionaries and in tafsir of Q51:47."
+    },
+    {
+      "timestamp": "00:17:23",
+      "claimEn": "The speaker claims that even granting the expansion reading, the phrase 'We are surely expanding it' is not enough to state the theory, and that as a scientific theory cosmic expansion is the best current human explanation rather than a settled fact, so tying the Qur'an to it is unwise.",
+      "claimAr": "يدّعي المتحدث أنه حتى لو سُلّم بتأويل التمدد فإن عبارة \"وإنا لموسعون\" لا تكفي لشرح النظرية، وأن تمدد الكون كنظرية علمية هو أفضل تفسير بشري متاح حاليًا لا حقيقة ثابتة، فربط القرآن به غير حكيم.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Methodological argument; check the standard definition of scientific theory the speaker relies on."
+    },
+    {
+      "timestamp": "00:18:05",
+      "claimEn": "The speaker claims the apologists are inconsistent: theories that do not fit their book they dismiss as mere opinions and not facts, while theories they think fit it they treat as established scientific facts.",
+      "claimAr": "يدّعي المتحدث أن الدعاة غير متسقين: فالنظريات التي لا تتماشى مع كتابهم يسمّونها آراء غير ثابتة وليست حقائق، أما النظريات التي يظنونها موافقة لكتابهم فيعدّونها حقائق علمية ثابتة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check i'jaz treatments of evolution versus the Big Bang for the asymmetry the speaker describes."
+    },
+    {
+      "timestamp": "00:19:05",
+      "claimEn": "The speaker claims that the verses on creation give four days to the earth and its provisions and only two days to the seven heavens, out of six days in total, which shows the author had no idea of the size of the universe relative to the earth.",
+      "claimAr": "يدّعي المتحدث أن آيات الخلق تجعل للأرض وتقدير أقواتها أربعة أيام وللسماوات السبع يومين فقط من ستة أيام، مما يدل على أن الكاتب لم يكن لديه أي فكرة عن حجم الكون قياسًا بالأرض.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q41:9-12 for the day counts and the classical discussions of how the four and two days are reconciled with the six days elsewhere."
+    },
+    {
+      "timestamp": "00:19:50",
+      "claimEn": "The speaker claims the preachers' reinterpretation that 'He turned to the heaven while it was smoke' means space already existed fails, because the verse continues 'so He completed them as seven heavens in two days' rather than six, so the first heaven cannot be identified with pre-existing space.",
+      "claimAr": "يدّعي المتحدث أن تأويل الدعاة لقوله \"ثم استوى إلى السماء وهي دخان\" بأن السماء كانت موجودة يسقط، لأن الآية تكمل \"فقضاهن سبع سماوات في يومين\" لا ست، فلا يمكن جعل السماء الأولى هي الفضاء الموجود سلفًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion",
+        "quran-lexical-and-interpretive-questions-cosmological-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording and count in Q41:11-12 and how tafsir handles the smoke and the seven completed heavens."
+    },
+    {
+      "timestamp": "00:20:34",
+      "claimEn": "The speaker claims that even if it were granted that the Qur'an contains no scientific error and genuinely contains recently discovered knowledge, that would show only one thing — that an old book contains information that should not have been available at the time — and nothing further can be inferred from it.",
+      "claimAr": "يدّعي المتحدث أنه حتى لو سُلّم بأن القرآن خالٍ من أي خطأ علمي وأنه يحوي فعلًا إعجازات اكتُشفت حديثًا، فإن ذلك لا يدل إلا على شيء واحد: أن لدينا كتابًا قديمًا فيه معلومات ما كان يجب أن تكون متاحة في ذلك الوقت، ولا يمكن استخراج أي استنتاج آخر منه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the epistemological argument on its own terms; no source check required beyond stating it accurately."
+    },
+    {
+      "timestamp": "00:20:34",
+      "claimEn": "The speaker claims that the assertion that such a book came from the creator of the universe requires external evidence unconnected to the book's contents, giving the analogy of a five-thousand-year-old book whose contents matched modern science but which also claimed to come from aliens or a winged blue dragon.",
+      "claimAr": "يدّعي المتحدث أن ادعاء أن هذا الكتاب أتى من عند خالق الكون يتطلب أدلة خارجية لا علاقة لها بما هو مكتوب فيه، ويضرب مثلًا بكتاب عمره خمسة آلاف سنة تتماشى معلوماته مع العلم الحديث لكنه يدّعي أنه أتى من مخلوقات فضائية أو من التنين الأزرق المجنح.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Record as the speaker's epistemological criterion; no primary source involved."
+    },
+    {
+      "timestamp": "00:21:13",
+      "claimEn": "The speaker claims the whole miracle argument rests on a non-sequitur: from 'the book contains scientific information' and 'the book claims to come from the creator of the universe' it is inferred that the creator exists, which he says is an invalid conclusion.",
+      "claimAr": "يدّعي المتحدث أن حجة الإعجاز كلها مبنية على مغالطة الاستنتاج الزائد: فمن كون الكتاب يحوي معلومات علمية ومن ادعائه أنه من عند خالق الكون يُستنتج أن خالق الكون موجود، وهو استنتاج زائف غير صحيح.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Logical claim; check the structure of the i'jaz inference as commonly presented."
+    },
+    {
+      "timestamp": "00:21:13",
+      "claimEn": "The speaker claims that the i'jaz preachers themselves caused people to go through the verses, read them and arrange them, and so to discover a God who does not know how the human body works, how animals' bodies work, or the shape of the earth and the sky.",
+      "claimAr": "يدّعي المتحدث أن دعاة الإعجاز أنفسهم هم سبب أن الناس صارت تدور بهذه الآيات وتقرأها وترتبها، فاكتشفوا إلهًا لا يعرف كيف يعمل الجسم البشري ولا أجسام الحيوانات ولا شكل الأرض ولا شكل السماء.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Summary inference of the episode; check that each underlying textual claim has been verified before this conclusion is used."
+    },
+    {
+      "timestamp": "00:21:49",
+      "claimEn": "The speaker claims the preachers awakened people to the fact that there are things in the Qur'an that can be checked scientifically and that fail when they are checked.",
+      "claimAr": "يدّعي المتحدث أن الدعاة نبّهوا الناس إلى أن في القرآن أشياء يمكن التأكد منها بطريقة علمية، وأنها تفشل عندما نتأكد منها بطريقة علمية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Restates the episode's thesis; verify against the individual claims recorded above."
+    },
+    {
+      "timestamp": "00:21:49",
+      "claimEn": "The speaker claims the apologists lied in telling people that if something in the Qur'an is not understood or found to be wrong the problem lies with the reader and not the text, and that criticism first requires reading thousands of volumes written by human hands in order to understand what the Qur'an itself calls clear speech in which there is no doubt.",
+      "claimAr": "يدّعي المتحدث أن الدعاة كذبوا حين قالوا إننا إن لم نفهم شيئًا في القرآن أو وجدنا فيه خطأً فالمشكلة منّا لا من القرآن، وإن أردنا نقد ما نراه خطأً فعلينا قراءة آلاف المجلدات المكتوبة بأيدي البشر لنفهم كلام الله الواضح الذي لا ريب فيه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the Qur'anic self-descriptions of clarity (lisan arabi mubin, la rayba fih) against the apologetic requirement of specialist tafsir for lay readers."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:59",
+      "asStatedInVideo": "الآية التي تقول: فلينظر الإنسان مِمَّ خُلق، خُلق من ماء دافق يخرج من بين الصلب والترائب — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "خلق من ماء دافق يخرج من بين الصلب والترائب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:06",
+      "asStatedInVideo": "الآية اللي بتقول ... أمشاج، يعني ممزوجة — يشير إلى وصف النطفة بالأمشاج دون ذكر موضعها",
+      "quotedArabic": "أمشاج",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:02:47",
+      "asStatedInVideo": "الرسول لما سُئل عن هذا الموضوع شرح لنا بالحديث الصحيح اللي بيقول: ماء الرجل أبيض وماء المرأة أصفر، فإذا اجتمعا فعلا مني الرجل مني المرأة أذكرا بإذن الله، وإذا علا مني المرأة مني الرجل آنثا بإذن الله",
+      "workTitle": "حديث وُصف بأنه صحيح دون تسمية المجموعة",
+      "quotedArabic": "ماء الرجل أبيض وماء المرأة أصفر، فإذا اجتمعا فعلا مني الرجل مني المرأة أذكرا بإذن الله، وإذا علا مني المرأة مني الرجل آنثا بإذن الله",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:03:47",
+      "asStatedInVideo": "وبحديث آخر بيقول: يدخل الملك على النطفة بعدما تستقر في الرحم بأربعين ليلة، والملك بيسأل الله إن كان الجنين شقيًا أم سعيدًا أو ذكرًا أو أنثى",
+      "workTitle": "حديث دون تسمية المجموعة",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:49",
+      "asStatedInVideo": "الآية اللي بتبلش بالنطفة الأمشاج: ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظامًا فكسونا العظام لحمًا ثم أنشأناه خلقًا آخر — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظامًا فكسونا العظام لحمًا ثم أنشأناه خلقًا آخر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:49",
+      "asStatedInVideo": "الآية نفسها اللي شهد عليها كيث مور رحمه الله",
+      "author": "كيث مور / Keith Moore",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:47",
+      "asStatedInVideo": "محمد كمان أخطأ بموضوع تحديد جنس الجنين",
+      "author": "محمد",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:29",
+      "asStatedInVideo": "بنقرأ بسفر أيوب 10 13 8 الآية اللي بتقول: اذكر أنك جبلتني كالطين، أفتعيدني إلى التراب، ألم تصبّني كالجبن ... ونسجتني بعظام وعصب",
+      "workTitle": "سفر أيوب (العهد القديم)",
+      "locator": "أصحاح 10، الأعداد كما نُطقت: 10 / 13 / 8",
+      "quotedArabic": "أذكر أنك جبلتني كالطين، أفتعيدني للتراب، ألم تصبّني كالجبن ... فنسجتني بعظام وعصب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:29",
+      "asStatedInVideo": "وكلام الإنجيل اللي هو قبل القرآن كمان منلاقيه مأخوذ من كتب يونانية علمية قديمة — دون تسمية أي كتاب",
+      "workTitle": "كتب يونانية علمية قديمة (غير مسمّاة)",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:07",
+      "asStatedInVideo": "مثل الآية بتقول: أولم ير الذين كفروا أن السماوات والأرض كانتا رتقًا — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "أفلم يرَ الذين كفروا أن السماوات والأرض كانتا رتقًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:32",
+      "asStatedInVideo": "آية الأنعام: نسقيكم مما في بطونه من بين فرث ودم لبنًا خالصًا سائغًا للشاربين — يعرضها بالشرح دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "من بين الفرث والدم ... سائغًا للشاربين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:07:59",
+      "asStatedInVideo": "الآيات بتقول: هو الذي مدّ الأرض وجعل فيها رواسيَ وأنهارًا — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "هو الذي مد الأرض وجعل فيها رواسيَ وأنهارًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:00",
+      "asStatedInVideo": "آية أخرى: والله جعل لكم الأرض بساطًا — تفسيرها بسطها ومدّها؛ دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "جعل لكم الأرض بساطًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:10",
+      "asStatedInVideo": "آية ثانية: الذي جعل لكم الأرض فراشًا — كمان تفسيرها مدّها كالفراش؛ دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "جعل لكم الأرض فراشًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:38",
+      "asStatedInVideo": "الآية عن ثبات الأرض بتقول: أمّن جعل الأرض قرارًا — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "أمّن جعل الأرض قرارًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:18",
+      "asStatedInVideo": "الآية بتقول: أفلا ينظرون إلى الإبل كيف خُلقت وإلى السماء كيف رُفعت وإلى الجبال كيف نُصبت وإلى الأرض كيف سُطحت — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "أفلا ينظرون إلى الإبل كيف خلقت والسماء كيف رفعت وإلى الجبال كيف نصبت ... وإلى الأرض كيف سطحت",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:30",
+      "asStatedInVideo": "آية ثانية: وجعلنا في الأرض رواسيَ أن تميد بهم — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "وجعلنا في الأرض رواسيَ أن تميد بهم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:45",
+      "asStatedInVideo": "آية ثانية: وألقى في الأرض رواسيَ أن تميد بكم وأنهارًا وسبلًا لعلكم تهتدون — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "وألقى في الأرض رواسيَ أن تميد بكم وأنهارًا وسبلًا لعلكم تهتدون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:31",
+      "asStatedInVideo": "الآية اللي فيها كلمة يكوّر، يستخدمها دعاة الإعجاز دليلًا على كروية الأرض — لم تُتلَ كاملة ولم يُذكر رقمها",
+      "quotedArabic": "يكوّر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:01",
+      "asStatedInVideo": "آية يغشي الليل النهار يطلبه حثيثًا، وكل منهما يطلب الآخر طلبًا حثيثًا — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "يطلبه طلبًا حثيثًا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "وتفسير هاي الآية حسب مجاهد — التفسير نفسه غير محفوظ في النص المفرَّغ",
+      "author": "مجاهد",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:44",
+      "asStatedInVideo": "والآية الأخيرة بتوثق هذا الكلام: والشمس تجري لمستقر لها ذلك تقدير العزيز العليم — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "والشمس تجري لمستقر لها ذلك تقدير العزيز العليم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:12:00",
+      "asStatedInVideo": "الرسول نفسه بيرد عليهم: آية والشمس تجري لمستقر لها تعني أن الشمس بتروح تحت عرش الرحمن يوميًا، وبصير حوار بينها وبين الله، تستأذن وتروح وتجي، وآخر شيء بأمره أنها ترجع تطلع",
+      "workTitle": "حديث دون تسمية المجموعة",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:08",
+      "asStatedInVideo": "وبيقول: فبأي آلاء ربكما تكذبان، رب المشرقين ورب المغربين — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "فبأي آلاء ربكما تكذبان، رب المشرقين ورب المغربين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:20",
+      "asStatedInVideo": "وبآية تانية: فإن الله يأتي بالشمس من المشرق فأتِ بها من المغرب فبُهت الذي كفر — هذا تحدي إبراهيم مع النمرود؛ دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "وإن الله يأتي بالشمس من المشرق فأتِ بها من المغرب فبُهت الذي كفر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:20",
+      "asStatedInVideo": "هذا تحدي إبراهيم مع النمرود",
+      "author": "إبراهيم والنمرود",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:32",
+      "asStatedInVideo": "القرآن نفسه بيرد عليهم بهذا الكلام — آية عن السماء الدنيا وزينتها بالمصابيح وجعلها رجومًا للشياطين؛ نص الآية غير محفوظ في التفريغ ولم يُذكر رقمها",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:41",
+      "asStatedInVideo": "وفي آية تانية: ويمسك السماء أن تقع على الأرض إلا بإذنه — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "ويمسك السماء أن تقع على الأرض إلا بإذنه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:41",
+      "asStatedInVideo": "الآية اللي بتقول: والسماء بنيناها بأيدٍ وإنا لموسعون — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "والسماء بنيناها بأيدٍ وإنا لموسعون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:23",
+      "asStatedInVideo": "الآية اللي بتتكلم عن أحكام الطلاق من النساء التي لم تُمَسّ: ومتّعوهنّ على الموسع قدرُه — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "ومتّعوهنّ على الموسع قدرُه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:05",
+      "asStatedInVideo": "الآية بتقول: خلق الأرض وقدّر أقواتها في أربعة أيام، ثم استوى إلى السماء وهي دخان، فقضاهنّ سبع سماوات في يومين — دون ذكر رقم السورة أو الآية",
+      "quotedArabic": "ثم استوى إلى السماء وكانت دخان، فقضاهنّ سبع سماوات في يومين",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-scientific-claims-flat-and-stationary-earth",
+      "titleEn": "A flat and stationary earth and the motion of the sun",
+      "titleAr": "الأرض المسطحة الثابتة وحركة الشمس",
+      "descriptionEn": "Claims that the Qur'an and hadith describe the earth as spread out, edged and motionless, held in place by the mountains as pegs, with the sun and moon moving around it to produce night and day, the sun descending beneath the Throne at sunset, and the Lord of the two easts and two wests; together with the appearance-only and spherical-earth readings offered in response.",
+      "descriptionAr": "دعاوى أن القرآن والحديث يصفان الأرض بأنها ممدودة ذات أطراف ثابتة لا تتحرك، تثبّتها الجبال كالأوتاد، وأن الشمس والقمر يدوران حولها لتكوين الليل والنهار، وأن الشمس تستقر تحت العرش عند الغروب، وأن الله رب المشرقين والمغربين؛ مع التأويلات المقدّمة بأنها وصف للمظهر أو دليل على الكروية.",
+      "suggestedParentId": "quran-scientific-claims-earth-and-natural-phenomena",
+      "closestExistingId": "quran-scientific-claims-earth-and-natural-phenomena",
+      "rationale": "The existing earth-sciences topic is framed around mountains, iron, water and the origin of life, and the cosmology topic is framed around creation, the heavens and meteors. Neither holds the flat-and-stationary-earth cluster, which occupies roughly a third of this episode and recurs across the genre in verses on madd, bisat, firash, qarar, awtad, yukawwir and tajri li-mustaqarr laha. It is a durable subject other videos will also fall under."
+    },
+    {
+      "proposedId": "quran-scientific-claims-animal-biology",
+      "titleEn": "Animal biology and livestock claims",
+      "titleAr": "بيولوجيا الحيوان ودعاوى الأنعام",
+      "descriptionEn": "Claims about Qur'anic and hadith statements on animals — the production of milk in the bellies of cattle from between dung and blood and its description as palatable to all drinkers, and comparable statements about the bodies and behaviour of animals — assessed against zoology and physiology.",
+      "descriptionAr": "دعاوى تتعلق بما ورد في القرآن والحديث عن الحيوان — تكوّن اللبن في بطون الأنعام من بين فرث ودم ووصفه بأنه سائغ للشاربين، وما يشبهه من أقوال عن أجسام الحيوانات وسلوكها — مقيسة على علم الحيوان وعلم وظائف الأعضاء.",
+      "suggestedParentId": "quran-scientific-claims",
+      "closestExistingId": "quran-scientific-claims-earth-and-natural-phenomena",
+      "rationale": "The scientific-claims children cover cosmology, earth sciences, embryology, the body of Pharaoh and method, with nothing for statements about animals; the milk verse and its two distinct problems have no home except the hadith natural-world topic, which is the wrong layer. Animal and livestock claims (milk, the bee, camels) recur widely in this genre, so this is durable rather than one-off."
+    }
+  ]
+}

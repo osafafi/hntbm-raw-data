@@ -1,0 +1,954 @@
+{
+  "schemaVersion": 1,
+  "videoId": "nLnyiej3X5Q",
+  "videoUrl": "https://www.youtube.com/watch?v=nLnyiej3X5Q",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 11 - الجنس في الإسلام",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200722",
+  "extractedAt": "2026-08-17T08:43:26+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that Islamic sexual law reflects the interests and moral assumptions of its historical human environment rather than a perfect divine source. He contrasts severe punishments for consensual extramarital sex with Qur'anic and hadith-based permission for concubinage, intercourse with female captives, child marriage, and the temporary permission of mut'a. He also presents the alleged loss of the stoning verse as evidence of textual alteration and concludes that changing or inconsistent rulings disclose human authorship.",
+  "summaryAr": "يجادل المتحدث بأن التشريع الجنسي الإسلامي يعكس مصالح وافتراضات أخلاقية بشرية مرتبطة ببيئته التاريخية، لا مصدراً إلهياً كاملاً. ويقارن بين العقوبات القاسية على العلاقة الجنسية الرضائية خارج الزواج وبين إباحة التسري والجماع مع السبايا وزواج الصغيرات والإباحة المؤقتة للمتعة في القرآن والحديث. كما يعرض رواية ضياع آية الرجم بوصفها دليلاً على تغير النص، وينتهي إلى أن تبدل الأحكام وتناقضها يكشفان عن تأليف بشري.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "He opens by challenging the claim that believers possess a uniquely superior religious morality.",
+      "stepAr": "يفتتح بتحدي الادعاء بأن المؤمنين يمتلكون أخلاقاً دينية متفوقة بصورة فريدة."
+    },
+    {
+      "timestamp": "00:00:41",
+      "stepEn": "He introduces the prohibition of zina and its worldly and otherworldly punishments.",
+      "stepAr": "يعرض تحريم الزنا وما يرتبط به من عقوبات دنيوية وأخروية."
+    },
+    {
+      "timestamp": "00:01:15",
+      "stepEn": "He invokes the alleged missing stoning verse to connect sexual law with loss or alteration of Qur'anic material.",
+      "stepAr": "يستدعي رواية آية الرجم المفقودة ليربط التشريع الجنسي بضياع مادة قرآنية أو تغيرها."
+    },
+    {
+      "timestamp": "00:02:33",
+      "stepEn": "He contrasts the prohibition of consensual extramarital sex with permission for sex with those whom the right hand possesses.",
+      "stepAr": "يقارن تحريم الجنس الرضائي خارج الزواج بإباحة الجنس مع ما ملكت اليمين."
+    },
+    {
+      "timestamp": "00:03:24",
+      "stepEn": "He argues that concubinage was unlimited and distinct from marriage.",
+      "stepAr": "يجادل بأن التسري لم يكن محدود العدد وكان مختلفاً عن الزواج."
+    },
+    {
+      "timestamp": "00:04:28",
+      "stepEn": "He uses Qur'anic wording and reports about Muhammad's household to reinforce the distinction between wives and concubines.",
+      "stepAr": "يستخدم ألفاظ القرآن وروايات بيت محمد لتأكيد التمييز بين الزوجات والسراري."
+    },
+    {
+      "timestamp": "00:06:00",
+      "stepEn": "He moves from concubinage generally to reports that Muhammad had sexual relations and a child through an unmarried concubine.",
+      "stepAr": "ينتقل من التسري عموماً إلى روايات تقول إن محمداً عاشر سرية من دون زواج وأنجب منها."
+    },
+    {
+      "timestamp": "00:06:47",
+      "stepEn": "He introduces the Qur'anic exception concerning married female captives.",
+      "stepAr": "يعرض الاستثناء القرآني المتعلق بالسبايا المتزوجات."
+    },
+    {
+      "timestamp": "00:07:26",
+      "stepEn": "He cites the report of the captives of Awtas as the occasion on which intercourse with married captives was authorized.",
+      "stepAr": "يستشهد برواية سبايا أوطاس بوصفها المناسبة التي أُبيح فيها جماع السبايا المتزوجات."
+    },
+    {
+      "timestamp": "00:08:16",
+      "stepEn": "He infers that the fighters' initial hesitation was morally superior to the ruling attributed to God.",
+      "stepAr": "يستنتج أن تردد المقاتلين الأولي كان أرفع أخلاقياً من الحكم المنسوب إلى الله."
+    },
+    {
+      "timestamp": "00:09:47",
+      "stepEn": "He argues that Islam retained wartime enslavement and sexual slavery while prohibiting consensual relationships.",
+      "stepAr": "يجادل بأن الإسلام أبقى الاسترقاق الحربي والعبودية الجنسية مع تحريم العلاقات الرضائية."
+    },
+    {
+      "timestamp": "00:10:32",
+      "stepEn": "He rejects gradualism as an explanation for the failure to abolish slavery.",
+      "stepAr": "يرفض التدرج تفسيراً لعدم إلغاء العبودية."
+    },
+    {
+      "timestamp": "00:12:02",
+      "stepEn": "He turns to the waiting-period verse and argues that it regulates divorce from premenstrual girls.",
+      "stepAr": "ينتقل إلى آية العدة ويجادل بأنها تنظم طلاق الصغيرات اللاتي لم يحضن."
+    },
+    {
+      "timestamp": "00:13:42",
+      "stepEn": "He combines the waiting-period argument with reports about Aisha and a permissive legal opinion on consummating child marriage.",
+      "stepAr": "يجمع بين حجة العدة وروايات عائشة وقول فقهي يجيز الدخول بالصغيرة."
+    },
+    {
+      "timestamp": "00:14:29",
+      "stepEn": "He frames child marriage as forcing a choice between divine ignorance and human moral superiority.",
+      "stepAr": "يعرض زواج الأطفال بوصفه فارضاً للاختيار بين جهل الإله وتفوق البشر أخلاقياً."
+    },
+    {
+      "timestamp": "00:15:14",
+      "stepEn": "He introduces mut'a as a paid sexual arrangement that was once permitted in early Islam.",
+      "stepAr": "يعرض المتعة بوصفها علاقة جنسية بمقابل كانت مباحة في الإسلام المبكر."
+    },
+    {
+      "timestamp": "00:16:01",
+      "stepEn": "He emphasizes reports of repeated permission and prohibition before a final ban.",
+      "stepAr": "يشدد على روايات تكرر الإباحة والتحريم قبل المنع النهائي."
+    },
+    {
+      "timestamp": "00:16:46",
+      "stepEn": "He interprets the reversal on mut'a as a supposedly omniscient deity changing his mind.",
+      "stepAr": "يفسر التراجع عن المتعة باعتباره تغيراً في رأي إله يُفترض أنه كلي المعرفة."
+    },
+    {
+      "timestamp": "00:17:32",
+      "stepEn": "He concludes that the texts were written by historically situated humans rather than by the creator of the universe.",
+      "stepAr": "يخلص إلى أن النصوص كتبها بشر مرتبطون بزمانهم، لا خالق الكون."
+    },
+    {
+      "timestamp": "00:18:19",
+      "stepEn": "He replaces fixed scriptural commands with an evolving, human-wellbeing-based account of morality.",
+      "stepAr": "يستبدل الأوامر النصية الثابتة بتصور متطور للأخلاق قائم على سعادة الإنسان."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:41",
+      "claimEn": "The speaker claims that the Qur'an classifies consensual sex outside marriage as an obscenity deserving punishment in this world and the hereafter.",
+      "claimAr": "يدعي المتحدث أن القرآن يصنف الجنس الرضائي خارج الزواج فاحشة تستوجب العقوبة في الدنيا والآخرة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the quoted prohibition of approaching zina, its immediate context, and the Qur'anic passages specifying worldly punishment; distinguish the verse's wording from the speaker's claims about punishment in the hereafter."
+    },
+    {
+      "timestamp": "00:00:41",
+      "claimEn": "The speaker claims that the Qur'an orders one hundred lashes for an unmarried person convicted of zina.",
+      "claimAr": "يدعي المتحدث أن القرآن يأمر بجلد غير المحصن المدان بالزنا مئة جلدة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "hadith-ethical-controversies-penalties-and-exercise-of-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Qur'anic verse prescribing one hundred lashes, including its Arabic wording, scope, and classical legal interpretation."
+    },
+    {
+      "timestamp": "00:01:15",
+      "claimEn": "The speaker claims that married offenders are sentenced in Islamic law to death by stoning.",
+      "claimAr": "يدعي المتحدث أن حكم الزاني المحصن في الشريعة الإسلامية هو القتل رجماً بالحجارة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-penalties-and-exercise-of-authority",
+        "hadith"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the hadith corpus and classical legal sources for the conditions, evidentiary requirements, and claimed continuing validity of stoning for married offenders."
+    },
+    {
+      "timestamp": "00:01:15",
+      "claimEn": "The speaker claims that stoning was originally stated in a Qur'anic verse but that the written material was eaten by Aisha's goat, leaving the rule in sound hadith rather than the present Qur'an.",
+      "claimAr": "يدعي المتحدث أن الرجم كان منصوصاً عليه في آية قرآنية، لكن عنزة عائشة أكلت الصحيفة، فبقي الحكم في الأحاديث الصحيحة ولم يبق في المصحف الحالي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report actually invoked by the speaker, verify whether it mentions a domestic animal, which written verses it concerns, its collection and grading, and whether the stoning-verse tradition is the same report or a separate tradition."
+    },
+    {
+      "timestamp": "00:01:15",
+      "claimEn": "The speaker claims that the continued legal force of stoning despite the verse's alleged disappearance shows that Islamic law preserves material absent from the present Qur'anic text.",
+      "claimAr": "يدعي المتحدث أن استمرار حكم الرجم رغم ضياع الآية المزعوم يدل على أن التشريع الإسلامي يحفظ مادة غائبة عن النص القرآني الحالي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the extant Qur'anic text, stoning hadiths, reports about an abrogated or missing stoning verse, and classical theories of abrogation of recitation while retaining a ruling."
+    },
+    {
+      "timestamp": "00:02:33",
+      "claimEn": "The speaker claims that the Qur'an permits believers to have sex not only with spouses but also with women whom their right hands possess.",
+      "claimAr": "يدعي المتحدث أن القرآن يبيح للمؤمنين الجنس لا مع الزوجات فقط، بل أيضاً مع النساء اللاتي ملكت أيمانهم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check every Qur'anic occurrence of the quoted wives-or-right-hand-possessions formula and the range of classical interpretations of sexual access in those passages."
+    },
+    {
+      "timestamp": "00:02:33",
+      "claimEn": "The speaker defines a surriyya as an enslaved woman whom her male owner designates for sexual use.",
+      "claimAr": "يعرّف المتحدث السرية بأنها أمة مملوكة يتخذها سيدها للاستمتاع الجنسي.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime",
+        "quran-lexical-and-interpretive-questions-marriage-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check classical Arabic dictionaries and legal works for the meanings and legal distinctions among ama, surriyya, tasarri, and milk al-yamin."
+    },
+    {
+      "timestamp": "00:03:24",
+      "claimEn": "The speaker claims that Islam sets no numerical limit on the number of female slaves with whom a man may have sexual relations.",
+      "claimAr": "يدعي المتحدث أن الإسلام لا يضع حداً عددياً لملك اليمين اللاتي يجوز للرجل معاشرتهن جنسياً.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Qur'anic passages and classical jurisprudence for whether concubines were numerically limited and for any relevant ownership or sexual-access restrictions."
+    },
+    {
+      "timestamp": "00:03:24",
+      "claimEn": "The speaker claims that intercourse with a woman possessed as a slave is outside marriage and that an owner cannot simultaneously treat the same woman as both his wife and his possession.",
+      "claimAr": "يدعي المتحدث أن جماع المرأة المملوكة يقع خارج الزواج، وأن الرجل لا يعامل المرأة نفسها في الوقت ذاته زوجة وملك يمين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-marriage-contracts-and-forms",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the quoted verse concerning marriage to believing slave women and classical law on marrying one's own slave, including whether emancipation was required before such a marriage."
+    },
+    {
+      "timestamp": "00:04:28",
+      "claimEn": "The speaker claims that the Qur'an's repeated grammatical distinction between wives and right-hand possessions refutes attempts to interpret right-hand possessions as wives or civil-marriage partners.",
+      "claimAr": "يدعي المتحدث أن تكرار التمييز القرآني بين الأزواج وما ملكت اليمين ينقض محاولة تفسير ملك اليمين بأنهن زوجات أو شريكات في زواج مدني.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-marriage-vocabulary",
+        "quran-women-and-marriage-rules",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the syntax and classical exegesis of all verses juxtaposing azwaj and ma malakat ayman, and review the modern interpretation the speaker is rebutting."
+    },
+    {
+      "timestamp": "00:04:28",
+      "claimEn": "The speaker claims that the verse addressing Muhammad separately permits his dowered wives and enslaved women granted to him as war booty.",
+      "claimAr": "يدعي المتحدث أن الآية المخاطبة لمحمد تبيح له بصورة منفصلة زوجاته اللاتي دفع مهورهن وما ملكت يمينه مما أفاء الله عليه من السبي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "sirah-family-and-household-traditions",
+        "women-captivity-and-wartime"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the complete verse, the meanings of ujur and afa'a Allahu alayk, and classical exegesis concerning the categories of women permitted specifically to Muhammad."
+    },
+    {
+      "timestamp": "00:05:12",
+      "claimEn": "The speaker claims that Safiyya and Juwayriya were first acquired as captives, then emancipated and married by Muhammad.",
+      "claimAr": "يدعي المتحدث أن صفية وجويرية وقعتا أولاً في السبي، ثم أعتقهما محمد وتزوجهما.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "women-captivity-and-wartime",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the earliest sirah, hadith, and biographical reports for the capture, emancipation, dower, and marriage status of Safiyya bint Huyayy and Juwayriya bint al-Harith."
+    },
+    {
+      "timestamp": "00:05:12",
+      "claimEn": "The speaker claims that Rayhana and Maria the Copt remained Muhammad's concubines and that he had sexual relations with them without marriage.",
+      "claimAr": "يدعي المتحدث أن ريحانة وماريا القبطية بقيتا من سراري محمد، وأنه عاشرهما جنسياً من دون زواج.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "slavery",
+        "women-captivity-and-wartime"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the variant early reports about Rayhana and Maria, especially whether either was emancipated or married and how their legal status is described."
+    },
+    {
+      "timestamp": "00:06:00",
+      "claimEn": "The speaker claims that Maria bore Muhammad's son Ibrahim while remaining an unmarried concubine.",
+      "claimAr": "يدعي المتحدث أن ماريا أنجبت لمحمد ابنه إبراهيم وهي سرية غير متزوجة منه.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check early biographical and hadith reports concerning Ibrahim's maternity and Maria's legal status at his birth."
+    },
+    {
+      "timestamp": "00:06:47",
+      "claimEn": "The speaker claims that the Qur'anic prohibition on sexual access to married women contains an exception for women captured and possessed in war.",
+      "claimAr": "يدعي المتحدث أن التحريم القرآني للمتزوجات يستثني النساء اللاتي يُسبين في الحرب ويصبحن ملك يمين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-captivity-and-wartime",
+        "slavery",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the complete passage containing 'except those whom your right hands possess' and classical interpretations of whether captivity dissolved an existing non-Muslim marriage."
+    },
+    {
+      "timestamp": "00:07:26",
+      "claimEn": "The speaker claims that after the battle associated with Awtas, Muslim fighters hesitated to have intercourse with married female captives until Muhammad was asked and the Qur'anic exception was revealed.",
+      "claimAr": "يدعي المتحدث أن المقاتلين المسلمين بعد واقعة أوطاس تحرجوا من جماع السبايا المتزوجات، فسألوا محمداً فنزل الاستثناء القرآني الذي أباحهن لهم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-captivity-and-wartime",
+        "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation",
+        "hadith-ethical-controversies-paradise-rewards-and-fighter-motivation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Awtas captive report, identify its collection, chain, wording, and grading, and compare versions concerning Hunayn, Awtas, the women's husbands, and the revelation of the verse."
+    },
+    {
+      "timestamp": "00:08:16",
+      "claimEn": "The speaker concludes that the fighters' initial reluctance to have intercourse with married captives displayed a higher moral awareness than the ruling attributed to the Qur'an's God.",
+      "claimAr": "يستنتج المتحدث أن تردد المقاتلين في جماع السبايا المتزوجات أظهر وعياً أخلاقياً أعلى من الحكم المنسوب إلى إله القرآن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women-captivity-and-wartime",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the inference against the exact wording and historical context of the Awtas report and the relevant legal interpretations; the moral comparison itself is evaluative."
+    },
+    {
+      "timestamp": "00:08:16",
+      "claimEn": "The speaker concludes that a text privileging ownership and captivity over mutual love and consent reflects the ethics of its human historical author rather than a perfect deity.",
+      "claimAr": "يستنتج المتحدث أن النص الذي يفضل الملك والسبي على الحب والرضا المتبادل يعكس أخلاق مؤلفه البشري التاريخي لا أخلاق إله كامل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-women-and-marriage-rules",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the underlying textual contrast and then evaluate whether the authorship conclusion follows; separate textual description from the speaker's moral and theological inference."
+    },
+    {
+      "timestamp": "00:09:47",
+      "claimEn": "The speaker claims that Islam abolished some pre-existing routes into slavery but deliberately retained enslavement through Muslim warfare, including the sexual enslavement of women.",
+      "claimAr": "يدعي المتحدث أن الإسلام ألغى بعض طرق الاسترقاق السابقة، لكنه أبقى عمداً السبي الناتج عن حروب المسلمين، بما فيه الاستعباد الجنسي للنساء.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime",
+        "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare pre-Islamic and classical Islamic routes into slavery across Qur'an, hadith, jurisprudence, and historical practice, including warfare, birth, purchase, debt, and kidnapping."
+    },
+    {
+      "timestamp": "00:10:32",
+      "claimEn": "The speaker claims that Islam never completed a gradual abolition of slavery and left wartime enslavement legally available into the present.",
+      "claimAr": "يدعي المتحدث أن الإسلام لم يُتم أي إلغاء تدريجي للعبودية، بل أبقى السبي الحربي جائزاً من حيث الحكم إلى الوقت الحاضر.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether foundational sources contain a categorical endpoint abolishing slavery and distinguish classical legal permissibility from abolition by modern state law and international agreements."
+    },
+    {
+      "timestamp": "00:10:32",
+      "claimEn": "The speaker argues that the gradualism defense is inconsistent because Islam allegedly prohibited pork, adoption, and incest immediately while failing to prohibit slavery immediately or eventually.",
+      "claimAr": "يجادل المتحدث بأن حجة التدرج غير متسقة، لأن الإسلام حرم لحم الخنزير والتبني وزواج المحارم فوراً، لكنه لم يحرم العبودية فوراً ولا لاحقاً.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "slavery",
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the chronology and scope of each cited prohibition and compare them with emancipation and slavery provisions before evaluating the consistency of the gradualism argument."
+    },
+    {
+      "timestamp": "00:12:02",
+      "claimEn": "The speaker claims that the Qur'an gives a three-month post-divorce waiting period to girls who have not yet menstruated, thereby regulating rather than prohibiting their marriages.",
+      "claimAr": "يدعي المتحدث أن القرآن يحدد عدة ثلاثة أشهر للمطلقات اللاتي لم يحضن بعد، وبذلك ينظم زواج الصغيرات بدلاً من تحريمه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [
+        "women-child-marriage-and-consummation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the verse's wording, occasion and context, and survey classical interpretations of 'those who have not menstruated,' including whether it necessarily denotes prepubescent girls."
+    },
+    {
+      "timestamp": "00:12:57",
+      "claimEn": "The speaker claims that assigning a waiting period to girls who have not menstruated implies that their marriages could already have been consummated.",
+      "claimAr": "يدعي المتحدث أن جعل عدة للاتي لم يحضن يعني أن زواجهن كان يمكن أن يكون قد دُخل به ومورست فيه العلاقة الجنسية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [
+        "women-child-marriage-and-consummation"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check Qur'anic rules on waiting periods before and after consummation and classical jurisprudence concerning whether the cited waiting period presupposes intercourse."
+    },
+    {
+      "timestamp": "00:13:42",
+      "claimEn": "The speaker claims that Muhammad contracted marriage with Aisha when she was six and consummated it when she was nine.",
+      "claimAr": "يدعي المتحدث أن محمداً عقد على عائشة وهي بنت ست سنوات وبنى بها وهي بنت تسع سنوات.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "hadith-ethical-controversies-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [
+        "women-child-marriage-and-consummation"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith versions reporting Aisha's ages, identify their collections and chains, and compare them with alternative chronological reconstructions."
+    },
+    {
+      "timestamp": "00:13:42",
+      "claimEn": "The speaker cites a legal position that permits contracting marriage with a minor and consummating it whenever she is judged physically capable, without requiring the modern age of eighteen.",
+      "claimAr": "ينقل المتحدث قولاً فقهياً يجيز العقد على الصغيرة والدخول بها متى عُدّت قادرة جسدياً، من دون اشتراط بلوغ سن الثامنة عشرة الحديثة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marriage-contracts-and-forms",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [
+        "women-child-marriage-and-consummation"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the unnamed speaker or fatwa quoted in the video and check its exact legal basis, institutional context, and criteria for physical capacity."
+    },
+    {
+      "timestamp": "00:14:29",
+      "claimEn": "The speaker concludes that the child-marriage material implies either that the Qur'an's deity did not know its harms or that human moral knowledge has surpassed that deity's legislation.",
+      "claimAr": "يستنتج المتحدث أن مادة زواج الأطفال تعني إما أن إله القرآن لم يكن يعلم أضراره، أو أن المعرفة الأخلاقية البشرية تجاوزت تشريعه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [
+        "women-child-marriage-and-consummation"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the textual and historical premises about child marriage and examine whether the speaker's proposed dilemma exhausts the available theological interpretations."
+    },
+    {
+      "timestamp": "00:15:14",
+      "claimEn": "The speaker claims that temporary marriage, characterized by him as payment in exchange for sex, was permitted during the beginning of Islam.",
+      "claimAr": "يدعي المتحدث أن زواج المتعة، الذي يصفه بأنه دفع مال مقابل الجنس، كان مباحاً في بداية الإسلام.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marriage-contracts-and-forms",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Qur'anic exegesis, hadith reports, and Sunni and Shi'i jurisprudence concerning the early permissibility, contractual form, compensation, and later status of mut'a."
+    },
+    {
+      "timestamp": "00:15:14",
+      "claimEn": "The speaker says that the quoted Qur'anic phrase about enjoyment and payment is generally read as referring to dowry, while its general wording was also used by some interpreters as evidence for mut'a.",
+      "claimAr": "يقول المتحدث إن العبارة القرآنية المقتبسة عن الاستمتاع وإيتاء الأجور تُقرأ عموماً في المهر، مع أن بعض المفسرين استدلوا بعمومها على نكاح المتعة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marriage-contracts-and-forms",
+        "quran-lexical-and-interpretive-questions-marriage-vocabulary",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the full verse and major classical commentaries for the meaning of istamta'tum and ujur, and verify which interpreters used the verse for mut'a."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims that early Islamic permission for mut'a was abrogated, with scholars disagreeing over whether it was permitted and prohibited once, twice, or more often.",
+      "claimAr": "يدعي المتحدث أن إباحة المتعة في الإسلام المبكر نُسخت، وأن العلماء اختلفوا هل أُبيحت وحُرمت مرة أو مرتين أو أكثر.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the unnamed exegetical passage quoted, verify its attribution to al-Shafi'i and other scholars, and compare the chronological hadith reports about permission and prohibition."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims that a report in Sahih Muslim presents Muhammad as announcing that God had prohibited mut'a until the Day of Resurrection after it had previously been authorized.",
+      "claimAr": "يدعي المتحدث أن رواية في صحيح مسلم تعرض محمداً وهو يعلن أن الله حرم المتعة إلى يوم القيامة بعد أن كان قد أذن بها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the quoted Sahih Muslim report, verify its complete text, narrator, context, and hadith numbering across editions, and compare it with reports assigning prohibition to other occasions."
+    },
+    {
+      "timestamp": "00:16:46",
+      "claimEn": "The speaker interprets the sequence of permission and prohibition of mut'a as an omniscient deity first approving paid sex and then changing his mind.",
+      "claimAr": "يفسر المتحدث تسلسل إباحة المتعة ثم تحريمها بأن إلهاً كلي المعرفة وافق أولاً على الجنس بمقابل ثم غير رأيه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the source chronology and classical doctrines of abrogation and changing circumstances before assessing the speaker's claim that the sequence entails a change in divine knowledge or judgment."
+    },
+    {
+      "timestamp": "00:17:32",
+      "claimEn": "The speaker concludes that the sexual-law texts do not come from the creator of the universe but were plainly written by ignorant and brutal humans living in the Arabian environment about fifteen centuries ago.",
+      "claimAr": "يخلص المتحدث إلى أن نصوص الأحكام الجنسية لا تأتي من خالق الكون، بل كتبها بوضوح بشر جهلة وهمجيون عاشوا في البيئة العربية قبل نحو ألف وخمسمئة سنة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate this conclusion only after separately checking each underlying claim concerning zina, slavery, captives, child marriage, and mut'a; the attribution of authorship is an inference rather than direct source testimony."
+    },
+    {
+      "timestamp": "00:17:32",
+      "claimEn": "The speaker claims that modern Muslim apologists preserve obsolete human rules by reinterpretation and rationalization.",
+      "claimAr": "يدعي المتحدث أن المرقعين المسلمين المعاصرين يحافظون على قواعد بشرية متقادمة بإعادة التفسير والتبرير.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-preaching-glosses",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify representative apologetic treatments of the specific sexual-law passages discussed and compare their arguments with classical exegesis rather than treating the generalization as self-verifying."
+    },
+    {
+      "timestamp": "00:18:19",
+      "claimEn": "The speaker argues that morality is not a fixed historical list of commands and prohibitions but a human system that changes as human knowledge develops and should be built around human wellbeing.",
+      "claimAr": "يجادل المتحدث بأن الأخلاق ليست قائمة تاريخية ثابتة من الأوامر والنواهي، بل نظام بشري يتغير مع تطور معرفة البشر وينبغي بناؤه حول سعادة الإنسان.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-obedience-and-authority",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Treat this as the speaker's normative philosophical alternative; an editor should assess its philosophical assumptions separately from the historical-source claims."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:41",
+      "asStatedInVideo": "آية تحريم الاقتراب من الزنا؛ لم يذكر المتحدث رقم السورة أو الآية.",
+      "workTitle": "القرآن",
+      "quotedArabic": "ولا تقربوا الزنا، إنه كان فاحشة وساء سبيلا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:41",
+      "asStatedInVideo": "الحكم القرآني بجلد غير المحصنين مئة جلدة؛ لم يقتبس المتحدث نص الآية ولم يذكر موضعها.",
+      "workTitle": "القرآن",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:01:15",
+      "asStatedInVideo": "أحاديث صحيحة تتضمن آية الرجم أو حكم الرجم، من دون تسمية مجموعة أو إعطاء رقم.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:15",
+      "asStatedInVideo": "عائشة، نُسب إلى عنزتها أكل الآيات أو الصحيفة.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:15",
+      "asStatedInVideo": "رواية أكل عنزة عائشة لآيات الرجم المزعومة.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:33",
+      "asStatedInVideo": "آيات حفظ الفروج والاستثناء للزوجات وما ملكت الأيمان؛ لم يذكر رقم السورة أو الآية.",
+      "workTitle": "القرآن",
+      "quotedArabic": "والذين هم لفروجهم حافظون، إلا على أزواجهم أو ما ملكت أيمانهم، فإنهم غير ملومين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:43",
+      "asStatedInVideo": "آية الزواج من الفتيات المؤمنات من ملك اليمين عند عدم الاستطاعة؛ لم يذكر موضعها.",
+      "workTitle": "القرآن",
+      "quotedArabic": "ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات، فمما ملكت أيمانكم من فتياتكم المؤمنات",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:28",
+      "asStatedInVideo": "آية خاصة بالنبي تميز بين أزواجه وما ملكت يمينه مما أفاء الله عليه؛ بلا رقم.",
+      "workTitle": "القرآن",
+      "quotedArabic": "يا أيها النبي، إنا أحللنا لك أزواجك التي آتيت أجورهن، وما ملكت يمينك مما أفاء الله عليك",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:28",
+      "asStatedInVideo": "محمد، استُخدم مثاله للتمييز بين الزوجات والسراري.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "نص تفسيري غير منسوب يشرح الأزواج والأجور وما ملكت اليمين في الآية الخاصة بالنبي.",
+      "workTitle": "تفسير غير مسمى في الفيديو",
+      "quotedArabic": "يقول تعالى مخاطب النبي صلوات الله وسلامه عليه بأنه قد أحل له من النساء أزواجه التي أعطاهن مهورهن، وهي الأجور هاهن",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "صفية بنت حيي، قيل إنها كانت من سبي خيبر ثم أُعتقت وتزوجها محمد.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "سبي خيبر، ذُكر بوصفه السياق الذي أُخذت فيه صفية بنت حيي.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "جويرية بنت الحارث، نطق المتحدث الاسم بصورة غير واضحة قليلاً، وقيل إنها أُعتقت وتزوجها محمد.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "ريحانة بنت شمعون، وُصفت بأنها من سراري محمد.",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "ماريا القبطية، وُصفت بأنها سرية محمد وأم ابنه إبراهيم.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:12",
+      "asStatedInVideo": "إبراهيم ابن محمد، ذُكر بوصفه ابن ماريا القبطية.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:06:00",
+      "asStatedInVideo": "رواية أو نص سيرة غير مسمى يقول إن محمد تزوج إحدى عشرة امرأة وتسرى جاريتين.",
+      "workTitle": "مصدر سيرة غير مسمى في الفيديو",
+      "quotedArabic": "تزوج إحدى عشرة امرأة، ومات عن تسع، وتسرى جاريتين",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:00",
+      "asStatedInVideo": "ريحانة بنت زيد، وُصفت هنا بأنها جارية يهودية من سبي بني قريظة.",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:06:00",
+      "asStatedInVideo": "سبي بني قريظة، ذُكر مصدراً لامتلاك ريحانة.",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:47",
+      "asStatedInVideo": "آية المحرمات من النساء وصولاً إلى استثناء ما ملكت الأيمان؛ لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "quotedArabic": "حرمت عليكم أمهاتكم وبناتكم وأخواتكم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:47",
+      "asStatedInVideo": "جزء الآية المتعلق بالمحصنات واستثناء ملك اليمين؛ بلا رقم.",
+      "workTitle": "القرآن",
+      "quotedArabic": "والمحصنات من النساء إلا ما ملكت أيمانكم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:07:26",
+      "asStatedInVideo": "رواية سبايا أوطاس المتزوجات ونزول الاستثناء، من دون تسمية مجموعة الحديث أو رقمه.",
+      "quotedArabic": "أصبنا نساء في سبي أوطاس، ولهن أزواج، فكرهنا أن نقع عليهن ولهن أزواج، فسألنا النبي صلى الله عليه وآله وسلم، فنزلت هذه الآية: والمحصنات من النساء إلا ما ملكت أيمانكم، قال: فاستحللنا فروجهن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:07:26",
+      "asStatedInVideo": "غزوة حنين وإرسال جيش إلى أوطاس وأسر النساء هناك.",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:26",
+      "asStatedInVideo": "محمد، قيل إن المقاتلين سألوه عن جماع السبايا المتزوجات.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:32",
+      "asStatedInVideo": "أحكام قرآنية عامة قيل إنها حرمت لحم الخنزير والتبني وزواج الأمهات والأخوات فوراً؛ لم تُذكر الآيات أو تُقتبس.",
+      "workTitle": "القرآن",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:02",
+      "asStatedInVideo": "آية عدة الآيسات واللائي لم يحضن؛ لم يذكر المتحدث رقم السورة أو الآية.",
+      "workTitle": "القرآن",
+      "quotedArabic": "واللائي لم يحضن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:12:57",
+      "asStatedInVideo": "تفسير غير مسمى يشرح أن عدة الآيسة والصغيرة التي لم تبلغ سن الحيض ثلاثة أشهر.",
+      "workTitle": "تفسير غير مسمى في الفيديو",
+      "quotedArabic": "يقول تعالى مبيناً لعدة الآيسة وهي التي انقطع عنها الحيض لكبرها إنها ثلاثة أشهر عوضاً عن الثلاثة قروء في حق من تحيض، وكذا الصغار اللائي لم يبلغن سن الحيض إن عدتهن كعدة الآيسة ثلاثة أشهر",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:13:42",
+      "asStatedInVideo": "رواية زواج محمد من عائشة في السادسة والدخول بها في التاسعة، من دون ذكر المجموعة أو الرقم.",
+      "quotedArabic": "عقد النبي صلى الله عليه وسلم على عائشة وهي بنت ست سنين، وبنى بها وهي بنت تسع سنين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:42",
+      "asStatedInVideo": "عائشة، ذُكرت أعمارها عند العقد والدخول.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:42",
+      "asStatedInVideo": "محمد، نُسب إليه العقد على عائشة والدخول بها.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:42",
+      "asStatedInVideo": "قول أو فتوى فقهية غير منسوبة تجيز العقد على الصغيرة والدخول بها إذا كانت تتحمل.",
+      "workTitle": "فتوى أو قول فقهي غير مسمى في الفيديو",
+      "quotedArabic": "يجوز العقد على الصغيرة، أما التمكين من البناء فإذا كانت تتحمل البناء بني بها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:14",
+      "asStatedInVideo": "آية الاستمتاع وإيتاء الأجور؛ لم يذكر المتحدث رقمها.",
+      "workTitle": "القرآن",
+      "quotedArabic": "فما استمتعتم به منهن فآتوهن أجورهن فريضة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "تفسير غير مسمى يقول إن المتعة شُرعت في بداية الإسلام ثم نُسخت، وينقل خلافاً في عدد مرات الإباحة والنسخ.",
+      "workTitle": "تفسير غير مسمى في الفيديو",
+      "quotedArabic": "ولا شك أنه كان مشروعاً في ابتداء الإسلام، أن نكاح المتعة كان مشروعاً في ابتداء الإسلام ثم نسخ بعد ذلك",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "الشافعي، نُسب إليه القول بأن المتعة أبيحت ثم نسخت ثم أبيحت ثم نسخت مرتين.",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "حديث صحيح في صحيح مسلم يعلن تحريم الاستمتاع بالنساء إلى يوم القيامة؛ لم يذكر رقم الحديث.",
+      "workTitle": "صحيح مسلم",
+      "author": "مسلم",
+      "quotedArabic": "يا أيها الناس، إني قد كنت أذنت لكم في الاستمتاع من النساء، وإن الله قد حرم ذلك إلى يوم القيامة، فمن كان عنده منهن شيء فليخل سبيله، ولا تأخذوا مما آتيتموهن شيئاً",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "محمد، نُسب إليه إعلان التحريم النهائي للمتعة.",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:46",
+      "asStatedInVideo": "رواية غير محددة عن أصحاب طلبوا الإذن بالاختصاء، فأذن لهم محمد بالمتعة ثم جاء الوحي بمنعها.",
+      "quotedArabic": "جاء بعض أصحاب النبي صلى الله عليه وسلم واستأذنوه في أن يختصوا خشية أن يقعوا في الحرام، فأذن لهم النبي صلى الله عليه وسلم بالمتعة، فجاءه الوحي من الله بالإذن بها، ثم جاءه الوحي من الله بمنعها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:46",
+      "asStatedInVideo": "أصحاب محمد، ذُكروا جماعة من دون أسماء في رواية طلب الاختصاء والإذن بالمتعة.",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "women-child-marriage-and-consummation",
+      "titleEn": "Child marriage and consummation",
+      "titleAr": "زواج الصغيرات والدخول بهن",
+      "descriptionEn": "Claims concerning marriage contracts involving minors, consummation before or around puberty, waiting periods for girls who have not menstruated, reports about Aisha's age, and later legal defenses or restrictions.",
+      "descriptionAr": "دعاوى تتعلق بعقود زواج القاصرات، والدخول بهن قبل البلوغ أو حوله، وعدة اللاتي لم يحضن، وروايات عمر عائشة، والدفاعات أو القيود الفقهية اللاحقة.",
+      "suggestedParentId": "women",
+      "closestExistingId": "quran-women-and-marriage-rules",
+      "rationale": "The episode develops child marriage through several independent textual, biographical, legal, and ethical claims. The existing general marriage topics do not give this durable and frequently recurring subject a sufficiently precise home."
+    }
+  ]
+}

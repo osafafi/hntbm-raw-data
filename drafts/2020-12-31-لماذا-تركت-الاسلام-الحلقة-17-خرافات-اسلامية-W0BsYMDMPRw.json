@@ -1,0 +1,1344 @@
+{
+  "schemaVersion": 1,
+  "videoId": "W0BsYMDMPRw",
+  "videoUrl": "https://www.youtube.com/watch?v=W0BsYMDMPRw",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 17 - خرافات إسلامية",
+  "creator": "Kosay Betar",
+  "uploadDate": "20201231",
+  "extractedAt": "2026-08-17T08:53:11+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Episode 17 of \"Why I left Islam\", on what the speaker calls Islamic superstitions. He opens with clips of preachers affirming a flat, spread-out earth, then argues that religion supplies comforting answers to unknowns which are absorbed by childhood indoctrination. He attacks the doctrine of fitra in both its forms: as innate Islam (redundant alongside sent religions, contradicted by the fact that only 1.8 of 8 billion people are Muslim, and voided by the hadith that parents make a child a Jew, Christian or Magian), and as an innate moral sense (impossible if the same God authored a Qur'an that permits marrying young girls, striking wives, owning slaves and amputating a thief's hand). He then treats the Islamic account of human origins — Adam and Eve, Cain and Abel marrying their sisters, the quarrel over the favoured sister in Q5:27, and the incest prohibitions of Q4:23 — as an invented answer to a question early humans could not otherwise resolve, and the ark narrative likewise. The second half argues that the Qur'an teaches a flat earth: the firash, qarar, mihad, madd and bisat verses with their classical glosses, mountains as stabilising pegs, the Q88 series of proofs, Q39:5 with the hadith of the sun descending beneath the Throne, and above all the qibla verse Q2:144, which he says can only function on a flat surface. He notes that the Greeks measured the earth's curvature two thousand years before Muhammad, dismisses the modern \"it merely appears flat\" and \"the scholars reached consensus\" replies as later patches, and concludes that the Qur'an is a product of its region, inheriting the cosmology and legends of its time.",
+  "summaryAr": "الحلقة السابعة عشرة من \"لماذا تركت الإسلام\"، عن ما يسميه المتحدث الخرافات الإسلامية. يفتتح بمقاطع لدعاة يؤكدون أن الأرض مسطحة مبسوطة، ثم يقول إن الدين يقدم إجابات مريحة عن المجهول تُلقّن في الصغر. ويهاجم مفهوم الفطرة بصورتيه: الفطرة بمعنى الإسلام (فتكون الأديان زائدة، ويكذّبها أن المسلمين 1.8 مليار من ثمانية مليارات، ويبطلها حديث \"فأبواه يهودانه أو ينصرانه أو يمجسانه\")، والفطرة بمعنى معرفة الصح من الغلط (وهي مستحيلة إذا كان مصدرها هو نفسه مصدر قرآن يجيز زواج الصغيرات وضرب الزوجات وملك العبيد وقطع يد السارق). ثم يعرض الرواية الإسلامية لأصل الإنسان — آدم وحواء، وزواج أبناء آدم بأخواتهم، والخصام على الأخت المفضلة في آية ابني آدم، وتحريمات آية \"حرمت عليكم أمهاتكم\" — كإجابة مخترعة عن سؤال لم يملك الأولون أدوات جوابه، وكذلك رواية سفينة نوح. ويخصص النصف الثاني للقول بأن القرآن يقرر تسطيح الأرض: آيات الفراش والقرار والمهاد والمد والبساط بتفاسيرها، والجبال كأوتاد مثبِّتة، وآيات سورة الغاشية، وآية تكوير الليل مع حديث نزول الشمس تحت العرش، وأهم من ذلك آية القبلة التي يقول إنها لا تعمل إلا على سطح مستوٍ. ويذكّر بأن اليونانيين قاسوا كروية الأرض قبل ولادة محمد بألفي سنة، ويرفض ردّي \"تبدو كذلك\" و\"أجمع علماء الأمة\" كترقيع متأخر، ويستنتج أن القرآن ابن بيئته ورث كوزمولوجيا زمانه وأساطيره.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:01",
+      "stepEn": "Opens with clips of preachers asserting, from the Qur'an and the tafsir of the Salaf, that God spread the earth out flat, and with an apologetic attempt to read sphericity out of the phrase \"fajj 'amiq\".",
+      "stepAr": "يفتتح بمقاطع لدعاة يقررون من القرآن وتفسير علماء السلف أن الله سطّح الأرض، ومحاولة دعوية لاستخراج الكروية من عبارة \"فج عميق\"."
+    },
+    {
+      "timestamp": "00:00:55",
+      "stepEn": "States the psychological frame: religion gives easy answers to the unknown, taken by indoctrination in childhood, and the same things that once convinced him became his reasons for leaving.",
+      "stepAr": "يضع الإطار النفسي: الدين يعطي إجابات سهلة عن المجهول تُؤخذ بالتلقين في الصغر، والأشياء نفسها التي أقنعته صارت أسباب تركه."
+    },
+    {
+      "timestamp": "00:02:04",
+      "stepEn": "Presents the primary Islamic doctrine of fitra from the verse of fitrat Allah: every human is created Muslim and this creation cannot be altered.",
+      "stepAr": "يعرض المفهوم الإسلامي الأساسي للفطرة من آية فطرة الله: كل إنسان يولد مسلماً ولا تبديل لخلق الله."
+    },
+    {
+      "timestamp": "00:02:46",
+      "stepEn": "Argues the doctrine is redundant and empirically false — if fitra is Islam there is no need for sent religions, and after 1500 years only 1.8 of 8 billion people are Muslim.",
+      "stepAr": "يحتج بأن المفهوم زائد ومكذَّب بالواقع: لو كانت الفطرة هي الإسلام فلا داعي لإرسال الأديان، وبعد 1500 سنة المسلمون 1.8 مليار من ثمانية."
+    },
+    {
+      "timestamp": "00:03:32",
+      "stepEn": "Turns to the hadith \"every child is born on the fitra, then his parents make him a Jew, Christian or Magian\", which he reads as a loophole voiding the supposedly unalterable fitra, with eternal fire as the penalty for its failure.",
+      "stepAr": "ينتقل إلى حديث \"ما من مولود إلا يولد على الفطرة فأبواه يهودانه أو ينصرانه أو يمجسانه\"، ويقرأه ثغرة تُبطل الفطرة التي لا تبديل لها، وعقوبتها النار الأزلية."
+    },
+    {
+      "timestamp": "00:04:36",
+      "stepEn": "Takes up the fallback definition of fitra as innate moral discernment and tests it against Qur'anic legislation.",
+      "stepAr": "يتناول التعريف الترقيعي للفطرة كمعرفة فطرية للصح والغلط، ويختبره بتشريعات القرآن."
+    },
+    {
+      "timestamp": "00:06:08",
+      "stepEn": "Lists the Qur'anic rulings he says any sound conscience rejects — marriage of young girls, striking wives, ownership of slaves and concubines, amputation for theft — and concludes that one God cannot be the source of both that conscience and that book.",
+      "stepAr": "يسرد الأحكام القرآنية التي يقول إن أي وجدان سليم يرفضها — زواج الصغيرات، وضرب الزوجات، وملك العبيد والسراري، وقطع يد السارق — ويستنتج أن إلهاً واحداً لا يكون مصدراً للفطرة والكتاب معاً."
+    },
+    {
+      "timestamp": "00:06:55",
+      "stepEn": "Replaces fitra with a human account of morality: an agreed goal of increasing happiness and reducing suffering, plus learning from past mistakes.",
+      "stepAr": "يستبدل الفطرة بتأسيس بشري للأخلاق: هدف متفق عليه في رفع السعادة وتقليل المعاناة، مع التعلم من أخطاء التاريخ."
+    },
+    {
+      "timestamp": "00:07:41",
+      "stepEn": "Moves to the question of human origins and shows that the Islamic account requires the sons of Adam to marry their own sisters.",
+      "stepAr": "ينتقل إلى سؤال أصل الإنسان ويبيّن أن الرواية الإسلامية تقتضي أن ينكح أبناء آدم أخواتهم."
+    },
+    {
+      "timestamp": "00:09:12",
+      "stepEn": "Reads Q5:27 with its exegesis as a quarrel over which brother would marry the favoured sister, ending in murder while God awaits the winner.",
+      "stepAr": "يقرأ آية ابني آدم مع تفسيرها كخصام على من ينكح الأخت المفضلة انتهى بالقتل، والله ينتظر المنتصر."
+    },
+    {
+      "timestamp": "00:10:43",
+      "stepEn": "Argues from the incest prohibitions of Q4:23 that without them sibling marriage would be Islamically permitted, and that their presence shows an author unaware that human psychology alone suffices.",
+      "stepAr": "يحتج بآية التحريم \"حرمت عليكم أمهاتكم\" أن غيابها يعني جواز نكاح الأخت إسلامياً، وأن وجودها يدل على مؤلف لا يعلم أن النفس البشرية وحدها تكفي."
+    },
+    {
+      "timestamp": "00:11:21",
+      "stepEn": "Gives his own explanation: early humans could not say \"I don't know\" and had no research tools, so they invented a creator and a first couple; the Qur'an adopted this blindly, along with the ark as the origin of animals.",
+      "stepAr": "يقدم تفسيره: الأولون لم يستطيعوا قول \"لا أعلم\" ولا يملكون أدوات البحث فاخترعوا إلهاً وزوجاً أولاً، والقرآن تبنى ذلك بشكل أعمى، ومعه السفينة كأصل للحيوان."
+    },
+    {
+      "timestamp": "00:12:16",
+      "stepEn": "Opens the flat-earth section: the Qur'an plainly describes a flat earth, and Muslims themselves dispute the question.",
+      "stepAr": "يفتح ملف تسطيح الأرض: القرآن يقول بوضوح إن الأرض مسطحة، والمسلمون أنفسهم في صراع حول المسألة."
+    },
+    {
+      "timestamp": "00:13:02",
+      "stepEn": "Notes that the Greeks measured the earth's diameter and curvature two thousand years before Muhammad's birth, then reads the firash, qarar, mihad, madd and bisat verses with their classical glosses.",
+      "stepAr": "يذكر أن اليونانيين قاسوا قطر الأرض وانحناءها قبل ولادة محمد بألفي سنة، ثم يقرأ آيات الفراش والقرار والمهاد والمد والبساط مع تفاسيرها."
+    },
+    {
+      "timestamp": "00:13:47",
+      "stepEn": "Adds the mountains-as-pegs claim and the Q88 series of proofs, and says not one of their statements about nature is correct.",
+      "stepAr": "يضيف دعوى الجبال كأوتاد وسلسلة الحجج في سورة الغاشية، ويقول إن ولا كلمة واحدة صح في أوصافها للطبيعة."
+    },
+    {
+      "timestamp": "00:15:26",
+      "stepEn": "Rejects the modern \"it only appears flat\" reading as absent from Qur'an, sunnah and athar, and reads Q39:5 with the hadith of the sun descending beneath the Throne as the actual Qur'anic cosmology, matching the superstitions of earlier peoples.",
+      "stepAr": "يرفض قراءة \"تبدو كذلك\" الحديثة كونها غير موجودة في القرآن ولا السنة ولا الأثر، ويقرأ آية تكوير الليل مع حديث نزول الشمس تحت العرش كالتصور القرآني الفعلي المطابق لخرافات الأولين."
+    },
+    {
+      "timestamp": "00:16:06",
+      "stepEn": "Dismisses the appeal to scholarly consensus on sphericity as irrelevant because it comes centuries after Muhammad, and reads the current \"both views are permissible\" fatwa as an admission that no textual evidence exists.",
+      "stepAr": "يرد الاحتجاج بإجماع علماء الأمة على الكروية لأنه بعد محمد بقرون، ويقرأ فتوى \"المسألة تحتمل القولين\" اعترافاً بغياب الدليل النصي."
+    },
+    {
+      "timestamp": "00:17:33",
+      "stepEn": "Presents the qibla verse as the decisive argument: turning the face toward the Sacred Mosque works only on a flat surface, since on a sphere the curvature makes one face the sky.",
+      "stepAr": "يقدم آية القبلة كالحجة القاطعة: توجيه الوجه شطر المسجد الحرام لا يعمل إلا على سطح مستوٍ، إذ على الكرة يوجّه المصلي وجهه إلى السماء."
+    },
+    {
+      "timestamp": "00:19:02",
+      "stepEn": "Concludes that a central pillar performed five times a day rests on a superstition, and that the Qur'an is a son of its region, inspired by the minds of the people of that time and place.",
+      "stepAr": "يستنتج أن عموداً مركزياً يُؤدى خمس مرات يومياً مبني على خرافة، وأن القرآن ابن هذه المنطقة مستوحى من عقول الناس في ذلك الزمان والمكان."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:01",
+      "claimEn": "The speaker presents clips of Muslim preachers asserting, on the authority of God's words and the tafsir of the Salaf, that God spread the earth out flat (madhuwwa) and that no rational Muslim rejects this.",
+      "claimAr": "يعرض المتحدث مقاطع لدعاة مسلمين يقررون، بحجة قول الرب وتفسير علماء السلف، أن الله سطّح الأرض وأنها مدحوة، وأن هذا لا يردّه مسلم عاقل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the preachers in the opening montage and locate the full clips; confirm that they do affirm a flat or spread-out earth on the basis of Qur'anic wording and classical tafsir, and check the term madhuwwa against the tafsir tradition cited."
+    },
+    {
+      "timestamp": "00:00:01",
+      "claimEn": "The speaker quotes an apologetic argument from the montage that the Qur'anic phrase \"from every deep pass\" ('amiq) rather than \"distant pass\" (ba'id) proves the earth is a sphere, offering it as a specimen of forced reinterpretation.",
+      "claimAr": "ينقل المتحدث من المقطع الافتتاحي حجة دعوية بأن قول القرآن \"من كل فج عميق\" لا \"بعيد\" يثبت أن الأرض كرة، ويعرضها نموذجاً على التأويل المتكلَّف.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-lexical-and-interpretive-questions",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Qur'anic wording \"min kulli fajjin 'amiq\" and its occurrence, and check whether classical lexicons and tafsirs gloss 'amiq spatially in a way that bears any relation to sphericity."
+    },
+    {
+      "timestamp": "00:00:37",
+      "claimEn": "The speaker says that as a Muslim in his doubting phase it was hard for him to accept that his religion might be a superstitious religion, a human manufacture.",
+      "claimAr": "يقول المتحدث إنه حين كان مسلماً في مرحلة التشكيك كان يصعب عليه تقبل أن يكون دينه ديناً خرافياً، ديناً من صناعة بشرية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "religion-as-human-invention"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "No source to check; record as the speaker's stated thesis and personal framing, and treat it as the organizing claim the episode's other claims are meant to support."
+    },
+    {
+      "timestamp": "00:00:55",
+      "claimEn": "The speaker claims religion is clung to because it supplies comfortable, easy answers to what is otherwise unexplained — the existence and origin of the universe, the origin of man, jinn, spirits and demonic possession — and that these answers were absorbed by indoctrination in childhood under blind sanctification, without personal thought.",
+      "claimAr": "يقول المتحدث إن التعلق بالدين سببه أنه يعطي إجابات مريحة وسهلة عن المجهول — وجود الكون وأصله، وأصل الإنسان، والجن والأرواح والمس الشيطاني — وأن هذه الإجابات أُخذت بالتلقين في الصغر برعاية التقديس الأعمى بلا تفكير شخصي.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "religion-as-human-invention"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "An argument about the psychological function of religion rather than a source claim; an editor should check only that it is reported as the speaker's reasoning and not attributed to any text."
+    },
+    {
+      "timestamp": "00:02:04",
+      "claimEn": "The speaker claims the primary Islamic doctrine of fitra, drawn from the verse \"the fitra of God upon which He created mankind — no altering of God's creation\", holds that the fitra is Islam itself and that every human is born a Muslim.",
+      "claimAr": "يقول المتحدث إن المفهوم الإسلامي الأساسي للفطرة، المأخوذ من آية \"فطرة الله التي فطر الناس عليها لا تبديل لخلق الله\"، هو أن الفطرة هي الدين الإسلامي وأن كل إنسان يولد مسلماً بالفطرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording of the fitra verse (Q30:30) and check whether the classical tafsirs do identify the fitra with Islam and with the clause \"la tabdila li-khalq Allah\" as the speaker states."
+    },
+    {
+      "timestamp": "00:02:04",
+      "claimEn": "The speaker claims that if God deposited an innate Islam in every human there is no need to send religions at all, so the doctrine of fitra and the sending of revelation are mutually redundant.",
+      "claimAr": "يقول المتحدث إنه لو أودع الله في كل إنسان فطرة هي الإسلام فلا حاجة لإرسال الأديان أصلاً، فالفطرة وإرسال الوحي أمران يُغني أحدهما عن الآخر.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check how classical theology reconciles innate fitra with the necessity of prophethood (e.g. the discussions of ma'rifa fitriyya versus sam'iyya) before treating this as an unanswered tension."
+    },
+    {
+      "timestamp": "00:02:46",
+      "claimEn": "The speaker claims the doctrine fails empirically: after some 1500 years of Islam plus an automatic fitra, of roughly 8 billion people on earth only about 1.8 billion are Muslims, so the alleged fitra demonstrably does not operate.",
+      "claimAr": "يقول المتحدث إن المفهوم مكذَّب بالواقع: بعد نحو 1500 سنة من الإسلام ومعه الفطرة التلقائية، من نحو ثمانية مليارات نسمة على الأرض المسلمون 1.8 مليار فقط، فأين هذه الفطرة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the population figures cited (roughly 8 billion world population and 1.8 billion Muslims) against standard demographic sources for the video's date, and note that the inference depends on the doctrine implying observable universal Islam."
+    },
+    {
+      "timestamp": "00:02:46",
+      "claimEn": "The speaker claims the persistence of human disagreement — over whether God exists, and among those who accept a creator over his form, attributes and whether he communicates — is incompatible with a magical innate fitra placed in everyone by that God.",
+      "claimAr": "يقول المتحدث إن دوام الاختلاف البشري — في وجود الله من عدمه، وبين المؤمنين بخالق في شكله وصفاته وهل يتواصل — لا يجتمع مع فطرة سحرية أودعها هذا الإله في الجميع.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "An inference from the diversity of belief; an editor need only confirm the argument is reported as the speaker's reasoning and check whether the fitra doctrine as classically stated claims the universality he assumes."
+    },
+    {
+      "timestamp": "00:03:32",
+      "claimEn": "The speaker claims the standard answer comes from the hadith \"no child is born except upon the fitra, then his parents make him a Jew, a Christian or a Magian\", which he says installs a loophole in God's design: a fitra declared unalterable is nevertheless voided immediately if the child is born to any religion other than Islam.",
+      "claimAr": "يقول المتحدث إن الجواب المعتاد يأتي من حديث \"ما من مولود إلا يولد على الفطرة فأبواه يهودانه أو ينصرانه أو يمجسانه\"، وهو عنده ثغرة في صناعة هذا الإله: فطرة قيل لا تبديل لها تتعطل فوراً إذا وُلد الطفل على غير الإسلام.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith and its collection and grading (the wording resembles reports in Sahih al-Bukhari and Sahih Muslim, though the speaker names no collection), and check whether commentators treat parental influence as altering the fitra or only as concealing it."
+    },
+    {
+      "timestamp": "00:03:32",
+      "claimEn": "The speaker claims that on this doctrine a person is punished and burned in eternal fire because of the failure of a fitra that God himself installed and that the accident of parentage disabled.",
+      "claimAr": "يقول المتحدث إن مقتضى هذا المفهوم أن الإنسان يُعاقب ويحترق بنار أزلية بسبب فشل فطرة أودعها الله نفسه وعطّلها محض وقوعه بين أبوين على دين آخر.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the Islamic positions on the fate of those who never received the message (ahl al-fatra) before accepting that the doctrine entails eternal punishment in the way the speaker states."
+    },
+    {
+      "timestamp": "00:04:17",
+      "claimEn": "The speaker claims the fitra is voided even within Islam, since being born into a different sect or school changes it just as easily, and that Muslims have historically and into the present been in permanent disagreement, unable to agree on God's form, attributes and requirements.",
+      "claimAr": "يقول المتحدث إن الفطرة تتبدل حتى داخل الإسلام، فمن وُلد على طائفة أو مذهب مختلف تتبدل فطرته بالسهولة نفسها، وإن المسلمين تاريخياً وإلى اليوم على اختلاف دائم لا يتفقون على شكل الله وصفاته ومتطلباته.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the history of intra-Muslim theological dispute over the divine attributes as an illustration of the claim, and note that the argumentative force depends on the fitra being claimed to determine doctrinal content."
+    },
+    {
+      "timestamp": "00:04:36",
+      "claimEn": "The speaker concludes that the persistence of these disagreements shows either that there is no such thing as an Islamic fitra and it is merely a superstition, or that an omnipotent God was unable to manufacture a fitra that works for everyone.",
+      "claimAr": "يستنتج المتحدث أن دوام هذه الاختلافات دليل على أنه إما لا وجود لشيء اسمه الفطرة الإسلامية وأنها موضوع خرافي، أو أن الإله كلي القدرة غير قادر على صناعة فطرة فعّالة تعمل للجميع.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "A dilemma drawn from the preceding claims; confirm it is recorded as the speaker's inference and that the premises it rests on are separately verified."
+    },
+    {
+      "timestamp": "00:04:36",
+      "claimEn": "The speaker reports the fallback Islamic answer that the fitra is not necessarily Islam but the faculty God placed in people to distinguish right from wrong and good from bad.",
+      "claimAr": "ينقل المتحدث الجواب الإسلامي الترقيعي بأن الفطرة ليست بالضرورة الإسلام، بل الشيء الذي وضعه الله فينا لمعرفة الصح من الخطأ والسيء من الجيد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether this moral definition of fitra is a modern apologetic move as the speaker implies, or is already present in classical exegesis and theology."
+    },
+    {
+      "timestamp": "00:04:36",
+      "claimEn": "The speaker claims rational people agree, on the basis of experience and demonstrable evidence, that the rape of children or marrying them at an early age is harmful at every level, while the Qur'an sets no minimum age for marriage and so permits marrying young girls.",
+      "claimAr": "يقول المتحدث إن العقلاء متفقون بالتجربة والدليل على أن اغتصاب الأطفال أو تزويجهم بعمر مبكر مضرّ على جميع المستويات، بينما القرآن لا يحدد سناً أدنى للزواج فيجيز زواج الصغيرات.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check whether any Qur'anic verse specifies a minimum marriage age and how the verses on marriage and on orphan girls are read by the fiqh schools on the age question."
+    },
+    {
+      "timestamp": "00:04:36",
+      "claimEn": "The speaker claims cutting off the thief's hand is a bad act by demonstrable standards, since better mechanisms for dealing with theft exist that do not amputate any human limb, yet the Qur'an prescribes it.",
+      "claimAr": "يقول المتحدث إن قطع يد السارق شيء سيء بالدليل والتجربة، لوجود آليات أفضل للتعامل مع السرقة دون بتر أي عضو من الإنسان، ومع ذلك يشرّعه القرآن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-rulings-and-sanctuaries-setting"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the Qur'anic amputation penalty (Q5:38) and its wording, and check the claim that the Qur'an presents it as obligatory rather than as a bounded hadd with conditions in the juristic literature."
+    },
+    {
+      "timestamp": "00:05:23",
+      "claimEn": "The speaker claims beating wives is harmful to the family, to the emotional relationship between the two parties and to society generally, yet the Qur'an legislates it in the command \"fa-dribuhunna\" concerning the disobedient wife.",
+      "claimAr": "يقول المتحدث إن ضرب الزوجات مضرّ بالأسرة وبالعلاقة العاطفية بين الطرفين وبالمجتمع عامة، ومع ذلك يشرّعه القرآن في قوله \"فاضربوهن\" في حق الزوجة الناشز غير المطيعة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "quran-women-and-marriage-rules",
+        "quran-lexical-and-interpretive-questions-marriage-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording of Q4:34 and its classical glosses on nushuz and on the imperative wa-dribuhunna, and note the modern reinterpretations the speaker does not address here."
+    },
+    {
+      "timestamp": "00:05:23",
+      "claimEn": "The speaker claims owning people as slaves and buying and selling them is harmful to individual and society by evidence and experience, yet the Qur'an legislates it through milk al-yamin, sarari, ama and jawari.",
+      "claimAr": "يقول المتحدث إن امتلاك الناس كعبيد وبيعهم وشراءهم مضرّ بالفرد والمجتمع بالدليل والتجربة، ومع ذلك يشرّعه القرآن بملك اليمين والسراري والأَمَة والجواري.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the Qur'anic vocabulary of enslavement and concubinage (ma malakat aymanukum and related expressions) and check whether the terms sarari and jawari occur in the Qur'an itself or only in the hadith and fiqh literature."
+    },
+    {
+      "timestamp": "00:06:08",
+      "claimEn": "The speaker claims the God of Islam cannot be the source both of a fitra that lets humans tell right from wrong and of a Qur'an valid for all times that legislates these acts as obligatory and positive; such a God would be self-contradictory, and a contradictory God cannot exist.",
+      "claimAr": "يقول المتحدث إن إله الإسلام لا يمكن أن يكون مصدر فطرة تُميّز الصح من الغلط ومصدر قرآن صالح لكل زمان يشرّع هذه الأشياء كواجب وشيء إيجابي في الوقت نفسه؛ فهذا تناقض، والإله المتناقض غير ممكن الوجود.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "The inference depends on the four preceding legislative claims being confirmed and on the moral definition of fitra being an Islamic position; check both before treating the contradiction as established."
+    },
+    {
+      "timestamp": "00:06:55",
+      "claimEn": "The speaker claims knowledge of right and wrong comes neither from a magical fitra with no explanation, logic or evidence behind it, nor from an imaginary list of do's and don'ts issued by a hidden god on a hidden throne, but from human beings agreeing on the goal of raising happiness and reducing suffering and learning from past human mistakes.",
+      "claimAr": "يقول المتحدث إن معرفة الصح من الغلط لا تأتي من فطرة سحرية لا تفسير ولا منطق ولا دليل لها، ولا من لائحة وهمية بـ\"افعل ولا تفعل\" من إله مخفي على عرش مخفي، بل منّا نحن البشر باتفاقنا على هدف رفع السعادة وتقليل المعاناة والتعلم من الأخطاء البشرية السابقة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [
+        "religion-as-human-invention"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "A statement of the speaker's own ethical framework rather than a source claim; record as such and check that no scriptural attribution is implied."
+    },
+    {
+      "timestamp": "00:07:41",
+      "claimEn": "The speaker claims it is very strange that the Qur'an, supposed to be the speech of an all-knowing God, speaks of the fitra as an absolute fact when the notion collapses the more it is examined — which he takes as a mark of human authorship.",
+      "claimAr": "يقول المتحدث إنه غريب جداً أن القرآن الذي يفترض أنه كلام إله كلي المعرفة يتكلم عن الفطرة كأنها حقيقة مطلقة وهي يتضح تهافتها كلما فكرنا فيها أكثر، ويعتبر ذلك علامة على مؤلف بشري.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Confirm this is presented as a conclusion from the fitra discussion and not as an independent source claim; verify the verse's presentation of fitra as declarative rather than exhortative."
+    },
+    {
+      "timestamp": "00:07:41",
+      "claimEn": "The speaker claims the Islamic account of human origins is that God sent Adam and Eve down to earth and they multiplied, and that the account leaves unanswered where the females married by their sons Cain and Abel came from, since no humans existed besides Adam and Eve.",
+      "claimAr": "يقول المتحدث إن الرواية الإسلامية لأصل الإنسان هي أن الله أنزل آدم وحواء إلى الأرض فتكاثروا، وأنها تترك سؤال من أين أتت الإناث التي تزوجها قابيل وهابيل بلا جواب، إذ لا بشر غير آدم وحواء.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the Qur'anic and traditional account of Adam's descent and progeny and whether the tradition names only two sons at this stage, and check the earlier Jewish and Christian versions of the same problem."
+    },
+    {
+      "timestamp": "00:08:26",
+      "claimEn": "The speaker claims the Islamic tradition states literally that the sons of Adam married their own sisters in order to multiply, quoting a preacher that Adam would marry the male of one womb to the female of another womb — a formula the speaker says does nothing to change the fact that they shared the same father and mother.",
+      "claimAr": "يقول المتحدث إن الرواية الإسلامية تقول حرفياً إن أبناء آدم نكحوا أخواتهم البنات لأجل التكاثر، وينقل عن داعية أن آدم كان يزوّج الذكر من بطن بالأنثى من البطن الآخر، وهي صياغة لا تلغي عنده أنهم إخوة من الأب والأم نفسهما.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the preacher quoted and trace the \"male of one womb with the female of another womb\" formula to its source in tafsir or qisas al-anbiya' literature, and check its grading and whether it is the tradition's dominant position."
+    },
+    {
+      "timestamp": "00:09:12",
+      "claimEn": "The speaker claims the Qur'an itself carries a verse explaining how Cain and Abel fought over which of them had the better right to marry their favoured sister, quoting the verse on the two sons of Adam and their offerings, and that God, instead of resolving or halting the problem, left them to fight it out.",
+      "claimAr": "يقول المتحدث إن القرآن نفسه فيه آية تشرح كيف تصارع قابيل وهابيل على من الأولى أن ينكح أختهما المفضلة، ويقرأ آية نبأ ابني آدم والقربان، وإن الله عوض أن يحل المشكلة أو يوقفها تركهما يتخانقان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording of Q5:27 and check whether the sister-marriage motive is in the verse itself or supplied only by the tafsirs the speaker's clip cites; compare the Genesis account and the Midrashic versions of the quarrel."
+    },
+    {
+      "timestamp": "00:09:12",
+      "claimEn": "The speaker plays an exegetical account claiming Cain and Abel were full brothers who quarrelled over a girl of another womb, that their father Adam told them each to offer a sacrifice with the girl going to whichever offering was accepted, and that when Abel's was accepted Cain in envious rage threw a rock at his head and killed him.",
+      "claimAr": "يعرض المتحدث شرحاً تفسيرياً يقول إن قابيل وهابيل أخوان شقيقان اختصما في فتاة من بطن آخر، فأشار عليهما أبوهما آدم أن يقرّبا قرباناً وتكون الفتاة لمن يُتقبل قربانه، فلما قُبل قربان هابيل حسده قابيل فألقى صخرة على رأسه فقتله.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the speaker of the clip and trace this narrative — the girl of the other womb, Adam's arbitration by sacrifice, the rock — to specific tafsirs (e.g. al-Tabari's reports) and note which chains carry it."
+    },
+    {
+      "timestamp": "00:09:58",
+      "claimEn": "The speaker claims this narrative refutes the fitra: two brothers kill each other so the winner may marry his sister, while the creator of the universe sits on his throne awaiting the winner in order to legislate that marriage for him.",
+      "claimAr": "يقول المتحدث إن هذه الرواية تنقض الفطرة: رجلان أخوان يقتل أحدهما الآخر ليَنكح المنتصر أخته، وخالق الكون جالس على العرش بانتظار المنتصر ليشرّع له هذا النكاح.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins",
+        "quran-fitra-doctrine"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Confirm the inference is recorded as the speaker's, and that the underlying exegetical narrative and the fitra doctrine have each been separately verified."
+    },
+    {
+      "timestamp": "00:09:58",
+      "claimEn": "The speaker claims the Islamic creation account delivers its logical slap immediately, at its very beginning with the descent to earth and the multiplication, rather than only after examination, and that it leaves an inescapable difficulty.",
+      "claimAr": "يقول المتحدث إن رواية الخلق الإسلامية تصفع المنطق فوراً من بدايتها، من أول نزول آدم إلى الأرض والتكاثر، لا بعد فحصها، وإنها تضع صاحبها في مصيبة لا يمكن الخروج منها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Record as the speaker's summary judgment on the creation narrative; nothing to check beyond the accuracy of the narrative as he has stated it."
+    },
+    {
+      "timestamp": "00:10:43",
+      "claimEn": "The speaker claims the prohibition verse \"forbidden to you are your mothers, your daughters, your sisters, your paternal aunts\" — which he sarcastically calls the verse that silenced the Arab poets — exists first because the God of the universe apparently did not know that human psychology alone suffices to prevent such unions, and second and more importantly because without it marriage to or sex with a sister would be Islamically permitted.",
+      "claimAr": "يقول المتحدث إن آية التحريم \"حرمت عليكم أمهاتكم وبناتكم وأخواتكم وعماتكم\" — التي يسميها ساخراً الآية التي أعجزت شعراء العرب — موجودة أولاً لأن إله الكون لا يعلم على ما يبدو أن السايكولوجي البشرية وحدها كافية لمنع هذه الأمور، وثانياً والأهم لأن بغيابها يحل إسلامياً زواج الأخت أو ممارسة الجنس معها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-adam-and-human-origins"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and full list of Q4:23 and check the juristic principle the speaker relies on (that what is not prohibited is permitted) as it applies to pre-revelation marriage among Adam's children."
+    },
+    {
+      "timestamp": "00:11:21",
+      "claimEn": "The speaker claims humans historically needed an answer to where man came from and invented one, because we are uncomfortable with our ignorance, cannot say \"I don't know\", and lacked research tools; so they invented a god who created a male and a female and sent them to earth, and Islam and the Qur'an in particular adopted this blindly and out of ignorance without any thought.",
+      "claimAr": "يقول المتحدث إن البشر تاريخياً احتاجوا جواباً عن أصل الإنسان فاخترعوه، لأننا غير مرتاحين مع جهلنا ولا نستطيع قول \"لا أعلم\" ولا نملك أدوات البحث؛ فاخترعوا إلهاً خلق ذكراً وأنثى وأنزلهما إلى الأرض، وتبنى الإسلام والقرآن خاصة هذا الأمر بشكل أعمى وعن جهل بلا أي تفكير.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "narrative-origins-cultural-confluence",
+        "earlier-religious-parallels-quran-as-cultural-confluence"
+      ],
+      "newTopicIds": [
+        "religion-as-human-invention"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether comparative literature on Near Eastern creation accounts supports the claim of inherited material, and record that the speaker offers no specific antecedent text here."
+    },
+    {
+      "timestamp": "00:11:21",
+      "claimEn": "The speaker claims the Islamic answer for the origin of animals is that the same God who sent humans down became annoyed one day, drowned the whole globe and killed everything on it, having told a man to build a large ship beforehand and load a pair of every animal, and that these pairs managed to live on the ship — which he says is presented as the sound account.",
+      "claimAr": "يقول المتحدث إن الجواب الإسلامي عن أصل الحيوانات هو أن الإله نفسه الذي أنزل البشر انزعج يوماً فأغرق الكرة الأرضية وقتل كل شيء عليها، بعد أن وصّى رجلاً أن يبني سفينة كبيرة ويحمل فيها زوجين من كل الحيوانات، وأن هذه الأزواج قدرت أن تعيش على السفينة، وهذه هي \"الرواية الصحيحة\" عندهم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the Qur'anic flood and ark verses including the wording about pairs quoted in the opening montage, check whether the Qur'an describes a global rather than local flood, and compare the Genesis and Mesopotamian flood accounts."
+    },
+    {
+      "timestamp": "00:12:16",
+      "claimEn": "The speaker claims that in 2020 people run 4K cameras on Facebook and YouTube to present these bedtime tales as absolute facts beyond doubt and fully consistent with reality, while dismissing findings backed by clear scientific and genetic experiment as superstitions.",
+      "claimAr": "يقول المتحدث إنه في 2020 يشغّل ناس كاميرات 4K على فيسبوك ويوتيوب ليشرحوا أن روايات ما قبل النوم هذه حقائق مطلقة لا شك فيها ومنطقية تتماشى مع الواقع، وينتقدون في الوقت نفسه أشياء عليها تجارب علمية وجينية واضحة ويسمونها خرافات.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "A characterization of contemporary online apologetics rather than a source claim; an editor may sample representative material if the claim is to be used, and should keep it separate from the textual claims."
+    },
+    {
+      "timestamp": "00:12:16",
+      "claimEn": "The speaker claims there is a real dispute among Muslims over whether the earth is flat or spherical in Islam, with debates held over it, and that the dispute exists because the Qur'an plainly tells us the earth is flat while reality says the opposite.",
+      "claimAr": "يقول المتحدث إن هناك صراعاً حقيقياً بين المسلمين حول كون الأرض مسطحة أو مكورة في الإسلام تُعقد فيه مناظرات، وإن الصراع قائم لأن القرآن يقول بشكل واضح إن الأرض مسطحة والواقع يقول عكس ذلك.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims",
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify that contemporary Muslim flat-earth advocacy exists and argues from scripture, and assess independently whether the verses the speaker later cites carry the flat reading he asserts."
+    },
+    {
+      "timestamp": "00:13:02",
+      "claimEn": "The speaker claims the sphericity of the earth was established not merely by modern science but by the Greeks two thousand years before Muhammad's birth, who by studying triangles and shadows observed that the earth must be curved and calculated the diameter of the globe with high precision, citing the experiment of Eratosthenes.",
+      "claimAr": "يقول المتحدث إن كروية الأرض لم يثبتها العلم الحديث فقط، بل اليونانيون قبل ولادة محمد بألفي سنة، الذين رصدوا بدرس المثلثات والظل أن للأرض انحناءات وحسبوا قطر الكرة الأرضية بدقة عالية، ويحيل إلى تجربة إيراتوستينس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-greek-and-babylonian-antecedents",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the date of Eratosthenes' measurement (third century BCE) against the speaker's \"two thousand years before Muhammad's birth\", which overstates the interval, and confirm the method and accuracy described."
+    },
+    {
+      "timestamp": "00:13:02",
+      "claimEn": "The speaker claims the apologetic reply that the Qur'an never said the earth is flat is false, and reads a series of verses with their classical glosses as evidence: the earth made a firash explained as a bed, fixed and not moving; made a qarar explained as flattened and pinned down by lofty mountains; made a mihad explained as smoothed out, still and stationary; spread out (madd) explained as made broad and extended in length and breadth; laid out (madadnaha) with mountains cast into it; and made a bisat explained as spread, extended, fixed and stabilized by firm mountains.",
+      "claimAr": "يقول المتحدث إن رد الترقيع بأن القرآن لم يذكر قط أن الأرض مسطحة غير صحيح، ويقرأ سلسلة آيات بتفاسيرها دليلاً: الأرض فراشاً وتفسيرها مهداً كالفراش مقرَّرة ثابتة لا تتحرك، وقراراً وتفسيرها موطأً مثبتاً بالرواسي الشامخات، ومهاداً وتفسيرها ممهدة للخلائق ذلولاً قارّة ساكنة ثابتة، ومدّ الأرض وتفسيره أنها متسعة ممتدة في الطول والعرض، و\"والأرض مددناها وألقينا فيها رواسي\"، وبساطاً وتفسيره بسطها ومدها وقررها وثبتها بالجبال الراسيات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify each verse quoted (firash, qarar, mihad, madd al-ard, madadnaha, bisat) with its sura and aya, identify the tafsir from which each gloss is taken since the speaker names none, and check whether those glosses assert flatness or only habitability and stability."
+    },
+    {
+      "timestamp": "00:13:47",
+      "claimEn": "The speaker claims the second scientific disaster in the text is that the earth is a flat carpet with the mountains lowered onto it from above like pegs to hold it steady, whereas mountains rise from below upward through movements of the earth's crust.",
+      "claimAr": "يقول المتحدث إن المصيبة العلمية الثانية هي أن الأرض سجادة مسطحة والجبال نزلت من فوق كالأوتاد لتثبتها، بينما الجبال تنشأ من تحت إلى فوق بتقلبات القشرة الأرضية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the pegs verse (Q78:7) and the rawasi verses, check whether the text or the tafsirs describe mountains as placed from above, and compare with the geological account of orogeny."
+    },
+    {
+      "timestamp": "00:14:33",
+      "claimEn": "The speaker claims the Qur'an uses natural phenomena as arguments against the unbelievers in the verses on how camels were created, how the sky was raised, how the mountains were erected and how the earth was flattened, followed by the command to remind — and that these were meant as proofs available to the addressees.",
+      "claimAr": "يقول المتحدث إن القرآن يستعمل ظواهر الطبيعة حججاً على الكافرين في آيات \"أفلا ينظرون إلى الإبل كيف خلقت وإلى السماء كيف رفعت وإلى الجبال كيف نصبت وإلى الأرض كيف سطحت\" ثم \"فذكّر إنما أنت مذكّر لست عليهم بمسيطر\"، وأنها قُصدت أدلة متاحة للمخاطبين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and sequence of Q88:17-22 and check the classical exegesis of sutihat (flattened) against the alternative renderings offered in modern translations."
+    },
+    {
+      "timestamp": "00:14:41",
+      "claimEn": "The speaker claims not one word of that series is correct: nobody has ever seen camels being created in his lifetime, the sky is not a ceiling and cannot be raised so there is no such thing as the sky being raised or being a preserved roof, mountains were not erected as pegs from above but formed from below by crustal movement, and the earth is not flat.",
+      "claimAr": "يقول المتحدث إن ولا كلمة واحدة صح في هذه الآيات: ما أحد شاف الإبل تُخلق في حياته، والسماء ليست سقفاً ولا يمكن رفعها فلا شيء اسمه رفع السماء أو سقف محفوظ، والجبال لم تُنصب كالأوتاد من فوق بل من تحت لفوق بتقلبات القشرة الأرضية، والأرض ليست مسطحة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the \"preserved roof\" verse (Q21:32) the speaker alludes to, and check each of the four assertions separately against the text and against current scientific description before treating the sweeping conclusion as established."
+    },
+    {
+      "timestamp": "00:15:26",
+      "claimEn": "The speaker claims the apologetic reading that God meant the earth merely appears spread out and flat while in reality it is a sphere is a modern invention found nowhere in the Qur'an, the sunnah or any Islamic athar, and that its need to be supplied in 2020 shows God failed to convey his meaning in his own \"clear book\".",
+      "claimAr": "يقول المتحدث إن قراءة الترقيع بأن الله أراد أن الأرض تبدو مبسوطة ومسطحة وهي في الحقيقة مكورة اختراع حديث غير موجود لا في القرآن ولا السنة ولا أي أثر إسلامي، وأن الحاجة إلى شرحها في 2020 تعني أن الله لم يعرف يوصل مقصده في كتابه المبين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Search the classical tafsir and hadith corpus for any pre-modern statement that the earth only appears flat, and check whether classical scholars who affirmed sphericity (e.g. Ibn Hazm, Ibn Taymiyya) argued from these verses or from other grounds."
+    },
+    {
+      "timestamp": "00:15:26",
+      "claimEn": "The speaker claims the verse \"He created the heavens and the earth in truth; He wraps the night over the day and the day over the night\" states the actual Qur'anic conception — a flat earth around which the spherical sun and moon revolve — and that this is what explains Muhammad's statement that the sun descends each day beneath the Throne of the Merciful.",
+      "claimAr": "يقول المتحدث إن آية \"هو الذي خلق السماوات والأرض بالحق يكوّر الليل على النهار والنهار على الليل\" تقرر التصور القرآني الفعلي: أرض مسطحة تدور حولها الشمس والقمر بشكل كروي، وهذا ما يفسر كلام محمد أن الشمس تنزل تحت عرش الرحمن كل يوم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation",
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the verse (wording matches Q39:5) and locate the hadith of the sun going beneath or prostrating under the Throne with its collection and grading, since the speaker gives no locator; check the exegesis of yukawwir."
+    },
+    {
+      "timestamp": "00:15:26",
+      "claimEn": "The speaker claims this Qur'anic conception coincides with all the superstitions of the ancients, the way people before Islam imagined things.",
+      "claimAr": "يقول المتحدث إن هذا التصور القرآني يتماشى مع كل خرافات الأولين، أي مع ما كان يتخيله الناس قبل الإسلام.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check ancient Near Eastern and late antique cosmographies for the flat-earth-with-orbiting-luminaries picture the speaker attributes to them, and note that he names no specific antecedent source."
+    },
+    {
+      "timestamp": "00:16:06",
+      "claimEn": "The speaker claims that because the older patches no longer hold now that people can research and information is easily available, a new patch has appeared: sheikhs asked whether the earth is flat or spherical in the Qur'an answer that the scholars of the umma reached consensus that it is spherical and that whoever says otherwise is ignorant.",
+      "claimAr": "يقول المتحدث إن الترقيعات القديمة ما عادت تنفع بعد أن صار الناس يقدرون على البحث والمعلومة متوافرة، فظهر ترقيع جديد: يُسأل الشيخ هل الأرض مسطحة أو كروية في القرآن فيجيب أن علماء الأمة أجمعوا على أنها كروية ومن قال بغير هذا القول فهو جاهل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the sheikh quoted and check whether a consensus on sphericity is in fact reported by scholars such as Ibn Taymiyya or Ibn Hazm, and on what grounds it was claimed."
+    },
+    {
+      "timestamp": "00:16:06",
+      "claimEn": "The speaker claims the appeal to that consensus misses the question, since what scholars held five or six hundred years after Muhammad's death is not the issue — the issue is what Muhammad and the Qur'an themselves said about the earth — and that they resort to the consensus precisely because they know the text says it is spread out flat.",
+      "claimAr": "يقول المتحدث إن الاحتجاج بهذا الإجماع يتجاوز السؤال، فليس المهم رأي علماء الأمة بعد وفاة محمد بخمس أو ست مئة سنة، بل ما قاله محمد والقرآن عن الأرض، وإنهم يلجأون إلى الإجماع لأنهم يعرفون أن النص يقول إنها مبسوطة مسطحة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the dating implied for the alleged consensus and whether any early authority within the first two centuries addressed the shape of the earth; the inference about motives is not itself checkable."
+    },
+    {
+      "timestamp": "00:16:50",
+      "claimEn": "The speaker plays a sheikh saying the question is not worth pursuing, that God will not hold a person accountable for saying the earth is flat or spherical, that the matter admits both views and that neither position should be denounced — and claims this retreat is forced because they know there is no evidence in the Qur'an or sunnah for sphericity, otherwise they would have produced it.",
+      "claimAr": "ينقل المتحدث عن شيخ أن المسألة ما تستاهل، وأن الله لن يحاسبك هل قلت الأرض مسطحة أو كروية، وأن المسألة تحتمل القولين ولا يُشنَّع على أحدهما، ويقول إن هذا التراجع مضطر لأنهم يعرفون أن لا دليل في القرآن أو السنة على الكروية وإلا لجابوه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the fatwa or lecture quoted and confirm its wording; the argument from silence — that no verse asserting sphericity exists — should be checked against the verses apologists usually cite for it."
+    },
+    {
+      "timestamp": "00:17:33",
+      "claimEn": "The speaker claims the decisive and uninterpretable proof is the qibla: the verse commanding \"turn your face toward the Sacred Mosque, and wherever you are turn your faces toward it\" can only work on a flat earth, where one finds the direction with a compass and turns one's face toward the mosque.",
+      "claimAr": "يقول المتحدث إن الدليل القاطع الذي لا يُؤوَّل هو القبلة: آية \"فولِّ وجهك شطر المسجد الحرام وحيثما كنتم فولّوا وجوهكم شطره\" لا تعمل إلا على أرض مسطحة، حيث تجد الاتجاه ببوصلة وتولي وجهك شطر المسجد.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording of the qibla verse (Q2:144) and check the juristic literature on facing the Ka'ba over long distances (jihat versus 'ayn al-Ka'ba, and great-circle direction) which bears directly on the inference."
+    },
+    {
+      "timestamp": "00:18:19",
+      "claimEn": "The speaker claims that on a spherical earth one cannot actually turn one's face toward the Sacred Mosque because of the curvature: one would be facing the sky or space rather than the Ka'ba.",
+      "claimAr": "يقول المتحدث إنه على أرض كروية لا يمكن فعلاً أن يولي المصلي وجهه شطر المسجد الحرام بسبب انحناء الكرة الأرضية، فسيكون متوجهاً إلى السماء أو الفضاء لا إلى الكعبة.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the geometric argument itself: whether facing along a great circle counts as facing the Ka'ba, and how the fiqh of qibla direction on a globe answers it."
+    },
+    {
+      "timestamp": "00:18:19",
+      "claimEn": "The speaker claims that prayer itself, performed and repeated daily by millions of Muslims, is therefore evidence that the Qur'an, Muhammad, Islam and God believed the earth is flat, since otherwise there would have been no need for a qibla or for the command to turn faces toward the Sacred Mosque at all.",
+      "claimAr": "يقول المتحدث إن الصلاة نفسها التي يعملها الملايين ويكررونها يومياً دليل على أن القرآن ومحمداً والإسلام والله يعتقدون أن الأرض مسطحة، وإلا لما كان لازماً وجود شيء اسمه قبلة أو أمر بتولية الوجوه شطر المسجد الحرام.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This conclusion stands or falls with the geometric premise above; verify that premise and the qibla verse before recording the conclusion as anything more than the speaker's inference."
+    },
+    {
+      "timestamp": "00:19:02",
+      "claimEn": "The speaker claims it is strange that prayer — one of the most important pillars of Islam and practically the only way a Muslim communicates with his God, obligatory five times a day — turns out to be built on a superstition caused by the ignorance of earlier humans.",
+      "claimAr": "يقول المتحدث إنه غريب أن الصلاة، وهي من أهم أعمدة الإسلام والطريقة الوحيدة عملياً ليتواصل المسلم مع إلهه ويُجبر عليها خمس مرات في اليوم، تطلع مبنية على خرافة سببها جهل البشر الأولين.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [
+        "quran-flat-earth-cosmography",
+        "religion-as-human-invention"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Record as the speaker's conclusion from the qibla argument; nothing further to check beyond the premises already listed."
+    },
+    {
+      "timestamp": "00:19:23",
+      "claimEn": "The speaker claims he does not blame Islam for holding the earth flat, nor the civilizations before the Arabs who assumed things are exactly as they appear, because the Qur'an is a son of this region, inspired by the minds of the people who lived in that time and place, so it is unsurprising that it adopts the superstitions of the Arabs, which they in turn had taken from other civilizations — that is how superstition travels and reaches the world.",
+      "claimAr": "يقول المتحدث إنه لا يلوم الإسلام على اعتقاد أن الأرض مسطحة، ولا الحضارات التي قبل العرب التي ظنت أن الأمور تماماً كما تبدو، لأن القرآن ابن هذه المنطقة ومستوحى من عقول الناس الذين عاشوا في ذلك الزمان والمكان، فليس غريباً أن يتبنى خرافات العرب التي تبنوها هم من حضارات أخرى، وهكذا تنتقل الخرافة وتصل العالم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "quran-sources-and-cultural-influences",
+        "narrative-origins-cultural-confluence"
+      ],
+      "newTopicIds": [
+        "religion-as-human-invention"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the episode's summary thesis; check it against the specific transmission claims made elsewhere in the series, since here the speaker names no intermediary culture or text for the cosmology in question."
+    },
+    {
+      "timestamp": "00:20:09",
+      "claimEn": "The speaker urges viewers not to accept his words blindly but to read the verses he cited with their tafsirs, occasions of revelation and hadiths and reach their own convictions, and warns them not to share the video if they live in a fanatical Muslim society or family.",
+      "claimAr": "يوصي المتحدث المشاهدين ألا يأخذوا كلامه على أنه صحيح بشكل أعمى، بل يقرأوا الآيات التي ذكرها مع تفاسيرها وأسباب نزولها وأحاديثها ويصلوا إلى قناعات شخصية، ويحذرهم من مشاركة الفيديو إن كانوا في مجتمع أو عائلة إسلامية متعصبة.",
+      "claimType": "theological",
+      "premiseStance": "irrelevant",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Closing methodological and safety advice with no bearing on the premise; recorded only so the episode's structure is complete."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "event",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "الله جل وعلا أهبط آدم إلى الأرض بعد أن أكل من الشجرة التي نُهي أن يأكل منها",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "يا معشر الجن والإنس — يشرحها المتحدث في المقطع بعبارة غير واضحة \"بصورة الرحمن وصورة الأنعام، يعني يا أيها المختفين ويا أيها الظاهرين\"",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "يا معشر الجن والإنس",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "قال لهم اركبوا في السفينة، ذكر وأنثى من كل زوجين اثنين، فبدأت الحيوانات تركب",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "من كل زوجين اثنين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "لو كان الأرض مسطحة من كل فج بعيد، أما لأنها كرة من كل فج عميق",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "من كل فج عميق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "داعية غير مسمّى في المقطع الافتتاحي: \"وهل هذا يعوّل عليه ويُهدر كلام ربنا وتفسير علماء السلف؟ أهذا يقول به مسلم عاقل؟ فالقول قول ربنا سبحانه، الأرض سطّحها ربنا وهي مدحوّة\"",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:01",
+      "asStatedInVideo": "علماء السلف — يُحتج بتفسيرهم في المقطع الافتتاحي على تسطيح الأرض",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:04",
+      "asStatedInVideo": "الآية التي تقول فطرة الله التي فطر الناس عليها لا تبديل لخلق الله، ذلك الدين القيم ولكن أكثر الناس لا يعلمون",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "فطرة الله التي فطر الناس عليها لا تبديل لخلق الله ذلك الدين القيم ولكن أكثر الناس لا يعلمون",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:03:32",
+      "asStatedInVideo": "الإجابة أتت من خير المرسلين لما قال: ما من مولود إلا يولد على الفطرة فأبواه يهوّدانه أو ينصّرانه أو يمجّسانه — ثم تلا آية فطرة الله",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ما من مولود إلا يولد على الفطرة فأبواه يهودانه أو ينصرانه أو يمجسانه",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:08",
+      "asStatedInVideo": "زواج الصغيرات الذي لم يُحدَّ لنا في القرآن — لا سن أدنى للزواج",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:08",
+      "asStatedInVideo": "ولا ضرب الزوجة الناشز اللي هي غير مطيعة، فاضربوهن",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "فاضربوهن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:08",
+      "asStatedInVideo": "ولا امتلاك الناس كعبيد، من ملك اليمين والسراري والأَمَة والجواري",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:08",
+      "asStatedInVideo": "ولا قطع يد السارق، كلها بالقرآن",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:41",
+      "asStatedInVideo": "الرواية الإسلامية هي قصة آدم وحواء، الله أنزل آدم وحواء للأرض",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:41",
+      "asStatedInVideo": "قابيل وهابيل، ابنا آدم، اتزوجوا وتكاثروا وانتشر العرق البشري",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:26",
+      "asStatedInVideo": "داعية غير مسمّى: \"الله جل وعلا أن يكون هناك تناسل وتناكح في أبناء بني آدم حتى يكثر السواد ويعظم العدد، من ذلك كان آدم عليه السلام يزوّج الذكر من بطن بالأنثى من البطن الآخر\"",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:12",
+      "asStatedInVideo": "واتلُ عليهم نبأ ابنَي آدم بالحق إذ قرّبا قرباناً فتُقبِّل من أحدهما ولم يُتقبَّل من الآخر، قال لأقتلنك، قال إنما يتقبل الله من المتقين",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "واتل عليهم نبأ ابني آدم بالحق إذ قربا قربانا فتقبل من أحدهما ولم يتقبل من الآخر قال لأقتلنك قال إنما يتقبل الله من المتقين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:12",
+      "asStatedInVideo": "شرح تفسيري في مقطع مُقتبس: \"كان قابيل وهابيل وهما أخوان شقيقان، اختصما في فتاة كانت في بطن آخر... فأشار عليهما والدهما آدم أن يقرّب قرباناً إلى الله والذي يُتقبَّل قربانه تكون الفتاة من حظه... فعمد إلى صخرة في أظهر الروايات فألقاها على رأس أخيه فقتله\"",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:43",
+      "asStatedInVideo": "الآية التي أعجزت شعراء العرب: حُرِّمت عليكم أمهاتكم وبناتكم وأخواتكم وعمّاتكم إلى آخره",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "حرمت عليكم أمهاتكم وبناتكم وأخواتكم وعماتكم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:11:21",
+      "asStatedInVideo": "هذا الإله نفسه اللي أنزل البشر انزعج فأغرق كرة أرضية وقتل كل شيء عليها ووصّى رجل يبني سفينة كبيرة ويحط عليها زوجين من جميع الحيوانات — هاي هي الرواية الصحيحة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "اليونانيين من 2000 سنة قبل ولادة محمد قدروا يرصدوا ويثبتوا أن الأرض كروية",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "بنصحكم تقرأوا عن تجربة إيراتوستينس (وردت في النقل: إيروتاستينيثي) — حسب قطر الأرض وانحناءاتها بقياس الظل والمثلثات",
+      "workTitle": "",
+      "author": "إيراتوستينس",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "الذي جعل لكم الأرض فراشا",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "الذي جعل لكم الأرض فراشا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "تفسير غير مسمّى لكلمة فراشا: \"مهداً كالفراش، مقرَّرة يعني ثابتة لا تتحرك\"",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "وتقول جعلنا الأرض قراراً — وتفسيرها: موطَّأً مثبَّتاً بالرواسي الشامخات اللي هي الجبال",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "جعلنا الأرض قرارا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "ألم نجعل الأرض مهاداً — وتفسيرها: ممهَّدة للخلائق، ذلولاً لهم، قارّة ساكنة ثابتة",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "ألم نجعل الأرض مهادا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "هو الذي مدّ الأرض وجعل فيها رواسي وأنهاراً — وتفسيرها: أي جعلها متسعة ممتدة في الطول والعرض",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "هو الذي مد الأرض وجعل فيها رواسي وأنهارا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "والأرض مددناها وألقينا فيها رواسي — ثم ذكر تعالى خلقه الأرض ومدّه إياها وتوسيعها وبسطها",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "والأرض مددناها وألقينا فيها رواسي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "والله جعل لكم الأرض بساطاً — بسطها ومدها وقرّرها وثبتها بالجبال الراسيات",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "والله جعل لكم الأرض بساطا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "شروح تفسيرية غير مسمّاة تُقرأ مع كل آية (موطأ مثبت بالرواسي الشامخات؛ ممهدة للخلائق ذلولاً؛ متسعة ممتدة في الطول والعرض؛ بسطها ومدها وقررها وثبتها بالجبال الراسيات)",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:47",
+      "asStatedInVideo": "الجبال من فوق نزلت كالأوتاد حتى تثبت الأرض",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:33",
+      "asStatedInVideo": "الآيات اللي الله بيستعملهم كحجة على الكافرين: أفلا ينظرون إلى الإبل كيف خُلقت وإلى السماء كيف رُفعت وإلى الجبال كيف نُصبت وإلى الأرض كيف سُطحت",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "أفلا ينظرون إلى الإبل كيف خلقت وإلى السماء كيف رفعت وإلى الجبال كيف نصبت وإلى الأرض كيف سطحت",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:33",
+      "asStatedInVideo": "فذكِّر إنما أنت مذكِّر لست عليهم بمسيطر",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "فذكر إنما أنت مذكر لست عليهم بمسيطر",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:41",
+      "asStatedInVideo": "السماء سقف، سقف محفوظ — هذا المفهوم القرآني غلط",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "سقف محفوظ",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:26",
+      "asStatedInVideo": "الآية اللي بتقول هو الذي خلق السماوات والأرض بالحق يكوّر الليل على النهار والنهار على الليل",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "هو الذي خلق السماوات والأرض بالحق يكور الليل على النهار والنهار على الليل",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:15:26",
+      "asStatedInVideo": "كلام محمد أن الشمس بتنزل تحت عرش الرحمن كل يوم",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:06",
+      "asStatedInVideo": "شيخ غير مسمّى: \"أجمع علماء الأمة أن الأرض كروية ومن قال بغير هذا القول فهو جاهل\"",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:50",
+      "asStatedInVideo": "شيخ غير مسمّى: \"مسألة ما تستاهل... لن يحاسبك الله هل قلت أن الأرض مسطحة أو الأرض كروية، والمسألة تحتمل القولين، فإذا أخذ أحدهم بهذا القول أو بهذا القول لا يُشنَّع\"",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:17:33",
+      "asStatedInVideo": "قال الله تعالى في كتابه: فلنولّينك قبلة ترضاها، فولِّ وجهك شطر المسجد الحرام، وحيثما كنتم فولّوا وجوهكم شطره",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "فلنولينك قبلة ترضاها فول وجهك شطر المسجد الحرام وحيثما كنتم فولوا وجوهكم شطره",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:23",
+      "asStatedInVideo": "الحضارات اللي قبل العرب اللي كانوا مفكرين أنه الأمور هي تماماً كما تبدو — والعرب تبنوا خرافاتهم من حضارات تانية",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-flat-earth-cosmography",
+      "titleEn": "Flat-earth cosmography and the qibla",
+      "titleAr": "تسطيح الأرض والقبلة",
+      "descriptionEn": "Claims that the Qur'an, the hadith and the classical exegesis presuppose a flat, spread-out and immobile earth — the firash, qarar, mihad, madd and bisat verses, mountains as stabilising pegs, the raised sky, the sun's daily descent, and the argument that the qibla and daily prayer only work on a flat surface — together with the modern apologetic replies of \"it merely appears flat\" and of scholarly consensus on sphericity.",
+      "descriptionAr": "دعاوى أن القرآن والحديث وتفاسير المتقدمين تفترض أرضاً مسطحة مبسوطة ثابتة — آيات الفراش والقرار والمهاد والمد والبساط، والجبال كأوتاد مثبِّتة، ورفع السماء، ونزول الشمس اليومي، والحجة بأن القبلة والصلاة لا تعملان إلا على سطح مستوٍ — مع الردود الدعوية الحديثة بأنها \"تبدو كذلك\" وبإجماع العلماء على الكروية.",
+      "suggestedParentId": "quran-scientific-claims",
+      "closestExistingId": "quran-scientific-claims-earth-and-natural-phenomena",
+      "rationale": "The episode returns to this subject for a third of its length and it is a standing debate other videos in the series and elsewhere also address, but the existing earth-sciences topic is scoped to mountains, iron, the two seas and the watery origin of life; the shape of the earth, the sky as ceiling and the qibla argument have no home there and would otherwise be forced under the loose parent."
+    },
+    {
+      "proposedId": "quran-fitra-doctrine",
+      "titleEn": "The doctrine of fitra",
+      "titleAr": "مفهوم الفطرة",
+      "descriptionEn": "Claims about the fitra verse and the hadith that parents make a child a Jew, Christian or Magian: the identification of the fitra with Islam, the redundancy of sent religions alongside it, the demographic and doctrinal disagreement said to refute it, the alternative reading of fitra as innate moral discernment, and the argument that this reading cannot be reconciled with Qur'anic legislation.",
+      "descriptionAr": "دعاوى حول آية الفطرة وحديث \"فأبواه يهودانه أو ينصرانه أو يمجسانه\": تعيين الفطرة بالإسلام، وزيادة إرسال الأديان معها، والاختلاف العددي والعقدي الذي يُقال إنه ينقضها، والقراءة البديلة للفطرة كمعرفة فطرية للصح والغلط، والحجة بأن هذه القراءة لا تجتمع مع تشريعات القرآن.",
+      "suggestedParentId": "quran",
+      "closestExistingId": "quran-internal-tensions",
+      "rationale": "Half the episode argues this one doctrine, and it recurs as a standard argument in this genre. It spans a Qur'anic verse, a hadith and a moral argument, so it does not sit under the internal-tensions or lexical children specifically; a durable topic is better than splitting it across three loose parents."
+    },
+    {
+      "proposedId": "quran-adam-and-human-origins",
+      "titleEn": "Adam, human origins and the sons of Adam",
+      "titleAr": "آدم وأصل الإنسان وابنا آدم",
+      "descriptionEn": "Claims about the Qur'anic and traditional account of the first human pair and their descendants: the descent to earth, the sibling marriages required for the race to multiply, the exegetical narrative of the quarrel of Adam's two sons over the favoured sister, and the bearing of the incest prohibitions on that account.",
+      "descriptionAr": "دعاوى حول الرواية القرآنية والتراثية للزوج البشري الأول وذريته: النزول إلى الأرض، وزواج الإخوة اللازم للتكاثر، والرواية التفسيرية لخصام ابني آدم على الأخت المفضلة، ودلالة آية تحريم المحرمات على هذه الرواية.",
+      "suggestedParentId": "quran-historical-claims-narrative-origins",
+      "closestExistingId": "quran-historical-claims-narrative-origins",
+      "rationale": "The creation-of-humanity narrative and its incest problem occupy about four minutes of this episode and are a recurring subject in comparative treatments of Genesis, Midrash and the Qur'an, yet the existing narrative-origins topics are scoped to Moses, al-Kahf, al-Fil and conflated figures with no place for Adam's family."
+    },
+    {
+      "proposedId": "religion-as-human-invention",
+      "titleEn": "Religion as a human explanatory invention",
+      "titleAr": "الدين كاختراع بشري تفسيري",
+      "descriptionEn": "General claims that religion functions as a human answer to the unknown — the origin of the universe and of man, spirits and possession — transmitted by childhood indoctrination, and that morality and explanation come from human experience rather than from revelation; the general form of the argument, as distinct from claims tracing specific texts to specific sources.",
+      "descriptionAr": "دعاوى عامة بأن الدين يعمل كجواب بشري عن المجهول — أصل الكون والإنسان، والأرواح والمس — يُنقل بالتلقين في الصغر، وأن الأخلاق والتفسير يأتيان من التجربة البشرية لا من الوحي؛ الصورة العامة للحجة، بخلاف الدعاوى التي تنسب نصاً بعينه إلى مصدر بعينه.",
+      "suggestedParentId": "-",
+      "closestExistingId": "quran-psychological-origin",
+      "rationale": "The episode opens, pivots and closes on this general argument, and the whole series rests on it, but the existing psychological-origin topic is specifically about Muhammad's states and traumas as the source of particular texts, so these general framing claims have nowhere to sit."
+    }
+  ]
+}

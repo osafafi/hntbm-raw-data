@@ -1,0 +1,771 @@
+{
+  "schemaVersion": 1,
+  "videoId": "6Fewib-ZrZY",
+  "videoUrl": "https://www.youtube.com/watch?v=6Fewib-ZrZY",
+  "videoTitle": "خرافة الجن وتفسير حالات اللبس",
+  "creator": "Sherif Gaber",
+  "uploadDate": "20210311",
+  "extractedAt": "2026-08-17T08:31:58+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "An Arabic-language episode arguing that the jinn are a pre-Islamic Mesopotamian and Arabian superstition inherited by Islam, and that reported cases of possession are mental and neurological illnesses whose symptoms are shaped by the sufferer's own culture. The speaker traces the word and concept of jinn to Sumerian, Babylonian and Palmyrene spirit beings, mocks the internal logic of jinn lore (filthy places, black colour, male jinn, summoning procedures), cites a study of patients in a Chinese psychiatric hospital and the DSM-5 to argue that possession symptoms follow the patient's beliefs, identifies a famous 'exorcism' clip as a 1967 psychiatric documentary about hysteria, surveys Japanese, Thai, Christian and Muslim exorcists as parallel cultural constructions, and closes by arguing that clergy exploit the ignorant and that magic would be visibly used if it were real.",
+  "summaryAr": "حلقة بالعربية تجادل بأن الجن خرافة رافدية وعربية سابقة على الإسلام ورثها الإسلام، وأن حالات اللبس المزعومة أمراض عقلية وعصبية تتشكل أعراضها من ثقافة المريض نفسه. يردّ المتحدث لفظ الجن وفكرته إلى كائنات السومريين والبابليين وأهل تدمر، ويسخر من منطق معتقد الجن (الأماكن الوسخة، اللون الأسود، ذكورية الجن، طرق التحضير)، ويستشهد بدراسة على مرضى في مستشفى للأمراض العقلية في الصين وبدليل DSM-5 ليقول إن أعراض اللبس تتبع معتقد المريض، ويكشف أن مقطع «إخراج الشيطان» الشهير هو من فيلم وثائقي طبي سنة 1967 عن الهستيريا، ويستعرض كهنة اليابان وتايلاند والمسيحيين والمسلمين كبنى ثقافية متوازية، ويختم بأن رجال الدين يستغلون جهل الناس وأن السحر لو كان حقيقيًا لظهر أثره في الواقع.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:08",
+      "stepEn": "Opens 3000 years before Islam with the Sumerian Pazuzu — black, human-bodied, dog-headed beings of the underworld — presented as a superstition later creeds carried over.",
+      "stepAr": "يبدأ من قبل الإسلام بثلاثة آلاف سنة بكائنات البازوزو السومرية — سوداء بأجساد بشر ورؤوس كلاب تسكن العالم السفلي — بوصفها خرافة انتقلت إلى معتقدات لاحقة."
+    },
+    {
+      "timestamp": "00:00:08",
+      "stepEn": "Adds the Babylonian beings said to inhabit graves and unclean graveyards, supplying the motif of spirits living in filthy places.",
+      "stepAr": "يضيف الكائنات البابلية التي قيل إنها تسكن المقابر والمقابر غير النظيفة، فتتوفر فكرة الأرواح الساكنة في الأماكن الوسخة."
+    },
+    {
+      "timestamp": "00:00:53",
+      "stepEn": "Derives the Arabic word jinn from the 'ginnaye' of Palmyra: desert beings able to take human form.",
+      "stepAr": "يشتق كلمة «جن» من «الجناية» في تدمر: كائنات صحراوية تتهيأ على شكل بشر."
+    },
+    {
+      "timestamp": "00:01:34",
+      "stepEn": "States that Arabs and Bedouins believed in exactly these jinn for thousands of years before the Islamic creed appeared.",
+      "stepAr": "يقرر أن العرب والبدو آمنوا بهذه الكائنات نفسها آلاف السنين قبل ظهور المعتقد الإسلامي."
+    },
+    {
+      "timestamp": "00:01:34",
+      "stepEn": "Attacks the internal logic: immaterial beings cannot have a relation to physical filth, humidity or temperature the way insects do.",
+      "stepAr": "يهاجم المنطق الداخلي: كائنات لا علاقة لها بالمادة لا يمكن أن ترتبط بالوساخة والرطوبة والحرارة كما ترتبط الحشرات."
+    },
+    {
+      "timestamp": "00:02:22",
+      "stepEn": "Explains the lore as colour-coded folk reasoning — ugly beings in ugly places, black cats and black dogs as devils, white angels as good — and cites a hadith that the pure black dog is a devil.",
+      "stepAr": "يفسر المعتقد بتفكير شعبي قائم على اللون — كائنات وحشة في أماكن وحشة، القطة والكلب الأسود شياطين، الملائكة بيضاء فحسنة — ويستشهد بحديث أن الكلب الأسود البهيم شيطان."
+    },
+    {
+      "timestamp": "00:03:02",
+      "stepEn": "Observes that bathroom possession is reported only in Muslim countries, though people everywhere use bathrooms and fall in them.",
+      "stepAr": "يلاحظ أن اللبس في الحمامات لا يُروى إلا في بلاد المسلمين، مع أن الناس في كل العالم عندهم حمامات ويقعون فيها."
+    },
+    {
+      "timestamp": "00:03:45",
+      "stepEn": "Ridicules the mechanics of summoning: nobody knows who discovered the procedures, why a jinn would obey, or why the jinn that appears is always male in a patriarchal jinn society.",
+      "stepAr": "يسخر من آليات التحضير: لا أحد يعرف من اكتشف الخطوات، ولا لماذا يطيع الجن، ولا لماذا يكون الذي يظهر دائمًا جنيًّا ذكرًا في مجتمع جن ذكوري."
+    },
+    {
+      "timestamp": "00:06:43",
+      "stepEn": "Turns to evidence: a study of patients in a Chinese psychiatric hospital who believed themselves possessed, all diagnosed with mental illness.",
+      "stepAr": "ينتقل إلى الدليل: دراسة على مرضى في مستشفى للأمراض العقلية في الصين اعتقدوا أنهم ملبوسون، وشُخّصوا جميعًا بمرض عقلي."
+    },
+    {
+      "timestamp": "00:07:29",
+      "stepEn": "Breaks down what the patients believed possessed them — dead spirits, evil Chinese gods, animals, devils — showing each society classifies its own kinds of possession.",
+      "stepAr": "يفصّل ما اعتقد المرضى أنه لبسهم — أرواح موتى، آلهة صينية شريرة، حيوانات، شياطين — فكل مجتمع يصنف أنواع لبسه الخاصة."
+    },
+    {
+      "timestamp": "00:08:14",
+      "stepEn": "Invokes the DSM-5 rule that possession-disorder symptoms are drawn from the patient's own beliefs, then applies it: Christians react to crosses, Muslims to Qur'an recitation, and toddlers are never possessed.",
+      "stepAr": "يستدعي قاعدة الـDSM-5 بأن أعراض متلازمة اللبس تُكتسب من أفكار المريض نفسه، ثم يطبقها: المسيحيون يهيجون من الصليب والمسلمون من القرآن، والأطفال الصغار لا يُلبَسون أبدًا."
+    },
+    {
+      "timestamp": "00:10:35",
+      "stepEn": "Runs thought-experiments swapping the ritual object across cultures — holy water on a Buddhist, Qur'an on a Chinese patient, Qur'an in English in a plain voice on a Muslim woman — to show the effect lies in the patient's mental image.",
+      "stepAr": "يجري تجارب ذهنية بتبديل الأداة الطقسية بين الثقافات — ماء مقدس على بوذي، قرآن على صيني، قرآن بالإنجليزية بصوت عادي على مسلمة — ليثبت أن الأثر في صورة ذهنية داخل المريض."
+    },
+    {
+      "timestamp": "00:12:53",
+      "stepEn": "Exposes a famous 'exorcism' video as a clip from a 1967 psychiatric documentary about hysteria, and adds temporal-lobe epilepsy and hierophobia as further conditions read as possession.",
+      "stepAr": "يكشف أن فيديو «إخراج الشيطان» الشهير مقطع من فيلم وثائقي طبي سنة 1967 عن الهستيريا، ويضيف صرع الفص الصدغي والهيروفوبيا كأمراض تُقرأ على أنها لبس."
+    },
+    {
+      "timestamp": "00:17:00",
+      "stepEn": "Notes that Arab societies constantly report possession and never schizophrenia or epilepsy, attributing this to poverty and widespread ignorance.",
+      "stepAr": "يلاحظ أن مجتمعاتنا تسمع دائمًا عن اللبس ولا تسمع عن الفصام أو الصرع، ويعزو ذلك إلى الفقر وانتشار الجهل."
+    },
+    {
+      "timestamp": "00:18:03",
+      "stepEn": "Lines up Japanese, Thai, Christian and Muslim exorcists performing the same ritual with different labels and props, presenting the parallel as proof of cultural construction.",
+      "stepAr": "يصفّ كهنة اليابان وتايلاند والمسيحيين والمسلمين وهم يؤدون الطقس نفسه بأسماء وأدوات مختلفة، ويقدم التوازي دليلًا على أنها صناعة ثقافية."
+    },
+    {
+      "timestamp": "00:20:38",
+      "stepEn": "Dismisses the popular miracle-and-possession stories as 95% fabrication resting on a preacher's word, and 5% real events misunderstood.",
+      "stepAr": "يرد القصص الشعبية عن الكرامات واللبس إلى 95% كذب لا دليل عليه إلا كلام الشيخ، و5% وقائع حقيقية لم يُفهم تفسيرها العلمي."
+    },
+    {
+      "timestamp": "00:20:58",
+      "stepEn": "Concludes that clergy exploit the ignorant, that lying in religion is licensed for a good end, and that if magic were real it would be used against tyrants or by intelligence agencies — so it is superstition serving people's moments of weakness.",
+      "stepAr": "يخلص إلى أن رجال الدين يستغلون الغلابة، وأن الكذب في الدين مباح لغاية حسنة، وأن السحر لو كان حقيقيًا لاستُخدم ضد الحكام الظالمين أو في أجهزة المخابرات — فهو خرافة تخدم لحظات ضعف الناس."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:08",
+      "claimEn": "The speaker claims that some 3000 years ago the Sumerians believed in beings called Pazuzu — black in colour, with human bodies and the head of a dog, living in a place called the underworld — and that this was a superstition later belief systems carried over.",
+      "claimAr": "يقول المتحدث إن السومريين منذ نحو 3000 سنة آمنوا بكائنات اسمها البازوزو، لونها أسود وجسمها مثل البشر ورأسها رأس كلب، وتعيش في العالم السفلي، وإن هذه خرافة انتقلت إلى معتقدات لاحقة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "earlier-religious-parallels-greek-and-babylonian-antecedents"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Assyriological literature on Pazuzu: its dating, iconography (canine or leonine head), colour associations, and its association with the netherworld, and whether specialists describe it as Sumerian or Akkadian/Assyrian."
+    },
+    {
+      "timestamp": "00:00:08",
+      "claimEn": "The speaker claims that the Babylonians, before the Sumerians in his telling, believed in a second class of beings that live in graves and in unclean graveyards.",
+      "claimAr": "يقول المتحدث إن البابليين آمنوا بكائنات أخرى تعيش في المقابر وفي المقابر غير النظيفة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "earlier-religious-parallels-greek-and-babylonian-antecedents"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Babylonian demon class the speaker names (the transcript renders it as 'al-qutuku'; possibly gallû or utukku) and verify whether Mesopotamian sources locate such beings in graves and unclean places. The transcript is garbled at this point."
+    },
+    {
+      "timestamp": "00:00:53",
+      "claimEn": "The speaker claims that the people of Palmyra (Tadmur) believed in beings called 'ginnaye' that live in the desert and can take human form, and that the Arabic word 'jinn' is derived from that name.",
+      "claimAr": "يقول المتحدث إن أهل مدينة تدمر آمنوا بكائنات اسمها «الجناية» تعيش في الصحراء ويمكن أن تتهيأ على شكل بشر، وإن كلمة «جن» العربية مشتقة من هذا الاسم.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "earlier-religious-parallels-syriac-aramaic-philology",
+        "syriac-aramaic-religious-vocabulary"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Palmyrene Aramaic epigraphy and dedications to the ginnaye, and the etymological literature deriving Arabic jinn from that Aramaic term rather than from an Arabic root j-n-n meaning concealment."
+    },
+    {
+      "timestamp": "00:00:53",
+      "claimEn": "The speaker claims that the jinn were a being whose existence Arabs and Bedouins of the Arabian Peninsula had believed in for thousands of years, before the Islamic creed itself appeared.",
+      "claimAr": "يقول المتحدث إن الجن كائن آمن العرب والبدو في شبه الجزيرة العربية بوجوده من آلاف السنين، قبل ظهور المعتقد الإسلامي نفسه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "sirah-historical-setting-pre-islamic-arabia",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify pre-Islamic Arabian attestation of jinn belief in poetry, inscriptions and early sources, and compare with the Qur'anic and hadith treatment of jinn as an existing category rather than a new doctrine."
+    },
+    {
+      "timestamp": "00:01:34",
+      "claimEn": "The speaker claims that pre-Islamic Arabs held that jinn live in graves, mountains and the desert, are hidden, and can appear in the form of humans or sometimes animals but black in colour — the same features carried into the later Islamic belief.",
+      "claimAr": "يقول المتحدث إن العرب قبل الإسلام كانوا يؤمنون بأن الجن يعيش في المقابر والجبال والصحراء، وأنه مخفي، ويمكن أن يتهيأ على شكل بشر وأحيانًا حيوانات لكن لونها أسود — وهي الصفات نفسها التي انتقلت إلى المعتقد الإسلامي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare descriptions of jinn habitats and shapeshifting in pre-Islamic material with the descriptions in the Qur'an and in hadith collections, to test the claim of continuity."
+    },
+    {
+      "timestamp": "00:01:34",
+      "claimEn": "The speaker claims the doctrine is incoherent: creatures and insects live in drains and dirty places because those places supply food, humidity and a suitable temperature for their bodies, whereas jinn are supposed to have no relation to matter at all, so physical filth could have no bearing on where they live.",
+      "claimAr": "يقول المتحدث إن المعتقد غير متسق: الحشرات والكائنات تعيش في المجاري والأماكن الوسخة لأنها توفر لها الغذاء والرطوبة ودرجة الحرارة المناسبة لأجسامها، أما الجن فمفترض أنه لا علاقة له بالمادة أصلًا، فلا معنى لارتباطه بأماكن مادية وسخة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the hadith and fiqh material on jinn inhabiting lavatories and waste places (e.g. the supplication on entering the toilet) and how classical scholars reconcile immaterial beings with material locations."
+    },
+    {
+      "timestamp": "00:02:22",
+      "claimEn": "The speaker claims that the people who located these beings in filthy places were simple thinkers reasoning that since the beings are ugly they must logically live in ugly places, the same reasoning that made the black cat and the black dog evil because of their colour.",
+      "claimAr": "يقول المتحدث إن الناس الذين قالوا إن هذه الكائنات تعيش في الأماكن الوسخة كان تفكيرهم بسيطًا: بما أن الكائنات وحشة فمن المنطقي أن تسكن أماكن وحشة مثلها، وهو التفكير نفسه الذي جعل القطة السوداء والكلب الأسود شرًّا بسبب اللون.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess as an interpretive claim about folk reasoning; check whether the colour associations the speaker describes are documented in pre-Islamic and early Islamic material."
+    },
+    {
+      "timestamp": "00:02:22",
+      "claimEn": "The speaker claims that a hadith attributed to the Prophet states that the pure black dog is a devil, and cites a preacher saying the black cat and the black dog are devils, presenting this colour-based folk belief as embedded in the religious sources themselves.",
+      "claimAr": "يقول المتحدث إن حديثًا منسوبًا إلى النبي ينص على أن «الكلب الأسود البهيم شيطان»، ويعرض شيخًا يقول إن القطة السوداء والكلب الأسود شياطين، ليبيّن أن هذا المعتقد الشعبي القائم على اللون مغروس في النصوص الدينية نفسها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "hadith"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith on the pure black dog being a devil (reported in Sahih Muslim in the chapter on what invalidates prayer) and record the exact wording, collection and locator; the speaker gives no collection."
+    },
+    {
+      "timestamp": "00:02:22",
+      "claimEn": "The speaker claims the same colour logic runs through the tradition — black donkeys seen in dreams mean disaster, a black spider means evil in your path, while angels are white and therefore good — showing these were people who interpreted life by colour, and that black-coloured apparitions are still taken as a sign of a devil requiring ruqya.",
+      "claimAr": "يقول المتحدث إن منطق اللون نفسه يسري في الموروث: الحمير السود في المنام مصيبة، والعنكبوت الأسود شر، بينما الملائكة بيضاء ومن ثم حسنة — فهؤلاء ناس كانوا يفسرون الحياة من لونها، ولا يزال ما يتشكل باللون الأسود يُعدّ دليلًا على شيطان تُطلب له الرقية الشرعية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check dream-interpretation and ruqya literature for the colour associations cited, and verify the preacher clip quoted about black-coloured apparitions indicating a devil."
+    },
+    {
+      "timestamp": "00:03:02",
+      "claimEn": "The speaker claims that although people all over the world have bathrooms, sing, dance and fall in them, nobody in Finland, Canada or South Korea is ever reported to be possessed by a jinn, whereas in Muslim countries any bathroom accident is attributed to possession — so the phenomenon tracks the local belief, not the world.",
+      "claimAr": "يقول المتحدث إن الناس في كل أنحاء العالم عندهم حمامات ويغنون ويرقصون ويقعون فيها، ومع ذلك لا نسمع أن أحدًا في فنلندا أو كندا أو كوريا الجنوبية لبسه جن، بينما عندنا أي واحد يقع في الحمام يقال إنه ملبوس — فالظاهرة تتبع المعتقد المحلي لا الواقع.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings",
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check anthropological literature on the cultural distribution of possession attribution and whether bathroom-jinn attribution is specific to Muslim-majority societies."
+    },
+    {
+      "timestamp": "00:03:45",
+      "claimEn": "The speaker claims that the 'jinn ashiq' (the enamoured jinn) said to attach itself to people who do not know their Lord is always imagined as male, and that the folklore even pictures a patriarchal jinn society in which the female jinn stays in her husband's house to raise children — a projection of the society that invented the belief.",
+      "claimAr": "يقول المتحدث إن «الجن العاشق» الذي يقال إنه يأتي لمن لا يعرف ربه يُتصوَّر دائمًا ذكرًا، وإن الموروث يتخيل مجتمع جن ذكوريًّا متعصبًا تقعد فيه الأنثى في بيت زوجها لتربي الأولاد — وهو إسقاط للمجتمع الذي اخترع المعتقد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Interpretive; check popular ruqya literature and televised exorcism material for the gender of the jinn typically reported and for the gendered imagery the speaker describes."
+    },
+    {
+      "timestamp": "00:03:45",
+      "claimEn": "The speaker claims nobody can say who discovered the procedures for summoning jinn, devils or spirits, or how anyone learned that these specific steps, letters, written squares and amulets would make a jinn appear and obey.",
+      "claimAr": "يقول المتحدث إن أحدًا لا يعرف من اكتشف طرق تحضير الجن والشياطين والأرواح، ولا كيف عُرف أن هذه الخطوات والحروف والمربعات والأحراز تحديدًا تُخرج الجن وتجعله يطيع.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the historical literature on Arabic occult manuals and their claimed chains of transmission for the summoning procedures the speaker describes."
+    },
+    {
+      "timestamp": "00:05:15",
+      "claimEn": "The speaker claims the summoning story has no coherent mechanism: it is never explained which jinn out of a million answers the call, whether they queue or take shifts, whether the jinn knows it is being conscripted, or what obliges a hidden mythical being to obey the person performing the ritual.",
+      "claimAr": "يقول المتحدث إن قصة التحضير بلا آلية متماسكة: لا يُبيَّن أي جني من مليون جني هو الذي ينزل، ولا هل يقفون صفًّا أو نوبات، ولا هل يعلم الجني أنه سينزل ليلبي الأوامر، ولا ما الذي يُلزم كائنًا أسطوريًّا مخفيًّا بطاعة صاحب الطقس.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Interpretive ridicule of the mechanism; check whether classical or popular texts on sihr address compulsion of jinn and by what rationale."
+    },
+    {
+      "timestamp": "00:06:43",
+      "claimEn": "The speaker claims that a study by a group of psychologists on patients in a psychiatric hospital in China — patients who said they were possessed and who showed strange symptoms such as loss of self-control, sudden odd behaviour and changes in tone of voice — diagnosed them with a mental illness falling under a recognised class of disorders.",
+      "claimAr": "يقول المتحدث إن دراسة علمية قام بها مجموعة من علماء النفس على أشخاص في مستشفى للأمراض العقلية في الصين — كانوا يقولون إنهم ملبوسون وتظهر عليهم أعراض غريبة كعدم التحكم في النفس وتصرفات مفاجئة وتغير نبرة الصوت — شخّصت حالتهم بأنها مرض عقلي يندرج تحت سلسلة أمراض معروفة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the study of possession-disorder patients in a Chinese psychiatric hospital; the speaker names no authors, journal or year, and the diagnostic label is cut off in the transcript."
+    },
+    {
+      "timestamp": "00:07:29",
+      "claimEn": "The speaker claims that in that study 45% of the subjects believed they were possessed by the spirits of dead people — the commonest kind of possession in China — 25% by evil Chinese gods, 20% by an animal and 10% by a devil, and that Chinese society classifies its kinds of possession just as Muslim society classifies mass, touch, possession, magic and 'amal.",
+      "claimAr": "يقول المتحدث إن 45% من عيّنة الدراسة كانوا يؤمنون أنهم ملبوسون بأرواح موتى وهو أشهر أنواع اللبس في الصين، و25% بآلهة صينية شريرة، و20% بحيوان، و10% بشيطان، وإن المجتمعات تصنف خرافاتها فهناك أنواع للبس كما عندنا مس ولمس ولبس وسحر وعمل.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the percentages against the original study, and check the Chinese folk category of spirit possession by the dead that the transcript renders as 'al-kwaifu'."
+    },
+    {
+      "timestamp": "00:08:14",
+      "claimEn": "The speaker claims that according to the DSM-5 the symptoms of possession disorder are acquired from the patient's own ideas — the patient's environment and belief about what possesses him determine which symptoms appear — so the content of possession is culturally supplied rather than real.",
+      "claimAr": "يقول المتحدث إنه طبقًا للـDSM-5، دليل الأمراض النفسية، فإن متلازمة اللبس تكتسب أعراضها من أفكار المريض نفسه: بيئته واعتقاده بما لبسه هما اللذان يحددان الأعراض التي تظهر عليه، فمضمون اللبس معطى ثقافي لا واقع.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the DSM-5 entry on dissociative identity disorder and possession-form presentations and its statements on cultural shaping of symptoms; confirm the manual says what the speaker attributes to it."
+    },
+    {
+      "timestamp": "00:09:02",
+      "claimEn": "The speaker claims that Christian sufferers become violently agitated when a cross is put before them because they were raised on the idea that the devil fears the cross, while Muslim sufferers become agitated when the Qur'an is recited over them because they were raised to believe that is a symptom of jinn possession — the reaction follows the upbringing, not the object.",
+      "claimAr": "يقول المتحدث إن المصابين المسيحيين يهيجون بشدة أول ما يوضع أمامهم صليب لأنهم تربّوا على أن الشيطان يخاف من الصليب، والمسلمين يهيجون أول ما يُقرأ عليهم قرآن لأنهم تربّوا على أن هذا من أعراض لبس الجن — فالاستجابة تتبع التربية لا الشيء نفسه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check clinical and anthropological literature on culture-specific triggers in possession presentations, and whether the pattern the speaker describes is documented."
+    },
+    {
+      "timestamp": "00:09:02",
+      "claimEn": "The speaker claims that because the illness is caused by the person's own ideas plus difficult life experiences that split his mind from reality, no child of two, three or four years old is ever said to be possessed — the child has no superstitions in his mind yet — whereas a child may show only preliminary symptoms such as temporary amnesia, disorientation or seizures.",
+      "claimAr": "يقول المتحدث إن المرض سببه أفكار الشخص نفسه مع تجارب صعبة مرّ بها فصلت عقله عن الواقع، ولذلك لا يوجد طفل عمره سنتان أو ثلاث أو أربع يقال إن جنيًّا لبسه، لأن عقله لم تتكوّن فيه الخرافات بعد، وأقصى ما قد يظهر عليه أعراض أولية كفقدان ذاكرة مؤقت أو توهان أو نوبات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether the clinical literature supports an age floor for possession-form dissociative presentations and the developmental explanation the speaker gives."
+    },
+    {
+      "timestamp": "00:10:35",
+      "claimEn": "The speaker claims that swapping the ritual object across cultures produces nothing: sprinkling water blessed with the Gospel on a Buddhist who believes an evil god possesses him would have no effect, though the same water may make a Christian with the same illness faint; reciting the Qur'an over a Chinese patient who believes a dead person's spirit possesses him would do nothing.",
+      "claimAr": "يقول المتحدث إن تبديل الأداة الطقسية بين الثقافات لا يُحدث شيئًا: رشّ ماء مقدس مقروء عليه إنجيل على بوذي يعتقد أن إلهًا شريرًا لبسه لن يؤثر فيه، بينما الماء نفسه قد يُغمي على مسيحي عنده المرض ذاته؛ وقراءة القرآن على صيني يعتقد أن روح ميت لبسته لن تفعل شيئًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Presented as a thought-experiment, not a reported experiment; check whether any cross-cultural trial of ritual triggers has actually been conducted."
+    },
+    {
+      "timestamp": "00:11:21",
+      "claimEn": "The speaker claims that if a foreign actor recited the Qur'an in English in an ordinary voice to a possessed Muslim woman without telling her it was the Qur'an, nothing would happen — because the reaction is tied to the mental image of a long-bearded sheikh in a white jilbab reciting loudly in a particular melody, so the whole matter is inside the patient's head, not in the Qur'an or in any 'magic substance'.",
+      "claimAr": "يقول المتحدث إنه لو قرأ ممثل أجنبي القرآن بالإنجليزية بصوت عادي على مسلمة ملبوسة دون أن يعرّفها أنه قرآن، لما حدث لها شيء، لأن الاستجابة مرتبطة بصورة ذهنية عن شيخ بلحية طويلة وجلباب أبيض يقرأ بصوت عالٍ وبنغمة معينة — فالمسألة كلها داخل دماغ المريض لا في القرآن ولا في «مادة السحر».",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Thought-experiment; check whether ruqya practitioners claim the Qur'an works irrespective of language, voice and the patient's awareness, since the claim tests that assertion."
+    },
+    {
+      "timestamp": "00:11:21",
+      "claimEn": "The speaker claims that psychologists treat such patients on two fronts — medication, and psychotherapy that works through the patient's own belief about what possesses him, unpicks the inner conflicts and life history that produced the illness, and returns him gradually to reality — rather than deepening the delusion by sending him to a Chinese priest or a sheikh to have the jinn removed.",
+      "claimAr": "يقول المتحدث إن علماء النفس يعالجون هؤلاء المرضى من ناحيتين: بالأدوية الطبية، وبالعلاج النفسي الذي يفهم ما يعتقد المريض أنه لبسه ويفكّ الصراعات النفسية وتاريخ حياته ويعيده تدريجيًّا إلى الواقع، لا أن يزيدوا فصله عن الواقع بإرساله إلى كاهن صيني أو شيخ ليفكّ عنه الجن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check standard clinical guidance on treating possession-form dissociative presentations and whether it matches the two-track description given."
+    },
+    {
+      "timestamp": "00:12:53",
+      "claimEn": "The speaker claims that a frightening video widely circulated as an exorcism of a woman is in fact a clip from a 1967 medical documentary produced by a psychiatric institute, showing a patient with hysteria.",
+      "claimAr": "يقول المتحدث إن الفيديو المخيف الذي يُتداول على أنه إخراج شيطان من امرأة هو في الحقيقة مقطع من فيلم وثائقي طبي سنة 1967 من معهد للطب النفسي، يعرض حالة مريضة بالهستيريا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the 1967 documentary and the psychiatric institute named (transcript renders it as 'ma'had ghush fikul'), and confirm the clip's provenance and the diagnosis shown."
+    },
+    {
+      "timestamp": "00:12:53",
+      "claimEn": "The speaker claims that hysteria produces severe episodes in which the sufferer cannot control herself, hallucinates sights and sounds that are not there, and cannot speak or hear those around her — symptoms that anyone unaware of the diagnosis would swear were possession.",
+      "claimAr": "يقول المتحدث إن الهستيريا تأتي بنوبات شديدة لا يتحكم فيها المريض في نفسه، وتصيبه هلوسات يرى فيها ما ليس موجودًا ويسمع ما ليس حقيقيًّا، ولا يستطيع الكلام ولا سماع من حوله أثناءها — وهي أعراض يقسم من يراها دون معرفة تشخيصها أنها لبس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the clinical description of the condition historically labelled hysteria (now conversion/dissociative disorders) against the symptoms listed."
+    },
+    {
+      "timestamp": "00:13:42",
+      "claimEn": "The speaker claims that temporal lobe epilepsy, caused by damage to the temporal lobe from an accident or illness, produces seizures with loss of motor control, episodes of temporary amnesia in which a person finds himself somewhere with no memory of arriving, and hallucinations of sights and sounds — another illness societies read as possession.",
+      "claimAr": "يقول المتحدث إن صرع الفص الصدغي، الناتج عن تلف في منطقة الفص الصدغي بالدماغ بسبب حادث أو مرض، يسبب نوبات تتشل فيها الحركة وحالات فقدان ذاكرة مؤقت يجد فيها الإنسان نفسه في مكان دون أن يتذكر كيف وصل، وهلوسات يرى ويسمع فيها ما ليس حقيقيًّا — وهو مرض آخر تفسره المجتمعات على أنه لبس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check neurological literature on temporal lobe epilepsy for the described symptoms, including amnesic automatisms and hallucinations."
+    },
+    {
+      "timestamp": "00:14:24",
+      "claimEn": "The speaker claims that hierophobia makes a person terrified of specific things he regards as sacred — a church, a nun, a sheikh, a cross — to the point of fainting, for neurological reasons and for psychological reasons rooted in difficult events, especially in childhood, that the sufferer may no longer remember; his example is a girl trained by her father to pray who later panics at the call to prayer and the sound of the Qur'an.",
+      "claimAr": "يقول المتحدث إن الهيروفوبيا تجعل صاحبها يُرعَب من أشياء بعينها مقدسة بالنسبة له — كنيسة أو راهبة أو شيخ أو صليب — حتى يمكن أن يُغمى عليه، لأسباب بعضها عصبي وبعضها نفسي مرتبط بمواقف صعبة مرّت به وخاصة في الطفولة قد يكون نسيها، ومثاله فتاة كان أبوها يدرّبها على الصلاة فصارت تُرعَب من صوت الأذان وتخاف جدًّا من صوت القرآن.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether hierophobia is a recognised clinical category and whether the neurological and trauma-based aetiology described is supported."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims that all the strange cases people call possession, and everyone paraded on television possession programmes, are people with mental and psychological illnesses who belong in hospital, and that they are brought on air so that advertising money can be made from them.",
+      "claimAr": "يقول المتحدث إن كل الحالات الغريبة التي تُسمّى لبسًا، وكل من يُؤتى بهم في حلقات التلفزيون، ناس عندهم أمراض عقلية ونفسية مكانهم المستشفى، وإنما يُعرضون على الشاشة ليُجنى من ورائهم إعلانات وأموال.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Interpretive charge about televised exorcism programming; check documented cases of such programmes and any regulatory or medical criticism of them."
+    },
+    {
+      "timestamp": "00:17:00",
+      "claimEn": "The speaker claims that in Arab societies one constantly hears of possession cases but never of schizophrenia, epilepsy, psychosis or dissociative identity disorder — not because those illnesses are absent, but because these are poor countries where ignorance is widespread, so the illnesses are explained as possession and folded into superstition.",
+      "claimAr": "يقول المتحدث إننا نسمع دائمًا عمن تأتيه حالة لبس ولا نسمع أبدًا عمن أصابه فصام أو صرع أو ذهان أو فصام شخصية، لا لأن هذه الأمراض غير موجودة، بل لأننا في بلاد فقيرة منتشر فيها الجهل، فتُفسَّر الأمراض على أنها لبس وتدخل فيها الخرافات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check epidemiological and mental-health-literacy data for Arab countries on the recognition and reporting of psychotic and dissociative disorders versus possession attribution."
+    },
+    {
+      "timestamp": "00:18:03",
+      "claimEn": "The speaker claims that people said to be possessed appear in most world cultures, each culture with its own interpretation, its own amulets and its own priests: Japanese priests specialised in expelling evil gods, Thai priests expelling spirits with a pot of rice, wooden sticks and set movements, Christian priests expelling demons with a cross, scripture and holy water, and Muslim sheikhs expelling jinn by reciting their scripture and sprinkling water recited over — the same ritual with different labels.",
+      "claimAr": "يقول المتحدث إن حالات اللبس موجودة في معظم ثقافات العالم، ولكل ثقافة تفسيرها وتعاويذها وكهنتها: كهنة في اليابان متخصصون في طرد الآلهة الشريرة، وكهنة في تايلاند يطردون الأرواح بحلة رز وأعواد خشب وحركات معينة، وكهنة مسيحيون يطردون الشياطين بالصليب والكتاب المقدس والماء المقدس، ومشايخ مسلمون يطردون الجن بالقراءة من كتابهم ورشّ ماء مقروء عليه — الطقس نفسه بأسماء مختلفة.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check ethnographic descriptions of Japanese, Thai, Christian and Islamic exorcism practice and whether the structural parallel the speaker draws is documented."
+    },
+    {
+      "timestamp": "00:19:02",
+      "claimEn": "The speaker claims that Muslim exorcists themselves follow mutually inconsistent methods — one presses the patient's little finger, another sits on the patient, another beats him, another interrogates him about his name and religion — which is what one would expect of an invented practice rather than a technique with a real object.",
+      "claimAr": "يقول المتحدث إن المشايخ أنفسهم يتبعون طرقًا متضاربة: كاهن يضرب على إصبع المريض الصغير، وآخر يقعد على المريض، وثالث يضربه، ورابع يكلمه ويسأله عن اسمه ودينه — وهو ما يُتوقع من ممارسة مخترعة لا من تقنية لها موضوع حقيقي.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check documented ruqya practice for the variety of methods described, including reports of beating during exorcism and any resulting harm."
+    },
+    {
+      "timestamp": "00:20:38",
+      "claimEn": "The speaker claims that the popular stories told by sheikhs and priests — the woman childless for forty years who conceived after visiting a particular pope, the possessed man from whom a jinn spoke information only the sheikh could know, the gravedigger who heard the dead man reciting the Qur'an — are 95% lies that never happened and rest on nothing but the teller's word, while the remaining 5% are real events whose scientific explanation people do not understand.",
+      "claimAr": "يقول المتحدث إن القصص الشعبية التي يرويها المشايخ والقساوسة — امرأة لم تنجب أربعين سنة فحملت بعد زيارة بابا معين، ورجل ملبوس نطق الجن على لسانه بمعلومات لا يعرفها إلا الشيخ، وتربي سمع الميت يقرأ قرآنًا — 95% منها كذب لم يحصل ولا دليل عليه إلا كلام الراوي، و5% حصلت لكن الناس لا تفهم تفسيرها العلمي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "The percentages are the speaker's own estimate with no source; note this and check whether any of the specific story types cited have documented origins."
+    },
+    {
+      "timestamp": "00:20:58",
+      "claimEn": "The speaker claims that sheikhs, clergymen and priests trade on the minds of poor and ignorant people in order to strengthen their faith, and that lying in religion is treated as permissible when it serves a good end such as strengthening the faith of the person in front of you.",
+      "claimAr": "يقول المتحدث إن المشايخ ورجال الدين والقساوسة يتحكمون في عقول الناس الغلابة بالجهل والكذب والنصب من أجل تقوية إيمانهم، وإن الكذب في الدين حلال إذا كان لغاية حسنة كتقوية إيمان من أمامك.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the fiqh discussion of permissible lying (e.g. the hadith on lying in war, reconciliation and between spouses) and whether any school extends it to strengthening faith through fabricated edifying stories; also the classical debate over al-targhib wa-l-tarhib with weak hadith."
+    },
+    {
+      "timestamp": "00:20:58",
+      "claimEn": "The speaker claims there are no jinn, no ifrits, no magic and no cursed books that kill whoever reads them — naming Kitab Shams al-Ma'arif as such a book — and denies that any science is used in magic.",
+      "claimAr": "يقول المتحدث إنه لا يوجد جن ولا عفاريت ولا سحر ولا كتب غامضة يموت من يقرأها — ويسمّي كتاب شمس المعارف — وينفي أن يكون هناك علم يُستخدم في السحر.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the reputation and content of Kitab Shams al-Ma'arif (attributed to al-Buni) and the popular claims made about it; the speaker gives no author."
+    },
+    {
+      "timestamp": "00:21:43",
+      "claimEn": "The speaker claims that if magic and jinn were real the world would look different: those who claim to practise them would have used them for their own benefit, sheikhs would have deployed them against tyrannical rulers to establish the Islamic state they dream of, and instead of scraping a living off poor people for two hundred pounds they would have helped intelligence services locate terrorists for million-dollar rewards — and no state intelligence service behaves as though such a supernatural weapon exists.",
+      "claimAr": "يقول المتحدث إن السحر والجن لو كانا حقيقة لكان العالم غير الذي نعرفه: لاستخدمهما مدّعوهما لصالحهم، ولاستعمل المشايخ السحر والجن ضد أي رئيس دولة ظالم ليقيموا الدولة الإسلامية التي يتخيلونها، وبدل أن يسترزقوا من الغلابة بمئتي جنيه لساعدوا أجهزة المخابرات في معرفة أماكن الإرهابيين مقابل مكافآت بالملايين — ولا جهاز مخابرات في العالم يتصرف كأن سلاحًا خارقًا للطبيعة موجود.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-natural-world"
+      ],
+      "newTopicIds": [
+        "jinn-and-spirit-beings"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Interpretive argument from non-use; note that the speaker anticipates and dismisses the reply that magic is forbidden in Islam."
+    },
+    {
+      "timestamp": "00:22:54",
+      "claimEn": "The speaker claims that belief in these superstitions is held by poor and powerless people who want to feel they control life rather than being controlled by it, and that it demonstrably increases at moments of weakness — childlessness, an incurably ill daughter whose family cannot afford treatment, a son missing for months whom the police cannot find — where a sheikh sells hope in a bottle of rose water, black seed and honey recited over.",
+      "claimAr": "يقول المتحدث إن من يؤمن بهذه الخرافات هم الناس الغلابة الذين يريدون أن يشعروا أنهم يتحكمون في الحياة لا أنها تتحكم فيهم، وإن الإيمان بها يزداد ساعة الضعف — من لا ينجب، وبنت مريضة بمرض نادر وأهلها فقراء لا يملكون علاجها، وابن مفقود منذ شهور عجزت الشرطة عن إيجاده — فيبيعهم الشيخ الأمل في زجاجة ماء ورد وحبة بركة وعسل مقروء عليه.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies"
+      ],
+      "newTopicIds": [
+        "possession-exorcism-and-mental-illness"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Interpretive social explanation; check research on the correlation between deprivation, uncertainty and recourse to ritual healing."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "event",
+      "timestamp": "00:00:08",
+      "asStatedInVideo": "زمان من 3000 سنة كان هناك خرافة يؤمن بها ناس اسمهم السومريين، كائنات اسمها البازوزو، لونها أسود وجسمها مثل البشر ورأسها رأس كلب، تعيش في العالم السفلي",
+      "workTitle": "Pazuzu / البازوزو (Sumerian belief as described)",
+      "locator": "c. 3000 years ago",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:00:08",
+      "asStatedInVideo": "ناس يسمّوا البابليين يؤمنوا بخرافة ثانية، كائنات اسمها (القتوكو) تعيش في المقابر وفي المقابر غير النظيفة",
+      "workTitle": "Babylonian grave-dwelling beings as named in the video",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:00:53",
+      "asStatedInVideo": "أهل مدينة تدمر كانوا يؤمنون بكائنات اسمها الجناية تعيش في الصحراء وممكن تتهيأ على شكل بشر، ومنها انشقت كلمة جن",
+      "workTitle": "The ginnaye of Palmyra (Tadmur)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:34",
+      "asStatedInVideo": "العرب والبدو في شبه الجزيرة العربية من آلاف السنين من قبل حتى المعتقد الإسلامي نفسه ما يظهر كانوا يؤمنون أن الجن يعيش في المقابر والجبال والصحراء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:02:22",
+      "asStatedInVideo": "قال النبي عليه السلام، قال في الحديث أيضاً: الكلب الأسود البهيم شيطان — لا يذكر المتحدث المصدر ولا رقم الحديث",
+      "quotedArabic": "الكلب الأسود البهيم شيطان",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:02:22",
+      "asStatedInVideo": "مقطع لشيخ يقول: القطة السوداء والكلب الأسود... أنتم كرام إنما هو شيطان",
+      "quotedArabic": "القطة الأسود والكلب الأسود انتم كرام إنما هو شيطان",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:02",
+      "asStatedInVideo": "مقطع لشيخ: كل ما ينشكل بهذا اللون الأسود في الغالب ما يدل على شيطان من الشياطين فعليكم الرقية الشرعية — المتحدث غير مسمّى",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:06:43",
+      "asStatedInVideo": "دراسة علمية قام بها مجموعة من علماء النفس على مجموعة أشخاص كانوا في مستشفى أمراض عقلية في الصين — بدون ذكر الباحثين أو سنة النشر",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:07:29",
+      "asStatedInVideo": "45% مؤمنين أن هم ملبوسين بروح ناس ميتة أو ما يسمى بالكوايفو وده أشهر أنواع اللبس في الصين، و25% بآلهة صينية شريرة، و20% بحيوان، و10% بشيطان",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:08:14",
+      "asStatedInVideo": "طبقاً للـ DSM-5 أو دليل الأمراض النفسية فإن البوزيشن ديسوردر أو متلازمة اللبس بتكتسب أعراض المرض بتاعها من أفكار المريض نفسه",
+      "workTitle": "DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5th ed.)",
+      "locator": "possession disorder entry (no page given)",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:12:53",
+      "asStatedInVideo": "مقطع من فيلم وثائقي طبي لسنة 1967 من معهد (غوش فيكول) للطب النفسي، يوضح حالة مريضة عندها مرض عقلي اسمه الهستيريا — اسم المعهد غير واضح في النطق",
+      "locator": "1967",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:17:00",
+      "asStatedInVideo": "مقطع تلفزيوني: «أنا بخنق الجن» ومخاطبة «يا دكتور عبدالله» — دون تعريف بالشخص",
+      "author": "دكتور عبدالله (as named in an inserted clip)",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:20:58",
+      "asStatedInVideo": "مفيش كتب غامضة الناس بتموت أول ما بتقراها، ده كتاب شمس المعارف أهو — دون ذكر المؤلف",
+      "workTitle": "شمس المعارف / Shams al-Ma'arif",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "jinn-and-spirit-beings",
+      "titleEn": "Jinn, devils and spirit beings",
+      "titleAr": "الجن والشياطين والكائنات الخفية",
+      "descriptionEn": "Claims about jinn, devils and other hidden beings in the Qur'an, hadith and Arabian folklore — their described habitats, forms and colours — and about the pre-Islamic antecedents proposed for them in Mesopotamian, Palmyrene and Arabian belief, including the etymology of the word jinn.",
+      "descriptionAr": "دعاوى حول الجن والشياطين والكائنات الخفية في القرآن والحديث والموروث العربي — مساكنها وأشكالها وألوانها — وحول أصولها المقترحة قبل الإسلام في معتقدات الرافدين وتدمر والجزيرة العربية، بما في ذلك اشتقاق كلمة «جن».",
+      "suggestedParentId": "earlier-religious-parallels",
+      "closestExistingId": "earlier-religious-parallels-greek-and-babylonian-antecedents",
+      "rationale": "The taxonomy has no home for jinn and demonology, which this video returns to throughout and which recurs across critical material on Islam (jinn in the Qur'an, the sura of the jinn, hadith on jinn and devils, pre-Islamic spirit lore). The Mesopotamian-antecedents topic covers narrative and natural-world motifs, not spirit ontology, and the Arabian folklore and Islamic-source sides would not fit under it at all."
+    },
+    {
+      "proposedId": "possession-exorcism-and-mental-illness",
+      "titleEn": "Possession, exorcism and mental illness",
+      "titleAr": "اللبس والرقية والمرض العقلي",
+      "descriptionEn": "Claims about possession beliefs and the rituals for expelling spirits — ruqya, sihr, amulets, summoning and their non-Islamic counterparts — together with clinical and psychiatric explanations offered for the reported symptoms and arguments that the content of possession is supplied by the sufferer's culture.",
+      "descriptionAr": "دعاوى حول معتقدات اللبس وطقوس طرد الأرواح — الرقية والسحر والتعاويذ والتحضير ونظائرها غير الإسلامية — مع التفسيرات الطبية والنفسية المقدَّمة للأعراض، والحجج القائلة إن مضمون اللبس تصنعه ثقافة المريض.",
+      "suggestedParentId": "jinn-and-spirit-beings",
+      "closestExistingId": "hadith-natural-world",
+      "rationale": "A durable subject other videos on ruqya, sihr, televised exorcism and folk healing would also fall under. It is distinct from the beings themselves (the proposed parent) and from hadith-natural-world, which covers descriptions of nature in the reports rather than ritual practice and its clinical counter-explanation."
+    }
+  ]
+}

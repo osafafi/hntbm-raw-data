@@ -1,0 +1,1418 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fvK0nFHg1js",
+  "videoUrl": "https://www.youtube.com/watch?v=fvK0nFHg1js",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 9 - المرأة في الإسلام",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200703",
+  "extractedAt": "2026-08-17T08:38:41+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that Qur’anic and hadith rules concerning women reflect the patriarchal assumptions, sexual interests, social practices, and political environment of early Islam rather than divine wisdom. He contrasts these rules with reports of influential pre-Islamic women, interprets veiling and seclusion rules as newly imposed restrictions, cites polygyny and concubinage as institutionalized inequality, and treats testimony, menstruation, marital authority, coerced sex, and disparaging descriptions of women as evidence of male authorship. He also briefly argues that the Qur’an’s literary form resembles earlier Arabic rhymed speech, that its legal material was collected in a disorderly way, and that the Islamic deity is a projection of a patriarchal human founder whose political system survived through later generations.",
+  "summaryAr": "يجادل المتحدث بأن أحكام القرآن والحديث المتعلقة بالمرأة تعكس افتراضات أبوية ومصالح جنسية وممارسات اجتماعية وظروفاً سياسية من بيئة الإسلام المبكر، لا حكمة إلهية. ويقارن هذه الأحكام بروايات عن نساء ذوات نفوذ قبل الإسلام، ويفسر أحكام الحجاب والقرار في البيوت على أنها قيود مستحدثة، ويستشهد بتعدد الزوجات وملك اليمين بوصفهما تقنيناً لعدم المساواة. كما يعرض أحكام الشهادة والحيض وسلطة الزوج والإكراه الجنسي والأوصاف المنتقصة للنساء باعتبارها قرائن على التأليف الذكوري البشري. ويضيف أن الأسلوب القرآني يشبه السجع العربي الأقدم، وأن مادته التشريعية جُمعت بطريقة عشوائية، وأن الإله الإسلامي في تصوره إسقاط لمؤسس بشري أبوي استمرت منظومته السياسية عبر الأجيال.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "He opens by rejecting the claim that Islam elevated women and says the Qur’an and Sunnah contradict it.",
+      "stepAr": "يفتتح برفض دعوى أن الإسلام أعز المرأة، ويقول إن القرآن والسنة يناقضانها."
+    },
+    {
+      "timestamp": "00:00:52",
+      "stepEn": "He compares Islam with neighboring pre-Islamic societies that had prominent female rulers.",
+      "stepAr": "يقارن الإسلام بالمجتمعات المجاورة قبل الإسلام التي عرفت حاكمات بارزات."
+    },
+    {
+      "timestamp": "00:01:24",
+      "stepEn": "He narrows the comparison to Arabia and cites a story in which a female leader and poet are honored by their people.",
+      "stepAr": "يحصر المقارنة في الجزيرة العربية ويستشهد بخبر تُجل فيه زعيمة وشاعرة من النساء."
+    },
+    {
+      "timestamp": "00:02:05",
+      "stepEn": "He compares the rhymed oaths attributed to the pre-Islamic woman with Qur’anic diction and rhyme.",
+      "stepAr": "يقارن الأيمان المسجوعة المنسوبة إلى المرأة السابقة للإسلام بصياغة القرآن وسجعه."
+    },
+    {
+      "timestamp": "00:02:44",
+      "stepEn": "He uses Khadija’s status and Muhammad’s later marriages to question the claim that Islam improved women’s position.",
+      "stepAr": "يستخدم مكانة خديجة وزيجات محمد اللاحقة للتشكيك في دعوى تحسين الإسلام لوضع المرأة."
+    },
+    {
+      "timestamp": "00:03:14",
+      "stepEn": "He reads the veiling and seclusion passages as evidence that Islam introduced new restrictions on women’s prior freedom.",
+      "stepAr": "يقرأ آيات الجلباب والقرار في البيوت دليلاً على أن الإسلام فرض قيوداً جديدة على حرية النساء السابقة."
+    },
+    {
+      "timestamp": "00:06:04",
+      "stepEn": "He turns to polygyny and concubinage, arguing that they institutionalize unequal and unlimited male sexual access.",
+      "stepAr": "ينتقل إلى تعدد الزوجات وملك اليمين، ويرى أنهما يقننان وصولاً جنسياً ذكورياً غير متكافئ وغير محدود."
+    },
+    {
+      "timestamp": "00:07:25",
+      "stepEn": "He argues that the Qur’an regulated rather than abolished slavery, making its legislation historically bounded.",
+      "stepAr": "يجادل بأن القرآن نظم العبودية ولم يلغها، مما يجعل تشريعه مرتبطاً بزمنه."
+    },
+    {
+      "timestamp": "00:08:51",
+      "stepEn": "He cites the verse about entrusting property to the foolish and an interpretation identifying women and children as the foolish.",
+      "stepAr": "يستشهد بآية عدم إيتاء الأموال للسفهاء وبقول تفسيري يعد النساء والأولاد من السفهاء."
+    },
+    {
+      "timestamp": "00:09:38",
+      "stepEn": "He uses the two-women-for-one-man testimony rule and its hadith explanation to argue that the sources portray women as intellectually deficient.",
+      "stepAr": "يستخدم حكم شهادة امرأتين مقابل رجل وشرحه في الحديث ليقول إن المصادر تصور المرأة ناقصة عقلياً."
+    },
+    {
+      "timestamp": "00:13:08",
+      "stepEn": "He argues that calling menstruating women deficient in religion is circular and inconsistent because God allegedly created menstruation and imposed the associated prohibition.",
+      "stepAr": "يجادل بأن وصف الحائض بنقص الدين دائري ومتناقض، لأن الله بحسب التصور نفسه خلق الحيض وفرض أحكامه."
+    },
+    {
+      "timestamp": "00:15:28",
+      "stepEn": "He briefly links the scattered placement of marriage rules to an allegedly random and unsuccessful collection of the Qur’an.",
+      "stepAr": "يربط بإيجاز تشتت أحكام الزواج بطريقة جمع القرآن التي يصفها بالعشوائية وغير الموفقة."
+    },
+    {
+      "timestamp": "00:16:11",
+      "stepEn": "He contrasts the husband’s four-month sexual abstention allowance with the limited remedies available to the wife.",
+      "stepAr": "يقارن بين مهلة امتناع الزوج عن المعاشرة أربعة أشهر ومحدودية الوسائل المتاحة للزوجة."
+    },
+    {
+      "timestamp": "00:16:57",
+      "stepEn": "He uses the report about Sawda surrendering her night to Aisha to read the reconciliation verse as pressuring wives to surrender rights.",
+      "stepAr": "يستخدم رواية تنازل سودة عن ليلتها لعائشة لقراءة آية الصلح باعتبارها تضغط على الزوجة للتنازل عن حقوقها."
+    },
+    {
+      "timestamp": "00:19:15",
+      "stepEn": "He interprets male guardianship and the treatment of a recalcitrant wife as assertions of male superiority and coercive authority.",
+      "stepAr": "يفسر القوامة ومعالجة نشوز الزوجة بوصفهما تقريراً لتفوق الرجل وسلطته القسرية."
+    },
+    {
+      "timestamp": "00:20:40",
+      "stepEn": "He adds hadith threats involving angels, divine anger, and houris to argue that religious fear enforces wives’ sexual availability.",
+      "stepAr": "يضيف تهديدات حديثية تتعلق بالملائكة وغضب الله والحور العين ليقول إن التخويف الديني يفرض الاستجابة الجنسية على الزوجة."
+    },
+    {
+      "timestamp": "00:22:12",
+      "stepEn": "He reads admonition, bed abandonment, beating, and the tilth verse as step-by-step authorization of marital rape.",
+      "stepAr": "يقرأ الوعظ والهجر والضرب وآية الحرث باعتبارها ترخيصاً متدرجاً لاغتصاب الزوجة."
+    },
+    {
+      "timestamp": "00:25:11",
+      "stepEn": "He argues that passages about God’s alleged daughters adopt rather than correct the surrounding culture’s disparagement of females.",
+      "stepAr": "يجادل بأن المقاطع المتعلقة بنسبة البنات إلى الله تتبنى انتقاص البيئة المحيطة للإناث بدلاً من تصحيحه."
+    },
+    {
+      "timestamp": "00:28:59",
+      "stepEn": "He challenges the female-infanticide liberation narrative by comparing an alleged pre-Islamic protection for married captives with the Qur’anic exception for women possessed in war.",
+      "stepAr": "ينازع سردية تحرير المرأة بمنع الوأد، مقارناً حماية مزعومة للسبية المتزوجة قبل الإسلام بالاستثناء القرآني لملك اليمين."
+    },
+    {
+      "timestamp": "00:31:08",
+      "stepEn": "He concludes that the Islamic deity is a patriarchal human projection and that the resulting political-religious system was transmitted by indoctrination.",
+      "stepAr": "يخلص إلى أن الإله الإسلامي إسقاط بشري أبوي، وأن المنظومة السياسية الدينية الناتجة انتقلت بالتلقين."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:00",
+      "claimEn": "The speaker claims that the Qur’an and Sunnah directly contradict the apologetic assertion that Islam elevated women.",
+      "claimAr": "يدعي المتحدث أن القرآن والسنة يتعارضان مباشرة مع الدعوى الدعوية القائلة إن الإسلام أعز المرأة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women",
+        "women-status-before-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the specific Qur’anic passages and hadiths cited later in the episode with the speaker’s interpretation and with the liberation claim he is disputing."
+    },
+    {
+      "timestamp": "00:00:52",
+      "claimEn": "The speaker claims that the presence of female leaders such as Zenobia and Dihya in neighboring pre-Islamic societies shows that women could possess social and political value before Islam.",
+      "claimAr": "يدعي المتحدث أن وجود قائدات مثل زنوبيا وديهية في المجتمعات المجاورة قبل الإسلام يدل على أن المرأة كان يمكن أن تتمتع بقيمة اجتماعية وسياسية قبل الإسلام.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-status-before-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the dates, offices, historical settings, and social significance of Zenobia and Dihya, and assess whether their cases support a broader comparison with women under Islamic law."
+    },
+    {
+      "timestamp": "00:01:24",
+      "claimEn": "The speaker claims that the story of Zabra the soothsayer and Khawla, described as the lady of her people, depicts Arabian men standing in respect for female authority before Islam.",
+      "claimAr": "يدعي المتحدث أن خبر زبراء الكاهنة وخويلة الموصوفة بسيدة قومها يصور رجالاً عرباً يقومون إجلالاً لسلطة نسائية قبل الإسلام.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-status-before-islam",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the underlying Arabic source for this report, establish the women’s names and wording, and evaluate the source’s date and historical reliability."
+    },
+    {
+      "timestamp": "00:02:05",
+      "claimEn": "The speaker claims that the rhymed oaths attributed to Zabra use the same sajʿ style and an oath by the night-visiting star that appear in the Qur’an.",
+      "claimAr": "يدعي المتحدث أن الأيمان المسجوعة المنسوبة إلى زبراء تستخدم أسلوب السجع نفسه والقسم بالنجم الطارق الموجودين في القرآن.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "pre-islamic-poetry",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate and date the attributed pre-Islamic text, compare its authenticated Arabic wording with Surat al-Tariq and other Qur’anic oaths, and assess whether the report predates the Qur’an."
+    },
+    {
+      "timestamp": "00:02:05",
+      "claimEn": "The speaker claims that, if the quoted pre-Islamic lines were framed with familiar Qur’anic opening and closing formulas, listeners would be unable to distinguish them from the Qur’an.",
+      "claimAr": "يدعي المتحدث أنه لو أحيطت الأبيات السابقة للإسلام بصيغتي الافتتاح والختام المألوفتين للقرآن لما استطاع السامعون تمييزها عن القرآن.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "pre-islamic-poetry",
+        "quran"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the vocabulary, meter or sajʿ, syntax, and rhetorical structure of the attributed lines with relevant Qur’anic passages; the indistinguishability judgment itself is subjective."
+    },
+    {
+      "timestamp": "00:02:44",
+      "claimEn": "The speaker claims that Khadija was a wealthy and influential Qurayshi merchant who financially supported Muhammad, illustrating female economic independence before or at the beginning of Islam.",
+      "claimAr": "يدعي المتحدث أن خديجة كانت تاجرة قرشية ثرية ونافذة وكانت تنفق على محمد، بما يوضح استقلالاً اقتصادياً للمرأة قبل الإسلام أو في بدايته.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-status-before-islam",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the earliest sira and hadith reports concerning Khadija’s wealth, trade, social standing, and financial relationship with Muhammad."
+    },
+    {
+      "timestamp": "00:02:44",
+      "claimEn": "The speaker claims that Muhammad took no other wife while Khadija lived but married approximately fourteen women after her death and reportedly had nine wives simultaneously.",
+      "claimAr": "يدعي المتحدث أن محمداً لم يتزوج غير خديجة في حياتها، لكنه تزوج بعد وفاتها قرابة أربع عشرة امرأة وكان عنده، بحسب الروايات، تسع زوجات في وقت واحد.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare early sira, hadith, and biographical enumerations of Muhammad’s wives, distinguishing marriages, consummated unions, disputed names, and the number living with him simultaneously."
+    },
+    {
+      "timestamp": "00:03:14",
+      "claimEn": "The speaker claims that the Qur’anic command for Muhammad’s wives, daughters, and believing women to draw their outer garments over themselves reveals a newly imposed restriction on women’s previously freer dress and movement.",
+      "claimAr": "يدعي المتحدث أن الأمر القرآني لزوجات محمد وبناته ونساء المؤمنين بإدناء الجلابيب يكشف عن قيد مستحدث على لباس النساء وحركتهن اللذين كانا أكثر حرية من قبل.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-sexual-ethics-and-repression-dress-perfume-and-blame",
+        "women-status-before-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the verse’s wording, early exegesis of jilbab and yudnina, reported occasion of revelation, and evidence for women’s dress and movement before the ruling."
+    },
+    {
+      "timestamp": "00:03:14",
+      "claimEn": "The speaker claims that the hadith describing woman as ʿawra and saying Satan seeks her when she goes out reinforces the confinement and sexualization of women.",
+      "claimAr": "يدعي المتحدث أن الحديث الذي يصف المرأة بأنها عورة ويقول إن الشيطان يستشرفها إذا خرجت يعزز حبس النساء والنظر إليهن بوصفهن موضوعاً جنسياً.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-modesty-contact-and-repression",
+        "women-sexual-ethics-and-repression"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the hadith collection and full wording, examine its chains and grading, and compare traditional explanations of ʿawra and istashrafaha."
+    },
+    {
+      "timestamp": "00:04:03",
+      "claimEn": "The speaker claims that the command for women to remain in their houses and not display themselves as in the jahiliyya confirms that going out and displaying adornment had previously been socially available to them.",
+      "claimAr": "يدعي المتحدث أن أمر النساء بالقرار في البيوت وعدم التبرج تبرج الجاهلية يؤكد أن الخروج وإظهار الزينة كانا متاحين لهن اجتماعياً من قبل.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-status-before-islam",
+        "women-sexual-ethics-and-repression-dress-perfume-and-blame"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the grammatical addressees and context of the verse, its early interpretations, and independent evidence about women’s public activity and adornment in pre-Islamic Arabia."
+    },
+    {
+      "timestamp": "00:04:45",
+      "claimEn": "The speaker concludes that the Qur’anic solution to harassment restricts women’s dress and movement instead of commanding men to respect women’s autonomy, reflecting patriarchal human reasoning.",
+      "claimAr": "يخلص المتحدث إلى أن الحل القرآني للتحرش يقيد لباس المرأة وحركتها بدلاً من أمر الرجال باحترام استقلالها، وهو ما يعكس تفكيراً بشرياً أبوياً.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women-sexual-ethics-and-repression-dress-perfume-and-blame",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the complete set of Qur’anic and early Islamic texts addressing harassment, modesty, male conduct, and women’s public movement before evaluating the speaker’s inference about authorship."
+    },
+    {
+      "timestamp": "00:06:04",
+      "claimEn": "The speaker claims that the Qur’an permits a man to marry two, three, or four women, reducing wives to numbered members of an unequal arrangement.",
+      "claimAr": "يدعي المتحدث أن القرآن يبيح للرجل الزواج باثنتين أو ثلاث أو أربع نساء، بما يحول الزوجات إلى أفراد مرقمين في ترتيب غير متكافئ.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marriage-contracts-and-forms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the full verse, its relationship to orphan guardianship and justice, and classical legal interpretations of the permitted number of wives."
+    },
+    {
+      "timestamp": "00:06:44",
+      "claimEn": "The speaker claims that the Qur’anic alternative of one wife or women possessed by the right hand permits an unlimited number of female captives, slave women, and concubines to a Muslim man.",
+      "claimAr": "يدعي المتحدث أن البديل القرآني المتمثل في زوجة واحدة أو ما ملكت اليمين يبيح للرجل المسلم عدداً غير محدود من السبايا والإماء والسراري.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the cited verse and classical jurisprudence concerning ownership, concubinage, numerical limits, sexual access, and the legal categories included under ma malakat aymanukum."
+    },
+    {
+      "timestamp": "00:06:44",
+      "claimEn": "The speaker concludes that a system permitting the capture, sale, purchase, and sexual use of women cannot coherently be described as having elevated women.",
+      "claimAr": "يخلص المتحدث إلى أنه لا يمكن وصف نظام يبيح أسر النساء وبيعهن وشراءهن واستخدامهن جنسياً بأنه نظام أعز المرأة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "slavery",
+        "women-captivity-and-wartime"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the relevant Qur’anic, hadith, and legal rules governing captives and concubines, then assess the ethical inference separately."
+    },
+    {
+      "timestamp": "00:07:25",
+      "claimEn": "The speaker claims that the Qur’an did not abolish slavery or concubinage as it categorically prohibited pork and intoxicants, but instead supplied instructions for managing them.",
+      "claimAr": "يدعي المتحدث أن القرآن لم يلغ العبودية وملك اليمين كما حرم الخنزير والمسكرات تحريماً قاطعاً، بل قدم تعليمات لتنظيمهما.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Survey Qur’anic passages on slavery, captives, manumission, concubinage, pork, and intoxicants to compare the forms and scope of their respective rulings."
+    },
+    {
+      "timestamp": "00:07:25",
+      "claimEn": "The speaker claims that human-rights developments, rather than Islam itself, abolished slavery and slave markets.",
+      "claimAr": "يدعي المتحدث أن تطورات حقوق الإنسان، لا الإسلام نفسه، هي التي ألغت العبودية وأسواق النخاسة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Examine the chronology and causes of abolition across Muslim-majority jurisdictions, including internal religious arguments, international pressure, legislation, and human-rights movements."
+    },
+    {
+      "timestamp": "00:08:06",
+      "claimEn": "The speaker concludes that if Qur’anic legislation was designed for an earlier society in which concubinage existed, the Qur’an cannot consistently be treated as applicable to every time and place.",
+      "claimAr": "يخلص المتحدث إلى أنه إذا كان التشريع القرآني مصمماً لمجتمع قديم كان فيه ملك اليمين قائماً، فلا يمكن اعتبار القرآن صالحاً لكل زمان ومكان على نحو متسق.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the speaker’s inference with Islamic theories of universal law, historically conditioned rulings, legal objectives, and suspension or obsolescence of particular institutions."
+    },
+    {
+      "timestamp": "00:08:51",
+      "claimEn": "The speaker claims that an interpretation of the verse forbidding property from being entrusted to the foolish identifies the foolish as women and children, equating women’s financial judgment with that of immature children.",
+      "claimAr": "يدعي المتحدث أن تفسير آية النهي عن إيتاء الأموال للسفهاء يحدد السفهاء بالنساء والأولاد، فيساوي حكم المرأة المالي بحكم الأطفال غير الناضجين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the quoted or paraphrased exegetical source, check the verse’s addressees and property context, and compare early interpretations of al-sufahaʾ."
+    },
+    {
+      "timestamp": "00:09:38",
+      "claimEn": "The speaker claims that the Qur’anic requirement of two women in place of one male witness assigns a woman’s testimony half the value of a man’s because one woman may forget.",
+      "claimAr": "يدعي المتحدث أن اشتراط القرآن امرأتين بدلاً من شاهد ذكر واحد يجعل شهادة المرأة نصف شهادة الرجل لأن إحداهما قد تنسى.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the complete debt-contract verse, its precise scope, the wording concerning error or forgetfulness, and its treatment in classical law beyond financial contracts."
+    },
+    {
+      "timestamp": "00:10:18",
+      "claimEn": "The speaker rejects as apologetic rationalization the claim that male memory operates independently of emotion while female memory is emotionally impaired.",
+      "claimAr": "يرفض المتحدث بوصفه ترقيعاً دعوياً الزعم بأن ذاكرة الرجل تعمل بمعزل عن العاطفة بينما تتأثر ذاكرة المرأة بعاطفتها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the preacher or source advancing this neuroscience claim and compare it with current peer-reviewed research on sex, emotion, and memory performance."
+    },
+    {
+      "timestamp": "00:11:40",
+      "claimEn": "The speaker claims that a hadith explains women’s deficient reason by the half-testimony rule and says women constitute most of hell because they curse and are ungrateful to their husbands.",
+      "claimAr": "يدعي المتحدث أن حديثاً يفسر نقصان عقل النساء بحكم نصف الشهادة ويقول إنهن أكثر أهل النار بسبب كثرة اللعن وكفران العشير.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-marital-authority-and-obedience",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the full hadith and its variants, collections, chains, grading, audience, and classical explanations of deficient reason and ingratitude to the husband."
+    },
+    {
+      "timestamp": "00:12:21",
+      "claimEn": "The speaker claims that the hadith’s argument for women’s intellectual deficiency is circular because it uses the Qur’anic testimony rule itself as proof that women are deficient.",
+      "claimAr": "يدعي المتحدث أن استدلال الحديث على نقصان عقل المرأة دائري لأنه يستخدم حكم الشهادة القرآني نفسه دليلاً على أن المرأة ناقصة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-marital-authority-and-obedience",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Analyze the logical structure of the hadith and traditional accounts of whether it is giving a legal illustration, a causal explanation, or an independent proof."
+    },
+    {
+      "timestamp": "00:13:08",
+      "claimEn": "The speaker claims that the same hadith calls women deficient in religion because menstruation prevents them from praying and fasting.",
+      "claimAr": "يدعي المتحدث أن الحديث نفسه يصف النساء بنقص الدين لأن الحيض يمنعهن من الصلاة والصيام.",
+      "claimType": "ritual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-marital-authority-and-obedience",
+        "women"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the hadith’s exact wording and the legal traditions governing prayer, fasting, and the later making up of missed fasts during menstruation."
+    },
+    {
+      "timestamp": "00:13:55",
+      "claimEn": "The speaker concludes that it is internally incoherent for God to create menstruation, command women not to pray or fast during it, and then describe their obedience to that command as a deficiency in religion.",
+      "claimAr": "يخلص المتحدث إلى وجود تناقض داخلي في أن يخلق الله الحيض، ويأمر النساء بترك الصلاة والصيام خلاله، ثم يصف امتثالهن لذلك بنقص الدين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions",
+        "women"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Examine whether the hadith presents deficiency as moral blame, quantitative ritual difference, or another category, and assess the claimed contradiction under each interpretation."
+    },
+    {
+      "timestamp": "00:15:28",
+      "claimEn": "The speaker claims that marriage, divorce, and women’s rules are scattered across suras such as al-Baqara instead of being organized in al-Nisaʾ or al-Talaq because the Qur’an was collected randomly and unsuccessfully.",
+      "claimAr": "يدعي المتحدث أن أحكام الزواج والطلاق والنساء مبعثرة في سور مثل البقرة بدلاً من جمعها في النساء أو الطلاق بسبب جمع القرآن بطريقة عشوائية وغير موفقة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Map the distribution of legal passages across the Qur’an and compare proposed principles of sura composition and reports about collection before assessing whether disorder follows from the evidence."
+    },
+    {
+      "timestamp": "00:15:28",
+      "claimEn": "The speaker claims that Q2:226 gives a husband who swears not to have sex with his wife a four-month period during which she must wait and cannot compel his return.",
+      "claimAr": "يدعي المتحدث أن الآية 2:226 تمنح الزوج الذي يحلف على ترك معاشرة زوجته مهلة أربعة أشهر يجب عليها خلالها الانتظار ولا تستطيع إلزامه بالرجوع.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q2:226–227 and classical legal disagreements concerning ilaʾ, the wife’s remedies during the waiting period, automatic divorce, and judicial intervention."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "The speaker claims that the verse about a woman fearing her husband’s aversion was revealed concerning Sawda after Muhammad intended to divorce her because she was old, large-bodied, and ill.",
+      "claimAr": "يدعي المتحدث أن آية خوف المرأة من نشوز زوجها نزلت في سودة بعدما عزم محمد على طلاقها لأنها كانت كبيرة في السن وبدينة ومريضة.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare hadith and tafsir reports about the occasion of Q4:128, Muhammad’s intention, Sawda’s age and health, and variant explanations of the verse."
+    },
+    {
+      "timestamp": "00:16:57",
+      "claimEn": "The speaker claims that Sawda avoided divorce by surrendering her allotted night to Aisha, Muhammad’s favored wife, and that Muhammad accepted this arrangement.",
+      "claimAr": "يدعي المتحدث أن سودة تجنبت الطلاق بأن وهبت ليلتها لعائشة، زوجة محمد المفضلة، وأن محمداً قبل هذا الترتيب.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-family-and-household-traditions",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate all hadith and sira variants about Sawda’s gift of her day or night, their chains and wording, and whether avoiding divorce is explicitly stated."
+    },
+    {
+      "timestamp": "00:17:44",
+      "claimEn": "The speaker claims that the reconciliation verse permits a wife who fears rejection to surrender maintenance, clothing, lodging, time, part of her dowry, or other rights, while the husband decides whether to accept.",
+      "claimAr": "يدعي المتحدث أن آية الصلح تتيح للزوجة التي تخشى الإعراض أن تتنازل عن النفقة والكسوة والسكن والمبيت أو جزء من مهرها وسائر حقوقها، بينما يقرر الزوج قبول العرض أو رفضه.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the verse, early tafsir, and jurisprudence on marital settlement, voluntariness, permissible surrendered rights, coercion, and judicial remedies."
+    },
+    {
+      "timestamp": "00:18:30",
+      "claimEn": "The speaker concludes that Qur’anic remedies for a husband’s aversion are asymmetrical: he receives time and discretion, while the wife is pressured to surrender rights to remain married.",
+      "claimAr": "يخلص المتحدث إلى أن معالجة القرآن لنشوز الزوج غير متكافئة: فالزوج ينال المهلة وسلطة القرار، بينما تُدفع الزوجة إلى التنازل عن حقوقها كي تبقى متزوجة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare all relevant verses and legal remedies for male and female nushuz, including divorce initiation, maintenance, judicial annulment, and settlement."
+    },
+    {
+      "timestamp": "00:19:15",
+      "claimEn": "The speaker claims that the guardianship verse makes the man the woman’s superior, ruler, disciplinarian, and educator because men are favored over women and financially support them.",
+      "claimAr": "يدعي المتحدث أن آية القوامة تجعل الرجل رئيس المرأة وحاكمها ومؤدبها ومعلمها لأن الرجال فُضلوا على النساء وينفقون عليهن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the verse’s wording and early lexical and exegetical explanations of qawwamun, faddala, and the relationship between authority and financial maintenance."
+    },
+    {
+      "timestamp": "00:19:54",
+      "claimEn": "The speaker claims that traditional interpretation treats male-only prophethood as a consequence of men being superior to women, revealing a male-centered conception of God, messenger, and angels.",
+      "claimAr": "يدعي المتحدث أن التفسير التقليدي يجعل اختصاص الرجال بالنبوة نتيجة لكونهم أفضل من النساء، بما يكشف تصوراً متمركزاً حول الذكور لله والرسول والملائكة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the exegetical wording paraphrased by the speaker and compare theological debates over female prophecy and the gendering of God and angels."
+    },
+    {
+      "timestamp": "00:20:40",
+      "claimEn": "The speaker claims that the staged response to a wife’s nushuz begins by warning her of God’s punishment and severe threats for disobeying her husband or refusing his sexual demand.",
+      "claimAr": "يدعي المتحدث أن المعالجة المتدرجة لنشوز الزوجة تبدأ بتخويفها بعقاب الله والوعيد الشديد على عصيان الزوج أو رفض طلبه الجنسي.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "hadith-ethical-controversies-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Qur’anic sequence and the tafsir or legal commentary paraphrased by the speaker, including how nushuz and admonition were defined."
+    },
+    {
+      "timestamp": "00:20:40",
+      "claimEn": "The speaker claims that a hadith says angels curse a wife until morning when she refuses her husband’s invitation to bed.",
+      "claimAr": "يدعي المتحدث أن حديثاً يقول إن الملائكة تلعن الزوجة حتى تصبح إذا رفضت دعوة زوجها إلى الفراش.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-marital-authority-and-obedience",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith’s collections, variants, chains, conditions, and classical interpretations of refusal, valid excuses, anger, and the duration of the curse."
+    },
+    {
+      "timestamp": "00:21:26",
+      "claimEn": "The speaker claims that another hadith says the one in heaven remains angry with a wife until her angry husband is satisfied with her.",
+      "claimAr": "يدعي المتحدث أن رواية أخرى تقول إن الذي في السماء يظل غضبان على الزوجة حتى يرضى عنها زوجها الغاضب.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-marital-authority-and-obedience",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the exact report, collection, Arabic wording, grading, and relationship to better-known variants concerning angels and a husband sleeping angry."
+    },
+    {
+      "timestamp": "00:21:26",
+      "claimEn": "The speaker claims that a further hadith depicts the heavenly houris as cursing a wife who harms or sexually rejects the husband promised to them.",
+      "claimAr": "يدعي المتحدث أن حديثاً آخر يصور الحور العين وهن يلعنّ الزوجة التي تؤذي أو ترفض جنسياً الزوج الموعود لهن.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-ethical-controversies-paradise-rewards-and-fighter-motivation",
+        "women-rewards-in-the-hereafter",
+        "paradise-sexual-rewards"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report about houris addressing an earthly wife, check whether it concerns general harm or sexual refusal, and assess its chain and grading."
+    },
+    {
+      "timestamp": "00:22:12",
+      "claimEn": "The speaker claims that the Qur’anic progression from admonition to bed abandonment and beating authorizes physical coercion when a wife refuses sex.",
+      "claimAr": "يدعي المتحدث أن الانتقال القرآني من الوعظ إلى الهجر في المضجع ثم الضرب يجيز الإكراه الجسدي عندما ترفض الزوجة ممارسة الجنس.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "quran-women-and-marriage-rules",
+        "quran-lexical-and-interpretive-questions-marriage-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the verse, early definitions of nushuz, interpretations of wa-dribuhunna, legal limits on discipline, and whether sexual refusal is treated as the operative case."
+    },
+    {
+      "timestamp": "00:22:58",
+      "claimEn": "The speaker concludes that prescribing beating after sexual refusal reflects the thinking of a patriarchal man from the historical environment rather than that of an omniscient creator.",
+      "claimAr": "يخلص المتحدث إلى أن تشريع الضرب بعد الرفض الجنسي يعكس تفكير رجل أبوي من البيئة التاريخية، لا تفكير خالق كلي العلم.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "women-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the premise that the verse authorizes beating for sexual refusal and compare the rule with contemporary Arabian and neighboring marital norms before evaluating the authorship inference."
+    },
+    {
+      "timestamp": "00:22:58",
+      "claimEn": "The speaker claims that the tilth verse arose after Muslims in Medina married formerly Jewish women who rejected a sexual position because of a Jewish belief that it would produce a cross-eyed child.",
+      "claimAr": "يدعي المتحدث أن آية الحرث نزلت بعدما تزوج مسلمون في المدينة نساء كن يهوديات ورفضن وضعاً جنسياً بسبب اعتقاد يهودي بأنه يؤدي إلى ولادة طفل أحول.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-personal-circumstances",
+        "jewish-influence-on-early-islam",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith and tafsir reports about the occasion of Q2:223, verify the Jewish belief’s wording, and distinguish vaginal intercourse from anal intercourse in the reports."
+    },
+    {
+      "timestamp": "00:23:42",
+      "claimEn": "The speaker claims that describing wives as a man’s tilth and commanding him to approach it as he wishes treats women like owned agricultural land and disregards their sexual preferences.",
+      "claimAr": "يدعي المتحدث أن وصف الزوجات بحرث الرجل وأمره بإتيان حرثه كما يشاء يعامل النساء كأرض زراعية مملوكة ويتجاهل رغباتهن الجنسية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "quran-lexical-and-interpretive-questions-marriage-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the lexical range of harth, the syntax of anna shiʾtum, early exegesis, legal limits, and whether the metaphor entails ownership or disregards consent."
+    },
+    {
+      "timestamp": "00:24:26",
+      "claimEn": "The speaker concludes that the combined threats, abandonment, beating, and tilth language amount to step-by-step authorization of marital rape, even though Islamic law does not recognize the husband’s act as rape.",
+      "claimAr": "يخلص المتحدث إلى أن اجتماع التهديد والهجر والضرب ولغة الحرث يمثل ترخيصاً متدرجاً لاغتصاب الزوجة، رغم أن الفقه الإسلامي لا يعترف بفعل الزوج بوصفه اغتصاباً.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women-marital-authority-and-obedience",
+        "women-sexual-ethics-and-repression",
+        "hadith-ethical-controversies-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the cited texts with classical doctrines of marital sexual rights, coercion, bodily harm, consent, and modern definitions of marital rape."
+    },
+    {
+      "timestamp": "00:25:11",
+      "claimEn": "The speaker claims that Allah was already a pre-Islamic term and that Quraysh regarded al-Lat, al-Uzza, and Manat as daughters of Allah.",
+      "claimAr": "يدعي المتحدث أن لفظ الله كان سابقاً للإسلام، وأن قريشاً كانت تعد اللات والعزى ومناة بنات لله.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-pre-islamic-arabia",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic inscriptions, poetry, later Islamic reports, and the relevant Qur’anic passages concerning the term Allah and the status of the three goddesses."
+    },
+    {
+      "timestamp": "00:25:11",
+      "claimEn": "The speaker claims that Surat al-Najm answers Quraysh by treating their assignment of females to God while retaining males for themselves as an unfair division, thereby participating in the assumption that females are undesirable.",
+      "claimAr": "يدعي المتحدث أن سورة النجم ترد على قريش باعتبار نسبة الإناث إلى الله مع احتفاظهم بالذكور قسمة غير عادلة، فتشارك في افتراض أن الإناث غير مرغوبات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the passage’s rhetoric and early exegesis to determine whether it endorses female inferiority or argues ad hominem from the opponents’ own values."
+    },
+    {
+      "timestamp": "00:25:57",
+      "claimEn": "The speaker claims that the related passage about a man’s face darkening at news of a daughter criticizes assigning daughters to God without directly correcting the underlying belief that daughters are shameful.",
+      "claimAr": "يدعي المتحدث أن المقطع المتعلق باسوداد وجه الرجل عند تبشيره بالأنثى ينتقد نسبة البنات إلى الله من دون تصحيح مباشر للاعتقاد الأساسي بأن البنات عار.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "women-status-before-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the complete passage and compare its rhetorical target with other Qur’anic condemnations of female infanticide and grief at a daughter’s birth."
+    },
+    {
+      "timestamp": "00:27:28",
+      "claimEn": "The speaker claims that another verse and its exegesis portray women as raised in ornament to compensate for an inherent deficiency and as unable to argue clearly.",
+      "claimAr": "يدعي المتحدث أن آية أخرى وتفسيرها يصوران المرأة ناشئة في الحلية لتعويض نقص فطري وعاجزة عن البيان الواضح في الخصام.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-women-and-marriage-rules",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the verse’s readings and grammar, identify the exegetical passage paraphrased, and compare interpretations concerning whether the description is endorsed or attributed to the opponents."
+    },
+    {
+      "timestamp": "00:28:59",
+      "claimEn": "The speaker claims that female infanticide was practiced only by some Arabian tribes, not all Arabs, and was connected to fear that captured daughters would be forced into unions with enemy tribes.",
+      "claimAr": "يدعي المتحدث أن وأد البنات كان عادة عند بعض القبائل العربية لا جميع العرب، وأنه ارتبط بالخوف من أسر البنات وإجبارهن على الارتباط بالقبائل المعادية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-status-before-islam",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Examine archaeological, epigraphic, poetic, genealogical, and early Islamic evidence for the prevalence, tribal distribution, and motives of female infanticide."
+    },
+    {
+      "timestamp": "00:29:43",
+      "claimEn": "The speaker claims that pre-Islamic Arabs had a rule under which a married woman captured in war was returned to her husband and could not be married or raped by the captor.",
+      "claimAr": "يدعي المتحدث أن العرب قبل الإسلام كانت لديهم قاعدة تعيد المرأة المتزوجة المأسورة في الحرب إلى زوجها وتحظر على الآسر زواجها أو اغتصابها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-status-before-islam",
+        "women-captivity-and-wartime",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the source for the alleged pre-Islamic muhsan rule and verify its terminology, geographic scope, date, exceptions, and historical reliability."
+    },
+    {
+      "timestamp": "00:29:43",
+      "claimEn": "The speaker claims that Q4:23–24 generally prohibits married women but makes an exception for women possessed by the right hand, allowing sex with married female captives.",
+      "claimAr": "يدعي المتحدث أن الآيتين 4:23–24 تحرمان المتزوجات عموماً لكنهما تستثنيان ما ملكت اليمين، فتبيحان معاشرة السبايا المتزوجات.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women-captivity-and-wartime",
+        "slavery",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q4:23–24, its early occasions of revelation and exegesis, and classical law on whether captivity dissolves a captive woman’s prior marriage and when intercourse becomes lawful."
+    },
+    {
+      "timestamp": "00:30:24",
+      "claimEn": "The speaker concludes that Islam worsened the position of female captives by removing an alleged pre-Islamic protection for married women and making every captured woman sexually available.",
+      "claimAr": "يخلص المتحدث إلى أن الإسلام ساء وضع السبايا بإلغاء حماية مزعومة للمرأة المتزوجة قبل الإسلام وجعل كل امرأة مأسورة متاحة جنسياً.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "women-captivity-and-wartime",
+        "women-status-before-islam",
+        "slavery"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "First verify the alleged pre-Islamic rule and the Islamic legal consequences of captivity, then compare the two regimes without assuming either description."
+    },
+    {
+      "timestamp": "00:31:08",
+      "claimEn": "The speaker concludes that the Islamic deity described by these texts is not real but exists as the projection of a patriarchal, intellectually rigid human being from a Bedouin environment.",
+      "claimAr": "يخلص المتحدث إلى أن الإله الإسلامي الذي تصفه هذه النصوص غير موجود في الواقع، بل هو إسقاط لإنسان أبوي متحجر التفكير من بيئة بدوية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "quran"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether the preceding textual and historical claims establish dependence on a particular human social environment; the nonexistence conclusion is philosophical rather than directly source-verifiable."
+    },
+    {
+      "timestamp": "00:31:08",
+      "claimEn": "The speaker claims that the human founder successfully constructed a political system over which the companions later fought and killed one another.",
+      "claimAr": "يدعي المتحدث أن المؤسس البشري نجح في بناء منظومة سياسية تقاتل الصحابة وتذابحوا عليها من بعده.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "early-islamic-state-and-caliphate",
+        "early-islamic-state-and-caliphate-succession-and-dynastic-rule"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare early accounts of the succession disputes and civil wars with the claim that Muhammad deliberately constructed the political system that caused them."
+    },
+    {
+      "timestamp": "00:31:54",
+      "claimEn": "The speaker claims that modern Muslim interpreters freely reinterpret violent or punitive Qur’anic expressions but have not similarly changed texts that demean or disadvantage women.",
+      "claimAr": "يدعي المتحدث أن المفسرين المسلمين المعاصرين يعيدون تأويل العبارات القرآنية العنيفة أو العقابية بحرية، لكنهم لم يغيروا بالطريقة نفسها النصوص التي تنتقص من المرأة أو تضرها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-women-and-marriage-rules"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey representative modern interpretations of fighting, hand-cutting, neck-striking, guardianship, testimony, beating, concubinage, and marital sexual duties to test the claimed asymmetry."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:52",
+      "asStatedInVideo": "Zenobia — زنوبيا، presented as a female leader in pre-Islamic Syria.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:52",
+      "asStatedInVideo": "Dihya — ديهية، described as the queen of the Amazigh or queen of Africa.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:24",
+      "asStatedInVideo": "Zabra the soothsayer — زبراء الكاهنة؛ the name is unclear in the transcript.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:24",
+      "asStatedInVideo": "Khawla — خويلة، described as the lady of her people.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:24",
+      "asStatedInVideo": "A pre-Islamic report in which Khawla, the lady of the people, approaches leaning on Zabra and the people stand in respect — خبر سابق للإسلام عن خويلة وزبراء وقيام القوم إجلالاً لهما.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No source or locator stated",
+      "quotedArabic": "فأقبلت خويلة سيدة القوم تتوكأ على زبراء الشاعرة، فلما أبصرها القوم قاموا إجلالاً لها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:02:05",
+      "asStatedInVideo": "Rhymed lines attributed to Zabra the soothsayer — أبيات أو سجع منسوب إلى زبراء الكاهنة.",
+      "workTitle": "Unnamed attributed pre-Islamic lines — أبيات منسوبة غير مسماة",
+      "author": "Attributed in the video to Zabra the soothsayer — منسوبة في الفيديو إلى زبراء الكاهنة",
+      "locator": "No work or locator stated",
+      "quotedArabic": "واللوحي الخافق والليل الغاسق والصباح الشارق والنجم الطارق",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:05",
+      "asStatedInVideo": "The Qur’anic oath by al-najm al-tariq — القسم القرآني بالنجم الطارق؛ the speaker alludes to it without giving a sura or aya number.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "النجم الطارق",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:44",
+      "asStatedInVideo": "Khadija — خديجة، Muhammad’s first wife, described as a leading and wealthy Qurayshi merchant.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:44",
+      "asStatedInVideo": "Muhammad — محمد، discussed in relation to Khadija and his later wives.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:02:44",
+      "asStatedInVideo": "Reports that Muhammad married approximately fourteen women after Khadija and had nine wives at one time — روايات عدد زوجات محمد بعد خديجة.",
+      "workTitle": "Unnamed biographical reports — روايات سيرة غير مسماة",
+      "author": "",
+      "locator": "No source or locator stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:14",
+      "asStatedInVideo": "The verse commanding the Prophet to tell his wives, daughters, and believing women to draw their outer garments over themselves — آية إدناء الجلابيب.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "يا أيها النبي قل لأزواجك وبناتك ونساء المؤمنين يدنين عليهن من جلابيبهن ذلك أدنى أن يعرفن فلا يؤذين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:03:14",
+      "asStatedInVideo": "Hadith stating that woman is ʿawra and Satan seeks or adorns her when she goes out — حديث المرأة عورة.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "المرأة عورة فإذا خرجت استشرفها الشيطان",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:03",
+      "asStatedInVideo": "The verse commanding women to remain in their houses and not display themselves as in the former jahiliyya — آية القرار في البيوت وعدم التبرج.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "وقرن في بيوتكن ولا تبرجن تبرج الجاهلية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:04",
+      "asStatedInVideo": "The polygyny verse, quoted from the condition concerning justice toward orphans through two, three, or four wives and then one or what the right hands possess — آية التعدد وملك اليمين.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "وإن خفتم ألا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع... فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:07:25",
+      "asStatedInVideo": "The modern abolition of slavery and slave markets attributed to human rights rather than Islam — إلغاء ملك اليمين والعبودية وسوق النخاسة على يد حقوق الإنسان.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No date, jurisdiction, or instrument stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:51",
+      "asStatedInVideo": "The verse forbidding believers to give their property to the foolish — آية عدم إيتاء الأموال للسفهاء.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "ولا تؤتوا السفهاء أموالكم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:38",
+      "asStatedInVideo": "An unnamed exegetical gloss identifying the foolish as women and children — قول تفسيري غير مسمى يفسر السفهاء بالنساء والأولاد.",
+      "workTitle": "Unnamed tafsir — تفسير غير مسمى",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "قالوا النساء والأولاد",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:38",
+      "asStatedInVideo": "The debt-testimony verse requiring two men or one man and two women — آية شهادة رجل وامرأتين.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "واستشهدوا شهيدين من رجالكم فإن لم يكونا رجلين فرجل وامرأتان... أن تضل إحداهما فتذكر إحداهما الأخرى",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:40",
+      "asStatedInVideo": "Al-Kuhayli — الكحيلي، named as an example of a modern interpreter offering apologetic explanations.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:11:40",
+      "asStatedInVideo": "Hadith of Muhammad addressing women at the prayer place and saying they are the majority of hell and deficient in reason and religion — حديث مخاطبة النساء في المصلى.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "يا معشر النساء تصدقن فإني أريتكن أكثر أهل النار... تكثرن اللعن وتكفرن العشير، وما رأيت من ناقصات عقل ودين أذهب للب الرجل الحازم من إحداكن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:12:21",
+      "asStatedInVideo": "Continuation of the deficient-reason hadith, explaining it through women’s testimony — تتمة حديث نقصان العقل بالشهادة.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "أليست شهادة المرأة مثل نصف شهادة الرجل؟ قلن بلى، قال فذلك من نقصان عقلها",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:13:08",
+      "asStatedInVideo": "Continuation of the deficient-religion hadith, explaining it through menstruation and missed prayer and fasting — تتمة حديث نقصان الدين بالحيض.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "أليس إذا حاضت لم تصل ولم تصم؟ قلن بلى، قال فذلك من نقصان دينها",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:28",
+      "asStatedInVideo": "Surat al-Baqara, aya 226, concerning those who swear abstinence from their wives — سورة البقرة، الآية 226.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "2:226",
+      "quotedArabic": "للذين يؤلون من نسائهم تربص أربعة أشهر فإن فاءوا فإن الله غفور رحيم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:28",
+      "asStatedInVideo": "Surat al-Nisaʾ — سورة النساء، named while discussing the scattered arrangement of family law.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura named; no aya stated",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:28",
+      "asStatedInVideo": "Surat al-Talaq — سورة الطلاق، named while discussing the scattered arrangement of family law.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura named; no aya stated",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:57",
+      "asStatedInVideo": "The verse concerning a woman who fears nushuz or aversion from her husband and permits reconciliation — آية خوف المرأة من نشوز بعلها.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "وإن امرأة خافت من بعلها نشوزا أو إعراضا فلا جناح عليهما أن يصلحا بينهما صلحا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:57",
+      "asStatedInVideo": "Sawda — سودة، a wife of Muhammad said to have surrendered her allotted night.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:57",
+      "asStatedInVideo": "Aisha — عائشة، described as Muhammad’s favored wife and recipient of Sawda’s night.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:57",
+      "asStatedInVideo": "A report from the night of Muzdalifa describing Sawda as large-bodied, elderly, and generally ill — رواية ليلة المزدلفة عن سودة.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:16:57",
+      "asStatedInVideo": "Report that Muhammad intended to divorce Sawda and accepted her gift of her night to Aisha — رواية عزم محمد على طلاق سودة وهبتها ليلتها لعائشة.",
+      "workTitle": "Unnamed report — رواية غير مسماة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:15",
+      "asStatedInVideo": "The male-guardianship and wife-nushuz verse — آية قوامة الرجال ونشوز الزوجة.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم... واللاتي تخافون نشوزهن فعظوهن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:19:54",
+      "asStatedInVideo": "An unnamed exegetical gloss defining the man as the woman’s chief, ruler, and disciplinarian and linking male superiority to male prophethood — تفسير غير مسمى للقوامة وتفضيل الرجال.",
+      "workTitle": "Unnamed tafsir — تفسير غير مسمى",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "الرجل قيم على المرأة أي هو رئيسها وكبيرها والحاكم عليها ومؤدبها إذا اعوجت... الرجال أفضل من النساء والرجل خير من المرأة ولهذا كانت النبوة مختصة بالرجل",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:20:40",
+      "asStatedInVideo": "Hadith saying angels curse a wife who refuses her husband’s invitation to bed until morning — حديث لعن الملائكة للزوجة الممتنعة.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "إذا دعا الرجل امرأته إلى فراشه فأبت عليه لعنتها الملائكة حتى تصبح",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:21:26",
+      "asStatedInVideo": "A second report saying the one in heaven remains angry with the wife until her husband is pleased — رواية غضب الذي في السماء.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "فبات زوجها عليها غضبان لم يزل الذي في السماء غضبان عليها حتى يرضى عنها زوجها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:21:26",
+      "asStatedInVideo": "A hadith in which the husband’s houris curse his earthly wife — حديث لعن الحور العين لزوجة الرجل.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator or exact wording stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:22:12",
+      "asStatedInVideo": "Continuation of the wife-nushuz verse, ordering bed abandonment and beating — تتمة آية نشوز الزوجة.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "واهجروهن في المضاجع... واضربوهن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:22:58",
+      "asStatedInVideo": "The migration to Medina, spread of Islam there, and marriages between Muslims and formerly Jewish women — الهجرة إلى المدينة وانتشار الإسلام وزواج المسلمين من يهوديات سابقات.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No dates or named incident stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:22:58",
+      "asStatedInVideo": "An unnamed occasion-of-revelation report that Jewish women rejected intercourse from behind because they believed the child would be cross-eyed — رواية سبب نزول متعلقة باعتقاد يهودي.",
+      "workTitle": "Collection not stated — لم تُذكر المجموعة",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:42",
+      "asStatedInVideo": "The verse describing wives as tilth and commanding men to approach their tilth as they wish — آية النساء حرث لكم.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "نساؤكم حرث لكم فأتوا حرثكم أنى شئتم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:11",
+      "asStatedInVideo": "Surat al-Najm passage naming al-Lat, al-Uzza, and Manat and asking whether humans have males while God has females — مقطع سورة النجم عن اللات والعزى ومناة.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Surat al-Najm; aya numbers not stated",
+      "quotedArabic": "أفرأيتم اللات والعزى ومناة الثالثة الأخرى ألكم الذكر وله الأنثى تلك إذا قسمة ضيزى",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:25:11",
+      "asStatedInVideo": "Al-Lat — اللات، named as one of the Qurayshi deities regarded as a daughter of Allah.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:25:11",
+      "asStatedInVideo": "Al-Uzza — العزى، named as one of the Qurayshi deities regarded as a daughter of Allah.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:25:11",
+      "asStatedInVideo": "Manat — مناة، named as one of the Qurayshi deities regarded as a daughter of Allah.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:57",
+      "asStatedInVideo": "A related Qur’anic formulation about assigning a child to God and females to themselves; the speaker quotes or paraphrases it without a locator — صياغة قرآنية أخرى عن نسبة الأنثى.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "أتجعلون له ولدا وتجعلون لكم أنثى وتختارون لأنفسكم الذكور، تلك إذا قسمة ضيزى",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:57",
+      "asStatedInVideo": "The passage about a man’s face darkening when informed of what he attributes to the Merciful — آية اسوداد الوجه عند التبشير بالأنثى.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "The speaker says Surat al-Zukhruf; aya number not stated",
+      "quotedArabic": "وإذا بشر أحدهم بما ضرب للرحمن مثلا ظل وجهه مسودا وهو كظيم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:27:28",
+      "asStatedInVideo": "The verse about one raised in ornament and unclear in dispute — آية من ينشأ في الحلية.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "Sura and aya not stated in the video",
+      "quotedArabic": "أو من ينشأ في الحلية وهو في الخصام غير مبين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:27:28",
+      "asStatedInVideo": "An unnamed exegesis saying ornament compensates for female deficiency and that women are inarticulate in disputes — تفسير غير مسمى لآية الحلية والخصام.",
+      "workTitle": "Unnamed tafsir — تفسير غير مسمى",
+      "author": "",
+      "locator": "No locator stated",
+      "quotedArabic": "تحليها الأم لسداد الناقص الذي قد يكون فيها... وإذا جاءت تخاصم تجد المرأة لا تركز في خصومتها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:28:59",
+      "asStatedInVideo": "Female infanticide among some pre-Islamic Arab tribes — وأد البنات عند بعض القبائل العربية.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No tribe, date, or primary source stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:29:43",
+      "asStatedInVideo": "An alleged pre-Islamic rule called al-muhsan, under which a married female captive was returned to her husband — قاعدة مزعومة قبل الإسلام باسم المحصن.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No source, date, or jurisdiction stated",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:29:43",
+      "asStatedInVideo": "Surat al-Nisaʾ, ayas 23 and 24, listing prohibited women and the exception for those possessed by the right hand — سورة النساء 23–24.",
+      "workTitle": "The Qur’an — القرآن",
+      "author": "",
+      "locator": "4:23-24",
+      "quotedArabic": "حرمت عليكم أمهاتكم وبناتكم وأخواتكم... والمحصنات من النساء إلا ما ملكت أيمانكم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:31:08",
+      "asStatedInVideo": "The companions’ later political fighting and killing over the system founded after Muhammad — اقتتال الصحابة على المنظومة السياسية بعد محمد.",
+      "workTitle": "",
+      "author": "",
+      "locator": "No particular conflict, date, or source stated",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

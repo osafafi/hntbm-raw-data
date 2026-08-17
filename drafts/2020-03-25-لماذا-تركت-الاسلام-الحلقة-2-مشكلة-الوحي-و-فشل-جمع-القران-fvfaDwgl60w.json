@@ -1,0 +1,1175 @@
+{
+  "schemaVersion": 1,
+  "videoId": "fvfaDwgl60w",
+  "videoUrl": "https://www.youtube.com/watch?v=fvfaDwgl60w",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 2 - مشكلة الوحي و فشل جمع القرآن",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200325",
+  "extractedAt": "2026-08-17T08:54:07+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that the Islamic account of revelation makes Muhammad’s experience private and independently unverifiable: Muhammad allegedly did not initially identify the entity in the cave, while Khadija and Waraqa ibn Nawfal supplied the identification as Gabriel. He concludes that observers cannot distinguish revelation from fabrication or hallucination and that an all-wise God would not use such an ambiguous method for a final message. He then argues from Islamic reports, chiefly a work identified as Kitab al-Masahif, that the Qur’an was not collected as a book during Muhammad’s lifetime; that material was lost when reciters died at al-Yamama; that Zayd ibn Thabit’s witness-based collection procedure both admitted disputed material and excluded remembered passages; that reports attributed to Abu Musa, Umar, and Aisha preserve traces of missing suras or verses; and that companion codices differed substantially. Finally, he claims that Uthman destroyed competing codices and imposed the copy associated with Hafsa, that even this recension is not identical to the present text, and that the present Qur’an’s disorder and opacity reflect unsuccessful human compilation.",
+  "summaryAr": "يجادل المتحدث بأن الرواية الإسلامية للوحي تجعل تجربة محمد شخصية وغير قابلة للتحقق المستقل: فمحمد، بحسب عرضه، لم يعرف في البداية هوية الكيان الذي قابله في الغار، بينما جاءت تسمية الكيان بجبريل عن طريق خديجة وورقة بن نوفل. ويستنتج أن المراقب لا يستطيع التمييز بين الوحي والكذب والهلوسة، وأن إلهاً كلي الحكمة لا يُفترض أن يختار هذه الوسيلة الملتبسة لإيصال رسالته الأخيرة. ثم يستند إلى روايات إسلامية، وبخاصة كتاب سماه كتاب المصاحف، ليزعم أن القرآن لم يكن مجموعاً في كتاب في حياة محمد، وأن مواد منه ضاعت بموت القراء في اليمامة، وأن منهج زيد بن ثابت القائم على الشهود أدخل مواد مختلفاً في قرآنيتها وأسقط مقاطع محفوظة، وأن روايات أبي موسى وعمر وعائشة تحتفظ بآثار سور أو آيات مفقودة، وأن مصاحف الصحابة اختلفت اختلافاً واسعاً. وينتهي إلى أن عثمان أتلف المصاحف المنافسة وفرض النسخة المرتبطة بحفصة، وأن تلك النسخة نفسها لا تطابق النص الحالي، وأن اضطراب القرآن الحالي وصعوبته يعكسان جمعاً بشرياً غير ناجح.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:02",
+      "stepEn": "He opens by identifying revelation and the divine origin of the Qur’an as doctrines accepted across Islamic sects but says these very doctrines prompted his doubts.",
+      "stepAr": "يفتتح بتحديد الوحي والمصدر الإلهي للقرآن بوصفهما عقيدتين متفقاً عليهما بين الفرق الإسلامية، لكنه يقول إنهما كانتا من أسباب شكه."
+    },
+    {
+      "timestamp": "00:00:56",
+      "stepEn": "He retells the first-revelation narrative: an unidentified entity confronts Muhammad in the cave and commands him to read.",
+      "stepAr": "يعيد سرد رواية بدء الوحي: كيان مجهول يواجه محمداً في الغار ويأمره بالقراءة."
+    },
+    {
+      "timestamp": "00:01:34",
+      "stepEn": "He emphasizes that Khadija and Waraqa, rather than Muhammad or the entity itself, identify the experience as angelic revelation.",
+      "stepAr": "يشدد على أن خديجة وورقة، لا محمد ولا الكيان نفسه، هما اللذان عيّنا التجربة بوصفها وحياً ملائكياً."
+    },
+    {
+      "timestamp": "00:02:55",
+      "stepEn": "He reframes revelation as a private experience that becomes hearsay for everyone except its recipient.",
+      "stepAr": "يعيد توصيف الوحي كتجربة شخصية تتحول إلى نقل عن الغير بالنسبة إلى كل من عدا المتلقي."
+    },
+    {
+      "timestamp": "00:03:34",
+      "stepEn": "He argues that the purported messenger’s identity and source were supplied through human interpretation rather than independently disclosed by God.",
+      "stepAr": "يجادل بأن هوية الرسول المزعوم ومصدره حُددا بتفسير بشري، لا بإفصاح مستقل من الله."
+    },
+    {
+      "timestamp": "00:04:13",
+      "stepEn": "He questions the evidential competence and consistency of the people who authenticated the experience, invoking Qur’anic and hadith statements about women’s testimony.",
+      "stepAr": "يطعن في كفاءة واتساق الأشخاص الذين صدّقوا التجربة، مستحضراً آية وحديثاً عن شهادة المرأة."
+    },
+    {
+      "timestamp": "00:04:55",
+      "stepEn": "He presents lying, hallucination, and genuine supernatural contact as observationally indistinguishable explanations.",
+      "stepAr": "يعرض الكذب والهلوسة والاتصال الخارق الحقيقي كتفسيرات لا يمكن تمييز أحدها عن الآخر بالملاحظة."
+    },
+    {
+      "timestamp": "00:06:19",
+      "stepEn": "He concludes that the revelation claim lacks adequate evidence and is an implausible communication method for an all-wise God.",
+      "stepAr": "يخلص إلى أن دعوى الوحي تفتقر إلى الدليل الكافي وأنها وسيلة تواصل غير معقولة لإله كلي الحكمة."
+    },
+    {
+      "timestamp": "00:06:57",
+      "stepEn": "He turns from the epistemology of revelation to the history of Qur’anic collection, citing Kitab al-Masahif.",
+      "stepAr": "ينتقل من إشكالية معرفة الوحي إلى تاريخ جمع القرآن، مستشهداً بكتاب المصاحف."
+    },
+    {
+      "timestamp": "00:07:44",
+      "stepEn": "He argues that no single Qur’anic book existed during Muhammad’s lifetime and that the material was dispersed among memories and writing materials.",
+      "stepAr": "يجادل بأنه لم يوجد كتاب قرآني واحد في حياة محمد، وأن المادة كانت موزعة بين الحفظ ووسائط الكتابة."
+    },
+    {
+      "timestamp": "00:08:23",
+      "stepEn": "He says deaths among reciters at al-Yamama created a danger of loss and prompted Abu Bakr, at Umar’s urging, to commission a collection.",
+      "stepAr": "يقول إن مقتل القراء في اليمامة خلق خطر الضياع ودفع أبا بكر، باقتراح عمر، إلى تكليف عملية الجمع."
+    },
+    {
+      "timestamp": "00:09:11",
+      "stepEn": "He claims that passages known only to deceased reciters were permanently lost and that Zayd attempted to gather only what remained.",
+      "stepAr": "يزعم أن مقاطع لم يكن يحفظها إلا القراء القتلى ضاعت نهائياً، وأن زيداً حاول جمع ما بقي فقط."
+    },
+    {
+      "timestamp": "00:09:49",
+      "stepEn": "He attacks Zayd’s witness procedure through examples of allegedly admitted disputed material and excluded or lost passages.",
+      "stepAr": "ينتقد شرط الشهود عند زيد من خلال أمثلة لمادة مختلف في قرآنيتها أُدخلت ومقاطع أُسقطت أو ضاعت."
+    },
+    {
+      "timestamp": "00:12:24",
+      "stepEn": "He argues that the companions’ need for witnesses and their inability to agree on the text undermine the Qur’an’s challenge to produce anything like it.",
+      "stepAr": "يجادل بأن حاجة الصحابة إلى الشهود وعجزهم عن الاتفاق على النص يقوضان تحدي القرآن بالإتيان بمثله."
+    },
+    {
+      "timestamp": "00:13:02",
+      "stepEn": "He describes numerous competing companion and successor codices with differences in suras, verses, dialect, and wording.",
+      "stepAr": "يصف مصاحف عديدة متنافسة للصحابة والتابعين تختلف في السور والآيات واللهجات والصياغة."
+    },
+    {
+      "timestamp": "00:13:39",
+      "stepEn": "He presents Uthman’s recension as an exercise of political authority: competing codices were burned and Hafsa’s copy was imposed.",
+      "stepAr": "يعرض توحيد عثمان للنص كممارسة للسلطة السياسية: أُحرقت المصاحف المنافسة وفُرضت نسخة حفصة."
+    },
+    {
+      "timestamp": "00:14:20",
+      "stepEn": "He concludes that the present Qur’an cannot be identical to what Muhammad recited and further claims it is not identical even to the Abu Bakr–Hafsa recension.",
+      "stepAr": "يخلص إلى أن القرآن الحالي لا يمكن أن يطابق ما تلاه محمد، ويضيف أنه لا يطابق حتى نسخة أبي بكر وحفصة."
+    },
+    {
+      "timestamp": "00:14:51",
+      "stepEn": "He interprets the present text’s ordering, interrupted passages, complexity, and obscurity as effects of faulty human compilation.",
+      "stepAr": "يفسر ترتيب النص الحالي ومقاطعه المنقطعة وتعقيده وغموضه بأنها نتائج لجمع بشري معيب."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:56",
+      "claimEn": "The speaker claims that, in the Islamic first-revelation narrative, Muhammad encountered an entity in the cave of Hira whose identity and origin he did not know.",
+      "claimAr": "يزعم المتحدث أن محمداً، في رواية بدء الوحي الإسلامية، واجه في غار حراء كياناً لم يكن يعرف هويته ولا مصدره.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the earliest hadith and sirah versions of the first-revelation account and determine whether they say Muhammad initially knew the entity’s identity or source."
+    },
+    {
+      "timestamp": "00:00:56",
+      "claimEn": "The speaker claims that the entity commanded Muhammad to read and delivered the opening words associated with Surat al-Alaq.",
+      "claimAr": "يزعم المتحدث أن الكيان أمر محمداً بالقراءة وألقى عليه الكلمات الافتتاحية المرتبطة بسورة العلق.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "quran-textual-transmission-formation-and-chronology-sequence-of-revelation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Arabic recited in the video with Q96:1–5 and with the wording and sequence given in the earliest revelation reports."
+    },
+    {
+      "timestamp": "00:01:34",
+      "claimEn": "The speaker claims that Waraqa ibn Nawfal, described in the traditions as Jewish or more probably Christian, identified Muhammad’s experience with the namus sent to Moses.",
+      "claimAr": "يزعم المتحدث أن ورقة بن نوفل، الذي تصفه الروايات باليهودية أو، على الأرجح، بالتنصر، هو الذي عرّف تجربة محمد بأنها الناموس الذي نزل على موسى.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "sirah-formative-figures",
+        "formative-figures-converts-and-informants"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the hadith and sirah variants concerning Waraqa’s religion, his use of the term namus, and whether he identified the figure as Gabriel or compared the experience with Moses."
+    },
+    {
+      "timestamp": "00:02:14",
+      "claimEn": "The speaker claims that Khadija tested the unseen being by seating Muhammad on her right and left and uncovering herself, then inferred from its disappearance that it was an angel rather than a demon.",
+      "claimAr": "يزعم المتحدث أن خديجة اختبرت الكائن غير المرئي بإجلاس محمد على يمينها ويسارها ثم بالتكشف، واستنتجت من اختفائه أنه ملاك لا شيطان.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the sirah or hadith report of Khadija’s test, compare its versions, and check exactly what actions and conclusion are attributed to her."
+    },
+    {
+      "timestamp": "00:02:55",
+      "claimEn": "The speaker argues that revelation is a private experience for its recipient and only hearsay for everyone else because no one else can see or converse with the alleged angel.",
+      "claimAr": "يجادل المتحدث بأن الوحي تجربة شخصية لمتلقيه، ولا يكون لغيره إلا نقلاً عن الغير، لأن أحداً آخر لا يرى الملاك المزعوم ولا يكلمه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "quran-psychological-origin"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the argument’s logic and compare it with whether the cited Islamic accounts report independent witnesses to the entity or only to Muhammad’s reactions."
+    },
+    {
+      "timestamp": "00:03:34",
+      "claimEn": "The speaker claims that neither the entity nor God directly told Muhammad that the entity was Gabriel sent by God; that identification came only from people around Muhammad.",
+      "claimAr": "يزعم المتحدث أن الكيان لم يخبر محمداً مباشرة بأنه جبريل المرسل من الله، وأن الله لم يبلغه بذلك، بل جاءت هذه الهوية فقط من الأشخاص المحيطين به.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "sirah-formative-figures"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Review the first-revelation reports for any direct self-identification by the being or divine confirmation before Khadija’s and Waraqa’s interpretations."
+    },
+    {
+      "timestamp": "00:04:13",
+      "claimEn": "The speaker claims that the Qur’an sets two women’s testimony in place of one man’s in the cited debt-witness passage and that a sound hadith explains this as a deficiency in women’s intellect.",
+      "claimAr": "يزعم المتحدث أن القرآن يجعل شهادة امرأتين مقام شهادة رجل واحد في آية الدين التي استشهد بها، وأن حديثاً صحيحاً يفسر ذلك بنقصان عقل المرأة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "women",
+        "hadith-ethical-controversies-marital-authority-and-obedience"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and legal context of Q2:282 and identify the hadith collection, grading, context, and exact wording of the report about women’s testimony and deficient intellect."
+    },
+    {
+      "timestamp": "00:04:13",
+      "claimEn": "The speaker argues that reliance on Khadija to authenticate the angel is inconsistent with the diminished evidentiary status he says Islam assigns to a woman’s testimony.",
+      "claimAr": "يجادل المتحدث بأن الاعتماد على خديجة لتوثيق هوية الملاك لا ينسجم مع المكانة الإثباتية المنقوصة التي يقول إن الإسلام يمنحها لشهادة المرأة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "women"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether the legal rule in Q2:282 applies to Khadija’s role in the revelation narrative and whether the comparison accurately represents the relevant Islamic doctrines."
+    },
+    {
+      "timestamp": "00:04:55",
+      "claimEn": "The speaker argues that Khadija, Waraqa, and the monk Bahira had no reliable way to determine whether Muhammad was truthful, hallucinating, or correctly reporting a supernatural event.",
+      "claimAr": "يجادل المتحدث بأن خديجة وورقة والراهب بحيرى لم تكن لديهم وسيلة موثوقة لتحديد ما إذا كان محمد صادقاً أو يهلوس أو يصف حدثاً خارقاً على نحو صحيح.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "quran-psychological-origin",
+        "sirah-formative-figures"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Separate the distinct reports involving Khadija, Waraqa, and Bahira, then assess what tests or grounds each source actually attributes to them."
+    },
+    {
+      "timestamp": "00:05:34",
+      "claimEn": "The speaker argues that a claim of exclusive contact with imperceptible supernatural beings cannot be evidentially distinguished from lying or hallucination.",
+      "claimAr": "يجادل المتحدث بأن دعوى الاتصال الحصري بكائنات خارقة لا يمكن رصدها لا يمكن تمييزها إثباتياً عن الكذب أو الهلوسة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-psychological-origin",
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the epistemic inference and whether the Islamic sources cited elsewhere in the argument offer any independent or publicly checkable evidence."
+    },
+    {
+      "timestamp": "00:06:19",
+      "claimEn": "The speaker concludes that an all-wise God would not choose an unsupported private experience, authenticated only by Muhammad’s wife and her relative, as the means of delivering a final universal message.",
+      "claimAr": "يستنتج المتحدث أن إلهاً كلي الحكمة لا يختار تجربة شخصية بلا دليل، لا يصدقها إلا قول زوجة محمد وقريبها، وسيلةً لإيصال رسالة عالمية أخيرة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-revelation-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate the theological premise about how an all-wise deity must communicate and whether the source record is adequately represented as resting only on these two attestations."
+    },
+    {
+      "timestamp": "00:07:44",
+      "claimEn": "The speaker claims that no collected book called the Qur’an existed during Muhammad’s lifetime; instead, revelation was dispersed between memorization and separate written materials.",
+      "claimAr": "يزعم المتحدث أنه لم يوجد في حياة محمد كتاب مجموع يسمى القرآن، بل كان الوحي مبعثراً بين الحفظ ومواد كتابية منفصلة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-formation-and-chronology-sequence-of-revelation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare early collection reports concerning written sheets, personal codices, memorization, scribes, and the existence or absence of a complete codex before Muhammad’s death."
+    },
+    {
+      "timestamp": "00:07:44",
+      "claimEn": "The speaker claims that Qur’anic material was written on goat skin, leaves, wood, and bones, while most of it was preserved in people’s memories.",
+      "claimAr": "يزعم المتحدث أن المادة القرآنية كُتبت على جلد الماعز وأوراق الشجر والخشب والعظام، بينما كان معظمها محفوظاً في صدور الناس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-script-and-orthography"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the precise writing materials named in the early collection traditions and whether any source supports the quantitative assertion that most material was unwritten."
+    },
+    {
+      "timestamp": "00:07:44",
+      "claimEn": "The speaker claims that Muhammad directed believers to learn the Qur’an from four reciters: Abdullah ibn Masud, Salim the client of Abu Hudhayfa, Ubayy ibn Kab, and Muadh ibn Jabal.",
+      "claimAr": "يزعم المتحدث أن محمداً وجّه المسلمين إلى أخذ القرآن عن أربعة قراء: عبد الله بن مسعود، وسالم مولى أبي حذيفة، وأبي بن كعب، ومعاذ بن جبل.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the collection and locator of the 'Take the Qur’an from four' hadith and verify the four names and the report’s wording."
+    },
+    {
+      "timestamp": "00:08:23",
+      "claimEn": "The speaker claims that, after Muhammad’s death, Abu Bakr sent Qur’an memorizers to recite to and motivate fighters, and that many of those memorizers were killed at al-Yamama.",
+      "claimAr": "يزعم المتحدث أن أبا بكر، بعد وفاة محمد، أرسل حفظة القرآن ليتلوا على المقاتلين ويحفزوهم، وأن عدداً كبيراً من هؤلاء الحفظة قُتل في اليمامة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes",
+        "jihad-incentive-structure"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify separately the early reports about reciters killed at al-Yamama and the claim that Abu Bakr deliberately deployed them to recite as motivation for combatants."
+    },
+    {
+      "timestamp": "00:08:23",
+      "claimEn": "The speaker claims that Umar feared the Qur’an would disappear as more memorizers died and therefore urged Abu Bakr to collect what remained.",
+      "claimAr": "يزعم المتحدث أن عمر خشي اختفاء القرآن بموت المزيد من الحفظة، ولذلك حث أبا بكر على جمع ما تبقى منه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes",
+        "formative-figures-collection-of-the-quran-and-later-caliphs"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the canonical collection report for Umar’s stated concern, Abu Bakr’s response, and whether it speaks of losing the Qur’an or merely much of it."
+    },
+    {
+      "timestamp": "00:09:11",
+      "claimEn": "The speaker claims that large portions of the Qur’an were known only to reciters killed at al-Yamama and consequently disappeared permanently before Abu Bakr, Umar, and Uthman could recover them.",
+      "claimAr": "يزعم المتحدث أن أقساماً كبيرة من القرآن لم تكن موجودة إلا عند قراء قُتلوا في اليمامة، فضاعت نهائياً قبل أن يتمكن أبو بكر وعمر وعثمان من استعادتها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the exact report behind this assertion and verify whether it says 'large portions,' whether they existed only with the dead reciters, and whether permanent textual loss is stated or inferred."
+    },
+    {
+      "timestamp": "00:09:11",
+      "claimEn": "The speaker claims that Abu Bakr assigned Zayd ibn Thabit to collect only the surviving dispersed material.",
+      "claimAr": "يزعم المتحدث أن أبا بكر كلّف زيد بن ثابت بجمع ما بقي من المادة القرآنية المبعثرة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes",
+        "formative-figures-collection-of-the-quran-and-later-caliphs"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Zayd’s commission in the early reports, including who appointed him, the scope of his task, and whether the sources characterize the material as merely what survived."
+    },
+    {
+      "timestamp": "00:09:49",
+      "claimEn": "The speaker claims that much of the Qur’an reached Zayd through oral transmission and that Zayd required a claimant to bring an additional witness before a proposed verse would be entered.",
+      "claimAr": "يزعم المتحدث أن قسماً كبيراً من القرآن وصل إلى زيد بالنقل الشفهي، وأن زيداً اشترط على من يأتي بآية أن يأتي بشاهد إضافي قبل إدخالها.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the different reports about Zayd’s evidentiary rule and determine whether 'two witnesses' meant two persons, written and oral evidence, or another criterion."
+    },
+    {
+      "timestamp": "00:09:49",
+      "claimEn": "The speaker claims that Zayd’s procedure caused material not originally regarded as Qur’an to enter the codex and genuine Qur’anic material to be excluded permanently.",
+      "claimAr": "يزعم المتحدث أن منهج زيد أدى إلى إدخال مادة لم تكن تُعد قرآناً في المصحف وإسقاط مادة قرآنية حقيقية نهائياً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Test this conclusion against all cited examples and distinguish source statements from the speaker’s inference about what the witness rule necessarily admitted or excluded."
+    },
+    {
+      "timestamp": "00:09:49",
+      "claimEn": "The speaker claims that many companions regarded al-Fatiha as a prayer rather than Qur’an, but that Zayd included it because two witnesses supported it.",
+      "claimAr": "يزعم المتحدث أن كثيراً من الصحابة عدّوا الفاتحة صلاة لا قرآناً، لكن زيداً أدخلها لأن شاهدين شهدا لها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate reports about al-Fatiha’s status in companion codices and verify whether any source says many companions denied its Qur’anic status or that Zayd admitted it specifically on two witnesses."
+    },
+    {
+      "timestamp": "00:10:27",
+      "claimEn": "The speaker claims that verses remembered directly from Muhammad were sometimes omitted because no second witness was available.",
+      "claimAr": "يزعم المتحدث أن آيات تذكرها بعض الصحابة عن محمد أُسقطت أحياناً لعدم وجود شاهد ثانٍ عليها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify reports of singly attested passages and determine whether the passages were rejected, treated as abrogated, or preserved outside the standardized codex."
+    },
+    {
+      "timestamp": "00:10:27",
+      "claimEn": "The speaker claims that Abu Musa al-Ashari remembered a sura comparable in length and severity to Bara’a, approximately 129 verses, which is absent from the present Qur’an except for wording he recalled.",
+      "claimAr": "يزعم المتحدث أن أبا موسى الأشعري تذكر سورة تشبه براءة في الطول والشدة، أي نحو 129 آية، لكنها غائبة عن القرآن الحالي عدا صياغة بقيت في ذاكرته.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the Abu Musa report, verify its collection and wording, and check whether it compares the forgotten sura to Bara’a in length, severity, or both."
+    },
+    {
+      "timestamp": "00:11:06",
+      "claimEn": "The speaker claims that Umar said the stoning verse had been revealed, read, understood, and applied by Muhammad and later Muslims, although it was absent from the codex.",
+      "claimAr": "يزعم المتحدث أن عمر قال إن آية الرجم نزلت وقُرئت وعُقلت وطُبقت على يد محمد ومن بعده، مع أنها لم تكن موجودة في المصحف.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Umar’s sermon in the hadith collections, its exact wording, and the classical explanations for the verse’s absence from the written Qur’an."
+    },
+    {
+      "timestamp": "00:11:06",
+      "claimEn": "The speaker claims that other reports portray Umar as wanting to write the stoning verse into the Qur’an but refraining because people might accuse him of adding his own words.",
+      "claimAr": "يزعم المتحدث أن روايات أخرى تصور عمر راغباً في كتابة آية الرجم في القرآن، لكنه امتنع خشية أن يتهمه الناس بأنه يضيف من عنده.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "formative-figures-collection-of-the-quran-and-later-caliphs",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the specific Umar variants, verify the stated reason for not writing the verse, and distinguish them from later commentary."
+    },
+    {
+      "timestamp": "00:11:46",
+      "claimEn": "The speaker claims that a report attributed to Aisha says that the stoning and adult-suckling passages were present in material associated with Surat al-Ahzab.",
+      "claimAr": "يزعم المتحدث أن رواية منسوبة إلى عائشة تقول إن مقطعي الرجم وإرضاع الكبير كانا موجودين في مادة مرتبطة بسورة الأحزاب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify whether the report combines both claims exactly as stated and verify its collection, chain, wording, grading, and relationship to Surat al-Ahzab."
+    },
+    {
+      "timestamp": "00:11:46",
+      "claimEn": "The speaker claims that Aisha reported Surat al-Ahzab had once been recited as approximately 200 verses, whereas the present sura has 73.",
+      "claimAr": "يزعم المتحدث أن عائشة روت أن سورة الأحزاب كانت تُقرأ بنحو مئتي آية، بينما تضم السورة الحالية ثلاثاً وسبعين آية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the reports about the former length of al-Ahzab, verify whether the number is attributed to Aisha or another transmitter, and check the reported number precisely."
+    },
+    {
+      "timestamp": "00:11:46",
+      "claimEn": "The speaker claims that a domesticated animal ate a sheet kept beneath Aisha’s bed after Muhammad’s death, thereby causing Qur’anic passages to be lost.",
+      "claimAr": "يزعم المتحدث أن داجناً أكل صحيفة كانت تحت سرير عائشة بعد وفاة محمد، مما تسبب في ضياع مقاطع قرآنية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the report’s collection, chain, wording, and grading, and determine whether it states that the passages were lost from communal memory or only that one written sheet was eaten."
+    },
+    {
+      "timestamp": "00:12:24",
+      "claimEn": "The speaker argues that if companions who spoke the Qur’an’s language and lived with Muhammad needed witnesses to distinguish revelation from human composition, the Qur’an’s challenge to produce verses like it fails.",
+      "claimAr": "يجادل المتحدث بأنه إذا كان الصحابة الذين تكلموا لغة القرآن وعاشوا مع محمد احتاجوا إلى الشهود للتمييز بين الوحي والصياغة البشرية، فإن تحدي القرآن بالإتيان بمثله يفشل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Verify the relevant Qur’anic challenge passages and assess whether Zayd’s witness rule concerned literary indistinguishability, authentication of provenance, or another issue."
+    },
+    {
+      "timestamp": "00:12:24",
+      "claimEn": "The speaker claims that many companions and Qur’an memorizers rejected Zayd’s collection method and did not accept the codex he produced.",
+      "claimAr": "يزعم المتحدث أن كثيراً من الصحابة وحفظة القرآن رفضوا منهج زيد في الجمع ولم يقبلوا المصحف الذي أعده.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify reports of opposition to Zayd’s collection and establish which companions objected, what they objected to, and whether the sources describe broad rejection."
+    },
+    {
+      "timestamp": "00:13:02",
+      "claimEn": "The speaker claims that by Uthman’s caliphate many companions possessed separate codices that differed in dialect, sura names, sura count, verse count, and wording.",
+      "claimAr": "يزعم المتحدث أنه بحلول خلافة عثمان كان لكثير من الصحابة مصاحف مستقلة تختلف في اللهجات وأسماء السور وعدد السور وعدد الآيات وصياغة الآيات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-textual-transmission-readings-and-ahruf-non-canonical-variants"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Catalogue the codex differences reported in Kitab al-Masahif and other early sources, distinguishing orthographic, dialectal, reading, ordering, verse-count, and canon-boundary differences."
+    },
+    {
+      "timestamp": "00:13:02",
+      "claimEn": "The speaker claims that separate codices were attributed to figures including Umar, Ali, Ubayy ibn Kab, Abdullah ibn Masud, Abdullah ibn Abbas, Abdullah ibn al-Zubayr, Aisha, Hafsa, and Umm Salama, as well as several successors.",
+      "claimAr": "يزعم المتحدث أن مصاحف مستقلة نُسبت إلى شخصيات منها عمر وعلي وأبي بن كعب وعبد الله بن مسعود وعبد الله بن عباس وعبد الله بن الزبير وعائشة وحفصة وأم سلمة، وإلى عدد من التابعين أيضاً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify each codex attribution in the cited book and determine whether 'codex' means a complete Qur’an, a personal collection, reading notes, or transmitted variants."
+    },
+    {
+      "timestamp": "00:13:39",
+      "claimEn": "The speaker claims that Uthman ordered all companion codices collected and burned because their differences threatened harm to the Muslim community.",
+      "claimAr": "يزعم المتحدث أن عثمان أمر بجمع مصاحف الصحابة كلها وإحراقها لأن اختلافها كان يهدد بإحداث ضرر بين المسلمين.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions",
+        "formative-figures-collection-of-the-quran-and-later-caliphs"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Uthmanic recension reports for what materials were ordered burned, the stated reason, the geographic scope, and recorded resistance."
+    },
+    {
+      "timestamp": "00:13:39",
+      "claimEn": "The speaker claims that Uthman retrieved Hafsa’s copy, which had been collected under Abu Bakr and had previously failed to gain agreement, copied it, distributed it throughout the Islamic territories, and prohibited other Qur’anic texts.",
+      "claimAr": "يزعم المتحدث أن عثمان استعاد نسخة حفصة التي جُمعت في خلافة أبي بكر ولم تحظ سابقاً بالاتفاق، فنسخها ووزعها في البلاد الإسلامية ومنع سائر النصوص القرآنية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions",
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the relationship between Abu Bakr’s sheets, Hafsa’s possession, and Uthman’s exemplars, and check whether the sources support the claim that nobody accepted the earlier copy."
+    },
+    {
+      "timestamp": "00:13:39",
+      "claimEn": "The speaker claims that Muslims who had personally heard and written verses from Muhammad were forced to discard them whenever those verses were absent from Uthman’s authorized text.",
+      "claimAr": "يزعم المتحدث أن مسلمين سمعوا آيات من محمد وكتبوها بأنفسهم أُجبروا على طرحها إذا لم تكن موجودة في نص عثمان المعتمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Search the recension reports for concrete cases of first-hand written material excluded by Uthman and distinguish explicit coercion from the speaker’s inference from the destruction order."
+    },
+    {
+      "timestamp": "00:14:20",
+      "claimEn": "The speaker concludes that the present Qur’an cannot be the same complete text that Muhammad recited to his companions.",
+      "claimAr": "يستنتج المتحدث أن القرآن الحالي لا يمكن أن يكون النص الكامل نفسه الذي كان محمد يتلوه على أصحابه.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether the collection, loss, variant, and recension reports cited by the speaker entail substantive non-identity with Muhammad’s recitations."
+    },
+    {
+      "timestamp": "00:14:20",
+      "claimEn": "The speaker claims that even the Abu Bakr–Hafsa copy used by Uthman was not identical to the Qur’an in circulation today.",
+      "claimAr": "يزعم المتحدث أن نسخة أبي بكر وحفصة التي استخدمها عثمان لم تكن هي نفسها القرآن المتداول اليوم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating",
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Determine what evidence the speaker’s cited book offers for this assertion and compare it with manuscript, qira’at, orthographic, and transmission scholarship; the video gives no specific variant here."
+    },
+    {
+      "timestamp": "00:14:51",
+      "claimEn": "The speaker claims that the present Qur’an has an incorrect ordering of suras and verses and contains passages or verse fragments interrupting other passages.",
+      "claimAr": "يزعم المتحدث أن ترتيب السور والآيات في القرآن الحالي غير صحيح، وأنه يحتوي على مقاطع أو أجزاء آيات تقطع مقاطع أخرى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-sequence-of-revelation",
+        "quran-internal-tensions-narrative-discrepancies"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Require the editor to identify specific suras and passages, then compare their manuscript ordering, traditional arrangement accounts, literary structure, and proposed interpolations."
+    },
+    {
+      "timestamp": "00:14:51",
+      "claimEn": "The speaker concludes that the Qur’an is complicated and difficult to understand because its human collectors did not know how to assemble it correctly, rather than because of divine profundity.",
+      "claimAr": "يستنتج المتحدث أن القرآن معقد وصعب الفهم لأن جامعيه البشر لم يعرفوا كيف يجمعونه بصورة صحيحة، لا بسبب عمق إلهي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-clarity-and-intelligibility",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether textual complexity can be linked to demonstrable compilation seams and compare this hypothesis with linguistic, literary, chronological, and traditional explanations."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "person",
+      "timestamp": "00:00:56",
+      "asStatedInVideo": "محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:00:56",
+      "asStatedInVideo": "رواية نزول الوحي في غار حراء؛ لم يسم المتحدث كتاباً أو إسناداً بعينه.",
+      "workTitle": "",
+      "author": "",
+      "locator": "بداية الوحي في غار حراء",
+      "quotedArabic": "ما أنا بقارئ",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:56",
+      "asStatedInVideo": "الآيات التي قال إن الكيان تلاها على محمد عند بدء الوحي.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "96:1–5",
+      "quotedArabic": "اقرأ باسم ربك الذي خلق، خلق الإنسان من علق. اقرأ وربك الأكرم الذي علم بالقلم، علم الإنسان ما لم يعلم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:34",
+      "asStatedInVideo": "خديجة، زوجة محمد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:34",
+      "asStatedInVideo": "ورقة بن نوفل، ابن عم خديجة، ووصفه المتحدث بأنه متنصر على الأرجح.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:01:34",
+      "asStatedInVideo": "رواية أخذ خديجة محمداً إلى ورقة بن نوفل بعد تجربة الغار.",
+      "workTitle": "",
+      "author": "",
+      "locator": "رواية بدء الوحي وورقة بن نوفل",
+      "quotedArabic": "هذا الناموس الذي أنزل الله على موسى",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:02:14",
+      "asStatedInVideo": "رواية اختبار خديجة للكيان بإجلاس محمد على حضنها والتكشف لمعرفة أهو ملاك أم شيطان.",
+      "workTitle": "",
+      "author": "",
+      "locator": "اختبار خديجة للكيان الظاهر لمحمد",
+      "quotedArabic": "أبشر، والله إنه لملاك خير وليس بشيطان",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:14",
+      "asStatedInVideo": "جبريل، الاسم الذي قال المتحدث إن خديجة وورقة أعطياه للكيان.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:13",
+      "asStatedInVideo": "آية الاستشهاد برجلين أو رجل وامرأتين.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "2:282",
+      "quotedArabic": "واستشهدوا شهيدين من رجالكم، فإن لم يكونا رجلين فرجل وامرأتان",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:04:13",
+      "asStatedInVideo": "حديث وصفه المتحدث بالصحيح، وفيه سؤال النساء عن كون شهادتهن نصف شهادة الرجل؛ لم يذكر المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "أليست شهادة المرأة مثل نصف شهادة الرجل؟ قلنا بلى. قال: فذلك من نقصان عقلها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:13",
+      "asStatedInVideo": "بحيرة، الذي وصفه المتحدث بالكاهن ثم أشار إليه بوصف الراهب في سياق من أقنعوا محمداً برسالته.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:06:57",
+      "asStatedInVideo": "كتاب المصاحف",
+      "workTitle": "كتاب المصاحف",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:08:23",
+      "asStatedInVideo": "الصفحة 153 من كتاب المصاحف، في قسم جمع أبي بكر القرآن بعد محمد وصولاً إلى جمع عثمان المصاحف.",
+      "workTitle": "كتاب المصاحف",
+      "author": "",
+      "locator": "ص 153؛ قسم جمع أبي بكر القرآن بعد محمد، ثم جمع عثمان المصاحف",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:07:44",
+      "asStatedInVideo": "حديث أخذ القرآن من أربعة؛ لم يذكر المتحدث المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "خذوا القرآن من أربعة",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:44",
+      "asStatedInVideo": "عبد الله بن مسعود",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:44",
+      "asStatedInVideo": "سالم مولى أبي حذيفة؛ نطق الاسم في transcript قريباً من «سليم مولى بن حذيفة».",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:44",
+      "asStatedInVideo": "أبي بن كعب",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:44",
+      "asStatedInVideo": "معاذ بن جبل",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:23",
+      "asStatedInVideo": "أبو بكر",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:08:23",
+      "asStatedInVideo": "عمر",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:08:23",
+      "asStatedInVideo": "معركة اليمامة أو يوم اليمامة، حيث قال المتحدث إن القتل استحر في حفظة القرآن.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:11",
+      "asStatedInVideo": "عثمان",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:11",
+      "asStatedInVideo": "زيد بن ثابت",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:09:11",
+      "asStatedInVideo": "حديث قال المتحدث إنه يذكر أن أقساماً كبيرة نزلت ولم تكن إلا مع حفظة قُتلوا في اليمامة؛ لم يذكر مجموعته أو رقمه أو نصه الدقيق.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:49",
+      "asStatedInVideo": "سورة الفاتحة، التي قال المتحدث إن كثيراً من الصحابة رأوها صلاة لا قرآناً.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة الفاتحة؛ لم يذكر رقم آية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:27",
+      "asStatedInVideo": "أبو موسى الأشعري",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:10:27",
+      "asStatedInVideo": "حديث أبي موسى الأشعري مع أهل البصرة عن سورة منسية تشبه براءة؛ لم يذكر المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "رواية السورة المشبهة ببراءة",
+      "quotedArabic": "لو كان لابن آدم واديان من مال لابتغى وادياً ثالثاً، ولا يملأ جوف ابن آدم إلا التراب",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:27",
+      "asStatedInVideo": "سورة براءة، أي سورة التوبة، وقال المتحدث إنها 129 آية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة براءة/التوبة؛ لم يذكر رقم السورة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:11:06",
+      "asStatedInVideo": "رواية عمر عن آية الرجم؛ لم يذكر المتحدث المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "خطبة عمر في آية الرجم",
+      "quotedArabic": "فكان مما أنزل الله آية الرجم، فقرأناها وعقلناها ووعيناها. رجم رسول الله صلى الله عليه وسلم ورجمنا من بعده، وأخشى أن يطول بالناس زمان أن يقول قائل: والله ما نجد آية الرجم في كتاب الله، فيضلوا بترك فريضة أنزلها الله",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:11:06",
+      "asStatedInVideo": "روايات أخرى قال فيها عمر إنه أراد كتابة آية الرجم لكنه خشي أن يقال إنه يكتب من عنده؛ لم يذكر المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:06",
+      "asStatedInVideo": "صيغة قال المتحدث إنها من ألفاظ آية الرجم المفقودة.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "آية الرجم المروية؛ ليست في المصحف الحالي بحسب المتحدث",
+      "quotedArabic": "والشيخ والشيخة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:46",
+      "asStatedInVideo": "عائشة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:11:46",
+      "asStatedInVideo": "حديث منسوب إلى عائشة عن الرجم وإرضاع الكبير وصحيفة أكلها داجن؛ لم يذكر المتحدث المجموعة أو الرقم.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:46",
+      "asStatedInVideo": "سورة الأحزاب، التي قال المتحدث إن رواية تجعلها نحو 200 آية سابقاً و73 آية حالياً.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "سورة الأحزاب؛ لم يذكر رقم السورة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:24",
+      "asStatedInVideo": "تحدي القرآن للبشر أن يأتوا بآيات من مثله؛ لم يذكر المتحدث السورة أو الآية.",
+      "workTitle": "القرآن",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "علي بن أبي طالب",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "عبد الله بن عباس",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "عبد الله بن الزبير",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "حفصة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "أم سلمة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "عكرمة",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "مجاهد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "سعيد؛ لم يذكر المتحدث النسب.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "الأسود بن يزيد",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "«محمد بن أوبيه» بحسب تفريغ الفيديو؛ الاسم غير واضح.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "«حطام بن عبد الله صالح» بحسب تفريغ الفيديو؛ الاسم غير واضح.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:02",
+      "asStatedInVideo": "«طلحة سليمان» بحسب تفريغ الفيديو؛ قد يكون اسماً واحداً أو اسمين، ولا يمكن الجزم من النص.",
+      "workTitle": "",
+      "author": "",
+      "locator": "",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:13:39",
+      "asStatedInVideo": "جمع عثمان للمصاحف وإحراق المصاحف الأخرى وتوزيع نسخ من نسخة حفصة.",
+      "workTitle": "",
+      "author": "",
+      "locator": "التوحيد العثماني للمصاحف",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}
