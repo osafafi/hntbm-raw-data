@@ -866,3 +866,27 @@
 {"timestamp": "2026-08-17T02:51:17+00:00", "event": "extract_succeeded", "videoId": "2AbmjoqAxsE", "backend": "codex", "attempts": 1, "durationMs": 359355}
 {"timestamp": "2026-08-17T02:53:43+00:00", "event": "extract_started", "videoId": "tfEFS_TkeB4"}
 {"timestamp": "2026-08-17T02:58:49+00:00", "event": "extract_succeeded", "videoId": "tfEFS_TkeB4", "backend": "codex", "attempts": 1, "durationMs": 305477}
+{"timestamp": "2026-08-17T03:07:40+00:00", "event": "extract_started", "videoId": "9fU8mYXTbY4"}
+{"timestamp": "2026-08-17T03:13:00+00:00", "event": "extract_succeeded", "videoId": "9fU8mYXTbY4", "backend": "claude", "attempts": 1, "durationMs": 319763}
+{"timestamp": "2026-08-17T03:13:00+00:00", "event": "extract_started", "videoId": "ftjBGAv1dYE"}
+{"timestamp": "2026-08-17T03:18:07+00:00", "event": "extract_succeeded", "videoId": "ftjBGAv1dYE", "backend": "claude", "attempts": 1, "durationMs": 307318}
+{"timestamp": "2026-08-17T03:22:45+00:00", "event": "topic_split_started", "topicId": "quran-sources-and-cultural-influences"}
+{"timestamp": "2026-08-17T03:23:53+00:00", "event": "topic_split_succeeded", "topicId": "quran-sources-and-cultural-influences", "backend": "claude", "attempts": 1, "durationMs": 67994}
+{"timestamp": "2026-08-17T03:23:53+00:00", "event": "topic_split_started", "topicId": "quran-historical-claims"}
+{"timestamp": "2026-08-17T03:24:59+00:00", "event": "topic_split_succeeded", "topicId": "quran-historical-claims", "backend": "claude", "attempts": 1, "durationMs": 66337}
+{"timestamp": "2026-08-17T03:24:59+00:00", "event": "topic_split_started", "topicId": "umayyad-period-and-religious-formation"}
+{"timestamp": "2026-08-17T03:26:18+00:00", "event": "topic_split_succeeded", "topicId": "umayyad-period-and-religious-formation", "backend": "claude", "attempts": 1, "durationMs": 78254}
+{"timestamp": "2026-08-17T03:26:18+00:00", "event": "topic_split_started", "topicId": "quran-historical-claims-kahf-narratives-dhu-al-qarnayn"}
+{"timestamp": "2026-08-17T03:27:30+00:00", "event": "topic_split_succeeded", "topicId": "quran-historical-claims-kahf-narratives-dhu-al-qarnayn", "backend": "claude", "attempts": 1, "durationMs": 72300}
+{"timestamp": "2026-08-17T03:27:30+00:00", "event": "topic_split_started", "topicId": "quran-lexical-and-interpretive-questions-narrative-terms"}
+{"timestamp": "2026-08-17T03:28:38+00:00", "event": "topic_split_succeeded", "topicId": "quran-lexical-and-interpretive-questions-narrative-terms", "backend": "claude", "attempts": 1, "durationMs": 68285}
+{"timestamp": "2026-08-17T03:28:38+00:00", "event": "topic_split_started", "topicId": "early-islamic-state-and-caliphate"}
+{"timestamp": "2026-08-17T03:29:33+00:00", "event": "topic_split_succeeded", "topicId": "early-islamic-state-and-caliphate", "backend": "claude", "attempts": 1, "durationMs": 54799}
+{"timestamp": "2026-08-17T03:29:33+00:00", "event": "topic_split_started", "topicId": "earlier-religious-parallels-syriac-aramaic-philology"}
+{"timestamp": "2026-08-17T03:30:45+00:00", "event": "topic_split_succeeded", "topicId": "earlier-religious-parallels-syriac-aramaic-philology", "backend": "claude", "attempts": 1, "durationMs": 71494}
+{"timestamp": "2026-08-17T03:30:45+00:00", "event": "topic_split_started", "topicId": "jewish-influence-on-early-islam"}
+{"timestamp": "2026-08-17T03:31:49+00:00", "event": "topic_split_succeeded", "topicId": "jewish-influence-on-early-islam", "backend": "claude", "attempts": 1, "durationMs": 64494}
+{"timestamp": "2026-08-17T03:31:49+00:00", "event": "topic_split_started", "topicId": "quran-internal-tensions"}
+{"timestamp": "2026-08-17T03:33:03+00:00", "event": "topic_split_succeeded", "topicId": "quran-internal-tensions", "backend": "claude", "attempts": 1, "durationMs": 73375}
+{"timestamp": "2026-08-17T03:33:03+00:00", "event": "topic_split_started", "topicId": "quran-foreign-vocabulary-and-transmission-routes"}
+{"timestamp": "2026-08-17T03:33:48+00:00", "event": "topic_split_succeeded", "topicId": "quran-foreign-vocabulary-and-transmission-routes", "backend": "claude", "attempts": 1, "durationMs": 45895}

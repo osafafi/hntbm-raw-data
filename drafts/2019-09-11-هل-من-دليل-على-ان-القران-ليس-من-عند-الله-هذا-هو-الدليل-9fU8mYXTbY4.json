@@ -1,0 +1,973 @@
+{
+  "schemaVersion": 1,
+  "videoId": "9fU8mYXTbY4",
+  "videoUrl": "https://www.youtube.com/watch?v=9fU8mYXTbY4",
+  "videoTitle": "هل من دليل على ان القرآن ليس من عند الله؟ هذا هو الدليل",
+  "creator": "Adam Elmasri - Arabic",
+  "uploadDate": "20190911",
+  "extractedAt": "2026-08-17T03:13:00+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that the Qur'an's own challenge in Q4:82 — that a text from other than God would contain many discrepancies — can be turned against it by examining the names it uses for earlier scriptures and prophets. He sets out a principle: God does not change or mistake the names he himself gave. He then contrasts three cases. \"Al-Tawrat\" is transliterated correctly from Hebrew; \"al-Zabur\" is a legitimate Arabic rendering of the Hebrew Ketuvim/Tehillim; but \"al-Injil\" is a Greek word (euangelion), a translation of the Hebrew besorah, so a book supposedly revealed by God to a Hebrew prophet is named in the Qur'an by a Greek translation rather than by its Hebrew original or a proper Arabic rendering. The same holds, he argues, for the name \"Isa\": the Hebrew Yeshua would Arabize directly as Yasu', but the Qur'anic form derives from the Greek Iesous with the final sigma dropped (as Achilleus becomes Akhil), or alternatively from a mocking Jewish Arabization assimilating Jesus to Esau, the rejected figure of Malachi. He notes that all other Hebrew prophetic names in the Qur'an — Ibrahim, Isma'il, Ishaq, Ya'qub, Musa, Harun, Dawud — were taken directly from Hebrew without such distortion, and that the anomaly appears precisely where the author was confused about the differences between Jews, Judaizing Nasara, and Gentile Christians. His conclusion is that the author of the Qur'an is a human being working from the linguistic material circulating around him, not the God who allegedly sent the prophet and the revelation, and that the eternal preserved tablet would not contain names distorted by later human tongues.",
+  "summaryAr": "يجادل المتحدث بأن تحدي القرآن لنفسه في النساء 82 — أن نصًا من عند غير الله سيوجد فيه اختلاف كثير — يمكن أن يُقلب عليه بفحص الأسماء التي يطلقها على الكتب والأنبياء السابقين. يضع مبدأً: الله لا يتغير ولا يتعوج لسانه في اسم أطلقه هو بنفسه. ثم يقابل بين ثلاث حالات: \"التوراة\" منقولة نقلًا صحيحًا عن العبرية؛ و\"الزبور\" تعريب مشروع للفظ العبري كتوفيم/تهليم؛ أما \"الإنجيل\" فلفظ يوناني (أنجليون) مترجم عن العبرية بشورات، فكتاب يُزعم أن الله أنزله على نبي عبري يُسمّى في القرآن بترجمته اليونانية لا بأصله العبري ولا بتعريب عربي مبين. ويقول إن الأمر نفسه ينطبق على اسم \"عيسى\": فالعبري يشوع يُعرَّب مباشرة إلى يسوع، لكن الصيغة القرآنية مشتقة من اليوناني إيسوس بحذف السين الأخيرة (كما يصير أخيليس أخيل)، أو بديلًا من تعريب يهودي ساخر يشبّه المسيح بعيسو المرفوض في سفر ملاخي. ويلاحظ أن سائر الأسماء العبرية في القرآن — إبراهيم وإسماعيل وإسحاق ويعقوب وموسى وهارون وداود — أُخذت من العبرية كما هي بلا تحوير، وأن الشذوذ يظهر تحديدًا حيث اختلط على الكاتب الفرق بين اليهود والنصارى المتهودين ومسيحيي الأمم. وخلاصته أن كاتب القرآن بشر ينقل من المادة اللغوية المتداولة حوله، لا الإله الذي زعم أنه أرسل النبي وأنزل الوحي، وأن اللوح المحفوظ لا يمكن أن يحوي أسماء حوّرتها ألسنة بشرية لاحقة.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "Opens with the Qur'an's own criterion in Q4:82 — a text from other than God would contain much discrepancy — and extends it: it would also show visible human language and the errors of human linguistic heritage.",
+      "stepAr": "يفتتح بمعيار القرآن نفسه في النساء 82 — لو كان من عند غير الله لوجدوا فيه اختلافًا كثيرًا — ويوسّعه: كان سيظهر فيه أيضًا لسان البشر الواضح وأخطاء تراثهم اللغوي."
+    },
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "Notes the tension with Surat al-Shu'ara's claim that the trustworthy spirit brought it down in clear Arabic, while the text uses foreign words in forms humans had already distorted.",
+      "stepAr": "يشير إلى التوتر مع قول سورة الشعراء إن الروح الأمين نزل به بلسان عربي مبين، بينما يستخدم النص ألفاظًا أعجمية بصيغ سبق أن حوّرها البشر."
+    },
+    {
+      "timestamp": "00:01:36",
+      "stepEn": "Lays out the governing analogy: a father who named his son Misbah may mispronounce a foreign name like Spencer, but cannot plausibly come back and call his own son by a foreign distortion or by a translation such as 'Lamp'.",
+      "stepAr": "يضع المثال الحاكم: الأب الذي سمّى ابنه مصباح قد ينطق اسمًا أجنبيًا مثل سبينسر بلكنة ثقيلة، لكن لا يُعقل أن يعود ليسمّي ابنه بتحريف أعجمي أو بترجمة مثل \"لامب\"."
+    },
+    {
+      "timestamp": "00:03:14",
+      "stepEn": "Sets the theological frame: the Qur'an says God sent down the Torah, the Injil and the Zabur before it, and Muslims hold the Qur'an itself was written in the preserved tablet before humanity and before those books.",
+      "stepAr": "يضع الإطار العقدي: القرآن يقول إن الله أنزل التوراة والإنجيل والزبور قبله، والمسلمون يعتقدون أن القرآن نفسه مكتوب في اللوح المحفوظ قبل خلق البشر وقبل نزول تلك الكتب."
+    },
+    {
+      "timestamp": "00:04:04",
+      "stepEn": "First case — al-Tawrat: correctly Arabized from the Hebrew name without translation, exactly as a proper name should be handled, and notably not rendered by the Greek nomos or the Christian namus.",
+      "stepAr": "الحالة الأولى — التوراة: مُعرَّبة عن الاسم العبري بلا ترجمة، كما ينبغي للاسم العلم، ولم تُنقل باللفظ اليوناني نوموس ولا المسيحي الناموس."
+    },
+    {
+      "timestamp": "00:04:49",
+      "stepEn": "Second case — al-Zabur: an acceptable Arabic rendering of the Hebrew Ketuvim, meaning the well-written book, cited with Q17:55; either transliteration or Arabic translation is legitimate.",
+      "stepAr": "الحالة الثانية — الزبور: تعريب مقبول للفظ العبري كتوفيم بمعنى الكتاب المزبور، مستشهدًا بالإسراء 55؛ فإما نقل اللفظ الأصلي أو ترجمته إلى عربي مبين."
+    },
+    {
+      "timestamp": "00:06:22",
+      "stepEn": "Third case — the problem: al-Injil is neither. He cites Q3:65 and Q5:46 and asks where the Qur'an got a Greek word for something God allegedly revealed to a Hebrew prophet.",
+      "stepAr": "الحالة الثالثة — المشكلة: الإنجيل ليس هذا ولا ذاك. يستشهد بآل عمران 65 والمائدة 46 ويسأل من أين جاء القرآن بلفظ يوناني لشيء يُزعم أن الله أنزله على نبي عبري."
+    },
+    {
+      "timestamp": "00:07:12",
+      "stepEn": "Argues that a revelation to a Hebrew prophet embedded in a Hebrew-language scriptural world would have been called besorat mashiach, Greek euangelion, so the Qur'an should have said al-bushra or al-bisharah if translating.",
+      "stepAr": "يجادل بأن وحيًا على نبي عبري في عالم كتابي عبري كان سيُسمى بشورات ماشيخ، واليوناني أنجليون، فكان على القرآن أن يقول البشرى أو البشارة لو أراد الترجمة."
+    },
+    {
+      "timestamp": "00:08:45",
+      "stepEn": "Offers the explanation: the author could not distinguish Jews, Judaizing Nasara who followed Jewish books and had no gospel, and Gentile Christians who had the Greek gospels — so he wrongly assumed a single Injil revealed to Jesus.",
+      "stepAr": "يقدّم التفسير: لم يستطع الكاتب التفريق بين اليهود، والنصارى المتهودين الذين كانت كتبهم كتب اليهود ولم يكن لهم إنجيل، ومسيحيي الأمم أصحاب الأناجيل اليونانية — فافترض خطأً إنجيلًا واحدًا أُنزل على المسيح."
+    },
+    {
+      "timestamp": "00:10:19",
+      "stepEn": "Extends the same argument to the prophet's name: the Hebrew Yeshua, a common name borne by others too, would Arabize directly as Yasu' by the regular shin-to-sin correspondence.",
+      "stepAr": "يمدّ الحجة نفسها إلى اسم النبي: العبري يشوع، وهو اسم شائع حمله غيره، يُعرَّب مباشرة إلى يسوع بقاعدة قلب الشين سينًا."
+    },
+    {
+      "timestamp": "00:11:08",
+      "stepEn": "Traces the Greek route instead: Greek adds a final sigma to proper names (Herakles, Achilleus, Homeros), producing Iesous, which reached Egypt in the Greek and Coptic gospels and then Arabia with the final sin dropped, yielding Isa.",
+      "stepAr": "يتتبع بدلًا من ذلك المسار اليوناني: اليونانية تضيف سينًا في آخر أسماء الأعلام (هركليس، أخيليس، هوميروس) فينتج إيسوس، الذي وصل مصر في الأناجيل اليونانية والقبطية ثم وصل الجزيرة بحذف السين الأخيرة فصار عيسى."
+    },
+    {
+      "timestamp": "00:12:41",
+      "stepEn": "Presents a second, cautiously-held theory: the Jews of Arabia coined the Arabization deliberately, assimilating the rejected messiah to Esau, whom Malachi says God hated — so Yeshua became Isa.",
+      "stepAr": "يعرض نظرية ثانية يأخذها بحذر: يهود الجزيرة هم من صنعوا التعريب متعمّدين تشبيه المسيح المرفوض بعيسو الذي يقول ملاخي إن الله أبغضه — فصار يشوع عيسى."
+    },
+    {
+      "timestamp": "00:14:14",
+      "stepEn": "Notes that Islam took a middle position between Jews and Christians — accepting Jesus as prophet but not his divinity — and adopted the rejecting Jewish form of the name.",
+      "stepAr": "يلاحظ أن الإسلام أخذ موقفًا وسطًا بين اليهود والمسيحيين — فقبِل المسيح نبيًا ولم يقبل عقيدته — وأخذ الاسم اليهودي الرافض."
+    },
+    {
+      "timestamp": "00:14:59",
+      "stepEn": "Closes the dilemma: on either route the name did not come from the preserved tablet, and it is the sole anomaly among Hebrew names — Ibrahim, Isma'il, Ishaq, Ya'qub, Musa, Harun, Dawud — all taken straight from Hebrew.",
+      "stepAr": "يغلق المأزق: في كلا المسارين لم يأتِ الاسم من اللوح المحفوظ، وهو الشذوذ الوحيد بين الأسماء العبرية — إبراهيم وإسماعيل وإسحاق ويعقوب وموسى وهارون وداود — التي أُخذت كلها من العبرية كما هي."
+    },
+    {
+      "timestamp": "00:15:45",
+      "stepEn": "Concludes that Injil-from-Greek and Isa-from-Greek-or-Jewish-mockery show the author was a human being, not the God who sent that prophet, and turns Q4:82 back on the text.",
+      "stepAr": "يخلص إلى أن الإنجيل المأخوذ عن اليونانية وعيسى المأخوذ عن اليونانية أو عن سخرية يهودية يدلان على أن الكاتب بشر لا الإله الذي أرسل ذلك النبي، ويعيد توجيه آية النساء 82 إلى النص نفسه."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:00",
+      "claimEn": "The speaker claims the Qur'an sets its own test in Q4:82 — that if it were from other than God there would be much discrepancy in it — and that this test can legitimately be applied to it by examining its language.",
+      "claimAr": "يدّعي المتحدث أن القرآن يضع معياره بنفسه في النساء 82 — أنه لو كان من عند غير الله لوُجد فيه اختلاف كثير — وأن هذا المعيار يجوز تطبيقه عليه بفحص لغته.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording and reference of Q4:82 ('afala yatadabbaruna al-qur'an wa-law kana min 'indi ghayri llahi la-wajadu fihi ikhtilafan kathira') and confirm the sura and verse number given."
+    },
+    {
+      "timestamp": "00:00:00",
+      "claimEn": "The speaker claims that by extension of the Qur'an's own logic, a text from other than God would show the clear language of human beings and the errors of their linguistic heritage and culture, and that it is not logical for God's speech to be affected by the speech of people.",
+      "claimAr": "يدّعي المتحدث أنه بالتبعية لمنطق القرآن نفسه، فإن نصًا من عند غير الله ستظهر فيه لغة البشر الواضحة وأخطاء تراثهم وثقافتهم اللغوية، وأنه ليس من المنطقي أن يكون كلام الله متأثرًا بكلام الناس.",
+      "claimAr_note": "",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "This is the speaker's own inference extending Q4:82; check whether the extension from 'discrepancy' to 'traces of human language' is a step the verse supports or an added premise."
+    },
+    {
+      "timestamp": "00:00:00",
+      "claimEn": "The speaker claims Surat al-Shu'ara states that the trustworthy spirit brought the text down in clear Arabic, yet the Qur'an errs by using foreign words in forms that human beings had already altered from their originals, the writer of the Qur'an taking that alteration as it stood.",
+      "claimAr": "يدّعي المتحدث أن سورة الشعراء تقول إن الروح الأمين نزل به بلسان عربي مبين، ومع ذلك يخطئ القرآن باستخدام الألفاظ الأعجمية التي حوّرها البشر عن أصلها، فأخذ كاتب القرآن هذا التحوير كما هو.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q26:192-195 (nazala bihi al-ruh al-amin ... bi-lisanin 'arabiyyin mubin); the speaker names the sura but gives no verse number."
+    },
+    {
+      "timestamp": "00:00:49",
+      "claimEn": "The speaker claims that God does not change and does not change his tongue, and that what he sends down is not affected by the tongue of human beings — so any human-mediated distortion appearing in the Qur'an's vocabulary counts against divine authorship.",
+      "claimAr": "يدّعي المتحدث أن الله لا يتغير ولا يغيّر لسانه، ولا يتأثر ما ينزله بلسان البشر — فأي تحوير بشري يظهر في ألفاظ القرآن يُحسب ضد كونه من عند الله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the speaker's governing premise rather than a sourced claim; check whether Islamic theology holds this principle in the form stated and how apologetic literature answers it."
+    },
+    {
+      "timestamp": "00:01:36",
+      "claimEn": "The speaker offers the analogy that a father who himself named his son Misbah may plausibly mispronounce a foreign name like Spencer in a heavy Arabic accent, but cannot plausibly return home and call his own son by a distorted or translated form such as 'Lamp' — the name one gave oneself is not subject to one's own tongue slipping.",
+      "claimAr": "يقدّم المتحدث مثالًا: الأب الذي سمّى ابنه مصباح بنفسه قد ينطق اسمًا أجنبيًا مثل سبينسر بالعربية الثقيلة، لكن لا يُعقل أن يعود إلى بلده فينادي ابنه بصيغة محوّرة أو مترجمة مثل \"لامب\" — فالاسم الذي أطلقه هو بنفسه لا يتعوّج فيه لسانه.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate whether the analogy holds: does naming convention in scripture addressed to a later audience require the original form, or is contemporary usage a sufficient explanation?"
+    },
+    {
+      "timestamp": "00:03:14",
+      "claimEn": "The speaker claims the Qur'an states that God sent down the Torah, the Injil and the Zabur before sending down the Qur'an.",
+      "claimAr": "يدّعي المتحدث أن القرآن يخبرنا أن الله أنزل التوراة والإنجيل والزبور قبل أن ينزل القرآن.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Qur'anic verses naming al-Tawrat, al-Injil and al-Zabur as sent down by God; the speaker gives no locators here."
+    },
+    {
+      "timestamp": "00:03:14",
+      "claimEn": "The speaker claims Muslims believe the Qur'an was written in the preserved tablet before all human beings were created and before any of these earlier books were sent down — so its wording cannot be explained as reflecting later human linguistic developments.",
+      "claimAr": "يدّعي المتحدث أن المسلمين يؤمنون بأن القرآن مكتوب في اللوح المحفوظ قبل أن يُخلق البشر جميعًا وقبل أن ينزل أي من هذه الكتب — فلا يمكن تفسير ألفاظه بأنها تعكس تطورات لغوية بشرية لاحقة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the doctrine of al-lawh al-mahfuz and whether mainstream Sunni theology holds the Qur'an's exact wording pre-existed creation, and how that doctrine handles loanwords."
+    },
+    {
+      "timestamp": "00:04:04",
+      "claimEn": "The speaker claims the Qur'an correctly Arabizes the Hebrew name 'Torah' as al-Tawrat without translating it, and that this is the proper treatment since a proper name is normally not translated — the Qur'an did not call it 'the book of laws' in Arabic.",
+      "claimAr": "يدّعي المتحدث أن القرآن يعرّب الاسم العبري \"توراة\" إلى التوراة بلا ترجمة، وأن هذا هو التصرف السليم لأن الاسم عادةً لا يُترجم — فلم يسمّها القرآن \"كتاب القوانين\" بالعربية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Hebrew form torah and its Arabic Qur'anic form al-Tawrat, and confirm the Qur'an nowhere renders it by an Arabic translation."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims the Jewish Torah had passed into Greek before the appearance of Islam and was there called by the Greek word nomos, from which the Christian term namus or 'namus of the Jews' derives, yet the Qur'an used the Hebrew form rather than this Greek-derived one.",
+      "claimAr": "يدّعي المتحدث أن التوراة اليهودية ذهبت إلى اليونانية قبل ظهور الإسلام وسُمّيت باللفظ اليوناني نوموس، والذي جاء منه اللفظ المسيحي الناموس أو ناموس اليهود، ومع ذلك استخدم القرآن الصيغة العبرية لا هذه المشتقة من اليونانية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "earlier-religious-parallels-syriac-aramaic-philology"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Greek nomos for the Torah in the Septuagint and Christian usage, and the Arabic namus (as in the Waraqa ibn Nawfal hadith) as its derivative."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims the Jews had other books besides the Torah, called Ketuvim — a Hebrew word meaning 'the writings' or 'the books' — the first of which is the book of Psalms, Tehillim.",
+      "claimAr": "يدّعي المتحدث أن لليهود كتبًا أخرى غير التوراة تُسمى كتوفيم، وهو لفظ عبري معناه الكتابات أو الكتب، وأول واحد فيها هو كتاب المزامير أو تهليم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-influence-on-early-islam",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the structure of the Hebrew Bible (Torah, Nevi'im, Ketuvim), the meaning of Ketuvim, and whether Tehillim (Psalms) stands first among the Ketuvim."
+    },
+    {
+      "timestamp": "00:04:49",
+      "claimEn": "The speaker claims that when the Qur'an came to mention the Ketuvim it Arabized the term as al-Zabur, meaning the inscribed or well-executed book, and that he has no objection to this since it is a legitimate Arabic rendering.",
+      "claimAr": "يدّعي المتحدث أنه لما جاء القرآن يذكر كتوفيم عرّب اللفظ إلى الزبور، بمعنى الكتاب المزبور أو الكتاب المتقن كتابته، وأنه لا اعتراض له على ذلك لأنه تعريب عربي مشروع.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Arabic root z-b-r and the classical lexical sense of zabur, and whether the derivation from Ketuvim rather than from a Semitic cognate is defensible."
+    },
+    {
+      "timestamp": "00:05:35",
+      "claimEn": "The speaker claims the Qur'an's rule of treatment for foreign scriptural names has only two legitimate options — either use the original foreign word untranslated, or translate it into the nearest clear Arabic word — and that both the Tawrat and the Zabur satisfy this rule.",
+      "claimAr": "يدّعي المتحدث أن قاعدة القرآن في معاملة أسماء الكتب الأعجمية لها خياران مشروعان فقط — إما أن يستخدم لغة الأصل كما هي كلفظ أعجمي لا يُترجم، أو أن يترجم إلى أقرب لفظ عربي مبين — وأن التوراة والزبور كليهما يستوفيان هذه القاعدة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the speaker's constructed criterion; check whether it is a rule the text itself observes elsewhere or a standard imposed from outside."
+    },
+    {
+      "timestamp": "00:06:22",
+      "claimEn": "The speaker claims that with its mention of al-Injil the Qur'an stumbled with the tongue of human beings and did not fully know what it was talking about, citing Q3:65 and Q5:46 as instances where the Injil is named.",
+      "claimAr": "يدّعي المتحدث أن القرآن مع ذكره للإنجيل تخبّط بلسان البشر ولم يعرف تمامًا ما يتحدث عنه، مستشهدًا بآل عمران 65 والمائدة 46 حيث يُذكر الإنجيل.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the wording of Q3:65 and Q5:46 as quoted and confirm the verse numbers the speaker gives."
+    },
+    {
+      "timestamp": "00:06:22",
+      "claimEn": "The speaker asks where the Qur'an got the word 'Injil' from, given that God did not send anything down under that name and what he allegedly sent down had a different name.",
+      "claimAr": "يتساءل المتحدث من أين جاء القرآن بلفظ الإنجيل، رغم أن الله لم ينزله بهذا الاسم، وأن ما أنزله زعمًا له اسم آخر.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the philological history of Arabic injil and its derivation from Greek euangelion, and whether transmission was direct or via Ethiopic or Syriac."
+    },
+    {
+      "timestamp": "00:06:22",
+      "claimEn": "The speaker asks why God changed the name of his Hebrew Jewish prophet from Yeshua the Nazarene to Isa ibn Maryam.",
+      "claimAr": "يتساءل المتحدث لماذا غيّر الله اسم نبيه العبري اليهودي من يشوع الناصري إلى عيسى بن مريم.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Hebrew and Aramaic forms of the name (Yeshua / Yeshu ha-Notzri) and the scholarly explanations offered for the Qur'anic form 'Isa."
+    },
+    {
+      "timestamp": "00:07:12",
+      "claimEn": "The speaker claims Jesus was a Hebrew prophet who memorized the Hebrew Torah, taught the Jews, and read the Torah and the books of the prophets in the Temple, in an era when all books of monotheism and revelation were in the Hebrew language.",
+      "claimAr": "يدّعي المتحدث أن المسيح كان نبيًا عبريًا حافظًا للتوراة العبرية ومعلمًا لليهود وقارئًا للتوراة وكتب الأنبياء في الهيكل، في زمن كان كل كتب التوحيد والوحي فيه باللغة العبرية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "earlier-religious-parallels-christian-quranic-narratives-jesus-and-apocrypha"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Gospel accounts of Jesus reading in the synagogue (Luke 4) and the actual linguistic situation of first-century Judaea — Hebrew, Aramaic and Greek use — since the speaker's 'all books were in Hebrew' is a strong claim."
+    },
+    {
+      "timestamp": "00:07:12",
+      "claimEn": "The speaker claims that a book sent down by God upon Jesus, correcting the altered Hebrew books and law of the Jews, could not possibly have been named al-Injil.",
+      "claimAr": "يدّعي المتحدث أن كتابًا أنزله الله على عيسى مصححًا كتب اليهود وشريعتهم العبرية المحرفة لا يمكن أن يكون اسمه الإنجيل.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the inference: it assumes a scripture must be named in the language of its first recipients; check whether Qur'anic usage of injil refers to a book title or to a message/genre."
+    },
+    {
+      "timestamp": "00:07:12",
+      "claimEn": "The speaker claims al-Injil is a Greek word translating the Arabic al-bishara or al-bushra, and that if what the Qur'an claims was sent down upon the Messiah were true it would carry the original Hebrew form besorat — besorat mashiach — which was translated into Greek as euangelion, and that the Qur'an took the term from the orientalists' form al-Injil.",
+      "claimAr": "يدّعي المتحدث أن الإنجيل لفظ يوناني مترجم لكلمة البشارة أو البشرى بالعربي، وأنه لو كان ما يزعم القرآن أنه أُنزل على المسيح صحيحًا لكان باللفظ العبري الأصل بشورات — بشورات ماشيخ — الذي تُرجم إلى اليونانية بلفظ أنجليون، وأن القرآن أخذه بلفظ الإنجيل.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "earlier-religious-parallels-syriac-aramaic-philology",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Hebrew besorah / besorat mashiach, the Greek euangelion, and the accepted etymology of Arabic injil; note the speaker's phrasing about 'orientalists' appears garbled in the transcript and should be checked against the audio."
+    },
+    {
+      "timestamp": "00:08:00",
+      "claimEn": "The speaker claims the Qur'an did neither of its two legitimate options with the name of Jesus's book: it did not use the original foreign form (which would have been besorat, giving 'wa-ma anzaltu al-Tawrat wa-al-Bushurat'), nor did it translate the foreign term into a clear Arabic word as it did with Ketuvim to Zabur (which would have given al-bishara) — instead it used a foreign word translated from another foreign word.",
+      "claimAr": "يدّعي المتحدث أن القرآن لم يفعل أيًا من خياريه المشروعين مع اسم كتاب المسيح: لم يستخدم اللفظ الأصلي الأعجمي الذي كان سيكون بشورات، ولا ترجم اللفظ الأعجمي إلى لفظ عربي مبين كما حوّل كتوفيم إلى زبور، بل استخدم لفظًا أعجميًا مترجمًا عن لفظ أعجمي آخر.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the core inference of the episode; check the consistency of the two-option rule against other Qur'anic foreign terms (e.g. sijjil, firdaws, malakut) which may also be second-hand borrowings."
+    },
+    {
+      "timestamp": "00:08:45",
+      "claimEn": "The speaker asks whether God forgot the name of what he sent down, presenting the Injil case as a dilemma: either God forgot, or the writer of the Qur'an was confused and composed what he did not know.",
+      "claimAr": "يتساءل المتحدث هل نسي الله اسم ما أنزله، طارحًا مسألة الإنجيل كمأزق: إما أن الله نسي، وإما أن كاتب القرآن اختلط عليه الأمر فألّف ما لم يعلم.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the dilemma as posed and check whether Muslim apologetic literature offers a third option, such as address in the language of the audience."
+    },
+    {
+      "timestamp": "00:08:45",
+      "claimEn": "The speaker claims the Qur'an and its writer could not fully distinguish between several groups spread around him at the beginning of Islam: the Jews, the Judaizing Nasara, and the Christians who came from the Gentile nations.",
+      "claimAr": "يدّعي المتحدث أن القرآن وكاتبه لم يكن قادرًا على التفريق تمامًا بين عدة طوائف انتشرت من حوله في بداية الإسلام: اليهود، والنصارى المتهودين، والمسيحيين الذين جاءوا من الأمم.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the scholarship on the identity of the Qur'anic nasara and on Jewish-Christian groups in late antique Arabia, and whether the Qur'an's usage actually conflates them."
+    },
+    {
+      "timestamp": "00:08:45",
+      "claimEn": "The speaker claims the Jews did not acknowledge or accept the Messiah; the Judaizing Nasara believed in the Messiah but remained in their Judaism, their books were the books of the Jews, and they had no besorat or Injil; while the Gentile Christians were the ones who had the gospels, Greek in origin.",
+      "claimAr": "يدّعي المتحدث أن اليهود لم يعترفوا بالمسيح ولم يقبلوه، وأن النصارى المتهودين آمنوا بالمسيح لكنهم ظلوا على تهودهم وكانت كتبهم كتب اليهود ولم يكن لهم بشورات أو إنجيل، أما مسيحيو الأمم فهم من كانت لهم الأناجيل يونانية الأصل.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "jewish-influence-on-early-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the historical record on Jewish-Christian sects (Ebionites, Nazoreans) and whether they in fact used no gospel text, and the Greek origin of the canonical gospels."
+    },
+    {
+      "timestamp": "00:09:30",
+      "claimEn": "The speaker claims the writer of the Qur'an did not grasp the difference between these groups and therefore assumed there must exist an Injil for the Nasara, sent down upon the Messiah whom they believe in.",
+      "claimAr": "يدّعي المتحدث أن كاتب القرآن لم يدرك الفارق بين هذه الطوائف، فاعتبر أنه لا بد من وجود إنجيل للنصارى نزل على المسيح الذين يؤمنون به.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the Qur'anic conception of a single Injil revealed to Jesus is best explained by confusion among sects or by a theological schema of one book per prophet."
+    },
+    {
+      "timestamp": "00:09:30",
+      "claimEn": "The speaker claims that since the Nasara were Jews who believed in the Messiah, the term besorat mashiach never came from them and was never heard, despite the Messiah being a Hebrew prophet — so the Qur'an wrongly inferred, conflating them with the Gentile Christians, that they believed in some Injil, not understanding that Injil is the Greek translation of Hebrew besorat.",
+      "claimAr": "يدّعي المتحدث أن النصارى، كونهم يهودًا آمنوا بالمسيح، لم يخرج منهم لفظ بشورات مشيخ ولم يُسمع أبدًا بهذا اللفظ رغم كون المسيح نبيًا عبريًا، فاستنتج القرآن خطأً وخلطهم بمسيحيي الأمم واعتقد أنهم يؤمنون بإنجيل ما، ولم يفهم أن لفظ إنجيل ترجمة يونانية لكلمة بشورات العبرية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether any Hebrew or Aramaic term corresponding to besorah was used by Jewish-Christian groups for a written scripture, and the attestation history of that usage."
+    },
+    {
+      "timestamp": "00:10:19",
+      "claimEn": "The speaker claims the Messiah in whom the Nasara and the Gentile Christians believed and whom the Jews rejected is Yeshua ha-Mashiach or Yeshua the Nazarene, and that Yeshua is a very common Jewish name meaning 'God saves', borne by many others besides the Messiah, such as Yeshua bin Nun and Yeshua bin Sirach.",
+      "claimAr": "يدّعي المتحدث أن المسيح الذي آمن به النصارى ومسيحيو الأمم ورفضه اليهود هو يشوع هامشيح أو يشوع الناصري، وأن يشوع اسم يهودي شائع جدًا معناه \"الله يخلّص\"، حمله ناس كثير غير المسيح، مثل يشوع بن نون ويشوع بن سيراخ.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings",
+        "jewish-influence-on-early-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Hebrew Yehoshua/Yeshua etymology ('YHWH saves'), and that Joshua son of Nun and Jesus ben Sirach bear the same name."
+    },
+    {
+      "timestamp": "00:11:08",
+      "claimEn": "The speaker claims that if the name were Arabized directly by the tongue of the Arabs the Hebrew shin becomes sin — as Shim'on becomes Sam'an, and Hebrew Shabbat becomes the Arabic name of the day al-Sabt — so Yeshua would become Yasu' by direct Arabization.",
+      "claimAr": "يدّعي المتحدث أنه لو عُرّب الاسم مباشرة بلسان العرب لصارت الشين سينًا — كما أن شمعون بالعبري هو سمعان بالعربي، وشبط بالعبري هو اسم يوم السبت بالعربي — فيصير يشوع بالعبري يسوع بالتعريب المباشر.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings",
+        "earlier-religious-parallels-syriac-aramaic-philology"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Hebrew-to-Arabic shin/sin correspondence with the examples given (Shim'on/Sam'an, Shabbat/al-Sabt) and whether it is regular enough to establish the expected form Yasu'."
+    },
+    {
+      "timestamp": "00:11:08",
+      "claimEn": "The speaker claims the writer of the Qur'an was confused a second time and did not know the sources he was copying from, because the first Christian missionary movement to the neighbouring nations took place in Greek, the language of the Roman Empire, the most famous doing so being Paul the Apostle, apostle to the Gentiles, and many others.",
+      "claimAr": "يدّعي المتحدث أن كاتب القرآن اختلط عليه الأمر ثانية ولم يعلم بالمصادر التي ينقل عنها، لأن التبشير وانتشار الحركة المسيحية الأولى إلى الأمم المجاورة حدث باللغة اليونانية لغة الإمبراطورية الرومانية، وأشهر من فعل ذلك بولس الرسول رسول الأمم وغيره الكثيرون.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check that the earliest Christian mission to the Gentiles operated in Greek and Paul's role and epithet as apostle to the Gentiles."
+    },
+    {
+      "timestamp": "00:11:54",
+      "claimEn": "The speaker claims that in Greek transmission the shin becomes sin and a further sigma is added at the end of proper names — as Herakl becomes Herakles, Akhil becomes Akhilles, and Homer becomes Homeros — so with the loss of the shin the name goes from Yeshua or Yasu' to Yesus or Iesous.",
+      "claimAr": "يدّعي المتحدث أنه في النقل اليوناني تصير الشين سينًا وتُضاف سين أخرى في نهاية أسماء الأعلام — كما يصير هرقل هركليس، وأخيل أخيليس، وهومر هوميروس — فمع ضياع الشين يصير الاسم من يشوع أو يسوع إلى يسوس أو إيسوس.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings",
+        "greek-mythological-parallels"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Greek nominative -s ending on the cited names and the derivation of Iesous from Yeshua via the Septuagint."
+    },
+    {
+      "timestamp": "00:11:54",
+      "claimEn": "The speaker claims the name of the Messiah then came to Egypt in the old Greek and Coptic gospels — Coptic being the language of Egypt before the entry of Islam — so Egypt knew the Jewish Messiah under the name Iesous.",
+      "claimAr": "يدّعي المتحدث أن اسم المسيح جاء بعد ذلك إلى مصر في الأناجيل اليونانية والقبطية القديمة، التي كانت لغة مصر قبل دخول الإسلام، فعرفت مصر المسيح اليهودي باسم إيسوس.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Coptic form of the name in the Coptic gospels and the language situation of pre-Islamic Egypt."
+    },
+    {
+      "timestamp": "00:12:41",
+      "claimEn": "The speaker claims the name then came to the Arabian Peninsula with the final sin of the Greek form dropped — just as Akhilles becomes Akhil by dropping the sin — so Iesous became Iso or Isa, and thus 'Isa is an Arabization of the Greek translation rather than of the original Hebrew source.",
+      "claimAr": "يدّعي المتحدث أن الاسم جاء بعدها إلى جزيرة العرب بحذف السين الأخيرة في الصيغة اليونانية — كما يصير أخيليس أخيل بحذف السين — فصار إيسوس إيسو أو إيسا، فعيسى تعريب للترجمة اليونانية لا للمصدر العبري أصل الاسم.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check whether the Arabic 'Isa is philologically derivable from Greek Iesous by loss of the final sigma, and what alternative etymologies scholarship offers (Syriac Isho', deliberate rhyme with Musa)."
+    },
+    {
+      "timestamp": "00:12:41",
+      "claimEn": "The speaker asks why the writer of the Qur'an would Arabize the name from the Greek translation rather than from the Hebrew source, as if God did not know the name of the prophet he had previously sent — as if Muhammad were to become Mahmoud or Misbah were to become Misbah-distorted.",
+      "claimAr": "يتساءل المتحدث لماذا يعرّب كاتب القرآن الاسم من الترجمة اليونانية بدلًا من المصدر العبري، وكأن الله لا يعرف اسم نبيه الذي أرسله من قبل، وكأن محمدًا يصير محمود ومصباح يصير مصباه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the argument's force given that the Qur'an addresses an Arabic-speaking audience using names current in its environment; check apologetic responses on this point."
+    },
+    {
+      "timestamp": "00:12:41",
+      "claimEn": "The speaker reports a second theory, which he says has few sources and takes with caution: that it was the Jews of the Arabian Peninsula, not the prophet of Islam, who produced this Arabization of the name.",
+      "claimAr": "يذكر المتحدث نظرية ثانية يقول إنه ليس لها العديد من المصادر ويأخذها بحذر: أن يهود الجزيرة هم من صنعوا هذا التعريب وليس نبي الإسلام.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-influence-on-early-islam",
+        "quran-sources-and-cultural-influences",
+        "formative-figures-of-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "The speaker names no source for this theory; check the scholarly literature proposing a Jewish-Arabian origin for the form 'Isa and assess the evidence base."
+    },
+    {
+      "timestamp": "00:13:27",
+      "claimEn": "The speaker claims the Jews of Arabia preferred the name 'Isu for the Messiah they rejected, because Yeshua derives from Yehoshua meaning 'God saves', and having rejected Yeshua the Nazarene as messiah and saviour they rejected his original name and preferred to Arabize the Greek form into 'Isu so it would resemble the person of Esau, the brother of Jacob.",
+      "claimAr": "يدّعي المتحدث أن يهود الجزيرة استحسنوا أن يُطلق على المسيح الذي رفضوه اسم عيسو بدلًا من يشوع، لأن يشوع مشتق من يهوشوع بمعنى \"الله يخلّص\"، وبرفضهم يشوع الناصري مسيحًا ومخلّصًا رفضوا اسمه الأصلي وفضّلوا تعريب الاسم اليوناني إلى عيسو كي يتشابه مع شخص عيسو أخي يعقوب.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-influence-on-early-islam",
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the proposed derivation of 'Isa from Esau (Hebrew Esav) and the evidence that Arabian Jews used such a mocking form; note the competing scholarly explanations."
+    },
+    {
+      "timestamp": "00:13:27",
+      "claimEn": "The speaker claims the book of the Jews says in the book of Malachi 'and I hated Esau and made his mountains a waste and his inheritance for the jackals of the wilderness', and that Esau is an Old Testament figure whom God rejected because he sold his birthright and refused his parents' commandments — so he is, like the Messiah in Jewish eyes, a person rejected by God and by the Jews.",
+      "claimAr": "يدّعي المتحدث أن كتاب اليهود يقول في سفر ملاخي \"وأبغضت عيسو وجعلت جباله خرابًا وميراثه لذئاب البرية\"، وأن عيسو شخصية في العهد القديم رفضها الله لأنه باع بكوريته ورفض وصايا أبويه، فهو كما المسيح بالنسبة لليهود شخص مرفوض من الله ومن اليهود.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-influence-on-early-islam",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Malachi 1:2-3 for the quoted wording and the Genesis account of Esau selling his birthright, and whether the speaker's characterization of the rejection matches the text."
+    },
+    {
+      "timestamp": "00:14:14",
+      "claimEn": "The speaker claims Islam took a middle position between the Jews on one side and the Nasara and Christians on the other — it did not reject the Messiah entirely but did not accept his doctrine, considering him a prophet and a righteous man as some Nasara believed — and took the rejecting Jewish form of the name, 'Isa.",
+      "claimAr": "يدّعي المتحدث أن الإسلام أخذ موقفًا وسطيًا بين موقف اليهود من جانب والنصارى والمسيحيين من جانب آخر، فلم يرفض المسيح تمامًا ولكن لم يقبل عقيدته، فاعتبره نبيًا ورجلًا برًا كما اعتقد بعض النصارى، وأخذ الاسم اليهودي الرافض وهو عيسى.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the Qur'anic Christology is best described as a middle position between Jewish rejection and Christian doctrine, and whether that positioning would explain the choice of name."
+    },
+    {
+      "timestamp": "00:14:59",
+      "claimEn": "The speaker claims that regardless of whether the Jewish-mockery story is true, the Qur'an is caught in a dilemma either way: it either took the name 'Isa from the Jews of the Peninsula, or Arabized the translated name from the Gentile Christians and the Greek tongue, taking 'Isa from Iesous — and in every case the name was not in the preserved tablet and God did not know that his prophet's real name was Yeshua bin Maryam of Nazareth.",
+      "claimAr": "يدّعي المتحدث أنه بغض النظر عن صحة قصة السخرية اليهودية، فالقرآن في الحالتين قد وقع في مأزق: فإما أخذ اسم عيسى من يهود الجزيرة، أو عرّب الاسم المترجم من مسيحيي الأمم واللسان اليوناني فأخذ عيسى من إيسوس، وفي كل الحالات لم يكن هذا الاسم في اللوح المحفوظ ولم يعلم الله أن اسم نبيه في الحقيقة يشوع بن مريم الذي من الناصرة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the dilemma is exhaustive — check whether a Syriac Isho' route or an independent Arabian usage would escape both horns."
+    },
+    {
+      "timestamp": "00:14:59",
+      "claimEn": "The speaker claims the Qur'an took all the other Hebrew names directly from Hebrew and from the Jews as they stood — Ibrahim, Isma'il, Ishaq, Ya'qub, Musa, Harun and Dawud — and changed none of them, so the name of the Messiah is the sole anomaly.",
+      "claimAr": "يدّعي المتحدث أن القرآن أخذ كل الأسماء العبرية الأخرى من العبرية ومن اليهود كما هي — إبراهيم وإسماعيل وإسحاق ويعقوب وموسى وهارون وداود — ولم يغيّر أيًا منها، فاسم المسيح هو الشذوذ الوحيد.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "jewish-influence-on-early-islam"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the Qur'anic forms against Hebrew Avraham, Yishma'el, Yitzhaq, Ya'aqov, Moshe, Aharon and David; note that Qur'anic Ibrahim and Yahya are themselves not exact transliterations, which may weaken the claim of consistency."
+    },
+    {
+      "timestamp": "00:15:45",
+      "claimEn": "The speaker claims the name of the Messiah became confused for the Qur'an's writer because it circled the world and its multiple tongues before returning to Islam under another name, possibly also from the Jews after they distorted it in mockery and rejection of him.",
+      "claimAr": "يدّعي المتحدث أن اسم المسيح اختلط على كاتب القرآن لأنه لفّ العالم وألسنته المتعددة قبل أن يعود إلى الإسلام باسم آخر، وقد يكون هذا الاسم من اليهود أيضًا بعد أن حرّفوا اسمه سخرية منه ورفضًا له.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the reconstructed transmission chain Hebrew → Greek → Coptic/Arabian → Arabic against the philological literature on the name."
+    },
+    {
+      "timestamp": "00:15:45",
+      "claimEn": "The speaker concludes that whoever considers how the Qur'an took the Greek word Injil instead of besorat, and the name 'Isa instead of Yeshua or Yasu', will realize that the writer of the Qur'an was a human being and not God, since God allegedly sent that prophet and that revelation yet no longer knows precisely the name of his prophet or the name of the revelation he sent down.",
+      "claimAr": "يخلص المتحدث إلى أن من ينظر كيف أخذ القرآن لفظ الإنجيل اليوناني بدلًا من بشورات، واسم عيسى بدلًا من يشوع أو يسوع، سيدرك أن كاتب القرآن بشر وليس الله، الذي زعمًا أرسل هذا النبي وأنزل عليه هذا الوحي، لكنه لم يعد يعلم بدقة اسم نبيه ولا اسم الوحي الذي أنزله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-lexical-and-interpretive-questions",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the episode's summary conclusion; check that it follows from the linguistic claims established earlier and does not rest on the uncertain Esau theory alone."
+    },
+    {
+      "timestamp": "00:15:45",
+      "claimEn": "The speaker closes by turning Q4:82 back on the text, asking whether its statement that they would find much discrepancy in it if it were from other than God has proved true.",
+      "claimAr": "يختم المتحدث بإعادة توجيه آية النساء 82 إلى النص نفسه، متسائلًا: فهل صدق القول \"ولو كان من عند غير الله لوجدوا فيه اختلافًا كثيرًا\"؟",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether 'ikhtilaf' in Q4:82 is understood in the exegetical tradition as internal contradiction, and whether the speaker's linguistic-inconsistency reading falls within that sense."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:00",
+      "asStatedInVideo": "يقول القرآن عن نفسه في سورة النساء آية 82",
+      "workTitle": "القرآن",
+      "locator": "4:82",
+      "quotedArabic": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:00:00",
+      "asStatedInVideo": "كما تقول سورة الشعراء، أن ينزل به الروح الأمين بلسان عربي مبين",
+      "workTitle": "القرآن",
+      "locator": "سورة الشعراء (بدون رقم آية)",
+      "quotedArabic": "ينزل به الروح الأمين بلسان عربي مبين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:35",
+      "asStatedInVideo": "ولقد فضلنا بعض النبيين على بعض وآتينا داود زبورا، سورة الإسراء 55",
+      "workTitle": "القرآن",
+      "locator": "17:55",
+      "quotedArabic": "وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلَىٰ بَعْضٍ وَآتَيْنَا دَاوُودَ زَبُورًا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:22",
+      "asStatedInVideo": "يا أهل الكتاب لما تحاجون في إبراهيم وما أنزلت التوراة والإنجيل إلا من بعده أفلا تعقلون؟ سورة آل عمران آية 65",
+      "workTitle": "القرآن",
+      "locator": "3:65",
+      "quotedArabic": "يَا أَهْلَ الْكِتَابِ لِمَ تُحَاجُّونَ فِي إِبْرَاهِيمَ وَمَا أُنزِلَتِ التَّوْرَاةُ وَالْإِنجِيلُ إِلَّا مِن بَعْدِهِ أَفَلَا تَعْقِلُونَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:22",
+      "asStatedInVideo": "وقفينا على آثارهم بعيسى بن مريم مصدقا لما بين يديه من التوراة، وآتيناه الإنجيل، سورة المائدة آية 46",
+      "workTitle": "القرآن",
+      "locator": "5:46",
+      "quotedArabic": "وَقَفَّيْنَا عَلَىٰ آثَارِهِم بِعِيسَى ابْنِ مَرْيَمَ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَآتَيْنَاهُ الْإِنجِيلَ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:04",
+      "asStatedInVideo": "التوراة، وهي كتاب القوانين اليهودي، والله أنزله لليهود باللسان العبري الذي هو لغتهم، اسمه بالعبري توراة",
+      "workTitle": "التوراة",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:49",
+      "asStatedInVideo": "ذهبت إلى اليونانية قبل ظهور الإسلام، وسميت باللفظ اليوناني نوموس، والذي جاء منها اللفظ المسيحي الناموس، أو ناموس اليهود",
+      "workTitle": "الترجمة اليونانية للتوراة (نوموس)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:49",
+      "asStatedInVideo": "فلهم ما يسمى بالتوراة، بل كتوفيم، لفظ عبري معناه الكتابات أو الكتب",
+      "workTitle": "كتوفيم (الكتابات)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:49",
+      "asStatedInVideo": "واللي أول واحد فيها هو كتاب المزامير أو تهليم",
+      "workTitle": "المزامير / تهليم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:05:35",
+      "asStatedInVideo": "عرب اللفظ إلى الزبور، بمعنى الكتاب المزبور، أو الكتاب المتقن كتابته",
+      "workTitle": "الزبور",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:12",
+      "asStatedInVideo": "الإنجيل هو لفظ يوناني مترجم لكلمة البشارة أو البشرة بالعربي ... تكون باللفظ العبري الأصل بشورات، بشارة المسيح أو بشورات ماشيخ، التي ترجمت إلى اليونانية بلفظ أنجليون",
+      "workTitle": "بشورات ماشيح / أنجليون (الإنجيل)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:09:30",
+      "asStatedInVideo": "أما مسيحيين الأمم هم من كانت لهم الأناجيل يونانية الأصل",
+      "workTitle": "الأناجيل اليونانية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:54",
+      "asStatedInVideo": "جاء اسم المسيح إلى مصر في الأناجيل اليونانية والقبطية القديمة، التي كانت لغة مصر قبل دخول الإسلام",
+      "workTitle": "الأناجيل اليونانية والقبطية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:27",
+      "asStatedInVideo": "ويقول كتاب اليهود في سفر ملاخي، وأبغضت عيسو وجعلت جباله خرابا وميراثه لذئاب البرية",
+      "workTitle": "سفر ملاخي (العهد القديم)",
+      "locator": "سفر ملاخي (بدون إصحاح أو عدد)",
+      "quotedArabic": "وَأَبْغَضْتُ عِيسُو وَجَعَلْتُ جِبَالَهُ خَرَابًا وَمِيرَاثَهُ لِذِئَابِ الْبَرِّيَّةِ",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:13:27",
+      "asStatedInVideo": "عيسو شخصية في العهد القديم رفضها الله لأنه باع بكوريته، ورفض وصايا أبويه فرفضه الرب",
+      "workTitle": "العهد القديم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:03:14",
+      "asStatedInVideo": "إن القرآن مكتوب في اللوح المحفوظ، قبل أن يخلق البشر جميعا",
+      "workTitle": "اللوح المحفوظ (عقيدة)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:06:22",
+      "asStatedInVideo": "والذي أنزله الله زعما على نبيه عيسى بن مريم ... ولماذا غير اسم نبيه العبري اليهودي من يشوع الناصري إلى عيسى بن مريم",
+      "workTitle": "عيسى بن مريم / يشوع الناصري",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:19",
+      "asStatedInVideo": "زي يشوع بن نون",
+      "workTitle": "يشوع بن نون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:19",
+      "asStatedInVideo": "ويشوع بن سراخ",
+      "workTitle": "يشوع بن سيراخ",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:08",
+      "asStatedInVideo": "زي اسم شمعون بالعبري هو سمعان بالعربي",
+      "workTitle": "شمعون / سمعان",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:08",
+      "asStatedInVideo": "وأشهر من فعل ذلك كان بوليس الرسول رسول الأمم",
+      "workTitle": "بولس الرسول",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:54",
+      "asStatedInVideo": "زي هراقل يصبح هركليس",
+      "workTitle": "هرقل / هركليس",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:54",
+      "asStatedInVideo": "وأخيل يصبح أخيليس",
+      "workTitle": "أخيل / أخيليس",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:54",
+      "asStatedInVideo": "وهومر يصبح هوميروس",
+      "workTitle": "هومر / هوميروس",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:27",
+      "asStatedInVideo": "كيما يتشابه مع شخص عيسو أخو يعقوب",
+      "workTitle": "عيسو أخو يعقوب",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:14:59",
+      "asStatedInVideo": "مثل إبراهيم وإسماعيل وإسحاق ويعقوب وموسى وهارون وداود، ولم يغير أي من هذه الأسماء",
+      "workTitle": "إبراهيم، إسماعيل، إسحاق، يعقوب، موسى، هارون، داود",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:08:45",
+      "asStatedInVideo": "عدة طوايف انتشرت من حوله في بداية الإسلام، قال وهم اليهود اليهوديين، والنصارى المتهودين، والمسيحيين الذين جاءوا من الأمم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:11:08",
+      "asStatedInVideo": "فحينما بدأ التبشير وانتشار الحركة المسيحية الأولى إلى الأمم المجاورة حدث ذلك باللغة اليونانية، لغة الامبراطورية الرومانية",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-foreign-vocabulary-and-transmission-routes",
+      "titleEn": "Foreign vocabulary and its routes of transmission",
+      "titleAr": "الألفاظ الأعجمية ومسارات انتقالها",
+      "descriptionEn": "Claims that Qur'anic proper names and religious terms of foreign origin — scripture titles such as al-Injil and al-Zabur, and prophetic names such as 'Isa — entered the text through an intermediate language rather than from their original Semitic form, and arguments drawn from those transmission routes about the human authorship of the text.",
+      "descriptionAr": "دعاوى بأن أسماء الأعلام والمصطلحات الدينية ذات الأصل الأعجمي في القرآن — أسماء الكتب كالإنجيل والزبور، وأسماء الأنبياء كعيسى — دخلت النص عبر لغة وسيطة لا من صيغتها السامية الأصلية، والحجج المستمدة من مسارات الانتقال هذه على بشرية مؤلف النص.",
+      "suggestedParentId": "quran-lexical-and-interpretive-questions",
+      "closestExistingId": "quran-lexical-and-interpretive-questions-narrative-terms",
+      "rationale": "The episode's whole case rests on a subject with no precise home in the taxonomy: not the Syro-Aramaic hypothesis (which has its own branch and a different scholarly programme), not 'narrative terms' (sijjil, asatir al-awwalin — meanings of terms, not their routes of borrowing), and not the general 'sources and cultural influences' topic (which covers stories and material, not lexical borrowing paths). Loanword derivation and second-hand borrowing via Greek, Coptic, Ethiopic or Aramaic is a durable subject other videos on Qur'anic vocabulary would also fall under."
+    }
+  ]
+}

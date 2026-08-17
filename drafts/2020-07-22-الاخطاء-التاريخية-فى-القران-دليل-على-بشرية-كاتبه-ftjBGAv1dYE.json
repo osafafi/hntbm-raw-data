@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 1,
+  "videoId": "ftjBGAv1dYE",
+  "videoUrl": "https://www.youtube.com/watch?v=ftjBGAv1dYE",
+  "videoTitle": "الأخطاء التاريخية فى القرآن دليل على بشرية كاتبه",
+  "creator": "Adam Elmasri - Arabic",
+  "uploadDate": "20200722",
+  "extractedAt": "2026-08-17T03:18:07+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "An Arabic-language critical episode arguing that the Qur'an contains historical anachronisms and confusions of biblical figures that a divine author could not have made. Opening with a comic sketch about a clinic supposedly operating in a city founded a decade later, the speaker says he previously covered scientific errors and was answered by 'patch-up' apologetics, so he now turns to historical errors, which he says cannot be patched. He argues in sequence: al-Samiri named in Q 20:85/87 although Samaritans did not exist until 722 BCE, centuries after Moses; iron mail armour attributed to David in Q 34:10-11 although such armour appeared only around 200 BCE; crucifixion mentioned in the eras of Joseph and Pharaoh although it was never used in Egypt and was not devised until around the 6th century BCE; Mary mother of Jesus called 'sister of Aaron' (Q 19:28) and 'daughter of Imran' (Q 66:12), conflating her with Miriam sister of Moses and Aaron 1400 years earlier; Haman, the Persian vizier of the book of Esther, placed as Pharaoh's minister and merged with the tower-of-Babel motif in Q 28:38 and Q 40:36-37; and Joseph sold for 'counted dirhams' (Q 12:20) although coinage appears only around 600 BCE and trade in Joseph's era was by weight. He concludes that the author projected the world around him onto the distant past, which proves the Qur'an's human authorship.",
+  "summaryAr": "حلقة نقدية بالعربية تجادل بأن القرآن يحوي مفارقات تاريخية وخلطًا بين شخصيات توراتية لا يمكن أن يقع فيها خالق. يبدأ المتحدث بمشهد كوميدي عن عيادة يُزعم أنها تعمل منذ الستينات في مدينة تأسست في أواخر السبعينات، ثم يقول إنه تناول سابقًا الأخطاء العلمية فردّ عليه دعاة الإعجاز بالترقيع، ولذلك ينتقل إلى الأخطاء التاريخية التي يرى أنها لا تقبل الترقيع. ويعرض بالترتيب: ذكر السامري في طه 85 و87 مع أن السامريين لم يوجدوا إلا سنة 722 ق.م بعد موسى بقرون؛ ونسبة الدروع الحديدية إلى داود في سبأ 10-11 مع أن هذه الدروع لم تظهر إلا نحو 200 ق.م؛ وذكر الصلب في زمن يوسف وفرعون مع أنه لم يُستخدم في مصر ولم يُبتكر قبل القرن السادس ق.م؛ ووصف مريم أم المسيح بأنها أخت هارون (مريم 28) وابنة عمران (التحريم 12) خلطًا بينها وبين مريم أخت موسى وهارون قبلها بألف وأربعمئة سنة؛ ووضع هامان وزير فارس في سفر أستير وزيرًا لفرعون مع دمجه بقصة برج بابل في القصص 38 وغافر 36-37؛ وبيع يوسف بدراهم معدودة في يوسف 20 مع أن العملة المسكوكة لم تظهر إلا نحو 600 ق.م وكان البيع بالوزن. ويخلص إلى أن الكاتب أسقط ما حوله على الماضي البعيد، وهو ما يثبت بشرية القرآن.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:00",
+      "stepEn": "Opens with a comic sketch in which a doctor is said to have run a clinic since the 1960s in a city that was only founded in the late 1970s, to illustrate how an anachronism exposes a fabricated story.",
+      "stepAr": "يفتتح بمشهد كوميدي عن طبيب له عيادة منذ الستينات في مدينة العاشر من رمضان التي لم تتأسس إلا في أواخر السبعينات، ليوضح كيف تفضح المفارقة الزمنية الحكاية الملفقة."
+    },
+    {
+      "timestamp": "00:00:55",
+      "stepEn": "Recalls his earlier episode on scientific errors in the Qur'an and says the scientific-miracles preachers answered it by twisting texts and exegesis to turn errors into miracles.",
+      "stepAr": "يذكّر بحلقته السابقة عن الأخطاء العلمية في القرآن، ويقول إن دعاة الإعجاز العلمي ردّوا عليها بلي أعناق النصوص والتفسير لتحويل الأخطاء إلى إعجاز."
+    },
+    {
+      "timestamp": "00:01:28",
+      "stepEn": "States the thesis: unlike scientific claims, historical errors cannot be patched, and the Qur'an contains historical errors that prove its author was human.",
+      "stepAr": "يطرح الأطروحة: بخلاف المسائل العلمية، الأخطاء التاريخية لا تقبل الترقيع، والقرآن يحوي أخطاء تاريخية تثبت بشرية كاتبه."
+    },
+    {
+      "timestamp": "00:01:52",
+      "stepEn": "First case: Q 20:84-87 blames al-Samiri for the golden-calf episode, but Samaritans did not exist until 722 BCE, centuries after Moses.",
+      "stepAr": "الحالة الأولى: طه 84-87 تنسب فتنة العجل إلى السامري، بينما لم يوجد السامريون إلا سنة 722 ق.م بعد موسى بقرون."
+    },
+    {
+      "timestamp": "00:03:56",
+      "stepEn": "Second case: Q 34:10-11 credits David with making iron mail (sabighat), as al-Tabari explains, but such armour appeared only around 200 BCE, some 800 years later.",
+      "stepAr": "الحالة الثانية: سبأ 10-11 تنسب إلى داود صناعة السابغات الحديدية كما يشرح الطبري، بينما لم تظهر هذه الدروع إلا نحو 200 ق.م، أي بعده بنحو 800 سنة."
+    },
+    {
+      "timestamp": "00:05:28",
+      "stepEn": "Third case: crucifixion appears three times in the eras of Pharaoh and Joseph (Q 7:120-124, Q 20:71, Q 12:41), yet it was never practised in Egypt and was not devised before about the 6th century BCE.",
+      "stepAr": "الحالة الثالثة: يُذكر الصلب ثلاث مرات في زمن فرعون ويوسف (الأعراف 120-124، طه 71، يوسف 41)، مع أنه لم يُمارس في مصر ولم يُبتكر قبل القرن السادس ق.م تقريبًا."
+    },
+    {
+      "timestamp": "00:06:59",
+      "stepEn": "Generalizes: because the Qur'an borrows Jewish and Christian stories and recasts them, it loses track of who is who; introduces the Mary case.",
+      "stepAr": "يعمّم: لأن القرآن اقتبس قصص اليهود والنصارى وأعاد صياغتها، اختلطت عليه الشخصيات؛ ويمهّد لحالة مريم."
+    },
+    {
+      "timestamp": "00:07:20",
+      "stepEn": "Sets out the biblical data — Exodus 6:20 and Numbers make Moses, Aaron and Miriam children of Amram — then shows Q 19:28 calling Mary mother of Jesus 'sister of Aaron' and Q 66:12 'daughter of Imran'.",
+      "stepAr": "يعرض المعطى التوراتي: خروج 6: 20 وسفر العدد يجعلان موسى وهارون ومريم أولاد عمرام، ثم يبيّن أن مريم 28 تنادي أم المسيح بـ«يا أخت هارون» والتحريم 12 تسمّيها «ابنة عمران»."
+    },
+    {
+      "timestamp": "00:09:20",
+      "stepEn": "Pre-empts the standard reply that Jewish and Christian scriptures are corrupted, arguing the problem is internal chronology and stands even if their books are granted to be false.",
+      "stepAr": "يستبق الردّ المعتاد بأن كتب اليهود والنصارى محرفة، فيبيّن أن المشكلة في التسلسل الزمني الداخلي وتبقى قائمة حتى لو سُلّم بتحريف كتبهم."
+    },
+    {
+      "timestamp": "00:10:08",
+      "stepEn": "Fourth case: Q 28:38 and Q 40:36-37 merge the tower of Babel with Pharaoh and with Haman, who belongs to Persia around 486-465 BCE per the book of Esther and Greek historiography, not to Egypt.",
+      "stepAr": "الحالة الرابعة: القصص 38 وغافر 36-37 تدمج قصة برج بابل بفرعون وبهامان، وهامان ينتمي إلى فارس نحو 486-465 ق.م بحسب سفر أستير والتأريخ اليوناني، لا إلى مصر."
+    },
+    {
+      "timestamp": "00:11:44",
+      "stepEn": "Fifth case: Q 12:20 has Joseph sold for 'counted dirhams', although the dirham as a coin postdates him, minted coinage appears around 600 BCE, and trade in his era was by weight (mithqal), not by counting.",
+      "stepAr": "الحالة الخامسة: يوسف 20 تقول إن يوسف بيع بدراهم معدودة، مع أن الدرهم كعملة لاحق لزمنه، والعملة المسكوكة ظهرت نحو 600 ق.م، وكان البيع في زمنه بالمثقال والوزن لا بالعدّ."
+    },
+    {
+      "timestamp": "00:13:40",
+      "stepEn": "Concludes that the Qur'an repeatedly places objects, persons and punishments before their historical time because its author used what he saw around him, which demonstrates the text's human authorship.",
+      "stepAr": "يخلص إلى أن القرآن كرّر وضع أشياء وشخصيات وعقوبات قبل زمنها التاريخي لأن كاتبه استخدم ما رآه حوله، وهو ما يثبت بشرية النص."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:55",
+      "claimEn": "The speaker claims that after his earlier episode on scientific errors in the Qur'an, preachers of scientific miracles — whom he calls 'sheikhs of patching' — produced response videos that twist the wording of the texts and the exegesis in order to turn those errors into miracles.",
+      "claimAr": "يزعم المتحدث أنه بعد حلقته السابقة عن الأخطاء العلمية في القرآن خرج عليه دعاة الإعجاز العلمي، الذين يسميهم «شيوخ الترقيع»، بفيديوهات ردّ يلوون فيها أعناق النصوص والتفسير كي يجعلوا تلك الأخطاء إعجازًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether published i'jaz responses to the speaker's earlier episode exist and whether their readings depart from the classical exegetical glosses; this is a characterization of apologetic method rather than a source claim."
+    },
+    {
+      "timestamp": "00:01:28",
+      "claimEn": "The speaker claims that if the Qur'an really came from the Creator it could not contain scientific errors at all.",
+      "claimAr": "يزعم المتحدث أن القرآن لو كان حقًا من عند الخالق ما جاز أن يكون فيه أخطاء علمية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "This is the criterion the speaker sets for a divine text; an editor should note it as a stated premise of the argument rather than a checkable fact."
+    },
+    {
+      "timestamp": "00:01:40",
+      "claimEn": "The speaker claims that the Qur'an contains historical errors, in which its author stumbled over historical matters he did not know, and that these leave tangible evidence inside the text of its human authorship — errors that, unlike scientific ones, cannot be explained away.",
+      "claimAr": "يزعم المتحدث أن في القرآن أخطاء تاريخية تخبط فيها كاتبه في أمور لم يعرفها، وأنها تركت داخل النص أدلة ملموسة على بشريته، وأنها بخلاف الأخطاء العلمية لا تقبل الترقيع.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "This is the thesis statement of the episode; verification depends on the individual cases advanced below."
+    },
+    {
+      "timestamp": "00:01:52",
+      "claimEn": "The speaker claims that Q 20:84-85 and Q 20:87 retell the same Torah story of Moses leaving the Israelites for forty days and returning to find them worshipping the calf, and that the Qur'an names al-Samiri as the one who led them astray.",
+      "claimAr": "يزعم المتحدث أن سورة طه 84-85 و87 تحكي نفس القصة التوراتية عن مفارقة موسى لبني إسرائيل أربعين يومًا ورجوعه ليجدهم قد عبدوا العجل، وأن القرآن يسمّي السامري هو من أضلهم.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "narrative-origins-moses-and-exodus",
+        "earlier-religious-parallels-christian-quranic-narratives-biblical-moses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 20:83-98 against Exodus 32 to confirm the parallel and the naming of al-Samiri in verses 85 and 87."
+    },
+    {
+      "timestamp": "00:02:30",
+      "claimEn": "The speaker claims that the hostility between Jews and Samaritans lasted for several centuries before the coming of Islam and even before the time of Christ, so it is unsurprising that the author of the Qur'an, when narrating a calamity that befell the Jews, would attribute its cause to a Samaritan.",
+      "claimAr": "يزعم المتحدث أن العداوة بين اليهود والسامريين استمرت قرونًا قبل مجيء الإسلام بل وقبل زمن المسيح نفسه، فليس غريبًا أن ينسب كاتب القرآن سبب فتنة أصابت اليهود إلى السامري.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "jewish-rabbinic-parallels"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check standard histories of Jewish–Samaritan relations for the antiquity of the enmity; the inference about the author's motive is the speaker's own."
+    },
+    {
+      "timestamp": "00:03:06",
+      "claimEn": "The speaker claims that Moses lived around 1400 BCE while Samaria was not founded and the Samaritans did not exist until 722 BCE, after the fall of the northern kingdom of Israel in the reign of the Assyrian king Sargon II, so al-Samiri could not have existed until centuries after Moses; he says he cites the Encyclopaedia Britannica for this under the video.",
+      "claimAr": "يزعم المتحدث أن موسى كان نحو سنة 1400 ق.م بينما لم تؤسس السامرة ولم يوجد السامريون إلا سنة 722 ق.م بعد سقوط المملكة الشمالية لإسرائيل في عهد الملك الأشوري سرجون الثاني، فالسامري لم يكن موجودًا إلا بعد موسى بقرون، ويقول إنه يضع مصادر من الموسوعة البريطانية تحت الفيديو.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the Britannica entries on Samaria, the Samaritans and Sargon II for the 722 BCE date, and check the range of scholarly datings proposed for Moses; note also that Muslim exegetes have offered other readings of al-Samiri (e.g. a tribal or place-based epithet)."
+    },
+    {
+      "timestamp": "00:03:40",
+      "claimEn": "The speaker claims that a Creator could not fall into such a historical error, and asks whether God did not know that the Samaritan did not exist until some 700 years after Moses — concluding that the author of the Qur'an simply did not know this.",
+      "claimAr": "يزعم المتحدث أن الخالق لا يمكن أن يقع في مثل هذا الخطأ التاريخي، ويتساءل: هل لم يكن الله يعرف أن السامري لم يوجد إلا بعد موسى بنحو 700 سنة؟ ويخلص إلى أن كاتب القرآن ببساطة لم يكن يعرف ذلك.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Inference drawn from the preceding dating claim; verification depends on that claim and on the exegetical alternatives for al-Samiri."
+    },
+    {
+      "timestamp": "00:03:56",
+      "claimEn": "The speaker claims that Q 34:10-11 has God tell David to make sabighat of iron — protective armour — and that al-Tabari's commentary explains sabighat as full-length coats of mail worn as a garment, states that David was the first to make them, and says that before David armour was made of plates.",
+      "claimAr": "يزعم المتحدث أن سبأ 10-11 فيها أن الله يقول لداود أن اعمل سابغات من حديد، أي دروعًا واقية، وأن تفسير الطبري يشرح السابغات بأنها الدروع الكاملة التي تُلبس كالرداء، وأن داود أول من عملها، وأنها كانت قبله من الصفائح.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 34:10-11 and al-Tabari's Jami' al-bayan on those verses to confirm the gloss of sabighat, the claim that David was the first to make them, and the statement about earlier plate armour."
+    },
+    {
+      "timestamp": "00:04:41",
+      "claimEn": "The speaker claims that David's historical period was around 1000 BCE while iron mail armour was not invented and did not appear in history until around 200 BCE — a gap of some 800 years — and that this makes the Qur'anic attribution a grave historical error; he says he cites the Encyclopaedia Britannica on the history of protective armour and its manufacture from iron.",
+      "claimAr": "يزعم المتحدث أن الحقبة التاريخية لداود كانت نحو سنة 1000 ق.م بينما لم تُخترع الدروع الحديدية ولم تظهر في التاريخ إلا نحو سنة 200 ق.م، أي بفارق نحو 800 سنة، وأن هذا يجعل النسبة القرآنية خطأ تاريخيًا فادحًا، ويقول إنه يستند إلى الموسوعة البريطانية في تاريخ الدروع الوقائية وصناعتها من الحديد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Britannica and specialist studies on the history of mail armour for its earliest attested date, and check what iron and bronze armour is archaeologically attested in the Levant around 1000 BCE."
+    },
+    {
+      "timestamp": "00:05:10",
+      "claimEn": "The speaker claims that the author of the Qur'an could only have known about iron armour because he saw it around him in his own time, and so projected onto David the claim that he was the first to make iron armour and that God taught him the measure of the links.",
+      "claimAr": "يزعم المتحدث أن كاتب القرآن ما كان ليعرف عن الدروع الحديدية إلا لأنه رآها حوله في زمنه، فأسقط على داود أنه أول من عمل الدروع الحديدية وأن الله قدّر له السرد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Inference from the previous claim about the dating of mail armour; no independent source is offered."
+    },
+    {
+      "timestamp": "00:05:28",
+      "claimEn": "The speaker claims that the Qur'an mentions the punishment of crucifixion three times in periods where it does not belong — twice in the time of Moses (Q 7:120-124 and Q 20:71) and once in the time of Joseph (Q 12:41) — placing it around 1400 BCE and 1800 BCE respectively.",
+      "claimAr": "يزعم المتحدث أن القرآن يذكر عقوبة الصلب ثلاث مرات في أزمنة لا تناسبها: مرتين في زمن موسى (الأعراف 120-124 وطه 71) ومرة في زمن يوسف (يوسف 41)، أي نحو 1400 ق.م و1800 ق.م على الترتيب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "narrative-origins-moses-and-exodus"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 7:120-124, Q 20:71 and Q 12:41 to confirm the references to crucifixion, and check the conventional datings assigned to Joseph and to the Exodus Pharaoh."
+    },
+    {
+      "timestamp": "00:05:50",
+      "claimEn": "The speaker claims that crucifixion, whether as a punishment or as a concept of crucifying a human being, was never used and never occurred in Egypt at all, so mentioning torture by crucifixion in connection with the Pharaoh of Egypt is in itself a historical defect.",
+      "claimAr": "يزعم المتحدث أن الصلب، سواء كعقوبة أو كمفهوم لصلب إنسان، لم يُستخدم ولم يحدث في مصر على الإطلاق، فذكر التعذيب بالصلب مع فرعون مصر خلل تاريخي في حد ذاته.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Egyptological literature on capital punishment in pharaonic Egypt — including impalement and exposure on a stake — before accepting the absolute claim that no form of crucifixion was practised there."
+    },
+    {
+      "timestamp": "00:06:14",
+      "claimEn": "The speaker claims that crucifixion as a punishment or method of torture did not appear or get devised until around 500 BCE, or in the sixth century BCE, and had no existence in the time of Joseph or Moses, so the Qur'an speaks of it as though it existed 1000 to 1300 years before it did; he says he cites the Encyclopaedia Britannica on the history of crucifixion.",
+      "claimAr": "يزعم المتحدث أن الصلب كعقوبة أو أسلوب تعذيب لم يظهر ولم يُبتكر إلا نحو سنة 500 ق.م أو في القرن السادس ق.م، ولم يكن له وجود في زمن يوسف أو موسى، فتحدث القرآن عنه وكأنه كان موجودًا قبل زمانه بألف أو ألف وثلاثمئة سنة، ويقول إنه يستند إلى الموسوعة البريطانية في تاريخ عقوبة الصلب.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Britannica and specialist studies (e.g. on Persian, Assyrian and Roman practice) for the earliest attested date of crucifixion or impalement as a judicial penalty."
+    },
+    {
+      "timestamp": "00:06:59",
+      "claimEn": "The speaker claims that among the Qur'an's many other historical errors is the confusion of persons whenever it borrows from Jewish and Christian stories, because it recast them in different Qur'anic forms and so lost track of whom it was speaking about.",
+      "claimAr": "يزعم المتحدث أن من بين الأخطاء التاريخية العديدة الأخرى في القرآن اختلاط الأشخاص عليه كلما اقتبس من القصص اليهودي والنصراني، لأنه وضعها في صور قرآنية مختلفة فنسي عمن يتحدث.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "narrative-origins-cultural-confluence",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "General thesis; verification rests on the specific cases of Mary and Haman that follow."
+    },
+    {
+      "timestamp": "00:07:20",
+      "claimEn": "The speaker claims that the Torah in the book of Exodus, chapter 6 verse 20, states clearly that Moses and Aaron were the sons of a man named Amram, and that the book of Numbers confirms that Moses, Aaron and Miriam were the children of Amram, Miriam being Moses' sister, known in Jewish tradition as Miriam the prophetess, and Aaron his brother and helper among the Israelites.",
+      "claimAr": "يزعم المتحدث أن التوراة في سفر الخروج إصحاح 6 عدد 20 تقول بوضوح إن موسى وهارون هما ابنا رجل اسمه عمرام، وأن سفر العدد يؤكد أن موسى وهارون ومريم هم أولاد عمرام، ومريم أخت موسى المعروفة في التقليد اليهودي بمريم النبية، وهارون أخوه ومعاونه في خدمة بني إسرائيل.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives-biblical-moses",
+        "narrative-origins-moses-and-exodus"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Exodus 6:20 and Numbers 26:59 to confirm the genealogy of Amram's children."
+    },
+    {
+      "timestamp": "00:07:48",
+      "claimEn": "The speaker claims that 1400 years after Moses came Jesus of Nazareth, born of a virgin who happened also to be named Mary, and that because the Qur'an borrowed both the story of Moses and the story of Jesus son of Mary, the figure of Mary became confused in it and its historical context was lost entirely.",
+      "claimAr": "يزعم المتحدث أنه بعد موسى بألف وأربعمئة سنة جاء المسيح يسوع الناصري مولودًا من عذراء تصادف أن اسمها مريم أيضًا، وأن القرآن لما اقتبس قصة موسى وقصة المسيح عيسى بن مريم اختلطت عليه شخصية مريم وفُقد السياق التاريخي تمامًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Inference introducing the verses cited next; check also the classical exegetical replies that 'sister of Aaron' is an idiom of lineage or piety rather than sibling relation."
+    },
+    {
+      "timestamp": "00:08:00",
+      "claimEn": "The speaker claims that in Q 20:19-30 God speaks with Moses, and that in verse 30 Moses refers to 'Aaron my brother', so the Qur'an itself tells us that Aaron was the brother of Moses.",
+      "claimAr": "يزعم المتحدث أن في طه 19-30 يخاطب الله موسى، وأن موسى في الآية 30 يقول «هارون أخي»، فالقرآن نفسه يخبرنا أن هارون أخو موسى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "narrative-origins-moses-and-exodus"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 20:19-36 to confirm the wording 'Harun akhi' in verse 30."
+    },
+    {
+      "timestamp": "00:08:20",
+      "claimEn": "The speaker claims that Surat Maryam, which speaks about Mary the mother of Jesus, addresses her in verses 27-28 as 'O sister of Aaron'.",
+      "claimAr": "يزعم المتحدث أن سورة مريم، وهي تتحدث عن مريم أم عيسى المسيح، تخاطبها في الآيتين 27-28 بقولها «يا أخت هارون».",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 19:27-28 to confirm the address 'ya ukhta Harun' and check the classical commentaries on how they explain it."
+    },
+    {
+      "timestamp": "00:08:35",
+      "claimEn": "The speaker claims that Q 66:12 calls her 'Mary daughter of Imran who guarded her chastity, so We breathed into it of Our spirit', making the mother of Jesus the daughter of Imran and sister of Aaron and Moses.",
+      "claimAr": "يزعم المتحدث أن التحريم 12 تسمّيها «ومريم ابنة عمران التي أحصنت فرجها فنفخنا فيه من روحنا»، فتجعل أم المسيح ابنة عمران وأخت هارون وموسى.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "earlier-religious-parallels-christian-quranic-narratives"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 66:12 and Q 3:33-36 on the family of Imran, and check whether classical exegetes identify this Imran with the biblical Amram or with a different figure."
+    },
+    {
+      "timestamp": "00:08:50",
+      "claimEn": "The speaker claims that only two options remain: either the author of the Qur'an mixed the two characters together and lost the historical context, or Mary the mother of Christ lived more than 1400 years in order to be both the daughter of Imran, sister of Moses and Aaron, and the mother of Jesus who came 1400 years later.",
+      "claimAr": "يزعم المتحدث أنه لم يبق إلا احتمالان: إما أن كاتب القرآن أدخل الشخصيتين في بعضهما وفقد السياق التاريخي، وإما أن مريم أم المسيح عاشت أكثر من ألف وأربعمئة سنة لتكون مريم ابنة عمران أخت موسى وهارون هي نفسها أم المسيح الذي جاء بعد موسى بألف وأربعمئة سنة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the dilemma against the exegetical and modern apologetic responses to the 'sister of Aaron' address before treating the two options as exhaustive."
+    },
+    {
+      "timestamp": "00:09:20",
+      "claimEn": "The speaker claims in advance that the standard reply that the Jewish and Christian scriptures are corrupted has no bearing on this problem: even granting that their books are entirely false and the Qur'an alone truthful, Mary daughter of Imran, sister of Moses and Aaron in the time of Pharaoh, still cannot be Mary the mother of Christ who came in the first century CE under the Roman Empire, so the two persons were confused out of ignorance or inadvertence across different suras.",
+      "claimAr": "يزعم المتحدث سلفًا أن الردّ المعتاد بأن كتب اليهود والنصارى محرفة لا علاقة له بالمشكلة: حتى لو سُلّم بأن كتبهم كلها كذب وأن القرآن وحده الصادق، فلا يمكن أن تكون مريم ابنة عمران أخت موسى وهارون في زمن فرعون هي مريم أم المسيح التي جاءت في القرن الأول الميلادي في زمن الإمبراطورية الرومانية، فالشخصيتان لُبّستا ببعضهما عن جهل أو سهو في سور القرآن المختلفة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the argument really is internal to the Qur'anic text — that is, whether the identification of Imran with Amram rests only on Qur'anic data or also on the biblical genealogy."
+    },
+    {
+      "timestamp": "00:10:08",
+      "claimEn": "The speaker claims that the Qur'an mixed three separate biblical stories together — the tower of Babel, the wicked minister Haman, and the Pharaoh of Egypt in the time of Moses — taking 'a flower from every garden', as in Q 28:38 where Pharaoh says 'O Haman, kindle for me a fire upon the clay and make me a tower, that I may climb up to the God of Moses'.",
+      "claimAr": "يزعم المتحدث أن القرآن خلط ثلاث قصص توراتية منفصلة: قصة برج بابل، وقصة الوزير الشرير هامان، وفرعون مصر في زمن موسى، «من كل بستان زهرة»، كما في القصص 38 حيث يقول فرعون: «يا هامان أوقد لي على الطين فاجعل لي صرحًا لعلي أطلع إلى إله موسى».",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-historical-claims-narrative-origins",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 28:38 alongside Genesis 11:1-9 and the book of Esther to assess the proposed fusion of the three narratives."
+    },
+    {
+      "timestamp": "00:10:30",
+      "claimEn": "The speaker claims that the Egyptians did not build lofty towers and structures out of clay in the first place — that engineering forbids it and the pharaohs were masters of stone — so a tower to be built of clay is itself implausible.",
+      "claimAr": "يزعم المتحدث أن المصريين لم يكونوا يبنون الصروح والأبنية الشاهقة من الطين أصلًا، وأن الهندسة تمنع ذلك، وأن الفراعنة كانوا أساتذة الحجر، فالصرح الذي يُبنى بالطين غير معقول.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Egyptological literature on the use of mudbrick versus stone in monumental construction, including large mudbrick structures such as pylons, enclosure walls and the fired-brick question."
+    },
+    {
+      "timestamp": "00:10:54",
+      "claimEn": "The speaker claims that Q 40:36-37 repeats the same story, with Pharaoh saying 'O Haman, build me a tower that I may reach the ways — the ways of the heavens — and look upon the God of Moses'.",
+      "claimAr": "يزعم المتحدث أن غافر 36-37 تعيد القصة نفسها بقول فرعون: «يا هامان ابن لي صرحًا لعلي أبلغ الأسباب، أسباب السماوات فأطلع إلى إله موسى».",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 40:36-37 to confirm the wording and the repetition of the Haman-and-tower motif."
+    },
+    {
+      "timestamp": "00:11:00",
+      "claimEn": "The speaker claims that Haman was not Egyptian at all: according to the biblical narrative he was a wicked minister in the story of Esther, according to Greek writings he held office between 486 and 465 BCE in Persia and not in Egypt, and according to name studies the name belongs to the regions of Iraq and Persia; history records no Egyptian vizier named Haman, so with Pharaoh dated around 1400 BCE and Haman around 500 BCE the two never met and are separated by about a thousand years.",
+      "claimAr": "يزعم المتحدث أن هامان لم يكن مصريًا البتة: فبحسب القصص التوراتي كان وزيرًا شريرًا في قصة أستير، وبحسب كتابات اليونانيين كان بين سنة 486 و465 ق.م في فارس لا في مصر، وبحسب علم تأصيل الأسماء فالاسم من نواحي العراق وبلاد فارس، ولا يعرف التاريخ وزيرًا اسمه هامان في مصر، فمع تأريخ فرعون نحو 1400 ق.م وهامان نحو 500 ق.م لم يلتقيا قط ويفصل بينهما نحو ألف سنة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms",
+        "quran-historical-claims-conflated-biblical-figures"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the book of Esther for Haman's role, the reign dates of Xerxes I (486-465 BCE) implied here, onomastic studies of the name Haman, and the counter-argument from the Egyptian title/name read as 'Haman' in hieroglyphic sources advanced by some apologists."
+    },
+    {
+      "timestamp": "00:11:44",
+      "claimEn": "The speaker claims that Q 12:20, on the sale of Joseph by his brothers, says he was sold 'for a paltry price, counted dirhams', and that the dirham as a coin by that name did not exist before the time of Islam, so Joseph could not have been sold for counted dirhams.",
+      "claimAr": "يزعم المتحدث أن يوسف 20 في حادثة بيع يوسف تقول «وشروه بثمن بخس دراهم معدودة»، وأن الدرهم كعملة بهذا الاسم لم يوجد قبل زمن الإسلام، فكيف بيع يوسف بدراهم معدودة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q 12:20; then check the history of the term dirham, its derivation from the Greek drachma and its circulation in pre-Islamic Arabia, which bears on the claim that the name postdates Joseph."
+    },
+    {
+      "timestamp": "00:12:30",
+      "claimEn": "The speaker claims that even if one replies that the Qur'an meant a weighed dirham, that is, ancient coinage of whatever name in Joseph's time, this does not help, because Joseph lived around 1800 BCE while the history of metal coinage of any name begins around 600 BCE — more than 1200 years after him — and the author of the Qur'an did not know that coinage was not in circulation then.",
+      "claimAr": "يزعم المتحدث أنه حتى لو قيل إن المقصود الدرهم الموزون، أي العملات القديمة أيًّا كان اسمها في زمن يوسف، فهذا لا ينفع، لأن يوسف عاش نحو سنة 1800 ق.م بينما تاريخ العملات المعدنية أيًّا كان اسمها يبدأ نحو سنة 600 ق.م، أي بعده بأكثر من 1200 سنة، وكاتب القرآن لم يكن يعلم أن تداول العملات لم يكن موجودًا في زمن يوسف.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check numismatic literature on the earliest struck coinage (Lydia, c. 600 BCE) and on pre-coinage weighed silver (hacksilver) in the Bronze Age Near East, and the datings proposed for Joseph."
+    },
+    {
+      "timestamp": "00:13:15",
+      "claimEn": "The speaker claims that historically, in Joseph's time trade was conducted with something called the mithqal — from which the word for the weight of a thing derives — and that buying and selling then was by weight, not by counting, so even if one escapes the word 'dirhams' one cannot escape the word 'counted'.",
+      "claimAr": "يزعم المتحدث أن الثابت تاريخيًا أن التجارة في زمن يوسف كانت بشيء اسمه المثقال، ومنه اشتُقّ لفظ ثقل الشيء، وأن البيع في زمنه كان بالثقل والوزن لا بالعدّ، فمهما رُقّعت كلمة «دراهم» لا مخرج من كلمة «معدودة».",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-lexical-and-interpretive-questions-narrative-terms"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Bronze Age Near Eastern commercial practice (weighed silver, shekel as a weight unit) and the Arabic lexicography of mithqal; also check Genesis 37:28 which gives a number of pieces of silver, which bears on the 'counted' objection."
+    },
+    {
+      "timestamp": "00:13:40",
+      "claimEn": "The speaker concludes by claiming that the Qur'an fell into many historical problems by mentioning matters outside their historical context — al-Samiri, iron mail garments, the punishment of crucifixion, the confusion of historical figures such as Mary and Haman, and coinage in trade — and that it repeatedly placed events, persons and things before their historical time because its author truly did not know where, how and when they began but found them around him and used them in his storytelling, leaving behind historical errors that the Creator could not commit and that clearly prove the Qur'an's human authorship.",
+      "claimAr": "يختم المتحدث بالزعم أن القرآن وقع في مشاكل تاريخية عديدة بذكره أمورًا خارج سياقها التاريخي: السامري، والملابس الدرعية الحديدية، وعقوبة الصلب، وخلط شخصيات تاريخية كمريم وهامان، والعملات في التجارة، وأنه لطالما وضع أحداثًا وشخصيات وأمورًا قبل زمنها التاريخي لأنه حقًا لم يعرف أين وكيف ومتى بدأت، بل وجدها حوله فاستخدمها في سياقه القصصي، تاركًا خلفه أخطاء تاريخية لا يمكن أن يقع فيها الخالق وتثبت بوضوح بشرية القرآن.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-historical-claims",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [
+        "quran-historical-claims-anachronisms"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Final synthesis; its force depends entirely on the individual dating and identification claims listed above."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:52",
+      "asStatedInVideo": "صورة طه آية 84 و85 من أول قوله وما أعجلك عن قومك يا موسى لحد قال فإنا قد فتن قومك من بعدك وأضلهم السامري",
+      "workTitle": "القرآن — سورة طه",
+      "locator": "20:84-85",
+      "quotedArabic": "وما أعجلك عن قومك يا موسى ... فإنا قد فتن قومك من بعدك وأضلهم السامري",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:05",
+      "asStatedInVideo": "وبيؤكدها تاني في آية 87 بقوله ألقى السامري",
+      "workTitle": "القرآن — سورة طه",
+      "locator": "20:87",
+      "quotedArabic": "ألقى السامري",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:18",
+      "asStatedInVideo": "موسى النبي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:02:05",
+      "asStatedInVideo": "السامري",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:03:06",
+      "asStatedInVideo": "السامرة فلم تؤسس ولم يوجد السامريين لحد سنة 722 قبل الميلاد بعد سقوط المملكة الشمالية لإسرائيل",
+      "locator": "722 قبل الميلاد",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:06",
+      "asStatedInVideo": "الملك الأشوري سارجون الثاني",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:03:20",
+      "asStatedInVideo": "هتلاقيني حاطط المصادر تحت الفيديو من الموسوعة البريطانية",
+      "workTitle": "Encyclopaedia Britannica",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:03:56",
+      "asStatedInVideo": "سورة سبأ آية 10 و11 من أول قوله ولقد آتينا داود مننا فضلة لحد قوله أنعمل سابغات وقدر في السرد",
+      "workTitle": "القرآن — سورة سبأ",
+      "locator": "34:10-11",
+      "quotedArabic": "ولقد آتينا داود مننا فضلة ... أنعمل سابغات وقدر في السرد",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:05",
+      "asStatedInVideo": "وفي تفسير التبري بيشرح السابغات أنها التوامل كامل من الدروع",
+      "workTitle": "تفسير الطبري (جامع البيان)",
+      "author": "محمد بن جرير الطبري",
+      "locator": "تفسير سورة سبأ 10-11",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:03:56",
+      "asStatedInVideo": "داود",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:41",
+      "asStatedInVideo": "أهمها مرة تانية الموسوعة البريطانية في تاريخ الدروع الوقائية وأسلوب تطويرها وصناعتها من حديد",
+      "workTitle": "Encyclopaedia Britannica",
+      "locator": "مادة تاريخ الدروع الواقية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:28",
+      "asStatedInVideo": "سورة الأعراف من آية 100 وعشرين لآية 124",
+      "workTitle": "القرآن — سورة الأعراف",
+      "locator": "7:120-124",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:28",
+      "asStatedInVideo": "وسورة طه آية 71",
+      "workTitle": "القرآن — سورة طه",
+      "locator": "20:71",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:28",
+      "asStatedInVideo": "وسورة يوسف آية 41",
+      "workTitle": "القرآن — سورة يوسف",
+      "locator": "12:41",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:06:14",
+      "asStatedInVideo": "حتلاقيني حاطة مصادر الموسوعة البريطانية وتاريخ عقوبة الصلب كأسلوب تعذيب",
+      "workTitle": "Encyclopaedia Britannica",
+      "locator": "مادة تاريخ عقوبة الصلب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:20",
+      "asStatedInVideo": "في سفر الخروج إصحاح 6 عدد 20 بيقول لنا بوضوح إن موسى وهارون هم أولاد واحد اسمه عمرام",
+      "workTitle": "سفر الخروج (التوراة)",
+      "locator": "6:20",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:07:40",
+      "asStatedInVideo": "وفي سفر العدد بيؤكد على إن موسى وهارون ومريم هم أولاد عمرام",
+      "workTitle": "سفر العدد (التوراة)",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:20",
+      "asStatedInVideo": "مريم النبية أخت موسى، المذكورة في التقليد اليهودي",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:30",
+      "asStatedInVideo": "هارون أخو موسى، معاونه في خدمة شعب بني إسرائيل",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:20",
+      "asStatedInVideo": "عمرام والد موسى وهارون ومريم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:07:48",
+      "asStatedInVideo": "المسيح يسوع النصري أو عيسى بن مريم مولودا من عذراء",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:00",
+      "asStatedInVideo": "سورة طه من آية 19 لآية 30 ... ألقها يا موسى لحد قوله هارون أخي في آية 30",
+      "workTitle": "القرآن — سورة طه",
+      "locator": "20:19-30",
+      "quotedArabic": "ألقها يا موسى ... هارون أخي",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:20",
+      "asStatedInVideo": "سورة مريم آية 27 و28 ... يا مريم يا أخت هارون",
+      "workTitle": "القرآن — سورة مريم",
+      "locator": "19:27-28",
+      "quotedArabic": "يا مريم يا أخت هارون",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:35",
+      "asStatedInVideo": "سورة التحريم آية 12 وقال ومريم ابنة عمران التي أحصنت فرجها فنفخنا فيه من روحنا",
+      "workTitle": "القرآن — سورة التحريم",
+      "locator": "66:12",
+      "quotedArabic": "ومريم ابنة عمران التي أحصنت فرجها فنفخنا فيه من روحنا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:09:20",
+      "asStatedInVideo": "مريم أم المسيح اللي جيه في القرن الأول الميلادي في زمن الإمبراطورية الرومانية",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:10:08",
+      "asStatedInVideo": "قصة برج بابل",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:08",
+      "asStatedInVideo": "سورة القصص آية 38 بتقول وقال فرعون فأوقد لي يا هامان على الطين فأجعل لي صرحة لعلي أطلع إلى إله موسى",
+      "workTitle": "القرآن — سورة القصص",
+      "locator": "28:38",
+      "quotedArabic": "وقال فرعون فأوقد لي يا هامان على الطين فأجعل لي صرحة لعلي أطلع إلى إله موسى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:54",
+      "asStatedInVideo": "سورة غافر آية 36 و37 ... وقال فرعون يا هامان ابني لي صرحاً لعلي أبلغ الأسباب أسباب السماوات فأطلع إلى إله موسى",
+      "workTitle": "القرآن — سورة غافر",
+      "locator": "40:36-37",
+      "quotedArabic": "وقال فرعون يا هامان ابني لي صرحاً لعلي أبلغ الأسباب أسباب السماوات فأطلع إلى إله موسى",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:00",
+      "asStatedInVideo": "هامان، وزير شرير في قصة أستير",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:11:15",
+      "asStatedInVideo": "قصة أستير أحد كتب اليهود",
+      "workTitle": "سفر أستير",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:11:30",
+      "asStatedInVideo": "هامان طبقاً لكتابات اليونانيين حكم ما بين سنة 486 و465 قبل الميلاد في فارس",
+      "locator": "486-465 قبل الميلاد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:11:44",
+      "asStatedInVideo": "سورة يوسف آية 20 عن حادثة بيع أخوه يوسف له ويقول وشروه بثمن بخص ودراهم معدودة",
+      "workTitle": "القرآن — سورة يوسف",
+      "locator": "12:20",
+      "quotedArabic": "وشروه بثمن بخص ودراهم معدودة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:30",
+      "asStatedInVideo": "سيدنا يوسف ده كان عايش سنة 1800 قبل الميلاد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:12:45",
+      "asStatedInVideo": "تاريخ العملات المعدنية أساساً أيا كان اسم العملة ظهرت سنة 600 قبل الميلاد",
+      "locator": "600 قبل الميلاد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:05:28",
+      "asStatedInVideo": "فرعون موسى سنة 1400 قبل الميلاد",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-historical-claims-anachronisms",
+      "titleEn": "Anachronisms in Qur'anic narrative",
+      "titleAr": "المفارقات الزمنية في القصص القرآني",
+      "descriptionEn": "Claims that the Qur'an places objects, institutions, punishments, currencies and peoples in periods before they existed — iron mail attributed to David, crucifixion in the eras of Joseph and Pharaoh, Samaritans in the time of Moses, counted dirhams in Joseph's time — and the datings and reference works advanced for them.",
+      "descriptionAr": "دعاوى بأن القرآن يضع أشياء ومؤسسات وعقوبات وعملات وأقوامًا في أزمنة سابقة لوجودها: الدروع الحديدية المنسوبة إلى داود، والصلب في زمن يوسف وفرعون، والسامريون في زمن موسى، والدراهم المعدودة في زمن يوسف، مع التواريخ والمراجع المستشهد بها لذلك.",
+      "suggestedParentId": "quran-historical-claims",
+      "closestExistingId": "quran-historical-claims",
+      "rationale": "The parent topic covers historical narratives, chronology, geography and anachronism together; this video is built entirely on dated anachronism arguments, and other critical videos on Qur'anic history routinely make the same kind of argument, so it warrants its own durable subdivision alongside the existing narrative-origins and revelation-context children."
+    },
+    {
+      "proposedId": "quran-historical-claims-conflated-biblical-figures",
+      "titleEn": "Conflated biblical figures in the Qur'an",
+      "titleAr": "خلط الشخصيات التوراتية في القرآن",
+      "descriptionEn": "Claims that the Qur'an merges distinct biblical persons and stories into one — Mary mother of Jesus with Miriam sister of Moses and Aaron as 'daughter of Imran' and 'sister of Aaron', Haman the Persian vizier of Esther with an Egyptian minister of Pharaoh, and the tower of Babel with the tower Pharaoh orders built — together with the exegetical and apologetic responses offered.",
+      "descriptionAr": "دعاوى بأن القرآن يدمج شخصيات وقصصًا توراتية متمايزة في واحدة: مريم أم عيسى مع مريم أخت موسى وهارون بوصفها «ابنة عمران» و«أخت هارون»، وهامان وزير فارس في سفر أستير مع وزير لفرعون مصر، وبرج بابل مع الصرح الذي يأمر فرعون ببنائه، مع ما يُقدَّم من ردود تفسيرية ودفاعية.",
+      "suggestedParentId": "quran-historical-claims",
+      "closestExistingId": "quran-historical-claims-narrative-origins",
+      "rationale": "The closest existing topic covers where Qur'anic narrative material came from, whereas these claims concern the merging of separate identities within the text itself. It is a recurring, durable line of argument in this material (Mary/Miriam and Haman appear across many critical videos) that does not sit naturally under narrative origins or under internal tensions."
+    }
+  ]
+}
