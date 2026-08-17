@@ -892,3 +892,13 @@
 {"timestamp": "2026-08-17T03:33:48+00:00", "event": "topic_split_succeeded", "topicId": "quran-foreign-vocabulary-and-transmission-routes", "backend": "claude", "attempts": 1, "durationMs": 45895}
 {"timestamp": "2026-08-17T04:27:03+00:00", "event": "extract_started", "videoId": "vvqgVS8KVJA"}
 {"timestamp": "2026-08-17T04:38:11+00:00", "event": "extract_succeeded", "videoId": "vvqgVS8KVJA", "backend": "codex", "attempts": 1, "durationMs": 667728}
+{"timestamp": "2026-08-17T04:42:51+00:00", "event": "topic_split_started", "topicId": "umayyad-period-and-religious-formation"}
+{"timestamp": "2026-08-17T04:44:00+00:00", "event": "topic_split_succeeded", "topicId": "umayyad-period-and-religious-formation", "backend": "claude", "attempts": 1, "durationMs": 68910}
+{"timestamp": "2026-08-17T04:44:00+00:00", "event": "topic_split_started", "topicId": "quran-lexical-and-interpretive-questions"}
+{"timestamp": "2026-08-17T04:45:04+00:00", "event": "topic_split_succeeded", "topicId": "quran-lexical-and-interpretive-questions", "backend": "claude", "attempts": 1, "durationMs": 64016}
+{"timestamp": "2026-08-17T04:45:04+00:00", "event": "topic_split_started", "topicId": "early-islamic-state-and-caliphate"}
+{"timestamp": "2026-08-17T04:45:56+00:00", "event": "topic_split_succeeded", "topicId": "early-islamic-state-and-caliphate", "backend": "claude", "attempts": 1, "durationMs": 51888}
+{"timestamp": "2026-08-17T04:45:56+00:00", "event": "topic_split_started", "topicId": "quran-foreign-vocabulary-and-transmission-routes"}
+{"timestamp": "2026-08-17T04:46:52+00:00", "event": "topic_split_succeeded", "topicId": "quran-foreign-vocabulary-and-transmission-routes", "backend": "claude", "attempts": 1, "durationMs": 56379}
+{"timestamp": "2026-08-17T04:46:52+00:00", "event": "topic_split_started", "topicId": "formative-figures-of-islam"}
+{"timestamp": "2026-08-17T04:47:48+00:00", "event": "topic_split_succeeded", "topicId": "formative-figures-of-islam", "backend": "claude", "attempts": 1, "durationMs": 55824}
