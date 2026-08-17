@@ -1,0 +1,2481 @@
+{
+  "schemaVersion": 1,
+  "videoId": "vvqgVS8KVJA",
+  "videoUrl": "https://www.youtube.com/watch?v=vvqgVS8KVJA",
+  "videoTitle": "حقائق لا تعرفها عن القرآن",
+  "creator": "Sherif Gaber",
+  "uploadDate": "20180130",
+  "extractedAt": "2026-08-17T04:38:11+00:00",
+  "model": "agent:codex",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "The speaker argues that the Qur’an is a historically formed human text rather than an unaltered divine revelation. He attributes much of its theology, vocabulary, and narrative material to pre-Islamic Christian, Syriac, Jewish-rabbinic, biblical, Greek, and other traditions. He further claims that ambiguous early Arabic writing produced misreadings, that many Qur’anic words and passages remain unintelligible or were incorrectly pointed, and that the text displays weak organization, repetition, and formulaic rhetoric. In the final section, he invokes hadith reports, companion statements, codex traditions, external attestations, coins, and manuscripts to argue that verses and suras were lost, added, removed, or politically standardized from the period of Uthman through Abd al-Malik and al-Hajjaj and into the Abbasid era.",
+  "summaryAr": "يجادل المتحدث بأن القرآن نص بشري تكوّن تاريخياً، لا وحياً إلهياً محفوظاً من التغيير. وينسب جانباً كبيراً من عقيدته ومفرداته وقصصه إلى تقاليد مسيحية وسريانية ويهودية حاخامية وكتابية ويونانية وغيرها كانت سابقة للإسلام. كما يدّعي أن غموض الرسم العربي المبكر أدى إلى قراءات خاطئة، وأن كثيراً من ألفاظ القرآن ومقاطعه غير مفهومة أو نُقّطت بصورة خاطئة، وأن النص يتسم بضعف التنظيم والتكرار والخطاب القائم على الصيغ الجاهزة. وفي القسم الأخير يستند إلى روايات الحديث وأقوال الصحابة وتقاليد المصاحف والشهادات الخارجية والعملات والمخطوطات ليزعم أن آيات وسوراً فُقدت أو أضيفت أو حُذفت أو وُحّدت سياسياً منذ عهد عثمان مروراً بعبد الملك والحجاج وحتى العصر العباسي.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:03-00:02:34",
+      "stepEn": "He begins by presenting non-Trinitarian Christian beliefs as older than Islam and concludes that Islam’s claim about Jesus was not new.",
+      "stepAr": "يبدأ بعرض الاعتقادات المسيحية غير التثليثية بوصفها أقدم من الإسلام، ثم يستنتج أن موقف الإسلام من عيسى لم يكن جديداً."
+    },
+    {
+      "timestamp": "00:02:34-00:05:24",
+      "stepEn": "He proposes that persecuted Christian groups carried Syriac texts into Arabia and reads the Qur’an’s insistence on its Arabic character as a response to accusations of foreign borrowing.",
+      "stepAr": "يفترض أن جماعات مسيحية مضطهدة حملت نصوصاً سريانية إلى الجزيرة العربية، ويقرأ إصرار القرآن على عربيته بوصفه رداً على اتهامات بالاقتباس الأجنبي."
+    },
+    {
+      "timestamp": "00:06:06-00:08:15",
+      "stepEn": "He argues that the early undotted and unvocalized script made later mispointing likely and introduces repointing through Syriac as a method of recovering alternative meanings.",
+      "stepAr": "يجادل بأن الرسم المبكر غير المنقوط وغير المشكول جعل أخطاء التنقيط اللاحقة مرجحة، ثم يقدم إعادة التنقيط بالاستعانة بالسريانية كوسيلة لاستعادة معانٍ بديلة."
+    },
+    {
+      "timestamp": "00:08:15-00:13:45",
+      "stepEn": "He supplies examples of words he considers unintelligible, Syriac, or incorrectly pointed, and treats the multiplication of exegetical glosses as evidence that their meanings were lost.",
+      "stepAr": "يقدم أمثلة لألفاظ يعدها غامضة أو سريانية أو منقوطة خطأ، ويعتبر كثرة أقوال المفسرين دليلاً على ضياع معانيها."
+    },
+    {
+      "timestamp": "00:14:31-00:18:17",
+      "stepEn": "He broadens the linguistic criticism to allegedly malformed or pointless sentences, arguing that neither Muhammad nor his audience possessed a clear explanation of the text.",
+      "stepAr": "يوسع النقد اللغوي إلى جمل يصفها بالركاكة أو انعدام الفائدة، ويجادل بأن محمداً وجمهوره لم يكونوا يملكون تفسيراً واضحاً للنص."
+    },
+    {
+      "timestamp": "00:18:17-00:21:22",
+      "stepEn": "He derives the word Qur’an from Syriac, advances a Christological reading of the word muhammad, and invokes cross-bearing early coins as evidence that conventional Islamic origins are historically uncertain.",
+      "stepAr": "يرد لفظ القرآن إلى أصل سرياني، ويطرح قراءة مسيحانية لكلمة محمد، ويستشهد بعملات مبكرة تحمل الصليب ليقول إن رواية نشأة الإسلام التقليدية غير يقينية تاريخياً."
+    },
+    {
+      "timestamp": "00:21:22-00:26:43",
+      "stepEn": "He surveys proposed antecedents for Qur’anic narratives in rabbinic, biblical, Christian, Greek, Syriac, and other pre-Islamic literature.",
+      "stepAr": "يستعرض أصولاً مقترحة للقصص القرآني في الأدب الحاخامي والكتابي والمسيحي واليوناني والسرياني وغيره من الآداب السابقة للإسلام."
+    },
+    {
+      "timestamp": "00:26:43-00:30:34",
+      "stepEn": "He turns to literary criticism, portraying the Qur’an as repetitive, disordered, formulaic, dependent on threats and rewards, and assembled from juxtaposed fragments.",
+      "stepAr": "ينتقل إلى النقد الأدبي، فيصف القرآن بالتكرار واضطراب الترتيب والصيغية والاعتماد على التهديد والمكافأة وتجميع المقاطع المتجاورة."
+    },
+    {
+      "timestamp": "00:30:34-00:35:55",
+      "stepEn": "He cites reports about stoning, adult suckling, the length of Surat al-Ahzab, forgotten suras, and disputed suras to argue that substantial Qur’anic material disappeared.",
+      "stepAr": "يستشهد بروايات الرجم ورضاع الكبير وطول سورة الأحزاب والسور المنسية والسور المختلف عليها ليجادل بأن مادة قرآنية كبيرة قد اختفت."
+    },
+    {
+      "timestamp": "00:35:55-00:38:57",
+      "stepEn": "He contrasts the doctrine of a heavenly preserved text with reports that collection occurred only after Muhammad’s death from scattered written materials and memories.",
+      "stepAr": "يقارن عقيدة النص المحفوظ في السماء بروايات تفيد أن جمعه لم يقع إلا بعد موت محمد من مواد مكتوبة متفرقة ومحفوظات شفوية."
+    },
+    {
+      "timestamp": "00:38:57-00:40:26",
+      "stepEn": "He argues that Uthman’s destruction of other codices and source materials removed the principal means of checking his recension.",
+      "stepAr": "يجادل بأن إحراق عثمان للمصاحف والمواد الأصلية الأخرى أزال الوسيلة الأساسية للتحقق من نسخته."
+    },
+    {
+      "timestamp": "00:40:26-00:42:50",
+      "stepEn": "He uses the claimed absence of early external references and reports about Abd al-Malik and al-Hajjaj to relocate decisive collection and standardization to the Umayyad period.",
+      "stepAr": "يستخدم الغياب المزعوم للإشارات الخارجية المبكرة وروايات عبد الملك والحجاج لينقل مرحلة الجمع والتوحيد الحاسمة إلى العصر الأموي."
+    },
+    {
+      "timestamp": "00:42:50-00:44:19",
+      "stepEn": "He infers from the disappearance of Uthman’s codex and the destruction of earlier copies that the Umayyad recension differed materially from its predecessors.",
+      "stepAr": "يستنتج من اختفاء مصحف عثمان وإحراق النسخ الأقدم أن النسخة الأموية اختلفت مادياً عما سبقها."
+    },
+    {
+      "timestamp": "00:44:19-00:47:06",
+      "stepEn": "He concludes with claims about erasures, additions, incomplete pointing, differing verse counts, and titles in early manuscripts, asserting that the Qur’an remained unfinished until the Abbasid period.",
+      "stepAr": "يختتم بادعاءات عن المحو والإضافة ونقص التنقيط واختلاف أعداد الآيات وأسماء السور في المخطوطات المبكرة، ويؤكد أن القرآن لم يكتمل حتى العصر العباسي."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:37-00:01:56",
+      "claimEn": "The speaker claims that Arius and earlier groups such as the Ebionites already taught that Jesus was an ordinary human messenger rather than divine, and that persecuted adherents of such views migrated eastward and into Arabia.",
+      "claimAr": "يدّعي المتحدث أن آريوس وجماعات أقدم مثل الإبيونيين قالوا قبل الإسلام إن عيسى رسول بشري عادي وليس إلهاً، وأن أتباع هذه الآراء هاجروا بعد اضطهادهم إلى الشرق والجزيرة العربية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "sirah-historical-setting-pre-islamic-arabia"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the surviving evidence for Arius, the Ebionites, the Council of Nicaea, subsequent persecution, and documented migration of non-Trinitarian Christians into Arabia."
+    },
+    {
+      "timestamp": "00:01:56-00:02:34",
+      "claimEn": "The speaker claims that divine unity and the description of Jesus as merely a messenger were pre-Islamic Christian ideas, so Islam contributed no new central doctrine on this point.",
+      "claimAr": "يدّعي المتحدث أن توحيد الإله ووصف عيسى بأنه مجرد رسول فكرتان مسيحيتان سابقتان للإسلام، ولذلك لم يقدم الإسلام في هذه النقطة عقيدة مركزية جديدة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare pre-Islamic non-Trinitarian Christian doctrines with the Qur’anic presentation of Jesus and assess whether the similarity warrants the speaker’s conclusion."
+    },
+    {
+      "timestamp": "00:02:34-00:03:17",
+      "claimEn": "The speaker claims that displaced Christian clergy carried Christian books written in Aramaic or Syriac into Arabia and that Syriac was the standard literary language of that setting.",
+      "claimAr": "يدّعي المتحدث أن رجال الدين المسيحيين المهجّرين حملوا إلى الجزيرة العربية كتباً مسيحية مكتوبة بالآرامية أو السريانية، وأن السريانية كانت لغة التأليف الرسمية في ذلك السياق.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-syriac-aramaic-philology",
+        "quran-sources-and-cultural-influences",
+        "sirah-source-traditions-informants-and-silences"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the linguistic history of late antique Arabia, the distribution of Syriac Christian texts, and evidence for clergy or communities carrying such texts into Arabia."
+    },
+    {
+      "timestamp": "00:03:17-00:04:05",
+      "claimEn": "The speaker claims that Islam is a repackaging of non-Trinitarian Christian sectarian ideas and that most of the Qur’an is a translation of Syriac Christian books brought into Arabia.",
+      "claimAr": "يدّعي المتحدث أن الإسلام إعادة صياغة لأفكار الطوائف المسيحية غير التثليثية، وأن معظم القرآن ترجمة لكتب مسيحية سريانية دخلت الجزيرة العربية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "syro-aramaic-quran-hypothesis"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the specific Syriac works that could underlie Qur’anic passages and test the alleged translation relationships through philological and textual comparison."
+    },
+    {
+      "timestamp": "00:04:05-00:04:45",
+      "claimEn": "The speaker claims that the Qur’an repeatedly insists that it is Arabic because contemporaries knew or alleged that its material was not originally Arabic.",
+      "claimAr": "يدّعي المتحدث أن تكرار القرآن التأكيد على أنه عربي سببه أن معاصرين كانوا يعرفون أو يزعمون أن مادته ليست عربية الأصل.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes",
+        "quran-sources-and-cultural-influences",
+        "quran-internal-tensions-self-consistency-criterion"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Catalogue all Qur’anic assertions of Arabic language and examine their contexts and the explanations offered by early exegetes and modern scholarship."
+    },
+    {
+      "timestamp": "00:04:45-00:05:24",
+      "claimEn": "The speaker claims that Qur’anic passages preserve accusations that Muhammad merely listened to other people, that the stories had already been heard, and that a foreigner taught him.",
+      "claimAr": "يدّعي المتحدث أن آيات القرآن تحفظ اتهامات بأن محمداً كان يستمع إلى غيره، وأن القصص كانت مسموعة من قبل، وأن شخصاً أعجمياً كان يعلمه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-revelation-context",
+        "quran-sources-and-cultural-influences",
+        "sirah-source-traditions-informants-and-silences"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the quoted or paraphrased Qur’anic passages in their full contexts and determine precisely what accusations they report and how the text answers them."
+    },
+    {
+      "timestamp": "00:05:24-00:06:06",
+      "claimEn": "The speaker claims that accusations of foreign vocabulary and non-Arabic origins were numerous enough to make the Qur’an defend its Arabic character and threaten its accusers repeatedly.",
+      "claimAr": "يدّعي المتحدث أن اتهامات الأصل غير العربي وكثرة الألفاظ الأجنبية كانت واسعة إلى حد جعل القرآن يدافع مراراً عن عربيته ويهدد أصحاب الاتهام.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-foreign-vocabulary-and-transmission-routes",
+        "quran-historical-claims-revelation-context"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Count and contextualize the relevant passages rather than relying on the speaker’s estimate of more than ten occurrences."
+    },
+    {
+      "timestamp": "00:06:06-00:06:50",
+      "claimEn": "The speaker claims that the Qur’an’s earliest written form lacked dots, vowel marks, and some later letter signs, which were added over more than a century after Muhammad’s death.",
+      "claimAr": "يدّعي المتحدث أن الصورة الكتابية الأولى للقرآن كانت بلا نقط ولا تشكيل ولا بعض العلامات والحروف اللاحقة، وأن هذه الإضافات تمت خلال أكثر من قرن بعد موت محمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-script-and-orthography",
+        "quran-textual-transmission-readings-and-ahruf-script-basis-of-variants"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check dated inscriptions and Qur’anic manuscripts for the development of consonantal pointing, vocalization, hamza notation, and related orthographic conventions."
+    },
+    {
+      "timestamp": "00:06:50-00:07:36",
+      "claimEn": "The speaker claims that only six of twenty-eight Arabic letters were unambiguously distinguishable in the bare script, making errors highly likely when more than 77,000 Qur’anic words were later pointed.",
+      "claimAr": "يدّعي المتحدث أن ستة أحرف فقط من أصل ثمانية وعشرين كان يمكن تمييزها بوضوح في الرسم المجرد، مما جعل الخطأ مرجحاً جداً عند تنقيط أكثر من سبعة وسبعين ألف كلمة قرآنية لاحقاً.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-script-and-orthography",
+        "quran-textual-transmission-readings-and-ahruf-script-basis-of-variants"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Verify the letter-count claim, the chronology of pointing, and whether oral transmission and manuscript conventions constrained the theoretically possible readings."
+    },
+    {
+      "timestamp": "00:07:36",
+      "claimEn": "The speaker claims that the Qur’an originally contained more than its current roughly 77,000 words because substantial material was removed during the first 150 years after Muhammad.",
+      "claimAr": "يدّعي المتحدث أن القرآن كان يضم في الأصل أكثر من نحو سبعة وسبعين ألف كلمة الحالية، لأن مواد كثيرة حُذفت خلال المئة والخمسين سنة الأولى بعد محمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-formation-and-chronology-umayyad-era-composition"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the evidence used for the 150-year period and distinguish reports of lost revelation, variant recensions, orthographic differences, and actual deletion."
+    },
+    {
+      "timestamp": "00:07:36-00:08:15",
+      "claimEn": "The speaker claims that critical scholars can recover lost meanings by removing later dots, vowels, and letters and repointing the consonantal skeleton, sometimes with Syriac vocabulary.",
+      "claimAr": "يدّعي المتحدث أن الباحثين النقديين يستطيعون استعادة معانٍ ضائعة بإزالة النقط والحركات والحروف اللاحقة وإعادة تنقيط الهيكل الصامت، أحياناً بالاستعانة بالمفردات السريانية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-repointing-of-passages",
+        "quran-textual-transmission-syro-aramaic-philology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the critical scholars and publications intended by the speaker and evaluate each proposed repointing against manuscript spellings, grammar, context, and Syriac usage."
+    },
+    {
+      "timestamp": "00:08:15-00:09:51",
+      "claimEn": "The speaker claims that the obscure word al-hawaya in Q6:146 should be repointed as al-jawaya, a Syriac word meaning bellies, which he says makes the sentence intelligible.",
+      "claimAr": "يدّعي المتحدث أن لفظ «الحوايا» الغامض في الأنعام 146 ينبغي إعادة تنقيطه إلى «الجوايا»، وهي عنده كلمة سريانية تعني البطون، مما يجعل الجملة مفهومة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-repointing-of-passages",
+        "quran-textual-transmission-syro-aramaic-philology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Q6:146, early manuscript spellings, Arabic lexica, classical exegesis, and the alleged Syriac form and meaning."
+    },
+    {
+      "timestamp": "00:09:03-00:09:51",
+      "claimEn": "The speaker claims that the numerous traditional explanations of obscure Qur’anic words are speculative attempts to invent meanings that fit their contexts.",
+      "claimAr": "يدّعي المتحدث أن كثرة الشروح التراثية للألفاظ القرآنية الغامضة ليست إلا محاولات تخمينية لاختراع معانٍ تناسب السياق.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare the range, linguistic bases, and transmission history of the cited exegetical glosses rather than treating plurality alone as proof of invention."
+    },
+    {
+      "timestamp": "00:09:51-00:10:37",
+      "claimEn": "The speaker claims that sariyyan in Q19:24 is not a river or a noble person but a Syriac expression meaning a legitimate son, so the passage reassures Mary about Jesus’s legitimacy.",
+      "claimAr": "يدّعي المتحدث أن «سرياً» في مريم 24 لا تعني نهراً ولا شخصاً كريماً، بل تعبيراً سريانياً بمعنى الابن الشرعي، فتكون الآية تطمئن مريم إلى شرعية عيسى.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-repointing-of-passages",
+        "earlier-religious-parallels-christian-quranic-narratives-jesus-and-apocrypha"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Q19:24, its manuscript readings, Arabic lexica and tafsir, and whether the claimed Syriac expression has the stated form and sense."
+    },
+    {
+      "timestamp": "00:10:37-00:11:28",
+      "claimEn": "The speaker claims that muzjat in Q12:88 has no satisfactory Arabic meaning and should be repointed as a Syriac-derived word meaning fresh or moist merchandise.",
+      "claimAr": "يدّعي المتحدث أن «مزجاة» في يوسف 88 لا تحمل معنى عربياً مقنعاً، وينبغي إعادة تنقيطها إلى لفظ ذي أصل سرياني يعني بضاعة طازجة أو رطبة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-repointing-of-passages",
+        "quran-textual-transmission-syro-aramaic-philology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check Q12:88, the Arabic root and classical glosses, manuscript orthography, and the proposed Syriac word and semantics."
+    },
+    {
+      "timestamp": "00:11:28-00:12:13",
+      "claimEn": "The speaker claims that many Qur’anic personal names and core religious terms—including aya, kafir, salat, nafs, janna, and sayyi’at—use Syriac forms or derive from Syriac vocabulary.",
+      "claimAr": "يدّعي المتحدث أن كثيراً من أسماء الأشخاص والمصطلحات الدينية الأساسية في القرآن، ومنها آية وكافر وصلاة ونفس والجنة والسيئات، تتبع النطق السرياني أو مشتقة من مفردات سريانية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-religious-vocabulary",
+        "quran-foreign-vocabulary-and-transmission-routes",
+        "syriac-aramaic-religious-vocabulary"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Test each listed name and term separately using comparative Semitic linguistics and the earliest attestations in Arabic, Syriac, Aramaic, Hebrew, and Ethiopic."
+    },
+    {
+      "timestamp": "00:11:28-00:12:13",
+      "claimEn": "The speaker claims that the Qur’anic designation nasara for Christians was unique to Syriac usage and therefore indicates Syriac dependence.",
+      "claimAr": "يدّعي المتحدث أن تسمية المسيحيين في القرآن بـ«النصارى» لم تكن مستعملة إلا في السريانية، ولذلك تدل على اعتماد سرياني.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-religious-vocabulary",
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check pre-Islamic and early Islamic attestations and etymological scholarship on nasara across Syriac, Aramaic, Arabic, Greek, and other relevant languages."
+    },
+    {
+      "timestamp": "00:12:13-00:12:59",
+      "claimEn": "The speaker claims that al-kawthar has no known meaning and that the seven meanings attributed to al-Qurtubi and twenty-six attributed to Ibn al-Naqib demonstrate that exegetes did not know what it meant.",
+      "claimAr": "يدّعي المتحدث أن «الكوثر» لفظ مجهول المعنى، وأن نسبة سبعة معانٍ إلى القرطبي وستة وعشرين معنى إلى ابن النقيب تدل على أن المفسرين لم يعرفوا معناه.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-preaching-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the counts and wording in al-Qurtubi and Ibn al-Naqib and review Arabic and comparative-linguistic evidence for al-kawthar."
+    },
+    {
+      "timestamp": "00:12:59-00:13:45",
+      "claimEn": "The speaker claims that abban in Surat Abasa and awwah in Surat Hud are unintelligible and that contradictory positive glosses for awwah were selected because the word describes Abraham.",
+      "claimAr": "يدّعي المتحدث أن «أبّاً» في سورة عبس و«أواه» في سورة هود لفظان غير مفهومين، وأن المعاني الإيجابية المتعارضة لـ«أواه» اختيرت لأنها تصف إبراهيم.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-lexical-and-interpretive-questions-preaching-glosses"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Examine the relevant verses, early poetry and lexica, and the range and reasoning of classical glosses for abban and awwah."
+    },
+    {
+      "timestamp": "00:13:45-00:14:31",
+      "claimEn": "The speaker claims that al-tawd in Q26:63 is a copying error for al-tur, because al-tur means mountain and occurs repeatedly elsewhere whereas al-tawd appears only once.",
+      "claimAr": "يدّعي المتحدث أن «الطود» في الشعراء 63 خطأ نقل عن «الطور»، لأن الطور يعني الجبل ويتكرر في القرآن، بينما لا ترد كلمة الطود إلا مرة واحدة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-variants-in-manuscripts",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check Q26:63, Qur’anic occurrences and Arabic attestations of both words, and manuscript evidence for any dal/ra variant."
+    },
+    {
+      "timestamp": "00:14:31-00:15:18",
+      "claimEn": "The speaker claims that translation from foreign material produced malformed Qur’anic sentences, citing the phrase in Surat al-Mumtahana about spouses passing to the unbelievers as unintelligible and its standard interpretation as conjectural.",
+      "claimAr": "يدّعي المتحدث أن الترجمة عن مواد أجنبية أنتجت جملاً قرآنية مختلة، ويستشهد بعبارة سورة الممتحنة عن فوات الأزواج إلى الكفار بوصفها غير مفهومة وأن تفسيرها بالهرب مجرد تخمين.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-sources-and-cultural-influences"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the verse in Surat al-Mumtahana, analyze its syntax and early interpretations, and test whether translation interference is evidenced."
+    },
+    {
+      "timestamp": "00:15:18-00:16:02",
+      "claimEn": "The speaker claims that the verse permitting the blind, sick, and others to eat from listed houses is incoherent, potentially permits eating from houses whose keys one possesses, and contains trivial alternatives such as eating alone or together.",
+      "claimAr": "يدّعي المتحدث أن الآية التي تبيح للأعمى والمريض وغيرهما الأكل من البيوت المذكورة مضطربة، وقد توحي بجواز الأكل من بيت يملك المرء مفاتيحه، وتتضمن بدائل بديهية مثل الأكل منفرداً أو مجتمعاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the complete verse in Surat al-Nur, its grammar, legal setting, and classical explanations of the listed houses and possession of keys."
+    },
+    {
+      "timestamp": "00:16:02-00:17:34",
+      "claimEn": "The speaker claims that the Qur’anic assertion that every messenger speaks in his people’s language conflicts with the many Qur’anic words allegedly unknown to Muhammad, his audience, and later interpreters.",
+      "claimAr": "يدّعي المتحدث أن قول القرآن إن كل رسول أُرسل بلسان قومه يتعارض مع كثرة الألفاظ القرآنية التي يزعم أن محمداً وجمهوره والمفسرين اللاحقين لم يعرفوا معناها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-self-consistency-criterion",
+        "quran-lexical-and-interpretive-questions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the cited language verse, evidence for early understanding of the allegedly obscure terms, and whether later disagreement establishes contemporary incomprehension."
+    },
+    {
+      "timestamp": "00:16:52-00:17:34",
+      "claimEn": "The speaker claims that al-Tabari transmitted from Aisha that Muhammad explained only a few short Qur’anic verses, implying that Muhammad did not provide the promised clarification of the book.",
+      "claimAr": "يدّعي المتحدث أن الطبري روى عن عائشة أن محمداً لم يكن يفسر إلا آيات قليلة قصيرة، مما يعني عنده أن محمداً لم يقدم البيان الموعود للكتاب.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "sirah-source-traditions-reliability-and-attribution"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report in al-Tabari, verify its exact wording and chain, and compare hadiths and tafsir reports in which Muhammad explains verses."
+    },
+    {
+      "timestamp": "00:16:52-00:18:17",
+      "claimEn": "The speaker claims that the existence of tens of thousands of changing interpretations shows that no authoritative Muhammadan explanation existed and that the Qur’an was not clear to its intended audience.",
+      "claimAr": "يدّعي المتحدث أن وجود عشرات الآلاف من التفاسير المتغيرة يدل على عدم وجود تفسير نبوي حاسم وعلى أن القرآن لم يكن واضحاً للجمهور المخاطب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the historical corpus of prophetic exegesis and whether the number of later interpretations logically supports the claimed absence of early explanation."
+    },
+    {
+      "timestamp": "00:17:34-00:18:17",
+      "claimEn": "The speaker claims that translating the Qur’an is difficult not because Arabic is uniquely divine but because many Qur’anic words have no securely understood meaning in any language.",
+      "claimAr": "يدّعي المتحدث أن صعوبة ترجمة القرآن لا ترجع إلى تفرد العربية أو كونها لغة إلهية، بل إلى وجود ألفاظ كثيرة لا يُعرف معناها على نحو ثابت في أي لغة.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions",
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare translation problems associated with the listed words to ordinary semantic ambiguity and examine whether scholars truly regard them as wholly unintelligible."
+    },
+    {
+      "timestamp": "00:18:17-00:19:05",
+      "claimEn": "The speaker claims that qur’an is not Arabic but derives from Syriac qeryana, meaning a Christian liturgical lectionary or book of readings.",
+      "claimAr": "يدّعي المتحدث أن كلمة «قرآن» ليست عربية، بل مشتقة من السريانية «قريانا» بمعنى كتاب تلاوات الطقوس المسيحية.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-religious-vocabulary",
+        "quran-foreign-vocabulary-and-transmission-routes"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Review the Arabic root q-r-ʾ, Syriac qeryana, their earliest attestations, and competing etymological explanations."
+    },
+    {
+      "timestamp": "00:19:05-00:19:51",
+      "claimEn": "The speaker claims that Jesus or the Messiah is named thirty-six times and Muhammad only four times, suggesting that the book was originally centered on Christ.",
+      "claimAr": "يدّعي المتحدث أن عيسى أو المسيح ذُكر ستاً وثلاثين مرة، بينما ذُكر محمد أربع مرات فقط، مما يوحي عنده بأن الكتاب كان موجهاً أصلاً إلى المسيح.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-christological-readings",
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the counts under clearly defined criteria and assess whether frequency supports the proposed Christological authorship inference."
+    },
+    {
+      "timestamp": "00:19:05-00:19:51",
+      "claimEn": "The speaker claims that the four occurrences of muhammad may be a descriptive epithet meaning ‘praised’ and can refer to Christ rather than to a person named Muhammad.",
+      "claimAr": "يدّعي المتحدث أن المواضع الأربعة لكلمة «محمد» قد تستعملها صفة بمعنى «المحمود» ويمكن أن تشير إلى المسيح لا إلى شخص اسمه محمد.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "syro-aramaic-quran-hypothesis-christological-readings",
+        "syriac-aramaic-name-muhammad-readings",
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Analyze all four Qur’anic contexts, early inscriptions and coins, Arabic grammar, and the history of Muhammad as a personal name or epithet."
+    },
+    {
+      "timestamp": "00:19:05-00:20:37",
+      "claimEn": "The speaker claims that the references to Ahmad, to ‘Muhammad’ not being anyone’s father, and to a messenger preceded by other messengers fit Jesus or parallel wording used for Jesus better than the traditional Muhammad.",
+      "claimAr": "يدّعي المتحدث أن الإشارات إلى «أحمد» وإلى أن «محمد» ليس أبا أحد وإلى الرسول الذي خلت من قبله الرسل تلائم عيسى أو تكرر صياغة مستعملة فيه أكثر مما تلائم محمد في الرواية التقليدية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings",
+        "syro-aramaic-quran-hypothesis-christological-readings"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the full verses containing Ahmad, ‘Muhammad is not the father,’ ‘Muhammad is only a messenger,’ and ‘the Messiah is only a messenger,’ and compare their syntax and historical interpretation."
+    },
+    {
+      "timestamp": "00:19:51-00:20:37",
+      "claimEn": "The speaker claims that ‘Muhammad was not the father of any of your men’ fits Jesus because Jesus did not marry or have children, whereas traditional biographies give Muhammad wives and children.",
+      "claimAr": "يدّعي المتحدث أن عبارة «ما كان محمد أبا أحد» تلائم عيسى لأنه لم يتزوج ولم يُنجب، بينما تنسب السيرة التقليدية إلى محمد زوجات وأولاداً.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-jesus-verse-readings",
+        "sirah-family-and-household-traditions"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Read the verse’s complete formulation and legal context and compare it with early traditions about Muhammad’s sons and adopted son."
+    },
+    {
+      "timestamp": "00:20:37-00:21:22",
+      "claimEn": "The speaker claims that a Palestinian coin dated 647–658 bears the word muhammad beside a cross-bearing figure, which he treats as evidence that muhammad may have been a Christian epithet or that the early rulers’ religion differed from later Islam.",
+      "claimAr": "يدّعي المتحدث أن عملة فلسطينية مؤرخة بين 647 و658 تحمل كلمة «محمد» إلى جانب شخص يحمل صليباً، ويعدها دليلاً محتملاً على أن «محمد» لقب مسيحي أو أن دين الحكام الأوائل اختلف عن الإسلام اللاحق.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "umayyad-coinage-and-religious-symbols",
+        "sirah-historical-setting-coinage-and-symbols",
+        "early-arab-rulers-religious-identity"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the precise coin type, mint, legend, iconography, date, and scholarly readings of both the standing figure and the word muhammad."
+    },
+    {
+      "timestamp": "00:21:22",
+      "claimEn": "The speaker claims that a Syrian coin dated 686–687 likewise bears muhammad beside a cross-bearing figure.",
+      "claimAr": "يدّعي المتحدث أن عملة سورية مؤرخة بين 686 و687 تحمل كذلك كلمة «محمد» إلى جانب شخص يحمل صليباً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "umayyad-coinage-and-religious-symbols",
+        "sirah-christian-parallels-coins-and-symbols"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the coin and verify its dating, inscriptions, cross imagery, minting authority, and numismatic interpretation."
+    },
+    {
+      "timestamp": "00:21:22-00:22:09",
+      "claimEn": "The speaker concludes from the linguistic, numismatic, and literary material that conventional Islamic history is unlike the obscure historical reality and that most of the Qur’an translates Syriac Christian books and other myths.",
+      "claimAr": "يستنتج المتحدث من الأدلة اللغوية والعملات والتوازي الأدبي أن التاريخ الإسلامي المتداول يختلف عن واقع تاريخي غامض، وأن معظم القرآن ترجمة لكتب مسيحية سريانية وأساطير أخرى.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "earlier-religious-parallels-quran-as-cultural-confluence",
+        "quran-sources-and-cultural-influences",
+        "early-arab-rulers-religious-identity"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate each proposed linguistic, numismatic, and narrative dependency separately before assessing this broad synthesis."
+    },
+    {
+      "timestamp": "00:22:09-00:22:55",
+      "claimEn": "The speaker claims that the sequence in which angels are ordered to bow to Adam, Satan refuses because he was created from fire, and Satan is expelled is absent from the Christian Bible but present in human-authored rabbinic literature more than three centuries before Islam.",
+      "claimAr": "يدّعي المتحدث أن تسلسل أمر الملائكة بالسجود لآدم ورفض الشيطان لأنه خُلق من نار ثم طرده غير موجود في الإنجيل المسيحي، لكنه موجود في أدب حاخامي بشري سابق للإسلام بأكثر من ثلاثة قرون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels-midrash-and-narrative-motifs",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the rabbinic work intended, establish its date and wording, and compare its narrative sequence with all relevant Qur’anic passages and earlier Christian or Jewish sources."
+    },
+    {
+      "timestamp": "00:22:55",
+      "claimEn": "The speaker claims that the Sabbath-breakers story predates Islam in Exodus chapter 16.",
+      "claimAr": "يدّعي المتحدث أن قصة أصحاب السبت سابقة للإسلام وموجودة في سفر الخروج، الإصحاح السادس عشر.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives-biblical-moses",
+        "narrative-origins-moses-and-exodus"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Exodus 16 with the Qur’anic Sabbath-breakers passages and distinguish shared Sabbath law from the Qur’anic transformation narrative."
+    },
+    {
+      "timestamp": "00:22:55-00:23:39",
+      "claimEn": "The speaker claims that the yellow-cow episode in Surat al-Baqara comes from pre-Islamic Jewish legends.",
+      "claimAr": "يدّعي المتحدث أن قصة البقرة الصفراء في سورة البقرة مأخوذة من أساطير يهودية سابقة للإسلام.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels-midrash-and-narrative-motifs",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the alleged Jewish antecedent and compare its date, wording, and plot with the Qur’anic cow episode and Numbers 19."
+    },
+    {
+      "timestamp": "00:22:55-00:23:39",
+      "claimEn": "The speaker claims that Gog and Magog are not distinctively Islamic but occur in the Old Testament and numerous Syriac legendary works.",
+      "claimAr": "يدّعي المتحدث أن يأجوج ومأجوج ليسا فكرة إسلامية خاصة، بل يردان في العهد القديم وفي كتب أسطورية سريانية كثيرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "dhu-al-qarnayn-sunrise-people-and-barrier",
+        "earlier-religious-parallels-christian-quranic-narratives-alexander-tradition"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare Ezekiel, Revelation, Syriac Alexander traditions, and the Qur’anic Gog-and-Magog passages chronologically and textually."
+    },
+    {
+      "timestamp": "00:22:55-00:23:39",
+      "claimEn": "The speaker claims that the flood-and-ark story’s oldest surviving version dates to about 1600 BCE and was successively transmitted into Judaism, Christianity, and Islam.",
+      "claimAr": "يدّعي المتحدث أن أقدم نسخة باقية من قصة الطوفان والسفينة ترجع إلى نحو 1600 قبل الميلاد، وأنها انتقلت لاحقاً إلى اليهودية ثم المسيحية ثم الإسلام.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-greek-and-babylonian-antecedents",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Determine which Mesopotamian flood text and manuscript date the speaker means and compare its motifs with Genesis and Qur’anic Noah passages."
+    },
+    {
+      "timestamp": "00:23:39-00:25:11",
+      "claimEn": "The speaker claims that the maxim equating the killing or saving of one person with killing or saving humanity was copied, together with the Cain and Abel setting, from Mishnah Sanhedrin chapter 4, written more than four centuries before Islam.",
+      "claimAr": "يدّعي المتحدث أن مقولة مساواة قتل نفس أو إحيائها بقتل الناس أو إحيائهم جميعاً نُقلت، مع سياق قابيل وهابيل، من مشناة سنهدرين الفصل الرابع المكتوبة قبل الإسلام بأكثر من أربعة قرون.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels-midrash-and-narrative-motifs",
+        "narrative-origins-extra-biblical-jewish-lore"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Q5:27–32 with the textual forms and dating of Mishnah Sanhedrin 4 and related rabbinic versions, noting wording and addressees."
+    },
+    {
+      "timestamp": "00:24:25-00:25:11",
+      "claimEn": "The speaker claims that the Qur’an addresses the homicide maxim to the Children of Israel because a translator copied the original rabbinic addressee along with the story.",
+      "claimAr": "يدّعي المتحدث أن القرآن وجّه قاعدة القتل إلى بني إسرائيل لأن المترجم نقل المخاطَب الأصلي في المصدر الحاخامي مع القصة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-sources-and-cultural-influences",
+        "jewish-rabbinic-parallels-midrash-and-narrative-motifs"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Examine the transition and addressee in Q5:27–32 and determine whether dependence on a rabbinic source is the best explanation."
+    },
+    {
+      "timestamp": "00:25:11-00:25:56",
+      "claimEn": "The speaker claims that the Companions of the Cave story derives from a pre-Islamic Christian legend about seven Christians fleeing Emperor Decius, being sealed in a cave, sleeping, and awakening later.",
+      "claimAr": "يدّعي المتحدث أن قصة أصحاب الكهف مشتقة من أسطورة مسيحية سابقة للإسلام عن سبعة مسيحيين فروا من الإمبراطور ديسيوس، وأُغلق عليهم الكهف ثم ناموا واستيقظوا لاحقاً.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-kahf-narratives-companions-of-the-cave",
+        "earlier-religious-parallels-christian-quranic-narratives-cave-sleepers"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Compare the Qur’anic account with dated Greek, Syriac, and other versions of the Seven Sleepers legend, including the role of Decius and the number of sleepers."
+    },
+    {
+      "timestamp": "00:25:56",
+      "claimEn": "The speaker claims that the Qur’anic Joseph story repeats the earlier Torah or Bible story with only small changes.",
+      "claimAr": "يدّعي المتحدث أن قصة يوسف القرآنية تكرر قصة أقدم في التوراة أو الكتاب المقدس مع تغييرات بسيطة فقط.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "earlier-religious-parallels-christian-quranic-narratives",
+        "quran-historical-claims-narrative-origins"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare Surat Yusuf with Genesis 37–50 and relevant post-biblical traditions, separating direct biblical parallels from later expansions."
+    },
+    {
+      "timestamp": "00:25:56-00:26:43",
+      "claimEn": "The speaker claims that the Solomon and Queen of Sheba narrative is copied from a Hebrew work he calls the ‘Book of Esther,’ with a rooster mistranslated as the Qur’anic hoopoe.",
+      "claimAr": "يدّعي المتحدث أن قصة سليمان وملكة سبأ منقولة من كتاب عبري يسميه «كتاب إستير»، وأن ديكاً في الأصل تُرجم خطأ إلى الهدهد القرآني.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "jewish-rabbinic-parallels-midrash-and-narrative-motifs",
+        "quran-sources-anachronism-and-conflated-figures"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the Hebrew work actually intended by the speaker, verify whether it contains the claimed story and bird, and compare it with the Qur’anic passage."
+    },
+    {
+      "timestamp": "00:26:43",
+      "claimEn": "The speaker generalizes that every Qur’anic story can be found in sources written hundreds or thousands of years before the Qur’an.",
+      "claimAr": "يعمم المتحدث أن كل قصة في القرآن يمكن العثور على مصدر لها كُتب قبل القرآن بمئات أو آلاف السنين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "narrative-origins-cultural-confluence",
+        "earlier-religious-parallels-quran-as-cultural-confluence"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Test the universal claim story by story and distinguish broad motif similarity from demonstrable textual dependence."
+    },
+    {
+      "timestamp": "00:26:43-00:27:30",
+      "claimEn": "The speaker claims that the Qur’an’s literary quality is weak because it repeatedly substitutes threats of hell and promises of women and drink for rational persuasion.",
+      "claimAr": "يدّعي المتحدث أن المستوى الأدبي للقرآن ضعيف لأنه يستبدل الإقناع العقلي مراراً بالتهديد بالنار والعذاب والوعد بالنساء والشراب.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "paradise-sexual-rewards",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Catalogue the relevant threat and reward passages and assess the speaker’s literary criterion and characterization of their argumentative function."
+    },
+    {
+      "timestamp": "00:27:30-00:28:17",
+      "claimEn": "The speaker claims that the Qur’an lacks narrative and thematic order and cites a block beginning around Q2:221 in which two verses about prayer during conflict interrupt a seventeen-verse discussion of women and divorce.",
+      "claimAr": "يدّعي المتحدث أن القرآن يفتقر إلى الترتيب القصصي والموضوعي، ويستشهد بمقطع يبدأ قرب البقرة 221 تتوسط فيه آيتان عن الصلاة وقت الحرب نقاشاً من سبع عشرة آية عن النساء والطلاق.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-internal-tensions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the stated verse range and literary structure of Surat al-Baqara and review compositional analyses of the allegedly interrupting verses."
+    },
+    {
+      "timestamp": "00:28:17-00:29:01",
+      "claimEn": "The speaker claims that abrupt transitions show that the Qur’an was assembled by collecting and pasting separate fragments rather than composed as an ordered book.",
+      "claimAr": "يدّعي المتحدث أن الانتقالات المفاجئة تدل على أن القرآن جُمّع من مقاطع منفصلة أُلصقت ببعضها، لا أنه أُلّف كتاباً مرتباً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare fragmentary or redactional models with alternative accounts of Qur’anic ring composition, oral style, and thematic coherence."
+    },
+    {
+      "timestamp": "00:28:17-00:29:01",
+      "claimEn": "The speaker claims that more than ninety percent of Qur’anic sentence endings use a stock rhyme for sound alone, producing formulaic filler comparable to copy-and-paste writing.",
+      "claimAr": "يدّعي المتحدث أن أكثر من تسعين في المئة من نهايات الجمل القرآنية تستعمل سجعات جاهزة لمجرد النغمة، فتنتج حشواً صيغياً شبيهاً بالنسخ واللصق.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Define the unit being counted, verify the percentage, and analyze the semantic and structural roles of Qur’anic rhyme endings."
+    },
+    {
+      "timestamp": "00:29:01-00:29:48",
+      "claimEn": "The speaker claims that some Qur’anic passages used by terrorists benefit only perpetrators, make the world more dangerous, and therefore have greater harms than benefits.",
+      "claimAr": "يدّعي المتحدث أن بعض الآيات التي يستخدمها الإرهابيون لا تفيد إلا مرتكبي العنف، وتجعل العالم أخطر، ولذلك تفوق أضرارها فوائدها.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-conflict-and-political-conduct",
+        "quran-obedience-and-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Identify the specific verses intended, their historical and textual contexts, and evidence for their use and effects in militant ideology."
+    },
+    {
+      "timestamp": "00:29:01-00:30:34",
+      "claimEn": "The speaker claims that excessive repetition of stories and figures—giving counts for Lot, Noah, Abraham, Pharaoh, and Moses—is evidence of weak, unnecessary composition rather than divine economy.",
+      "claimAr": "يدّعي المتحدث أن التكرار المفرط للقصص والشخصيات، مع إيراد أعداد لقصة لوط ونوح وذكر إبراهيم وفرعون وموسى، دليل على تأليف ضعيف وغير ضروري لا على إيجاز إلهي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-historical-claims-narrative-origins",
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify each frequency count and distinguish repeated names, episodes, allusions, and distinct retellings before evaluating the literary conclusion."
+    },
+    {
+      "timestamp": "00:29:48-00:30:34",
+      "claimEn": "The speaker claims that prohibitions on pork and carrion are repeated four times, twice nearly verbatim, without adding useful information.",
+      "claimAr": "يدّعي المتحدث أن تحريم لحم الخنزير والميتة تكرر أربع مرات، منها مرتان بالنص نفسه تقريباً، من غير إضافة فائدة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare all Qur’anic dietary-prohibition passages and assess their wording, contexts, and legal functions."
+    },
+    {
+      "timestamp": "00:30:34",
+      "claimEn": "The speaker claims that Theodor Nöldeke, described as a pioneer of Eastern literature, judged that the Qur’an lacked literary sensibility.",
+      "claimAr": "يدّعي المتحدث أن تيودور نولدكه، الذي يصفه برائد الأدب الشرقي، حكم بأن القرآن يفتقر إلى الحس الأدبي.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Locate Nöldeke’s exact statement and context and check whether the speaker represents his literary assessment accurately."
+    },
+    {
+      "timestamp": "00:30:34-00:31:21",
+      "claimEn": "The speaker claims that reports accepted in major hadith collections say that written Qur’anic verses about stoning disappeared after Muhammad’s death when a domestic animal ate the sheet on which they were written.",
+      "claimAr": "يدّعي المتحدث أن روايات مقبولة في مجموعات حديثية كبرى تقول إن آيات قرآنية مكتوبة عن الرجم ضاعت بعد موت محمد عندما أكل حيوان منزلي الصحيفة التي كُتبت عليها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the animal-and-sheet report and the separate stoning-verse reports in each collection named by the speaker, checking wording, chains, grading, and whether he conflates distinct traditions."
+    },
+    {
+      "timestamp": "00:31:21-00:32:07",
+      "claimEn": "The speaker argues that the loss of a revealed verse after Muhammad’s death is incompatible with a deliberate divine plan to reveal and preserve the Qur’an.",
+      "claimAr": "يجادل المتحدث بأن ضياع آية موحى بها بعد موت محمد لا ينسجم مع خطة إلهية مقصودة لإنزال القرآن وحفظه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Distinguish the doctrines of textual preservation, abrogation of recitation, and accidental loss, then evaluate whether the cited reports entail the speaker’s conclusion."
+    },
+    {
+      "timestamp": "00:32:07-00:32:53",
+      "claimEn": "The speaker claims that Umar said the stoning verse had been revealed, that Muhammad and the companions practiced stoning, and that the ruling should continue despite the verse’s absence from the codex.",
+      "claimAr": "يدّعي المتحدث أن عمر قال إن آية الرجم نزلت، وإن محمداً والصحابة رجموا، وإن الحكم ينبغي أن يستمر رغم غياب الآية من المصحف.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "formative-figures-of-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify Umar’s sermon in the hadith collections, its precise wording and grading, and the legal doctrine developed from it."
+    },
+    {
+      "timestamp": "00:32:53-00:33:40",
+      "claimEn": "The speaker claims that retaining the stoning ruling while removing its verse is internally inconsistent, while abolishing the ruling would make the earlier executions under Muhammad unjust.",
+      "claimAr": "يدّعي المتحدث أن إبقاء حكم الرجم مع حذف آيته تناقض داخلي، وأن إلغاء الحكم يجعل إعدامات من رُجموا في عهد محمد غير عادلة.",
+      "claimType": "ethical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-internal-tensions-staged-rulings-and-abrogation",
+        "hadith-ethical-controversies-penalties-and-exercise-of-authority"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Review classical doctrines of abrogation of recitation with retention of ruling and the historical reports of stoning during Muhammad’s lifetime."
+    },
+    {
+      "timestamp": "00:33:40-00:34:27",
+      "claimEn": "The speaker claims that Aisha reported Qur’anic verses prescribing ten known sucklings, later abrogated to five, and that the relevant verses subsequently disappeared after Muhammad’s death.",
+      "claimAr": "يدّعي المتحدث أن عائشة روت وجود آيات قرآنية تفرض عشر رضعات معلومات، ثم نُسخت بخمس، وبعد موت محمد اختفت الآيات المتعلقة بذلك.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "quran-internal-tensions-staged-rulings-and-abrogation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate Aisha’s suckling report in the named and relevant collections, distinguish adult-suckling reports from the ten-to-five abrogation report, and check exact wording and grading."
+    },
+    {
+      "timestamp": "00:34:27-00:35:14",
+      "claimEn": "The speaker claims that Aisha said Surat al-Ahzab originally contained about 200 verses but now contains only 73.",
+      "claimAr": "يدّعي المتحدث أن عائشة قالت إن سورة الأحزاب كانت تضم نحو مئتي آية، بينما لا تضم اليوم إلا ثلاثاً وسبعين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report attributed to Aisha, verify whether it states 200 verses, and examine its chain, textual variants, and scholarly grading."
+    },
+    {
+      "timestamp": "00:34:27-00:35:14",
+      "claimEn": "The speaker claims that al-Bayhaqi’s al-Sunan al-Kubra reports that Surat al-Ahzab was once as long as Surat al-Baqara.",
+      "claimAr": "يدّعي المتحدث أن السنن الكبرى للبيهقي تروي أن سورة الأحزاب كانت بطول سورة البقرة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report in al-Sunan al-Kubra and verify its narrator, wording, chain, and grading."
+    },
+    {
+      "timestamp": "00:34:27-00:35:14",
+      "claimEn": "The speaker claims that hadith reports mention a forgotten Qur’anic sura as long as Surat Bara’a that was never included in the codex.",
+      "claimAr": "يدّعي المتحدث أن روايات حديثية تذكر سورة قرآنية منسية بطول سورة براءة لم تُكتب في المصحف.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "hadith-revelation-and-quranic-text"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the report intended, verify whether it refers to a complete sura or forgotten wording, and examine its collection, chain, and interpretation."
+    },
+    {
+      "timestamp": "00:35:14-00:35:55",
+      "claimEn": "The speaker claims that opponents of Uthman’s codex accused him of deliberately removing two recognized suras called al-Wilaya and al-Nurayn for political reasons.",
+      "claimAr": "يدّعي المتحدث أن معارضي مصحف عثمان اتهموه بحذف سورتين معروفتين هما الولاية والنورين عمداً لأسباب سياسية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon",
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Trace the earliest manuscripts and references to Surat al-Wilaya and Surat al-Nurayn and establish when, by whom, and in what polemical setting they were attributed to the Qur’an."
+    },
+    {
+      "timestamp": "00:35:14-00:35:55",
+      "claimEn": "The speaker claims that if al-Wilaya and al-Nurayn were later fabrications, their successful imitation of Qur’anic style itself refutes the challenge that nobody can produce a sura like the Qur’an.",
+      "claimAr": "يدّعي المتحدث أنه إذا كانت سورتا الولاية والنورين موضوعتين لاحقاً، فإن نجاحهما في محاكاة الأسلوب القرآني ينقض تحدي الإتيان بسورة مثله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Establish the texts’ dates and reception and evaluate the criteria by which stylistic similarity and the Qur’anic imitation challenge are judged."
+    },
+    {
+      "timestamp": "00:35:55",
+      "claimEn": "The speaker claims that Thomas Patrick stated in A Dictionary of Islam that many Qur’anic verses had been removed and that their exact number was unknown.",
+      "claimAr": "يدّعي المتحدث أن توماس باتريك قال في كتاب «قاموس الإسلام» إن آيات قرآنية كثيرة حُذفت وإن عددها الدقيق غير معروف.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the passage in A Dictionary of Islam, verify the author’s identity and exact statement, and identify the primary reports on which it relies."
+    },
+    {
+      "timestamp": "00:35:55-00:36:41",
+      "claimEn": "The speaker claims that Jalal al-Din al-Suyuti estimated that approximately 500 Qur’anic verses had been removed.",
+      "claimAr": "يدّعي المتحدث أن جلال الدين السيوطي قدّر عدد الآيات القرآنية المحذوفة بنحو خمسمئة آية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the work and passage attributed to al-Suyuti and determine whether he states that 500 verses were deleted or is discussing abrogated recitation or variant reports."
+    },
+    {
+      "timestamp": "00:35:55-00:36:41",
+      "claimEn": "The speaker claims that Umar warned people not to say they possessed the whole Qur’an but only what remained of it, because much had been lost.",
+      "claimAr": "يدّعي المتحدث أن عمر حذر الناس من القول إنهم يملكون القرآن كله، وأمرهم بالقول إن لديهم ما بقي منه لأن كثيراً منه ضاع.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-revelation-and-quranic-text",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the statement attributed to Umar, verify its wording, chain, and context, and determine how early scholars understood ‘what has been taken away’ or ‘what remains.’"
+    },
+    {
+      "timestamp": "00:36:41-00:37:27",
+      "claimEn": "The speaker presents the traditional claim that a heavenly preserved Qur’an was dictated piecemeal by Gabriel over twenty-three years, then contrasts it with the absence of a completed book at Muhammad’s death.",
+      "claimAr": "يعرض المتحدث الادعاء التقليدي بأن قرآناً محفوظاً في السماء أملاه جبريل متفرقاً خلال ثلاث وعشرين سنة، ثم يقابله بعدم وجود كتاب مكتمل عند موت محمد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "sirah-revelation-narratives",
+        "quran-textual-transmission-formation-and-chronology-sequence-of-revelation"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare Qur’anic and hadith accounts of the preserved tablet and gradual revelation with early collection narratives and evidence for written codices."
+    },
+    {
+      "timestamp": "00:37:27-00:38:11",
+      "claimEn": "The speaker claims that no Qur’anic codex existed when Muhammad died and that rulers considered collecting the revelations only about twenty years later, while some people objected that such collection was an innovation Muhammad had never undertaken.",
+      "claimAr": "يدّعي المتحدث أنه لم يكن هناك مصحف عند موت محمد، وأن حكاماً لم يفكروا في جمع الآيات إلا بعد نحو عشرين سنة، بينما اعترض آخرون بأن الجمع بدعة لم يفعلها محمد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the Abu Bakr and Uthman collection reports, their chronology, and statements expressing hesitation because Muhammad had not collected the text in that manner."
+    },
+    {
+      "timestamp": "00:38:11-00:38:57",
+      "claimEn": "The speaker claims that the revelations survived only on animal shoulder blades, hides, palm materials, and in the memories of reciters before Uthman assembled and distributed a codex.",
+      "claimAr": "يدّعي المتحدث أن الوحي بقي متفرقاً على أكتاف الحيوانات والجلود ومواد النخل وفي صدور الحفظة، إلى أن جمع عثمان مصحفاً ووزع نسخه.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-committee-and-scribes",
+        "quran-textual-transmission-collection-and-standardization"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the listed writing materials, roles of Abu Bakr, Umar, Zayd, and Uthman, and the chronology in the earliest collection traditions."
+    },
+    {
+      "timestamp": "00:38:11-00:38:57",
+      "claimEn": "The speaker claims that pointing began roughly fifty years after Uthman’s distribution and continued for another fifty years, while vocalization and signs such as hamza were also later additions.",
+      "claimAr": "يدّعي المتحدث أن تنقيط المصحف بدأ بعد نحو خمسين سنة من توزيعه العثماني واستمر خمسين سنة أخرى، وأن التشكيل وعلامات مثل الهمزة أضيفت لاحقاً أيضاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-script-and-orthography",
+        "quran-textual-transmission-readings-and-ahruf-script-basis-of-variants"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check securely dated manuscripts and the historical traditions concerning Abu al-Aswad, Nasr ibn Asim, Yahya ibn Ya'mar, and al-Khalil without assuming the speaker’s round chronology."
+    },
+    {
+      "timestamp": "00:38:57-00:39:43",
+      "claimEn": "The speaker claims that the long post-Muhammadan process of collection, pointing, and vocalization is itself sufficient to cast doubt on the reliability of the standard preservation narrative.",
+      "claimAr": "يدّعي المتحدث أن طول عملية الجمع والتنقيط والتشكيل بعد محمد يكفي بذاته لإثارة الشك في موثوقية رواية الحفظ التقليدية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission",
+        "quran-textual-transmission-script-and-orthography"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Evaluate how oral transmission, consonantal writing, reading traditions, and manuscript agreement affect the inference from later notation to textual unreliability."
+    },
+    {
+      "timestamp": "00:38:57-00:40:26",
+      "claimEn": "The speaker claims that Uthman burned rival codices and even the original hides, palm materials, and other sources said to date from Muhammad’s lifetime.",
+      "claimAr": "يدّعي المتحدث أن عثمان أحرق المصاحف المنافسة، بل أحرق الجلود ومواد النخل وغيرها من الأصول التي قيل إنها ترجع إلى حياة محمد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify exactly what the Uthmanic reports say was burned—complete codices, private sheets, or source materials—and whether any report identifies them as Muhammad-era originals."
+    },
+    {
+      "timestamp": "00:39:43-00:40:26",
+      "claimEn": "The speaker argues that burning the earlier materials destroyed the only strong means of determining whether Uthman’s new codex differed from the revelations written during Muhammad’s lifetime.",
+      "claimAr": "يجادل المتحدث بأن إحراق المواد الأقدم دمّر الوسيلة القوية الوحيدة لمعرفة ما إذا كان مصحف عثمان الجديد يختلف عن الآيات المكتوبة في حياة محمد.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization",
+        "sirah-source-traditions-external-and-material-evidence"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess what independent oral, manuscript, and documentary controls remained after the reported destruction and whether all earlier witnesses were actually eliminated."
+    },
+    {
+      "timestamp": "00:40:26-00:41:11",
+      "claimEn": "The speaker claims that no non-Islamic source or document mentions the word Qur’an before 710, at least eighty years after its alleged completion and sixty years after its alleged distribution.",
+      "claimAr": "يدّعي المتحدث أن أي مصدر أو وثيقة غير إسلامية لم تذكر كلمة «قرآن» قبل سنة 710، أي بعد اكتماله المزعوم بثمانين سنة على الأقل وبعد توزيعه المزعوم بستين سنة.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "documentary-and-epigraphic-evidence",
+        "sirah-source-traditions-external-and-material-evidence",
+        "sirah-historical-setting-earliest-mentions-of-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Survey seventh- and early-eighth-century Greek, Syriac, Armenian, Coptic, Arabic, and other sources for explicit or indirect references to the Qur’an and verify the proposed first attestation in 710."
+    },
+    {
+      "timestamp": "00:41:11-00:41:57",
+      "claimEn": "The speaker claims that external sources likewise do not mention a religion called Islam or a people called Muslims for more than seventy years after Muhammad’s death.",
+      "claimAr": "يدّعي المتحدث أن المصادر الخارجية لا تذكر كذلك ديناً اسمه الإسلام أو جماعة اسمها المسلمون طوال أكثر من سبعين سنة بعد موت محمد.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "sirah-historical-setting-earliest-mentions-of-islam",
+        "non-muslim-witnesses-to-early-islam",
+        "documentary-and-epigraphic-evidence"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check early Arabic inscriptions, papyri, coins, and non-Arabic chronicles for Islam, Muslim, believer, Arab, and related identity terms, noting semantic distinctions."
+    },
+    {
+      "timestamp": "00:41:11-00:42:06",
+      "claimEn": "The speaker claims that historical evidence instead identifies the Umayyad caliph Abd al-Malik ibn Marwan and al-Hajjaj ibn Yusuf as the people who collected the Qur’an.",
+      "claimAr": "يدّعي المتحدث أن الأدلة التاريخية تنسب جمع القرآن بدلاً من ذلك إلى الخليفة الأموي عبد الملك بن مروان ومساعده الحجاج بن يوسف.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "abd-al-malik-unification-of-religion",
+        "quran-textual-transmission-formation-and-chronology-umayyad-era-composition",
+        "umayyad-shaping-of-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the primary Islamic and non-Islamic evidence for Qur’anic work under Abd al-Malik and al-Hajjaj and distinguish collection, copying, orthographic reform, and textual alteration."
+    },
+    {
+      "timestamp": "00:41:57-00:42:06",
+      "claimEn": "The speaker claims that Abd al-Malik admitted collecting the Qur’an in Ramadan and feared dying during that month because of that undertaking.",
+      "claimAr": "يدّعي المتحدث أن عبد الملك اعترف بأنه جمع القرآن في رمضان، وأنه كان يخشى الموت في ذلك الشهر بسبب هذا العمل.",
+      "claimType": "biographical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "abd-al-malik-unification-of-religion",
+        "quran-textual-transmission-formation-and-chronology-umayyad-era-composition"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the statement attributed to Abd al-Malik, verify its Arabic wording, source date, chain, and whether ‘collecting the Qur’an’ has the meaning assigned by the speaker."
+    },
+    {
+      "timestamp": "00:42:06-00:42:50",
+      "claimEn": "The speaker concludes that either Uthman never collected the Qur’an or Abd al-Malik created a new recension altered to support his political and legal needs.",
+      "claimAr": "يستنتج المتحدث أن عثمان إما لم يجمع القرآن أصلاً، وإما أن عبد الملك أنشأ نسخة جديدة عدّلها لتناسب حاجاته السياسية والتشريعية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology-umayyad-era-composition",
+        "umayyad-shaping-of-islam",
+        "formative-figures-of-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the evidence requires either alternative or permits later copying, orthographic regulation, or administrative standardization without substantive rewriting."
+    },
+    {
+      "timestamp": "00:42:50-00:43:27",
+      "claimEn": "The speaker claims that al-Hajjaj ordered all pre-existing codices burned and distributed copies of a new official codex throughout the provinces.",
+      "claimAr": "يدّعي المتحدث أن الحجاج أمر بإحراق كل المصاحف الأقدم ووزع نسخاً من مصحف رسمي جديد على الأمصار.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions",
+        "quran-textual-transmission-formation-and-chronology-umayyad-era-composition"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the reports about al-Hajjaj’s codices and destruction orders, verify their dates and wording, and distinguish textual revision from official copying or orthographic changes."
+    },
+    {
+      "timestamp": "00:42:50-00:43:27",
+      "claimEn": "The speaker claims that Anas ibn Malik answered a question about Uthman’s codex by saying that it had disappeared.",
+      "claimAr": "يدّعي المتحدث أن أنس بن مالك أجاب عن سؤال حول مصحف عثمان بأنه اختفى.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-uthmanic-attribution",
+        "hadith-companions-and-narrators"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the report attributed to Anas, verify its wording, source, chain, and what object the term ‘Uthman’s codex’ designates."
+    },
+    {
+      "timestamp": "00:42:50-00:43:27",
+      "claimEn": "The speaker infers from the reported disappearance that Abd al-Malik and al-Hajjaj burned Uthman’s codex because their new text differed substantially from it.",
+      "claimAr": "يستنتج المتحدث من خبر الاختفاء أن عبد الملك والحجاج أحرقا مصحف عثمان لأن نصهما الجديد كان مختلفاً عنه اختلافاً كبيراً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-collection-and-standardization-umayyad-interventions",
+        "umayyad-shaping-of-islam"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Determine whether the disappearance report is historically connected to al-Hajjaj and whether any surviving evidence demonstrates substantive divergence from an Uthmanic text."
+    },
+    {
+      "timestamp": "00:43:27-00:44:19",
+      "claimEn": "The speaker claims that the Sanaa Qur’anic manuscripts date to the era of Abd al-Malik and show erasure, addition, and alteration of verses.",
+      "claimAr": "يدّعي المتحدث أن مخطوطات القرآن في صنعاء ترجع إلى عصر عبد الملك وتظهر آثار محو وإضافة وتعديل للآيات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-sanaa-palimpsest",
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify which Sanaa fragments are intended, review their radiocarbon and paleographic ranges, and distinguish palimpsest correction, lower-text variants, and alleged verse-level additions or deletions."
+    },
+    {
+      "timestamp": "00:44:49-00:45:34",
+      "claimEn": "The speaker claims that a later British Library Qur’anic manuscript contains about two-thirds of the Qur’an, dates more than a century after Muhammad, lacks vocalization, and has incomplete consonantal pointing.",
+      "claimAr": "يدّعي المتحدث أن مخطوطاً قرآنياً أحدث في المكتبة البريطانية يضم نحو ثلثي القرآن، ويرجع إلى أكثر من قرن بعد محمد، ويخلو من التشكيل ولا يكتمل فيه التنقيط.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating",
+        "quran-textual-transmission-script-and-orthography"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the British Library shelfmark and verify the manuscript’s contents, date, proportion of the Qur’an preserved, vocalization, and pointing."
+    },
+    {
+      "timestamp": "00:45:34-00:46:19",
+      "claimEn": "The speaker claims that the British Library manuscript has 77 verses in Surat al-Anfal rather than the present 75, implying that two verses were later removed.",
+      "claimAr": "يدّعي المتحدث أن مخطوط المكتبة البريطانية يضم 77 آية في سورة الأنفال بدلاً من 75 حالياً، بما يعني عنده حذف آيتين لاحقاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Inspect the identified manuscript and determine whether the difference reflects actual wording, verse division, basmala counting, or a cataloguing convention."
+    },
+    {
+      "timestamp": "00:45:34-00:46:19",
+      "claimEn": "The speaker claims that the manuscript has 130 verses in Surat al-Tawba rather than the present 129, implying that one verse was removed.",
+      "claimAr": "يدّعي المتحدث أن المخطوط يضم 130 آية في سورة التوبة بدلاً من 129 حالياً، بما يعني عنده حذف آية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check whether the stated total is present in the manuscript and whether it reflects text variation or a different verse-counting system."
+    },
+    {
+      "timestamp": "00:45:34-00:46:19",
+      "claimEn": "The speaker claims that the manuscript has 122 verses in Surat Hud rather than the present 123, implying that a verse was later added.",
+      "claimAr": "يدّعي المتحدث أن المخطوط يضم 122 آية في سورة هود بدلاً من 123 حالياً، بما يعني عنده إضافة آية لاحقاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Inspect the manuscript’s Surat Hud and distinguish absent wording from differences in verse segmentation."
+    },
+    {
+      "timestamp": "00:46:19",
+      "claimEn": "The speaker claims that the manuscript has 140 verses in Surat Ta-Ha rather than the present 135, implying that five verses were removed.",
+      "claimAr": "يدّعي المتحدث أن المخطوط يضم 140 آية في سورة طه بدلاً من 135 حالياً، بما يعني عنده حذف خمس آيات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the manuscript and modern verse divisions and determine whether any words or passages are actually absent."
+    },
+    {
+      "timestamp": "00:46:19",
+      "claimEn": "The speaker claims that the manuscript has 111 verses in Surat al-Anbiya rather than the present 112, implying that one verse was later added.",
+      "claimAr": "يدّعي المتحدث أن المخطوط يضم 111 آية في سورة الأنبياء بدلاً من 112 حالياً، بما يعني عنده إضافة آية لاحقاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Check the manuscript’s wording and verse markers and separate counting traditions from textual addition."
+    },
+    {
+      "timestamp": "00:46:19",
+      "claimEn": "The speaker claims that the manuscript has 74 verses in Surat al-Hajj rather than the present 78, implying that four verses were later added.",
+      "claimAr": "يدّعي المتحدث أن المخطوط يضم 74 آية في سورة الحج بدلاً من 78 حالياً، بما يعني عنده إضافة أربع آيات لاحقاً.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Inspect the manuscript’s Surat al-Hajj and determine whether the difference is textual or a recognized verse-numbering variant."
+    },
+    {
+      "timestamp": "00:46:19-00:47:06",
+      "claimEn": "The speaker claims that Surat al-Shuara was titled Ta-Sin-Mim al-Shuara, while Surat al-Naml was titled Ta-Sin al-Naml and contained 94 rather than 93 verses.",
+      "claimAr": "يدّعي المتحدث أن سورة الشعراء كان اسمها «طاسين ميم الشعراء»، وأن سورة النمل كان اسمها «طاسين النمل» وكانت تضم 94 آية بدلاً من 93.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts",
+        "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the headings and verse markers in the identified manuscript and determine whether they are titles, opening-letter labels, or later cataloguing descriptions."
+    },
+    {
+      "timestamp": "00:46:19-00:47:06",
+      "claimEn": "The speaker claims that the manuscript contains numerous additional differences involving letters, words, and pointing beyond the verse counts and titles he lists.",
+      "claimAr": "يدّعي المتحدث أن المخطوط يحتوي على اختلافات كثيرة أخرى في الحروف والكلمات والتنقيط تتجاوز أعداد الآيات والعناوين التي ذكرها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts",
+        "quran-textual-transmission-script-and-orthography"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Obtain a diplomatic transcription and catalogue each claimed orthographic, lexical, and pointing variant against the standard Cairo text."
+    },
+    {
+      "timestamp": "00:47:06",
+      "claimEn": "The speaker concludes that the Qur’an had not reached its present form even by the beginning of the Abbasid period.",
+      "claimAr": "يستنتج المتحدث أن القرآن لم يكن قد بلغ صورته الحالية حتى بداية العصر العباسي.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-textual-transmission-formation-and-chronology",
+        "quran-textual-transmission-formation-and-chronology-umayyad-era-composition"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Compare securely dated Umayyad and early Abbasid manuscripts, inscriptions, reading traditions, and verse-count systems to determine when the consonantal text and later notation reached their recognizable forms."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "event",
+      "timestamp": "00:00:03",
+      "asStatedInVideo": "مجمع نيقية الأول سنة 325 ميلادياً في مدينة نايسيا بتركيا لمناقشة ألوهية المسيح.",
+      "workTitle": "مجمع نيقية الأول",
+      "locator": "325 م",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:37",
+      "asStatedInVideo": "إيريس، أي آريوس، قال إن المسيح ليس إلهاً ولا ابن إله بل رسول بشري عادي.",
+      "workTitle": "آريوس",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:00:37-00:01:56",
+      "asStatedInVideo": "المسيح أو عيسى، موضوع الخلاف حول الألوهية ووصفه بأنه رسول.",
+      "workTitle": "يسوع المسيح",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:15",
+      "asStatedInVideo": "اضطهاد أتباع آريوس وهجرتهم إلى بلاد الشرق والجزيرة العربية.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:01:15",
+      "asStatedInVideo": "طائفة الإيبايونايتس بوصفها جماعة مسيحية أقدم تنكر ألوهية المسيح.",
+      "workTitle": "الإبيونيون",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:02:34-00:03:17",
+      "asStatedInVideo": "هجرة أساقفة أو رجال دين مسيحيين ومعهم كتب سريانية إلى الجزيرة العربية.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:04:45-00:05:24",
+      "asStatedInVideo": "محمد بوصفه الشخص الذي اتهمه معاصروه بالسماع من غيره وبأن أعجمياً يعلمه.",
+      "workTitle": "محمد",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:45",
+      "asStatedInVideo": "آية يقول فيها المعترضون عن محمد إنه «أذن». لم يذكر المتحدث رقمها.",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "ويقولون هو أذن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:45",
+      "asStatedInVideo": "آية تذكر قول المعترضين إنهم سمعوا الآيات من قبل. لم يذكر المتحدث رقمها.",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "وإذا تتلى عليهم آياتنا قالوا قد سمعنا",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:05:24",
+      "asStatedInVideo": "آية ترد على قول المعترضين إن شخصاً أعجمياً يعلم صاحب القرآن. لم يذكر المتحدث رقمها.",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:08:15-00:09:51",
+      "asStatedInVideo": "الآية 146 من سورة الأنعام ولفظ «الحوايا».",
+      "workTitle": "القرآن",
+      "locator": "6:146",
+      "quotedArabic": "ومن البقر والغنم حرمنا عليهم شحومهما إلا ما حملت ظهورهما أو الحوايا",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:03",
+      "asStatedInVideo": "القراءة المقترحة «الجوايا» بدلاً من «الحوايا» بوصفها كلمة سريانية تعني البطون.",
+      "workTitle": "القرآن",
+      "locator": "6:146",
+      "quotedArabic": "إلا ما حملت ظهورهما أو البطون",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:09:51-00:10:37",
+      "asStatedInVideo": "الآية 24 من سورة مريم ولفظ «سرياً».",
+      "workTitle": "القرآن",
+      "locator": "19:24",
+      "quotedArabic": "فناداها من تحتها ألا تحزني قد جعل ربك تحتك سرياً",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:51-00:10:37",
+      "asStatedInVideo": "مريم في سياق ولادة عيسى.",
+      "workTitle": "مريم",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:09:51-00:10:37",
+      "asStatedInVideo": "عيسى بوصفه الطفل الذي يطمئن مريم بحسب قراءة المتحدث.",
+      "workTitle": "عيسى",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:10:37-00:11:28",
+      "asStatedInVideo": "الآية 88 من سورة يوسف ولفظ «مزجاة».",
+      "workTitle": "القرآن",
+      "locator": "12:88",
+      "quotedArabic": "فلما دخلوا عليه قالوا يا أيها العزيز ومسنا وأهلنا الضر وجئنا ببضاعة مزجاة",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "إسماعيل ضمن أسماء الأنبياء التي قال المتحدث إن نطقها سرياني.",
+      "workTitle": "إسماعيل",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "سليمان ضمن أسماء الشخصيات الدينية ذات النطق السرياني المزعوم.",
+      "workTitle": "سليمان",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "إسحاق ضمن الأسماء ذات النطق السرياني المزعوم.",
+      "workTitle": "إسحاق",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "يعقوب ضمن الأسماء ذات النطق السرياني المزعوم.",
+      "workTitle": "يعقوب",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "زكريا ضمن الأسماء ذات النطق السرياني المزعوم.",
+      "workTitle": "زكريا",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:11:28",
+      "asStatedInVideo": "نوح ضمن الأسماء ذات النطق السرياني المزعوم.",
+      "workTitle": "نوح",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:13-00:12:59",
+      "asStatedInVideo": "سورة الكوثر ولفظ «الكوثر» المختلف في معناه.",
+      "workTitle": "القرآن",
+      "locator": "سورة الكوثر؛ لم يذكر رقم آية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:13-00:12:59",
+      "asStatedInVideo": "القرطبي، نُسب إليه ذكر سبعة معانٍ للكوثر.",
+      "workTitle": "القرطبي",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:13-00:12:59",
+      "asStatedInVideo": "ابن النقيب، نُسب إليه ذكر ستة وعشرين معنى للكوثر.",
+      "workTitle": "ابن النقيب",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:59",
+      "asStatedInVideo": "آية من سورة عبس تتضمن لفظ «أباً». لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "سورة عبس؛ لم يذكر رقم الآية",
+      "quotedArabic": "وفاكهة وأباً",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:12:59-00:13:45",
+      "asStatedInVideo": "آية من سورة هود تصف إبراهيم بأنه «لأواه منيب». لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "سورة هود؛ لم يذكر رقم الآية",
+      "quotedArabic": "إن إبراهيم لأواه منيب",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:59-00:13:45",
+      "asStatedInVideo": "إبراهيم، الذي يرى المتحدث أن المفسرين اختاروا له معاني إيجابية لكلمة «أواه».",
+      "workTitle": "إبراهيم",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:45",
+      "asStatedInVideo": "فرعون استُعمل افتراضياً لإظهار ما يراه المتحدث تحيزاً تفسيرياً.",
+      "workTitle": "فرعون",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:13:45-00:14:31",
+      "asStatedInVideo": "الآية 63 من سورة الشعراء ولفظ «الطود العظيم».",
+      "workTitle": "القرآن",
+      "locator": "26:63",
+      "quotedArabic": "فأوحينا إلى موسى أن اضرب بعصاك البحر فانفلق فكان كل فرق كالطود العظيم",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:13:45-00:14:31",
+      "asStatedInVideo": "موسى في آية انشقاق البحر.",
+      "workTitle": "موسى",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:14:31-00:15:18",
+      "asStatedInVideo": "عبارة من سورة الممتحنة عن فوات شيء من الأزواج إلى الكفار. لم يذكر رقم الآية.",
+      "workTitle": "القرآن",
+      "locator": "سورة الممتحنة؛ لم يذكر رقم الآية",
+      "quotedArabic": "وإن فاتكم شيئاً من أزواجكم إلى الكفار",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:15:18-00:16:02",
+      "asStatedInVideo": "آية من سورة النور ترفع الحرج عن الأعمى والمريض وعن الأكل من البيوت وعلى الانفراد أو الاجتماع. لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "سورة النور؛ لم يذكر رقم الآية",
+      "quotedArabic": "ليس على الأعمى حرج ولا على المريض حرج ولا على أنفسكم حرج أن تأكلوا من بيوتكم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:02",
+      "asStatedInVideo": "آية تقول إن كل رسول أُرسل بلسان قومه ليبين لهم. لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "وما أرسلنا من رسول إلا بلسان قومه ليبين لهم",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:52",
+      "asStatedInVideo": "الطبري، نُسب إليه نقل قول عائشة إن محمد لم يفسر إلا آيات قليلة.",
+      "workTitle": "الطبري",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:52",
+      "asStatedInVideo": "عائشة، نُسب إليها خبر قلة تفسير محمد للقرآن.",
+      "workTitle": "عائشة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:16:52-00:17:34",
+      "asStatedInVideo": "محمد بوصفه المكلّف ببيان القرآن للناس.",
+      "workTitle": "محمد",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:18:17-00:19:05",
+      "asStatedInVideo": "اللفظ السرياني «قريان» أو «قريانا» بمعنى كتاب تلاوة الطقوس المسيحية، المقدم أصلاً لكلمة قرآن.",
+      "workTitle": "قريانا",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:05-00:20:37",
+      "asStatedInVideo": "المسيح أو عيسى في المقارنة بين مرات ذكره ومرات ذكر محمد وفي القراءة البديلة لكلمة محمد.",
+      "workTitle": "عيسى المسيح",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:19:05-00:20:37",
+      "asStatedInVideo": "محمد، قيل إن اسمه ورد أربع مرات وإن اللفظ قد يكون صفة لا اسماً.",
+      "workTitle": "محمد",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:05-00:19:51",
+      "asStatedInVideo": "الآية التي تقول إن اسم الرسول «أحمد». لم يذكر المتحدث رقمها.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "اسمه أحمد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:51",
+      "asStatedInVideo": "الآية التي تقول إن محمداً لم يكن أبا أحد. لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "ما كان محمد أبا أحد",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:51-00:20:37",
+      "asStatedInVideo": "آية «وما محمد إلا رسول قد خلت من قبله الرسل». لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "وما محمد إلا رسول قد خلت من قبله الرسل",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:19:51-00:20:37",
+      "asStatedInVideo": "آية «ما المسيح ابن مريم إلا رسول قد خلت من قبله الرسل». لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "ما المسيح ابن مريم إلا رسول قد خلت من قبله الرسل",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:20:37-00:21:22",
+      "asStatedInVideo": "عملة فلسطينية مؤرخة بين 647 و658 تحمل كلمة محمد وصورة شخص يحمل صليباً.",
+      "locator": "فلسطين، 647-658 م",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:21:22",
+      "asStatedInVideo": "عملة سورية مؤرخة بين 686 و687 تحمل كلمة محمد وصورة شخص يحمل صليباً.",
+      "locator": "سوريا، 686-687 م",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:09-00:22:55",
+      "asStatedInVideo": "آدم في قصة السجود ورفض الشيطان.",
+      "workTitle": "آدم",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:09-00:22:55",
+      "asStatedInVideo": "الشيطان الذي رفض السجود لآدم لأنه خُلق من نار.",
+      "workTitle": "الشيطان",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:09-00:22:55",
+      "asStatedInVideo": "الأدب الحاخامي بوصفه مصدر قصة سجود الملائكة لآدم ورفض الشيطان.",
+      "workTitle": "الأدب الحاخامي",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:55",
+      "asStatedInVideo": "سفر الخروج، الإصحاح 16، بوصفه مصدر قصة أصحاب السبت.",
+      "workTitle": "سفر الخروج",
+      "locator": "الإصحاح 16",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:22:55",
+      "asStatedInVideo": "قصة البقرة الصفراء في سورة البقرة. لم يذكر رقم الآيات.",
+      "workTitle": "القرآن",
+      "locator": "سورة البقرة؛ لم يذكر أرقام الآيات",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:55-00:23:39",
+      "asStatedInVideo": "يأجوج ومأجوج بوصفهما شخصيتين سابقتين للإسلام في العهد القديم والأساطير السريانية.",
+      "workTitle": "يأجوج ومأجوج",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:55-00:23:39",
+      "asStatedInVideo": "العهد القديم بوصفه حاوياً لقصة يأجوج ومأجوج.",
+      "workTitle": "العهد القديم",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:22:55-00:23:39",
+      "asStatedInVideo": "كتب أساطير سريانية تتضمن قصة يأجوج ومأجوج، من غير تسمية عمل محدد.",
+      "workTitle": "أساطير سريانية غير مسماة",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:22:55-00:23:39",
+      "asStatedInVideo": "نوح في قصة الطوفان والسفينة.",
+      "workTitle": "نوح",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:22:55-00:23:39",
+      "asStatedInVideo": "أقدم نسخة من قصة الطوفان، قيل إن تاريخها نحو 1600 قبل الميلاد من غير تسمية النص.",
+      "locator": "نحو 1600 ق.م",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:23:39-00:25:11",
+      "asStatedInVideo": "قابيل وهابيل في قصة القتل الأولى.",
+      "workTitle": "قابيل وهابيل",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:23:39-00:25:11",
+      "asStatedInVideo": "الآية التي تشبه قتل نفس بقتل الناس جميعاً وإحياءها بإحياء الناس جميعاً. لم يذكر رقمها.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "من قتل نفساً بغير نفس فكأنما قتل الناس جميعاً ومن أحياها فكأنما أحيا الناس جميعاً",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:23:39-00:25:11",
+      "asStatedInVideo": "كتاب إسرائيلي سماه المتحدث «مشنا سان هيدريان»، الفصل الرابع.",
+      "workTitle": "مشناة سنهدرين",
+      "locator": "الفصل الرابع",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:25:11-00:25:56",
+      "asStatedInVideo": "الأسطورة المسيحية عن سبعة أشخاص هربوا من الإمبراطور ديسيوس واختبأوا في كهف.",
+      "workTitle": "قصة النيام السبعة أو أصحاب الكهف",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:25:11-00:25:56",
+      "asStatedInVideo": "الإمبراطور الروماني ديسيوس في قصة أصحاب الكهف.",
+      "workTitle": "ديسيوس",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:11-00:25:56",
+      "asStatedInVideo": "سورة الكهف وقصة أصحاب الكهف. لم يذكر أرقام الآيات.",
+      "workTitle": "القرآن",
+      "locator": "سورة الكهف؛ لم يذكر أرقام الآيات",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:56",
+      "asStatedInVideo": "سورة يوسف وقصة يوسف.",
+      "workTitle": "القرآن",
+      "locator": "سورة يوسف",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:25:56",
+      "asStatedInVideo": "التوراة أو الإنجيل بوصفهما حاويين لقصة يوسف قبل القرآن.",
+      "workTitle": "التوراة أو الكتاب المقدس",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:25:56-00:26:43",
+      "asStatedInVideo": "الملك سليمان وملكة سبأ في القصة المقارنة.",
+      "workTitle": "سليمان وملكة سبأ",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:25:56-00:26:43",
+      "asStatedInVideo": "كتاب عبري سماه المتحدث «بوكوف إستر».",
+      "workTitle": "Book of Esther بحسب نطق المتحدث",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:25:56-00:26:43",
+      "asStatedInVideo": "قصة الهدهد في رواية سليمان وملكة سبأ. لم يذكر رقم الآية.",
+      "workTitle": "القرآن",
+      "locator": "لم يذكر رقم الآية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:27:30-00:28:17",
+      "asStatedInVideo": "سورة البقرة ابتداءً من الآية 221 ولمدة سبع عشرة آية، بحسب تحديد المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "2:221 وما بعدها بحسب المتحدث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:29:01-00:30:34",
+      "asStatedInVideo": "لوط، قيل إن قصته تكررت ثماني مرات.",
+      "workTitle": "لوط",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:29:01-00:30:34",
+      "asStatedInVideo": "نوح، قيل إن قصته تكررت إحدى عشرة مرة.",
+      "workTitle": "نوح",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:29:01-00:30:34",
+      "asStatedInVideo": "إبراهيم، قيل إن اسمه ذُكر تسعاً وستين مرة.",
+      "workTitle": "إبراهيم",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:29:01-00:30:34",
+      "asStatedInVideo": "فرعون، قيل إن اسمه ذُكر أربعاً وسبعين مرة.",
+      "workTitle": "فرعون",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:29:01-00:30:34",
+      "asStatedInVideo": "موسى، قيل إن اسمه ذُكر 136 مرة وإن قصته تكررت سبع مرات.",
+      "workTitle": "موسى",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:30:34",
+      "asStatedInVideo": "تيودور نولدك، نُسب إليه القول إن القرآن بلا حس أدبي.",
+      "workTitle": "تيودور نولدكه",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:30:34-00:31:21",
+      "asStatedInVideo": "صحيح البخاري بوصفه أحد الكتب التي قال المتحدث إنها تتضمن روايات آيات الرجم المفقودة.",
+      "workTitle": "صحيح البخاري",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:30:34-00:31:21",
+      "asStatedInVideo": "صحيح مسلم بوصفه أحد الكتب التي قال المتحدث إنها تتضمن روايات آية الرجم.",
+      "workTitle": "صحيح مسلم",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:30:34-00:31:21",
+      "asStatedInVideo": "الموطأ ضمن الكتب التي سماها المتحدث في سياق آية الرجم.",
+      "workTitle": "الموطأ",
+      "author": "مالك بن أنس",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:30:34-00:31:21",
+      "asStatedInVideo": "السنن الكبرى ضمن الكتب التي سماها المتحدث في سياق الآيات المفقودة.",
+      "workTitle": "السنن الكبرى",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:30:34-00:31:21",
+      "asStatedInVideo": "رواية أن فرخة أو معزة دخلت فأكلت الصحيفة التي كانت مكتوبة فيها آيات.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:31:21-00:32:53",
+      "asStatedInVideo": "عمر بن الخطاب في رواية آية الرجم واستمرار حكمها.",
+      "workTitle": "عمر بن الخطاب",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:32:07-00:32:53",
+      "asStatedInVideo": "حديث عمر في آية الرجم، وصفه المتحدث بأنه في أعلى درجات الصحة.",
+      "quotedArabic": "إن الله تعالى بعث محمداً وأنزل عليه الكتاب فكان مما أنزل الله عليه آية الرجم ورجم رسول الله ورجمنا بعده",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:32:07-00:33:40",
+      "asStatedInVideo": "محمد في رواية تطبيق الرجم في حياته.",
+      "workTitle": "محمد",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:33:40-00:34:27",
+      "asStatedInVideo": "عائشة، راوية خبر عشر رضعات ثم خمس رضعات.",
+      "workTitle": "عائشة",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:33:40",
+      "asStatedInVideo": "صحيح البخاري، قال المتحدث إن حديث رضاعة الكبير موجود فيه.",
+      "workTitle": "صحيح البخاري",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:33:40-00:34:27",
+      "asStatedInVideo": "حديث عائشة عن عشر رضعات معلومات ثم نسخها بخمس.",
+      "quotedArabic": "كان مما أنزل من القرآن عشر رضعات معلومات يحرمن ثم نسخن بخمس رضعات معلومات يحرمن",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:34:27-00:35:14",
+      "asStatedInVideo": "عائشة، نُسب إليها أن سورة الأحزاب كانت مئتي آية.",
+      "workTitle": "عائشة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:34:27-00:35:14",
+      "asStatedInVideo": "سورة الأحزاب، قيل إنها كانت مئتي آية ثم صارت 73 آية.",
+      "workTitle": "القرآن",
+      "locator": "سورة الأحزاب",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:34:27-00:35:14",
+      "asStatedInVideo": "البيهقي في نسبة رواية طول سورة الأحزاب.",
+      "workTitle": "أبو بكر البيهقي",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:34:27-00:35:14",
+      "asStatedInVideo": "السنن الكبرى للبيهقي، قيل إنها تذكر أن الأحزاب كانت بطول البقرة.",
+      "workTitle": "السنن الكبرى",
+      "author": "البيهقي",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:34:27-00:35:14",
+      "asStatedInVideo": "سورة البقرة بوصفها معياراً لطول سورة الأحزاب المزعوم.",
+      "workTitle": "القرآن",
+      "locator": "سورة البقرة",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:34:27-00:35:14",
+      "asStatedInVideo": "سورة براءة بوصفها معياراً لطول سورة منسية.",
+      "workTitle": "القرآن",
+      "locator": "سورة براءة أو التوبة",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:35:14-00:35:55",
+      "asStatedInVideo": "عثمان بن عفان في اتهام حذف سورتين من مصحفه.",
+      "workTitle": "عثمان بن عفان",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:35:14-00:35:55",
+      "asStatedInVideo": "نص منسوب إلى القرآن باسم سورة الولاية.",
+      "workTitle": "سورة الولاية",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:35:14-00:35:55",
+      "asStatedInVideo": "نص منسوب إلى القرآن باسم سورة النورين.",
+      "workTitle": "سورة النورين",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:35:55",
+      "asStatedInVideo": "توماس باتريك، نُسب إليه الكلام عن كثرة الآيات المحذوفة.",
+      "workTitle": "توماس باتريك",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:35:55",
+      "asStatedInVideo": "A Dictionary of Islam.",
+      "workTitle": "A Dictionary of Islam",
+      "author": "توماس باتريك بحسب ما ذكره المتحدث",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:35:55-00:36:41",
+      "asStatedInVideo": "جلال الدين السيوطي، نُسب إليه تقدير خمسمئة آية محذوفة.",
+      "workTitle": "جلال الدين السيوطي",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:35:55-00:36:41",
+      "asStatedInVideo": "عمر بن الخطاب، نُسب إليه النهي عن القول بامتلاك القرآن كله.",
+      "workTitle": "عمر بن الخطاب",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:36:41-00:37:27",
+      "asStatedInVideo": "جبريل بوصفه الملك الذي أملى القرآن على محمد.",
+      "workTitle": "جبريل",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:36:41-00:37:27",
+      "asStatedInVideo": "اللوح المحفوظ بوصفه موضع وجود القرآن قبل النزول.",
+      "workTitle": "اللوح المحفوظ",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:37:27-00:38:57",
+      "asStatedInVideo": "عثمان بن عفان بوصفه جامع المصحف وموزع نسخه وفق الرواية التقليدية التي عرضها المتحدث.",
+      "workTitle": "عثمان بن عفان",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:38:11-00:38:57",
+      "asStatedInVideo": "جمع القرآن من أكتاف الحيوانات وجلود الماعز والخراف وورق النخل ومحفوظات القراء.",
+      "workTitle": "جمع المصحف العثماني",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:38:11-00:38:57",
+      "asStatedInVideo": "بدء تنقيط القرآن بعد نحو خمسين سنة ثم استمرار العملية وإضافة التشكيل والهمزة.",
+      "workTitle": "تنقيط المصحف وتشكيله",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:38:57-00:40:26",
+      "asStatedInVideo": "إحراق عثمان للمصاحف الأخرى والمواد الأصلية.",
+      "workTitle": "إحراق المصاحف في عهد عثمان",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:40:26-00:41:11",
+      "asStatedInVideo": "أول ذكر غير إسلامي لكلمة قرآن سنة 710 بحسب المتحدث.",
+      "locator": "710 م",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:41:11-00:41:57",
+      "asStatedInVideo": "غياب مزعوم لذكري الإسلام والمسلمين في المصادر الخارجية لأكثر من سبعين سنة بعد محمد.",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:41:11-00:43:27",
+      "asStatedInVideo": "عبد الملك بن مروان بوصفه جامعاً أو معدلاً للقرآن.",
+      "workTitle": "عبد الملك بن مروان",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:41:11-00:43:27",
+      "asStatedInVideo": "الحجاج بن يوسف الثقفي بوصفه مساعد عبد الملك في جمع المصحف وإحراق النسخ القديمة.",
+      "workTitle": "الحجاج بن يوسف الثقفي",
+      "quotedArabic": "",
+      "confidence": "stated-precisely"
+    },
+    {
+      "citationType": "sirah",
+      "timestamp": "00:41:57-00:42:06",
+      "asStatedInVideo": "قول منسوب إلى عبد الملك إنه جمع القرآن في شهر رمضان وخشي الموت فيه.",
+      "quotedArabic": "جمعت القرآن",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:42:50-00:43:27",
+      "asStatedInVideo": "أمر الحجاج بإحراق المصاحف القديمة وتوزيع نسخ المصحف الجديد على الأمصار.",
+      "workTitle": "تدخلات الحجاج في المصاحف",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:42:50-00:43:27",
+      "asStatedInVideo": "أنس بن مالك، نُسب إليه القول إن مصحف عثمان اختفى.",
+      "workTitle": "أنس بن مالك",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:43:27-00:44:19",
+      "asStatedInVideo": "مخطوطات صنعاء بوصفها من أقدم مخطوطات القرآن وتظهر آثار حذف وإضافة وتعديل.",
+      "workTitle": "مخطوطات صنعاء القرآنية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:44:49-00:47:06",
+      "asStatedInVideo": "مخطوطات أحدث في المكتبة البريطانية تضم نحو ثلثي القرآن وترجع إلى أكثر من مئة سنة بعد محمد؛ لم يذكر المتحدث رقم الحفظ.",
+      "workTitle": "مخطوط قرآني في المكتبة البريطانية",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:45:34-00:46:19",
+      "asStatedInVideo": "سورة الأنفال: 77 آية في المخطوط القديم مقابل 75 اليوم بحسب المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "سورة الأنفال",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:45:34-00:46:19",
+      "asStatedInVideo": "سورة التوبة: 130 آية في المخطوط القديم مقابل 129 اليوم بحسب المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "سورة التوبة",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:45:34-00:46:19",
+      "asStatedInVideo": "سورة هود: 122 آية في المخطوط القديم مقابل 123 اليوم بحسب المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "سورة هود",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:46:19",
+      "asStatedInVideo": "سورة طه: 140 آية في المخطوط القديم مقابل 135 اليوم بحسب المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "سورة طه",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:46:19",
+      "asStatedInVideo": "سورة الأنبياء: 111 آية في المخطوط القديم مقابل 112 اليوم بحسب المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "سورة الأنبياء",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:46:19",
+      "asStatedInVideo": "سورة الحج: 74 آية في المخطوط القديم مقابل 78 اليوم بحسب المتحدث.",
+      "workTitle": "القرآن",
+      "locator": "سورة الحج",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:46:19-00:47:06",
+      "asStatedInVideo": "سورة الشعراء، قيل إن اسمها في المخطوط «الطاسين ميم الشعراء».",
+      "workTitle": "القرآن",
+      "locator": "سورة الشعراء",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:46:19-00:47:06",
+      "asStatedInVideo": "سورة النمل، قيل إن اسمها «طاسين النمل» وإن عدد آياتها 94 بدلاً من 93.",
+      "workTitle": "القرآن",
+      "locator": "سورة النمل",
+      "quotedArabic": "",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "event",
+      "timestamp": "00:47:06",
+      "asStatedInVideo": "العصر العباسي بوصفه الحد الزمني الذي قال المتحدث إن القرآن ظل قبله غير مكتمل.",
+      "workTitle": "بداية الدولة العباسية",
+      "quotedArabic": "",
+      "confidence": "stated-loosely"
+    }
+  ],
+  "topicProposals": []
+}

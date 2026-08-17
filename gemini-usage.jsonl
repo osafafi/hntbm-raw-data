@@ -890,3 +890,5 @@
 {"timestamp": "2026-08-17T03:33:03+00:00", "event": "topic_split_succeeded", "topicId": "quran-internal-tensions", "backend": "claude", "attempts": 1, "durationMs": 73375}
 {"timestamp": "2026-08-17T03:33:03+00:00", "event": "topic_split_started", "topicId": "quran-foreign-vocabulary-and-transmission-routes"}
 {"timestamp": "2026-08-17T03:33:48+00:00", "event": "topic_split_succeeded", "topicId": "quran-foreign-vocabulary-and-transmission-routes", "backend": "claude", "attempts": 1, "durationMs": 45895}
+{"timestamp": "2026-08-17T04:27:03+00:00", "event": "extract_started", "videoId": "vvqgVS8KVJA"}
+{"timestamp": "2026-08-17T04:38:11+00:00", "event": "extract_succeeded", "videoId": "vvqgVS8KVJA", "backend": "codex", "attempts": 1, "durationMs": 667728}
