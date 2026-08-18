@@ -933,3 +933,9 @@
 {"timestamp": "2026-08-17T09:07:55+00:00", "event": "extract_succeeded", "videoId": "ZII2R77JWpc", "backend": "claude", "attempts": 1, "durationMs": 413462}
 {"timestamp": "2026-08-17T09:07:55+00:00", "event": "extract_started", "videoId": "5fYrCxLumdI"}
 {"timestamp": "2026-08-17T09:10:34+00:00", "event": "extract_succeeded", "videoId": "MJAjSx3UKPU", "backend": "codex", "attempts": 1, "durationMs": 319627}
+{"timestamp": "2026-08-18T06:12:21+00:00", "event": "extract_started", "videoId": "5fYrCxLumdI"}
+{"timestamp": "2026-08-18T06:21:22+00:00", "event": "extract_succeeded", "videoId": "5fYrCxLumdI", "backend": "claude", "attempts": 1, "durationMs": 540701}
+{"timestamp": "2026-08-18T06:21:22+00:00", "event": "extract_started", "videoId": "Im6z6PN-Jyc"}
+{"timestamp": "2026-08-18T06:27:28+00:00", "event": "extract_succeeded", "videoId": "Im6z6PN-Jyc", "backend": "claude", "attempts": 1, "durationMs": 366225}
+{"timestamp": "2026-08-18T06:27:28+00:00", "event": "extract_started", "videoId": "3RwGWemw2Jg"}
+{"timestamp": "2026-08-18T06:33:48+00:00", "event": "extract_succeeded", "videoId": "3RwGWemw2Jg", "backend": "claude", "attempts": 1, "durationMs": 380061}

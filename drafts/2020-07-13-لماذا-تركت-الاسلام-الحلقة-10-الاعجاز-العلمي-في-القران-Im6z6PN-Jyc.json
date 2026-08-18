@@ -1,0 +1,881 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Im6z6PN-Jyc",
+  "videoUrl": "https://www.youtube.com/watch?v=Im6z6PN-Jyc",
+  "videoTitle": "لماذا تركت الإسلام - الحلقة 10 - الإعجاز العلمي في القرآن",
+  "creator": "Kosay Betar",
+  "uploadDate": "20200713",
+  "extractedAt": "2026-08-18T06:27:28+00:00",
+  "model": "agent:claude",
+  "verification": "unverified",
+  "notice": "Machine-extracted discovery material. Every citation must be checked against the primary source before publication.",
+  "summaryEn": "Episode 10 of \"Why I left Islam\" argues that the whole concept of scientific miracles (i'jaz 'ilmi) in the Qur'an collapses, not on a verse-by-verse basis but at its foundation. The speaker dissects a viral preacher's video on the \"smoke\" verse to show a method he calls \"cut and patch\": selecting a verse while suppressing the preceding verses, the following verses, and even the remainder of the same verse. He then argues that the Qur'an's own cosmology (earth created first, heaven formed from evaporated water, God's throne on water before creation, confirmed by classical exegesis and a report in Sahih al-Bukhari) contradicts the modern claim. He follows with a methodological argument that science is inductive and provisional so it cannot underwrite an absolute text, notes that no discovery has ever been extracted from the Qur'an, and closes with three logical fallacies he says the i'jaz argument rests on: begging the question through \"how could Muhammad have known?\", cherry-picking of patchable verses while ignoring stars-as-missiles, a flat earth, and female semen, and a non sequitur that infers a divine source from a verified item of information.",
+  "summaryAr": "الحلقة العاشرة من \"لماذا تركت الإسلام\" تقول إن مفهوم الإعجاز العلمي في القرآن فاشل من أساسه لا في تفاصيله. يفكك المتحدث فيديو داعية عن آية الدخان ليبيّن منهجًا يسميه \"القص والترقيع\": انتقاء آية مع إخفاء ما قبلها وما بعدها وحتى تكملة الآية نفسها. ثم يجادل بأن كوزمولوجيا القرآن ذاتها — خلق الأرض أولًا، وتكوّن السماء من بخار الماء، وعرش الله على الماء قبل الخلق كما في تفسير السلف وحديث صحيح البخاري — تناقض الادعاء الحديث. ويتبع ذلك بحجة منهجية أن العلم استقرائي مؤقت فلا يصلح سندًا لنص مطلق، ويشير إلى أنه لم يُستخرج اكتشاف واحد من القرآن، ويختم بثلاث مغالطات منطقية يقوم عليها الإعجاز: التوسل على السؤال بـ\"كيف كان لمحمد أن يعلم\"، وانتقاء الكرز مع تجاهل النجوم الراجمة للشياطين وتسطيح الأرض ومني المرأة، والاستنتاج الزائف الذي يستدل من صحة معلومة على مصدرها.",
+  "argumentSteps": [
+    {
+      "timestamp": "00:00:17",
+      "stepEn": "Opens by stating that scientific miracles were once a reason for his attachment to Islam and became, after long research, a reason to doubt its credibility.",
+      "stepAr": "يفتتح بأن الإعجاز العلمي كان سببًا لتعلقه بالإسلام ثم صار بعد بحث طويل سببًا للتشكيك بمصداقيته."
+    },
+    {
+      "timestamp": "00:00:38",
+      "stepEn": "Explains he abandoned a verse-by-verse rebuttal as a cover-up and will instead show the concept fails at its foundation for three reasons anyone can apply.",
+      "stepAr": "يوضح أنه ترك الرد على كل إعجاز على حدة لأنه تغطية للمشكلة، وسيبيّن بدلاً من ذلك فشل المفهوم من أساسه بثلاثة أسباب يمكن للجميع تطبيقها."
+    },
+    {
+      "timestamp": "00:01:26",
+      "stepEn": "Introduces a preacher's viral clip claiming science found the universe began as smoke, matching the verse on turning to the heaven while it was smoke.",
+      "stepAr": "يعرض مقطع داعية يدّعي أن العلم اكتشف أن الكون بدأ من دخان، وأن ذلك مطابق لآية الاستواء إلى السماء وهي دخان."
+    },
+    {
+      "timestamp": "00:02:08",
+      "stepEn": "Reads the preceding verses to show the earth and its sustenance were finished before God turned to the smoke-heaven, which no scientific account contains.",
+      "stepAr": "يقرأ الآيات السابقة ليبيّن أن الأرض وأقواتها اكتملت قبل الاستواء إلى السماء وهي دخان، وهو ما لا يقوله أي اكتشاف علمي."
+    },
+    {
+      "timestamp": "00:02:49",
+      "stepEn": "Shows the preacher also truncated the same verse, whose continuation addresses the already-existing earth alongside the smoke.",
+      "stepAr": "يبيّن أن الداعية اقتصّ الآية نفسها التي يقرؤها، وتكملتها تخاطب الأرض الموجودة مسبقًا مع الدخان."
+    },
+    {
+      "timestamp": "00:03:30",
+      "stepEn": "Names the method: \"cut\" (selective quotation) and then \"patch\" (forcing the word dukhan to mean cosmic dust or hydrogen gas).",
+      "stepAr": "يسمّي المنهج: القص (الاقتباس الانتقائي) ثم الترقيع (تحميل كلمة دخان معنى الغبار الكوني أو الغاز الهيدروجيني)."
+    },
+    {
+      "timestamp": "00:04:14",
+      "stepEn": "Cites classical exegesis that the smoke came from the breathing of water on the created earth, then was made one heaven and split into seven.",
+      "stepAr": "يستشهد بتفسير السلف أن الدخان من تنفس الماء على الأرض المخلوقة، ثم جُعل سماء واحدة ثم فُتق سبع سماوات."
+    },
+    {
+      "timestamp": "00:04:58",
+      "stepEn": "Concludes from the following verse that the writer of the Qur'an held earth-first, vapour-heaven cosmology, which is scientifically worthless.",
+      "stepAr": "يستنتج من الآية التالية أن كاتب القرآن يعتقد بخلق الأرض أولًا وسماء من بخار، وهو كلام لا قيمة علمية له."
+    },
+    {
+      "timestamp": "00:05:44",
+      "stepEn": "Turns the preacher's own jibe against him: he faults ancient philosophies for putting water before creation, while the Qur'an says exactly that.",
+      "stepAr": "يرتد بسخرية الداعية عليه: يعيب على الفلسفات القديمة قولها بوجود الماء قبل الخلق، والقرآن يقول ذلك تمامًا."
+    },
+    {
+      "timestamp": "00:06:29",
+      "stepEn": "Backs it with the verse on the throne upon the water and with a report in Sahih al-Bukhari answering what existed before creation.",
+      "stepAr": "يدعم ذلك بآية وكان عرشه على الماء وبحديث في صحيح البخاري عمّا كان قبل الخلق."
+    },
+    {
+      "timestamp": "00:07:17",
+      "stepEn": "Challenges preachers instead to explain scientifically how a metaphysical being speaks with a larynx to an earth and heaven that have ears.",
+      "stepAr": "يتحدى الدعاة أن يشرحوا علميًا كيف يتكلم كائن ميتافيزيقي بحنجرة إلى أرض وسماء لهما آذان."
+    },
+    {
+      "timestamp": "00:08:01",
+      "stepEn": "Generalizes the cut-and-patch recipe to all i'jaz preachers and to an audience prepared to believe anything framed with religious formulas.",
+      "stepAr": "يعمّم وصفة القص والترقيع على كل دعاة الإعجاز وعلى جمهور جاهز للتصديق بأي شيء مؤطر بصيغ دينية."
+    },
+    {
+      "timestamp": "00:08:31",
+      "stepEn": "Moves to the first structural objection: science is inductive, limited and provisional; its highest product, theory, is always open to challenge.",
+      "stepAr": "ينتقل للاعتراض البنيوي الأول: العلم استقرائي قاصر مؤقت، وأعلى منتجاته النظرية وهي دائمًا قابلة للطعن."
+    },
+    {
+      "timestamp": "00:09:18",
+      "stepEn": "Draws the consequence: tying an allegedly absolute text to provisional findings means a later revision destroys the miracle.",
+      "stepAr": "يستخرج النتيجة: ربط نص يُفترض أنه مطلق بمعطيات مؤقتة يعني أن أي مراجعة لاحقة تهدم الإعجاز."
+    },
+    {
+      "timestamp": "00:10:01",
+      "stepEn": "Adds the historical test: no Muslim has ever extracted a real discovery from the Qur'an; discoveries are awaited and then retrofitted.",
+      "stepAr": "يضيف الاختبار التاريخي: لم يستخرج مسلم قط اكتشافًا حقيقيًا من القرآن، بل تُنتظر الاكتشافات ثم تُرقّع عليها الآيات."
+    },
+    {
+      "timestamp": "00:10:43",
+      "stepEn": "Illustrates with apologetic clips citing Western scientists, and notes preachers never claim the Qur'an proved science true, only the reverse.",
+      "stepAr": "يمثّل بمقاطع دعوية تستشهد بعلماء غربيين، ويلاحظ أن الدعاة لا يجرؤون على قول إن القرآن أثبت صحة العلم بل العكس فقط."
+    },
+    {
+      "timestamp": "00:11:30",
+      "stepEn": "Opens the logical section with the first fallacy: begging the question through \"how could Muhammad have known this?\".",
+      "stepAr": "يفتتح القسم المنطقي بالمغالطة الأولى: التوسل على السؤال بـ\"كيف كان لمحمد أن يعلم هذه المعلومات\"."
+    },
+    {
+      "timestamp": "00:12:13",
+      "stepEn": "Lays out the argument formally in four steps and shows the conclusion about an angel from beyond the universe does not follow.",
+      "stepAr": "يصوغ الحجة في أربع خطوات ويبيّن أن استنتاج الملاك الآتي من خارج الكون لا يلزم عنها."
+    },
+    {
+      "timestamp": "00:13:45",
+      "stepEn": "Insists an extraordinary law-breaking claim needs extraordinary evidence, and that the only honest answer is \"I don't know\".",
+      "stepAr": "يشدد على أن الادعاء الخارق لقوانين الطبيعة يحتاج أدلة عظيمة، وأن الجواب الصريح الوحيد هو \"لا أعلم\"."
+    },
+    {
+      "timestamp": "00:15:20",
+      "stepEn": "Second fallacy, cherry-picking: only patchable verses are preached while the embarrassing ones are ignored.",
+      "stepAr": "المغالطة الثانية، انتقاء الكرز: لا يُبشَّر إلا بما يمكن ترقيعه وتُتجاهل الآيات المحرجة."
+    },
+    {
+      "timestamp": "00:16:01",
+      "stepEn": "Lists the ignored material: stars as missiles at devils, a flat earth, semen from the back and the woman's semen, and the finger-licking hadith.",
+      "stepAr": "يعدّد المادة المتجاهَلة: النجوم الراجمة للشياطين، وتسطيح الأرض، والمني من الظهر ومني المرأة، وحديث لعق الأصابع."
+    },
+    {
+      "timestamp": "00:16:47",
+      "stepEn": "Third fallacy, the non sequitur: granting a true item of information in the text tells us nothing about its source.",
+      "stepAr": "المغالطة الثالثة، الاستنتاج الزائف: التسليم بصحة معلومة في النص لا يخبرنا شيئًا عن مصدرها."
+    },
+    {
+      "timestamp": "00:17:32",
+      "stepEn": "Formalizes it with a coronavirus-cure example: verifying premise one does not license assuming premise two about the divine source.",
+      "stepAr": "يصوغها بمثال علاج كورونا: التحقق من المقدمة الأولى لا يبيح افتراض صحة المقدمة الثانية عن المصدر الإلهي."
+    },
+    {
+      "timestamp": "00:19:48",
+      "stepEn": "Generalizes with the Flying Spaghetti Monster book analogy: verified content plus an unevidenced origin claim yields only that description.",
+      "stepAr": "يعمّم بمثال كتاب وحش السباكيتي الطائر: محتوى صحيح مع ادعاء مصدر بلا دليل لا ينتج إلا هذا الوصف."
+    },
+    {
+      "timestamp": "00:20:30",
+      "stepEn": "Closes with the thesis that i'jaz is not faith-strengthening but a last attempt to keep the religion alive after its scientific, logical and ethical problems appeared.",
+      "stepAr": "يختم بالأطروحة أن الإعجاز ليس لتقوية الإيمان بل محاولة أخيرة لإبقاء الدين على قيد الحياة بعد ظهور مشاكله العلمية والمنطقية والأخلاقية."
+    },
+    {
+      "timestamp": "00:21:16",
+      "stepEn": "Ends by urging viewers to apply the method themselves rather than take his word, and to be careful about sharing the video.",
+      "stepAr": "ينهي بدعوة المشاهدين لتطبيق الآلية بأنفسهم بدل تصديقه، والحذر في مشاركة الفيديو."
+    }
+  ],
+  "claims": [
+    {
+      "timestamp": "00:00:17",
+      "claimEn": "The speaker claims that the doctrine of scientific miracles in the Qur'an, once one of his reasons for attachment to Islam, became after long research a reason to doubt the religion's credibility.",
+      "claimAr": "يدّعي المتحدث أن الإعجاز العلمي في القرآن، الذي كان يومًا أحد أسباب تعلقه بالدين الإسلامي، تحوّل بعد بحث طويل إلى سبب للتشكيك بمصداقية الدين.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Framing thesis of the episode; nothing to verify against a source beyond confirming it is the speaker's own stated position."
+    },
+    {
+      "timestamp": "00:00:38",
+      "claimEn": "The speaker claims that answering individual miracle claims one by one merely covers the problem, and that the concept of scientific miracles fails at its foundation for three reasons anyone can apply and test.",
+      "claimAr": "يدّعي المتحدث أن الرد على كل ادعاء إعجازي على حدة ليس حلًا للموضوع وإنما تغطية له، وأن مفهوم الإعجاز العلمي فاشل من أساسه لثلاثة أسباب واضحة يمكن للجميع تطبيقها والتأكد من صحتها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Methodological thesis; an editor should check that the three reasons he later gives (provisional science, cherry-picking, and the source/truth gap) are in fact delivered in the episode."
+    },
+    {
+      "timestamp": "00:01:26",
+      "claimEn": "The speaker claims that a widely circulated video by a scientific-miracles preacher argues that modern science discovered the universe began as smoke and that the Qur'an stated this 1500 years ago in the verse about God turning to the heaven while it was smoke.",
+      "claimAr": "يدّعي المتحدث أن فيديو انتشر لداعية من دعاة الإعجاز العلمي يقول إن العلم الحديث اكتشف أن بداية تكوّن الكون كانت من دخان، وأن هذا مذكور في القرآن منذ ألف وخمسمائة عام في قوله ثم استوى إلى السماء وهي دخان.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the preacher's clip and confirm the quoted wording; identify the verse he cites (Q41:11) and check whether modern cosmology is stated as he presents it."
+    },
+    {
+      "timestamp": "00:02:08",
+      "claimEn": "The speaker claims the verses immediately preceding the smoke verse say God created the earth in two days and apportioned its sustenance in four days, so the earth already existed before the stage at which God turned to the smoke-heaven, and no scientific account of the universe's beginning contains that sequence.",
+      "claimAr": "يدّعي المتحدث أن الآيات التي قبل آية الدخان تقول إن الله خلق الأرض في يومين وقدّر أقواتها في أربعة أيام، فالأرض كانت موجودة مسبقًا قبل مرحلة الاستواء إلى السماء وهي دخان، ولا يوجد في الاكتشاف العلمي أن الكون ابتدأ من دخان والأرض موجودة قبله.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion",
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Read Q41:9–12 in full and confirm the stated order of creation; confirm that standard cosmology places no formation of the earth before an early smoke or gas phase."
+    },
+    {
+      "timestamp": "00:02:49",
+      "claimEn": "The speaker claims the preacher truncated the very verse he was reciting, because its continuation addresses both the smoke-heaven and an already-existing earth, and that the preacher did so knowingly since the full verse destroys the miracle he asserts.",
+      "claimAr": "يدّعي المتحدث أن الداعية اقتصّ الآية نفسها التي يقرؤها، لأن تكملتها تخاطب السماء التي هي دخان والأرض الموجودة مسبقًا، وأنه فعل ذلك عن علم لأن إكمال الآية يطعن بالإعجاز الذي أتى به.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Compare the preacher's recitation with the full text of Q41:11 to confirm the truncation; the imputed intent is the speaker's inference, not established."
+    },
+    {
+      "timestamp": "00:03:30",
+      "claimEn": "The speaker claims scientific-miracle arguments follow a fixed method he calls \"cut and patch\": choosing a verse that suits the desired idea while ignoring the preceding verses, the following verses, and the remainder of the same verse.",
+      "claimAr": "يدّعي المتحدث أن حجج الإعجاز العلمي تتبع منهجًا ثابتًا يسميه القص والترقيع: اختيار آية معينة تتناسب مع الفكرة المطلوبة وتجاهل الآيات السابقة واللاحقة وتكملة الآية نفسها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Assess whether the described pattern of selective quotation is documented across a sample of i'jaz publications rather than in this single clip."
+    },
+    {
+      "timestamp": "00:04:14",
+      "claimEn": "The speaker claims that the actual meaning of dukhan in the verse, according to the exegesis of the early generations, is vapour produced when the water on the already-created earth \"breathed\" — God then made that smoke into one heaven and split it into seven heavens over two days, Thursday and Friday — so it is not a description of cosmic dust or hydrogen gas.",
+      "claimAr": "يدّعي المتحدث أن المعنى الحقيقي لكلمة دخان في الآية، بحسب تفسير السلف، هو البخار الناتج عن تنفس الماء الذي على الأرض المخلوقة، ثم جعل الله ذلك الدخان سماءً واحدة ثم فتقها سبع سماوات في يومين هما الخميس والجمعة، فليس وصفًا للغبار الكوني أو الغاز الهيدروجيني.",
+      "claimType": "linguistic",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-lexical-and-interpretive-questions-cosmological-vocabulary",
+        "quran-lexical-and-interpretive-questions-miracle-verse-glosses",
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Trace the quoted exegetical statement about smoke arising from the breathing of water, including the naming of Thursday and Friday, to a specific tafsir (e.g. al-Tabari) and identify its transmitter; the speaker gives no attribution beyond \"the salaf\"."
+    },
+    {
+      "timestamp": "00:04:58",
+      "claimEn": "The speaker claims the following verse, that God completed them as seven heavens in two days and inspired in each heaven its command, shows the writer of the Qur'an believed the earth was created first and that the water upon it evaporated to form the heaven — a scheme with no scientific value whatever.",
+      "claimAr": "يدّعي المتحدث أن الآية التالية التي تقول فقضاهنّ سبع سماوات في يومين وأوحى في كل سماء أمرها تبيّن أن كاتب القرآن يعتقد أن الأرض خُلقت أولًا وأن الماء الذي عليها تبخّر فصار السماء، وهذا الكلام لا قيمة له علميًا أبدًا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation",
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the wording of Q41:12 and whether the sequence it gives, read with the preceding verses and the classical gloss, matches the reconstruction offered here."
+    },
+    {
+      "timestamp": "00:05:44",
+      "claimEn": "The speaker claims the preacher faults all ancient philosophies, ideas and religions of the prophetic era for imagining that water existed before the universe, while exempting Islam from that error.",
+      "claimAr": "يدّعي المتحدث أن الداعية يعيب على كل الفلسفات والأفكار والديانات في زمن البعثة النبوية تخيّلها أن الماء كان موجودًا قبل الكون، ويعفي الإسلام من هذا الخطأ.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Confirm the preacher's quoted statement from the clip, and check independently which pre-Islamic cosmogonies place water before creation."
+    },
+    {
+      "timestamp": "00:06:29",
+      "claimEn": "The speaker claims the Qur'an itself states that water existed before the heavens and the earth, in the verse that God created the heavens and the earth in six days and that his throne was upon the water — placing the Qur'an in exactly the position the preacher condemns in older cultures.",
+      "claimAr": "يدّعي المتحدث أن القرآن نفسه يقول إن الماء كان موجودًا قبل السماوات والأرض، في آية هو الذي خلق السماوات والأرض في ستة أيام وكان عرشه على الماء، فيضع القرآن في الموقف نفسه الذي يعيبه الداعية على الحضارات القديمة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation",
+        "earlier-religious-parallels-ancient-near-eastern-cosmogony",
+        "quran-internal-tensions-natural-world-descriptions"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Verify the wording and reference of the throne-upon-the-water verse (Q11:7) and how classical exegetes read the temporal implication of \"and his throne was upon the water\"."
+    },
+    {
+      "timestamp": "00:06:29",
+      "claimEn": "The speaker claims Sahih al-Bukhari records that when people came to ask Muhammad what existed before the heavens and the earth he answered that God was and nothing else was with him, that his throne was upon the water, that he wrote everything in the Record, and then created the heavens and the earth — basic Islamic information the preacher either does not know or conceals.",
+      "claimAr": "يدّعي المتحدث أن في صحيح البخاري أن الناس جاؤوا يسألون محمدًا عمّا كان قبل السماوات والأرض فقال كان الله ولم يكن شيء غيره وكان عرشه على الماء وكتب في الذكر كل شيء وخلق السماوات والأرض، وهي معلومات إسلامية أساسية يجهلها الداعية أو يخفيها.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the hadith in Sahih al-Bukhari (the speaker gives no book or number) and confirm the wording and the questioners' context as reported."
+    },
+    {
+      "timestamp": "00:07:17",
+      "claimEn": "The speaker claims that a preacher wanting to talk science should first explain how a metaphysical being speaks with a larynx and says to the earth and the heaven \"come\", and how the earth and the heaven apparently have ears and air through which sound travels.",
+      "claimAr": "يدّعي المتحدث أن على الداعية الذي يريد الحديث في العلم أن يشرح أولًا كيف يتكلم كائن ميتافيزيقي وله حنجرة فيقول للأرض والسماء ائتيا، وكيف يكون لهما آذان يسمعان بها وهواء ينتقل فيه الصوت.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-internal-tensions-natural-world-descriptions",
+        "quran-scientific-claims-cosmology-and-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check the wording of the address to heaven and earth in Q41:11 and how classical and modern commentators treat it — literal speech, metaphor, or command of being."
+    },
+    {
+      "timestamp": "00:08:01",
+      "claimEn": "The speaker claims cut-and-patch is not peculiar to this preacher but is what all of them do, and that the recipe is easy for anyone: take any verse mentioning something in nature, ignore its context and the other verses on the same subject, then find a scientific finding that roughly matches once the words are given new meanings.",
+      "claimAr": "يدّعي المتحدث أن القص والترقيع ليس حكرًا على هذا الداعية بل يفعله جميعهم، وأن الوصفة سهلة على أي أحد: خذ أي آية تتكلم عن شيء في الطبيعة، تجاهل سياقها وسائر الآيات في الموضوع نفسه، ثم ابحث عن اكتشاف علمي يتماشى نوعًا ما بعد تبديل معاني الكلمات.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Test the generalization against a sample of well-known i'jaz claims to see whether the described procedure recurs."
+    },
+    {
+      "timestamp": "00:08:31",
+      "claimEn": "The speaker claims that i'jaz preaching works because it is addressed to an audience ready to believe anything blindly as long as the video opens with the basmala and a greeting and closes with beautiful Qur'anic verses.",
+      "claimAr": "يدّعي المتحدث أن دعوة الإعجاز تنجح لأنها موجّهة إلى جمهور جاهز للتصديق بشكل أعمى ما دام الفيديو يبدأ ببسم الله الرحمن الرحيم والسلام عليكم وينتهي بآيات قرآنية جميلة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Sociological assertion about audience reception; would need survey or reception-study evidence rather than textual verification."
+    },
+    {
+      "timestamp": "00:09:18",
+      "claimEn": "The speaker claims science is a limited inductive mechanism tied to human knowledge, produces no absolute claims or absolute facts, proceeds from observation to idea to hypothesis to theory, and that a theory — its highest product — is always open to challenge.",
+      "claimAr": "يدّعي المتحدث أن العلم آلية استقرائية قاصرة مرتبطة بالمعرفة البشرية المحدودة، لا يأتي بادعاءات مطلقة ولا حقائق مطلقة، ويسير من الرصد إلى الفكرة إلى الفرضية إلى النظرية، وأن النظرية أعلى ما فيه وهي دائمًا قابلة للطعن.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Epistemological framing; an editor may wish to check the characterization of scientific theory against standard philosophy-of-science accounts."
+    },
+    {
+      "timestamp": "00:09:18",
+      "claimEn": "The speaker claims the i'jaz argument compares the Qur'an, which is supposed to consist of absolute truths, with science, whose findings are necessarily temporary, so that if the smoke-origin finding were overturned in 2060 or 2070 the alleged miracle would collapse with it.",
+      "claimAr": "يدّعي المتحدث أن حجة الإعجاز تقارن القرآن الذي يُفترض أنه حقائق مطلقة بالعلم الذي هو حقائق مؤقتة بالضرورة، فلو تبيّن في 2060 أو 2070 أن بداية الكون من الدخان معلومة خاطئة لسقط الإعجاز المزعوم معها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Logical objection; check whether i'jaz literature acknowledges this dependency and how it answers the revision problem."
+    },
+    {
+      "timestamp": "00:10:01",
+      "claimEn": "The speaker claims that if a god existed, tying his supposedly absolute knowledge to provisional human science would be the greatest insult to that knowledge.",
+      "claimAr": "يدّعي المتحدث أنه إن كان هناك إله فعلًا، فربط معلوماته المطلقة بالعلم البشري المؤقت هو أكبر إهانة لمعلومات هذا الإله.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Rhetorical theological inference; nothing external to check."
+    },
+    {
+      "timestamp": "00:10:01",
+      "claimEn": "The speaker claims that if the Qur'an really contained scientific miracles, Muslims at some point in history or in the present would have extracted at least one genuine discovery literally from the text, and that this has never once happened.",
+      "claimAr": "يدّعي المتحدث أنه لو كان في القرآن إعجاز علمي حقيقي لاكتشف المسلمون عبر التاريخ أو في وقتنا الحالي ولو مرة واحدة شيئًا مستخرجًا من القرآن استخراجًا تامًا، وأن هذا لم يحصل أبدًا.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the history of science for any documented discovery derived predictively from a Qur'anic verse before its independent establishment; an argument from absence that requires a survey to sustain."
+    },
+    {
+      "timestamp": "00:10:01",
+      "claimEn": "The speaker claims that on the contrary, miracle preachers always wait for discoveries — especially Western ones they otherwise call infidel — and then bring verses and patch them to fit those discoveries.",
+      "claimAr": "يدّعي المتحدث أن دعاة الإعجاز على العكس ينتظرون دائمًا الاكتشافات وخاصة الغربية الكافرة في وصفهم، ثم يأتون بالآيات ويرقّعونها لتتماشى مع تلك الاكتشافات.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Check the chronology of prominent i'jaz claims against the dates of the scientific findings they invoke."
+    },
+    {
+      "timestamp": "00:10:43",
+      "claimEn": "The speaker plays apologetic material that appeals to Western scientific authority — a study by the University of Georgia, an American marine scientist named Professor Hill, and a Canadian embryologist named Keith Moore described as a leading figure in human embryology.",
+      "claimAr": "يعرض المتحدث مادة دعوية تستند إلى سلطة العلماء الغربيين: دراسة قامت بها جامعة جورجيا، وعالم بحار أمريكي اسمه البروفيسور هيل، وعالم أجنة كندي اسمه كيث مور يوصف بأنه علم بارز في علم الأجنة البشرية.",
+      "claimType": "historical",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "needs-secondary-literature",
+      "verificationNote": "Identify the University of Georgia study and \"Professor Hill\" as used in da'wah material, and check Keith Moore's actual involvement with the i'jaz commission and any later statements he made."
+    },
+    {
+      "timestamp": "00:10:43",
+      "claimEn": "The speaker claims science never patches its ideas to fit the Qur'an or any other holy book, and that miracle preachers accordingly say \"science proved the Qur'an true\" but never dare say \"the Qur'an proved science true\".",
+      "claimAr": "يدّعي المتحدث أن العلم لا يرقّع أفكاره لتتماشى مع القرآن أو أي كتاب مقدس آخر، ولذلك يقول دعاة الإعجاز إن العلم أثبت صحة القرآن ولا يجرؤون على قول إن القرآن أثبت صحة العلم.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether i'jaz literature ever asserts the reverse direction of proof, and whether the asymmetry is as consistent as claimed."
+    },
+    {
+      "timestamp": "00:11:30",
+      "claimEn": "The speaker claims the first fallacy underpinning scientific miracles belongs to the preachers themselves: after presenting a miracle claim they always ask \"how could Muhammad have known this?\", a question that supplies no evidence for their favoured answer but assumes it, which is begging the question.",
+      "claimAr": "يدّعي المتحدث أن المغالطة الأولى التي يقوم عليها الإعجاز العلمي هي مغالطة الدعاة أنفسهم: بعد عرض الادعاء الإعجازي يسألون دائمًا كيف كان لمحمد أن يعلم هذه المعلومات، وهو سؤال لا يقدّم دليلًا على جوابهم المفضّل بل يفترض صحته، أي التوسل على السؤال.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Logical analysis; check that the rhetorical question is in fact standard in i'jaz presentations and that the fallacy is correctly identified."
+    },
+    {
+      "timestamp": "00:11:30",
+      "claimEn": "The speaker claims the miracle argument does not even rise to being a logical structure, because a logical argument may contain only statements whose truth can be checked, and this one contains a question.",
+      "claimAr": "يدّعي المتحدث أن حجة الإعجاز لا ترتقي أصلًا إلى بناء منطقي، لأن البناء المنطقي لا يتضمن إلا ادعاءات يمكن التأكد من صحتها، وهذه الحجة تتضمن سؤالًا.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Formal-logic assertion about premises and questions; verifiable against standard treatments of argument form."
+    },
+    {
+      "timestamp": "00:12:13",
+      "claimEn": "The speaker claims the argument reconstructed formally runs: the Qur'an contains a verse giving scientific information solving global warming; experiment shows the information correct; how could Muhammad have known this; therefore Muhammad must communicate with an angel bringing him messages from outside the universe — and that this conclusion is invalid.",
+      "claimAr": "يدّعي المتحدث أن الحجة إذا صيغت منطقيًا تكون: القرآن فيه آية تقدّم معلومة علمية لحل الاحتباس الحراري، وبعد التجربة اتضح أن المعلومة صحيحة، وكيف كان لمحمد أن يعلم بهذه الأمور، إذن محمد حتمًا يتواصل مع ملاك يأتيه برسائل من خارج الكون، وأن هذا الاستنتاج فاسد.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether the reconstruction is a fair rendering of the apologetic argument as its proponents state it."
+    },
+    {
+      "timestamp": "00:13:00",
+      "claimEn": "The speaker claims that establishing an item of information in the Qur'an to be true says nothing about where that information came from, that there could be thousands of routes by which Muhammad obtained it, and that the preachers select one route only while offering no evidence for it.",
+      "claimAr": "يدّعي المتحدث أن ثبوت صحة معلومة في القرآن لا يخبرنا شيئًا عن مصدرها، وأن هناك آلاف الطرق التي قد يكون محمد أتى بها منها، وأن الدعاة يختارون طريقًا واحدًا فقط من دون أي دليل عليه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Logical objection about the gap between truth and provenance; no external source required."
+    },
+    {
+      "timestamp": "00:13:45",
+      "claimEn": "The speaker claims that the assertion that Muhammad communicated with an angel bringing messages from outside the universe is an extraordinary claim breaking the laws of nature, so it requires extraordinary evidence matching it, and that no such evidence is offered — only a loaded question.",
+      "claimAr": "يدّعي المتحدث أن القول بأن محمدًا يتواصل مع ملاك يأتيه برسائل من خارج الكون ادعاء عظيم خارق لقوانين الطبيعة وكاسر للعادة، فيجب أن تقوم عليه أدلة عظيمة تتناسب معه، ولا يوجد شيء من ذلك وإنما سؤال مغالط فقط.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Standard evidentiary principle applied to the revelation claim; nothing external to verify."
+    },
+    {
+      "timestamp": "00:13:45",
+      "claimEn": "The speaker claims the only honest answer to how Muhammad came by such information is \"I don't know\", and that jumping to an unevidenced conclusion is an unjustified move.",
+      "claimAr": "يدّعي المتحدث أن الجواب الصريح الوحيد عن كيفية معرفة محمد بهذه المعلومات هو لا أعلم، وأن القفز إلى استنتاج لا دليل عليه حركة غير مبررة.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Epistemic position statement; nothing external to verify."
+    },
+    {
+      "timestamp": "00:15:20",
+      "claimEn": "The speaker claims all of the preceding analysis is granted only for argument's sake, since he does not accept that any miracle actually exists in the Qur'an.",
+      "claimAr": "يدّعي المتحدث أن كل هذا الكلام مبني على افتراض أن الإعجاز موجود فعلًا في القرآن، وهو أمر لا يوافق عليه أبدًا.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Statement of the speaker's own position; no external check needed."
+    },
+    {
+      "timestamp": "00:15:20",
+      "claimEn": "The speaker claims the second fallacy used to build the concept of scientific miracles is cherry-picking: selecting the information and evidence that supports the preferred conclusion and ignoring everything that undermines it, exactly as the shaykhs do.",
+      "claimAr": "يدّعي المتحدث أن المغالطة الثانية التي يُبنى عليها مفهوم الإعجاز العلمي هي انتقاء الكرز: اختيار المعلومات والأدلة التي تدعم الاستنتاج المفضّل وتجاهل كل ما يطعن فيه، تمامًا كما يفعل الشيوخ.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria",
+        "scientific-miracles-apologetics-movement"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check whether i'jaz literature engages the awkward passages the speaker lists or passes over them."
+    },
+    {
+      "timestamp": "00:15:20",
+      "claimEn": "The speaker claims we constantly hear miracle claims about the Big Bang and the stages of embryonic development — all of which he says are wrong but are always patched into correctness — while no one ever preaches a miracle in the verses about stars that are hurled at devils.",
+      "claimAr": "يدّعي المتحدث أننا نسمع دائمًا إعجازًا عن الانفجار العظيم وعن مراحل تطور الجنين، وكلها في رأيه خاطئة لكنها تُرقَّع دائمًا لتبدو صحيحة، بينما لا نسمع أي إعجاز عن النجوم التي تُرجم بها الشياطين.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors",
+        "quran-scientific-claims-cosmology-and-creation-separation-of-heaven-and-earth",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the verses on stars as missiles against eavesdropping devils (the speaker cites none by number) and confirm that i'jaz literature does not advance them as miracles."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims no one preaches a scientific miracle in the material presenting the earth as flat.",
+      "claimAr": "يدّعي المتحدث أننا لا نسمع أي إعجاز علمي في المادة التي تقول إن الأرض مسطحة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-earth-and-natural-phenomena",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "The speaker cites no verse; an editor must identify which passages he has in mind (spreading of the earth, and similar) and how they are read classically."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims no one preaches a miracle in the notion that a man's semen forms in his back and a woman's semen in her chest or the place of the necklace, and that the Qur'an holds a woman has semen rather than an ovum.",
+      "claimAr": "يدّعي المتحدث أن أحدًا لا يأتي بإعجاز في أن المني عند الرجل يتكوّن في الظهر وعند المرأة في الصدر أو موقع القلادة، وأن القرآن يعتقد أن للمرأة منيًّا وليس بويضة.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid",
+        "quran-lexical-and-interpretive-questions-creation-fluid-verse",
+        "quran-scientific-claims-embryology-and-human-creation"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Identify the backbone-and-ribs verse (Q86:6–7, not cited by number here) and the classical glosses assigning the man's fluid to the back and the woman's to the chest; check the claim that no ovum is mentioned."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims that among those who look for miracles in hadith too, no one cites the report that if one of you eats he should not wipe his hand until he licks it or has it licked — which he says would be excellent information in the time of coronavirus.",
+      "claimAr": "يدّعي المتحدث أنه حتى الذين يبحثون عن الإعجاز العلمي في الحديث لا يستشهد أحد منهم بحديث إذا أكل أحدكم فلا يمسح يده حتى يلعقها أو يُلعقها، وهي في قوله معلومات رائعة جدًا في زمن الكورونا.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "evidence",
+      "existingTopicIds": [
+        "hadith-natural-world",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "primary-source-checkable",
+      "verificationNote": "Locate the finger-licking hadith and its collection and grading; the speaker names no collection or locator."
+    },
+    {
+      "timestamp": "00:16:01",
+      "claimEn": "The speaker claims preachers select only what can be patched and ignore what cannot, because the latter would amount to scientific disasters rather than scientific discoveries.",
+      "claimAr": "يدّعي المتحدث أن الدعاة يختارون فقط ما يمكن ترقيعه ويتجاهلون ما لا يمكن ترقيعه، لأن الأخير يكون مصائب علمية لا اكتشافات علمية.",
+      "claimType": "textual",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Assess the selection pattern across published i'jaz material."
+    },
+    {
+      "timestamp": "00:16:47",
+      "claimEn": "The speaker claims the third fallacy is the non sequitur: even granting genuine scientific information in the Qur'an, one cannot conclude that the Qur'an is from God or that Islam is true, because the truth of a piece of information tells us nothing about its source, which requires separate side evidence.",
+      "claimAr": "يدّعي المتحدث أن المغالطة الثالثة هي الاستنتاج الزائف: حتى لو سلّمنا بوجود معلومات علمية حقيقية في القرآن فلا يمكن الوصول إلى أن القرآن من عند الله أو أن الإسلام صحيح، لأن صحة معلومة لا تخبرنا شيئًا عن مصدرها، والمصدر يتطلب أدلة خاصة جانبية.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Logical objection; check the identification of the fallacy and whether i'jaz proponents supply independent evidence for the source premise."
+    },
+    {
+      "timestamp": "00:17:32",
+      "claimEn": "The speaker claims the structure, set out with a coronavirus-cure example, is: Muhammad brought a verse describing a cure; Muhammad claimed the source is God the creator of the universe; experiment confirms the cure works; therefore the Qur'an is from the creator — and the error is treating premise two as established merely because premise one was verified, when premise two cannot be tested the same way.",
+      "claimAr": "يدّعي المتحدث أن البناء، بمثال علاج فيروس كورونا، هو: محمد أتى بآية تصف علاجًا، وادعى أن مصدرها الله خالق الكون، وبعد التجربة اتضح أن الآية تنتج العلاج، إذن القرآن مصدره خالق الكون؛ والخطأ هو افتراض صحة المقدمة الثانية لمجرد أن الأولى تحققت، مع أن الثانية لا يمكن التأكد منها بالطريقة نفسها.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Check the formal analysis of the two premises and whether the asymmetry between them is correctly described."
+    },
+    {
+      "timestamp": "00:19:48",
+      "claimEn": "The speaker claims the same reasoning applies to any book: a five-thousand-year-old book containing scientific claims that experiment confirms and also claiming to come from the Flying Spaghetti Monster would justify only the conclusion that it contains true information plus an unevidenced origin claim.",
+      "claimAr": "يدّعي المتحدث أن المنطق نفسه ينطبق على أي كتاب: لو وجدنا كتابًا عمره خمسة آلاف سنة فيه ادعاءات علمية ثبتت صحتها بالتجربة ويدّعي أيضًا أن مصدره وحش السباكيتي الطائر، فالاستنتاج المبرر الوحيد أنه كتاب فيه معلومات صحيحة وفيه ادعاء لا دليل عليه.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Analogical argument; nothing external to check beyond the soundness of the parallel."
+    },
+    {
+      "timestamp": "00:20:30",
+      "claimEn": "The speaker claims that answering \"if not from the Flying Spaghetti Monster, where did this information come from?\" with anything other than \"I don't know\" is unjustified, and that begging the question is not evidence.",
+      "claimAr": "يدّعي المتحدث أن الجواب عن سؤال إن لم يكن من وحش السباكيتي الطائر فمن أين أتت هذه المعلومات لا يكون إلا لا أعلم إلى أن تظهر أدلة كافية، وأن التوسل على السؤال ليس دليلًا.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [
+        "quran-scientific-claims-miracle-argument-fallacies"
+      ],
+      "checkability": "interpretive",
+      "verificationNote": "Restatement of the burden-of-proof position; nothing external to check."
+    },
+    {
+      "timestamp": "00:20:30",
+      "claimEn": "The speaker claims that although defenders say the scientific-miracles enterprise merely strengthens faith, it is in fact the last attempt to keep the religion alive after it was shown scientifically, logically and ethically to have problems.",
+      "claimAr": "يدّعي المتحدث أنه رغم قول المدافعين إن الإعجاز العلمي لتقوية الإيمان فقط، فهو في الحقيقة المحاولة الأخيرة لإبقاء هذا الدين على قيد الحياة بعد أن ثبت علميًا ومنطقيًا وأخلاقيًا أن فيه مشاكل.",
+      "claimType": "theological",
+      "premiseStance": "supports",
+      "premiseRole": "logical-conclusion",
+      "existingTopicIds": [
+        "scientific-miracles-apologetics-movement",
+        "quran-scientific-claims-method-and-criteria"
+      ],
+      "newTopicIds": [],
+      "checkability": "interpretive",
+      "verificationNote": "Historical-sociological thesis about the function of the i'jaz movement; would need the movement's own history and its stated aims to assess."
+    }
+  ],
+  "citations": [
+    {
+      "citationType": "quran",
+      "timestamp": "00:01:26",
+      "asStatedInVideo": "قوله تعالى ثم استوى إلى السماء وهي دخان — no sura or verse number given by the speaker or the preacher he quotes",
+      "quotedArabic": "ثم استوى إلى السماء وهي دخان",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:08",
+      "asStatedInVideo": "الآية تقول قل أئنكم لتكفرون بالذي خلق الأرض في يومين وتجعلون له أندادا ذلك رب العالمين — quoted without a locator",
+      "quotedArabic": "قل أئنكم لتكفرون بالذي خلق الأرض في يومين وتجعلون له أندادا ذلك رب العالمين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:08",
+      "asStatedInVideo": "وجعل فيها رواسي من فوقها وبارك فيها وقدر فيها أقواتها في أربعة أيام — quoted without a locator",
+      "quotedArabic": "وجعل فيها رواسي من فوقها وبارك فيها وقدر فيها أقواتها في أربعة أيام",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:02:49",
+      "asStatedInVideo": "the continuation of the same verse: فقال لها وللأرض ائتيا طوعا أو كرها قالتا أتينا طائعين",
+      "quotedArabic": "فقال لها وللأرض ائتيا طوعا أو كرها قالتا أتينا طائعين",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:04:58",
+      "asStatedInVideo": "تقول فقضاهن سبع سماوات في يومين وأوحى في كل سماء أمرها — quoted without a locator",
+      "quotedArabic": "فقضاهن سبع سماوات في يومين وأوحى في كل سماء أمرها",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:06:29",
+      "asStatedInVideo": "الآية بتقول هو الذي خلق السماوات والأرض في ستة أيام وكان عرشه على الماء — quoted without a locator",
+      "quotedArabic": "هو الذي خلق السماوات والأرض في ستة أيام وكان عرشه على الماء",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:04:14",
+      "asStatedInVideo": "خذوا كلام السلف الصالح الذي يقول ثم استوى إلى السماء وهي دخان وكان ذلك الدخان من تنفس الماء حين تنفس ... من ثم فتقها فجعلها سبع سماوات في يومين في الخميس والجمعة — an unattributed exegetical report described only as the exegesis of the pious predecessors",
+      "workTitle": "تفسير منسوب إلى السلف الصالح",
+      "locator": "غير محدد",
+      "quotedArabic": "وكان ذلك الدخان من تنفس الماء حين تنفس",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:06:29",
+      "asStatedInVideo": "نقرأ في صحيح البخاري ... قال محمد كان الله ولم يكن شيء غيره وكان عرشه على الماء وكتب في الذكر كل شيء وخلق السماوات والأرض",
+      "workTitle": "صحيح البخاري",
+      "locator": "لم يذكر كتابًا ولا رقمًا",
+      "quotedArabic": "كان الله ولم يكن شيء غيره وكان عرشه على الماء وكتب في الذكر كل شيء وخلق السماوات والأرض",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "لا نسمع أي إعجاز عن النجوم التي ترجم الشياطين — the verses on stars hurled at devils are alluded to with no wording or locator",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "لا نسمع الإعجاز في أن الأرض مسطحة — flat-earth material alluded to with no verse given",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "quran",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "كيف أن المني عند الرجل يتكون في الظهر والمني عند المرأة يتكون في الصدر أو موقع القلادة، نعم القرآن يعتقد أن المرأة لها مني وليس بويضة — paraphrase of the backbone-and-ribs verse with no locator or quotation",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "hadith",
+      "timestamp": "00:16:01",
+      "asStatedInVideo": "إذا أكل أحدكم فلا يمسح يده حتى يلعقها أو يلعقها — quoted with no collection or locator named",
+      "quotedArabic": "إذا أكل أحدكم فلا يمسح يده حتى يلعقها أو يلعقها",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "book",
+      "timestamp": "00:10:43",
+      "asStatedInVideo": "الدراسة قامت بها جامعة جورجيا عام ... — clip of apologetic material citing a University of Georgia study, year inaudible or unstated",
+      "workTitle": "دراسة جامعة جورجيا",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:43",
+      "asStatedInVideo": "وعندما نوقش هذا النص القرآني مع عالم البحار الأمريكي البروفيسور هيل",
+      "author": "البروفيسور هيل / Professor Hill",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:10:43",
+      "asStatedInVideo": "علما بارزا في علم الأجنة البشرية اسمه كيف مور، عالم كندي",
+      "author": "كيث مور / Keith Moore",
+      "confidence": "stated-loosely"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:01:00",
+      "asStatedInVideo": "فيديو لداعية من دعاة الإعجاز العلمي — an unnamed preacher whose clip is played and rebutted throughout the first half",
+      "confidence": "uncertain"
+    },
+    {
+      "citationType": "person",
+      "timestamp": "00:12:13",
+      "asStatedInVideo": "كيف كان لمحمد أن يعلم بهذه الأمور ... إذن محمد حتما يتواصل مع ملاك يأتيه برسائل من خارج الكون — Muhammad as the figure to whom the information is attributed",
+      "author": "محمد",
+      "confidence": "stated-precisely"
+    }
+  ],
+  "topicProposals": [
+    {
+      "proposedId": "quran-scientific-claims-miracle-argument-fallacies",
+      "titleEn": "Logical fallacies in the miracle argument",
+      "titleAr": "المغالطات المنطقية في حجة الإعجاز",
+      "descriptionEn": "Claims analysing the form of the scientific-miracle argument rather than its content: the rhetorical question \"how could Muhammad have known this?\" as begging the question, cherry-picking of patchable verses, the non sequitur from a verified item of information to a divine source, and the burden of proof attached to extraordinary claims.",
+      "descriptionAr": "دعاوى تحلل صورة حجة الإعجاز العلمي لا مضمونها: سؤال كيف كان لمحمد أن يعلم بوصفه توسلاً على السؤال، وانتقاء الكرز في اختيار الآيات القابلة للترقيع، والاستنتاج الزائف من صحة معلومة إلى مصدر إلهي، وعبء الإثبات في الادعاءات الخارقة.",
+      "suggestedParentId": "quran-scientific-claims-method-and-criteria",
+      "closestExistingId": "quran-scientific-claims-method-and-criteria",
+      "rationale": "Half of this episode is a formal analysis of the argument's structure rather than of any verse or scientific finding. The existing method-and-criteria topic covers the conditions a miracle argument must meet and the consistency of its interpretive choices, but not the named logical fallacies and the source-versus-truth gap, which recur across critiques of i'jaz and would collect material from other videos as well."
+    }
+  ]
+}
