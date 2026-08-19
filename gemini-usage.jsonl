@@ -939,3 +939,23 @@
 {"timestamp": "2026-08-18T06:27:28+00:00", "event": "extract_succeeded", "videoId": "Im6z6PN-Jyc", "backend": "claude", "attempts": 1, "durationMs": 366225}
 {"timestamp": "2026-08-18T06:27:28+00:00", "event": "extract_started", "videoId": "3RwGWemw2Jg"}
 {"timestamp": "2026-08-18T06:33:48+00:00", "event": "extract_succeeded", "videoId": "3RwGWemw2Jg", "backend": "claude", "attempts": 1, "durationMs": 380061}
+{"timestamp": "2026-08-19T03:45:55+00:00", "event": "canonicalize_started", "topicId": "(unassigned)", "assertions": 2}
+{"timestamp": "2026-08-19T03:46:13+00:00", "event": "canonicalize_succeeded", "topicId": "(unassigned)", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 17539}
+{"timestamp": "2026-08-19T03:46:13+00:00", "event": "canonicalize_started", "topicId": "abd-al-malik-unification-of-religion", "assertions": 10}
+{"timestamp": "2026-08-19T03:47:36+00:00", "event": "canonicalize_succeeded", "topicId": "abd-al-malik-unification-of-religion", "assertions": 10, "backend": "claude", "attempts": 1, "durationMs": 83191}
+{"timestamp": "2026-08-19T03:47:36+00:00", "event": "canonicalize_started", "topicId": "ascension-narratives-parallels", "assertions": 8}
+{"timestamp": "2026-08-19T03:49:00+00:00", "event": "canonicalize_succeeded", "topicId": "ascension-narratives-parallels", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 84114}
+{"timestamp": "2026-08-19T03:49:00+00:00", "event": "canonicalize_started", "topicId": "astral-religion-and-star-veneration", "assertions": 12}
+{"timestamp": "2026-08-19T03:50:39+00:00", "event": "canonicalize_succeeded", "topicId": "astral-religion-and-star-veneration", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 98584}
+{"timestamp": "2026-08-19T03:50:39+00:00", "event": "canonicalize_started", "topicId": "danielic-test-hypothesis", "assertions": 25}
+{"timestamp": "2026-08-19T03:53:03+00:00", "event": "canonicalize_succeeded", "topicId": "danielic-test-hypothesis", "assertions": 25, "backend": "claude", "attempts": 1, "durationMs": 143886}
+{"timestamp": "2026-08-19T03:53:03+00:00", "event": "canonicalize_started", "topicId": "death-of-muhammad-theories", "assertions": 13}
+{"timestamp": "2026-08-19T03:53:45+00:00", "event": "canonicalize_succeeded", "topicId": "death-of-muhammad-theories", "assertions": 13, "backend": "claude", "attempts": 1, "durationMs": 42127}
+{"timestamp": "2026-08-19T03:53:45+00:00", "event": "canonicalize_started", "topicId": "dhu-al-qarnayn-alexander-romance-and-transmission", "assertions": 8}
+{"timestamp": "2026-08-19T03:54:16+00:00", "event": "canonicalize_succeeded", "topicId": "dhu-al-qarnayn-alexander-romance-and-transmission", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 30801}
+{"timestamp": "2026-08-19T03:54:16+00:00", "event": "canonicalize_started", "topicId": "dhu-al-qarnayn-danielic-vision", "assertions": 3}
+{"timestamp": "2026-08-19T03:54:45+00:00", "event": "canonicalize_succeeded", "topicId": "dhu-al-qarnayn-danielic-vision", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 29499}
+{"timestamp": "2026-08-19T03:54:45+00:00", "event": "canonicalize_started", "topicId": "dhu-al-qarnayn-sunrise-people-and-barrier", "assertions": 9}
+{"timestamp": "2026-08-19T03:55:46+00:00", "event": "canonicalize_succeeded", "topicId": "dhu-al-qarnayn-sunrise-people-and-barrier", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 60474}
+{"timestamp": "2026-08-19T03:55:46+00:00", "event": "canonicalize_started", "topicId": "dhu-al-qarnayn-sunset-spring-passage", "assertions": 11}
+{"timestamp": "2026-08-19T03:56:45+00:00", "event": "canonicalize_succeeded", "topicId": "dhu-al-qarnayn-sunset-spring-passage", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 59484}
