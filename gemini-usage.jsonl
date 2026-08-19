@@ -1337,3 +1337,23 @@
 {"timestamp": "2026-08-19T13:24:30+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-ritual-and-doctrine", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 31459}
 {"timestamp": "2026-08-19T13:24:30+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels-salman-al-farisi", "assertions": 1}
 {"timestamp": "2026-08-19T13:24:41+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-salman-al-farisi", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 11387}
+{"timestamp": "2026-08-19T13:32:38+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:33:01+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 22742}
+{"timestamp": "2026-08-19T13:33:01+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:33:27+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 26074}
+{"timestamp": "2026-08-19T13:33:27+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:33:54+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 27440}
+{"timestamp": "2026-08-19T13:33:54+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:34:16+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 21785}
+{"timestamp": "2026-08-19T13:34:16+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:34:38+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 22143}
+{"timestamp": "2026-08-19T13:34:38+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:34:59+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 21045}
+{"timestamp": "2026-08-19T13:34:59+00:00", "event": "dedupe_started", "pairs": 1}
+{"timestamp": "2026-08-19T13:35:09+00:00", "event": "dedupe_succeeded", "pairs": 1, "backend": "claude", "attempts": 1, "durationMs": 9739}
+{"timestamp": "2026-08-19T13:37:01+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:37:24+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 23594}
+{"timestamp": "2026-08-19T13:37:24+00:00", "event": "dedupe_started", "pairs": 8}
+{"timestamp": "2026-08-19T13:37:48+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 23719}
+{"timestamp": "2026-08-19T13:37:48+00:00", "event": "dedupe_started", "pairs": 4}
+{"timestamp": "2026-08-19T13:38:04+00:00", "event": "dedupe_succeeded", "pairs": 4, "backend": "claude", "attempts": 1, "durationMs": 16444}
