@@ -1409,3 +1409,29 @@
 {"timestamp": "2026-08-19T15:03:36+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 44824}
 {"timestamp": "2026-08-19T15:03:36+00:00", "event": "assess_started", "links": 6}
 {"timestamp": "2026-08-19T15:04:11+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 35554}
+{"timestamp": "2026-08-19T15:31:47+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:31:53+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:32:06+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 19172}
+{"timestamp": "2026-08-19T15:32:06+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:32:15+00:00", "event": "assess_succeeded", "links": 6, "backend": "codex", "attempts": 1, "durationMs": 21983}
+{"timestamp": "2026-08-19T15:32:15+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:32:31+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 24855}
+{"timestamp": "2026-08-19T15:32:31+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:32:36+00:00", "event": "assess_succeeded", "links": 6, "backend": "codex", "attempts": 1, "durationMs": 20610}
+{"timestamp": "2026-08-19T15:32:36+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:32:48+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 17644}
+{"timestamp": "2026-08-19T15:32:48+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:33:03+00:00", "event": "assess_succeeded", "links": 6, "backend": "codex", "attempts": 1, "durationMs": 26989}
+{"timestamp": "2026-08-19T15:33:31+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 42942}
+{"timestamp": "2026-08-19T15:33:31+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:34:09+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 37815}
+{"timestamp": "2026-08-19T15:34:09+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:34:55+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 46045}
+{"timestamp": "2026-08-19T15:35:50+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T15:36:00+00:00", "event": "assess_started", "links": 4}
+{"timestamp": "2026-08-19T15:36:25+00:00", "event": "assess_succeeded", "links": 4, "backend": "codex", "attempts": 1, "durationMs": 24716}
+{"timestamp": "2026-08-19T15:36:38+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 47746}
+{"timestamp": "2026-08-19T15:36:38+00:00", "event": "assess_started", "links": 3}
+{"timestamp": "2026-08-19T15:36:53+00:00", "event": "assess_succeeded", "links": 3, "backend": "claude", "attempts": 1, "durationMs": 15515}
+{"timestamp": "2026-08-19T15:37:27+00:00", "event": "assess_started", "links": 5}
+{"timestamp": "2026-08-19T15:37:44+00:00", "event": "assess_succeeded", "links": 5, "backend": "claude", "attempts": 1, "durationMs": 17659}
