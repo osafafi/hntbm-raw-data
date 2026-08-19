@@ -959,3 +959,23 @@
 {"timestamp": "2026-08-19T03:55:46+00:00", "event": "canonicalize_succeeded", "topicId": "dhu-al-qarnayn-sunrise-people-and-barrier", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 60474}
 {"timestamp": "2026-08-19T03:55:46+00:00", "event": "canonicalize_started", "topicId": "dhu-al-qarnayn-sunset-spring-passage", "assertions": 11}
 {"timestamp": "2026-08-19T03:56:45+00:00", "event": "canonicalize_succeeded", "topicId": "dhu-al-qarnayn-sunset-spring-passage", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 59484}
+{"timestamp": "2026-08-19T04:06:03+00:00", "event": "canonicalize_started", "topicId": "documentary-and-epigraphic-evidence", "assertions": 22}
+{"timestamp": "2026-08-19T04:06:59+00:00", "event": "canonicalize_succeeded", "topicId": "documentary-and-epigraphic-evidence", "assertions": 22, "backend": "claude", "attempts": 1, "durationMs": 56229}
+{"timestamp": "2026-08-19T04:06:59+00:00", "event": "canonicalize_started", "topicId": "dome-of-the-rock-inscriptions", "assertions": 12}
+{"timestamp": "2026-08-19T04:08:51+00:00", "event": "canonicalize_succeeded", "topicId": "dome-of-the-rock-inscriptions", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 112113}
+{"timestamp": "2026-08-19T04:08:51+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels", "assertions": 3}
+{"timestamp": "2026-08-19T04:09:23+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 31242}
+{"timestamp": "2026-08-19T04:09:23+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-ancient-near-eastern-cosmogony", "assertions": 14}
+{"timestamp": "2026-08-19T04:10:52+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-ancient-near-eastern-cosmogony", "assertions": 14, "backend": "claude", "attempts": 1, "durationMs": 89229}
+{"timestamp": "2026-08-19T04:10:52+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-architecture-and-symbols", "assertions": 3}
+{"timestamp": "2026-08-19T04:11:08+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-architecture-and-symbols", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 16361}
+{"timestamp": "2026-08-19T04:11:08+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives", "assertions": 13}
+{"timestamp": "2026-08-19T04:11:41+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives", "assertions": 13, "backend": "claude", "attempts": 1, "durationMs": 32868}
+{"timestamp": "2026-08-19T04:11:41+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-alexander-tradition", "assertions": 8}
+{"timestamp": "2026-08-19T04:12:11+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-alexander-tradition", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 30012}
+{"timestamp": "2026-08-19T04:12:11+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-biblical-moses", "assertions": 11}
+{"timestamp": "2026-08-19T04:12:52+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-biblical-moses", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 41128}
+{"timestamp": "2026-08-19T04:12:52+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-cave-sleepers", "assertions": 9}
+{"timestamp": "2026-08-19T04:14:12+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-cave-sleepers", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 79984}
+{"timestamp": "2026-08-19T04:14:13+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-dome-of-the-rock-christology", "assertions": 1}
+{"timestamp": "2026-08-19T04:14:34+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-dome-of-the-rock-christology", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 21640}
