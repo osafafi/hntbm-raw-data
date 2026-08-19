@@ -1019,3 +1019,321 @@
 {"timestamp": "2026-08-19T04:40:31+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-scripture-titles", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 30143}
 {"timestamp": "2026-08-19T04:40:31+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-syriac-religious-terms", "assertions": 3}
 {"timestamp": "2026-08-19T04:40:51+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-syriac-religious-terms", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 19740}
+{"timestamp": "2026-08-19T11:38:49+00:00", "event": "canonicalize_started", "topicId": "formative-figures-collection-of-the-quran-and-later-caliphs", "assertions": 4}
+{"timestamp": "2026-08-19T11:39:21+00:00", "event": "canonicalize_succeeded", "topicId": "formative-figures-collection-of-the-quran-and-later-caliphs", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 31585}
+{"timestamp": "2026-08-19T11:39:21+00:00", "event": "canonicalize_started", "topicId": "formative-figures-converts-and-informants", "assertions": 6}
+{"timestamp": "2026-08-19T11:39:58+00:00", "event": "canonicalize_succeeded", "topicId": "formative-figures-converts-and-informants", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 36670}
+{"timestamp": "2026-08-19T11:39:58+00:00", "event": "canonicalize_started", "topicId": "formative-figures-of-islam", "assertions": 1}
+{"timestamp": "2026-08-19T11:40:11+00:00", "event": "canonicalize_succeeded", "topicId": "formative-figures-of-islam", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 13048}
+{"timestamp": "2026-08-19T11:40:11+00:00", "event": "canonicalize_started", "topicId": "formative-figures-umar-and-quranic-wording", "assertions": 4}
+{"timestamp": "2026-08-19T11:40:33+00:00", "event": "canonicalize_succeeded", "topicId": "formative-figures-umar-and-quranic-wording", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 22530}
+{"timestamp": "2026-08-19T11:40:33+00:00", "event": "canonicalize_started", "topicId": "formative-figures-umar-biography-and-temperament", "assertions": 4}
+{"timestamp": "2026-08-19T11:41:13+00:00", "event": "canonicalize_succeeded", "topicId": "formative-figures-umar-biography-and-temperament", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 39000}
+{"timestamp": "2026-08-19T11:41:13+00:00", "event": "canonicalize_started", "topicId": "formative-figures-umar-rulings-and-prohibitions", "assertions": 7}
+{"timestamp": "2026-08-19T11:42:16+00:00", "event": "canonicalize_succeeded", "topicId": "formative-figures-umar-rulings-and-prohibitions", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 63255}
+{"timestamp": "2026-08-19T11:42:16+00:00", "event": "canonicalize_started", "topicId": "greek-mythological-parallels", "assertions": 5}
+{"timestamp": "2026-08-19T11:42:54+00:00", "event": "canonicalize_succeeded", "topicId": "greek-mythological-parallels", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 38525}
+{"timestamp": "2026-08-19T11:42:55+00:00", "event": "canonicalize_started", "topicId": "hadith", "assertions": 1}
+{"timestamp": "2026-08-19T11:43:11+00:00", "event": "canonicalize_succeeded", "topicId": "hadith", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 16073}
+{"timestamp": "2026-08-19T11:43:11+00:00", "event": "canonicalize_started", "topicId": "hadith-companions-and-narrators", "assertions": 12}
+{"timestamp": "2026-08-19T11:44:32+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-companions-and-narrators", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 81835}
+{"timestamp": "2026-08-19T11:44:33+00:00", "event": "canonicalize_started", "topicId": "hadith-ethical-controversies", "assertions": 3}
+{"timestamp": "2026-08-19T11:45:00+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-ethical-controversies", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 27566}
+{"timestamp": "2026-08-19T11:46:41+00:00", "event": "canonicalize_started", "topicId": "hadith-ethical-controversies-marital-authority-and-obedience", "assertions": 7}
+{"timestamp": "2026-08-19T11:47:47+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-ethical-controversies-marital-authority-and-obedience", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 66702}
+{"timestamp": "2026-08-19T11:47:47+00:00", "event": "canonicalize_started", "topicId": "hadith-ethical-controversies-modesty-contact-and-repression", "assertions": 7}
+{"timestamp": "2026-08-19T11:48:54+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-ethical-controversies-modesty-contact-and-repression", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 67118}
+{"timestamp": "2026-08-19T11:48:54+00:00", "event": "canonicalize_started", "topicId": "hadith-ethical-controversies-paradise-rewards-and-fighter-motivation", "assertions": 10}
+{"timestamp": "2026-08-19T11:50:09+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-ethical-controversies-paradise-rewards-and-fighter-motivation", "assertions": 10, "backend": "claude", "attempts": 1, "durationMs": 74101}
+{"timestamp": "2026-08-19T11:50:09+00:00", "event": "canonicalize_started", "topicId": "hadith-ethical-controversies-penalties-and-exercise-of-authority", "assertions": 4}
+{"timestamp": "2026-08-19T11:50:50+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-ethical-controversies-penalties-and-exercise-of-authority", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 41235}
+{"timestamp": "2026-08-19T11:50:50+00:00", "event": "canonicalize_started", "topicId": "hadith-ethical-controversies-umar-conduct", "assertions": 5}
+{"timestamp": "2026-08-19T11:51:39+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-ethical-controversies-umar-conduct", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 49126}
+{"timestamp": "2026-08-19T11:51:39+00:00", "event": "canonicalize_started", "topicId": "hadith-natural-world", "assertions": 8}
+{"timestamp": "2026-08-19T11:52:50+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-natural-world", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 71118}
+{"timestamp": "2026-08-19T11:52:50+00:00", "event": "canonicalize_started", "topicId": "hadith-political-fabrication", "assertions": 6}
+{"timestamp": "2026-08-19T11:53:40+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-political-fabrication", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 50103}
+{"timestamp": "2026-08-19T11:53:40+00:00", "event": "canonicalize_started", "topicId": "hadith-revelation-and-quranic-text", "assertions": 18}
+{"timestamp": "2026-08-19T11:55:08+00:00", "event": "canonicalize_succeeded", "topicId": "hadith-revelation-and-quranic-text", "assertions": 18, "backend": "claude", "attempts": 1, "durationMs": 87274}
+{"timestamp": "2026-08-19T11:55:08+00:00", "event": "canonicalize_started", "topicId": "jerusalem-and-al-aqsa-sanctity", "assertions": 7}
+{"timestamp": "2026-08-19T11:55:37+00:00", "event": "canonicalize_succeeded", "topicId": "jerusalem-and-al-aqsa-sanctity", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 29202}
+{"timestamp": "2026-08-19T11:55:37+00:00", "event": "canonicalize_started", "topicId": "jewish-influence-alliance-and-messianic-expectation", "assertions": 3}
+{"timestamp": "2026-08-19T11:55:56+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-influence-alliance-and-messianic-expectation", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 19411}
+{"timestamp": "2026-08-19T12:04:38+00:00", "event": "canonicalize_started", "topicId": "jewish-influence-converts-and-appointed-officials", "assertions": 1}
+{"timestamp": "2026-08-19T12:04:49+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-influence-converts-and-appointed-officials", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10929}
+{"timestamp": "2026-08-19T12:04:49+00:00", "event": "canonicalize_started", "topicId": "jewish-influence-names-and-scriptural-vocabulary", "assertions": 3}
+{"timestamp": "2026-08-19T12:05:10+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-influence-names-and-scriptural-vocabulary", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 20733}
+{"timestamp": "2026-08-19T12:05:10+00:00", "event": "canonicalize_started", "topicId": "jewish-influence-on-early-islam", "assertions": 5}
+{"timestamp": "2026-08-19T12:05:36+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-influence-on-early-islam", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 26400}
+{"timestamp": "2026-08-19T12:05:36+00:00", "event": "canonicalize_started", "topicId": "jewish-rabbinic-parallels", "assertions": 6}
+{"timestamp": "2026-08-19T12:06:05+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-rabbinic-parallels", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 29134}
+{"timestamp": "2026-08-19T12:06:05+00:00", "event": "canonicalize_started", "topicId": "jewish-rabbinic-parallels-midrash-and-narrative-motifs", "assertions": 8}
+{"timestamp": "2026-08-19T12:07:15+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-rabbinic-parallels-midrash-and-narrative-motifs", "assertions": 8, "backend": "claude", "attempts": 2, "durationMs": 38714}
+{"timestamp": "2026-08-19T12:07:15+00:00", "event": "canonicalize_started", "topicId": "jewish-rabbinic-parallels-talmud-and-khidr-narrative", "assertions": 12}
+{"timestamp": "2026-08-19T12:08:06+00:00", "event": "canonicalize_succeeded", "topicId": "jewish-rabbinic-parallels-talmud-and-khidr-narrative", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 50308}
+{"timestamp": "2026-08-19T12:08:06+00:00", "event": "canonicalize_started", "topicId": "jihad-incentive-structure", "assertions": 9}
+{"timestamp": "2026-08-19T12:09:03+00:00", "event": "canonicalize_succeeded", "topicId": "jihad-incentive-structure", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 57038}
+{"timestamp": "2026-08-19T12:09:03+00:00", "event": "canonicalize_started", "topicId": "narrative-origins-ascent-and-night-journey", "assertions": 1}
+{"timestamp": "2026-08-19T12:09:14+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-origins-ascent-and-night-journey", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 11428}
+{"timestamp": "2026-08-19T12:09:14+00:00", "event": "canonicalize_started", "topicId": "narrative-origins-cultural-confluence", "assertions": 4}
+{"timestamp": "2026-08-19T12:09:35+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-origins-cultural-confluence", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 20791}
+{"timestamp": "2026-08-19T12:09:35+00:00", "event": "canonicalize_started", "topicId": "narrative-origins-extra-biblical-jewish-lore", "assertions": 1}
+{"timestamp": "2026-08-19T12:09:58+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-origins-extra-biblical-jewish-lore", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 23048}
+{"timestamp": "2026-08-19T12:10:46+00:00", "event": "canonicalize_started", "topicId": "narrative-origins-khidr-journey-sources", "assertions": 4}
+{"timestamp": "2026-08-19T12:11:21+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-origins-khidr-journey-sources", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 34449}
+{"timestamp": "2026-08-19T12:11:21+00:00", "event": "canonicalize_started", "topicId": "narrative-origins-moses-and-exodus", "assertions": 5}
+{"timestamp": "2026-08-19T12:11:48+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-origins-moses-and-exodus", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 27061}
+{"timestamp": "2026-08-19T12:11:48+00:00", "event": "canonicalize_started", "topicId": "narrative-terms-asatir-al-awwalin", "assertions": 3}
+{"timestamp": "2026-08-19T12:12:06+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-terms-asatir-al-awwalin", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 18686}
+{"timestamp": "2026-08-19T12:12:06+00:00", "event": "canonicalize_started", "topicId": "narrative-terms-dhu-al-qarnayn-wording", "assertions": 1}
+{"timestamp": "2026-08-19T12:12:16+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-terms-dhu-al-qarnayn-wording", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 9877}
+{"timestamp": "2026-08-19T12:12:16+00:00", "event": "canonicalize_started", "topicId": "narrative-terms-khidr-journey-vocabulary", "assertions": 4}
+{"timestamp": "2026-08-19T12:12:34+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-terms-khidr-journey-vocabulary", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 17758}
+{"timestamp": "2026-08-19T12:12:34+00:00", "event": "canonicalize_started", "topicId": "narrative-terms-names-and-titles", "assertions": 3}
+{"timestamp": "2026-08-19T12:12:50+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-terms-names-and-titles", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 15509}
+{"timestamp": "2026-08-19T12:12:50+00:00", "event": "canonicalize_started", "topicId": "narrative-terms-night-travel-verbs", "assertions": 2}
+{"timestamp": "2026-08-19T12:13:09+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-terms-night-travel-verbs", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 18910}
+{"timestamp": "2026-08-19T12:13:09+00:00", "event": "canonicalize_started", "topicId": "narrative-terms-objects-and-agents", "assertions": 5}
+{"timestamp": "2026-08-19T12:13:47+00:00", "event": "canonicalize_succeeded", "topicId": "narrative-terms-objects-and-agents", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 37792}
+{"timestamp": "2026-08-19T12:13:47+00:00", "event": "canonicalize_started", "topicId": "non-muslim-witnesses-to-early-islam", "assertions": 9}
+{"timestamp": "2026-08-19T12:15:16+00:00", "event": "canonicalize_succeeded", "topicId": "non-muslim-witnesses-to-early-islam", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 89443}
+{"timestamp": "2026-08-19T12:15:16+00:00", "event": "canonicalize_started", "topicId": "paradise-sexual-rewards", "assertions": 6}
+{"timestamp": "2026-08-19T12:16:17+00:00", "event": "canonicalize_succeeded", "topicId": "paradise-sexual-rewards", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 60392}
+{"timestamp": "2026-08-19T12:21:21+00:00", "event": "canonicalize_started", "topicId": "pre-islamic-hanif-monotheism", "assertions": 2}
+{"timestamp": "2026-08-19T12:21:35+00:00", "event": "canonicalize_succeeded", "topicId": "pre-islamic-hanif-monotheism", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 14446}
+{"timestamp": "2026-08-19T12:21:35+00:00", "event": "canonicalize_started", "topicId": "pre-islamic-poetry", "assertions": 1}
+{"timestamp": "2026-08-19T12:21:46+00:00", "event": "canonicalize_succeeded", "topicId": "pre-islamic-poetry", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10335}
+{"timestamp": "2026-08-19T12:21:46+00:00", "event": "canonicalize_started", "topicId": "quran", "assertions": 5}
+{"timestamp": "2026-08-19T12:22:29+00:00", "event": "canonicalize_succeeded", "topicId": "quran", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 43657}
+{"timestamp": "2026-08-19T12:22:29+00:00", "event": "canonicalize_started", "topicId": "quran-companion-influence-on-wording", "assertions": 1}
+{"timestamp": "2026-08-19T12:22:45+00:00", "event": "canonicalize_succeeded", "topicId": "quran-companion-influence-on-wording", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 15375}
+{"timestamp": "2026-08-19T12:22:45+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims", "assertions": 2}
+{"timestamp": "2026-08-19T12:22:57+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 11888}
+{"timestamp": "2026-08-19T12:22:57+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-conflated-figures", "assertions": 7}
+{"timestamp": "2026-08-19T12:23:24+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-conflated-figures", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 27390}
+{"timestamp": "2026-08-19T12:23:24+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-elephant-narrative", "assertions": 11}
+{"timestamp": "2026-08-19T12:24:04+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-elephant-narrative", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 40137}
+{"timestamp": "2026-08-19T12:24:04+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-isra-and-al-aqsa", "assertions": 12}
+{"timestamp": "2026-08-19T12:26:04+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-isra-and-al-aqsa", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 119192}
+{"timestamp": "2026-08-19T12:26:04+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-kahf-narratives", "assertions": 7}
+{"timestamp": "2026-08-19T12:27:14+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-kahf-narratives", "assertions": 7, "backend": "claude", "attempts": 2, "durationMs": 39491}
+{"timestamp": "2026-08-19T12:27:14+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-kahf-narratives-companions-of-the-cave", "assertions": 2}
+{"timestamp": "2026-08-19T12:27:29+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-kahf-narratives-companions-of-the-cave", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 14764}
+{"timestamp": "2026-08-19T12:28:50+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-kahf-narratives-moses-khidr-narrative", "assertions": 3}
+{"timestamp": "2026-08-19T12:29:17+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-kahf-narratives-moses-khidr-narrative", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 27631}
+{"timestamp": "2026-08-19T12:29:18+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-narrative-origins", "assertions": 1}
+{"timestamp": "2026-08-19T12:29:27+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-narrative-origins", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 9323}
+{"timestamp": "2026-08-19T12:29:27+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-pharaoh-body", "assertions": 4}
+{"timestamp": "2026-08-19T12:30:07+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-pharaoh-body", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 40163}
+{"timestamp": "2026-08-19T12:30:07+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-revelation-context", "assertions": 11}
+{"timestamp": "2026-08-19T12:30:52+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-revelation-context", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 45164}
+{"timestamp": "2026-08-19T12:30:52+00:00", "event": "canonicalize_started", "topicId": "quran-historical-claims-rulings-and-sanctuaries-setting", "assertions": 3}
+{"timestamp": "2026-08-19T12:31:18+00:00", "event": "canonicalize_succeeded", "topicId": "quran-historical-claims-rulings-and-sanctuaries-setting", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 25625}
+{"timestamp": "2026-08-19T12:31:18+00:00", "event": "canonicalize_started", "topicId": "quran-internal-tensions", "assertions": 3}
+{"timestamp": "2026-08-19T12:31:56+00:00", "event": "canonicalize_succeeded", "topicId": "quran-internal-tensions", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 37488}
+{"timestamp": "2026-08-19T12:31:56+00:00", "event": "canonicalize_started", "topicId": "quran-internal-tensions-narrative-discrepancies", "assertions": 1}
+{"timestamp": "2026-08-19T12:32:13+00:00", "event": "canonicalize_succeeded", "topicId": "quran-internal-tensions-narrative-discrepancies", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 17662}
+{"timestamp": "2026-08-19T12:32:13+00:00", "event": "canonicalize_started", "topicId": "quran-internal-tensions-natural-world-descriptions", "assertions": 3}
+{"timestamp": "2026-08-19T12:32:43+00:00", "event": "canonicalize_succeeded", "topicId": "quran-internal-tensions-natural-world-descriptions", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 29802}
+{"timestamp": "2026-08-19T12:32:43+00:00", "event": "canonicalize_started", "topicId": "quran-internal-tensions-night-journey-verses", "assertions": 2}
+{"timestamp": "2026-08-19T12:33:03+00:00", "event": "canonicalize_succeeded", "topicId": "quran-internal-tensions-night-journey-verses", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 20076}
+{"timestamp": "2026-08-19T12:33:03+00:00", "event": "canonicalize_started", "topicId": "quran-internal-tensions-self-consistency-criterion", "assertions": 3}
+{"timestamp": "2026-08-19T12:33:39+00:00", "event": "canonicalize_succeeded", "topicId": "quran-internal-tensions-self-consistency-criterion", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 35953}
+{"timestamp": "2026-08-19T12:33:54+00:00", "event": "canonicalize_started", "topicId": "quran-internal-tensions-staged-rulings-and-abrogation", "assertions": 4}
+{"timestamp": "2026-08-19T12:34:16+00:00", "event": "canonicalize_succeeded", "topicId": "quran-internal-tensions-staged-rulings-and-abrogation", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 21197}
+{"timestamp": "2026-08-19T12:34:16+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-clarity-and-intelligibility", "assertions": 1}
+{"timestamp": "2026-08-19T12:34:30+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-clarity-and-intelligibility", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 14205}
+{"timestamp": "2026-08-19T12:34:30+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-cosmological-vocabulary", "assertions": 8}
+{"timestamp": "2026-08-19T12:35:04+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-cosmological-vocabulary", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 34566}
+{"timestamp": "2026-08-19T12:35:04+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-creation-fluid-verse", "assertions": 8}
+{"timestamp": "2026-08-19T12:36:05+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-creation-fluid-verse", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 60889}
+{"timestamp": "2026-08-19T12:36:05+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-jesus-verse-readings", "assertions": 5}
+{"timestamp": "2026-08-19T12:36:50+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-jesus-verse-readings", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 44197}
+{"timestamp": "2026-08-19T12:36:50+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-marriage-vocabulary", "assertions": 3}
+{"timestamp": "2026-08-19T12:37:22+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-marriage-vocabulary", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 32147}
+{"timestamp": "2026-08-19T12:37:22+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-miracle-verse-glosses", "assertions": 11}
+{"timestamp": "2026-08-19T12:38:42+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-miracle-verse-glosses", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 80211}
+{"timestamp": "2026-08-19T12:38:42+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-night-journey-verses", "assertions": 4}
+{"timestamp": "2026-08-19T12:39:16+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-night-journey-verses", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 34157}
+{"timestamp": "2026-08-19T12:39:16+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-obscure-words", "assertions": 3}
+{"timestamp": "2026-08-19T12:39:53+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-obscure-words", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 36344}
+{"timestamp": "2026-08-19T12:39:53+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-preaching-glosses", "assertions": 1}
+{"timestamp": "2026-08-19T12:40:04+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-preaching-glosses", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 11250}
+{"timestamp": "2026-08-19T12:40:08+00:00", "event": "canonicalize_started", "topicId": "quran-lexical-and-interpretive-questions-spirit-question", "assertions": 1}
+{"timestamp": "2026-08-19T12:40:28+00:00", "event": "canonicalize_succeeded", "topicId": "quran-lexical-and-interpretive-questions-spirit-question", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 20331}
+{"timestamp": "2026-08-19T12:40:28+00:00", "event": "canonicalize_started", "topicId": "quran-obedience-and-authority", "assertions": 1}
+{"timestamp": "2026-08-19T12:40:41+00:00", "event": "canonicalize_succeeded", "topicId": "quran-obedience-and-authority", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 12236}
+{"timestamp": "2026-08-19T12:40:41+00:00", "event": "canonicalize_started", "topicId": "quran-psychological-origin", "assertions": 11}
+{"timestamp": "2026-08-19T12:41:22+00:00", "event": "canonicalize_succeeded", "topicId": "quran-psychological-origin", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 40883}
+{"timestamp": "2026-08-19T12:41:22+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims", "assertions": 5}
+{"timestamp": "2026-08-19T12:42:14+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 52028}
+{"timestamp": "2026-08-19T12:42:14+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-cosmology-and-creation", "assertions": 5}
+{"timestamp": "2026-08-19T12:42:31+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-cosmology-and-creation", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 17644}
+{"timestamp": "2026-08-19T12:42:31+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion", "assertions": 2}
+{"timestamp": "2026-08-19T12:42:52+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-cosmology-and-creation-heavens-as-smoke-and-expansion", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 20217}
+{"timestamp": "2026-08-19T12:42:52+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors", "assertions": 2}
+{"timestamp": "2026-08-19T12:43:12+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-cosmology-and-creation-heavens-stars-and-meteors", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 20155}
+{"timestamp": "2026-08-19T12:43:12+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-cosmology-and-creation-separation-of-heaven-and-earth", "assertions": 1}
+{"timestamp": "2026-08-19T12:43:22+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-cosmology-and-creation-separation-of-heaven-and-earth", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10104}
+{"timestamp": "2026-08-19T12:43:22+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-earth-and-natural-phenomena", "assertions": 8}
+{"timestamp": "2026-08-19T12:43:51+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-earth-and-natural-phenomena", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 28621}
+{"timestamp": "2026-08-19T12:43:51+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-embryology-and-human-creation", "assertions": 1}
+{"timestamp": "2026-08-19T12:44:04+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-embryology-and-human-creation", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 13415}
+{"timestamp": "2026-08-19T12:44:08+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-embryology-and-human-creation-bones-and-flesh", "assertions": 3}
+{"timestamp": "2026-08-19T12:44:32+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-embryology-and-human-creation-bones-and-flesh", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 23438}
+{"timestamp": "2026-08-19T12:44:32+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-embryology-and-human-creation-greek-medical-transmission", "assertions": 6}
+{"timestamp": "2026-08-19T12:45:38+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-embryology-and-human-creation-greek-medical-transmission", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 66003}
+{"timestamp": "2026-08-19T12:45:38+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-embryology-and-human-creation-quranic-terms", "assertions": 1}
+{"timestamp": "2026-08-19T12:45:53+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-embryology-and-human-creation-quranic-terms", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 15226}
+{"timestamp": "2026-08-19T12:45:53+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid", "assertions": 1}
+{"timestamp": "2026-08-19T12:46:05+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-embryology-and-human-creation-reproductive-fluid", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 11569}
+{"timestamp": "2026-08-19T12:46:05+00:00", "event": "canonicalize_started", "topicId": "quran-scientific-claims-method-and-criteria", "assertions": 12}
+{"timestamp": "2026-08-19T12:47:41+00:00", "event": "canonicalize_succeeded", "topicId": "quran-scientific-claims-method-and-criteria", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 96143}
+{"timestamp": "2026-08-19T12:47:41+00:00", "event": "canonicalize_started", "topicId": "quran-sources-zoroastrian-channel", "assertions": 3}
+{"timestamp": "2026-08-19T12:48:38+00:00", "event": "canonicalize_succeeded", "topicId": "quran-sources-zoroastrian-channel", "assertions": 3, "backend": "codex", "attempts": 1, "durationMs": 27554}
+{"timestamp": "2026-08-19T12:48:38+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission", "assertions": 4}
+{"timestamp": "2026-08-19T12:48:57+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 18879}
+{"timestamp": "2026-08-19T12:48:57+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-collection-and-standardization", "assertions": 9}
+{"timestamp": "2026-08-19T12:49:24+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-collection-and-standardization", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 27202}
+{"timestamp": "2026-08-19T12:49:24+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-collection-and-standardization-committee-and-scribes", "assertions": 5}
+{"timestamp": "2026-08-19T12:49:47+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-collection-and-standardization-committee-and-scribes", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 23151}
+{"timestamp": "2026-08-19T12:49:47+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon", "assertions": 7}
+{"timestamp": "2026-08-19T12:50:34+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-collection-and-standardization-companion-codices-and-canon", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 47205}
+{"timestamp": "2026-08-19T12:50:39+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-collection-and-standardization-isra-verse", "assertions": 5}
+{"timestamp": "2026-08-19T12:51:29+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-collection-and-standardization-isra-verse", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 50061}
+{"timestamp": "2026-08-19T12:51:29+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-collection-and-standardization-umayyad-interventions", "assertions": 8}
+{"timestamp": "2026-08-19T12:52:17+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-collection-and-standardization-umayyad-interventions", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 48341}
+{"timestamp": "2026-08-19T12:52:17+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology", "assertions": 3}
+{"timestamp": "2026-08-19T12:52:45+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 27544}
+{"timestamp": "2026-08-19T12:52:45+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology-companion-contributions", "assertions": 2}
+{"timestamp": "2026-08-19T12:52:57+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology-companion-contributions", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 12409}
+{"timestamp": "2026-08-19T12:52:57+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology-isra-verse-composition", "assertions": 4}
+{"timestamp": "2026-08-19T12:53:16+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology-isra-verse-composition", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 18455}
+{"timestamp": "2026-08-19T12:53:16+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology-material-record-and-setting", "assertions": 1}
+{"timestamp": "2026-08-19T12:53:28+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology-material-record-and-setting", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 12560}
+{"timestamp": "2026-08-19T12:53:28+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology-personal-circumstances", "assertions": 3}
+{"timestamp": "2026-08-19T12:54:00+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology-personal-circumstances", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 31317}
+{"timestamp": "2026-08-19T12:54:00+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology-sequence-of-revelation", "assertions": 4}
+{"timestamp": "2026-08-19T12:54:27+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology-sequence-of-revelation", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 27477}
+{"timestamp": "2026-08-19T12:54:27+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-formation-and-chronology-umayyad-era-composition", "assertions": 1}
+{"timestamp": "2026-08-19T12:54:38+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-formation-and-chronology-umayyad-era-composition", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10805}
+{"timestamp": "2026-08-19T12:54:38+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-manuscripts-and-dating", "assertions": 2}
+{"timestamp": "2026-08-19T12:55:03+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-manuscripts-and-dating", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 24825}
+{"timestamp": "2026-08-19T12:55:07+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-manuscripts-and-dating-method-and-material-analysis", "assertions": 4}
+{"timestamp": "2026-08-19T12:55:44+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-manuscripts-and-dating-method-and-material-analysis", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 36657}
+{"timestamp": "2026-08-19T12:55:44+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-manuscripts-and-dating-sanaa-palimpsest", "assertions": 7}
+{"timestamp": "2026-08-19T12:56:06+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-manuscripts-and-dating-sanaa-palimpsest", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 22464}
+{"timestamp": "2026-08-19T12:56:06+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-manuscripts-and-dating-uthmanic-attribution", "assertions": 6}
+{"timestamp": "2026-08-19T12:56:50+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-manuscripts-and-dating-uthmanic-attribution", "assertions": 6, "backend": "claude", "attempts": 2, "durationMs": 20506}
+{"timestamp": "2026-08-19T12:56:50+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts", "assertions": 11}
+{"timestamp": "2026-08-19T12:57:56+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-manuscripts-and-dating-variants-in-manuscripts", "assertions": 11, "backend": "claude", "attempts": 1, "durationMs": 66107}
+{"timestamp": "2026-08-19T12:57:57+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-readings-and-ahruf-canonical-readers-and-classification", "assertions": 3}
+{"timestamp": "2026-08-19T12:58:23+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-readings-and-ahruf-canonical-readers-and-classification", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 26199}
+{"timestamp": "2026-08-19T12:58:23+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-readings-and-ahruf-canonical-variants", "assertions": 3}
+{"timestamp": "2026-08-19T12:58:39+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-readings-and-ahruf-canonical-variants", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 16551}
+{"timestamp": "2026-08-19T12:58:39+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-readings-and-ahruf-non-canonical-variants", "assertions": 8}
+{"timestamp": "2026-08-19T12:59:10+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-readings-and-ahruf-non-canonical-variants", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 30790}
+{"timestamp": "2026-08-19T12:59:10+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-readings-and-ahruf-script-basis-of-variants", "assertions": 5}
+{"timestamp": "2026-08-19T13:00:03+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-readings-and-ahruf-script-basis-of-variants", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 52509}
+{"timestamp": "2026-08-19T13:00:03+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-readings-and-ahruf-seven-ahruf", "assertions": 5}
+{"timestamp": "2026-08-19T13:00:25+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-readings-and-ahruf-seven-ahruf", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 22157}
+{"timestamp": "2026-08-19T13:00:25+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-script-and-orthography", "assertions": 12}
+{"timestamp": "2026-08-19T13:01:30+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-script-and-orthography", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 65420}
+{"timestamp": "2026-08-19T13:01:34+00:00", "event": "canonicalize_started", "topicId": "quran-textual-transmission-syro-aramaic-philology", "assertions": 17}
+{"timestamp": "2026-08-19T13:03:36+00:00", "event": "canonicalize_succeeded", "topicId": "quran-textual-transmission-syro-aramaic-philology", "assertions": 17, "backend": "claude", "attempts": 1, "durationMs": 121803}
+{"timestamp": "2026-08-19T13:03:36+00:00", "event": "canonicalize_started", "topicId": "quran-women-and-marriage-rules", "assertions": 5}
+{"timestamp": "2026-08-19T13:04:06+00:00", "event": "canonicalize_succeeded", "topicId": "quran-women-and-marriage-rules", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 29354}
+{"timestamp": "2026-08-19T13:04:06+00:00", "event": "canonicalize_started", "topicId": "scientific-miracles-apologetics-movement", "assertions": 8}
+{"timestamp": "2026-08-19T13:04:38+00:00", "event": "canonicalize_succeeded", "topicId": "scientific-miracles-apologetics-movement", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 32446}
+{"timestamp": "2026-08-19T13:04:38+00:00", "event": "canonicalize_started", "topicId": "sirah", "assertions": 2}
+{"timestamp": "2026-08-19T13:04:53+00:00", "event": "canonicalize_succeeded", "topicId": "sirah", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 14746}
+{"timestamp": "2026-08-19T13:04:53+00:00", "event": "canonicalize_started", "topicId": "sirah-christian-parallels", "assertions": 3}
+{"timestamp": "2026-08-19T13:05:12+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-christian-parallels", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 19013}
+{"timestamp": "2026-08-19T13:05:12+00:00", "event": "canonicalize_started", "topicId": "sirah-christian-parallels-cave-narratives", "assertions": 4}
+{"timestamp": "2026-08-19T13:05:48+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-christian-parallels-cave-narratives", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 35889}
+{"timestamp": "2026-08-19T13:05:48+00:00", "event": "canonicalize_started", "topicId": "sirah-christian-parallels-coins-and-symbols", "assertions": 4}
+{"timestamp": "2026-08-19T13:06:12+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-christian-parallels-coins-and-symbols", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 23710}
+{"timestamp": "2026-08-19T13:06:12+00:00", "event": "canonicalize_started", "topicId": "sirah-christian-parallels-gospel-models", "assertions": 2}
+{"timestamp": "2026-08-19T13:06:26+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-christian-parallels-gospel-models", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 13778}
+{"timestamp": "2026-08-19T13:06:26+00:00", "event": "canonicalize_started", "topicId": "sirah-conflict-and-political-conduct-campaigns-and-alliances", "assertions": 7}
+{"timestamp": "2026-08-19T13:07:07+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-conflict-and-political-conduct-campaigns-and-alliances", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 41533}
+{"timestamp": "2026-08-19T13:07:07+00:00", "event": "canonicalize_started", "topicId": "sirah-conflict-and-political-conduct-quraysh-rivalry-and-conquest-of-mecca", "assertions": 5}
+{"timestamp": "2026-08-19T13:07:32+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-conflict-and-political-conduct-quraysh-rivalry-and-conquest-of-mecca", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 24545}
+{"timestamp": "2026-08-19T13:07:36+00:00", "event": "canonicalize_started", "topicId": "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation", "assertions": 3}
+{"timestamp": "2026-08-19T13:08:02+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-conflict-and-political-conduct-spoils-and-fighter-motivation", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 26197}
+{"timestamp": "2026-08-19T13:08:02+00:00", "event": "canonicalize_started", "topicId": "sirah-conflict-and-political-conduct-succession-and-dynastic-rule", "assertions": 1}
+{"timestamp": "2026-08-19T13:08:12+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-conflict-and-political-conduct-succession-and-dynastic-rule", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 9568}
+{"timestamp": "2026-08-19T13:08:12+00:00", "event": "canonicalize_started", "topicId": "sirah-conflict-and-political-conduct-treatment-of-opponents", "assertions": 5}
+{"timestamp": "2026-08-19T13:08:54+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-conflict-and-political-conduct-treatment-of-opponents", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 42330}
+{"timestamp": "2026-08-19T13:08:54+00:00", "event": "canonicalize_started", "topicId": "sirah-family-and-household-traditions", "assertions": 4}
+{"timestamp": "2026-08-19T13:09:13+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-family-and-household-traditions", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 19257}
+{"timestamp": "2026-08-19T13:09:14+00:00", "event": "canonicalize_started", "topicId": "sirah-formative-figures", "assertions": 5}
+{"timestamp": "2026-08-19T13:09:37+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-formative-figures", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 23490}
+{"timestamp": "2026-08-19T13:09:37+00:00", "event": "canonicalize_started", "topicId": "sirah-historical-setting-coinage-and-symbols", "assertions": 14}
+{"timestamp": "2026-08-19T13:11:10+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-historical-setting-coinage-and-symbols", "assertions": 14, "backend": "claude", "attempts": 1, "durationMs": 92882}
+{"timestamp": "2026-08-19T13:11:10+00:00", "event": "canonicalize_started", "topicId": "sirah-historical-setting-earliest-mentions-of-islam", "assertions": 2}
+{"timestamp": "2026-08-19T13:11:39+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-historical-setting-earliest-mentions-of-islam", "assertions": 2, "backend": "claude", "attempts": 2, "durationMs": 11506}
+{"timestamp": "2026-08-19T13:11:39+00:00", "event": "canonicalize_started", "topicId": "sirah-historical-setting-early-attestation", "assertions": 1}
+{"timestamp": "2026-08-19T13:11:53+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-historical-setting-early-attestation", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 14249}
+{"timestamp": "2026-08-19T13:11:53+00:00", "event": "canonicalize_started", "topicId": "sirah-historical-setting-names-and-descent", "assertions": 2}
+{"timestamp": "2026-08-19T13:12:07+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-historical-setting-names-and-descent", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 14218}
+{"timestamp": "2026-08-19T13:12:07+00:00", "event": "canonicalize_started", "topicId": "sirah-historical-setting-pre-islamic-arabia", "assertions": 4}
+{"timestamp": "2026-08-19T13:12:47+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-historical-setting-pre-islamic-arabia", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 40144}
+{"timestamp": "2026-08-19T13:12:51+00:00", "event": "canonicalize_started", "topicId": "sirah-ibn-ishaq", "assertions": 10}
+{"timestamp": "2026-08-19T13:13:46+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-ibn-ishaq", "assertions": 10, "backend": "claude", "attempts": 1, "durationMs": 54654}
+{"timestamp": "2026-08-19T13:13:46+00:00", "event": "canonicalize_started", "topicId": "sirah-revelation-narratives", "assertions": 8}
+{"timestamp": "2026-08-19T13:14:40+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-revelation-narratives", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 53873}
+{"timestamp": "2026-08-19T13:14:40+00:00", "event": "canonicalize_started", "topicId": "sirah-source-traditions-competing-narratives-and-reputations", "assertions": 1}
+{"timestamp": "2026-08-19T13:14:51+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-source-traditions-competing-narratives-and-reputations", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10724}
+{"timestamp": "2026-08-19T13:14:51+00:00", "event": "canonicalize_started", "topicId": "sirah-source-traditions-inherited-motifs-and-parallels", "assertions": 3}
+{"timestamp": "2026-08-19T13:15:08+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-source-traditions-inherited-motifs-and-parallels", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 16997}
+{"timestamp": "2026-08-19T13:15:08+00:00", "event": "canonicalize_started", "topicId": "sirah-source-traditions-reliability-and-attribution", "assertions": 2}
+{"timestamp": "2026-08-19T13:15:23+00:00", "event": "canonicalize_succeeded", "topicId": "sirah-source-traditions-reliability-and-attribution", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 14886}
+{"timestamp": "2026-08-19T13:15:23+00:00", "event": "canonicalize_started", "topicId": "slavery", "assertions": 7}
+{"timestamp": "2026-08-19T13:16:37+00:00", "event": "canonicalize_succeeded", "topicId": "slavery", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 73989}
+{"timestamp": "2026-08-19T13:16:37+00:00", "event": "canonicalize_started", "topicId": "syriac-aramaic-name-muhammad-readings", "assertions": 1}
+{"timestamp": "2026-08-19T13:16:48+00:00", "event": "canonicalize_succeeded", "topicId": "syriac-aramaic-name-muhammad-readings", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10691}
+{"timestamp": "2026-08-19T13:16:48+00:00", "event": "canonicalize_started", "topicId": "syriac-aramaic-paradise-imagery", "assertions": 3}
+{"timestamp": "2026-08-19T13:17:05+00:00", "event": "canonicalize_succeeded", "topicId": "syriac-aramaic-paradise-imagery", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 17163}
+{"timestamp": "2026-08-19T13:17:05+00:00", "event": "canonicalize_started", "topicId": "syriac-aramaic-passage-rereadings", "assertions": 2}
+{"timestamp": "2026-08-19T13:17:27+00:00", "event": "canonicalize_succeeded", "topicId": "syriac-aramaic-passage-rereadings", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 22402}
+{"timestamp": "2026-08-19T13:17:27+00:00", "event": "canonicalize_started", "topicId": "syriac-aramaic-religious-vocabulary", "assertions": 6}
+{"timestamp": "2026-08-19T13:17:48+00:00", "event": "canonicalize_succeeded", "topicId": "syriac-aramaic-religious-vocabulary", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 20423}
+{"timestamp": "2026-08-19T13:17:52+00:00", "event": "canonicalize_started", "topicId": "syro-aramaic-quran-hypothesis", "assertions": 4}
+{"timestamp": "2026-08-19T13:18:19+00:00", "event": "canonicalize_succeeded", "topicId": "syro-aramaic-quran-hypothesis", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 27291}
+{"timestamp": "2026-08-19T13:18:19+00:00", "event": "canonicalize_started", "topicId": "syro-aramaic-quran-hypothesis-religious-vocabulary", "assertions": 1}
+{"timestamp": "2026-08-19T13:18:31+00:00", "event": "canonicalize_succeeded", "topicId": "syro-aramaic-quran-hypothesis-religious-vocabulary", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 11806}
+{"timestamp": "2026-08-19T13:18:31+00:00", "event": "canonicalize_started", "topicId": "umayyad-christian-models-and-titulature", "assertions": 2}
+{"timestamp": "2026-08-19T13:18:51+00:00", "event": "canonicalize_succeeded", "topicId": "umayyad-christian-models-and-titulature", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 19686}
+{"timestamp": "2026-08-19T13:18:51+00:00", "event": "canonicalize_started", "topicId": "umayyad-coinage-and-religious-symbols", "assertions": 3}
+{"timestamp": "2026-08-19T13:19:26+00:00", "event": "canonicalize_succeeded", "topicId": "umayyad-coinage-and-religious-symbols", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 35623}
+{"timestamp": "2026-08-19T13:19:26+00:00", "event": "canonicalize_started", "topicId": "umayyad-mecca-and-ibn-al-zubayr", "assertions": 2}
+{"timestamp": "2026-08-19T13:19:41+00:00", "event": "canonicalize_succeeded", "topicId": "umayyad-mecca-and-ibn-al-zubayr", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 14646}
+{"timestamp": "2026-08-19T13:19:41+00:00", "event": "canonicalize_started", "topicId": "umayyad-pragmatism-and-subject-populations", "assertions": 1}
+{"timestamp": "2026-08-19T13:19:53+00:00", "event": "canonicalize_succeeded", "topicId": "umayyad-pragmatism-and-subject-populations", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 12384}
+{"timestamp": "2026-08-19T13:19:54+00:00", "event": "canonicalize_started", "topicId": "women", "assertions": 1}
+{"timestamp": "2026-08-19T13:20:06+00:00", "event": "canonicalize_succeeded", "topicId": "women", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 12076}
+{"timestamp": "2026-08-19T13:20:06+00:00", "event": "canonicalize_started", "topicId": "women-marital-authority-and-obedience", "assertions": 2}
+{"timestamp": "2026-08-19T13:20:18+00:00", "event": "canonicalize_succeeded", "topicId": "women-marital-authority-and-obedience", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 12542}
+{"timestamp": "2026-08-19T13:20:18+00:00", "event": "canonicalize_started", "topicId": "women-marriage-contracts-and-forms", "assertions": 2}
+{"timestamp": "2026-08-19T13:20:34+00:00", "event": "canonicalize_succeeded", "topicId": "women-marriage-contracts-and-forms", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 15547}
+{"timestamp": "2026-08-19T13:20:34+00:00", "event": "canonicalize_started", "topicId": "women-sexual-ethics-and-repression", "assertions": 6}
+{"timestamp": "2026-08-19T13:21:19+00:00", "event": "canonicalize_succeeded", "topicId": "women-sexual-ethics-and-repression", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 45100}
+{"timestamp": "2026-08-19T13:21:23+00:00", "event": "canonicalize_started", "topicId": "women-sexual-ethics-and-repression-contact-prohibitions-and-repression", "assertions": 1}
+{"timestamp": "2026-08-19T13:21:34+00:00", "event": "canonicalize_succeeded", "topicId": "women-sexual-ethics-and-repression-contact-prohibitions-and-repression", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10901}
+{"timestamp": "2026-08-19T13:21:34+00:00", "event": "canonicalize_started", "topicId": "women-sexual-ethics-and-repression-social-effects-and-hypocrisy", "assertions": 2}
+{"timestamp": "2026-08-19T13:21:46+00:00", "event": "canonicalize_succeeded", "topicId": "women-sexual-ethics-and-repression-social-effects-and-hypocrisy", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 11645}
+{"timestamp": "2026-08-19T13:21:46+00:00", "event": "canonicalize_started", "topicId": "women-status-before-islam", "assertions": 1}
+{"timestamp": "2026-08-19T13:21:56+00:00", "event": "canonicalize_succeeded", "topicId": "women-status-before-islam", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 10159}
+{"timestamp": "2026-08-19T13:21:56+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels", "assertions": 5}
+{"timestamp": "2026-08-19T13:22:57+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 61311}
+{"timestamp": "2026-08-19T13:22:57+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels-ahura-mazda-and-creation", "assertions": 1}
+{"timestamp": "2026-08-19T13:23:14+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-ahura-mazda-and-creation", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 16539}
+{"timestamp": "2026-08-19T13:23:14+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels-eschatology-and-the-grave", "assertions": 4}
+{"timestamp": "2026-08-19T13:23:36+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-eschatology-and-the-grave", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 22386}
+{"timestamp": "2026-08-19T13:23:36+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels-purity-and-bodily-rules", "assertions": 2}
+{"timestamp": "2026-08-19T13:23:58+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-purity-and-bodily-rules", "assertions": 2, "backend": "claude", "attempts": 1, "durationMs": 21583}
+{"timestamp": "2026-08-19T13:23:58+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels-ritual-and-doctrine", "assertions": 4}
+{"timestamp": "2026-08-19T13:24:30+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-ritual-and-doctrine", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 31459}
+{"timestamp": "2026-08-19T13:24:30+00:00", "event": "canonicalize_started", "topicId": "zoroastrian-parallels-salman-al-farisi", "assertions": 1}
+{"timestamp": "2026-08-19T13:24:41+00:00", "event": "canonicalize_succeeded", "topicId": "zoroastrian-parallels-salman-al-farisi", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 11387}
