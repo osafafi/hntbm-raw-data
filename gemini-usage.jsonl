@@ -979,3 +979,43 @@
 {"timestamp": "2026-08-19T04:14:12+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-cave-sleepers", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 79984}
 {"timestamp": "2026-08-19T04:14:13+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-dome-of-the-rock-christology", "assertions": 1}
 {"timestamp": "2026-08-19T04:14:34+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-dome-of-the-rock-christology", "assertions": 1, "backend": "claude", "attempts": 1, "durationMs": 21640}
+{"timestamp": "2026-08-19T04:23:56+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-eschatology-and-ascent", "assertions": 4}
+{"timestamp": "2026-08-19T04:24:33+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-eschatology-and-ascent", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 37427}
+{"timestamp": "2026-08-19T04:24:33+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-christian-quranic-narratives-jesus-and-apocrypha", "assertions": 4}
+{"timestamp": "2026-08-19T04:25:07+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-christian-quranic-narratives-jesus-and-apocrypha", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 33351}
+{"timestamp": "2026-08-19T04:25:07+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-greek-and-babylonian-antecedents", "assertions": 13}
+{"timestamp": "2026-08-19T04:26:43+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-greek-and-babylonian-antecedents", "assertions": 13, "backend": "claude", "attempts": 1, "durationMs": 95966}
+{"timestamp": "2026-08-19T04:26:43+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-luqman-ahiqar", "assertions": 8}
+{"timestamp": "2026-08-19T04:27:45+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-luqman-ahiqar", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 62624}
+{"timestamp": "2026-08-19T04:27:45+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-quran-as-cultural-confluence", "assertions": 16}
+{"timestamp": "2026-08-19T04:29:40+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-quran-as-cultural-confluence", "assertions": 16, "backend": "claude", "attempts": 1, "durationMs": 114471}
+{"timestamp": "2026-08-19T04:29:40+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-syriac-aramaic-philology", "assertions": 4}
+{"timestamp": "2026-08-19T04:30:01+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-syriac-aramaic-philology", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 20746}
+{"timestamp": "2026-08-19T04:30:01+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-zoroaster-life-and-legends", "assertions": 3}
+{"timestamp": "2026-08-19T04:30:20+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-zoroaster-life-and-legends", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 19289}
+{"timestamp": "2026-08-19T04:30:20+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-zoroastrian-eschatology", "assertions": 5}
+{"timestamp": "2026-08-19T04:31:25+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-zoroastrian-eschatology", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 64769}
+{"timestamp": "2026-08-19T04:31:25+00:00", "event": "canonicalize_started", "topicId": "earlier-religious-parallels-zoroastrian-ritual-and-purity", "assertions": 8}
+{"timestamp": "2026-08-19T04:32:10+00:00", "event": "canonicalize_succeeded", "topicId": "earlier-religious-parallels-zoroastrian-ritual-and-purity", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 45064}
+{"timestamp": "2026-08-19T04:32:10+00:00", "event": "canonicalize_started", "topicId": "early-arab-rulers-religious-identity", "assertions": 12}
+{"timestamp": "2026-08-19T04:33:42+00:00", "event": "canonicalize_succeeded", "topicId": "early-arab-rulers-religious-identity", "assertions": 12, "backend": "claude", "attempts": 1, "durationMs": 92467}
+{"timestamp": "2026-08-19T04:35:11+00:00", "event": "canonicalize_started", "topicId": "early-islamic-state-and-caliphate", "assertions": 3}
+{"timestamp": "2026-08-19T04:35:27+00:00", "event": "canonicalize_succeeded", "topicId": "early-islamic-state-and-caliphate", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 15616}
+{"timestamp": "2026-08-19T04:35:27+00:00", "event": "canonicalize_started", "topicId": "early-islamic-state-and-caliphate-hashim-umayya-rivalry", "assertions": 7}
+{"timestamp": "2026-08-19T04:36:19+00:00", "event": "canonicalize_succeeded", "topicId": "early-islamic-state-and-caliphate-hashim-umayya-rivalry", "assertions": 7, "backend": "claude", "attempts": 1, "durationMs": 52536}
+{"timestamp": "2026-08-19T04:36:19+00:00", "event": "canonicalize_started", "topicId": "early-islamic-state-and-caliphate-muawiya-rule-and-byzantium", "assertions": 4}
+{"timestamp": "2026-08-19T04:36:55+00:00", "event": "canonicalize_succeeded", "topicId": "early-islamic-state-and-caliphate-muawiya-rule-and-byzantium", "assertions": 4, "backend": "claude", "attempts": 1, "durationMs": 35686}
+{"timestamp": "2026-08-19T04:36:55+00:00", "event": "canonicalize_started", "topicId": "early-islamic-state-and-caliphate-succession-and-dynastic-rule", "assertions": 9}
+{"timestamp": "2026-08-19T04:37:21+00:00", "event": "canonicalize_succeeded", "topicId": "early-islamic-state-and-caliphate-succession-and-dynastic-rule", "assertions": 9, "backend": "claude", "attempts": 1, "durationMs": 25785}
+{"timestamp": "2026-08-19T04:37:21+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-arabic-character-claim", "assertions": 3}
+{"timestamp": "2026-08-19T04:37:52+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-arabic-character-claim", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 30469}
+{"timestamp": "2026-08-19T04:37:52+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-arabization-rule", "assertions": 5}
+{"timestamp": "2026-08-19T04:38:43+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-arabization-rule", "assertions": 5, "backend": "claude", "attempts": 1, "durationMs": 51344}
+{"timestamp": "2026-08-19T04:38:43+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-injil-term", "assertions": 6}
+{"timestamp": "2026-08-19T04:39:28+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-injil-term", "assertions": 6, "backend": "claude", "attempts": 1, "durationMs": 44731}
+{"timestamp": "2026-08-19T04:39:28+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-name-of-jesus", "assertions": 8}
+{"timestamp": "2026-08-19T04:40:01+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-name-of-jesus", "assertions": 8, "backend": "claude", "attempts": 1, "durationMs": 33391}
+{"timestamp": "2026-08-19T04:40:01+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-scripture-titles", "assertions": 3}
+{"timestamp": "2026-08-19T04:40:31+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-scripture-titles", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 30143}
+{"timestamp": "2026-08-19T04:40:31+00:00", "event": "canonicalize_started", "topicId": "foreign-vocabulary-syriac-religious-terms", "assertions": 3}
+{"timestamp": "2026-08-19T04:40:51+00:00", "event": "canonicalize_succeeded", "topicId": "foreign-vocabulary-syriac-religious-terms", "assertions": 3, "backend": "claude", "attempts": 1, "durationMs": 19740}
