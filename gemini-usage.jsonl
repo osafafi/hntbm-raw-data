@@ -1357,3 +1357,7 @@
 {"timestamp": "2026-08-19T13:37:48+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "claude", "attempts": 1, "durationMs": 23719}
 {"timestamp": "2026-08-19T13:37:48+00:00", "event": "dedupe_started", "pairs": 4}
 {"timestamp": "2026-08-19T13:38:04+00:00", "event": "dedupe_succeeded", "pairs": 4, "backend": "claude", "attempts": 1, "durationMs": 16444}
+{"timestamp": "2026-08-19T14:28:08+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T14:29:01+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 2, "durationMs": 35196}
+{"timestamp": "2026-08-19T14:29:49+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-19T14:30:24+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 35466}
