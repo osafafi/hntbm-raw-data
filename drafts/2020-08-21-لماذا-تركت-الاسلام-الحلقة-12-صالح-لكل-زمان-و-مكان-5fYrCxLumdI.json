@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "5fYrCxLumdI",
   "videoUrl": "https://www.youtube.com/watch?v=5fYrCxLumdI",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 12 - صالح لكل زمان و مكان",
@@ -106,7 +106,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check that the divine attributes the speaker invokes (omniscience, absolute wisdom) are standard in Sunni creedal literature, and that the inference he draws from them — that divinely issued rulings must be time-invariant — is his own reasoning rather than a cited doctrine."
+      "verificationNote": "Check that the divine attributes the speaker invokes (omniscience, absolute wisdom) are standard in Sunni creedal literature, and that the inference he draws from them — that divinely issued rulings must be time-invariant — is his own reasoning rather than a cited doctrine.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:12",
@@ -122,7 +123,11 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the preservation verse quoted (\"إنا نحن نزلنا الذكر وإنا له لحافظون\") and of the three verses describing those who do not rule by what God sent down, and locate their sura and aya numbers, which the speaker does not give."
+      "verificationNote": "Verify the wording of the preservation verse quoted (\"إنا نحن نزلنا الذكر وإنا له لحافظون\") and of the three verses describing those who do not rule by what God sent down, and locate their sura and aya numbers, which the speaker does not give.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:49",
@@ -136,7 +141,14 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the hadith \"رأس الأمر الإسلام وعموده الصلاة وذروة سنامه الجهاد في سبيل الله\" to a collection and grade it, and identify the four verses quoted, none of which is given a locator in the video."
+      "verificationNote": "Trace the hadith \"رأس الأمر الإسلام وعموده الصلاة وذروة سنامه الجهاد في سبيل الله\" to a collection and grade it, and identify the four verses quoted, none of which is given a locator in the video.",
+      "citationRefs": [
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:02:37",
@@ -151,7 +163,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the classical fiqh classification of jihad (fard kifaya versus fard ayn) against the speaker's flat claim of obligation, and identify the preacher in the inserted clip and the dates he gives for Badr and Uhud."
+      "verificationNote": "Check the classical fiqh classification of jihad (fard kifaya versus fard ayn) against the speaker's flat claim of obligation, and identify the preacher in the inserted clip and the dates he gives for Badr and Uhud.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:03:21",
@@ -167,7 +182,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the international instruments the speaker has in mind (UN Charter provisions on the use of force, and the conventions Muslim-majority states have ratified) and confirm that no Islamic juristic authority is claimed as the source of the suspension."
+      "verificationNote": "Identify the international instruments the speaker has in mind (UN Charter provisions on the use of force, and the conventions Muslim-majority states have ratified) and confirm that no Islamic juristic authority is claimed as the source of the suspension.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:21",
@@ -182,7 +198,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Locate the clip attributed to Dr Abdullah Rushdi (transcribed \"عبدالله رجدي\") and confirm he makes the defensive-only argument on the basis of that verse."
+      "verificationNote": "Locate the clip attributed to Dr Abdullah Rushdi (transcribed \"عبدالله رجدي\") and confirm he makes the defensive-only argument on the basis of that verse.",
+      "citationRefs": [
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:04:02",
@@ -197,7 +217,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the asbab al-nuzul and abrogation literature for the claim that the \"ولا تعتدوا\" clause was revealed at Hudaybiyya and abrogated by Q9, and note that the classical dating of that clause is usually earlier than the speaker states."
+      "verificationNote": "Check the asbab al-nuzul and abrogation literature for the claim that the \"ولا تعتدوا\" clause was revealed at Hudaybiyya and abrogated by Q9, and note that the classical dating of that clause is usually earlier than the speaker states.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:04:39",
@@ -211,7 +234,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the first two verses of Surat al-Tawba and the standard exegesis of the four-month period, and check whether the classical sources tie the repudiation of the treaties to a change in the balance of military power as the speaker asserts."
+      "verificationNote": "Verify the wording of the first two verses of Surat al-Tawba and the standard exegesis of the four-month period, and check whether the classical sources tie the repudiation of the treaties to a change in the balance of military power as the speaker asserts.",
+      "citationRefs": [
+        "c12",
+        "c13"
+      ]
     },
     {
       "timestamp": "00:05:18",
@@ -226,7 +253,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the sword verse and identify the tafsir read aloud — the phrasing resembles Ibn Kathir but no commentator is named in the video — then check the gloss \"وتضطروهم إلى القتل أو الإسلام\" against the printed text."
+      "verificationNote": "Verify the wording of the sword verse and identify the tafsir read aloud — the phrasing resembles Ibn Kathir but no commentator is named in the video — then check the gloss \"وتضطروهم إلى القتل أو الإسلام\" against the printed text.",
+      "citationRefs": [
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:06:03",
@@ -240,7 +271,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the preacher in the clip and check whether the position stated — offensive jihad suspended pending a caliphate — is documented in the movements the speaker names."
+      "verificationNote": "Identify the preacher in the clip and check whether the position stated — offensive jihad suspended pending a caliphate — is documented in the movements the speaker names.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:06:49",
@@ -255,7 +289,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the ratio verse in Surat al-Anfal and check the sira and tafsir reports the speaker alludes to about Muslim defeats that prompted the change of ratios."
+      "verificationNote": "Verify the wording of the ratio verse in Surat al-Anfal and check the sira and tafsir reports the speaker alludes to about Muslim defeats that prompted the change of ratios.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:07:31",
@@ -271,7 +308,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the abrogating verse and check how classical commentators explain the phrase \"وعلم أن فيكم ضعفاً\" in relation to divine foreknowledge."
+      "verificationNote": "Verify the wording of the abrogating verse and check how classical commentators explain the phrase \"وعلم أن فيكم ضعفاً\" in relation to divine foreknowledge.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:07:31",
@@ -285,7 +325,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's inference from the ratio verses; check whether any classical or modern juristic discussion treats the ratios as binding tactical instruction rather than as encouragement, which is what the argument requires."
+      "verificationNote": "This is the speaker's inference from the ratio verses; check whether any classical or modern juristic discussion treats the ratios as binding tactical instruction rather than as encouragement, which is what the argument requires.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:08:17",
@@ -301,7 +344,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the verse and check how classical exegetes and modern apologists gloss \"رباط الخيل\", including whether any read it as a general term for military mounts or matériel."
+      "verificationNote": "Verify the wording of the verse and check how classical exegetes and modern apologists gloss \"رباط الخيل\", including whether any read it as a general term for military mounts or matériel.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:08:59",
@@ -315,7 +361,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the verse and record the apologetic counter-reading that \"ويخلق ما لا تعلمون\" anticipates later means of transport, which the speaker does not address here."
+      "verificationNote": "Verify the wording of the verse and record the apologetic counter-reading that \"ويخلق ما لا تعلمون\" anticipates later means of transport, which the speaker does not address here.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:09:43",
@@ -331,7 +380,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the historical premise that early Muslim forces lost engagements at the ratios the verse prescribes, and note that the speaker's \"1500 years\" is an approximation."
+      "verificationNote": "Check the historical premise that early Muslim forces lost engagements at the ratios the verse prescribes, and note that the speaker's \"1500 years\" is an approximation.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:43",
@@ -347,7 +397,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "The speaker asserts \"dozens of verses\" but reads only one; an editor should note that the generalisation is unevidenced in this episode and collect the verses usually cited for it."
+      "verificationNote": "The speaker asserts \"dozens of verses\" but reads only one; an editor should note that the generalisation is unevidenced in this episode and collect the verses usually cited for it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:28",
@@ -362,7 +413,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse wording and its context on approaching the sacred mosque, and check whether the moral-impurity reading is in fact classical (many exegetes hold it) rather than a modern patch as the speaker implies."
+      "verificationNote": "Verify the verse wording and its context on approaching the sacred mosque, and check whether the moral-impurity reading is in fact classical (many exegetes hold it) rather than a modern patch as the speaker implies.",
+      "citationRefs": [
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:14",
@@ -377,7 +432,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the evidence for pre-Islamic pilgrimage to the Ka'ba by multiple religious groups and for the link between that pilgrimage and Meccan commerce."
+      "verificationNote": "Check the evidence for pre-Islamic pilgrimage to the Ka'ba by multiple religious groups and for the link between that pilgrimage and Meccan commerce.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:14",
@@ -392,7 +448,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the \"وإن خفتم عيلة\" clause and check the sira and tafsir reports that the ban on non-Muslim pilgrimage caused an economic complaint."
+      "verificationNote": "Verify the wording of the \"وإن خفتم عيلة\" clause and check the sira and tafsir reports that the ban on non-Muslim pilgrimage caused an economic complaint.",
+      "citationRefs": [
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:12:10",
@@ -407,7 +468,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the unnamed tafsir read aloud on \"فإن خفتم عيلة\" and verify the passage about compensation from the jizya of the People of the Book."
+      "verificationNote": "Identify the unnamed tafsir read aloud on \"فإن خفتم عيلة\" and verify the passage about compensation from the jizya of the People of the Book.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:12:56",
@@ -422,7 +487,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the jizya verse including \"وهم صاغرون\", the classical fiqh definition of the jizya's purpose, and the three-option formula as stated in the juristic and hadith literature."
+      "verificationNote": "Verify the jizya verse including \"وهم صاغرون\", the classical fiqh definition of the jizya's purpose, and the three-option formula as stated in the juristic and hadith literature.",
+      "citationRefs": [
+        "c28",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:13:39",
@@ -438,7 +507,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check when and by what instruments the jizya ceased to be levied in Muslim-majority states (Ottoman reforms of the nineteenth century predate the human-rights conventions the speaker names) and confirm the current legal status of the Mecca entry restriction."
+      "verificationNote": "Check when and by what instruments the jizya ceased to be levied in Muslim-majority states (Ottoman reforms of the nineteenth century predate the human-rights conventions the speaker names) and confirm the current legal status of the Mecca entry restriction.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:23",
@@ -455,7 +525,11 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse listing the eight categories of alms recipients and check the reports that Umar discontinued the share for the mu'allafa qulubuhum, together with the juristic dispute over whether the share lapsed."
+      "verificationNote": "Verify the verse listing the eight categories of alms recipients and check the reports that Umar discontinued the share for the mu'allafa qulubuhum, together with the juristic dispute over whether the share lapsed.",
+      "citationRefs": [
+        "c30",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:15:10",
@@ -470,7 +544,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the speaker in the clip and check the attribution of the lapse of the share to Umar's practice and to the apparent position of the Maliki school, together with the majority view that no abrogating text exists."
+      "verificationNote": "Identify the speaker in the clip and check the attribution of the lapse of the share to Umar's practice and to the apparent position of the Maliki school, together with the majority view that no abrogating text exists.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:15:10",
@@ -485,7 +562,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the sira record for both patterns the speaker describes — the three-option ultimatum to weaker groups and payments to stronger ones — and identify the preacher in the clip."
+      "verificationNote": "Check the sira record for both patterns the speaker describes — the three-option ultimatum to weaker groups and payments to stronger ones — and identify the preacher in the clip.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:16:37",
@@ -499,7 +579,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the three Qur'anic formulations quoted and survey the occurrences of \"ملك اليمين\" to confirm the absence of any prohibition of slavery in the text."
+      "verificationNote": "Verify the three Qur'anic formulations quoted and survey the occurrences of \"ملك اليمين\" to confirm the absence of any prohibition of slavery in the text.",
+      "citationRefs": [
+        "c34",
+        "c35",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:16:37",
@@ -515,7 +600,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's moral inference; an editor should record the standard apologetic reply about gradual manumission and check whether the text anywhere frames abolition as a goal."
+      "verificationNote": "This is the speaker's moral inference; an editor should record the standard apologetic reply about gradual manumission and check whether the text anywhere frames abolition as a goal.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:17",
@@ -532,7 +618,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the verse and check the exegetical dispute over whether it addresses the Prophet's wives specifically or women generally, which bears on the speaker's use of it."
+      "verificationNote": "Verify the wording of the verse and check the exegetical dispute over whether it addresses the Prophet's wives specifically or women generally, which bears on the speaker's use of it.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:17:17",
@@ -549,7 +638,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the verse wording and check the actual status of Qur'anic inheritance shares in the personal-status codes of Muslim-majority states, since many still apply them."
+      "verificationNote": "Verify the verse wording and check the actual status of Qur'anic inheritance shares in the personal-status codes of Muslim-majority states, since many still apply them.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:17:17",
@@ -565,7 +657,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check which hudud penalties remain in force in which jurisdictions, and the textual basis of each (Qur'anic for amputation and flogging, hadith-based for stoning)."
+      "verificationNote": "Check which hudud penalties remain in force in which jurisdictions, and the textual basis of each (Qur'anic for amputation and flogging, hadith-based for stoning).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:17",
@@ -582,7 +675,11 @@
         "child-marriage-and-consummation-age"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of both verses and check whether the clause \"واللائي لم يحضن\" is universally read by exegetes as referring to pre-pubescent girls."
+      "verificationNote": "Verify the wording of both verses and check whether the clause \"واللائي لم يحضن\" is universally read by exegetes as referring to pre-pubescent girls.",
+      "citationRefs": [
+        "c39",
+        "c40"
+      ]
     },
     {
       "timestamp": "00:18:02",
@@ -598,7 +695,10 @@
         "child-marriage-and-consummation-age"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the tafsir read aloud, which is not named in the video, and verify the passage on the idda of girls who have not yet menstruated."
+      "verificationNote": "Identify the tafsir read aloud, which is not named in the video, and verify the passage on the idda of girls who have not yet menstruated.",
+      "citationRefs": [
+        "c41"
+      ]
     },
     {
       "timestamp": "00:18:02",
@@ -615,7 +715,11 @@
         "child-marriage-and-consummation-age"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the marriage and consummation ages to their hadith sources and collections, which the video does not name, and check the report of Muhammad's own age at the time, which the speaker gives as fifty-four."
+      "verificationNote": "Trace the marriage and consummation ages to their hadith sources and collections, which the video does not name, and check the report of Muhammad's own age at the time, which the speaker gives as fifty-four.",
+      "citationRefs": [
+        "c42",
+        "c43"
+      ]
     },
     {
       "timestamp": "00:18:49",
@@ -631,7 +735,10 @@
         "child-marriage-and-consummation-age"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the scholar in the clip and confirm he states both the permissibility of contracting marriage on a minor and the rejection of a statutory minimum age of eighteen."
+      "verificationNote": "Identify the scholar in the clip and confirm he states both the permissibility of contracting marriage on a minor and the rejection of a statutory minimum age of eighteen.",
+      "citationRefs": [
+        "c44"
+      ]
     },
     {
       "timestamp": "00:20:05",
@@ -648,7 +755,8 @@
         "child-marriage-and-consummation-age"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the juristic formula \"تطيق الجماع\" in the fiqh literature and confirm that no minimum marriage age is stated in the Qur'an."
+      "verificationNote": "Check the juristic formula \"تطيق الجماع\" in the fiqh literature and confirm that no minimum marriage age is stated in the Qur'an.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:35",
@@ -663,7 +771,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is a rhetorical appeal to shared moral intuition rather than a source claim; record it as the speaker's inference and do not treat it as evidence of anything textual."
+      "verificationNote": "This is a rhetorical appeal to shared moral intuition rather than a source claim; record it as the speaker's inference and do not treat it as evidence of anything textual.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:51",
@@ -679,7 +788,10 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Note that the speaker says the authors lived \"2500 years ago in the desert\", which does not match the seventh-century dating he uses elsewhere in the same episode; record the discrepancy as stated."
+      "verificationNote": "Note that the speaker says the authors lived \"2500 years ago in the desert\", which does not match the seventh-century dating he uses elsewhere in the same episode; record the discrepancy as stated.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:21:37",
@@ -693,7 +805,8 @@
         "quran-rulings-time-bound-and-expired"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the four options are genuinely exhaustive as the speaker asserts, and record the standard theological replies (contextual application, maqasid-based reasoning) that the episode does not consider."
+      "verificationNote": "Assess whether the four options are genuinely exhaustive as the speaker asserts, and record the standard theological replies (contextual application, maqasid-based reasoning) that the episode does not consider.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -703,7 +816,8 @@
       "asStatedInVideo": "يتلو الآية من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "إنا نحن نزلنا الذكر وإنا له لحافظون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -711,14 +825,16 @@
       "asStatedInVideo": "الآية اللي بتقول ومن لم يحكم بما أنزل الله فأولئك هم الكافرون، وبآيات أخرى فأولئك هم الفاسقون والظالمون",
       "workTitle": "القرآن",
       "quotedArabic": "ومن لم يحكم بما أنزل الله فأولئك هم الكافرون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:01:49",
       "asStatedInVideo": "النبي صلى الله عليه وسلم يقول رأس الأمر الإسلام وعموده الصلاة وذروة سنامه الجهاد في سبيل الله — من دون ذكر المصدر",
       "quotedArabic": "رأس الأمر الإسلام وعموده الصلاة وذروة سنامه الجهاد في سبيل الله",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -726,7 +842,8 @@
       "asStatedInVideo": "يتلو الآية من دون ذكر السورة أو رقمها",
       "workTitle": "القرآن",
       "quotedArabic": "يا أيها الذين آمنوا هل أدلكم على تجارة تنجيكم من عذاب أليم، تؤمنون بالله ورسوله وتجاهدون في سبيل الله بأموالكم وأنفسكم، ذلكم خير لكم إن كنتم تعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -734,7 +851,8 @@
       "asStatedInVideo": "يتلو الآية من دون ذكر السورة أو رقمها",
       "workTitle": "القرآن",
       "quotedArabic": "ولئن قتلتم في سبيل الله أو متم لمغفرة من الله ورحمة خير مما يجمعون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -742,7 +860,8 @@
       "asStatedInVideo": "يتلو الآية من دون ذكر السورة أو رقمها",
       "workTitle": "القرآن",
       "quotedArabic": "يا أيها الذين آمنوا اتقوا الله وابتغوا إليه الوسيلة وجاهدوا في سبيله لعلكم تفلحون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -750,7 +869,8 @@
       "asStatedInVideo": "يتلو الآية من دون ذكر السورة أو رقمها",
       "workTitle": "القرآن",
       "quotedArabic": "إن الله اشترى من المؤمنين أنفسهم وأموالهم بأن لهم الجنة، يقاتلون في سبيل الله فيقتلون ويُقتلون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -758,14 +878,16 @@
       "asStatedInVideo": "مقطع لداعية يقول: غزوة بدر سنة 2، أحد سنة 3، كل سنة على الأقل غزوة",
       "locator": "بدر السنة الثانية، أحد السنة الثالثة للهجرة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:02",
       "asStatedInVideo": "الدكتور عبدالله رجدي (كذا في التفريغ، ويُرجَّح أنه الداعية عبد الله رشدي)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -773,7 +895,8 @@
       "asStatedInVideo": "لأن ربنا سبحانه وتعالى قال وقاتلوا في سبيل الله الذين يقاتلونكم وقال ولا تعتدوا — من دون ذكر رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "وقاتلوا في سبيل الله الذين يقاتلونكم ولا تعتدوا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "event",
@@ -781,7 +904,8 @@
       "asStatedInVideo": "ولا تعتدوا نزلت بفترة صلح الحديبية لما كان محمد ما عنده جيش ولا قوة ولا سلاح",
       "locator": "صلح الحديبية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -790,7 +914,8 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة (براءة)، الآية الأولى",
       "quotedArabic": "براءة من الله ورسوله إلى الذين عاهدتم من المشركين",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -799,7 +924,8 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة (براءة)",
       "quotedArabic": "فسيحوا في الأرض أربعة أشهر واعلموا أنكم غير معجزي الله وأن الله مخزي الكافرين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -808,21 +934,24 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة (براءة)",
       "quotedArabic": "فإذا انسلخ الأشهر الحرم فاقتلوا المشركين حيث وجدتموهم وخذوهم واحصروهم واقعدوا لهم كل مرصد، فإن تابوا وأقاموا الصلاة وآتوا الزكاة فخلّوا سبيلهم إن الله غفور رحيم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "book",
       "timestamp": "00:05:18",
       "asStatedInVideo": "يقرأ نصاً تفسيرياً لآية السيف من دون تسمية المفسر أو الكتاب",
       "quotedArabic": "وقوله فاقتلوا المشركين حيث وجدتموهم أي من الأرض وهذا عام ... بل اقصدوهم بالحصار في معاقلهم وحصونهم والرصد في طرقهم ومسالكهم حتى تضيق عليهم الواسع وتضطروهم إلى القتل أو الإسلام",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:03",
       "asStatedInVideo": "مقطع لداعية غير مسمّى يقول إن جهاد المهاجمة ما في شكله الآن حتى يأتي الله عز وجل بأمة واعية تستعد إيمانياً ونفسياً",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -830,7 +959,8 @@
       "asStatedInVideo": "في عنا آية بتحفز المسلمين على القتال — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "وإن يكن منكم عشرون صابرون يغلبوا مائتين وإن يكن منكم مائة يغلبوا ألفاً من الذين كفروا بأنهم قوم لا يفقهون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -838,7 +968,8 @@
       "asStatedInVideo": "فنُسخت بالآية اللي بتقول — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "الآن خفف الله عنكم وعلم أن فيكم ضعفاً، فإن يكن منكم مائة صابرة يغلبوا مائتين وإن يكن منكم ألف يغلبوا ألفين بإذن الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -846,7 +977,8 @@
       "asStatedInVideo": "الآية اللي بتقول وأعدوا لهم ما استطعتم من قوة — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "وأعدوا لهم ما استطعتم من قوة ومن رباط الخيل ترهبون به عدو الله وعدوكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -854,7 +986,8 @@
       "asStatedInVideo": "يتلو الآية من دون ذكر السورة أو رقمها",
       "workTitle": "القرآن",
       "quotedArabic": "والخيل والبغال والحمير لتركبوها وزينة ويخلق ما لا تعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -862,28 +995,32 @@
       "asStatedInVideo": "القرآن بيوصفهم بالأنجاس — إنما المشركون نجس، من دون ذكر رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "إنما المشركون نجس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:28",
       "asStatedInVideo": "مقطع لداعية غير مسمّى يقول إن هذه النجاسة معنوية أي قلوبهم نجسة وليست أجسادهم",
       "quotedArabic": "وأما قول الله تبارك وتعالى إنما المشركون نجس فهذه النجاسة المعنوية أي قلوبهم نجسة وليست أجسادهم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c22"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:14",
       "asStatedInVideo": "محمد — لما انتصر وسيطر على المنطقة قرر أنه ما حدا يفوت على مكة أو يصلي بالكعبة إلا المسلمين",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "event",
       "timestamp": "00:11:14",
       "asStatedInVideo": "سيطرة محمد على مكة ومنع غير المسلمين من دخولها والصلاة بالكعبة، وما تبع ذلك من تضرر التجارة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -892,7 +1029,8 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة",
       "quotedArabic": "وإن خفتم عيلة فسوف يغنيكم الله من فضله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -901,14 +1039,16 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة",
       "quotedArabic": "قاتلوا الذين لا يؤمنون بالله ولا باليوم الآخر ولا يحرمون ما حرم الله ورسوله ولا يدينون دين الحق من الذين أوتوا الكتاب حتى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "book",
       "timestamp": "00:12:10",
       "asStatedInVideo": "لما بنرجع لتفسير \"فإن خفتم عيلة\" — يقرأ نصاً تفسيرياً من دون تسمية المفسر أو الكتاب",
       "quotedArabic": "وذلك أن الناس قالوا ... فعوّضهم الله بما قطع عنهم من أمر الشرك فأعطاهم من أعناق أهل الكتاب من الجزية",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
@@ -917,7 +1057,8 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة",
       "quotedArabic": "وأنتم صاغرون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "quran",
@@ -925,7 +1066,8 @@
       "asStatedInVideo": "طبعاً لا إكراه في الدين، ما فينا نجبركم على الإسلام — يستخدمها ساخراً",
       "workTitle": "القرآن",
       "quotedArabic": "لا إكراه في الدين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -933,28 +1075,32 @@
       "asStatedInVideo": "الآية بتقول إنما الصدقات للفقراء والمساكين — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "إنما الصدقات للفقراء والمساكين والعاملين عليها والمؤلفة قلوبهم فريضة من الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
       "timestamp": "00:14:23",
       "asStatedInVideo": "الخلفاء مثل أبو بكر وعمر أخذوا هذا الحكم ورموه على جنب",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
       "timestamp": "00:15:10",
       "asStatedInVideo": "مقطع يقول: المشهور من فعل عمر رضي الله عنه وهو ظاهر مذهب مالك رحمه الله إلى أنه انتهى هذا بإعزاز الله للدين",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "person",
       "timestamp": "00:15:10",
       "asStatedInVideo": "مقطع لداعية غير مسمّى يقول: ما نقاتلهم عشان يدخلوا في الإسلام ولكن نقاتلهم حتى يُعبد الله وحده في الأرض ... يدفعون الجزية أجرة مقابل بقائهم في أرض الله",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -962,7 +1108,8 @@
       "asStatedInVideo": "لما بيتكلم عنه بيقول العبد بالعبد والحر بالحر — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "الحر بالحر والعبد بالعبد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -970,7 +1117,8 @@
       "asStatedInVideo": "وأمة مؤمنة خير من كافرة (كذا في التفريغ) — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "ولأمة مؤمنة خير من مشركة",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
@@ -978,7 +1126,8 @@
       "asStatedInVideo": "وملك اليمين مكتوب بالقرآن بأكثر من مكان",
       "workTitle": "القرآن",
       "quotedArabic": "ملك اليمين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "quran",
@@ -986,7 +1135,8 @@
       "asStatedInVideo": "مثل قانون النساء قرن في بيوتكن ولا تبرجن تبرج الجاهلية الأولى",
       "workTitle": "القرآن",
       "quotedArabic": "وقرن في بيوتكن ولا تبرجن تبرج الجاهلية الأولى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -994,7 +1144,8 @@
       "asStatedInVideo": "ولا مفهوم يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين",
       "workTitle": "القرآن",
       "quotedArabic": "يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "quran",
@@ -1002,7 +1153,8 @@
       "asStatedInVideo": "عنا آية بالقرآن بتقول يا أيها الذين آمنوا إذا نكحتم المؤمنات — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "يا أيها الذين آمنوا إذا نكحتم المؤمنات ثم طلقتموهن من قبل أن تمسوهن فما لكم عليهن من عدة تعتدونها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "quran",
@@ -1010,35 +1162,40 @@
       "asStatedInVideo": "عنا آية تانية بتشرع لنا شو هي عدة الأطفال — من دون ذكر السورة أو رقم الآية",
       "workTitle": "القرآن",
       "quotedArabic": "واللائي يئسن من المحيض من نسائكم إن ارتبتم فعدتهن ثلاثة أشهر واللائي لم يحضن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "book",
       "timestamp": "00:18:02",
       "asStatedInVideo": "يقرأ نصاً تفسيرياً لآية العدة من دون تسمية المفسر أو الكتاب",
       "quotedArabic": "يقول تعالى مبيناً لعدة الآيسة وهي التي انقطع عنها الحيض لكبرها أنها ثلاثة أشهر، وكذا الصغار اللائي لم يبلغن سن الحيض أن عدتهن كعدة الآيسة ثلاثة أشهر، ولهذا قال واللائي لم يحضن",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c41"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:18:02",
       "asStatedInVideo": "مقطع يقول: أنكحه النبي صلى الله عليه وسلم عائشة وهي بنت ست سنين وبنى بها وهي بنت تسع سنين — من دون ذكر المصدر",
       "quotedArabic": "أنكحه النبي صلى الله عليه وسلم عائشة وهي بنت ست سنين وبنى بها وهي بنت تسع سنين",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c42"
     },
     {
       "citationType": "person",
       "timestamp": "00:18:02",
       "asStatedInVideo": "عائشة — البنت التي تزوجها محمد وعمرها ست سنين ودخل بها وهي بنت تسع",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     },
     {
       "citationType": "person",
       "timestamp": "00:18:49",
       "asStatedInVideo": "مقطع لشيخ غير مسمّى يقول: يجوز العقد على الصغيرة، أما التمكين من البناء فإذا كانت تتحمل البناء بُني بها، ولم تبلغ تلك السن التي وضعها القانون الباطل وهو الوصول بالبنت إلى ثمانية عشر عاماً",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c44"
     }
   ],
   "topicProposals": [

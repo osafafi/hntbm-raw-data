@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "clCug1P_l_I",
   "videoUrl": "https://www.youtube.com/watch?v=clCug1P_l_I",
   "videoTitle": "Episode 18 برنامج صندوق الإسلام - الحلقة الثامنة عشر/ لغز الوحى: من أين جاء القرآن؟",
@@ -48,7 +48,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check scientific and codicological studies on early Qur'anic manuscripts attributed to Uthman (e.g., Topkapi, Samarkand, Mashhad al-Husayni)."
+      "verificationNote": "Check scientific and codicological studies on early Qur'anic manuscripts attributed to Uthman (e.g., Topkapi, Samarkand, Mashhad al-Husayni).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:20",
@@ -59,7 +60,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check radio-carbon dating and paleographical analysis of the Sana'a palimpsest relative to other early fragments (e.g., Birmingham, Codex Parisino-petropolitanus)."
+      "verificationNote": "Check radio-carbon dating and paleographical analysis of the Sana'a palimpsest relative to other early fragments (e.g., Birmingham, Codex Parisino-petropolitanus).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:45",
@@ -70,7 +72,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Gerd Puin's published findings on the lower and upper text of the Sana'a palimpsest."
+      "verificationNote": "Check Gerd Puin's published findings on the lower and upper text of the Sana'a palimpsest.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:51",
@@ -82,7 +85,8 @@
         "quran-historical-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate methodological debates in Islamic studies regarding primary dependence on the Qur'anic text versus early historiographical literature."
+      "verificationNote": "Evaluate methodological debates in Islamic studies regarding primary dependence on the Qur'anic text versus early historiographical literature.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:35",
@@ -93,7 +97,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the narrative of the first revelation in Sirah/Hadith literature with Augustine's Confessions, Book VIII, Chapter 12."
+      "verificationNote": "Compare the narrative of the first revelation in Sirah/Hadith literature with Augustine's Confessions, Book VIII, Chapter 12.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:06:23",
@@ -104,7 +112,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical and Syriac manuscript evidence for translations or circulation of Augustine's writings in pre-Islamic Arabia and the Levant."
+      "verificationNote": "Check historical and Syriac manuscript evidence for translations or circulation of Augustine's writings in pre-Islamic Arabia and the Levant.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:17",
@@ -115,7 +124,10 @@
         "quran-historical-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check classical tafsir works (e.g., Ibn Kathir, al-Tabari) regarding the asbab al-nuzul and meanings of Surah 106 (Quraysh)."
+      "verificationNote": "Check classical tafsir works (e.g., Ibn Kathir, al-Tabari) regarding the asbab al-nuzul and meanings of Surah 106 (Quraysh).",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:10:55",
@@ -127,7 +139,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sahih al-Bukhari, Kitab Bad' al-Wahy (Hadith 3) for the narration regarding Waraqah ibn Nawfal and fatrat al-wahy."
+      "verificationNote": "Check Sahih al-Bukhari, Kitab Bad' al-Wahy (Hadith 3) for the narration regarding Waraqah ibn Nawfal and fatrat al-wahy.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:11:15",
@@ -138,7 +153,8 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical reports in Ibn Ishaq/Ibn Hisham and al-Tabari regarding the duration of fatrat al-wahy."
+      "verificationNote": "Check historical reports in Ibn Ishaq/Ibn Hisham and al-Tabari regarding the duration of fatrat al-wahy.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:50",
@@ -150,7 +166,8 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the balaghat additions by al-Zuhri in Sahih al-Bukhari regarding Muhammad's inclination to throw himself from mountain peaks during fatrat al-wahy."
+      "verificationNote": "Check the balaghat additions by al-Zuhri in Sahih al-Bukhari regarding Muhammad's inclination to throw himself from mountain peaks during fatrat al-wahy.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:57",
@@ -164,7 +181,8 @@
         "tle-revelation-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare reported physical phenomena of revelation in Hadith/Sirah (sweating, ringing sounds, heavy weight, falling) with medical literature on TLE."
+      "verificationNote": "Compare reported physical phenomena of revelation in Hadith/Sirah (sweating, ringing sounds, heavy weight, falling) with medical literature on TLE.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:43",
@@ -176,7 +194,10 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sahih al-Bukhari (Kitab al-Tafsir) for the cause of revelation of Qur'an 75:16 narrated by Ibn Abbas."
+      "verificationNote": "Check Sahih al-Bukhari (Kitab al-Tafsir) for the cause of revelation of Qur'an 75:16 narrated by Ibn Abbas.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:17:03",
@@ -187,7 +208,10 @@
         "quran"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check classical lexicographical and exegetical interpretations of the word 'Ummi' in the Qur'an (e.g., Surah 3:20, 62:2)."
+      "verificationNote": "Check classical lexicographical and exegetical interpretations of the word 'Ummi' in the Qur'an (e.g., Surah 3:20, 62:2).",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:17:45",
@@ -199,7 +223,8 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check textual variants of the Hira Hadith in Sahih al-Bukhari and other collections regarding the phrase 'Ma ana bi-qari'' vs 'Ma aqra''."
+      "verificationNote": "Check textual variants of the Hira Hadith in Sahih al-Bukhari and other collections regarding the phrase 'Ma ana bi-qari'' vs 'Ma aqra''.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:01",
@@ -210,7 +235,10 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Dostoevsky's letters and 'A Writer's Diary' for references to Muhammad's ascension and his personal experience with epilepsy."
+      "verificationNote": "Check Dostoevsky's letters and 'A Writer's Diary' for references to Muhammad's ascension and his personal experience with epilepsy.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:20:56",
@@ -221,7 +249,12 @@
         "quran-textual-transmission"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Examine the grammatical structure and early non-pointed rasm of Surah an-Najm (53:1-18)."
+      "verificationNote": "Examine the grammatical structure and early non-pointed rasm of Surah an-Najm (53:1-18).",
+      "citationRefs": [
+        "c10",
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:22:20",
@@ -232,7 +265,8 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check early Sirah accounts (e.g., Ibn Ishaq, al-Tabaqat al-Kubra) for reports of Muhammad falling to the ground prior to or during prophethood."
+      "verificationNote": "Check early Sirah accounts (e.g., Ibn Ishaq, al-Tabaqat al-Kubra) for reports of Muhammad falling to the ground prior to or during prophethood.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -244,7 +278,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "96:1-2",
       "quotedArabic": "اقرأ باسم ربك الذي خلق. خلق الإنسان من علق",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "book",
@@ -254,7 +289,8 @@
       "author": "Augustine of Hippo",
       "locator": "Page 165-166 (Dar al-Mashariq translation)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -264,7 +300,8 @@
       "author": "Anthony the Great",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -274,7 +311,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "73:1-2",
       "quotedArabic": "يا أيها المزمل قم الليل إلا قليلا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -284,7 +322,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "106:1-4",
       "quotedArabic": "لإيلاف قريش، إيلافهم رحلة الشتاء والصيف، فليعبدوا رب هذا البيت، الذي أطعمهم من جوع وآمنهم من خوف",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "hadith",
@@ -294,7 +333,8 @@
       "author": "Al-Bukhari",
       "locator": "Kitab Bad' al-Wahy",
       "quotedArabic": "ولم ينشب ورقة أن توفي وفتر الوحي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -304,7 +344,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "75:16-17",
       "quotedArabic": "لا تحرك به لسانك لتعجل به، إن علينا جمعه وقرآنه",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -314,7 +355,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "62:2",
       "quotedArabic": "هو الذي بعث في الأميين رسولا منهم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -324,7 +366,8 @@
       "author": "Fyodor Dostoevsky",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -334,7 +377,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "81:22",
       "quotedArabic": "وما صاحبكم بمجنون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -344,7 +388,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "15:6",
       "quotedArabic": "وقالوا يا أيها الذي نزل عليه الذكر إنك لمجنون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -354,7 +399,8 @@
       "author": "God (in Islamic tradition)",
       "locator": "53:1-4",
       "quotedArabic": "والنجم إذا هوى، ما ضل صاحبكم وما غوى، وما ينطق عن الهوى، إن هو إلا وحي يوحى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     }
   ],
   "topicProposals": [

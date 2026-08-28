@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "9fU8mYXTbY4",
   "videoUrl": "https://www.youtube.com/watch?v=9fU8mYXTbY4",
   "videoTitle": "هل من دليل على ان القرآن ليس من عند الله؟ هذا هو الدليل",
@@ -102,7 +102,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording and reference of Q4:82 ('afala yatadabbaruna al-qur'an wa-law kana min 'indi ghayri llahi la-wajadu fihi ikhtilafan kathira') and confirm the sura and verse number given."
+      "verificationNote": "Check the wording and reference of Q4:82 ('afala yatadabbaruna al-qur'an wa-law kana min 'indi ghayri llahi la-wajadu fihi ikhtilafan kathira') and confirm the sura and verse number given.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:00",
@@ -118,7 +121,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's own inference extending Q4:82; check whether the extension from 'discrepancy' to 'traces of human language' is a step the verse supports or an added premise."
+      "verificationNote": "This is the speaker's own inference extending Q4:82; check whether the extension from 'discrepancy' to 'traces of human language' is a step the verse supports or an added premise.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:00",
@@ -136,7 +142,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q26:192-195 (nazala bihi al-ruh al-amin ... bi-lisanin 'arabiyyin mubin); the speaker names the sura but gives no verse number."
+      "verificationNote": "Check the wording of Q26:192-195 (nazala bihi al-ruh al-amin ... bi-lisanin 'arabiyyin mubin); the speaker names the sura but gives no verse number.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:00:49",
@@ -152,7 +161,8 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's governing premise rather than a sourced claim; check whether Islamic theology holds this principle in the form stated and how apologetic literature answers it."
+      "verificationNote": "This is the speaker's governing premise rather than a sourced claim; check whether Islamic theology holds this principle in the form stated and how apologetic literature answers it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:36",
@@ -169,7 +179,8 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether the analogy holds: does naming convention in scripture addressed to a later audience require the original form, or is contemporary usage a sufficient explanation?"
+      "verificationNote": "Evaluate whether the analogy holds: does naming convention in scripture addressed to a later audience require the original form, or is contemporary usage a sufficient explanation?",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:14",
@@ -184,7 +195,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur'anic verses naming al-Tawrat, al-Injil and al-Zabur as sent down by God; the speaker gives no locators here."
+      "verificationNote": "Check the Qur'anic verses naming al-Tawrat, al-Injil and al-Zabur as sent down by God; the speaker gives no locators here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:14",
@@ -199,7 +211,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the doctrine of al-lawh al-mahfuz and whether mainstream Sunni theology holds the Qur'an's exact wording pre-existed creation, and how that doctrine handles loanwords."
+      "verificationNote": "Check the doctrine of al-lawh al-mahfuz and whether mainstream Sunni theology holds the Qur'an's exact wording pre-existed creation, and how that doctrine handles loanwords.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:04:04",
@@ -216,7 +231,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Hebrew form torah and its Arabic Qur'anic form al-Tawrat, and confirm the Qur'an nowhere renders it by an Arabic translation."
+      "verificationNote": "Check the Hebrew form torah and its Arabic Qur'anic form al-Tawrat, and confirm the Qur'an nowhere renders it by an Arabic translation.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -233,7 +251,11 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Greek nomos for the Torah in the Septuagint and Christian usage, and the Arabic namus (as in the Waraqa ibn Nawfal hadith) as its derivative."
+      "verificationNote": "Check the Greek nomos for the Torah in the Septuagint and Christian usage, and the Arabic namus (as in the Waraqa ibn Nawfal hadith) as its derivative.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -248,7 +270,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the structure of the Hebrew Bible (Torah, Nevi'im, Ketuvim), the meaning of Ketuvim, and whether Tehillim (Psalms) stands first among the Ketuvim."
+      "verificationNote": "Check the structure of the Hebrew Bible (Torah, Nevi'im, Ketuvim), the meaning of Ketuvim, and whether Tehillim (Psalms) stands first among the Ketuvim.",
+      "citationRefs": [
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -265,7 +291,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Arabic root z-b-r and the classical lexical sense of zabur, and whether the derivation from Ketuvim rather than from a Semitic cognate is defensible."
+      "verificationNote": "Check the Arabic root z-b-r and the classical lexical sense of zabur, and whether the derivation from Ketuvim rather than from a Semitic cognate is defensible.",
+      "citationRefs": [
+        "c3",
+        "c8",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:35",
@@ -281,7 +312,13 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's constructed criterion; check whether it is a rule the text itself observes elsewhere or a standard imposed from outside."
+      "verificationNote": "This is the speaker's constructed criterion; check whether it is a rule the text itself observes elsewhere or a standard imposed from outside.",
+      "citationRefs": [
+        "c3",
+        "c6",
+        "c8",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:22",
@@ -299,7 +336,11 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q3:65 and Q5:46 as quoted and confirm the verse numbers the speaker gives."
+      "verificationNote": "Check the wording of Q3:65 and Q5:46 as quoted and confirm the verse numbers the speaker gives.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:06:22",
@@ -316,7 +357,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the philological history of Arabic injil and its derivation from Greek euangelion, and whether transmission was direct or via Ethiopic or Syriac."
+      "verificationNote": "Check the philological history of Arabic injil and its derivation from Greek euangelion, and whether transmission was direct or via Ethiopic or Syriac.",
+      "citationRefs": [
+        "c4",
+        "c5",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:06:22",
@@ -333,7 +379,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Hebrew and Aramaic forms of the name (Yeshua / Yeshu ha-Notzri) and the scholarly explanations offered for the Qur'anic form 'Isa."
+      "verificationNote": "Check the Hebrew and Aramaic forms of the name (Yeshua / Yeshu ha-Notzri) and the scholarly explanations offered for the Qur'anic form 'Isa.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:07:12",
@@ -348,7 +397,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Gospel accounts of Jesus reading in the synagogue (Luke 4) and the actual linguistic situation of first-century Judaea — Hebrew, Aramaic and Greek use — since the speaker's 'all books were in Hebrew' is a strong claim."
+      "verificationNote": "Check the Gospel accounts of Jesus reading in the synagogue (Luke 4) and the actual linguistic situation of first-century Judaea — Hebrew, Aramaic and Greek use — since the speaker's 'all books were in Hebrew' is a strong claim.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:07:12",
@@ -365,7 +417,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the inference: it assumes a scripture must be named in the language of its first recipients; check whether Qur'anic usage of injil refers to a book title or to a message/genre."
+      "verificationNote": "Assess the inference: it assumes a scripture must be named in the language of its first recipients; check whether Qur'anic usage of injil refers to a book title or to a message/genre.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:12",
@@ -383,7 +438,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Hebrew besorah / besorat mashiach, the Greek euangelion, and the accepted etymology of Arabic injil; note the speaker's phrasing about 'orientalists' appears garbled in the transcript and should be checked against the audio."
+      "verificationNote": "Check the Hebrew besorah / besorat mashiach, the Greek euangelion, and the accepted etymology of Arabic injil; note the speaker's phrasing about 'orientalists' appears garbled in the transcript and should be checked against the audio.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:00",
@@ -400,7 +458,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the core inference of the episode; check the consistency of the two-option rule against other Qur'anic foreign terms (e.g. sijjil, firdaws, malakut) which may also be second-hand borrowings."
+      "verificationNote": "This is the core inference of the episode; check the consistency of the two-option rule against other Qur'anic foreign terms (e.g. sijjil, firdaws, malakut) which may also be second-hand borrowings.",
+      "citationRefs": [
+        "c8",
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:45",
@@ -417,7 +480,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the dilemma as posed and check whether Muslim apologetic literature offers a third option, such as address in the language of the audience."
+      "verificationNote": "Assess the dilemma as posed and check whether Muslim apologetic literature offers a third option, such as address in the language of the audience.",
+      "citationRefs": [
+        "c4",
+        "c5",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:45",
@@ -433,7 +501,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the scholarship on the identity of the Qur'anic nasara and on Jewish-Christian groups in late antique Arabia, and whether the Qur'an's usage actually conflates them."
+      "verificationNote": "Check the scholarship on the identity of the Qur'anic nasara and on Jewish-Christian groups in late antique Arabia, and whether the Qur'an's usage actually conflates them.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:08:45",
@@ -448,7 +519,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the historical record on Jewish-Christian sects (Ebionites, Nazoreans) and whether they in fact used no gospel text, and the Greek origin of the canonical gospels."
+      "verificationNote": "Check the historical record on Jewish-Christian sects (Ebionites, Nazoreans) and whether they in fact used no gospel text, and the Greek origin of the canonical gospels.",
+      "citationRefs": [
+        "c12",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:09:30",
@@ -466,7 +541,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the Qur'anic conception of a single Injil revealed to Jesus is best explained by confusion among sects or by a theological schema of one book per prophet."
+      "verificationNote": "Check whether the Qur'anic conception of a single Injil revealed to Jesus is best explained by confusion among sects or by a theological schema of one book per prophet.",
+      "citationRefs": [
+        "c5",
+        "c12",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:09:30",
@@ -484,7 +564,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether any Hebrew or Aramaic term corresponding to besorah was used by Jewish-Christian groups for a written scripture, and the attestation history of that usage."
+      "verificationNote": "Check whether any Hebrew or Aramaic term corresponding to besorah was used by Jewish-Christian groups for a written scripture, and the attestation history of that usage.",
+      "citationRefs": [
+        "c11",
+        "c12",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:10:19",
@@ -499,7 +584,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Hebrew Yehoshua/Yeshua etymology ('YHWH saves'), and that Joshua son of Nun and Jesus ben Sirach bear the same name."
+      "verificationNote": "Check the Hebrew Yehoshua/Yeshua etymology ('YHWH saves'), and that Joshua son of Nun and Jesus ben Sirach bear the same name.",
+      "citationRefs": [
+        "c17",
+        "c18",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:11:08",
@@ -516,7 +606,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Hebrew-to-Arabic shin/sin correspondence with the examples given (Shim'on/Sam'an, Shabbat/al-Sabt) and whether it is regular enough to establish the expected form Yasu'."
+      "verificationNote": "Check the Hebrew-to-Arabic shin/sin correspondence with the examples given (Shim'on/Sam'an, Shabbat/al-Sabt) and whether it is regular enough to establish the expected form Yasu'.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:11:08",
@@ -533,7 +626,11 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check that the earliest Christian mission to the Gentiles operated in Greek and Paul's role and epithet as apostle to the Gentiles."
+      "verificationNote": "Check that the earliest Christian mission to the Gentiles operated in Greek and Paul's role and epithet as apostle to the Gentiles.",
+      "citationRefs": [
+        "c21",
+        "c28"
+      ]
     },
     {
       "timestamp": "00:11:54",
@@ -550,7 +647,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Greek nominative -s ending on the cited names and the derivation of Iesous from Yeshua via the Septuagint."
+      "verificationNote": "Check the Greek nominative -s ending on the cited names and the derivation of Iesous from Yeshua via the Septuagint.",
+      "citationRefs": [
+        "c22",
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:11:54",
@@ -565,7 +667,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Coptic form of the name in the Coptic gospels and the language situation of pre-Islamic Egypt."
+      "verificationNote": "Check the Coptic form of the name in the Coptic gospels and the language situation of pre-Islamic Egypt.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:12:41",
@@ -582,7 +687,11 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether the Arabic 'Isa is philologically derivable from Greek Iesous by loss of the final sigma, and what alternative etymologies scholarship offers (Syriac Isho', deliberate rhyme with Musa)."
+      "verificationNote": "Check whether the Arabic 'Isa is philologically derivable from Greek Iesous by loss of the final sigma, and what alternative etymologies scholarship offers (Syriac Isho', deliberate rhyme with Musa).",
+      "citationRefs": [
+        "c13",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:12:41",
@@ -599,7 +708,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the argument's force given that the Qur'an addresses an Arabic-speaking audience using names current in its environment; check apologetic responses on this point."
+      "verificationNote": "Assess the argument's force given that the Qur'an addresses an Arabic-speaking audience using names current in its environment; check apologetic responses on this point.",
+      "citationRefs": [
+        "c13",
+        "c17",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:12:41",
@@ -615,7 +729,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "The speaker names no source for this theory; check the scholarly literature proposing a Jewish-Arabian origin for the form 'Isa and assess the evidence base."
+      "verificationNote": "The speaker names no source for this theory; check the scholarly literature proposing a Jewish-Arabian origin for the form 'Isa and assess the evidence base.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:27",
@@ -632,7 +747,12 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the proposed derivation of 'Isa from Esau (Hebrew Esav) and the evidence that Arabian Jews used such a mocking form; note the competing scholarly explanations."
+      "verificationNote": "Check the proposed derivation of 'Isa from Esau (Hebrew Esav) and the evidence that Arabian Jews used such a mocking form; note the competing scholarly explanations.",
+      "citationRefs": [
+        "c14",
+        "c15",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:13:27",
@@ -647,7 +767,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Malachi 1:2-3 for the quoted wording and the Genesis account of Esau selling his birthright, and whether the speaker's characterization of the rejection matches the text."
+      "verificationNote": "Check Malachi 1:2-3 for the quoted wording and the Genesis account of Esau selling his birthright, and whether the speaker's characterization of the rejection matches the text.",
+      "citationRefs": [
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:14:14",
@@ -663,7 +787,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the Qur'anic Christology is best described as a middle position between Jewish rejection and Christian doctrine, and whether that positioning would explain the choice of name."
+      "verificationNote": "Check whether the Qur'anic Christology is best described as a middle position between Jewish rejection and Christian doctrine, and whether that positioning would explain the choice of name.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:59",
@@ -680,7 +805,18 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the dilemma is exhaustive — check whether a Syriac Isho' route or an independent Arabian usage would escape both horns."
+      "verificationNote": "Assess whether the dilemma is exhaustive — check whether a Syriac Isho' route or an independent Arabian usage would escape both horns.",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c22",
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:14:59",
@@ -697,7 +833,10 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur'anic forms against Hebrew Avraham, Yishma'el, Yitzhaq, Ya'aqov, Moshe, Aharon and David; note that Qur'anic Ibrahim and Yahya are themselves not exact transliterations, which may weaken the claim of consistency."
+      "verificationNote": "Check the Qur'anic forms against Hebrew Avraham, Yishma'el, Yitzhaq, Ya'aqov, Moshe, Aharon and David; note that Qur'anic Ibrahim and Yahya are themselves not exact transliterations, which may weaken the claim of consistency.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:15:45",
@@ -714,7 +853,16 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the reconstructed transmission chain Hebrew → Greek → Coptic/Arabian → Arabic against the philological literature on the name."
+      "verificationNote": "Check the reconstructed transmission chain Hebrew → Greek → Coptic/Arabian → Arabic against the philological literature on the name.",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15",
+        "c22",
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:45",
@@ -732,7 +880,16 @@
         "quran-foreign-vocabulary-and-transmission-routes"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the episode's summary conclusion; check that it follows from the linguistic claims established earlier and does not rest on the uncertain Esau theory alone."
+      "verificationNote": "This is the episode's summary conclusion; check that it follows from the linguistic claims established earlier and does not rest on the uncertain Esau theory alone.",
+      "citationRefs": [
+        "c11",
+        "c13",
+        "c17",
+        "c20",
+        "c22",
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:15:45",
@@ -747,7 +904,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether 'ikhtilaf' in Q4:82 is understood in the exegetical tradition as internal contradiction, and whether the speaker's linguistic-inconsistency reading falls within that sense."
+      "verificationNote": "Check whether 'ikhtilaf' in Q4:82 is understood in the exegetical tradition as internal contradiction, and whether the speaker's linguistic-inconsistency reading falls within that sense.",
+      "citationRefs": [
+        "c1"
+      ]
     }
   ],
   "citations": [
@@ -758,7 +918,8 @@
       "workTitle": "القرآن",
       "locator": "4:82",
       "quotedArabic": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -767,7 +928,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الشعراء (بدون رقم آية)",
       "quotedArabic": "ينزل به الروح الأمين بلسان عربي مبين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -776,7 +938,8 @@
       "workTitle": "القرآن",
       "locator": "17:55",
       "quotedArabic": "وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلَىٰ بَعْضٍ وَآتَيْنَا دَاوُودَ زَبُورًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -785,7 +948,8 @@
       "workTitle": "القرآن",
       "locator": "3:65",
       "quotedArabic": "يَا أَهْلَ الْكِتَابِ لِمَ تُحَاجُّونَ فِي إِبْرَاهِيمَ وَمَا أُنزِلَتِ التَّوْرَاةُ وَالْإِنجِيلُ إِلَّا مِن بَعْدِهِ أَفَلَا تَعْقِلُونَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -794,63 +958,72 @@
       "workTitle": "القرآن",
       "locator": "5:46",
       "quotedArabic": "وَقَفَّيْنَا عَلَىٰ آثَارِهِم بِعِيسَى ابْنِ مَرْيَمَ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَآتَيْنَاهُ الْإِنجِيلَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
       "timestamp": "00:04:04",
       "asStatedInVideo": "التوراة، وهي كتاب القوانين اليهودي، والله أنزله لليهود باللسان العبري الذي هو لغتهم، اسمه بالعبري توراة",
       "workTitle": "التوراة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "book",
       "timestamp": "00:04:49",
       "asStatedInVideo": "ذهبت إلى اليونانية قبل ظهور الإسلام، وسميت باللفظ اليوناني نوموس، والذي جاء منها اللفظ المسيحي الناموس، أو ناموس اليهود",
       "workTitle": "الترجمة اليونانية للتوراة (نوموس)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
       "timestamp": "00:04:49",
       "asStatedInVideo": "فلهم ما يسمى بالتوراة، بل كتوفيم، لفظ عبري معناه الكتابات أو الكتب",
       "workTitle": "كتوفيم (الكتابات)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
       "timestamp": "00:04:49",
       "asStatedInVideo": "واللي أول واحد فيها هو كتاب المزامير أو تهليم",
       "workTitle": "المزامير / تهليم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
       "timestamp": "00:05:35",
       "asStatedInVideo": "عرب اللفظ إلى الزبور، بمعنى الكتاب المزبور، أو الكتاب المتقن كتابته",
       "workTitle": "الزبور",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "book",
       "timestamp": "00:07:12",
       "asStatedInVideo": "الإنجيل هو لفظ يوناني مترجم لكلمة البشارة أو البشرة بالعربي ... تكون باللفظ العبري الأصل بشورات، بشارة المسيح أو بشورات ماشيخ، التي ترجمت إلى اليونانية بلفظ أنجليون",
       "workTitle": "بشورات ماشيح / أنجليون (الإنجيل)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "book",
       "timestamp": "00:09:30",
       "asStatedInVideo": "أما مسيحيين الأمم هم من كانت لهم الأناجيل يونانية الأصل",
       "workTitle": "الأناجيل اليونانية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "book",
       "timestamp": "00:11:54",
       "asStatedInVideo": "جاء اسم المسيح إلى مصر في الأناجيل اليونانية والقبطية القديمة، التي كانت لغة مصر قبل دخول الإسلام",
       "workTitle": "الأناجيل اليونانية والقبطية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "book",
@@ -859,103 +1032,118 @@
       "workTitle": "سفر ملاخي (العهد القديم)",
       "locator": "سفر ملاخي (بدون إصحاح أو عدد)",
       "quotedArabic": "وَأَبْغَضْتُ عِيسُو وَجَعَلْتُ جِبَالَهُ خَرَابًا وَمِيرَاثَهُ لِذِئَابِ الْبَرِّيَّةِ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "book",
       "timestamp": "00:13:27",
       "asStatedInVideo": "عيسو شخصية في العهد القديم رفضها الله لأنه باع بكوريته، ورفض وصايا أبويه فرفضه الرب",
       "workTitle": "العهد القديم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "book",
       "timestamp": "00:03:14",
       "asStatedInVideo": "إن القرآن مكتوب في اللوح المحفوظ، قبل أن يخلق البشر جميعا",
       "workTitle": "اللوح المحفوظ (عقيدة)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:22",
       "asStatedInVideo": "والذي أنزله الله زعما على نبيه عيسى بن مريم ... ولماذا غير اسم نبيه العبري اليهودي من يشوع الناصري إلى عيسى بن مريم",
       "workTitle": "عيسى بن مريم / يشوع الناصري",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:19",
       "asStatedInVideo": "زي يشوع بن نون",
       "workTitle": "يشوع بن نون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:19",
       "asStatedInVideo": "ويشوع بن سراخ",
       "workTitle": "يشوع بن سيراخ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:08",
       "asStatedInVideo": "زي اسم شمعون بالعبري هو سمعان بالعربي",
       "workTitle": "شمعون / سمعان",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:08",
       "asStatedInVideo": "وأشهر من فعل ذلك كان بوليس الرسول رسول الأمم",
       "workTitle": "بولس الرسول",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:54",
       "asStatedInVideo": "زي هراقل يصبح هركليس",
       "workTitle": "هرقل / هركليس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:54",
       "asStatedInVideo": "وأخيل يصبح أخيليس",
       "workTitle": "أخيل / أخيليس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:54",
       "asStatedInVideo": "وهومر يصبح هوميروس",
       "workTitle": "هومر / هوميروس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
       "timestamp": "00:13:27",
       "asStatedInVideo": "كيما يتشابه مع شخص عيسو أخو يعقوب",
       "workTitle": "عيسو أخو يعقوب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
       "timestamp": "00:14:59",
       "asStatedInVideo": "مثل إبراهيم وإسماعيل وإسحاق ويعقوب وموسى وهارون وداود، ولم يغير أي من هذه الأسماء",
       "workTitle": "إبراهيم، إسماعيل، إسحاق، يعقوب، موسى، هارون، داود",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "event",
       "timestamp": "00:08:45",
       "asStatedInVideo": "عدة طوايف انتشرت من حوله في بداية الإسلام، قال وهم اليهود اليهوديين، والنصارى المتهودين، والمسيحيين الذين جاءوا من الأمم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
       "timestamp": "00:11:08",
       "asStatedInVideo": "فحينما بدأ التبشير وانتشار الحركة المسيحية الأولى إلى الأمم المجاورة حدث ذلك باللغة اليونانية، لغة الامبراطورية الرومانية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     }
   ],
   "topicProposals": [

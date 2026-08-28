@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "3RwGWemw2Jg",
   "videoUrl": "https://www.youtube.com/watch?v=3RwGWemw2Jg",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 5 - سقطات القرآن",
@@ -123,7 +123,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording quoted (يا أيها النبي حرض المؤمنين على القتال، إن يكن منكم عشرون صابرون يغلبوا مئتين) against Surat al-Anfal and confirm it states an obligation rather than a prediction, and whether flight is prohibited in the surrounding verses."
+      "verificationNote": "Check the wording quoted (يا أيها النبي حرض المؤمنين على القتال، إن يكن منكم عشرون صابرون يغلبوا مئتين) against Surat al-Anfal and confirm it states an obligation rather than a prediction, and whether flight is prohibited in the surrounding verses.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:13",
@@ -139,7 +143,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the classical occasion-of-revelation reports and tafsir for Q8:66 (Ibn Abbas and others) for whether they describe hardship, complaint, or battlefield failure, and whether any maghazi source records losses attributed to the earlier ratio."
+      "verificationNote": "Check the classical occasion-of-revelation reports and tafsir for Q8:66 (Ibn Abbas and others) for whether they describe hardship, complaint, or battlefield failure, and whether any maghazi source records losses attributed to the earlier ratio.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:01:57",
@@ -154,7 +162,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and sequence of the two verses in Surat al-Anfal and whether classical scholarship treats the second as abrogating the first (naskh)."
+      "verificationNote": "Verify the wording and sequence of the two verses in Surat al-Anfal and whether classical scholarship treats the second as abrogating the first (naskh).",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:43",
@@ -171,7 +182,10 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check how classical commentators gloss \"الآن خفف الله عنكم وعلم أن فيكم ضعفا\" — whether علم here is read as newly acquired knowledge or as the manifestation of existing knowledge — and record the range of positions without adjudicating them."
+      "verificationNote": "Check how classical commentators gloss \"الآن خفف الله عنكم وعلم أن فيكم ضعفا\" — whether علم here is read as newly acquired knowledge or as the manifestation of existing knowledge — and record the range of positions without adjudicating them.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:43",
@@ -188,7 +202,11 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the surrounding verses of Surat al-Anfal actually promise divine assistance in battle, and how the tension between promised victory and the revised ratio is handled in the tafsir tradition."
+      "verificationNote": "Check whether the surrounding verses of Surat al-Anfal actually promise divine assistance in battle, and how the tension between promised victory and the revised ratio is handled in the tafsir tradition.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:29",
@@ -203,7 +221,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check epigraphic and literary evidence for pre-Islamic Arabian religion — the use of Allah/Allahumma in pre-Islamic inscriptions and poetry, and scholarly accounts of whether idols were regarded as intercessors or as deities in themselves."
+      "verificationNote": "Check epigraphic and literary evidence for pre-Islamic Arabian religion — the use of Allah/Allahumma in pre-Islamic inscriptions and poetry, and scholarly accounts of whether idols were regarded as intercessors or as deities in themselves.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:29",
@@ -217,7 +236,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check scholarship on the term jahiliyya — its Qur'anic occurrences, its semantic range, and modern historiographical arguments that it is a retrospective Islamic construct rather than a description of the period."
+      "verificationNote": "Check scholarship on the term jahiliyya — its Qur'anic occurrences, its semantic range, and modern historiographical arguments that it is a retrospective Islamic construct rather than a description of the period.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:29",
@@ -232,7 +252,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check scholarship on Greek cult practice for whether statues were understood as loci of divine presence rather than as the gods themselves, and whether the speaker's characterization is accepted."
+      "verificationNote": "Check scholarship on Greek cult practice for whether statues were understood as loci of divine presence rather than as the gods themselves, and whether the speaker's characterization is accepted.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:04:06",
@@ -249,7 +272,10 @@
         "islamic-ritual-continuity-with-pre-islamic-practice"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Islamic texts on the status of the Black Stone and the Ka'ba — including Umar's reported statement that the stone neither harms nor benefits — and on whether supplication at the sacred precinct is held to be more efficacious, and record how apologetic literature distinguishes this from idol veneration."
+      "verificationNote": "Check Islamic texts on the status of the Black Stone and the Ka'ba — including Umar's reported statement that the stone neither harms nor benefits — and on whether supplication at the sacred precinct is held to be more efficacious, and record how apologetic literature distinguishes this from idol veneration.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:53",
@@ -266,7 +292,10 @@
         "islamic-ritual-continuity-with-pre-islamic-practice"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is an inference from the two preceding claims; verify that both premises are accurately stated before assessing the conclusion, and record the standard Islamic responses on the continuity of Meccan ritual."
+      "verificationNote": "This is an inference from the two preceding claims; verify that both premises are accurately stated before assessing the conclusion, and record the standard Islamic responses on the continuity of Meccan ritual.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:53",
@@ -282,7 +311,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check which Meccan suras contain biblical and para-biblical narrative material, and the scholarship on the literacy and social profile of the earliest Meccan converts."
+      "verificationNote": "Check which Meccan suras contain biblical and para-biblical narrative material, and the scholarship on the literacy and social profile of the earliest Meccan converts.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:35",
@@ -298,7 +330,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted verse and its occurrences of أساطير الأولين in the Qur'an, and check the tafsir reports on who is said to have made the accusation and in what setting."
+      "verificationNote": "Verify the quoted verse and its occurrences of أساطير الأولين in the Qur'an, and check the tafsir reports on who is said to have made the accusation and in what setting.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:05:35",
@@ -313,7 +349,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether any early source records doubt among Muhammad's own followers on the grounds that the material was already known, or whether this is the speaker's inference from the prohibition verse that follows."
+      "verificationNote": "Check whether any early source records doubt among Muhammad's own followers on the grounds that the material was already known, or whether this is the speaker's inference from the prohibition verse that follows.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:05:35",
@@ -327,7 +367,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the quoted verse (وإذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم...) and its sura, and check the classical exegesis of what the prohibition covers."
+      "verificationNote": "Verify the wording of the quoted verse (وإذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم...) and its sura, and check the classical exegesis of what the prohibition covers.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:16",
@@ -342,7 +385,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the verse's stated consequence is being in hellfire with them, and whether the Qur'an elsewhere offers an argumentative rather than avoidance response to the asatir al-awwalin charge."
+      "verificationNote": "Check whether the verse's stated consequence is being in hellfire with them, and whether the Qur'an elsewhere offers an argumentative rather than avoidance response to the asatir al-awwalin charge.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:16",
@@ -357,7 +404,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the Meccan punishment-verses invoking Ad, Thamud and Noah's people and check whether they threaten the Meccan audience specifically."
+      "verificationNote": "Identify the Meccan punishment-verses invoking Ad, Thamud and Noah's people and check whether they threaten the Meccan audience specifically.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:06:16",
@@ -372,7 +422,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the tafsir and sirah reports naming who is said to have uttered the challenge (commonly attributed to al-Nadr ibn al-Harith or Abu Jahl) and whether they are described as informed opponents."
+      "verificationNote": "Check the tafsir and sirah reports naming who is said to have uttered the challenge (commonly attributed to al-Nadr ibn al-Harith or Abu Jahl) and whether they are described as informed opponents.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:58",
@@ -387,7 +440,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted verse in Surat al-Anfal and locate the other verses about hastening the punishment that the speaker alludes to without citing."
+      "verificationNote": "Verify the quoted verse in Surat al-Anfal and locate the other verses about hastening the punishment that the speaker alludes to without citing.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:58",
@@ -402,7 +458,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and position of the quoted verse relative to the challenge verse, and check the classical exegesis of وهم يستغفرون applied to unbelievers."
+      "verificationNote": "Verify the wording and position of the quoted verse relative to the challenge verse, and check the classical exegesis of وهم يستغفرون applied to unbelievers.",
+      "citationRefs": [
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:42",
@@ -417,7 +477,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's interpretive conclusion; verify the sequence of challenge and reply verses on which it rests and record the standard exegetical explanation for the deferral of punishment."
+      "verificationNote": "This is the speaker's interpretive conclusion; verify the sequence of challenge and reply verses on which it rests and record the standard exegetical explanation for the deferral of punishment.",
+      "citationRefs": [
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:42",
@@ -433,7 +497,10 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the tafsir tradition reads the verse as an inability or as a decision of mercy and reprieve, and whether other Qur'anic narratives describe believers being extracted before a punishment falls."
+      "verificationNote": "Check whether the tafsir tradition reads the verse as an inability or as a decision of mercy and reprieve, and whether other Qur'anic narratives describe believers being extracted before a punishment falls.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:42",
@@ -450,7 +517,10 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Record as the speaker's trilemma; check whether classical theology addresses this verse under divine power or under the doctrine of respite (imhal)."
+      "verificationNote": "Record as the speaker's trilemma; check whether classical theology addresses this verse under divine power or under the doctrine of respite (imhal).",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:28",
@@ -465,7 +535,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted verse and check the classical exegesis of مصابيح and رجوما — whether the same objects are meant or whether commentators distinguish the lamps from the projectiles."
+      "verificationNote": "Verify the quoted verse and check the classical exegesis of مصابيح and رجوما — whether the same objects are meant or whether commentators distinguish the lamps from the projectiles.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:08:28",
@@ -480,7 +553,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Survey the Qur'anic vocabulary for celestial bodies (نجوم، كواكب، مصابيح، شمس، قمر، بروج) and check whether any distinction of kind or distance is made, and how the classical commentators describe the location of the stars."
+      "verificationNote": "Survey the Qur'anic vocabulary for celestial bodies (نجوم، كواكب، مصابيح، شمس، قمر، بروج) and check whether any distinction of kind or distance is made, and how the classical commentators describe the location of the stars.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:09:11",
@@ -495,7 +571,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the Qur'anic passages on استراق السمع and الملأ الأعلى and confirm they describe devils ascending to the heavens and being repelled."
+      "verificationNote": "Collect the Qur'anic passages on استراق السمع and الملأ الأعلى and confirm they describe devils ascending to the heavens and being repelled.",
+      "citationRefs": [
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:09:11",
@@ -510,7 +590,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check Islamic theological literature on the nature of jinn and devils (whether they are held to have subtle bodies) and how it reconciles that with being struck by shihab."
+      "verificationNote": "Check Islamic theological literature on the nature of jinn and devils (whether they are held to have subtle bodies) and how it reconciles that with being struck by shihab.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:09:52",
@@ -525,7 +610,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted verses in Surat al-Hijr and check how commentators construe the istithna' in إلا من استرق السمع — as a genuine exception to the guarding or as describing a pursuit that always succeeds."
+      "verificationNote": "Verify the quoted verses in Surat al-Hijr and check how commentators construe the istithna' in إلا من استرق السمع — as a genuine exception to the guarding or as describing a pursuit that always succeeds.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:52",
@@ -539,7 +627,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted wording against Surat al-Jinn and check the exegesis of the shift implied by فمن يستمع الآن — whether the guarding is presented as newly tightened."
+      "verificationNote": "Verify the quoted wording against Surat al-Jinn and check the exegesis of the shift implied by فمن يستمع الآن — whether the guarding is presented as newly tightened.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:10:24",
@@ -556,7 +647,11 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the exegetical tradition holds that the eavesdropper is always struck before delivering the news, or concedes that some information gets through, since the speaker's conclusion depends on the latter."
+      "verificationNote": "Check whether the exegetical tradition holds that the eavesdropper is always struck before delivering the news, or concedes that some information gets through, since the speaker's conclusion depends on the latter.",
+      "citationRefs": [
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:10:24",
@@ -571,7 +666,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith intended — the speaker names no collection or locator; the standard candidates are the reports on استراق السمع and the kahin in Sahih al-Bukhari (kitab al-tawhid / bad' al-khalq) and Sahih Muslim — and check whether they state the devil passes the word on before being struck."
+      "verificationNote": "Locate the hadith intended — the speaker names no collection or locator; the standard candidates are the reports on استراق السمع and the kahin in Sahih al-Bukhari (kitab al-tawhid / bad' al-khalq) and Sahih Muslim — and check whether they state the devil passes the word on before being struck.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:11:09",
@@ -586,7 +684,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Rhetorical characterization rather than a checkable claim; verify only that it is the speaker's assessment of the eavesdropping material and not attributed to a source."
+      "verificationNote": "Rhetorical characterization rather than a checkable claim; verify only that it is the speaker's assessment of the eavesdropping material and not attributed to a source.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:48",
@@ -602,7 +705,8 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the Qur'anic verses permitting the eating of an'am and any Islamic material on animal pain and the requirements of humane slaughter, so the objection can be stated against what the sources actually say."
+      "verificationNote": "Check the Qur'anic verses permitting the eating of an'am and any Islamic material on animal pain and the requirements of humane slaughter, so the objection can be stated against what the sources actually say.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:48",
@@ -618,7 +722,8 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the ethological literature on animal cognition, memory, individual personality and REM sleep for the specific capacities listed."
+      "verificationNote": "Check the ethological literature on animal cognition, memory, individual personality and REM sleep for the specific capacities listed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:29",
@@ -634,7 +739,8 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Personal testimony; an editor can only check the general veterinary literature on stress responses in herd animals witnessing slaughter, not the incident itself."
+      "verificationNote": "Personal testimony; an editor can only check the general veterinary literature on stress responses in herd animals witnessing slaughter, not the incident itself.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:29",
@@ -650,7 +756,8 @@
         "quran-divine-attributes-and-theodicy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Record as the speaker's theological inference; check Islamic theodicy literature on animal suffering for the standard responses."
+      "verificationNote": "Record as the speaker's theological inference; check Islamic theodicy literature on animal suffering for the standard responses.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:16",
@@ -665,7 +772,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "General thesis on the origin of religion; verify only that it is presented as the speaker's framing and check the comparative-religion literature he is implicitly relying on."
+      "verificationNote": "General thesis on the origin of religion; verify only that it is presented as the speaker's framing and check the comparative-religion literature he is implicitly relying on.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:16",
@@ -680,7 +788,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is the episode's summary thesis resting on the preceding claims; verify those individually rather than the generalization."
+      "verificationNote": "This is the episode's summary thesis resting on the preceding claims; verify those individually rather than the generalization.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -692,7 +801,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -702,7 +812,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "يا أيها النبي حرض المؤمنين على القتال إن يكن منكم عشرون صابرون يغلبوا مئتين وإن يكن منكم مئة يغلبوا ألفا من الذين كفروا بأنهم قوم لا يفقهون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -712,7 +823,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الآن خفف الله عنكم وعلم أن فيكم ضعفا فإن يكن منكم مئة صابرة يغلبوا مئتين وإن يكن منكم ألف يغلبوا ألفين بإذن الله والله مع الصابرين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -722,7 +834,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -732,7 +845,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "event",
@@ -742,7 +856,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -752,7 +867,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وإذا تتلى عليهم آياتنا قالوا قد سمعنا لو نشاء لقلنا مثل هذا إن هذا إلا أساطير الأولين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -762,7 +878,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وإذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم حتى يخوضوا في حديث غيره إنكم إذا مثلهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "event",
@@ -772,7 +889,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -782,7 +900,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وإذ قالوا اللهم إن كان هذا هو الحق من عندك فأمطر علينا حجارة من السماء أو ائتنا بعذاب أليم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -792,7 +911,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما كان الله ليعذبهم وأنت فيهم وما كان الله معذبهم وهم يستغفرون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -802,7 +922,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولقد زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -812,7 +933,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولقد جعلنا في السماء بروجا وزيناها للناظرين وحفظناها من كل شيطان رجيم إلا من استرق السمع فأتبعه شهاب مبين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -822,7 +944,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وأنا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبا وأنا كنا نقعد منها مقاعد للسمع فمن يستمع الآن يجد له شهابا رصدا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "hadith",
@@ -832,7 +955,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     }
   ],
   "topicProposals": [

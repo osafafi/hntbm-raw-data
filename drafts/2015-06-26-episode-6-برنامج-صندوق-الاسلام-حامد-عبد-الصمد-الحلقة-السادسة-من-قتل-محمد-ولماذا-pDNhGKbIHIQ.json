@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "pDNhGKbIHIQ",
   "videoUrl": "https://www.youtube.com/watch?v=pDNhGKbIHIQ",
   "videoTitle": "Episode 6 (برنامج صندوق الإسلام - حامد عبد الصمد: الحلقة السادسة (من قتل محمد؟ ولماذا؟",
@@ -48,7 +48,8 @@
         "sirah"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check biographical timeline in Ibn Ishaq/Ibn Hisham regarding the transition between the Meccan and Medinan periods."
+      "verificationNote": "Check biographical timeline in Ibn Ishaq/Ibn Hisham regarding the transition between the Meccan and Medinan periods.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:25",
@@ -59,7 +60,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify accounts of the Prophet presenting himself to Arab tribes in Sirah literature (e.g., Dalail al-Nubuwwah by al-Bayhaqi or Ibn Hisham)."
+      "verificationNote": "Verify accounts of the Prophet presenting himself to Arab tribes in Sirah literature (e.g., Dalail al-Nubuwwah by al-Bayhaqi or Ibn Hisham).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:55",
@@ -70,7 +72,10 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Jawad Ali's 'Al-Mufassal fi Tarikh al-Arab Qabl al-Islam' regarding the South Arabian origin theories of Quraysh."
+      "verificationNote": "Check Jawad Ali's 'Al-Mufassal fi Tarikh al-Arab Qabl al-Islam' regarding the South Arabian origin theories of Quraysh.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:04:13",
@@ -81,7 +86,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Ibn Hisham and Ibn Sa'd regarding Abdul-Muttalib's maternal ties to Banu al-Najjar of the Khazraj."
+      "verificationNote": "Check Ibn Hisham and Ibn Sa'd regarding Abdul-Muttalib's maternal ties to Banu al-Najjar of the Khazraj.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:28",
@@ -92,7 +98,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check primary sirah and maghazi works (e.g., al-Waqidi, Ibn Sa'd) for the total count of expeditions."
+      "verificationNote": "Check primary sirah and maghazi works (e.g., al-Waqidi, Ibn Sa'd) for the total count of expeditions.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:05",
@@ -103,7 +110,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check hadith grading and chain analysis for the 'al-tulaqa' report in Ibn Hisham, al-Bayhaqi, and hadith criticism literature."
+      "verificationNote": "Check hadith grading and chain analysis for the 'al-tulaqa' report in Ibn Hisham, al-Bayhaqi, and hadith criticism literature.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:08:30",
@@ -114,7 +124,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the lists of persons excluded from general amnesty during the Conquest of Mecca in Ibn Hisham or Sunan Abi Dawud."
+      "verificationNote": "Verify the lists of persons excluded from general amnesty during the Conquest of Mecca in Ibn Hisham or Sunan Abi Dawud.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:12",
@@ -126,7 +137,11 @@
         "hadith-ethical-controversies"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Cross-reference the narrative of the Makhzumi woman in Sahih al-Bukhari with the account of Khalid ibn al-Walid and Banu Jadhimah."
+      "verificationNote": "Cross-reference the narrative of the Makhzumi woman in Sahih al-Bukhari with the account of Khalid ibn al-Walid and Banu Jadhimah.",
+      "citationRefs": [
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:12:26",
@@ -137,7 +152,10 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the hadith of Salman al-Farsi in Sahih Muslim, Kitab al-Taharah, Bab al-Istintja'."
+      "verificationNote": "Verify the hadith of Salman al-Farsi in Sahih Muslim, Kitab al-Taharah, Bab al-Istintja'.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:13:50",
@@ -148,7 +166,10 @@
         "sirah"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Examine early Islamic political theology and reports concerning the events at Saqifat Bani Sa'idah."
+      "verificationNote": "Examine early Islamic political theology and reports concerning the events at Saqifat Bani Sa'idah.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:17:02",
@@ -159,7 +180,8 @@
         "sirah"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare reports on the poison at Khaybar in Sahih al-Bukhari with medical and historical analysis."
+      "verificationNote": "Compare reports on the poison at Khaybar in Sahih al-Bukhari with medical and historical analysis.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:01",
@@ -171,7 +193,10 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the narration attributed to Abdullah ibn Mas'ud in Musnad Ahmad or Al-Tabaqat al-Kubra by Ibn Sa'd."
+      "verificationNote": "Locate the narration attributed to Abdullah ibn Mas'ud in Musnad Ahmad or Al-Tabaqat al-Kubra by Ibn Sa'd.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:18:34",
@@ -185,7 +210,8 @@
         "death-of-muhammad-theories"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check non-canonical Shia polemical literature regarding the death of Muhammad."
+      "verificationNote": "Check non-canonical Shia polemical literature regarding the death of Muhammad.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:34",
@@ -196,7 +222,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check historical sources (e.g., Ibn Hisham, Ibn Sa'd, al-Tabari) regarding opposition to the Expedition of Usamah ibn Zayd."
+      "verificationNote": "Check historical sources (e.g., Ibn Hisham, Ibn Sa'd, al-Tabari) regarding opposition to the Expedition of Usamah ibn Zayd.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -206,48 +233,55 @@
       "asStatedInVideo": "كتاب المفصل في تاريخ العرب للدكتور جواد علي",
       "workTitle": "Al-Mufassal fi Tarikh al-Arab Qabl al-Islam",
       "author": "Jawad Ali",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:07:05",
       "asStatedInVideo": "اذهبوا فأنتم الطُلقاء",
       "quotedArabic": "اذهبوا فأنتم الطُلقاء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "event",
       "timestamp": "00:09:12",
       "asStatedInVideo": "خالد بن الوليد غار على قبيلة مسلمة وقتلهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:09:30",
       "asStatedInVideo": "اللهم إني أبرأ إليك مما فعل خالد",
       "quotedArabic": "اللهم إني أبرأ إليك مما فعل خالد",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:11:00",
       "asStatedInVideo": "من دخل بيت أبي سفيان فهو آمن",
       "quotedArabic": "من دخل بيت أبي سفيان فهو آمن",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:12:26",
       "asStatedInVideo": "صحيح مسلم في كتاب الطهارة في باب الاستطابة",
       "quotedArabic": "لقد علمكم نبيكم حتى الخراء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:14:05",
       "asStatedInVideo": "بُعثتُ أنا والساعةُ كهاتين",
       "quotedArabic": "بُعثتُ أنا والساعةُ كهاتين",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -255,13 +289,15 @@
       "asStatedInVideo": "ومن لم يحكم بما أنزل الله فأولئك هم الكافرون",
       "locator": "5:44",
       "quotedArabic": "ومن لم يحكم بما أنزل الله فأولئك هم الكافرون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:18:01",
       "asStatedInVideo": "عبد الله بن مسعود أقسم ثلاث مرات لقد قُتل رسول الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     }
   ],
   "topicProposals": [

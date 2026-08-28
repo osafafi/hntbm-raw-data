@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "8YDSnXuwKSc",
   "videoUrl": "https://www.youtube.com/watch?v=8YDSnXuwKSc",
   "videoTitle": "خرافة الإعجاز العلمي",
@@ -138,7 +138,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the specific arguments in the speaker’s earlier Zakir Naik video, compare Naik’s wording with the Arabic passages and pre-Islamic Greek sources, and assess whether the proposed proportions are defensible."
+      "verificationNote": "Identify the specific arguments in the speaker’s earlier Zakir Naik video, compare Naik’s wording with the Arabic passages and pre-Islamic Greek sources, and assess whether the proposed proportions are defensible.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:25",
@@ -154,7 +157,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the logical inference separately from the historical question, then investigate documented channels by which Greek learning circulated in late antique Arabia."
+      "verificationNote": "Assess the logical inference separately from the historical question, then investigate documented channels by which Greek learning circulated in late antique Arabia.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:11",
@@ -169,7 +173,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the analogy and check whether comparable learned intermediaries are independently attested in Muhammad’s environment."
+      "verificationNote": "Evaluate the analogy and check whether comparable learned intermediaries are independently attested in Muhammad’s environment.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:57",
@@ -185,7 +190,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Investigate literacy, book circulation, translation, trade, and oral transmission in western Arabia during late antiquity."
+      "verificationNote": "Investigate literacy, book circulation, translation, trade, and oral transmission in western Arabia during late antiquity.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:57",
@@ -201,7 +207,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare early interpretations of the passages discussed later in the video with modern scientific-miracle interpretations."
+      "verificationNote": "Compare early interpretations of the passages discussed later in the video with modern scientific-miracle interpretations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:13",
@@ -215,7 +222,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether the miracle inference follows from the evidence or merely fills a perceived explanatory gap."
+      "verificationNote": "Evaluate whether the miracle inference follows from the evidence or merely fills a perceived explanatory gap.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:10",
@@ -230,7 +238,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the cited Holy Fire, Buddhist, Hindu, Sikh, and Shinto examples and determine whether the comparison accurately represents the beliefs and proposed natural explanations."
+      "verificationNote": "Check the cited Holy Fire, Buddhist, Hindu, Sikh, and Shinto examples and determine whether the comparison accurately represents the beliefs and proposed natural explanations.",
+      "citationRefs": [
+        "c2",
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:08:27",
@@ -244,7 +257,14 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Treat this as a psychological and epistemological generalization; review empirical literature on motivated reasoning and interreligious miracle assessment."
+      "verificationNote": "Treat this as a psychological and epistemological generalization; review empirical literature on motivated reasoning and interreligious miracle assessment.",
+      "citationRefs": [
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:11:36",
@@ -259,7 +279,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the scriptural sources of each story and assess whether the comparison demonstrates inconsistent evidential standards."
+      "verificationNote": "Identify the scriptural sources of each story and assess whether the comparison demonstrates inconsistent evidential standards.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:36",
@@ -274,7 +295,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verse’s Arabic grammar, early tafsir, hadith reports, and the range of eschatological versus historical interpretations without supplying a locator absent from the transcript."
+      "verificationNote": "Check the verse’s Arabic grammar, early tafsir, hadith reports, and the range of eschatological versus historical interpretations without supplying a locator absent from the transcript.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:12:22",
@@ -289,7 +313,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the circulated images and claims, compare them with NASA’s descriptions of the relevant lunar geological features, and verify NASA’s official position."
+      "verificationNote": "Locate the circulated images and claims, compare them with NASA’s descriptions of the relevant lunar geological features, and verify NASA’s official position.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:13:02",
@@ -303,7 +330,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate Brad Bailey’s original NASA response, verify its wording and context, and confirm the identity and role attributed to him."
+      "verificationNote": "Locate Brad Bailey’s original NASA response, verify its wording and context, and confirm the identity and role attributed to him.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:13:42",
@@ -319,7 +349,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Arabic morphology and syntax, the other Qur’anic occurrence cited by the speaker, and the full range of early and modern exegetical glosses."
+      "verificationNote": "Check the Arabic morphology and syntax, the other Qur’anic occurrence cited by the speaker, and the full range of early and modern exegetical glosses.",
+      "citationRefs": [
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:14:22",
@@ -334,7 +368,17 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Consult each named commentator’s text at the cited verse and record the exact gloss, date, textual variant, and whether the speaker accurately characterizes majority and minority positions."
+      "verificationNote": "Consult each named commentator’s text at the cited verse and record the exact gloss, date, textual variant, and whether the speaker accurately characterizes majority and minority positions.",
+      "citationRefs": [
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c19",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:15:06",
@@ -350,7 +394,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the biblical passage the speaker meant, establish its date and wording in relevant languages, and compare it with the Qur’anic verse; the video supplies no locator."
+      "verificationNote": "Identify the biblical passage the speaker meant, establish its date and wording in relevant languages, and compare it with the Qur’anic verse; the video supplies no locator.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:15:42",
@@ -366,7 +413,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Qur’anic stage terminology with extant Hippocratic, Aristotelian, and Galenic embryology and investigate documented transmission routes into late antique Arabia."
+      "verificationNote": "Compare the Qur’anic stage terminology with extant Hippocratic, Aristotelian, and Galenic embryology and investigate documented transmission routes into late antique Arabia.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:42",
@@ -380,7 +428,13 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Catalogue the named speakers’ miracle arguments and investigate reliable financial and career evidence before assessing the allegation of profit motive."
+      "verificationNote": "Catalogue the named speakers’ miracle arguments and investigate reliable financial and career evidence before assessing the allegation of profit motive.",
+      "citationRefs": [
+        "c24",
+        "c25",
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:16:29",
@@ -395,7 +449,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the unnamed researcher and original experiment, check whether peer-reviewed methods and reproducible results exist, and trace how the Zamzam version circulated."
+      "verificationNote": "Identify the unnamed researcher and original experiment, check whether peer-reviewed methods and reproducible results exist, and trace how the Zamzam version circulated.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:17:16",
@@ -411,7 +468,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Arabic wording and early exegesis, then distinguish ordinary climbing symptoms from modern claims about oxygen partial pressure and atmospheric pressure."
+      "verificationNote": "Check the Arabic wording and early exegesis, then distinguish ordinary climbing symptoms from modern claims about oxygen partial pressure and atmospheric pressure.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:18:47",
@@ -427,7 +487,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the lexical history of al-tariq and al-thaqib, early tafsir, and the origin of the neutron-star interpretation."
+      "verificationNote": "Examine the lexical history of al-tariq and al-thaqib, early tafsir, and the origin of the neutron-star interpretation.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:19:30",
@@ -442,7 +505,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the specific Ark-discovery stories alluded to, review archaeological reports, and determine whether any cited evidence was authenticated."
+      "verificationNote": "Trace the specific Ark-discovery stories alluded to, review archaeological reports, and determine whether any cited evidence was authenticated.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:20:11",
@@ -458,7 +524,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the relevant hadith versions and the exact Dong Zhongshu passage, establish their dates, translations, and whether the number and anatomical term are genuinely comparable."
+      "verificationNote": "Identify the relevant hadith versions and the exact Dong Zhongshu passage, establish their dates, translations, and whether the number and anatomical term are genuinely comparable.",
+      "citationRefs": [
+        "c32",
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:20:11",
@@ -473,7 +544,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Read the Chinese work in context and verify the cosmological reasoning, terminology, and relationship between the number of days or heavens and bodily joints."
+      "verificationNote": "Read the Chinese work in context and verify the cosmological reasoning, terminology, and relationship between the number of days or heavens and bodily joints.",
+      "citationRefs": [
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:20:50",
@@ -488,7 +563,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult anatomical authorities on definitions of joints, age-related fusion, anatomical variants, and the ranges produced under different counting methods."
+      "verificationNote": "Consult anatomical authorities on definitions of joints, age-related fusion, anatomical variants, and the ranges produced under different counting methods.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:34",
@@ -503,7 +579,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Define the exact orthographic and morphological counting rules, run them against a documented Qur’anic text, and reproduce or refute each total."
+      "verificationNote": "Define the exact orthographic and morphological counting rules, run them against a documented Qur’anic text, and reproduce or refute each total.",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:22:21",
@@ -518,7 +597,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the calendrical figures and evaluate whether the apologetic claim supplies a principled reason for selecting the common solar-year value."
+      "verificationNote": "Check the calendrical figures and evaluate whether the apologetic claim supplies a principled reason for selecting the common solar-year value.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:21",
@@ -533,7 +613,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Define the lexical set for refuge expressions and count every occurrence of Iblis and al-shaytan in a specified Qur’anic text."
+      "verificationNote": "Define the lexical set for refuge expressions and count every occurrence of Iblis and al-shaytan in a specified Qur’anic text.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:23:07",
@@ -548,7 +631,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate representative numerical-miracle tables, reproduce their counts, and inspect whether pairing and ratio criteria were defined before counting."
+      "verificationNote": "Locate representative numerical-miracle tables, reproduce their counts, and inspect whether pairing and ratio criteria were defined before counting.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:24:08",
@@ -563,7 +649,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Inspect the morphological and semantic categories used in the cited counts and determine whether distinct senses were combined consistently."
+      "verificationNote": "Inspect the morphological and semantic categories used in the cited counts and determine whether distinct senses were combined consistently.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:24:54",
@@ -578,7 +667,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Count all singular, dual, and plural forms from the relevant root and compare the inclusion rule with that used for other advertised word pairs."
+      "verificationNote": "Count all singular, dual, and plural forms from the relevant root and compare the inclusion rule with that used for other advertised word pairs.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:25:39",
@@ -592,7 +684,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the inferential gap between a textual pattern, intentional human composition, coincidence, post hoc selection, and divine authorship."
+      "verificationNote": "Evaluate the inferential gap between a textual pattern, intentional human composition, coincidence, post hoc selection, and divine authorship.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:24",
@@ -608,7 +701,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Document the biblical numerology attributed to Darby and scientific-miracle claims made for the Vedas, then compare their methods with Islamic examples."
+      "verificationNote": "Document the biblical numerology attributed to Darby and scientific-miracle claims made for the Vedas, then compare their methods with Islamic examples.",
+      "citationRefs": [
+        "c40",
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:27:11",
@@ -623,7 +721,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the proposed criterion of discriminatory evidential value and document intrareligious disagreement over the examples."
+      "verificationNote": "Assess the proposed criterion of discriminatory evidential value and document intrareligious disagreement over the examples.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:28:36",
@@ -638,7 +737,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Seek conversion data and testimony capable of distinguishing the effects of miracle arguments on insiders and outsiders."
+      "verificationNote": "Seek conversion data and testimony capable of distinguishing the effects of miracle arguments on insiders and outsiders.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:34:10",
@@ -653,7 +755,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the original sermon or broadcast making the universal claim and compare it with documented religious affiliations and statements of embryologists."
+      "verificationNote": "Locate the original sermon or broadcast making the universal claim and compare it with documented religious affiliations and statements of embryologists.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:34:10",
@@ -668,7 +771,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Review Moore’s recorded statements, publications, interviews, and reliable biographical evidence for his religious affiliation and precise assessment of Qur’anic embryology."
+      "verificationNote": "Review Moore’s recorded statements, publications, interviews, and reliable biographical evidence for his religious affiliation and precise assessment of Qur’anic embryology.",
+      "citationRefs": [
+        "c44"
+      ]
     },
     {
       "timestamp": "00:34:57",
@@ -682,7 +788,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Establish Moore’s employment dates and institution, obtain the original recordings, and assess the legal and professional context without assuming coercion from context alone."
+      "verificationNote": "Establish Moore’s employment dates and institution, obtain the original recordings, and assess the legal and professional context without assuming coercion from context alone.",
+      "citationRefs": [
+        "c45"
+      ]
     },
     {
       "timestamp": "00:34:57",
@@ -696,7 +805,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the 2002 Wall Street Journal article or correspondence and verify Moore’s exact quoted words and context."
+      "verificationNote": "Locate the 2002 Wall Street Journal article or correspondence and verify Moore’s exact quoted words and context.",
+      "citationRefs": [
+        "c46"
+      ]
     },
     {
       "timestamp": "00:35:44",
@@ -710,7 +822,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the book, contracts, editions, funders, distribution, intended curriculum, and any direct evidence for Moore’s motives."
+      "verificationNote": "Identify the book, contracts, editions, funders, distribution, intended curriculum, and any direct evidence for Moore’s motives.",
+      "citationRefs": [
+        "c47"
+      ]
     },
     {
       "timestamp": "00:36:23",
@@ -724,7 +839,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Inspect all relevant editions and acknowledgment pages, verify authorship and support credits, and distinguish financial, logistical, and honorary contributions."
+      "verificationNote": "Inspect all relevant editions and acknowledgment pages, verify authorship and support credits, and distinguish financial, logistical, and honorary contributions.",
+      "citationRefs": [
+        "c47",
+        "c48",
+        "c49"
+      ]
     },
     {
       "timestamp": "00:36:23",
@@ -739,7 +859,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the unnamed embryology textbook, inspect its sixth edition and publication date, and record exactly what it says about Hippocrates and Galen."
+      "verificationNote": "Identify the unnamed embryology textbook, inspect its sixth edition and publication date, and record exactly what it says about Hippocrates and Galen.",
+      "citationRefs": [
+        "c50",
+        "c51"
+      ]
     },
     {
       "timestamp": "00:37:08",
@@ -755,7 +879,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Galenic work intended, compare its original Greek or critical translation stage by stage with the Qur’anic wording, and verify the chronological interval."
+      "verificationNote": "Identify the Galenic work intended, compare its original Greek or critical translation stage by stage with the Qur’anic wording, and verify the chronological interval.",
+      "citationRefs": [
+        "c52",
+        "c53"
+      ]
     },
     {
       "timestamp": "00:37:08",
@@ -770,7 +898,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Specify each alleged parallel and error, then compare them with modern embryology and the semantic range of the relevant ancient and Qur’anic terms."
+      "verificationNote": "Specify each alleged parallel and error, then compare them with modern embryology and the semantic range of the relevant ancient and Qur’anic terms.",
+      "citationRefs": [
+        "c52",
+        "c53"
+      ]
     },
     {
       "timestamp": "00:38:33",
@@ -784,7 +916,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Review Lang’s own conversion accounts in full and determine whether he attributes the conversion to scientific evidence, spirituality, or other reasons."
+      "verificationNote": "Review Lang’s own conversion accounts in full and determine whether he attributes the conversion to scientific evidence, spirituality, or other reasons.",
+      "citationRefs": [
+        "c54"
+      ]
     },
     {
       "timestamp": "00:40:09",
@@ -800,7 +935,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Catalogue Sunni, Shi'i, classical, and modern positions and the primary reports each uses concerning Muhammad’s literacy at different periods."
+      "verificationNote": "Catalogue Sunni, Shi'i, classical, and modern positions and the primary reports each uses concerning Muhammad’s literacy at different periods.",
+      "citationRefs": [
+        "c56",
+        "c58"
+      ]
     },
     {
       "timestamp": "00:40:09",
@@ -815,7 +954,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate Ibn Atiyya’s exact gloss of al-nabi al-ummi and determine whether the video states his interpretation accurately and completely."
+      "verificationNote": "Locate Ibn Atiyya’s exact gloss of al-nabi al-ummi and determine whether the video states his interpretation accurately and completely.",
+      "citationRefs": [
+        "c55",
+        "c56"
+      ]
     },
     {
       "timestamp": "00:40:09",
@@ -830,7 +973,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Shi'i sources intended, their dates and chains of transmission, and their precise claims about languages and literacy."
+      "verificationNote": "Identify the Shi'i sources intended, their dates and chains of transmission, and their precise claims about languages and literacy.",
+      "citationRefs": [
+        "c58"
+      ]
     },
     {
       "timestamp": "00:40:50",
@@ -846,7 +992,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the specific literacy reports and the speaker’s earlier political-fabrication analysis, then assess each report’s isnad, textual history, and proposed political function."
+      "verificationNote": "Identify the specific literacy reports and the speaker’s earlier political-fabrication analysis, then assess each report’s isnad, textual history, and proposed political function.",
+      "citationRefs": [
+        "c57",
+        "c59"
+      ]
     },
     {
       "timestamp": "00:40:50",
@@ -861,7 +1011,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the al-Tirmidhi report without inventing a number, verify its Arabic wording, grading, variant language designation, and historical interpretation."
+      "verificationNote": "Locate the al-Tirmidhi report without inventing a number, verify its Arabic wording, grading, variant language designation, and historical interpretation.",
+      "citationRefs": [
+        "c60",
+        "c61"
+      ]
     },
     {
       "timestamp": "00:40:50",
@@ -877,7 +1031,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate all versions of the report, distinguish Hebrew from Syriac wording, and examine whether the language competence and translation role are historically credible."
+      "verificationNote": "Locate all versions of the report, distinguish Hebrew from Syriac wording, and examine whether the language competence and translation role are historically credible.",
+      "citationRefs": [
+        "c60"
+      ]
     },
     {
       "timestamp": "00:40:50",
@@ -893,7 +1050,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the terms discussed in the speaker’s earlier video and compare accepted loanword scholarship with disputed Syro-Aramaic derivations."
+      "verificationNote": "Identify the terms discussed in the speaker’s earlier video and compare accepted loanword scholarship with disputed Syro-Aramaic derivations.",
+      "citationRefs": [
+        "c62"
+      ]
     },
     {
       "timestamp": "00:41:34",
@@ -907,7 +1067,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate Ibn Hajar’s statement, record its work and context, and verify whether it reconciles separate report variants as the speaker says."
+      "verificationNote": "Locate Ibn Hajar’s statement, record its work and context, and verify whether it reconciles separate report variants as the speaker says.",
+      "citationRefs": [
+        "c63"
+      ]
     },
     {
       "timestamp": "00:42:20",
@@ -923,7 +1086,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the Qur’anic passages and early reports describing accusations of foreign instruction or earlier tales, and distinguish what the sources actually allege."
+      "verificationNote": "Identify the Qur’anic passages and early reports describing accusations of foreign instruction or earlier tales, and distinguish what the sources actually allege.",
+      "citationRefs": [
+        "c65"
+      ]
     },
     {
       "timestamp": "00:43:02",
@@ -939,7 +1105,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check contemporary and early evidence for the presence, occupations, languages, origins, and level of learning of these groups in Mecca and Muhammad’s wider environment."
+      "verificationNote": "Check contemporary and early evidence for the presence, occupations, languages, origins, and level of learning of these groups in Mecca and Muhammad’s wider environment.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:43:02",
@@ -955,7 +1122,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Examine the earliest reports about Waraqa’s literacy, languages, scriptural activity, relationship with Muhammad, and chronology of contact."
+      "verificationNote": "Examine the earliest reports about Waraqa’s literacy, languages, scriptural activity, relationship with Muhammad, and chronology of contact.",
+      "citationRefs": [
+        "c66"
+      ]
     },
     {
       "timestamp": "00:43:02",
@@ -971,7 +1141,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report quoted by the speaker, verify its source, wording, dating, isnad assessment, and whether 'books' means correspondence or scriptural texts."
+      "verificationNote": "Locate the report quoted by the speaker, verify its source, wording, dating, isnad assessment, and whether 'books' means correspondence or scriptural texts.",
+      "citationRefs": [
+        "c67",
+        "c68"
+      ]
     },
     {
       "timestamp": "00:43:43",
@@ -987,7 +1161,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the traditional portrayal of Meccan trade with archaeological, epigraphic, geographic, and late antique historical scholarship on Mecca’s actual commercial reach."
+      "verificationNote": "Compare the traditional portrayal of Meccan trade with archaeological, epigraphic, geographic, and late antique historical scholarship on Mecca’s actual commercial reach.",
+      "citationRefs": [
+        "c69"
+      ]
     },
     {
       "timestamp": "00:44:23",
@@ -1003,7 +1180,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the cumulative inference after independently verifying each proposed transmission channel and distinguishing mere possibility from demonstrated historical dependence."
+      "verificationNote": "Evaluate the cumulative inference after independently verifying each proposed transmission channel and distinguishing mere possibility from demonstrated historical dependence.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -1015,7 +1193,8 @@
       "author": "Zakir Naik",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "event",
@@ -1025,7 +1204,8 @@
       "author": "",
       "locator": "Annual ceremony before Easter, as stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -1035,7 +1215,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "event",
@@ -1045,7 +1226,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -1055,7 +1237,8 @@
       "author": "",
       "locator": "Reign of Harun al-Rashid, no further locator stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "person",
@@ -1065,7 +1248,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "event",
@@ -1075,7 +1259,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -1085,7 +1270,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "event",
@@ -1095,7 +1281,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -1105,7 +1292,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "اقتربت الساعة وانشق القمر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "event",
@@ -1115,7 +1303,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
@@ -1125,7 +1314,8 @@
       "author": "Brad Bailey",
       "locator": "NASA response, no URL or date stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -1135,7 +1325,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "والسماء بنيناها بأيد وإنا لموسعون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -1145,7 +1336,8 @@
       "author": "",
       "locator": "Second occurrence not identified",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -1155,7 +1347,8 @@
       "author": "al-Qurtubi",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -1165,7 +1358,8 @@
       "author": "al-Baghawi",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -1175,7 +1369,8 @@
       "author": "al-Tabari",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
@@ -1185,7 +1380,8 @@
       "author": "al-Qinnawji",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1195,7 +1391,8 @@
       "author": "al-Mahalli",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -1205,7 +1402,8 @@
       "author": "al-Shawkani",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -1215,7 +1413,8 @@
       "author": "al-Sam'ani",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
@@ -1225,7 +1424,8 @@
       "author": "al-Zamakhshari",
       "locator": "Tafsir at the musi'un verse; work title not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "book",
@@ -1235,7 +1435,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "person",
@@ -1245,7 +1446,8 @@
       "author": "Zaghloul El-Naggar",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
@@ -1255,7 +1457,8 @@
       "author": "Zakir Naik",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
@@ -1265,7 +1468,8 @@
       "author": "Muhammad Shahrur",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1275,7 +1479,8 @@
       "author": "Ali Mansour al-Kayyali",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -1285,7 +1490,8 @@
       "author": "Unnamed Japanese researcher",
       "locator": "No publication or experiment details stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c28"
     },
     {
       "citationType": "quran",
@@ -1295,7 +1501,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "ومن يريد أن يضله يجعل صدره ضيقاً حرجاً كأنما يصعد في السماء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -1305,7 +1512,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "والسماء والطارق، وما أدراك ما الطارق، النجم الثاقب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "event",
@@ -1315,7 +1523,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c31"
     },
     {
       "citationType": "hadith",
@@ -1325,7 +1534,8 @@
       "author": "",
       "locator": "Collection and number not stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "person",
@@ -1335,7 +1545,8 @@
       "author": "Dong Zhongshu",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "book",
@@ -1345,7 +1556,8 @@
       "author": "Dong Zhongshu",
       "locator": "Passage asserting 360 joints; no locator stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1355,7 +1567,8 @@
       "author": "",
       "locator": "Corpus-wide word count; no edition stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
@@ -1365,7 +1578,8 @@
       "author": "",
       "locator": "Corpus-wide word count; no edition stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "quran",
@@ -1375,7 +1589,8 @@
       "author": "",
       "locator": "Corpus-wide word counts; no source table stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -1385,7 +1600,8 @@
       "author": "",
       "locator": "Corpus-wide word count; no edition stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "quran",
@@ -1395,7 +1611,8 @@
       "author": "",
       "locator": "Corpus-wide word count; no edition stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1405,7 +1622,8 @@
       "author": "Darby",
       "locator": "No first name, work, or locator stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c40"
     },
     {
       "citationType": "book",
@@ -1415,7 +1633,8 @@
       "author": "",
       "locator": "No passage stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "book",
@@ -1425,7 +1644,8 @@
       "author": "",
       "locator": "No specific Veda or passage stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "quran",
@@ -1435,7 +1655,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "فإن مع العسر يسراً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     },
     {
       "citationType": "person",
@@ -1445,7 +1666,8 @@
       "author": "Keith Moore",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c44"
     },
     {
       "citationType": "event",
@@ -1455,7 +1677,8 @@
       "author": "",
       "locator": "Saudi university, institution stated uncertainly",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c45"
     },
     {
       "citationType": "event",
@@ -1465,7 +1688,8 @@
       "author": "",
       "locator": "2002 interview request/article; no date or title stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c46"
     },
     {
       "citationType": "book",
@@ -1475,7 +1699,8 @@
       "author": "Keith Moore and collaborators",
       "locator": "Title and edition not stated at this timestamp",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c47"
     },
     {
       "citationType": "person",
@@ -1485,7 +1710,8 @@
       "author": "Abd al-Majid al-Zindani",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c48"
     },
     {
       "citationType": "person",
@@ -1495,7 +1721,8 @@
       "author": "Osama bin Laden",
       "locator": "Acknowledgment page in an unspecified edition",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c49"
     },
     {
       "citationType": "book",
@@ -1505,7 +1732,8 @@
       "author": "Keith Moore",
       "locator": "Sixth edition, 1998, as stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c50"
     },
     {
       "citationType": "person",
@@ -1515,7 +1743,8 @@
       "author": "Hippocrates",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c51"
     },
     {
       "citationType": "person",
@@ -1525,7 +1754,8 @@
       "author": "Galen",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c52"
     },
     {
       "citationType": "book",
@@ -1535,7 +1765,8 @@
       "author": "Galen",
       "locator": "No section or passage stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c53"
     },
     {
       "citationType": "person",
@@ -1545,7 +1776,8 @@
       "author": "Jeffrey Lang",
       "locator": "Conversion-story videos, no specific title stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c54"
     },
     {
       "citationType": "quran",
@@ -1555,7 +1787,8 @@
       "author": "",
       "locator": "Not stated in video",
       "quotedArabic": "النبي الأمي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c55"
     },
     {
       "citationType": "person",
@@ -1565,7 +1798,8 @@
       "author": "Ibn Atiyya",
       "locator": "Tafsir passage not identified",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c56"
     },
     {
       "citationType": "hadith",
@@ -1575,7 +1809,8 @@
       "author": "",
       "locator": "Unspecified reports",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c57"
     },
     {
       "citationType": "sirah",
@@ -1585,7 +1820,8 @@
       "author": "",
       "locator": "Unspecified Shi'i source",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c58"
     },
     {
       "citationType": "event",
@@ -1595,7 +1831,8 @@
       "author": "The speaker",
       "locator": "No title or URL stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c59"
     },
     {
       "citationType": "person",
@@ -1605,7 +1842,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c60"
     },
     {
       "citationType": "hadith",
@@ -1615,7 +1853,8 @@
       "author": "al-Tirmidhi",
       "locator": "Hadith number not stated",
       "quotedArabic": "قال زيد قال لي النبي صلى الله عليه وسلم تعلم السريانية أخشى على كتابنا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c61"
     },
     {
       "citationType": "event",
@@ -1625,7 +1864,8 @@
       "author": "The speaker",
       "locator": "No title or URL stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c62"
     },
     {
       "citationType": "person",
@@ -1635,7 +1875,8 @@
       "author": "Ibn Hajar",
       "locator": "Work and passage not stated",
       "quotedArabic": "السريانية غير العبرية، ولا مانع أن يكون أمر بتعلم اللغتين معاً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c63"
     },
     {
       "citationType": "person",
@@ -1645,7 +1886,8 @@
       "author": "Muhammad Metwally al-Sha'rawi",
       "locator": "Sermon or recording not identified",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c64"
     },
     {
       "citationType": "event",
@@ -1655,7 +1897,8 @@
       "author": "",
       "locator": "No verse or report identified",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c65"
     },
     {
       "citationType": "person",
@@ -1665,7 +1908,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c66"
     },
     {
       "citationType": "person",
@@ -1675,7 +1919,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c67"
     },
     {
       "citationType": "hadith",
@@ -1685,7 +1930,8 @@
       "author": "",
       "locator": "Collection and number not stated",
       "quotedArabic": "لا يأتيه كتاب من اليهود إلا ويأتي بزيد بن ثابت فيقول له اقرأه لي، فكان زيد بن ثابت يقرأه",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c68"
     },
     {
       "citationType": "event",
@@ -1695,7 +1941,8 @@
       "author": "",
       "locator": "Pre-Islamic and early Islamic Mecca; no source stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c69"
     }
   ],
   "topicProposals": []

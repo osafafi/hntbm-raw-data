@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "fvfaDwgl60w",
   "videoUrl": "https://www.youtube.com/watch?v=fvfaDwgl60w",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 2 - مشكلة الوحي و فشل جمع القرآن",
@@ -117,7 +117,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the earliest hadith and sirah versions of the first-revelation account and determine whether they say Muhammad initially knew the entity’s identity or source."
+      "verificationNote": "Locate the earliest hadith and sirah versions of the first-revelation account and determine whether they say Muhammad initially knew the entity’s identity or source.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:00:56",
@@ -132,7 +135,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Arabic recited in the video with Q96:1–5 and with the wording and sequence given in the earliest revelation reports."
+      "verificationNote": "Compare the Arabic recited in the video with Q96:1–5 and with the wording and sequence given in the earliest revelation reports.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:01:34",
@@ -148,7 +155,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the hadith and sirah variants concerning Waraqa’s religion, his use of the term namus, and whether he identified the figure as Gabriel or compared the experience with Moses."
+      "verificationNote": "Check the hadith and sirah variants concerning Waraqa’s religion, his use of the term namus, and whether he identified the figure as Gabriel or compared the experience with Moses.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:02:14",
@@ -163,7 +173,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the sirah or hadith report of Khadija’s test, compare its versions, and check exactly what actions and conclusion are attributed to her."
+      "verificationNote": "Locate the sirah or hadith report of Khadija’s test, compare its versions, and check exactly what actions and conclusion are attributed to her.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:02:55",
@@ -178,7 +191,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the argument’s logic and compare it with whether the cited Islamic accounts report independent witnesses to the entity or only to Muhammad’s reactions."
+      "verificationNote": "Assess the argument’s logic and compare it with whether the cited Islamic accounts report independent witnesses to the entity or only to Muhammad’s reactions.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:34",
@@ -193,7 +207,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Review the first-revelation reports for any direct self-identification by the being or divine confirmation before Khadija’s and Waraqa’s interpretations."
+      "verificationNote": "Review the first-revelation reports for any direct self-identification by the being or divine confirmation before Khadija’s and Waraqa’s interpretations.",
+      "citationRefs": [
+        "c2",
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:04:13",
@@ -208,7 +227,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and legal context of Q2:282 and identify the hadith collection, grading, context, and exact wording of the report about women’s testimony and deficient intellect."
+      "verificationNote": "Verify the wording and legal context of Q2:282 and identify the hadith collection, grading, context, and exact wording of the report about women’s testimony and deficient intellect.",
+      "citationRefs": [
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:04:13",
@@ -223,7 +246,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether the legal rule in Q2:282 applies to Khadija’s role in the revelation narrative and whether the comparison accurately represents the relevant Islamic doctrines."
+      "verificationNote": "Evaluate whether the legal rule in Q2:282 applies to Khadija’s role in the revelation narrative and whether the comparison accurately represents the relevant Islamic doctrines.",
+      "citationRefs": [
+        "c7",
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:04:55",
@@ -239,7 +267,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Separate the distinct reports involving Khadija, Waraqa, and Bahira, then assess what tests or grounds each source actually attributes to them."
+      "verificationNote": "Separate the distinct reports involving Khadija, Waraqa, and Bahira, then assess what tests or grounds each source actually attributes to them.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:34",
@@ -254,7 +283,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the epistemic inference and whether the Islamic sources cited elsewhere in the argument offer any independent or publicly checkable evidence."
+      "verificationNote": "Assess the epistemic inference and whether the Islamic sources cited elsewhere in the argument offer any independent or publicly checkable evidence.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:19",
@@ -268,7 +298,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the theological premise about how an all-wise deity must communicate and whether the source record is adequately represented as resting only on these two attestations."
+      "verificationNote": "Evaluate the theological premise about how an all-wise deity must communicate and whether the source record is adequately represented as resting only on these two attestations.",
+      "citationRefs": [
+        "c2",
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:07:44",
@@ -283,7 +318,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare early collection reports concerning written sheets, personal codices, memorization, scribes, and the existence or absence of a complete codex before Muhammad’s death."
+      "verificationNote": "Compare early collection reports concerning written sheets, personal codices, memorization, scribes, and the existence or absence of a complete codex before Muhammad’s death.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:07:44",
@@ -298,7 +336,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the precise writing materials named in the early collection traditions and whether any source supports the quantitative assertion that most material was unwritten."
+      "verificationNote": "Check the precise writing materials named in the early collection traditions and whether any source supports the quantitative assertion that most material was unwritten.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:07:44",
@@ -313,7 +354,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the collection and locator of the 'Take the Qur’an from four' hadith and verify the four names and the report’s wording."
+      "verificationNote": "Identify the collection and locator of the 'Take the Qur’an from four' hadith and verify the four names and the report’s wording.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:08:23",
@@ -328,7 +372,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify separately the early reports about reciters killed at al-Yamama and the claim that Abu Bakr deliberately deployed them to recite as motivation for combatants."
+      "verificationNote": "Verify separately the early reports about reciters killed at al-Yamama and the claim that Abu Bakr deliberately deployed them to recite as motivation for combatants.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:08:23",
@@ -343,7 +390,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the canonical collection report for Umar’s stated concern, Abu Bakr’s response, and whether it speaks of losing the Qur’an or merely much of it."
+      "verificationNote": "Check the canonical collection report for Umar’s stated concern, Abu Bakr’s response, and whether it speaks of losing the Qur’an or merely much of it.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:11",
@@ -358,7 +408,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the exact report behind this assertion and verify whether it says 'large portions,' whether they existed only with the dead reciters, and whether permanent textual loss is stated or inferred."
+      "verificationNote": "Identify the exact report behind this assertion and verify whether it says 'large portions,' whether they existed only with the dead reciters, and whether permanent textual loss is stated or inferred.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:09:11",
@@ -373,7 +426,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Zayd’s commission in the early reports, including who appointed him, the scope of his task, and whether the sources characterize the material as merely what survived."
+      "verificationNote": "Verify Zayd’s commission in the early reports, including who appointed him, the scope of his task, and whether the sources characterize the material as merely what survived.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:49",
@@ -388,7 +444,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the different reports about Zayd’s evidentiary rule and determine whether 'two witnesses' meant two persons, written and oral evidence, or another criterion."
+      "verificationNote": "Compare the different reports about Zayd’s evidentiary rule and determine whether 'two witnesses' meant two persons, written and oral evidence, or another criterion.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:49",
@@ -403,7 +462,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test this conclusion against all cited examples and distinguish source statements from the speaker’s inference about what the witness rule necessarily admitted or excluded."
+      "verificationNote": "Test this conclusion against all cited examples and distinguish source statements from the speaker’s inference about what the witness rule necessarily admitted or excluded.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:49",
@@ -417,7 +479,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate reports about al-Fatiha’s status in companion codices and verify whether any source says many companions denied its Qur’anic status or that Zayd admitted it specifically on two witnesses."
+      "verificationNote": "Locate reports about al-Fatiha’s status in companion codices and verify whether any source says many companions denied its Qur’anic status or that Zayd admitted it specifically on two witnesses.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:27",
@@ -432,7 +497,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify reports of singly attested passages and determine whether the passages were rejected, treated as abrogated, or preserved outside the standardized codex."
+      "verificationNote": "Identify reports of singly attested passages and determine whether the passages were rejected, treated as abrogated, or preserved outside the standardized codex.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:27",
@@ -447,7 +515,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Abu Musa report, verify its collection and wording, and check whether it compares the forgotten sura to Bara’a in length, severity, or both."
+      "verificationNote": "Locate the Abu Musa report, verify its collection and wording, and check whether it compares the forgotten sura to Bara’a in length, severity, or both.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:11:06",
@@ -462,7 +533,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Umar’s sermon in the hadith collections, its exact wording, and the classical explanations for the verse’s absence from the written Qur’an."
+      "verificationNote": "Verify Umar’s sermon in the hadith collections, its exact wording, and the classical explanations for the verse’s absence from the written Qur’an.",
+      "citationRefs": [
+        "c29",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:11:06",
@@ -477,7 +552,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the specific Umar variants, verify the stated reason for not writing the verse, and distinguish them from later commentary."
+      "verificationNote": "Locate the specific Umar variants, verify the stated reason for not writing the verse, and distinguish them from later commentary.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:11:46",
@@ -492,7 +570,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify whether the report combines both claims exactly as stated and verify its collection, chain, wording, grading, and relationship to Surat al-Ahzab."
+      "verificationNote": "Identify whether the report combines both claims exactly as stated and verify its collection, chain, wording, grading, and relationship to Surat al-Ahzab.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:11:46",
@@ -507,7 +588,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reports about the former length of al-Ahzab, verify whether the number is attributed to Aisha or another transmitter, and check the reported number precisely."
+      "verificationNote": "Locate the reports about the former length of al-Ahzab, verify whether the number is attributed to Aisha or another transmitter, and check the reported number precisely.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:11:46",
@@ -522,7 +606,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the report’s collection, chain, wording, and grading, and determine whether it states that the passages were lost from communal memory or only that one written sheet was eaten."
+      "verificationNote": "Verify the report’s collection, chain, wording, and grading, and determine whether it states that the passages were lost from communal memory or only that one written sheet was eaten.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:12:24",
@@ -537,7 +624,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the relevant Qur’anic challenge passages and assess whether Zayd’s witness rule concerned literary indistinguishability, authentication of provenance, or another issue."
+      "verificationNote": "Verify the relevant Qur’anic challenge passages and assess whether Zayd’s witness rule concerned literary indistinguishability, authentication of provenance, or another issue.",
+      "citationRefs": [
+        "c13",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:12:24",
@@ -552,7 +643,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify reports of opposition to Zayd’s collection and establish which companions objected, what they objected to, and whether the sources describe broad rejection."
+      "verificationNote": "Identify reports of opposition to Zayd’s collection and establish which companions objected, what they objected to, and whether the sources describe broad rejection.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:13:02",
@@ -567,7 +661,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Catalogue the codex differences reported in Kitab al-Masahif and other early sources, distinguishing orthographic, dialectal, reading, ordering, verse-count, and canon-boundary differences."
+      "verificationNote": "Catalogue the codex differences reported in Kitab al-Masahif and other early sources, distinguishing orthographic, dialectal, reading, ordering, verse-count, and canon-boundary differences.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:13:02",
@@ -581,7 +678,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify each codex attribution in the cited book and determine whether 'codex' means a complete Qur’an, a personal collection, reading notes, or transmitted variants."
+      "verificationNote": "Verify each codex attribution in the cited book and determine whether 'codex' means a complete Qur’an, a personal collection, reading notes, or transmitted variants.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:13:39",
@@ -596,7 +696,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Uthmanic recension reports for what materials were ordered burned, the stated reason, the geographic scope, and recorded resistance."
+      "verificationNote": "Check the Uthmanic recension reports for what materials were ordered burned, the stated reason, the geographic scope, and recorded resistance.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:13:39",
@@ -611,7 +714,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the relationship between Abu Bakr’s sheets, Hafsa’s possession, and Uthman’s exemplars, and check whether the sources support the claim that nobody accepted the earlier copy."
+      "verificationNote": "Verify the relationship between Abu Bakr’s sheets, Hafsa’s possession, and Uthman’s exemplars, and check whether the sources support the claim that nobody accepted the earlier copy.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:13:39",
@@ -626,7 +732,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Search the recension reports for concrete cases of first-hand written material excluded by Uthman and distinguish explicit coercion from the speaker’s inference from the destruction order."
+      "verificationNote": "Search the recension reports for concrete cases of first-hand written material excluded by Uthman and distinguish explicit coercion from the speaker’s inference from the destruction order.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:14:20",
@@ -641,7 +750,16 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether the collection, loss, variant, and recension reports cited by the speaker entail substantive non-identity with Muhammad’s recitations."
+      "verificationNote": "Evaluate whether the collection, loss, variant, and recension reports cited by the speaker entail substantive non-identity with Muhammad’s recitations.",
+      "citationRefs": [
+        "c13",
+        "c24",
+        "c27",
+        "c29",
+        "c30",
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:14:20",
@@ -656,7 +774,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Determine what evidence the speaker’s cited book offers for this assertion and compare it with manuscript, qira’at, orthographic, and transmission scholarship; the video gives no specific variant here."
+      "verificationNote": "Determine what evidence the speaker’s cited book offers for this assertion and compare it with manuscript, qira’at, orthographic, and transmission scholarship; the video gives no specific variant here.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:14:51",
@@ -671,7 +792,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Require the editor to identify specific suras and passages, then compare their manuscript ordering, traditional arrangement accounts, literary structure, and proposed interpolations."
+      "verificationNote": "Require the editor to identify specific suras and passages, then compare their manuscript ordering, traditional arrangement accounts, literary structure, and proposed interpolations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:51",
@@ -686,7 +808,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether textual complexity can be linked to demonstrable compilation seams and compare this hypothesis with linguistic, literary, chronological, and traditional explanations."
+      "verificationNote": "Assess whether textual complexity can be linked to demonstrable compilation seams and compare this hypothesis with linguistic, literary, chronological, and traditional explanations.",
+      "citationRefs": [
+        "c13"
+      ]
     }
   ],
   "citations": [
@@ -698,7 +823,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "sirah",
@@ -708,7 +834,8 @@
       "author": "",
       "locator": "بداية الوحي في غار حراء",
       "quotedArabic": "ما أنا بقارئ",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -718,7 +845,8 @@
       "author": "",
       "locator": "96:1–5",
       "quotedArabic": "اقرأ باسم ربك الذي خلق، خلق الإنسان من علق. اقرأ وربك الأكرم الذي علم بالقلم، علم الإنسان ما لم يعلم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -728,7 +856,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -738,7 +867,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "sirah",
@@ -748,7 +878,8 @@
       "author": "",
       "locator": "رواية بدء الوحي وورقة بن نوفل",
       "quotedArabic": "هذا الناموس الذي أنزل الله على موسى",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "sirah",
@@ -758,7 +889,8 @@
       "author": "",
       "locator": "اختبار خديجة للكيان الظاهر لمحمد",
       "quotedArabic": "أبشر، والله إنه لملاك خير وليس بشيطان",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "person",
@@ -768,7 +900,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -778,7 +911,8 @@
       "author": "",
       "locator": "2:282",
       "quotedArabic": "واستشهدوا شهيدين من رجالكم، فإن لم يكونا رجلين فرجل وامرأتان",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "hadith",
@@ -788,7 +922,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "أليست شهادة المرأة مثل نصف شهادة الرجل؟ قلنا بلى. قال: فذلك من نقصان عقلها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -798,7 +933,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "book",
@@ -808,7 +944,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "book",
@@ -818,7 +955,8 @@
       "author": "",
       "locator": "ص 153؛ قسم جمع أبي بكر القرآن بعد محمد، ثم جمع عثمان المصاحف",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "hadith",
@@ -828,7 +966,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "خذوا القرآن من أربعة",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -838,7 +977,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -848,7 +988,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -858,7 +999,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
@@ -868,7 +1010,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -878,7 +1021,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -888,7 +1032,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "event",
@@ -898,7 +1043,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
@@ -908,7 +1054,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c22"
     },
     {
       "citationType": "person",
@@ -918,7 +1065,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c23"
     },
     {
       "citationType": "hadith",
@@ -928,7 +1076,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -938,7 +1087,8 @@
       "author": "",
       "locator": "سورة الفاتحة؛ لم يذكر رقم آية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
@@ -948,7 +1098,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "hadith",
@@ -958,7 +1109,8 @@
       "author": "",
       "locator": "رواية السورة المشبهة ببراءة",
       "quotedArabic": "لو كان لابن آدم واديان من مال لابتغى وادياً ثالثاً، ولا يملأ جوف ابن آدم إلا التراب",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
@@ -968,7 +1120,8 @@
       "author": "",
       "locator": "سورة براءة/التوبة؛ لم يذكر رقم السورة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "hadith",
@@ -978,7 +1131,8 @@
       "author": "",
       "locator": "خطبة عمر في آية الرجم",
       "quotedArabic": "فكان مما أنزل الله آية الرجم، فقرأناها وعقلناها ووعيناها. رجم رسول الله صلى الله عليه وسلم ورجمنا من بعده، وأخشى أن يطول بالناس زمان أن يقول قائل: والله ما نجد آية الرجم في كتاب الله، فيضلوا بترك فريضة أنزلها الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "hadith",
@@ -988,7 +1142,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -998,7 +1153,8 @@
       "author": "",
       "locator": "آية الرجم المروية؛ ليست في المصحف الحالي بحسب المتحدث",
       "quotedArabic": "والشيخ والشيخة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1008,7 +1164,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c32"
     },
     {
       "citationType": "hadith",
@@ -1018,7 +1175,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1028,7 +1186,8 @@
       "author": "",
       "locator": "سورة الأحزاب؛ لم يذكر رقم السورة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1038,7 +1197,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "person",
@@ -1048,7 +1208,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1058,7 +1219,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c37"
     },
     {
       "citationType": "person",
@@ -1068,7 +1230,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c38"
     },
     {
       "citationType": "person",
@@ -1078,7 +1241,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1088,7 +1252,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c40"
     },
     {
       "citationType": "person",
@@ -1098,7 +1263,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c41"
     },
     {
       "citationType": "person",
@@ -1108,7 +1274,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c42"
     },
     {
       "citationType": "person",
@@ -1118,7 +1285,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c43"
     },
     {
       "citationType": "person",
@@ -1128,7 +1296,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c44"
     },
     {
       "citationType": "person",
@@ -1138,7 +1307,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c45"
     },
     {
       "citationType": "person",
@@ -1148,7 +1318,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c46"
     },
     {
       "citationType": "person",
@@ -1158,7 +1329,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c47"
     },
     {
       "citationType": "event",
@@ -1168,7 +1340,8 @@
       "author": "",
       "locator": "التوحيد العثماني للمصاحف",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c48"
     }
   ],
   "topicProposals": []

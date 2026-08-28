@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "qVCZ4FjYL0g",
   "videoUrl": "https://www.youtube.com/watch?v=qVCZ4FjYL0g",
   "videoTitle": "أكاذيب البخاري وحقيقة الأحاديث",
@@ -144,7 +144,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check al-Bukhari's full name and nisba, his birthplace and birth/death dates in the biographical literature, and confirm the interval from Muhammad's traditional death date (11 AH / 632 CE)."
+      "verificationNote": "Check al-Bukhari's full name and nisba, his birthplace and birth/death dates in the biographical literature, and confirm the interval from Muhammad's traditional death date (11 AH / 632 CE).",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:01",
@@ -161,7 +164,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the named contemporaries said to have impugned al-Bukhari (e.g. reports connected with al-Dhuhli and the khalq al-Qur'an dispute) and trace when his collection acquired its canonical standing."
+      "verificationNote": "Identify the named contemporaries said to have impugned al-Bukhari (e.g. reports connected with al-Dhuhli and the khalq al-Qur'an dispute) and trace when his collection acquired its canonical standing.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:01",
@@ -178,7 +182,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the biographical reports attributing memorization figures to al-Bukhari in childhood, and check whether the figure of 70,000 and the age range are actually stated in them."
+      "verificationNote": "Locate the biographical reports attributing memorization figures to al-Bukhari in childhood, and check whether the figure of 70,000 and the age range are actually stated in them.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:38",
@@ -194,7 +199,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Recompute from an actual printed edition: number of volumes, pages, hadith count (with and without repetitions), and average words per page; the arithmetic depends entirely on these inputs."
+      "verificationNote": "Recompute from an actual printed edition: number of volumes, pages, hadith count (with and without repetitions), and average words per page; the arithmetic depends entirely on these inputs.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:00:38",
@@ -211,7 +219,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the biographical sources for the reported statements about al-Bukhari's command of narrator data, and whether the detail described here is actually attributed to him."
+      "verificationNote": "Check the biographical sources for the reported statements about al-Bukhari's command of narrator data, and whether the detail described here is actually attributed to him.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:17",
@@ -228,7 +237,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the arithmetic and the assumptions behind it, and whether the sources define the relevant age range or the rate of transmission sessions differently."
+      "verificationNote": "Check the arithmetic and the assumptions behind it, and whether the sources define the relevant age range or the rate of transmission sessions differently.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:17",
@@ -245,7 +255,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the density of hadith transmission circles in third-century AH Transoxiana and Khurasan; note that Bukhara was an urban centre, which bears on the 'desert environment' characterization."
+      "verificationNote": "Assess the density of hadith transmission circles in third-century AH Transoxiana and Khurasan; note that Bukhara was an urban centre, which bears on the 'desert environment' characterization.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:19",
@@ -262,7 +273,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the cognitive-science literature on eidetic and savant memory and on trained oral-tradition memorization, and whether the described trade-off with other cognitive functions is accurately stated."
+      "verificationNote": "Check the cognitive-science literature on eidetic and savant memory and on trained oral-tradition memorization, and whether the described trade-off with other cognitive functions is accurately stated.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:02:19",
@@ -279,7 +293,11 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the record holder's name (likely Chao Lu) and the digit count (commonly reported as 67,890 digits of pi), and check whether digits-to-words conversion is a defensible comparison."
+      "verificationNote": "Verify the record holder's name (likely Chao Lu) and the digit count (commonly reported as 67,890 digits of pi), and check whether digits-to-words conversion is a defensible comparison.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:00",
@@ -295,7 +313,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check how accurately this represents current memory research, particularly the claim of a fixed and easily exhausted storage capacity."
+      "verificationNote": "Check how accurately this represents current memory research, particularly the claim of a fixed and easily exhausted storage capacity.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:00",
@@ -312,7 +331,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the itinerary and durations against the standard biographical accounts of al-Bukhari's rihla, and check the sixteen-year figure."
+      "verificationNote": "Compare the itinerary and durations against the standard biographical accounts of al-Bukhari's rihla, and check the sixteen-year figure.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:03:44",
@@ -329,7 +351,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the 600,000 figure to its source in the biographical tradition and check what 'hadith' counts there (distinct chains versus distinct texts), and the actual number of entries in the Sahih."
+      "verificationNote": "Trace the 600,000 figure to its source in the biographical tradition and check what 'hadith' counts there (distinct chains versus distinct texts), and the actual number of entries in the Sahih.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:04",
@@ -346,7 +371,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the rejected material represents distinct fabricated texts or repeated chains of the same text, which determines whether the 99% figure supports the conclusion drawn."
+      "verificationNote": "Check whether the rejected material represents distinct fabricated texts or repeated chains of the same text, which determines whether the 99% figure supports the conclusion drawn.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:04",
@@ -363,7 +391,10 @@
         "isnad-authenticity-and-origins"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the inference: whether a high base rate of fabrication in the source pool undermines confidence in a filtered subset, and how hadith critics themselves address this."
+      "verificationNote": "Assess the inference: whether a high base rate of fabrication in the source pool undermines confidence in a filtered subset, and how hadith critics themselves address this.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:35",
@@ -381,7 +412,8 @@
         "isnad-authenticity-and-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate al-Bukhari's own reported description of his vetting method and compare it with the procedure described here, including whether inquiry among a narrator's neighbours is attributed to him."
+      "verificationNote": "Locate al-Bukhari's own reported description of his vetting method and compare it with the procedure described here, including whether inquiry among a narrator's neighbours is attributed to him.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:07",
@@ -398,7 +430,12 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the arithmetic and the count of al-Bukhari's other works and their sizes; note the transcript's own internal slip between ten and fourteen hours."
+      "verificationNote": "Check the arithmetic and the count of al-Bukhari's other works and their sizes; note the transcript's own internal slip between ten and fourteen hours.",
+      "citationRefs": [
+        "c4",
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:43",
@@ -415,7 +452,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the 100,000 sound / 200,000 weak statement to its source and check its wording and attribution."
+      "verificationNote": "Trace the 100,000 sound / 200,000 weak statement to its source and check its wording and attribution.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:43",
@@ -432,7 +470,11 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Recheck the multiplication; the transcript states both 38 million and 240 million words in the same breath, so the internal figures need reconciling before the ratio can be assessed."
+      "verificationNote": "Recheck the multiplication; the transcript states both 38 million and 240 million words in the same breath, so the internal figures need reconciling before the ratio can be assessed.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:06:18",
@@ -449,7 +491,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check al-Bukhari's own stated criteria for inclusion in the Sahih and whether he ever claimed the book exhausts all sound hadith; classical commentators address exactly this objection."
+      "verificationNote": "Check al-Bukhari's own stated criteria for inclusion in the Sahih and whether he ever claimed the book exhausts all sound hadith; classical commentators address exactly this objection.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:06:54",
@@ -467,7 +512,10 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the verses insisting Muhammad is only a human messenger and those refusing miracle demands (the speaker gives no locators), and assess whether they amount to a denial of all miracles."
+      "verificationNote": "Collect the verses insisting Muhammad is only a human messenger and those refusing miracle demands (the speaker gives no locators), and assess whether they amount to a denial of all miracles.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:06:54",
@@ -484,7 +532,10 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the verses in which opponents demand a sign and the responses given; the speaker cites none by number."
+      "verificationNote": "Identify the verses in which opponents demand a sign and the responses given; the speaker cites none by number.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:37",
@@ -501,7 +552,11 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the frequency of such passages supports the inference about contemporary objections, and compare with exegetical accounts of the occasions of these verses."
+      "verificationNote": "Assess whether the frequency of such passages supports the inference about contemporary objections, and compare with exegetical accounts of the occasions of these verses.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:37",
@@ -518,7 +573,12 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Survey the miracle reports (dala'il al-nubuwwa material) in the canonical collections and assess the tension with the Qur'anic passages cited."
+      "verificationNote": "Survey the miracle reports (dala'il al-nubuwwa material) in the canonical collections and assess the tension with the Qur'anic passages cited.",
+      "citationRefs": [
+        "c7",
+        "c9",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:37",
@@ -535,7 +595,10 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Khandaq food-multiplication report in Sahih al-Bukhari (commonly the report of Jabir b. Abd Allah) and check whether the animal, the numbers and the increase are as described."
+      "verificationNote": "Locate the Khandaq food-multiplication report in Sahih al-Bukhari (commonly the report of Jabir b. Abd Allah) and check whether the animal, the numbers and the increase are as described.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:08:16",
@@ -553,7 +616,11 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Gospel feeding narratives (Matthew 14 / Mark 6 / Luke 9 / John 6) with the hadith account in detail; the speaker gives no chapter or verse and 'word for word' needs testing."
+      "verificationNote": "Compare the Gospel feeding narratives (Matthew 14 / Mark 6 / Luke 9 / John 6) with the hadith account in detail; the speaker gives no chapter or verse and 'word for word' needs testing.",
+      "citationRefs": [
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:08:42",
@@ -570,7 +637,10 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report of the restored eye (commonly associated with Qatada b. al-Nu'man at Uhud or Badr) and check its collection, wording and grading."
+      "verificationNote": "Locate the report of the restored eye (commonly associated with Qatada b. al-Nu'man at Uhud or Badr) and check its collection, wording and grading.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:42",
@@ -587,7 +657,8 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the istisqa' (rain), speaking-tree and speaking-animal reports in the canonical collections and check their wording and grading."
+      "verificationNote": "Locate the istisqa' (rain), speaking-tree and speaking-animal reports in the canonical collections and check their wording and grading.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:42",
@@ -605,7 +676,14 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the content of Surat al-Masad and the argument from Qur'anic silence about the hadith miracles, including the traditional responses (e.g. the splitting of the moon in Q54:1)."
+      "verificationNote": "Check the content of Surat al-Masad and the argument from Qur'anic silence about the hadith miracles, including the traditional responses (e.g. the splitting of the moon in Q54:1).",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c9",
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:09:22",
@@ -623,7 +701,11 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the proposed motive and chronology of miracle-story growth against the dala'il al-nubuwwa literature and its dating."
+      "verificationNote": "Assess the proposed motive and chronology of miracle-story growth against the dala'il al-nubuwwa literature and its dating.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:10:05",
@@ -640,7 +722,8 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare with the comparative literature on hagiographic accretion around founder figures; note the overlap of the listed miracles with Gospel healing accounts."
+      "verificationNote": "Compare with the comparative literature on hagiographic accretion around founder figures; note the overlap of the listed miracles with Gospel healing accounts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:05",
@@ -657,7 +740,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the revisionist argument from silence about Mecca (Crone's Meccan Trade) against proposed attestations such as Ptolemy's Macoraba and the earliest datable references to Mecca and Quraysh."
+      "verificationNote": "Check the revisionist argument from silence about Mecca (Crone's Meccan Trade) against proposed attestations such as Ptolemy's Macoraba and the earliest datable references to Mecca and Quraysh.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:51",
@@ -673,7 +757,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the state of archaeological survey of the maghazi sites and any external attestation; also check the casualty figures the traditional sources themselves give, which are far below tens of thousands."
+      "verificationNote": "Check the state of archaeological survey of the maghazi sites and any external attestation; also check the casualty figures the traditional sources themselves give, which are far below tens of thousands.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:31",
@@ -689,7 +776,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Islamic futuh narratives with contemporary Syriac, Greek and Armenian accounts of the conquests; the sweeping 'all historians' claim needs testing against the actual range of scholarship."
+      "verificationNote": "Compare Islamic futuh narratives with contemporary Syriac, Greek and Armenian accounts of the conquests; the sweeping 'all historians' claim needs testing against the actual range of scholarship.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:31",
@@ -705,7 +793,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check al-Tabari's text of the Umari covenant, its dating and transmission history (including the debate over its relation to the Pact of Umar), and the contemporary Palestinian sources such as Sophronius' sermons."
+      "verificationNote": "Check al-Tabari's text of the Umari covenant, its dating and transmission history (including the debate over its relation to the Pact of Umar), and the contemporary Palestinian sources such as Sophronius' sermons.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:11:31",
@@ -720,7 +811,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the listed stipulations with the transmitted text of the Pact of Umar (al-shurut al-umariyya) and check which clauses appear in which recension."
+      "verificationNote": "Compare the listed stipulations with the transmitted text of the Pact of Umar (al-shurut al-umariyya) and check which clauses appear in which recension.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:12:18",
@@ -735,7 +829,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the text of Surat al-Fil and the exegetical elaboration of the story; note that the speaker names the invader Ibrahim al-Habashi rather than Abraha."
+      "verificationNote": "Check the text of Surat al-Fil and the exegetical elaboration of the story; note that the speaker names the invader Ibrahim al-Habashi rather than Abraha.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:12:42",
@@ -752,7 +849,10 @@
         "kaaba-history-and-rebuildings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the dates and circumstances of the damage to the Ka'ba during the sieges of Ibn al-Zubayr's Mecca (64 AH and 73 AH) and al-Hajjaj's rebuilding, and verify the intervals stated."
+      "verificationNote": "Check the dates and circumstances of the damage to the Ka'ba during the sieges of Ibn al-Zubayr's Mecca (64 AH and 73 AH) and al-Hajjaj's rebuilding, and verify the intervals stated.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:12:42",
@@ -768,7 +868,10 @@
         "kaaba-history-and-rebuildings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Qarmatian sack of Mecca in 317 AH / 930 CE, the duration of the Black Stone's removal, and the reports on the identity of the returned stone."
+      "verificationNote": "Check the Qarmatian sack of Mecca in 317 AH / 930 CE, the duration of the Black Stone's removal, and the reports on the identity of the returned stone.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:13:21",
@@ -784,7 +887,11 @@
         "kaaba-history-and-rebuildings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the 1979 Grand Mosque seizure (its perpetrators, casualty figures, and whether it occurred during hajj) and the scope of the 1996 restoration — whether the structure was fully demolished or partially rebuilt."
+      "verificationNote": "Check the 1979 Grand Mosque seizure (its perpetrators, casualty figures, and whether it occurred during hajj) and the scope of the 1996 restoration — whether the structure was fully demolished or partially rebuilt.",
+      "citationRefs": [
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:13:21",
@@ -801,7 +908,14 @@
         "kaaba-history-and-rebuildings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the count of twelve destructions/rebuildings against the historical record, and check the traditional attribution of the Ka'ba's construction to Adam and to Abraham."
+      "verificationNote": "Check the count of twelve destructions/rebuildings against the historical record, and check the traditional attribution of the Ka'ba's construction to Adam and to Abraham.",
+      "citationRefs": [
+        "c18",
+        "c19",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:14:02",
@@ -817,7 +931,11 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the ritual reports the speaker alludes to and check whether the divergences are genuine contradictions or recognized variations recorded as such."
+      "verificationNote": "Collect the ritual reports the speaker alludes to and check whether the divergences are genuine contradictions or recognized variations recorded as such.",
+      "citationRefs": [
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:14:02",
@@ -835,7 +953,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reports in Sahih al-Bukhari and Sahih Muslim giving 60, 63 and 65 as Muhammad's age at death and check the wording and the harmonizations offered by commentators."
+      "verificationNote": "Locate the reports in Sahih al-Bukhari and Sahih Muslim giving 60, 63 and 65 as Muhammad's age at death and check the wording and the harmonizations offered by commentators.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:14:02",
@@ -852,7 +973,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reports giving ten, thirteen and fifteen years for the Meccan period in Sahih al-Bukhari and Sahih Muslim and check how commentators reconcile them."
+      "verificationNote": "Locate the reports giving ten, thirteen and fifteen years for the Meccan period in Sahih al-Bukhari and Sahih Muslim and check how commentators reconcile them.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:15:09",
@@ -870,7 +994,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report of the woman who said 'a'udhu billahi minka' in Sahih al-Bukhari, check the identification of the woman (Umayma bint Sharahil / al-Jawniyya), the name of the man sent (Abu Usayd), and whether the raised hand and the words attributed here appear in the text."
+      "verificationNote": "Locate the report of the woman who said 'a'udhu billahi minka' in Sahih al-Bukhari, check the identification of the woman (Umayma bint Sharahil / al-Jawniyya), the name of the man sent (Abu Usayd), and whether the raised hand and the words attributed here appear in the text.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:43",
@@ -887,7 +1014,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Find both versions in Sahih al-Bukhari and compare their wording and the identity of the woman in each; check whether the divergence is a genuine doubling or a difference among transmitters of one report."
+      "verificationNote": "Find both versions in Sahih al-Bukhari and compare their wording and the identity of the woman in each; check whether the divergence is a genuine doubling or a difference among transmitters of one report.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:43",
@@ -903,7 +1033,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic epigraphic and literary attestation of the name Allah / Allahumma in Arabian usage and the scholarship on its status among pre-Islamic deities."
+      "verificationNote": "Check pre-Islamic epigraphic and literary attestation of the name Allah / Allahumma in Arabian usage and the scholarship on its status among pre-Islamic deities.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:21",
@@ -919,7 +1050,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the afdal al-a'mal reports in Sahih al-Bukhari and Sahih Muslim, compare their wording, and check the classical explanations of the divergence by audience and circumstance."
+      "verificationNote": "Locate the afdal al-a'mal reports in Sahih al-Bukhari and Sahih Muslim, compare their wording, and check the classical explanations of the divergence by audience and circumstance.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:16:44",
@@ -935,7 +1069,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Abdullah ibn Salam three-questions report in Sahih al-Bukhari and check its wording, especially the mention of Gabriel and the phrasing of the third answer."
+      "verificationNote": "Locate the Abdullah ibn Salam three-questions report in Sahih al-Bukhari and check its wording, especially the mention of Gabriel and the phrasing of the third answer.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:17:41",
@@ -952,7 +1089,10 @@
         "hadith-miracle-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the report's wording on parental resemblance against modern genetics, and assess the epistemic argument about how the questioner could verify the answers."
+      "verificationNote": "Check the report's wording on parental resemblance against modern genetics, and assess the epistemic argument about how the questioner could verify the answers.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:18:48",
@@ -967,7 +1107,13 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate each of the four reports in Sahih al-Bukhari and Sahih Muslim (istinthar, sneezing and yawning, black seed, the fly in the vessel) and check their wording and grading."
+      "verificationNote": "Locate each of the four reports in Sahih al-Bukhari and Sahih Muslim (istinthar, sneezing and yawning, black seed, the fly in the vessel) and check their wording and grading.",
+      "citationRefs": [
+        "c31",
+        "c32",
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:19:12",
@@ -982,7 +1128,13 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the medical and folk-remedy content of these reports has attested pre-Islamic or late-antique parallels in the region."
+      "verificationNote": "Check whether the medical and folk-remedy content of these reports has attested pre-Islamic or late-antique parallels in the region.",
+      "citationRefs": [
+        "c31",
+        "c32",
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:19:12",
@@ -998,7 +1150,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reports of circulating among his wives in one night and of the sexual strength given to him; check the numbers actually stated (the tradition commonly gives thirty or forty men, not four thousand)."
+      "verificationNote": "Locate the reports of circulating among his wives in one night and of the sexual strength given to him; check the numbers actually stated (the tradition commonly gives thirty or forty men, not four thousand).",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:19:40",
@@ -1012,7 +1167,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the 'al-bakhil' hadith on failing to invoke blessings and check its collection and wording."
+      "verificationNote": "Locate the 'al-bakhil' hadith on failing to invoke blessings and check its collection and wording.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:20:09",
@@ -1030,7 +1188,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the scholarship on the emergence of isnad criticism and on the competing collections that did not attain canonical status."
+      "verificationNote": "Check the scholarship on the emergence of isnad criticism and on the competing collections that did not attain canonical status.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:53",
@@ -1048,7 +1207,10 @@
         "isnad-authenticity-and-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Find the passage in Crone's work (e.g. Slaves on Horses or Meccan Trade) said to state this, and check the wording and the scope of her argument, along with the responses to it."
+      "verificationNote": "Find the passage in Crone's work (e.g. Slaves on Horses or Meccan Trade) said to state this, and check the wording and the scope of her argument, along with the responses to it.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:21:19",
@@ -1066,7 +1228,10 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Assess this against the revisionist literature on isnad growth (Schacht, Juynboll, Crone) and against the counter-arguments from common-link analysis and early written collections."
+      "verificationNote": "Assess this against the revisionist literature on isnad growth (Schacht, Juynboll, Crone) and against the counter-arguments from common-link analysis and early written collections.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:21:19",
@@ -1083,7 +1248,8 @@
         "isnad-authenticity-and-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the evidence for early written hadith collections (the sahifa material, Umar b. Abd al-Aziz's reported order to al-Zuhri) against the claim of a hundred-year gap."
+      "verificationNote": "Check the evidence for early written hadith collections (the sahifa material, Umar b. Abd al-Aziz's reported order to al-Zuhri) against the claim of a hundred-year gap.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:35",
@@ -1100,7 +1266,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the scholarship on partisan hadith fabrication during the late Umayyad and early Abbasid periods and on the chronology of hadith circulation relative to that conflict."
+      "verificationNote": "Check the scholarship on partisan hadith fabrication during the late Umayyad and early Abbasid periods and on the chronology of hadith circulation relative to that conflict.",
+      "citationRefs": [
+        "c40"
+      ]
     },
     {
       "timestamp": "00:22:16",
@@ -1117,7 +1286,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Find the statement attributed to al-Zuhri about the umara' compelling the writing of hadiths (as cited by Ibn Sa'd and discussed by Goldziher), check its wording and chain, and check al-Zuhri's relationship with Abd al-Malik and later Umayyad caliphs."
+      "verificationNote": "Find the statement attributed to al-Zuhri about the umara' compelling the writing of hadiths (as cited by Ibn Sa'd and discussed by Goldziher), check its wording and chain, and check al-Zuhri's relationship with Abd al-Malik and later Umayyad caliphs.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:23:50",
@@ -1133,7 +1305,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reports on obedience to rulers and on killing those who split the community, and check the scholarship on their political context and dating."
+      "verificationNote": "Locate the reports on obedience to rulers and on killing those who split the community, and check the scholarship on their political context and dating.",
+      "citationRefs": [
+        "c41"
+      ]
     },
     {
       "timestamp": "00:24:00",
@@ -1151,7 +1326,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadiths on the lawfulness of captive women and the apologetic argument from mercy, and check the scholarship on whether these rules originate in the conquest period."
+      "verificationNote": "Locate the hadiths on the lawfulness of captive women and the apologetic argument from mercy, and check the scholarship on whether these rules originate in the conquest period.",
+      "citationRefs": [
+        "c42"
+      ]
     },
     {
       "timestamp": "00:24:32",
@@ -1167,7 +1345,11 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether later collections are in fact dependent on al-Bukhari, given that several were compiled by his contemporaries or from shared teachers."
+      "verificationNote": "Check whether later collections are in fact dependent on al-Bukhari, given that several were compiled by his contemporaries or from shared teachers.",
+      "citationRefs": [
+        "c43",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:24:32",
@@ -1184,7 +1366,11 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Muslim's biography, his stated collection figures, and the number of hadiths in his Sahih."
+      "verificationNote": "Check Muslim's biography, his stated collection figures, and the number of hadiths in his Sahih.",
+      "citationRefs": [
+        "c43",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:24:32",
@@ -1201,7 +1387,10 @@
         "hadith-internal-contradictions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the various counts given for Sahih Muslim and whether the divergence reflects counting with or without repetitions and differing numbering systems."
+      "verificationNote": "Check the various counts given for Sahih Muslim and whether the divergence reflects counting with or without repetitions and differing numbering systems.",
+      "citationRefs": [
+        "c44"
+      ]
     },
     {
       "timestamp": "00:25:17",
@@ -1217,7 +1406,8 @@
         "hadith-collectors-and-canonical-collections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is a methodological argument rather than a source claim; an editor need only check that it is fairly stated as the speaker's position."
+      "verificationNote": "This is a methodological argument rather than a source claim; an editor need only check that it is fairly stated as the speaker's position.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:25:17",
@@ -1234,7 +1424,8 @@
         "isnad-authenticity-and-origins"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess against the standard arguments for and against the historical value of hadith as source material."
+      "verificationNote": "Assess against the standard arguments for and against the historical value of hadith as source material.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:02",
@@ -1250,7 +1441,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Sample the reports in each of the listed categories and check whether the characterization is supported by their texts."
+      "verificationNote": "Sample the reports in each of the listed categories and check whether the characterization is supported by their texts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:49",
@@ -1267,7 +1459,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the functional thesis against the scholarship on the relation between hadith, early legal practice and caliphal authority."
+      "verificationNote": "Assess the functional thesis against the scholarship on the relation between hadith, early legal practice and caliphal authority.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:49",
@@ -1283,7 +1476,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the apostasy hadith ('man baddala dinahu fa-qtuluhu') in the canonical collections and check its wording and grading."
+      "verificationNote": "Locate the apostasy hadith ('man baddala dinahu fa-qtuluhu') in the canonical collections and check its wording and grading.",
+      "citationRefs": [
+        "c45"
+      ]
     }
   ],
   "citations": [
@@ -1294,7 +1490,8 @@
       "author": "محمد بن إسماعيل البخاري (كما ورد: محمد الجعفي)",
       "locator": "بخارى، أوزبكستان؛ بعد نحو 200 سنة من موت محمد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "book",
@@ -1304,7 +1501,8 @@
       "author": "البخاري",
       "locator": "6 مجلدات، 2000 صفحة، أكثر من 7000 حديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -1313,7 +1511,8 @@
       "author": "شاولو (رجل صيني، صاحب رقم قياسي في موسوعة غينيس)",
       "locator": "نحو 68 ألف رقم متتالٍ",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "event",
@@ -1322,7 +1521,8 @@
       "workTitle": "رحلة البخاري في طلب الحديث",
       "locator": "مكة، المدينة، بغداد، البصرة، الكوفة، دمشق، القدس، مصر؛ 16 سنة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "book",
@@ -1332,7 +1532,8 @@
       "author": "البخاري",
       "locator": "600,000 حديث مجموعة، 7500 مثبتة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -1341,7 +1542,8 @@
       "workTitle": "مؤلفات البخاري الأخرى (18 كتابًا)",
       "author": "البخاري",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -1350,7 +1552,8 @@
       "workTitle": "القرآن",
       "locator": "لم يُذكر رقم سورة أو آية",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -1359,7 +1562,8 @@
       "workTitle": "القرآن",
       "locator": "لم يُذكر رقم سورة أو آية",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c8"
     },
     {
       "citationType": "hadith",
@@ -1368,7 +1572,8 @@
       "workTitle": "حديث تكثير الطعام في غزوة الخندق",
       "locator": "غير محدد؛ يُنسب إلى مادة الحديث/السيرة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -1377,7 +1582,8 @@
       "workTitle": "الإنجيل",
       "locator": "لم يُذكر إصحاح ولا عدد",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "hadith",
@@ -1386,7 +1592,8 @@
       "workTitle": "حديث ردّ العين إلى موضعها",
       "locator": "غير محدد",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -1395,7 +1602,8 @@
       "workTitle": "القرآن — سورة أبي لهب (لم يذكر رقمًا)",
       "locator": "لم يُذكر رقم سورة أو آية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -1403,7 +1611,8 @@
       "asStatedInVideo": "نشتم أبو لهب ومراته",
       "author": "أبو لهب وامرأته",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "event",
@@ -1411,7 +1620,8 @@
       "asStatedInVideo": "مفيش وسيقة تاريخية واحدة، أو أي أدلة أركيولوجية أو أسارية، بتقول إن كانت في معركة حدثة، اسمها أحد، أو بدر، أو خيبر، أو تبوك، أو الخندق",
       "workTitle": "غزوات أحد وبدر وخيبر وتبوك والخندق",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -1420,7 +1630,8 @@
       "author": "الطبري",
       "locator": "بعد 300 سنة من دخول المسلمين فلسطين",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "book",
@@ -1429,7 +1640,8 @@
       "workTitle": "العهدة العمرية",
       "author": "منسوبة إلى عمر بن الخطاب، ينسب المتحدث تأليفها إلى الطبري",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -1437,7 +1649,8 @@
       "asStatedInVideo": "قصة عم إبراهيم الحبشي، اللي في يوم من الأيام راح عشان يهدم الكعبة",
       "author": "إبراهيم الحبشي (كما ورد؛ يقابل أبرهة في الرواية المعروفة)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -1446,7 +1659,8 @@
       "workTitle": "القرآن — رواية أصحاب الفيل",
       "locator": "لم يُذكر رقم سورة أو آية",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1455,7 +1669,8 @@
       "author": "الحجاج بن يوسف الثقفي",
       "locator": "بعد موت محمد بستين سنة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "event",
@@ -1464,7 +1679,8 @@
       "workTitle": "دخول القرامطة مكة وسرقة الحجر الأسود",
       "locator": "بعد موت محمد بثلاثمائة سنة؛ الحجر عندهم عشرين سنة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "event",
@@ -1473,7 +1689,8 @@
       "workTitle": "اقتحام الحرم المكي سنة 1979",
       "locator": "382 قتيلًا وأكثر من 1000 جريح",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "event",
@@ -1481,7 +1698,8 @@
       "asStatedInVideo": "سنة 1996، لما الكعبة دي تهدت كلها كده وتساوت بالأرض، وجابوا شوية عمال يبنوها من جديد",
       "workTitle": "إعادة بناء الكعبة سنة 1996",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "hadith",
@@ -1490,7 +1708,8 @@
       "workTitle": "أحاديث سنّ محمد عند وفاته (صحيح البخاري وصحيح مسلم)",
       "locator": "60 / 63 / 65 سنة؛ لا يذكر أرقام الأحاديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "hadith",
@@ -1499,7 +1718,8 @@
       "workTitle": "أحاديث مدة إقامة محمد بمكة (صحيح البخاري وصحيح مسلم)",
       "locator": "10 / 13 / 15 سنة؛ لا يذكر أرقام الأحاديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "hadith",
@@ -1508,7 +1728,8 @@
       "workTitle": "صحيح البخاري — قصة المرأة التي قالت أعوذ بالله منك",
       "locator": "لم يُذكر رقم الحديث ولا الكتاب",
       "quotedArabic": "هبي نفسك لي... أعوذ بالله منك",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
@@ -1516,7 +1737,8 @@
       "asStatedInVideo": "في بيت مراته اللي هي أميمة بنت شرحيل",
       "author": "أميمة بنت شراحيل",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1524,7 +1746,8 @@
       "asStatedInVideo": "نادى على واحد اسمه أبا سيد وقال له لبسها وروح عند أهلها",
       "author": "أبو سيد (كما ورد؛ يقابل أبا أُسيد في الرواية المعروفة)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "hadith",
@@ -1533,7 +1756,8 @@
       "workTitle": "أحاديث أفضل الأعمال",
       "locator": "لم تُذكر أرقام الأحاديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -1541,7 +1765,8 @@
       "asStatedInVideo": "كان في واحد اسمه عبد الله بن السلام... فرح لمحمد وقال له أنا هسألك ثلاث أسئلة",
       "author": "عبد الله بن سلام",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "hadith",
@@ -1550,7 +1775,8 @@
       "workTitle": "حديث أسئلة عبد الله بن سلام الثلاثة",
       "locator": "لم يُذكر رقم الحديث ولا الكتاب",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "hadith",
@@ -1559,7 +1785,8 @@
       "workTitle": "حديث الاستنثار ثلاثًا عند الاستيقاظ",
       "locator": "لم يُذكر رقم الحديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "hadith",
@@ -1568,7 +1795,8 @@
       "workTitle": "حديث محبة العطاس وكراهية التثاؤب",
       "locator": "لم يُذكر رقم الحديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "hadith",
@@ -1577,7 +1805,8 @@
       "workTitle": "أحاديث التداوي بالحبة السوداء والعسل والتمر",
       "locator": "لم تُذكر أرقام الأحاديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "hadith",
@@ -1586,7 +1815,8 @@
       "workTitle": "حديث غمس الذباب في الإناء",
       "locator": "لم يُذكر رقم الحديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "hadith",
@@ -1595,7 +1825,8 @@
       "workTitle": "أحاديث طوافه على نسائه وقوته الجنسية",
       "locator": "ست نسوة في ليلة؛ قوة تعادل 4000 رجل (كما ورد)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "hadith",
@@ -1604,7 +1835,8 @@
       "workTitle": "حديث البخيل من ذُكر عنده النبي فلم يصلِّ عليه",
       "locator": "لم يُذكر رقم الحديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1613,7 +1845,8 @@
       "author": "باتريشيا كرون",
       "locator": "لم يُذكر كتاب ولا صفحة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "person",
@@ -1622,7 +1855,8 @@
       "author": "محمد بن شهاب الزهري",
       "locator": "في عهد عبد الملك بن مروان",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "person",
@@ -1630,7 +1864,8 @@
       "asStatedInVideo": "أثناء حكم عبد الملك بن مروان",
       "author": "عبد الملك بن مروان",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c39"
     },
     {
       "citationType": "event",
@@ -1638,7 +1873,8 @@
       "asStatedInVideo": "الأحاديث دي بدأت تظهر في عز الصراع السياسي ما بين الدولة الأموية والعباسيين اللي كانوا عايزين ينقلبوا على الأموين",
       "workTitle": "الصراع الأموي العباسي",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "hadith",
@@ -1647,7 +1883,8 @@
       "workTitle": "أحاديث طاعة الحاكم وقتل الخارج عليه",
       "locator": "لم تُذكر أرقام الأحاديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "hadith",
@@ -1656,7 +1893,8 @@
       "workTitle": "أحاديث إباحة السبي والتسري",
       "locator": "لم تُذكر أرقام الأحاديث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "person",
@@ -1664,7 +1902,8 @@
       "asStatedInVideo": "مسلم بن الحجاج اللي ألف كتاب صحيح مسلم قال نفس الحدودة بتاعت البخاري",
       "author": "مسلم بن الحجاج",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c43"
     },
     {
       "citationType": "book",
@@ -1674,7 +1913,8 @@
       "author": "مسلم بن الحجاج",
       "locator": "300,000 حديث مجموعة، 3000 مثبتة؛ وتُذكر أعداد 3000/4000/7000/12000",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c44"
     },
     {
       "citationType": "hadith",
@@ -1683,7 +1923,8 @@
       "workTitle": "حديث قتل المرتد/الكافر",
       "locator": "لم يُذكر رقم الحديث",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c45"
     }
   ],
   "topicProposals": [

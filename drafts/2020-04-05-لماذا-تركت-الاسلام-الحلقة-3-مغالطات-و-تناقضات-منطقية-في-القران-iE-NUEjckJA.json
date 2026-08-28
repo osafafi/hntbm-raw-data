@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "iE-NUEjckJA",
   "videoUrl": "https://www.youtube.com/watch?v=iE-NUEjckJA",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 3 - مغالطات و تناقضات منطقية في القرآن",
@@ -112,7 +112,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the speaker’s philosophical premise about the expected properties of divine communication and whether the subsequent examples satisfy his stated test."
+      "verificationNote": "Assess the speaker’s philosophical premise about the expected properties of divine communication and whether the subsequent examples satisfy his stated test.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:26",
@@ -127,7 +128,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the quoted passage, read its surrounding context and major exegeses, and determine who is speaking, what was requested, and whether the response accurately represents an expressed position."
+      "verificationNote": "Identify the quoted passage, read its surrounding context and major exegeses, and determine who is speaking, what was requested, and whether the response accurately represents an expressed position.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:43",
@@ -142,7 +146,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the wording and context of the quoted challenge and evaluate whether it is presented as evidence for divine authorship or as a separate rhetorical test."
+      "verificationNote": "Check the wording and context of the quoted challenge and evaluate whether it is presented as evidence for divine authorship or as a separate rhetorical test.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:18",
@@ -156,7 +163,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Formalize the argument actually made by the verses and their exegetes, then test whether divine authorship is assumed in a premise or follows validly from the challenge."
+      "verificationNote": "Formalize the argument actually made by the verses and their exegetes, then test whether divine authorship is assumed in a premise or follows validly from the challenge.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:03:57",
@@ -171,7 +181,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Locate both quoted expressions, examine the Arabic range of khalaqa and khaliqin in classical lexicons and exegesis, and assess whether the comparative wording entails rival divine creators."
+      "verificationNote": "Locate both quoted expressions, examine the Arabic range of khalaqa and khaliqin in classical lexicons and exegesis, and assess whether the comparative wording entails rival divine creators.",
+      "citationRefs": [
+        "c6",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:33",
@@ -185,7 +199,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the speaker’s restricted definition of creation with classical Arabic lexical usage and the meanings assigned to the verse by early and later commentators."
+      "verificationNote": "Compare the speaker’s restricted definition of creation with classical Arabic lexical usage and the meanings assigned to the verse by early and later commentators.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:13",
@@ -200,7 +217,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the semantic distinction between creation and manufacture in early Arabic and assess whether the speaker’s proposed alternatives exhaust the possible readings."
+      "verificationNote": "Check the semantic distinction between creation and manufacture in early Arabic and assess whether the speaker’s proposed alternatives exhaust the possible readings.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:49",
@@ -214,7 +234,13 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compile every verse using the cited clarity formulas, count them, and distinguish descriptions of the language, the book, particular signs, and the act of explanation."
+      "verificationNote": "Compile every verse using the cited clarity formulas, count them, and distinguish descriptions of the language, the book, particular signs, and the act of explanation.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:33",
@@ -229,7 +255,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the full verse, punctuation alternatives, and classical definitions of muhkam and mutashabih, then compare them with the scope of the verses calling the Qur’an clear."
+      "verificationNote": "Check the full verse, punctuation alternatives, and classical definitions of muhkam and mutashabih, then compare them with the scope of the verses calling the Qur’an clear.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:06:33",
@@ -244,7 +273,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether these categories occur in early tafsir, usul al-tafsir, and abrogation literature and whether they are all treated as meanings of mutashabih."
+      "verificationNote": "Check whether these categories occur in early tafsir, usul al-tafsir, and abrogation literature and whether they are all treated as meanings of mutashabih.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:10",
@@ -260,7 +292,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the unstated report or reports behind this claim, verify their wording and grading, and distinguish warnings against pursuing ambiguous verses from a claim that Muhammad knew no interpretation."
+      "verificationNote": "Identify the unstated report or reports behind this claim, verify their wording and grading, and distinguish warnings against pursuing ambiguous verses from a claim that Muhammad knew no interpretation.",
+      "citationRefs": [
+        "c12",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:49",
@@ -275,7 +311,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine the syntax and exegetical readings of the passage concerning those firmly grounded in knowledge, including the competing pause after 'except God.'"
+      "verificationNote": "Examine the syntax and exegetical readings of the passage concerning those firmly grounded in knowledge, including the competing pause after 'except God.'",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:28",
@@ -289,7 +328,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether complete semantic transparency is required by the Qur’an’s own claims or by the speaker’s independent criterion for divine authorship."
+      "verificationNote": "Evaluate whether complete semantic transparency is required by the Qur’an’s own claims or by the speaker’s independent criterion for divine authorship.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:28",
@@ -304,7 +346,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Review the quoted verse and all relevant Qur’anic passages about signs, miracles, the moon, and Muhammad’s role to determine whether the text denies every miracle or only requested signs."
+      "verificationNote": "Review the quoted verse and all relevant Qur’anic passages about signs, miracles, the moon, and Muhammad’s role to determine whether the text denies every miracle or only requested signs.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:09:08",
@@ -320,7 +365,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the earliest extant attestations and transmission histories of each miracle report, distinguish oral-report claims from surviving compilation dates, and test the approximate two-century chronology."
+      "verificationNote": "Identify the earliest extant attestations and transmission histories of each miracle report, distinguish oral-report claims from surviving compilation dates, and test the approximate two-century chronology.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:09:08",
@@ -335,7 +385,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the grammar and context of the verse about withholding signs, determine whether punishment or evidentiary policy is at issue, and compare it with each occurrence of the individual-burden formula."
+      "verificationNote": "Check the grammar and context of the verse about withholding signs, determine whether punishment or evidentiary policy is at issue, and compare it with each occurrence of the individual-burden formula.",
+      "citationRefs": [
+        "c14",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:09:48",
@@ -350,7 +405,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine whether the verse grammatically implies acquisition of new knowledge or instead states a policy grounded in foreknown human behavior."
+      "verificationNote": "Examine whether the verse grammatically implies acquisition of new knowledge or instead states a policy grounded in foreknown human behavior.",
+      "citationRefs": [
+        "c14",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:10:30",
@@ -364,7 +423,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the logical inference after establishing what the preceding verse claims about divine foreknowledge and purpose."
+      "verificationNote": "Assess the logical inference after establishing what the preceding verse claims about divine foreknowledge and purpose.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:30",
@@ -379,7 +439,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the quoted verse and verify its three modes of divine communication and whether it specifically describes communication with Muhammad."
+      "verificationNote": "Locate the quoted verse and verify its three modes of divine communication and whether it specifically describes communication with Muhammad.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:11:11",
@@ -395,7 +458,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the verse about Satan casting into a prophet’s recitation with the earliest satanic-verses reports, their chains and wording, and scholarly interpretations of tamanna and umniyya."
+      "verificationNote": "Compare the verse about Satan casting into a prophet’s recitation with the earliest satanic-verses reports, their chains and wording, and scholarly interpretations of tamanna and umniyya.",
+      "citationRefs": [
+        "c22",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:11:11",
@@ -411,7 +478,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which early narrative explicitly mentions Gabriel’s correction, compare its variants, and determine whether the Qur’anic verse itself states this sequence."
+      "verificationNote": "Identify which early narrative explicitly mentions Gabriel’s correction, compare its variants, and determine whether the Qur’anic verse itself states this sequence.",
+      "citationRefs": [
+        "c23",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:45",
@@ -427,7 +498,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the scope and chronology of the preservation promise with the verse about Satanic casting and the associated narrative; determine whether temporary correction is compatible with the claimed preservation."
+      "verificationNote": "Compare the scope and chronology of the preservation promise with the verse about Satanic casting and the associated narrative; determine whether temporary correction is compatible with the claimed preservation.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:12:23",
@@ -442,7 +516,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey representative modern apologetic treatments, their assessment of the reports, and their exegesis of the cited verse."
+      "verificationNote": "Survey representative modern apologetic treatments, their assessment of the reports, and their exegesis of the cited verse.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:13:00",
@@ -457,7 +534,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the verse, verify the antecedents and grammar of 'He strikes with them whom He wills,' and review classical explanations of agency and natural causation."
+      "verificationNote": "Locate the verse, verify the antecedents and grammar of 'He strikes with them whom He wills,' and review classical explanations of agency and natural causation.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:13:00",
@@ -472,7 +552,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the presence and engineering purpose of lightning-protection systems at the named sites, then assess whether Islamic theology predicts immunity of sacred buildings from natural hazards."
+      "verificationNote": "Verify the presence and engineering purpose of lightning-protection systems at the named sites, then assess whether Islamic theology predicts immunity of sacred buildings from natural hazards.",
+      "citationRefs": [
+        "c28",
+        "c29",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:13:45",
@@ -486,7 +571,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Distinguish the empirical distribution of lightning from the theological conclusion and examine whether the cited verse predicts protection of religious buildings."
+      "verificationNote": "Distinguish the empirical distribution of lightning from the theological conclusion and examine whether the cited verse predicts protection of religious buildings.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:14:22",
@@ -501,7 +589,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Read the entire verse and continuation, review whether the imperative is permissive, threatening, or rhetorical, and separate freedom of action from freedom from consequences."
+      "verificationNote": "Read the entire verse and continuation, review whether the imperative is permissive, threatening, or rhetorical, and separate freedom of action from freedom from consequences.",
+      "citationRefs": [
+        "c30",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:14:22",
@@ -516,7 +608,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Locate both passages, compare the senses of will and permission, and review classical attempts to reconcile human choice with divine permission."
+      "verificationNote": "Locate both passages, compare the senses of will and permission, and review classical attempts to reconcile human choice with divine permission.",
+      "citationRefs": [
+        "c32",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:15:00",
@@ -531,7 +627,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the cited wording in context and examine grammatical antecedents and major theological interpretations of divine and human willing."
+      "verificationNote": "Verify the cited wording in context and examine grammatical antecedents and major theological interpretations of divine and human willing.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:15:00",
@@ -546,7 +645,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the wording and context of both passages and compare compatibilist, determinist, and libertarian readings in early Islamic theology."
+      "verificationNote": "Check the wording and context of both passages and compare compatibilist, determinist, and libertarian readings in early Islamic theology.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:15:00",
@@ -561,7 +663,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Read the full verse and determine whether it concerns divine permission, decree, prevention, or moral approval of fighting."
+      "verificationNote": "Read the full verse and determine whether it concerns divine permission, decree, prevention, or moral approval of fighting.",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:15:40",
@@ -576,7 +681,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the verse’s wording and pronoun antecedents and compare exegetical explanations of why unity, guidance, and misguidance are attributed to God."
+      "verificationNote": "Verify the verse’s wording and pronoun antecedents and compare exegetical explanations of why unity, guidance, and misguidance are attributed to God.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:15:40",
@@ -590,7 +698,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the cited passages are logically inconsistent after accounting for their contexts and the distinction between different conceptions of freedom."
+      "verificationNote": "Assess whether the cited passages are logically inconsistent after accounting for their contexts and the distinction between different conceptions of freedom.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:00",
@@ -606,7 +715,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the four-reciters hadith, verify its collection, chains, wording, and intended scope, and check whether the verse about speaking from desire applies to all of Muhammad’s speech or specifically to revelation."
+      "verificationNote": "Locate the four-reciters hadith, verify its collection, chains, wording, and intended scope, and check whether the verse about speaking from desire applies to all of Muhammad’s speech or specifically to revelation.",
+      "citationRefs": [
+        "c39",
+        "c38"
+      ]
     },
     {
       "timestamp": "00:16:00",
@@ -621,7 +734,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the earliest reports and manuscript evidence for codices attributed to Ibn Masud and Ubayy, verify which totals are actually reported, and determine whether the transcript or speaker may have misstated the numbers."
+      "verificationNote": "Check the earliest reports and manuscript evidence for codices attributed to Ibn Masud and Ubayy, verify which totals are actually reported, and determine whether the transcript or speaker may have misstated the numbers.",
+      "citationRefs": [
+        "c45",
+        "c46"
+      ]
     },
     {
       "timestamp": "00:16:38",
@@ -636,7 +753,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which companion the report concerns, verify whether al-Fatiha was absent, and distinguish absence from a personal codex, liturgical use, and an explicit denial of Qur’anic status."
+      "verificationNote": "Identify which companion the report concerns, verify whether al-Fatiha was absent, and distinguish absence from a personal codex, liturgical use, and an explicit denial of Qur’anic status.",
+      "citationRefs": [
+        "c47"
+      ]
     },
     {
       "timestamp": "00:16:38",
@@ -651,7 +771,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Analyze the grammatical speakers and addressees in al-Fatiha and review the traditional explanation that God teaches worshippers what to say."
+      "verificationNote": "Analyze the grammatical speakers and addressees in al-Fatiha and review the traditional explanation that God teaches worshippers what to say.",
+      "citationRefs": [
+        "c47"
+      ]
     },
     {
       "timestamp": "00:17:18",
@@ -667,7 +790,13 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "First verify all three counts and what each purported codex contained, then assess whether personal-codex differences amount to loss or alteration of the canonical text."
+      "verificationNote": "First verify all three counts and what each purported codex contained, then assess whether personal-codex differences amount to loss or alteration of the canonical text.",
+      "citationRefs": [
+        "c45",
+        "c46",
+        "c48",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:17:18",
@@ -681,7 +810,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Locate the quoted verse, determine the intended sense of ikhtilaf, and independently test each alleged discrepancy before applying the verse’s criterion."
+      "verificationNote": "Locate the quoted verse, determine the intended sense of ikhtilaf, and independently test each alleged discrepancy before applying the verse’s criterion.",
+      "citationRefs": [
+        "c49"
+      ]
     },
     {
       "timestamp": "00:17:18",
@@ -697,7 +829,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the conclusion only after verifying the textual, historical, and logical premises recorded above and consider whether human authorship is the necessary or best explanation."
+      "verificationNote": "Evaluate the conclusion only after verifying the textual, historical, and logical premises recorded above and consider whether human authorship is the necessary or best explanation.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -709,7 +842,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَاباً مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرَجُونَ لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -719,7 +853,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -729,7 +864,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وإن كنتم في ريب مما نزل الله على عبدنا، فآتوا بصورة من مثله، وأدعوا شهداءكم من دون الله إن كنتم صادقون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -739,7 +875,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فإن لم تفعلوا ولن تفعلوا فاتقوا النار التي يقودها الناس والحجار",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -749,7 +886,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وهو الله الذي لا إله إلا هو",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -759,7 +897,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "تبارك الله أحسن الخالقين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -769,7 +908,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ذلك الكتاب لا ريب فيه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -779,7 +919,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "تلك آيات الكتاب وقرآن مبين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -789,7 +930,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إن هو إلا ذكر وقرآن مبين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -799,7 +941,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -809,7 +952,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "هو الذي أنزل عليك الكتاب منه آيات محكمات هم أم الكتاب وأخرى متشابهات، فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه ابتغاء الفتنة وأبتغاء تأويله، وما يعلم تأويله إلا الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "hadith",
@@ -819,7 +963,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -829,7 +974,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -839,7 +985,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما منعنا أن نرسل بآيات إلا أن كذب بها الأول",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -849,7 +996,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "hadith",
@@ -859,7 +1007,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "hadith",
@@ -869,7 +1018,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "sirah",
@@ -879,7 +1029,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c18"
     },
     {
       "citationType": "event",
@@ -889,7 +1040,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -899,7 +1051,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وَلَا تَزِرُوا وَازِرَةٌ وِزْرَ أُخْرَى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -909,7 +1062,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما كان لبشر ان يكلمه الله الا وحيا او من وراء حجاب او يرسل رسولا فيوحي باذنه ما يشاء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -919,7 +1073,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ وَلَا نَبِيٍّ إِلَّا إِذَا تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَتِهِ فَيَنْسَخُ اللَّهُ مَا يُلْقِي الشَّيْطَانُ ثُمَّ يُحْكِمُ اللَّهُ آيَاتِهِ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "sirah",
@@ -929,7 +1084,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "person",
@@ -939,7 +1095,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
@@ -949,7 +1106,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -959,7 +1117,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "نحن نزلنا الذكرى وإن له لحافظون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -969,7 +1128,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيْفَتِهِ وَيُرْسِلُ السَّوَاعِقَ فَيُصِيبُ بِهَا مَنْ يَشَاءُ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -979,7 +1139,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "event",
@@ -989,7 +1150,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -999,7 +1161,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ومن شاء فليؤمن ومن شاء فليكفر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -1009,7 +1172,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -1019,7 +1183,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما كان لنفس أن تؤمن إلا بإذن الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1029,7 +1194,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "زين له سوء عمله فرآه حسنة... فإن الله يضل من يشاء ويهدي من يشاء",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1039,7 +1205,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما تشاءون إلا أن يشاء الله رب العالمين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1049,7 +1216,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولو شاء الله مقتتلوا ولكن الله يفعل ما يريد",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
@@ -1059,7 +1227,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولو شاء الله لجعلكم أمة واحدة ولكن يضل من يشاء ويهدي من يشاء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "quran",
@@ -1069,7 +1238,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إن نحن نزلنا الذكرى وإن له لحافظون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -1079,7 +1249,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "والرسول الذي لا يتكلم عن الهوى إن هو إلا وحي يوحى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "hadith",
@@ -1089,7 +1260,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1099,7 +1271,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c40"
     },
     {
       "citationType": "person",
@@ -1109,7 +1282,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c41"
     },
     {
       "citationType": "person",
@@ -1119,7 +1293,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "person",
@@ -1129,7 +1304,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c43"
     },
     {
       "citationType": "person",
@@ -1139,7 +1315,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c44"
     },
     {
       "citationType": "book",
@@ -1149,7 +1326,8 @@
       "author": "عبد الله بن مسعود / Abdullah ibn Masud",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c45"
     },
     {
       "citationType": "book",
@@ -1159,7 +1337,8 @@
       "author": "أبي بن كعب / Ubayy ibn Ka'b",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c46"
     },
     {
       "citationType": "quran",
@@ -1169,7 +1348,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c47"
     },
     {
       "citationType": "book",
@@ -1179,7 +1359,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c48"
     },
     {
       "citationType": "quran",
@@ -1189,7 +1370,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "أفلا يتدبرون القرآن؟ ولو كان من عندي غير الله لوجدوا فيه اختلافات كثيرة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c49"
     }
   ],
   "topicProposals": []

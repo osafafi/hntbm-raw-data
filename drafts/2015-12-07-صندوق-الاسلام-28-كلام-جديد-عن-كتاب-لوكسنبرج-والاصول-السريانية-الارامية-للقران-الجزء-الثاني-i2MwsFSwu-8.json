@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "i2MwsFSwu-8",
   "videoUrl": "https://www.youtube.com/watch?v=i2MwsFSwu-8",
   "videoTitle": "صندوق الاسلام 28 كلام جديد عن كتاب لوكسنبرج والأصول السريانية الآرامية للقرآن الجزء الثاني",
@@ -67,7 +67,8 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Luxenberg's proposed Syro-Aramaic etymologies against standard Arabic and Aramaic lexicographical tools."
+      "verificationNote": "Compare Luxenberg's proposed Syro-Aramaic etymologies against standard Arabic and Aramaic lexicographical tools.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:42",
@@ -81,7 +82,8 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check early Quranic manuscripts and Syriac spellings for original orthographic features."
+      "verificationNote": "Check early Quranic manuscripts and Syriac spellings for original orthographic features.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:41",
@@ -95,7 +97,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Al-Suyuti's 'Al-Itqan fi 'Ulum al-Qur'an' or 'Al-Muwahhar' for lists of foreign words in the Quran."
+      "verificationNote": "Check Al-Suyuti's 'Al-Itqan fi 'Ulum al-Qur'an' or 'Al-Muwahhar' for lists of foreign words in the Quran.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:05:18",
@@ -109,7 +114,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the grammatical particle 'aw' in Aramaic lexicons to see if it acts as an explanatory conjunction."
+      "verificationNote": "Verify the grammatical particle 'aw' in Aramaic lexicons to see if it acts as an explanatory conjunction.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:06:38",
@@ -125,7 +133,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Luxenberg's analysis of 4:3 and verify Syriac root 'mlk' and its semantic range in lexicography."
+      "verificationNote": "Check Luxenberg's analysis of 4:3 and verify Syriac root 'mlk' and its semantic range in lexicography.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:08:14",
@@ -139,7 +150,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Syriac term 'yattaruta' in Payne Smith / Costaz lexicons and compare with Quran 11:116."
+      "verificationNote": "Check Syriac term 'yattaruta' in Payne Smith / Costaz lexicons and compare with Quran 11:116.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:11:20",
@@ -153,7 +167,8 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult Levantine dialectal dictionaries regarding the usage of 'baqwa'."
+      "verificationNote": "Consult Levantine dialectal dictionaries regarding the usage of 'baqwa'.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:10",
@@ -165,7 +180,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the research publications from University of Edinburgh concerning the Luke/Quran palimpsest."
+      "verificationNote": "Verify the research publications from University of Edinburgh concerning the Luke/Quran palimpsest.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:16:42",
@@ -180,7 +198,8 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the architectural inscriptions inside the Dome of the Rock recorded by modern epigraphers."
+      "verificationNote": "Check the architectural inscriptions inside the Dome of the Rock recorded by modern epigraphers.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:33",
@@ -196,7 +215,8 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult Luxenberg's essay on the Dome of the Rock inscription and scholarly responses to it."
+      "verificationNote": "Consult Luxenberg's essay on the Dome of the Rock inscription and scholarly responses to it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:43",
@@ -208,7 +228,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify numismatic studies by Volker Popp regarding Arab-Sasanian and Arab-Byzantine coinage."
+      "verificationNote": "Verify numismatic studies by Volker Popp regarding Arab-Sasanian and Arab-Byzantine coinage.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:22:15",
@@ -223,7 +246,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Quran 33:53 and compare classical tafsir glosses for 'inahu' with Luxenberg's emendation to 'inathahu'."
+      "verificationNote": "Check Quran 33:53 and compare classical tafsir glosses for 'inahu' with Luxenberg's emendation to 'inathahu'.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:24:48",
@@ -237,7 +263,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the unpointed skeleton (rasm 'عسا') in early Quranic manuscripts and Luxenberg's commentary on 12:16."
+      "verificationNote": "Check the unpointed skeleton (rasm 'عسا') in early Quranic manuscripts and Luxenberg's commentary on 12:16.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:26:01",
@@ -251,7 +280,10 @@
         "syro-aramaic-quran-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check early Kufic and Hijazi epigraphic variants for the letter forms of jim/ha/kha and Luxenberg's reading of 16:92."
+      "verificationNote": "Check early Kufic and Hijazi epigraphic variants for the letter forms of jim/ha/kha and Luxenberg's reading of 16:92.",
+      "citationRefs": [
+        "c13"
+      ]
     }
   ],
   "citations": [
@@ -263,7 +295,8 @@
       "author": "",
       "locator": "16:103",
       "quotedArabic": "بِلِسَانٍ عَرَبِيٍّ مُبِينٍ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -273,7 +306,8 @@
       "author": "",
       "locator": "26:197",
       "quotedArabic": "أَوَلَمْ يَكُن لَّهُمْ آيَةً أَن يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -283,7 +317,8 @@
       "author": "Al-Suyuti",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -293,7 +328,8 @@
       "author": "",
       "locator": "37:147",
       "quotedArabic": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -303,7 +339,8 @@
       "author": "",
       "locator": "4:3",
       "quotedArabic": "فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -313,7 +350,8 @@
       "author": "",
       "locator": "11:116",
       "quotedArabic": "فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "book",
@@ -323,7 +361,8 @@
       "author": "",
       "locator": "16:19-31",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
@@ -333,7 +372,8 @@
       "author": "Volker Popp",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -343,7 +383,8 @@
       "author": "",
       "locator": "33:53",
       "quotedArabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتَ النَّبِيِّ إِلَّا أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَاظِرِينَ إِنَاهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَادْخُلُوا فَإِذَا طَعِمْتُمْ فَانتَشِرُوا وَلَا مُسْتَأْنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِي النَّبِيَّ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
@@ -353,7 +394,8 @@
       "author": "Talhah ibn Ubaydullah",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -363,7 +405,8 @@
       "author": "",
       "locator": "33:53",
       "quotedArabic": "وَمَا كَانَ لَكُمْ أَن تُؤْذُوا رَسُولَ اللَّهِ وَلَا أَن تَنكِحُوا أَزْوَاجَهُ مِن بَعْدِهِ أَبَدًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -373,7 +416,8 @@
       "author": "",
       "locator": "12:16",
       "quotedArabic": "وَجَاءُوا أَبَاهُمْ عِشَاءً يَبْكُونَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -383,7 +427,8 @@
       "author": "",
       "locator": "16:92",
       "quotedArabic": "وَلَا تَتَّخِذُوا أَيْمَانَكُمْ دَخَلًا بَيْنَكُمْ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     }
   ],
   "topicProposals": [

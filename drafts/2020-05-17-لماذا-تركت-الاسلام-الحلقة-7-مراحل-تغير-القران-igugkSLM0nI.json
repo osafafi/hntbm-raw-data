@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "igugkSLM0nI",
   "videoUrl": "https://www.youtube.com/watch?v=igugkSLM0nI",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 7 - مراحل تغير القرآن",
@@ -112,7 +112,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Catalog the passages normally cited for tolerance, defensive fighting, and unrestricted fighting, then determine whether their wording and traditional chronology support the speaker’s three-way contrast."
+      "verificationNote": "Catalog the passages normally cited for tolerance, defensive fighting, and unrestricted fighting, then determine whether their wording and traditional chronology support the speaker’s three-way contrast.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:48",
@@ -128,7 +131,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Reconstruct the chronology of every passage used in the video and test whether the proposed invitation–defense–sword sequence describes both their legal content and language."
+      "verificationNote": "Reconstruct the chronology of every passage used in the video and test whether the proposed invitation–defense–sword sequence describes both their legal content and language.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:48",
@@ -143,7 +147,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check early sira and chronological traditions for the stated duration of the Meccan mission and estimates or named lists of converts before the Hijra."
+      "verificationNote": "Check early sira and chronological traditions for the stated duration of the Meccan mission and estimates or named lists of converts before the Hijra.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:37",
@@ -158,7 +163,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Review passages classified as Meccan in the traditional chronology and note any counterexamples involving warfare, captives, marriage, or possession by the right hand."
+      "verificationNote": "Review passages classified as Meccan in the traditional chronology and note any counterexamples involving warfare, captives, marriage, or possession by the right hand.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:37",
@@ -174,7 +180,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Classify the traditionally Meccan corpus by theme and compare the result with the speaker’s three categories."
+      "verificationNote": "Classify the traditionally Meccan corpus by theme and compare the result with the speaker’s three categories.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:37",
@@ -189,7 +196,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the wording recited in the video with the canonical Arabic text and examine rhetorical analyses of the repetition and structure of Surat al-Kafirun."
+      "verificationNote": "Compare the wording recited in the video with the canonical Arabic text and examine rhetorical analyses of the repetition and structure of Surat al-Kafirun.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:18",
@@ -203,7 +213,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted verse and inspect classical tafsir and works on abrogation for claims that it was abrogated, restricted, or reconciled with later exclusivist passages."
+      "verificationNote": "Identify the quoted verse and inspect classical tafsir and works on abrogation for claims that it was abrogated, restricted, or reconciled with later exclusivist passages.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:02:18",
@@ -217,7 +230,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verse’s text, reported occasion of revelation, classical interpretations, and discussions of whether it was abrogated or limited to particular groups."
+      "verificationNote": "Check the verse’s text, reported occasion of revelation, classical interpretations, and discussions of whether it was abrogated or limited to particular groups.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:02:54",
@@ -231,7 +247,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the Meccan passages directed against opponents and assess whether their language fits the speaker’s description of insult, humiliation, and eschatological threat."
+      "verificationNote": "Collect the Meccan passages directed against opponents and assess whether their language fits the speaker’s description of insult, humiliation, and eschatological threat.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:02:54",
@@ -246,7 +265,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the full report attributed to Ibn Abbas, establish its earliest source and chain or transmission history, and compare its wording with the quotation in the video."
+      "verificationNote": "Locate the full report attributed to Ibn Abbas, establish its earliest source and chain or transmission history, and compare its wording with the quotation in the video.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:36",
@@ -261,7 +284,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the earliest sira versions of Quraysh’s offer, their wording and chains, and whether the offer is part of the same Ibn Abbas report cited by the speaker."
+      "verificationNote": "Check the earliest sira versions of Quraysh’s offer, their wording and chains, and whether the offer is part of the same Ibn Abbas report cited by the speaker.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:04:17",
@@ -277,7 +303,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare traditional verse chronology with the chronology of the Hijra, growth of the Medinan community, and first military activity."
+      "verificationNote": "Compare traditional verse chronology with the chronology of the Hijra, growth of the Medinan community, and first military activity.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:04:17",
@@ -292,7 +321,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the permission-to-fight passage, establish its traditional date and context, and compare it with earlier Meccan threats and the community’s military capacity."
+      "verificationNote": "Identify the permission-to-fight passage, establish its traditional date and context, and compare it with earlier Meccan threats and the community’s military capacity.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:05:02",
@@ -307,7 +339,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the passage’s stated justification with early Islamic reports about the causes and sequence of the Meccan conflict."
+      "verificationNote": "Compare the passage’s stated justification with early Islamic reports about the causes and sequence of the Meccan conflict.",
+      "citationRefs": [
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:05:41",
@@ -322,7 +358,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Enumerate the pre-Badr expeditions in the earliest maghazi and sira sources, noting their targets, outcomes, and whether six or seven involved attempted or completed seizure."
+      "verificationNote": "Enumerate the pre-Badr expeditions in the earliest maghazi and sira sources, noting their targets, outcomes, and whether six or seven involved attempted or completed seizure.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:41",
@@ -337,7 +374,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the report containing “perhaps God will grant it to you,” identify its earliest collection and transmission, and compare it with accounts of the immediate cause of Badr."
+      "verificationNote": "Locate the report containing “perhaps God will grant it to you,” identify its earliest collection and transmission, and compare it with accounts of the immediate cause of Badr.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:06:20",
@@ -352,7 +394,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check early accounts of the sacred-month expedition, the identity and status of the person killed, the disputed calendar date, and pre-Islamic evidence for sacred-month conventions."
+      "verificationNote": "Check early accounts of the sacred-month expedition, the identity and status of the person killed, the disputed calendar date, and pre-Islamic evidence for sacred-month conventions.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:06:55",
@@ -367,7 +412,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the recited wording with the canonical verse and inspect its occasion-of-revelation reports and classical interpretations of fitna."
+      "verificationNote": "Compare the recited wording with the canonical verse and inspect its occasion-of-revelation reports and classical interpretations of fitna.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:06:55",
@@ -382,7 +430,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare early Muslim accounts of Badr’s objectives and troop movements with the speaker’s characterization of the Meccan force as caravan guards."
+      "verificationNote": "Compare early Muslim accounts of Badr’s objectives and troop movements with the speaker’s characterization of the Meccan force as caravan guards.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:07:37",
@@ -397,7 +448,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the passage quoted later as “fight those who fight you and do not transgress,” establish its chronology, and compare it with the timing and results of the caravan campaigns."
+      "verificationNote": "Identify the passage quoted later as “fight those who fight you and do not transgress,” establish its chronology, and compare it with the timing and results of the caravan campaigns.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:39",
@@ -412,7 +464,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify each poet whom early sources say Muhammad ordered killed, inspect the earliest reports and chains, and determine the reasons assigned in those sources."
+      "verificationNote": "Identify each poet whom early sources say Muhammad ordered killed, inspect the earliest reports and chains, and determine the reasons assigned in those sources.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:08:39",
@@ -427,7 +482,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the video’s stated motives and description of extermination with the earliest accounts of Banu Qaynuqa and Banu al-Nadir, including reports of siege, expulsion, deaths, and alleged treaty violations."
+      "verificationNote": "Compare the video’s stated motives and description of extermination with the earliest accounts of Banu Qaynuqa and Banu al-Nadir, including reports of siege, expulsion, deaths, and alleged treaty violations.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:09:18",
@@ -442,7 +500,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the quoted verse’s canonical wording, context, and classical exegesis, then test whether early sources apply it to poetry, criticism, or simple withdrawal of support."
+      "verificationNote": "Check the quoted verse’s canonical wording, context, and classical exegesis, then test whether early sources apply it to poetry, criticism, or simple withdrawal of support.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:09:53",
@@ -457,7 +518,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine early Medinan narratives, agreements, expulsions, executions, and legal changes for evidence of the asserted relationship between growing power and declining communal freedoms."
+      "verificationNote": "Examine early Medinan narratives, agreements, expulsions, executions, and legal changes for evidence of the asserted relationship between growing power and declining communal freedoms.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:53",
@@ -472,7 +534,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the proposed chronology of the passages with independently reconstructed changes in Muhammad’s finances, armed following, and political position."
+      "verificationNote": "Compare the proposed chronology of the passages with independently reconstructed changes in Muhammad’s finances, armed following, and political position.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:41",
@@ -487,7 +550,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "List the passages the speaker treats as personal privileges, date them where possible, and evaluate their stated beneficiaries and traditional occasions of revelation."
+      "verificationNote": "List the passages the speaker treats as personal privileges, date them where possible, and evaluate their stated beneficiaries and traditional occasions of revelation.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:41",
@@ -502,7 +566,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted fay’ passage and check whether the text or classical legal interpretation supports the speaker’s description of equal distribution and Muhammad receiving an ordinary Muslim’s share."
+      "verificationNote": "Identify the quoted fay’ passage and check whether the text or classical legal interpretation supports the speaker’s description of equal distribution and Muhammad receiving an ordinary Muslim’s share.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:18",
@@ -518,7 +585,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the relative chronology and legal subjects of the two spoils passages, whether classical sources call one an abrogation of the other, and how the fifth was administered."
+      "verificationNote": "Check the relative chronology and legal subjects of the two spoils passages, whether classical sources call one an abrogation of the other, and how the fifth was administered.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:11:18",
@@ -533,7 +603,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine early legal and historical accounts of the allocation and expenditure of the khums, distinguishing Muhammad’s personal property from communal and designated beneficiaries."
+      "verificationNote": "Examine early legal and historical accounts of the allocation and expenditure of the khums, distinguishing Muhammad’s personal property from communal and designated beneficiaries.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:12:14",
@@ -548,7 +621,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the verse quoted explicitly later in the transcript, establish its context and chronology, and compare classical interpretations of calling for peace while uppermost."
+      "verificationNote": "Identify the verse quoted explicitly later in the transcript, establish its context and chronology, and compare classical interpretations of calling for peace while uppermost.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:12:14",
@@ -563,7 +639,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the exact Sahih Muslim report, verify its Arabic variants, chain, chapter, and locator, and review interpretations of its territorial scope and fulfillment."
+      "verificationNote": "Locate the exact Sahih Muslim report, verify its Arabic variants, chain, chapter, and locator, and review interpretations of its territorial scope and fulfillment.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:12:59",
@@ -579,7 +658,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare early accounts of the Medinan population, expulsions, the conquest of Mecca, and Muhammad’s political institutions; specifically check the claim that Christians as a community were expelled from Medina by Muhammad."
+      "verificationNote": "Compare early accounts of the Medinan population, expulsions, the conquest of Mecca, and Muhammad’s political institutions; specifically check the claim that Christians as a community were expelled from Medina by Muhammad.",
+      "citationRefs": [
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:12:59",
@@ -596,7 +679,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare late Qur’anic passages, early conquest practice, and classical jihad law with the speaker’s unrestricted description of offensive obligations."
+      "verificationNote": "Compare late Qur’anic passages, early conquest practice, and classical jihad law with the speaker’s unrestricted description of offensive obligations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:40",
@@ -611,7 +695,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check traditional and scholarly chronologies for Surat al-Tawba and whether every passage attributed to this section of the argument belongs to that sura."
+      "verificationNote": "Check traditional and scholarly chronologies for Surat al-Tawba and whether every passage attributed to this section of the argument belongs to that sura.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:13:40",
@@ -626,7 +713,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the quoted fighting passage, compare its wording and context with Surat al-Kafirun, and review abrogation and exegetical claims linking them."
+      "verificationNote": "Identify the quoted fighting passage, compare its wording and context with Surat al-Kafirun, and review abrogation and exegetical claims linking them.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:13:40",
@@ -640,7 +730,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare both passages and inspect classical tafsir and abrogation literature for reconciliation, restriction, or cancellation of the earlier salvation statement."
+      "verificationNote": "Compare both passages and inspect classical tafsir and abrogation literature for reconciliation, restriction, or cancellation of the earlier salvation statement.",
+      "citationRefs": [
+        "c29",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:14:16",
@@ -655,7 +749,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the no-compulsion and jizya passages, their contexts, and classical legal treatments of conversion options for People of the Book and other groups."
+      "verificationNote": "Compare the no-compulsion and jizya passages, their contexts, and classical legal treatments of conversion options for People of the Book and other groups.",
+      "citationRefs": [
+        "c30",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:15:13",
@@ -670,7 +768,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the verse paraphrased as fighting nearby unbelievers and compare its canonical text, context, and classical interpretation with the speaker’s land-of-war reading."
+      "verificationNote": "Identify the verse paraphrased as fighting nearby unbelievers and compare its canonical text, context, and classical interpretation with the speaker’s land-of-war reading.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:15:13",
@@ -684,7 +785,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the recited text and review its context and exegesis to determine the scope of jihad and the nature of the promised salvation."
+      "verificationNote": "Verify the recited text and review its context and exegesis to determine the scope of jihad and the nature of the promised salvation.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:15:53",
@@ -699,7 +803,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the canonical wording and context of the verse and compare classical interpretations of the transaction metaphor and “they kill and are killed.”"
+      "verificationNote": "Check the canonical wording and context of the verse and compare classical interpretations of the transaction metaphor and “they kill and are killed.”",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:15:53",
@@ -714,7 +821,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Examine Islamic State doctrinal publications and perpetrator statements to test whether this particular verse was invoked as motivation, while separating scriptural influence from other causes."
+      "verificationNote": "Examine Islamic State doctrinal publications and perpetrator statements to test whether this particular verse was invoked as motivation, while separating scriptural influence from other causes.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:15:53",
@@ -729,7 +839,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse’s wording and context and inspect classical explanations of punishment through believers’ hands and healing their breasts."
+      "verificationNote": "Verify the verse’s wording and context and inspect classical explanations of punishment through believers’ hands and healing their breasts.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:16:32",
@@ -744,7 +857,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the verse’s canonical wording, occasion of revelation, and classical legal definitions of hiraba and corruption, then determine whether criticism alone was treated as falling under it."
+      "verificationNote": "Check the verse’s canonical wording, occasion of revelation, and classical legal definitions of hiraba and corruption, then determine whether criticism alone was treated as falling under it.",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:17:02",
@@ -759,7 +875,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the partially quoted passage and compare classical definitions of nifaq with the speaker’s claim that incomplete enforcement of sharia or jizya makes a Muslim a hypocrite."
+      "verificationNote": "Identify the partially quoted passage and compare classical definitions of nifaq with the speaker’s claim that incomplete enforcement of sharia or jizya makes a Muslim a hypocrite.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:17:02",
@@ -774,7 +893,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Count Qur’anic occurrences and variants of the right-hand-possession formula, establish their traditional chronology, and review classical law concerning sale, ownership, and sexual access."
+      "verificationNote": "Count Qur’anic occurrences and variants of the right-hand-possession formula, establish their traditional chronology, and review classical law concerning sale, ownership, and sexual access.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:17:44",
@@ -789,7 +911,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Consult classical naskh literature passage by passage to determine which earlier texts were actually held to be abrogated by Surat al-Tawba or other late passages."
+      "verificationNote": "Consult classical naskh literature passage by passage to determine which earlier texts were actually held to be abrogated by Surat al-Tawba or other late passages.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:18:20",
@@ -804,7 +929,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the sura’s wording and traditional occasion and date, then compare conversion chronology before and after the conquest of Mecca and assess whether coercion is established by the text."
+      "verificationNote": "Verify the sura’s wording and traditional occasion and date, then compare conversion chronology before and after the conquest of Mecca and assess whether coercion is established by the text.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:18:20",
@@ -819,7 +947,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare estimated conversion patterns during the Meccan and post-conquest periods and distinguish voluntary alliance, political submission, and religious conversion."
+      "verificationNote": "Compare estimated conversion patterns during the Meccan and post-conquest periods and distinguish voluntary alliance, political submission, and religious conversion.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:03",
@@ -833,7 +962,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test whether the passages assigned to all three stages remain in the canonical text and whether contemporary doctrinal positions actually correlate with the power-based sequence proposed by the speaker."
+      "verificationNote": "Test whether the passages assigned to all three stages remain in the canonical text and whether contemporary doctrinal positions actually correlate with the power-based sequence proposed by the speaker.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:29",
@@ -848,7 +978,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the wording, contexts, chronology, and traditional harmonizations of the three passages contrasted by the speaker."
+      "verificationNote": "Compare the wording, contexts, chronology, and traditional harmonizations of the three passages contrasted by the speaker.",
+      "citationRefs": [
+        "c40"
+      ]
     },
     {
       "timestamp": "00:21:08",
@@ -864,7 +997,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Construct an independent chronology of the cited texts and Muhammad’s changing circumstances, then test the claimed correlation and alternative explanations such as changing communal needs or conventional doctrines of progressive legislation."
+      "verificationNote": "Construct an independent chronology of the cited texts and Muhammad’s changing circumstances, then test the claimed correlation and alternative explanations such as changing communal needs or conventional doctrines of progressive legislation.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -876,7 +1010,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -886,7 +1021,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -896,7 +1032,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "قل يا أيها الكافرون لا أعبد ما تعبدون، ولأنتم عابدون ما أعبد، ولأنا عابد ما عبدتم، ولأنتم عابدون ما أعبد، لكم دينكم ولي دينكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -906,7 +1043,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إن الذين آمنوا والذين هادوا، والنصارى والصابئين، ومن آمن بالله واليوم الآخر، ومن عمل عملا صالحا، فلهم أجر عند ربهم، ولا خوف عليهم، ولا هم يحزنون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -916,7 +1054,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لا إكراه في الدين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "sirah",
@@ -926,7 +1065,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "يا محمد إن قد بعثنا إليك لنعذر فيك، وإن والله ما نعلم رجل من العرب أدخل على قومه ما أدخلت على قومك... لقد شتمت الآباء، وعبت الدين، وسفهت الأحلام، وشتمت الآلهة، وفرقت الجماعة، فما بقي من أمر قبيح إلا وقد جئته فيما بيننا وبينك",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -936,7 +1076,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -946,7 +1087,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -956,7 +1098,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "أذن للذين يقاتلون بأنهم ظلموا، وأن الله لنصرهم لقديرهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -966,7 +1109,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الذين أخرجوا من ديارهم بغير حق إلا أن يقولوا ربنا الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -976,7 +1120,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "تبت أيديكم ونسائكم حمالات للحطب، وستصلون سقر",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "sirah",
@@ -986,7 +1131,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لعل الله أن ينفلكم إياها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -996,7 +1142,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "event",
@@ -1006,7 +1153,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "event",
@@ -1016,7 +1164,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -1026,7 +1175,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "يسألونك عن الشهر الحرام قتالهم فيه، قل قتالهم فيه كبير ولكن صد عن سبيل الله وكفر به، والمسجد الحرام وإخراج أهله منه أكبر عند الله والفتنة أكبر من القتل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "event",
@@ -1036,7 +1186,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "event",
@@ -1046,7 +1197,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c18"
     },
     {
       "citationType": "event",
@@ -1056,7 +1208,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "event",
@@ -1066,7 +1219,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -1076,7 +1230,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وإن نكثوا أيمانهم من بعد عهتهم وطعنوا في دينكم فقاتلوا أئمة الكفر إنهم لا أيمان لهم لعلهم ينتهون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -1086,7 +1241,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ما أفاء الله على رسوله من أهل القرى، فلله وللرسول ولذوي القربة واليتام والمساكين وأبن السبيل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1096,7 +1252,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "واعلموا أن ما غنمتم من شيء، فإن لله خمسه وللرسول ولذوي القربة واليتام والمساكين وأبن السبيل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "hadith",
@@ -1106,7 +1263,8 @@
       "author": "مسلم بن الحجاج",
       "locator": "",
       "quotedArabic": "لأخرجن اليهود والنصارى من جزيرة العرب حتى لا أدعى إلا مسلما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "event",
@@ -1116,7 +1274,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "event",
@@ -1126,7 +1285,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -1136,7 +1296,8 @@
       "author": "",
       "locator": "سورة براءة/التوبة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
@@ -1146,7 +1307,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وقاتلوهم حتى لا تكن فتنتهم ويكونوا الدين كله لله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "quran",
@@ -1156,7 +1318,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ومن يبتغي غير الإسلام دينا فلن يقبل منه وهو في الآخرة من الخاسرين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -1166,7 +1329,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "قاتلوا الذين لا يؤمنون بالله ولا باليوم الآخر، ولا يحرمون ما حرم الله ورسوله... ولا يدينون دين الحق من الذين أوتوا الكتاب حتى يعطوا الجزية عن يد وهم صاغرون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -1176,7 +1340,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الذين يولونكم من الكفار",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -1186,7 +1351,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "يا أيها الذين آمنوا هل أدلكم على تجارة تنجيكم من عذاب أليم؟ تؤمنون بالله ورسوله، وتجاهدون في سبيل الله بأموالكم وأنفسكم، ذلكم خير لكم إن كنتم تعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1196,7 +1362,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إن الله اشترى من المؤمنين أنفسهم وأموالهم بأن لهم الجنة، يقاتلون في سبيل الله فيقتلون ويقتلون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1206,7 +1373,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "قاتلوهم يعذبهم الله بأيديكم ويخزهم وينصركم عليهم ويشفي صدور قوم مؤمنين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1216,7 +1384,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إنما جزاء الذين يحاربون الله ورسوله ويسعون في الأرض فساداً، أن يقتلوا ويصلبوا وتقطع أيديهم وأرجيلهم من غلاف، أو ينفو من الأرض",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
@@ -1226,7 +1395,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "كفارة ومنافقين وأغلظ عليهم ومأواهم جهنم وبئس النصير",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     },
     {
       "citationType": "quran",
@@ -1236,7 +1406,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ملك اليمين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -1246,7 +1417,8 @@
       "author": "",
       "locator": "سورة النصر",
       "quotedArabic": "إذا جاء نصر الله والفتح، ورأيت الناس يدخلون في دين الله أفواجاً، أسمح بحمد ربك واستغفر إنه كان تواباً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "quran",
@@ -1256,7 +1428,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لا تهنوا وتدعوا للسلم وأنتم الأعلون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "quran",
@@ -1266,7 +1439,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لكم دينكم ولي دين... قاتلوا الذين يقاتلونكم ولا تعتدوا... قاتلوهم حتى لا تكونوا فتنة ولي يكونوا الدين كله لله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     }
   ],
   "topicProposals": []

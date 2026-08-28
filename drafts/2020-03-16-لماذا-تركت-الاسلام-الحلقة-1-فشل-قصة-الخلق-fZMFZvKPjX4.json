@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "fZMFZvKPjX4",
   "videoUrl": "https://www.youtube.com/watch?v=fZMFZvKPjX4",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 1 - فشل قصة الخلق",
@@ -117,7 +117,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the hadith about asking who created God, compare its exact wording and collection locators with the speaker’s paraphrase, and determine what response it prescribes."
+      "verificationNote": "Identify the hadith about asking who created God, compare its exact wording and collection locators with the speaker’s paraphrase, and determine what response it prescribes.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:18",
@@ -134,7 +138,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Qur’anic verses and hadith reports concerning primordial water, the throne, the pen, and the Preserved Tablet, and check whether the speaker’s sequence accurately combines them."
+      "verificationNote": "Locate the Qur’anic verses and hadith reports concerning primordial water, the throne, the pen, and the Preserved Tablet, and check whether the speaker’s sequence accurately combines them.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:01:57",
@@ -150,7 +157,10 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Qur’anic and hadith texts about the Preserved Tablet, divine decree, and the writing of all events, including whether they state the scope and timing described."
+      "verificationNote": "Check Qur’anic and hadith texts about the Preserved Tablet, divine decree, and the writing of all events, including whether they state the scope and timing described.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:01:57",
@@ -164,7 +174,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted wording in the Qur’an and identify its sura and aya without relying on the video’s unstated locator."
+      "verificationNote": "Verify the quoted wording in the Qur’an and identify its sura and aya without relying on the video’s unstated locator.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:01:57",
@@ -178,7 +191,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur’anic passages concerning seven heavens and 'of the earth the like of them,' together with their exact wording and immediate contexts."
+      "verificationNote": "Check the Qur’anic passages concerning seven heavens and 'of the earth the like of them,' together with their exact wording and immediate contexts.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:01:57",
@@ -195,7 +212,11 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Qur’anic Adam–Iblis passages and relevant exegetical or hadith material with the sequence stated by the speaker."
+      "verificationNote": "Compare the Qur’anic Adam–Iblis passages and relevant exegetical or hadith material with the sequence stated by the speaker.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:01:57",
@@ -211,7 +232,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the hadith, exegetical, and biblical sources for creation from a rib and check which elements—especially Adam’s loneliness—are actually present in Islamic primary texts."
+      "verificationNote": "Identify the hadith, exegetical, and biblical sources for creation from a rib and check which elements—especially Adam’s loneliness—are actually present in Islamic primary texts.",
+      "citationRefs": [
+        "c7",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:02:42",
@@ -226,7 +251,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Qur’anic passages and later doctrinal sources concerning corruption of previous scriptures, finality, preservation, and the claim that Islam or the Qur’an cannot be altered."
+      "verificationNote": "Check the Qur’anic passages and later doctrinal sources concerning corruption of previous scriptures, finality, preservation, and the claim that Islam or the Qur’an cannot be altered.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:03:25",
@@ -240,7 +270,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse’s exact wording and context and review early and later exegesis on whether it entails the blanket exclusion described."
+      "verificationNote": "Verify the verse’s exact wording and context and review early and later exegesis on whether it entails the blanket exclusion described.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:04:40",
@@ -255,7 +288,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the source-based problems identified throughout the episode logically support this broad conclusion; the conclusion itself is not independently source-checkable."
+      "verificationNote": "Assess whether the source-based problems identified throughout the episode logically support this broad conclusion; the conclusion itself is not independently source-checkable.",
+      "citationRefs": [
+        "c14",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:05:21",
@@ -271,7 +308,11 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the questions with classical Islamic doctrines of divine eternality, timelessness, purpose, and creation to evaluate whether the alleged explanatory gap follows."
+      "verificationNote": "Compare the questions with classical Islamic doctrines of divine eternality, timelessness, purpose, and creation to evaluate whether the alleged explanatory gap follows.",
+      "citationRefs": [
+        "c1",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:05:21",
@@ -287,7 +328,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check how the relevant primary texts and classical theologians characterize these entities—literal, created, immaterial, or metaphorical—and assess the anachronism argument."
+      "verificationNote": "Check how the relevant primary texts and classical theologians characterize these entities—literal, created, immaterial, or metaphorical—and assess the anachronism argument.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:05:21",
@@ -303,7 +347,11 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Review the functions assigned to the throne in Qur’anic passages, hadith, tafsir, and kalam before evaluating the speaker’s purposelessness inference."
+      "verificationNote": "Review the functions assigned to the throne in Qur’anic passages, hadith, tafsir, and kalam before evaluating the speaker’s purposelessness inference.",
+      "citationRefs": [
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:06:07",
@@ -319,7 +367,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check primary reports and classical explanations of the pen and Tablet, particularly whether remembrance or establishing proof is stated as their purpose."
+      "verificationNote": "Check primary reports and classical explanations of the pen and Tablet, particularly whether remembrance or establishing proof is stated as their purpose.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:06:07",
@@ -335,7 +386,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Review Qur’anic and theological accounts of angelic functions and assess whether service implies divine need or is explained on other grounds."
+      "verificationNote": "Review Qur’anic and theological accounts of angelic functions and assess whether service implies divine need or is explained on other grounds.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:06:48",
@@ -351,7 +405,10 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Islamic source claims about angelic free will, fear, worship, and the Frequented House, then evaluate the ethical analogy independently."
+      "verificationNote": "Check Islamic source claims about angelic free will, fear, worship, and the Frequented House, then evaluate the ethical analogy independently.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:06:48",
@@ -366,7 +423,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey early tafsir, hadith cosmography, and classical cosmological works to determine the range and prevalence of literal layered interpretations."
+      "verificationNote": "Survey early tafsir, hadith cosmography, and classical cosmological works to determine the range and prevalence of literal layered interpretations.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:07:26",
@@ -381,7 +442,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare premodern and modern interpretations of the seven heavens and earths and check the scientific characterization of what astronomy can test."
+      "verificationNote": "Compare premodern and modern interpretations of the seven heavens and earths and check the scientific characterization of what astronomy can test.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:07:26",
@@ -397,7 +462,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Examine the exact creation passages and classical explanations for six days or periods before assessing the alleged conflict with omnipotence."
+      "verificationNote": "Examine the exact creation passages and classical explanations for six days or periods before assessing the alleged conflict with omnipotence.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:08:10",
@@ -414,7 +482,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the inference against the wording and traditional purposes assigned to staged creation; the statement about the author is an interpretive conclusion."
+      "verificationNote": "Evaluate the inference against the wording and traditional purposes assigned to staged creation; the statement about the author is an interpretive conclusion.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:08:10",
@@ -431,7 +502,10 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the Qur’anic wording and tafsir concerning the tree’s role, purpose, and location, then assess the narrative criticism."
+      "verificationNote": "Check the Qur’anic wording and tafsir concerning the tree’s role, purpose, and location, then assess the narrative criticism.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:08:54",
@@ -447,7 +521,11 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare every Qur’anic passage about Iblis’s expulsion, respite, location, and temptation of Adam, along with major exegetical reconciliations."
+      "verificationNote": "Compare every Qur’anic passage about Iblis’s expulsion, respite, location, and temptation of Adam, along with major exegetical reconciliations.",
+      "citationRefs": [
+        "c8",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:08:54",
@@ -464,7 +542,14 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether the Qur’an names spouses or daughters in this account, then review hadith and tafsir explanations of early human reproduction and the chronology of incest prohibitions."
+      "verificationNote": "Check whether the Qur’an names spouses or daughters in this account, then review hadith and tafsir explanations of early human reproduction and the chronology of incest prohibitions.",
+      "citationRefs": [
+        "c7",
+        "c9",
+        "c10",
+        "c11",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:09:34",
@@ -479,7 +564,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult population genetics on minimum viable population, genetic bottlenecks, pedigree collapse, and the consequences of descent from a single original pair."
+      "verificationNote": "Consult population genetics on minimum viable population, genetic bottlenecks, pedigree collapse, and the consequences of descent from a single original pair.",
+      "citationRefs": [
+        "c7",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:09:34",
@@ -493,7 +582,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check conservation criteria and whether the stated numerical range can validly be generalized across species or applied to human population genetics."
+      "verificationNote": "Check conservation criteria and whether the stated numerical range can validly be generalized across species or applied to human population genetics.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:14",
@@ -508,7 +598,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Review Qur’anic passages, hadith, and theological doctrines concerning people unreached by a messenger and compare them with the claim that no answer exists."
+      "verificationNote": "Review Qur’anic passages, hadith, and theological doctrines concerning people unreached by a messenger and compare them with the claim that no answer exists.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:54",
@@ -525,7 +616,12 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the primary texts’ descriptions of continuity, difference, corruption, and supersession among Judaism, Christianity, and Islam before evaluating the confusion argument."
+      "verificationNote": "Check the primary texts’ descriptions of continuity, difference, corruption, and supersession among Judaism, Christianity, and Islam before evaluating the confusion argument.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:34",
@@ -541,7 +637,8 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the argument with Islamic doctrines concerning moral accountability, maturity, access to revelation, intention, and salvation outside Islam."
+      "verificationNote": "Compare the argument with Islamic doctrines concerning moral accountability, maturity, access to revelation, intention, and salvation outside Islam.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:34",
@@ -557,7 +654,10 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Islamic definitions of knowledge, decree, will, creation of acts, and divine wisdom, and determine whether they entail the speaker’s 'best possible plan' premise."
+      "verificationNote": "Check Islamic definitions of knowledge, decree, will, creation of acts, and divine wisdom, and determine whether they entail the speaker’s 'best possible plan' premise.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:12:19",
@@ -574,7 +674,12 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Verify the textual premises separately and assess whether Islamic doctrines distinguish foreknowledge, permission, command, creation, and moral approval in a way relevant to the inference."
+      "verificationNote": "Verify the textual premises separately and assess whether Islamic doctrines distinguish foreknowledge, permission, command, creation, and moral approval in a way relevant to the inference.",
+      "citationRefs": [
+        "c3",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:12:57",
@@ -591,7 +696,10 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the Qur’anic verse from the quoted wording, verify its exact text and context, and check whether it supports the speaker’s application to later interreligious violence."
+      "verificationNote": "Identify the Qur’anic verse from the quoted wording, verify its exact text and context, and check whether it supports the speaker’s application to later interreligious violence.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:12:57",
@@ -607,7 +715,11 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare this incompatibilist inference with the major Islamic positions on qadar, acquisition of acts, secondary causation, and human responsibility."
+      "verificationNote": "Compare this incompatibilist inference with the major Islamic positions on qadar, acquisition of acts, secondary causation, and human responsibility.",
+      "citationRefs": [
+        "c3",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:13:38",
@@ -623,7 +735,12 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the sources state that God positively wanted each action, rather than merely foreknew or permitted it, and assess the responsibility inference."
+      "verificationNote": "Check whether the sources state that God positively wanted each action, rather than merely foreknew or permitted it, and assess the responsibility inference.",
+      "citationRefs": [
+        "c3",
+        "c8",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:13:38",
@@ -639,7 +756,13 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the Adam passages and qadar traditions with theological accounts of human agency and repentance."
+      "verificationNote": "Compare the Adam passages and qadar traditions with theological accounts of human agency and repentance.",
+      "citationRefs": [
+        "c3",
+        "c7",
+        "c9",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:13:38",
@@ -653,7 +776,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "This broad sociological generalization requires evidence about religious socialization, education, belief retention, and the actual extent of critical engagement among Muslims."
+      "verificationNote": "This broad sociological generalization requires evidence about religious socialization, education, belief retention, and the actual extent of critical engagement among Muslims.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:20",
@@ -669,7 +793,8 @@
         "islamic-creation-narrative-coherence"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the alleged plot defects individually against the primary texts; the comparison to a children’s story is rhetorical and interpretive."
+      "verificationNote": "Evaluate the alleged plot defects individually against the primary texts; the comparison to a children’s story is rhetorical and interpretive.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:20",
@@ -684,7 +809,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Assess the dating, intellectual environment, antecedent creation traditions, and authorship history separately; the speaker names no particular author or antecedent work here."
+      "verificationNote": "Assess the dating, intellectual environment, antecedent creation traditions, and authorship history separately; the speaker names no particular author or antecedent work here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:01",
@@ -700,7 +826,10 @@
         "divine-decree-and-human-agency"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Test whether the dilemma exhausts the theological alternatives and whether Islamic sources distinguish divine knowledge, inscription, decree, and causal determination."
+      "verificationNote": "Test whether the dilemma exhausts the theological alternatives and whether Islamic sources distinguish divine knowledge, inscription, decree, and causal determination.",
+      "citationRefs": [
+        "c3"
+      ]
     }
   ],
   "citations": [
@@ -712,7 +841,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لما تلاقوا حالكم تسألون من أين أتى الله؟ عرفوا أن الشيطان هو الذي يتلعب بعقلكم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -722,7 +852,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "hadith",
@@ -732,7 +863,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -742,7 +874,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "هو الذي خلق السماوات والأرض في ستة أيام، وكان عرشه على الماء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -752,7 +885,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الله الذي خلق سبع سماوات ومن الأرض مثلهن ينزل الأمر بينهن لتعلموا أن الله على كل شيء قدير",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -762,7 +896,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الذي خلق سبع سماوات تباقا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -772,7 +907,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
@@ -782,7 +918,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
@@ -792,7 +929,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
@@ -802,7 +940,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -812,7 +951,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
@@ -822,7 +962,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -832,7 +973,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
@@ -842,7 +984,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -852,7 +995,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ومن يبتغي غير الإسلام دينا فلم يقبلوا منه وهو في الآخرة من الخاسرين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -862,7 +1006,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "hadith",
@@ -872,7 +1017,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -882,7 +1028,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -892,7 +1039,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -902,7 +1050,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولو شاء الله ما اقتتلوا ولكن الله يفعل ما يريد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     }
   ],
   "topicProposals": [

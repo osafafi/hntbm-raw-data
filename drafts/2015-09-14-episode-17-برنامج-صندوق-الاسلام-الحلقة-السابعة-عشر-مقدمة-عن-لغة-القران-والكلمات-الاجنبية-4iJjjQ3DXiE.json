@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "4iJjjQ3DXiE",
   "videoUrl": "https://www.youtube.com/watch?v=4iJjjQ3DXiE",
   "videoTitle": "Episode 17 برنامج صندوق الإسلام - الحلقة السابعة عشر/ مقدمة عن لغة القرآن والكلمات الأجنبية بها",
@@ -73,7 +73,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check historical and manuscript evidence regarding the standardization and transmission history of the Qur'anic text."
+      "verificationNote": "Check historical and manuscript evidence regarding the standardization and transmission history of the Qur'anic text.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:24",
@@ -84,7 +85,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Nöldeke's 'Geschichte des Qorans' regarding his three-stage division of Meccan surahs."
+      "verificationNote": "Verify Nöldeke's 'Geschichte des Qorans' regarding his three-stage division of Meccan surahs.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:06:39",
@@ -96,7 +100,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Christoph Luxenberg's 'Die syro-aramäische Lesart des Koran' for the claim of 1,250 Syriac-derived words."
+      "verificationNote": "Check Christoph Luxenberg's 'Die syro-aramäische Lesart des Koran' for the claim of 1,250 Syriac-derived words.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:07:40",
@@ -107,7 +115,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify etymological links between 'Qur'an' and Syriac 'Qaryana' in comparative Semitic linguistics."
+      "verificationNote": "Verify etymological links between 'Qur'an' and Syriac 'Qaryana' in comparative Semitic linguistics.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:20",
@@ -118,7 +127,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check etymology of 'Furqan' in Syriac and Arabic dictionaries and critical Qur'anic studies."
+      "verificationNote": "Check etymology of 'Furqan' in Syriac and Arabic dictionaries and critical Qur'anic studies.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:09:22",
@@ -129,7 +142,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check al-Suyuti's 'al-Itqan fi 'Ulum al-Qur'an' for sections discussing foreign vocabulary (al-mu'arrab)."
+      "verificationNote": "Check al-Suyuti's 'al-Itqan fi 'Ulum al-Qur'an' for sections discussing foreign vocabulary (al-mu'arrab).",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:09:50",
@@ -140,7 +156,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check linguistic etymology of 'firdaws', 'sundus', and 'istabraq' from Old Persian."
+      "verificationNote": "Check linguistic etymology of 'firdaws', 'sundus', and 'istabraq' from Old Persian.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:30",
@@ -152,7 +169,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check orthographic history of Arabic orthography and Syriac loanwords for waw spellings in Aramaic/Syriac."
+      "verificationNote": "Check orthographic history of Arabic orthography and Syriac loanwords for waw spellings in Aramaic/Syriac.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:09",
@@ -164,7 +182,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Christoph Luxenberg's argument regarding 'hur 'in' and 'rawwahnahum' in 'Die syro-aramäische Lesart des Koran'."
+      "verificationNote": "Check Christoph Luxenberg's argument regarding 'hur 'in' and 'rawwahnahum' in 'Die syro-aramäische Lesart des Koran'.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:14:00",
@@ -175,7 +196,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check codex Arabe 328a/b at the Bibliothèque nationale de France regarding script style, paleography, and radio-carbon dating."
+      "verificationNote": "Check codex Arabe 328a/b at the Bibliothèque nationale de France regarding script style, paleography, and radio-carbon dating.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:15:22",
@@ -186,7 +210,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check paleographical dating of the Samarkand Kufic Qur'an (Tashkent manuscript) in academic consensus."
+      "verificationNote": "Check paleographical dating of the Samarkand Kufic Qur'an (Tashkent manuscript) in academic consensus.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:16:54",
@@ -197,7 +224,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Luxenberg's proposed emendation for Qur'an 12:16."
+      "verificationNote": "Check Luxenberg's proposed emendation for Qur'an 12:16.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:18:23",
@@ -208,7 +238,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Luxenberg's analysis of Surah al-Qadr in 'Christmas in the Koran' / Syro-Aramaic studies."
+      "verificationNote": "Check Luxenberg's analysis of Surah al-Qadr in 'Christmas in the Koran' / Syro-Aramaic studies.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:19:50",
@@ -219,7 +252,11 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check scholarly dating (e.g., François Déroche, Gerd-R. Puin) of the Mashhad al-Husseini Qur'an manuscript."
+      "verificationNote": "Check scholarly dating (e.g., François Déroche, Gerd-R. Puin) of the Mashhad al-Husseini Qur'an manuscript.",
+      "citationRefs": [
+        "c12",
+        "c13"
+      ]
     }
   ],
   "citations": [
@@ -229,14 +266,16 @@
       "asStatedInVideo": "كتاب لمستشرق ألماني اسمه نولدكه... اسمه 'تاريخ القرآن'",
       "workTitle": "Geschichte des Qorans (تاريخ القرآن)",
       "author": "Theodor Nöldeke",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:39",
       "asStatedInVideo": "باحث هو من أصول لبنانية، لكنه يكتب تحت اسم كريستوف لوكسنبرغ",
       "author": "Christoph Luxenberg",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "book",
@@ -244,7 +283,8 @@
       "asStatedInVideo": "القراءة السريانية الآرامية للقرآن",
       "workTitle": "Die syro-aramäische Lesart des Koran (القراءة السريانية الآرامية للقرآن)",
       "author": "Christoph Luxenberg",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -252,7 +292,8 @@
       "asStatedInVideo": "سبحان الذي نزل الفرقان على عبده",
       "locator": "25:1",
       "quotedArabic": "تبارك الذي نزل الفرقان على عبده",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -260,7 +301,8 @@
       "asStatedInVideo": "سورة البقرة 'وإذ آتينا موسى الكتاب والفرقان لعلكم تهتدون'",
       "locator": "2:53",
       "quotedArabic": "وإذ آتينا موسى الكتاب والفرقان لعلكم تهتدون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -268,7 +310,8 @@
       "asStatedInVideo": "السيوطي كان عامل 'الإتقان في علوم القرآن'",
       "workTitle": "الإتقان في علوم القرآن",
       "author": "Jalal al-Din al-Suyuti",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -276,7 +319,8 @@
       "asStatedInVideo": "وزوجناهم بحور عين",
       "locator": "44:54",
       "quotedArabic": "وزوجناهم بحور عين",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -284,7 +328,8 @@
       "asStatedInVideo": "بداية سورة الزمر 'بسم الله الرحمن الرحيم تنزيل الكتاب'",
       "locator": "39:1-2",
       "quotedArabic": "تنزيل الكتاب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -292,7 +337,8 @@
       "asStatedInVideo": "سورة مريم من الآية 11 لـ 14 'يا يحيى خذ الكتاب بقوة'",
       "locator": "19:12",
       "quotedArabic": "يا يحيى خذ الكتاب بقوة",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -300,7 +346,8 @@
       "asStatedInVideo": "سورة يوسف 'وجاءوا أباهم عشاءً يبكون'",
       "locator": "12:16",
       "quotedArabic": "وجاءوا أباهم عشاء يبكون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -308,21 +355,24 @@
       "asStatedInVideo": "سورة القدر 'إنا أنزلناه في ليلة القدر وما أدراك ما ليلة القدر...'",
       "locator": "97:1-5",
       "quotedArabic": "إنا أنزلناه في ليلة القدر وما أدراك ما ليلة القدر ليلة القدر خير من ألف شهر تنزل الملائكة والروح فيها بإذن ربهم من كل أمر سلام هي حتى مطلع الفجر",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:50",
       "asStatedInVideo": "فرن سوا دي روش في باريس",
       "author": "François Déroche",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:50",
       "asStatedInVideo": "جيرد بوين في ألمانيا",
       "author": "Gerd-Rüdiger Puin",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     }
   ],
   "topicProposals": [

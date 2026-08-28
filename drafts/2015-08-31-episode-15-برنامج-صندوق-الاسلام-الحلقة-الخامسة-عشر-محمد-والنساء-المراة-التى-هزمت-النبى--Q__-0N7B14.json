@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "-Q__-0N7B14",
   "videoUrl": "https://www.youtube.com/watch?v=-Q__-0N7B14",
   "videoTitle": "Episode 15 برنامج صندوق الإسلام - الحلقة الخامسة عشر/ محمد والنساء: المرأة التى هزمت النبى",
@@ -73,7 +73,11 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical evaluations of pre-Islamic Arabian women's legal rights and status relative to Islamic sources."
+      "verificationNote": "Check historical evaluations of pre-Islamic Arabian women's legal rights and status relative to Islamic sources.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:02:18",
@@ -84,7 +88,8 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare classical biographical reports on Khadijah's age at marriage and birth dates of her children with modern medical views on late childbearing."
+      "verificationNote": "Compare classical biographical reports on Khadijah's age at marriage and birth dates of her children with modern medical views on late childbearing.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:50",
@@ -95,7 +100,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Shia biographical literature regarding Khadijah's children from previous marriages and her children with Muhammad."
+      "verificationNote": "Verify Shia biographical literature regarding Khadijah's children from previous marriages and her children with Muhammad.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:07",
@@ -106,7 +112,10 @@
         "quran-internal-tensions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check classical Tafsir works (e.g., al-Tabari, Ibn Kathir) on Surah al-Kawthar regarding the context of 'al-abtar'."
+      "verificationNote": "Check classical Tafsir works (e.g., al-Tabari, Ibn Kathir) on Surah al-Kawthar regarding the context of 'al-abtar'.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:05:58",
@@ -117,7 +126,10 @@
         "sirah"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Examine the extent of coverage given to Zainab compared to other daughters in primary biographical sources like Ibn Ishaq and al-Baladhuri."
+      "verificationNote": "Examine the extent of coverage given to Zainab compared to other daughters in primary biographical sources like Ibn Ishaq and al-Baladhuri.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:08:06",
@@ -128,7 +140,12 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Ibn Hisham and al-Baladhuri regarding the reasons for al-Nadr ibn al-Harith's execution after the Battle of Badr."
+      "verificationNote": "Check Ibn Hisham and al-Baladhuri regarding the reasons for al-Nadr ibn al-Harith's execution after the Battle of Badr.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:10:25",
@@ -139,7 +156,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the story of Zainab's ransom of Abu al-As in Ansab al-Ashraf by al-Baladhuri or Sirat Ibn Hisham."
+      "verificationNote": "Verify the story of Zainab's ransom of Abu al-As in Ansab al-Ashraf by al-Baladhuri or Sirat Ibn Hisham.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:12:54",
@@ -150,7 +170,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Cross-check reports about the assault on Zainab during her migration to Medina in classical Sirah texts."
+      "verificationNote": "Cross-check reports about the assault on Zainab during her migration to Medina in classical Sirah texts.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:15:23",
@@ -164,7 +187,10 @@
         "pre-islamic-legal-customs"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Investigate historical and anthropological sources on pre-Islamic Arab law and penal customs of brigands regarding cross-amputation."
+      "verificationNote": "Investigate historical and anthropological sources on pre-Islamic Arab law and penal customs of brigands regarding cross-amputation.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:16:15",
@@ -175,7 +201,10 @@
         "quran-internal-tensions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the text and classical commentaries for Quran 5:32 to verify its framing regarding the Children of Israel."
+      "verificationNote": "Examine the text and classical commentaries for Quran 5:32 to verify its framing regarding the Children of Israel.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:17:07",
@@ -186,7 +215,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the report in classical Sirah literature where Zainab publicly grants jiwar to Abu al-As in Medina."
+      "verificationNote": "Verify the report in classical Sirah literature where Zainab publicly grants jiwar to Abu al-As in Medina.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:18:28",
@@ -198,7 +230,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check biographical traditions describing Zainab's funeral in Medina and the use of a coffin (na't/tabut)."
+      "verificationNote": "Check biographical traditions describing Zainab's funeral in Medina and the use of a coffin (na't/tabut).",
+      "citationRefs": [
+        "c4",
+        "c13"
+      ]
     }
   ],
   "citations": [
@@ -210,7 +246,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -220,7 +257,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -230,7 +268,8 @@
       "author": "",
       "locator": "108:3",
       "quotedArabic": "إِنَّ شَانِئَكَ هُوَ الأَبْتَرُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "book",
@@ -240,7 +279,8 @@
       "author": "al-Baladhuri",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -250,7 +290,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
@@ -260,7 +301,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -270,7 +312,8 @@
       "author": "",
       "locator": "18:86",
       "quotedArabic": "وَوَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -280,7 +323,8 @@
       "author": "",
       "locator": "18:22",
       "quotedArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -290,7 +334,8 @@
       "author": "",
       "locator": "17:85",
       "quotedArabic": "وَيَسْأَلُونَكَ عَنِ الرُّوحِ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلاَّ قَلِيلًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "hadith",
@@ -300,7 +345,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لَا يُعَذِّبُ بِالنَّارِ إِلَّا اللَّهُ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -310,7 +356,8 @@
       "author": "",
       "locator": "5:33",
       "quotedArabic": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا أَن يُقَتَّلُواْ أَوْ يُصَلَّبُواْ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ أَوْ يُنفَوْا مِنَ الأَرْضِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -320,7 +367,8 @@
       "author": "",
       "locator": "5:32",
       "quotedArabic": "مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -330,7 +378,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     }
   ],
   "topicProposals": [

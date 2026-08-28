@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "Htogg0CK2Pg",
   "videoUrl": "https://www.youtube.com/watch?v=Htogg0CK2Pg",
   "videoTitle": "صندوق الإسلام 35 :أساطير القرآن، قصة موسى والخضر في القرآن. Box of islam 35",
@@ -112,7 +112,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Count the occurrences of the name Musa in the Qur'an and the number of verses concerning him; verify whether 136 mentions and 503 verses are the figures normally given, and by what counting method."
+      "verificationNote": "Count the occurrences of the name Musa in the Qur'an and the number of verses concerning him; verify whether 136 mentions and 503 verses are the figures normally given, and by what counting method.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:41",
@@ -128,7 +131,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the standard Meccan/Medinan classification of the Moses passages: if the Moses material is largely Meccan, the claim that it was introduced after the migration to court the Jews of Medina does not hold in the form stated."
+      "verificationNote": "Check the standard Meccan/Medinan classification of the Moses passages: if the Moses material is largely Meccan, the claim that it was introduced after the migration to court the Jews of Medina does not hold in the form stated.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:30",
@@ -143,7 +147,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Qur'anic Moses cycle with Exodus episode by episode and assess whether the density of overlap exceeds that of other prophetic figures such as Abraham, Joseph or Noah."
+      "verificationNote": "Compare the Qur'anic Moses cycle with Exodus episode by episode and assess whether the density of overlap exceeds that of other prophetic figures such as Abraham, Joseph or Noah.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:03:30",
@@ -158,7 +165,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Exodus 2 (Pharaoh's daughter) with the Qur'anic account of the wife of Pharaoh and confirm the divergence is as stated."
+      "verificationNote": "Compare Exodus 2 (Pharaoh's daughter) with the Qur'anic account of the wife of Pharaoh and confirm the divergence is as stated.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:04:16",
@@ -173,7 +183,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Exodus 2:11-15 with the corresponding Qur'anic passages in Surat al-Qasas and note the extent of the parallel."
+      "verificationNote": "Compare Exodus 2:11-15 with the corresponding Qur'anic passages in Surat al-Qasas and note the extent of the parallel.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:04:16",
@@ -188,7 +201,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Exodus 14 with the Qur'anic parting-of-the-sea passages and catalogue what differs."
+      "verificationNote": "Compare Exodus 14 with the Qur'anic parting-of-the-sea passages and catalogue what differs.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:05:00",
@@ -203,7 +219,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Exodus 3-4 (Moses' objections and the sign of the staff) with the Qur'anic call narratives to see whether the Qur'an consistently removes the hesitation."
+      "verificationNote": "Compare Exodus 3-4 (Moses' objections and the sign of the staff) with the Qur'anic call narratives to see whether the Qur'an consistently removes the hesitation.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:05:00",
@@ -218,7 +237,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Exodus 20 with the Qur'anic passages usually adduced as parallels (e.g. al-Isra' 22-39, al-An'am 151-153) and assess whether the Qur'an ever presents them as a unified decalogue."
+      "verificationNote": "Compare Exodus 20 with the Qur'anic passages usually adduced as parallels (e.g. al-Isra' 22-39, al-An'am 151-153) and assess whether the Qur'an ever presents them as a unified decalogue.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:05:46",
@@ -233,7 +255,14 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the exact Qur'anic verses the speaker paraphrases (he gives no numbers) and set each against the corresponding commandment in Exodus 20 / Deuteronomy 5."
+      "verificationNote": "Locate the exact Qur'anic verses the speaker paraphrases (he gives no numbers) and set each against the corresponding commandment in Exodus 20 / Deuteronomy 5.",
+      "citationRefs": [
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:06:32",
@@ -248,7 +277,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm that no episode resembling Kahf 60-82 occurs anywhere in the Hebrew Bible's Moses material."
+      "verificationNote": "Confirm that no episode resembling Kahf 60-82 occurs anywhere in the Hebrew Bible's Moses material.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:32",
@@ -263,7 +295,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the absence of the term al-Khidr from the Qur'anic text and trace the earliest exegetical and hadith sources that supply the name."
+      "verificationNote": "Confirm the absence of the term al-Khidr from the Qur'anic text and trace the earliest exegetical and hadith sources that supply the name.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:32",
@@ -278,7 +313,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the inventory of narratives in Surat al-Kahf; the characterisation of them as legends is the speaker's judgement and rests on his other episodes on the same sura."
+      "verificationNote": "Verify the inventory of narratives in Surat al-Kahf; the characterisation of them as legends is the speaker's judgement and rests on his other episodes on the same sura.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:07:19",
@@ -293,7 +331,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the wording of the two verses and how classical exegesis explains majma' al-bahrayn and the fish, before assessing the borrowing argument."
+      "verificationNote": "Confirm the wording of the two verses and how classical exegesis explains majma' al-bahrayn and the fish, before assessing the borrowing argument.",
+      "citationRefs": [
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:10:32",
@@ -309,7 +351,10 @@
         "quran-obedience-and-authority"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the verse the speaker paraphrases (he gives no number; the wording matches al-Ma'ida 101) and check its classical exegesis on the prohibition of questioning."
+      "verificationNote": "Locate the verse the speaker paraphrases (he gives no number; the wording matches al-Ma'ida 101) and check its classical exegesis on the prohibition of questioning.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:10:32",
@@ -325,7 +370,8 @@
         "quran-obedience-and-authority"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's moral assessment; an editor should check whether classical and modern commentators register discomfort with the episode as he asserts."
+      "verificationNote": "This is the speaker's moral assessment; an editor should check whether classical and modern commentators register discomfort with the episode as he asserts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:32",
@@ -342,7 +388,10 @@
         "quran-obedience-and-authority"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the sacrifice narrative in al-Saffat with the Kahf episode and assess whether the shared structure the speaker describes is present in the texts."
+      "verificationNote": "Compare the sacrifice narrative in al-Saffat with the Kahf episode and assess whether the shared structure the speaker describes is present in the texts.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:11:18",
@@ -358,7 +407,11 @@
         "quran-obedience-and-authority"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the two verses paraphrased (wording matches al-Nisa' 59 and al-Ahzab 36) and check their exegesis on the scope of obedience to rulers."
+      "verificationNote": "Identify the two verses paraphrased (wording matches al-Nisa' 59 and al-Ahzab 36) and check their exegesis on the scope of obedience to rulers.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:12:50",
@@ -374,7 +427,10 @@
         "quran-obedience-and-authority"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of the explanation verse about the boy and how classical exegetes justify pre-emptive killing on the basis of foreknowledge."
+      "verificationNote": "Check the wording of the explanation verse about the boy and how classical exegetes justify pre-emptive killing on the basis of foreknowledge.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:13:37",
@@ -389,7 +445,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the absence of the episode from the Torah and from the main Jewish exegetical corpora, noting that the speaker later cites a Talmudic parallel himself."
+      "verificationNote": "Verify the absence of the episode from the Torah and from the main Jewish exegetical corpora, noting that the speaker later cites a Talmudic parallel himself.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:24",
@@ -405,7 +462,10 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the dating of the Gilgamesh tablets against the composition dates of the biblical and Qur'anic texts, and treat \"origin of all stories\" as a sweeping generalisation to be assessed separately from the dating."
+      "verificationNote": "Check the dating of the Gilgamesh tablets against the composition dates of the biblical and Qur'anic texts, and treat \"origin of all stories\" as a sweeping generalisation to be assessed separately from the dating.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:15:10",
@@ -421,7 +481,12 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the plot summary against a scholarly edition or translation of the Standard Babylonian Gilgamesh."
+      "verificationNote": "Verify the plot summary against a scholarly edition or translation of the Standard Babylonian Gilgamesh.",
+      "citationRefs": [
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:10",
@@ -437,7 +502,11 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify Utnapishtim's flood-survival and the granting of immortality in tablet XI, and note the implied parallel with the Noah flood narrative."
+      "verificationNote": "Verify Utnapishtim's flood-survival and the granting of immortality in tablet XI, and note the implied parallel with the Noah flood narrative.",
+      "citationRefs": [
+        "c23",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:57",
@@ -453,7 +522,11 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the plant-and-serpent episode in tablet XI and note the speaker's flagging of the serpent motif for comparison with the Eden narrative."
+      "verificationNote": "Verify the plant-and-serpent episode in tablet XI and note the speaker's flagging of the serpent motif for comparison with the Eden narrative.",
+      "citationRefs": [
+        "c23",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:16:43",
@@ -470,7 +543,11 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check how Utnapishtim's dwelling place is described in the Akkadian text (at the mouth of the rivers) and whether that phrase can be equated with majma' al-bahrayn."
+      "verificationNote": "Check how Utnapishtim's dwelling place is described in the Akkadian text (at the mouth of the rivers) and whether that phrase can be equated with majma' al-bahrayn.",
+      "citationRefs": [
+        "c23",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:16:43",
@@ -485,7 +562,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the passage in Nöldeke's work (the speaker names no title or page) where the three-source analysis of Kahf 60-82 is set out, and confirm the attribution is his rather than a later scholar's."
+      "verificationNote": "Locate the passage in Nöldeke's work (the speaker names no title or page) where the three-source analysis of Kahf 60-82 is set out, and confirm the attribution is his rather than a later scholar's.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:16:43",
@@ -502,7 +582,12 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the structural parallel claimed here with the Qur'anic text, where the object of Moses' journey is knowledge (rushd) rather than immortality."
+      "verificationNote": "Compare the structural parallel claimed here with the Qur'anic text, where the object of Moses' journey is knowledge (rushd) rather than immortality.",
+      "citationRefs": [
+        "c26",
+        "c23",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:17:30",
@@ -517,7 +602,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Syriac Alexander Legend and the Alexander Romance recensions for the quest for immortality and their dating relative to the Qur'an."
+      "verificationNote": "Check the Syriac Alexander Legend and the Alexander Romance recensions for the quest for immortality and their dating relative to the Qur'an.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:17:30",
@@ -532,7 +620,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the numismatic type showing Alexander with the ram's horn of Ammon and its dating; the speaker's claim that it is from Alexander's own lifetime should be checked against catalogues, since many such coins are Lysimachus issues."
+      "verificationNote": "Verify the numismatic type showing Alexander with the ram's horn of Ammon and its dating; the speaker's claim that it is from Alexander's own lifetime should be checked against catalogues, since many such coins are Lysimachus issues.",
+      "citationRefs": [
+        "c27",
+        "c28"
+      ]
     },
     {
       "timestamp": "00:18:16",
@@ -547,7 +639,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Andreas episode and the water-of-life motif in the Greek and Syriac recensions of the Alexander Romance, including the terminology used for the meeting place of the waters."
+      "verificationNote": "Check the Andreas episode and the water-of-life motif in the Greek and Syriac recensions of the Alexander Romance, including the terminology used for the meeting place of the waters.",
+      "citationRefs": [
+        "c27",
+        "c29",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:19:02",
@@ -562,7 +659,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the reviving-fish episode in the Alexander Romance and compare it point by point with the Qur'anic fish that took its way into the sea."
+      "verificationNote": "Verify the reviving-fish episode in the Alexander Romance and compare it point by point with the Qur'anic fish that took its way into the sea.",
+      "citationRefs": [
+        "c27",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:19:49",
@@ -578,7 +679,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether a Syriac intermediary version of the Alexander legend is attested before the Qur'an, and whether the Qur'anic fish clause is intelligible on its own in classical exegesis."
+      "verificationNote": "Check whether a Syriac intermediary version of the Alexander legend is attested before the Qur'an, and whether the Qur'anic fish clause is intelligible on its own in classical exegesis.",
+      "citationRefs": [
+        "c27",
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:20:36",
@@ -593,7 +699,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the passage in the Babylonian Talmud that the speaker relies on; note that the Elijah–Rabbi Joshua ben Levi legend is often traced to later midrashic collections rather than the Talmud itself."
+      "verificationNote": "Locate the passage in the Babylonian Talmud that the speaker relies on; note that the Elijah–Rabbi Joshua ben Levi legend is often traced to later midrashic collections rather than the Talmud itself.",
+      "citationRefs": [
+        "c26",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:21:24",
@@ -608,7 +718,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the rabbi's name and the identification of Eliyahu with the Qur'anic Ilyas; the traditional name in this legend is Joshua (Yehoshua) ben Levi, which the speaker may be rendering as Yohanan."
+      "verificationNote": "Check the rabbi's name and the identification of Eliyahu with the Qur'anic Ilyas; the traditional name in this legend is Joshua (Yehoshua) ben Levi, which the speaker may be rendering as Yohanan.",
+      "citationRefs": [
+        "c31",
+        "c32",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:21:24",
@@ -623,7 +738,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Set the Arabic translation of the Talmudic passage the speaker reads on screen against Kahf 66-68 in the original languages, and check whether the wording is as close in Hebrew/Aramaic as in the Arabic rendering he uses."
+      "verificationNote": "Set the Arabic translation of the Talmudic passage the speaker reads on screen against Kahf 66-68 in the original languages, and check whether the wording is as close in Hebrew/Aramaic as in the Arabic rendering he uses.",
+      "citationRefs": [
+        "c14",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:22:11",
@@ -637,7 +756,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the 2012 Amman Arabic translation of the Babylonian Talmud, its publisher, volume count and price."
+      "verificationNote": "Verify the 2012 Amman Arabic translation of the Babylonian Talmud, its publisher, volume count and price.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:22:11",
@@ -651,7 +773,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is an imputed motive; check whether other explanations (length, difficulty, limited readership) account for the absence of an Arabic Talmud, and separately verify the claim of overlap with Midrash Rabbah."
+      "verificationNote": "This is an imputed motive; check whether other explanations (length, difficulty, limited readership) account for the absence of an Arabic Talmud, and separately verify the claim of overlap with Midrash Rabbah.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:23:01",
@@ -666,7 +792,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Find the passage under this heading in the Arabic Talmud translation the speaker displays and confirm the framing of its moral."
+      "verificationNote": "Find the passage under this heading in the Arabic Talmud translation the speaker displays and confirm the framing of its moral.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:23:46",
@@ -681,7 +810,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the parting condition in the Talmudic legend with the Qur'anic parting formula and its placement in the narrative sequence."
+      "verificationNote": "Compare the parting condition in the Talmudic legend with the Qur'anic parting formula and its placement in the narrative sequence.",
+      "citationRefs": [
+        "c19",
+        "c38"
+      ]
     },
     {
       "timestamp": "00:24:31",
@@ -696,7 +829,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the cow episode in the Talmudic legend and assess the strength of the analogy with the Qur'anic ship episode and its stated justification (a king seizing every ship by force)."
+      "verificationNote": "Verify the cow episode in the Talmudic legend and assess the strength of the analogy with the Qur'anic ship episode and its stated justification (a king seizing every ship by force).",
+      "citationRefs": [
+        "c20",
+        "c39"
+      ]
     },
     {
       "timestamp": "00:25:18",
@@ -711,7 +848,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the remaining episodes of the Talmudic legend against the Qur'anic sequence and confirm that no child-killing episode appears there."
+      "verificationNote": "Check the remaining episodes of the Talmudic legend against the Qur'anic sequence and confirm that no child-killing episode appears there.",
+      "citationRefs": [
+        "c22",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:25:18",
@@ -726,7 +867,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the manuscript illustration of al-Naysaburi's Qisas al-Anbiya' showing Khidr and Ilyas at the water of life, and check the textual tradition pairing the two figures."
+      "verificationNote": "Identify the manuscript illustration of al-Naysaburi's Qisas al-Anbiya' showing Khidr and Ilyas at the water of life, and check the textual tradition pairing the two figures.",
+      "citationRefs": [
+        "c40"
+      ]
     },
     {
       "timestamp": "00:26:04",
@@ -744,7 +888,13 @@
         "earlier-religious-parallels-mesopotamian-epic"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the composite thesis as a whole: whether each borrowed element is attested in a source demonstrably earlier than and available in the Qur'anic milieu."
+      "verificationNote": "Assess the composite thesis as a whole: whether each borrowed element is attested in a source demonstrably earlier than and available in the Qur'anic milieu.",
+      "citationRefs": [
+        "c26",
+        "c23",
+        "c27",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:26:51",
@@ -759,7 +909,13 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's overall conclusion; it stands or falls on the source-dependency claims made earlier in the episode rather than on a source of its own."
+      "verificationNote": "This is the speaker's overall conclusion; it stands or falls on the source-dependency claims made earlier in the episode rather than on a source of its own.",
+      "citationRefs": [
+        "c23",
+        "c26",
+        "c31",
+        "c37"
+      ]
     }
   ],
   "citations": [
@@ -770,7 +926,8 @@
       "workTitle": "القرآن",
       "locator": "إحصاء عام لآيات موسى",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "book",
@@ -779,7 +936,8 @@
       "workTitle": "العهد القديم / سفر الخروج",
       "locator": "سفر الخروج",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "book",
@@ -788,7 +946,8 @@
       "workTitle": "العهد القديم — الوصايا العشر",
       "locator": "الوصايا العشر، غير مرقّمة في الفيديو",
       "quotedArabic": "لا تتخذ آلهة أخرى أمامي، لا تقتل، لا تسرق، لا تزنِ، لا تشتهِ زوجة جارك، لا تشهد شهادة زور",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -797,7 +956,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "لا تدعو مع الله إلهاً آخر",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -806,7 +966,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "ووصينا الإنسان بوالديه",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -815,7 +976,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "ولا تقربوا الزنا",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -824,7 +986,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "واجتنبوا الرجس من الأوثان واجتنبوا قول الزور",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -833,7 +996,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف",
       "quotedArabic": "عبداً من عبادنا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -842,7 +1006,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف",
       "quotedArabic": "واضرب لهم مثلاً رجلين جعلنا لأحدهما جنتين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -851,7 +1016,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "وإذ قال موسى لفتاه لا أبرح حتى أبلغ مجمع البحرين أو أمضي حقبا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -860,7 +1026,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "فلما بلغا مجمع بينهما نسيا حوتهما فاتخذ سبيله في البحر سربا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -869,7 +1036,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "فوجدا عبداً من عبادنا آتيناه رحمة من عندنا وعلمناه من لدنا علما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -878,7 +1046,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "قال له موسى هل أتبعك على أن تعلمن مما علمت رشدا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -887,7 +1056,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "قال إنك لن تستطيع معي صبرا وكيف تصبر على ما لم تحط به خبرا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -896,7 +1066,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "يا أيها الذين آمنوا لا تسألوا عن أشياء إن تبد لكم تسؤكم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -905,7 +1076,8 @@
       "workTitle": "القرآن — قصة ذبح ابن إبراهيم",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -914,7 +1086,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -923,7 +1096,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم السورة أو الآية",
       "quotedArabic": "ما كان لمؤمن ولا مؤمنة إذا قضى الله ورسوله أمراً أن يكون لهم الخيرة",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -932,7 +1106,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "هذا فراق بيني وبينك",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -941,7 +1116,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -950,7 +1126,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "طغياناً وكفراً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -959,7 +1136,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "book",
@@ -968,7 +1146,8 @@
       "workTitle": "ملحمة جلجامش",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "person",
@@ -978,7 +1157,8 @@
       "author": "",
       "locator": "أنكيدو",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
@@ -987,7 +1167,8 @@
       "workTitle": "ملحمة جلجامش",
       "locator": "أوتنابشتيم",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
@@ -996,7 +1177,8 @@
       "author": "تيودور نولدكه",
       "locator": "لم يُذكر عنوان كتاب",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "book",
@@ -1005,7 +1187,8 @@
       "workTitle": "ملحمة الإسكندر (Alexander Romance)",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "person",
@@ -1014,7 +1197,8 @@
       "workTitle": "عملة من زمن الإسكندر",
       "locator": "عملة أصلية بحوزة المتحدث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -1023,7 +1207,8 @@
       "workTitle": "ملحمة الإسكندر",
       "locator": "أندرياس الطباخ",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -1032,7 +1217,8 @@
       "workTitle": "القرآن — سورة الكهف",
       "locator": "سورة الكهف (لم يذكر رقم الآية)",
       "quotedArabic": "نسيا حوتهما... ذلك ما كنا نبغ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "book",
@@ -1041,7 +1227,8 @@
       "workTitle": "التلمود البابلي",
       "locator": "لم يُذكر مسند أو مقطع بعينه",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1049,7 +1236,8 @@
       "asStatedInVideo": "حخام يعني أو رابي اسمه يحنان بن ليفي",
       "locator": "يوحانان بن ليفي",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c32"
     },
     {
       "citationType": "person",
@@ -1057,7 +1245,8 @@
       "asStatedInVideo": "إلياهو أو النبي إلياهو... في المسيحية بيسموه إليا وفي الإسلام وفي القرآن بيسموه إلياس",
       "locator": "إلياهو / إليا / إلياس",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "book",
@@ -1067,7 +1256,8 @@
       "author": "دار دراسات الشرق الأوسط، عمّان",
       "locator": "2012، أكثر من عشرين جزءاً",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c34"
     },
     {
       "citationType": "book",
@@ -1076,7 +1266,8 @@
       "workTitle": "مدراش ربّا",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "book",
@@ -1085,7 +1276,8 @@
       "workTitle": "التلمود البابلي — قصة \"الوثوق بالله\"",
       "locator": "عنوان القصة كما عرضه على الشاشة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "book",
@@ -1094,7 +1286,8 @@
       "workTitle": "التلمود البابلي (الترجمة العربية)",
       "locator": "نص معروض على الشاشة",
       "quotedArabic": "دعني أتبعك في طوافك عبر البلاد وأراقب أحوالك وأفعالك فأكسب لنفسي حكمة وفهماً... فأفعالي لا سبيل إلى فهمها وتصرفاتي لا صبر لك عليها فكيف تصبر على ما ليس لك به علم إنك لن تستطيع معي صبرا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c37"
     },
     {
       "citationType": "book",
@@ -1103,7 +1296,8 @@
       "workTitle": "التلمود البابلي (الترجمة العربية)",
       "locator": "نص معروض على الشاشة",
       "quotedArabic": "إذن هلم ولكن ليلزم لسانك الصمت وعند أول سؤال تسألنيه أو أول إشارة تعجب فهو الفراق ما بيننا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c38"
     },
     {
       "citationType": "book",
@@ -1112,7 +1306,8 @@
       "workTitle": "التلمود البابلي (الترجمة العربية)",
       "locator": "نص معروض على الشاشة",
       "quotedArabic": "فجاء الاثنان معاً عبر البلاد وبلغا بيت رجل فقير لم يكن يملك من المال وأسباب الرزق سوى بقرة",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c39"
     },
     {
       "citationType": "book",
@@ -1122,7 +1317,8 @@
       "author": "النيسابوري",
       "locator": "صورة/منمنمة معروضة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     }
   ],
   "topicProposals": [

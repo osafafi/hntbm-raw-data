@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "vyqaohY3gKY",
   "videoUrl": "https://www.youtube.com/watch?v=vyqaohY3gKY",
   "videoTitle": "Guide to Scientific Miracles in the Qur'an",
@@ -111,7 +111,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether scholarly or community surveys document a decline in the use of i'jaz 'ilmi arguments among Muslim writers and da'wah organisations."
+      "verificationNote": "Check whether scholarly or community surveys document a decline in the use of i'jaz 'ilmi arguments among Muslim writers and da'wah organisations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:13",
@@ -125,7 +126,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "The taxi anecdote is personal testimony and not independently checkable; the wider claim that da'wah stalls still distribute scientific-miracle literature can be checked against current da'wah publications."
+      "verificationNote": "The taxi anecdote is personal testimony and not independently checkable; the wider claim that da'wah stalls still distribute scientific-miracle literature can be checked against current da'wah publications.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:32",
@@ -136,7 +138,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's own evidential standard, not a claim about a source. An editor should note it as the framework the rest of the video is judged by, and compare it with criteria used in the apologetic literature itself."
+      "verificationNote": "This is the speaker's own evidential standard, not a claim about a source. An editor should note it as the framework the rest of the video is judged by, and compare it with criteria used in the apologetic literature itself.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:46",
@@ -147,7 +150,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "An evaluative summary claim; verify only that the video's individual cases actually support it, and check whether any claim in the apologetic corpus is left unaddressed."
+      "verificationNote": "An evaluative summary claim; verify only that the video's individual cases actually support it, and check whether any claim in the apologetic corpus is left unaddressed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:52",
@@ -162,7 +166,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Greek embryological texts (Hippocratic corpus, Aristotle, Galen) with Q 23:12-14 and 22:5, and check the scholarship on transmission of Greek medicine into late antique Arabia."
+      "verificationNote": "Compare Greek embryological texts (Hippocratic corpus, Aristotle, Galen) with Q 23:12-14 and 22:5, and check the scholarship on transmission of Greek medicine into late antique Arabia.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:04",
@@ -177,7 +184,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the specific Galenic passages (On Semen / On the Formation of the Foetus), confirm the dating gap, and check the on-screen comparison text the speaker displays but does not read aloud."
+      "verificationNote": "Locate the specific Galenic passages (On Semen / On the Formation of the Foetus), confirm the dating gap, and check the on-screen comparison text the speaker displays but does not read aloud.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:31",
@@ -191,7 +201,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check current embryology texts on the relative timing of chondrogenesis, ossification and myogenesis, and confirm the wording of Q 23:14."
+      "verificationNote": "Check current embryology texts on the relative timing of chondrogenesis, ossification and myogenesis, and confirm the wording of Q 23:14.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:31",
@@ -206,7 +219,12 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the source and date of the Dublin footage, and check Arabic lexica and grammatical works on whether thumma can denote simultaneity rather than sequence or delayed sequence."
+      "verificationNote": "Verify the source and date of the Dublin footage, and check Arabic lexica and grammatical works on whether thumma can denote simultaneity rather than sequence or delayed sequence.",
+      "citationRefs": [
+        "c3",
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:01:56",
@@ -220,7 +238,11 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether a Keith Moore title matching \"The Human Embryo\" exists with a page 364A, and what it actually says about week seven; the standard Moore textbook is The Developing Human."
+      "verificationNote": "Check whether a Keith Moore title matching \"The Human Embryo\" exists with a page 364A, and what it actually says about week seven; the standard Moore textbook is The Developing Human.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:02:12",
@@ -234,7 +256,8 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Adnan Rashid's stated academic background against the exchange; note the ambiguity in the clip about who is claiming the field as their own."
+      "verificationNote": "Check Adnan Rashid's stated academic background against the exchange; note the ambiguity in the clip about who is claiming the field as their own.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:26",
@@ -248,7 +271,8 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check a standard embryology reference on mesoderm differentiation, mesenchymal condensation and the timing of cartilage and muscle formation."
+      "verificationNote": "Check a standard embryology reference on mesoderm differentiation, mesenchymal condensation and the timing of cartilage and muscle formation.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:55",
@@ -263,7 +287,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the wording and reference of the verse (Q 86:5-7) and check whether classical and modern commentators identify the ma' dafiq as semen."
+      "verificationNote": "Confirm the wording and reference of the verse (Q 86:5-7) and check whether classical and modern commentators identify the ma' dafiq as semen.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:03:22",
@@ -277,7 +304,8 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Search the Qur'anic text for any term interpreted as the ovum, and check how apologetic literature handles the absence (e.g. readings of nutfa amshaj in Q 76:2)."
+      "verificationNote": "Search the Qur'anic text for any term interpreted as the ovum, and check how apologetic literature handles the absence (e.g. readings of nutfa amshaj in Q 76:2).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:31",
@@ -293,7 +321,12 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read the tafsirs of Q 86:5-7 in al-Qurtubi, al-Tabari and others, and compare with Greek pangenesis theory as described in the Hippocratic corpus."
+      "verificationNote": "Read the tafsirs of Q 86:5-7 in al-Qurtubi, al-Tabari and others, and compare with Greek pangenesis theory as described in the Hippocratic corpus.",
+      "citationRefs": [
+        "c9",
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:03:44",
@@ -308,7 +341,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the passage in al-Qurtubi's al-Jami' li-Ahkam al-Qur'an on Surat al-Tariq and verify the attribution and wording."
+      "verificationNote": "Locate the passage in al-Qurtubi's al-Jami' li-Ahkam al-Qur'an on Surat al-Tariq and verify the attribution and wording.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:03:49",
@@ -323,7 +359,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the report from Qatadah in the classical tafsir collections (al-Tabari, al-Qurtubi) and check its chain and wording."
+      "verificationNote": "Trace the report from Qatadah in the classical tafsir collections (al-Tabari, al-Qurtubi) and check its chain and wording.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:03:53",
@@ -338,7 +377,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the report attributed to al-Hasan (al-Basri) in the tafsir literature and verify the pangenesis rationale attached to it."
+      "verificationNote": "Trace the report attributed to al-Hasan (al-Basri) in the tafsir literature and verify the pangenesis rationale attached to it.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:04:05",
@@ -350,7 +392,8 @@
         "quran-lexical-and-interpretive-questions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which apologists advance this reading and check classical Arabic lexica for any attested use of sulb and tara'ib in these senses."
+      "verificationNote": "Identify which apologists advance this reading and check classical Arabic lexica for any attested use of sulb and tara'ib in these senses.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:16",
@@ -362,7 +405,8 @@
         "quran-lexical-and-interpretive-questions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the proponents of this reading and check whether the grammar of the verse allows the subject of yakhruj to be the child rather than the fluid."
+      "verificationNote": "Identify the proponents of this reading and check whether the grammar of the verse allows the subject of yakhruj to be the child rather than the fluid.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:22",
@@ -374,7 +418,8 @@
         "quran-lexical-and-interpretive-questions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify who advances this reading and check whether tara'ib is attested as denoting the area of the breast in classical usage."
+      "verificationNote": "Identify who advances this reading and check whether tara'ib is attested as denoting the area of the breast in classical usage.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:30",
@@ -385,7 +430,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative rhetorical claim; note only that it rests on the mutual incompatibility of the three readings just listed."
+      "verificationNote": "Evaluative rhetorical claim; note only that it rests on the mutual incompatibility of the three readings just listed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:36",
@@ -399,7 +445,10 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the verse (Q 21:30) and check how classical tafsir understood ratq and fatq before modern cosmology."
+      "verificationNote": "Confirm the verse (Q 21:30) and check how classical tafsir understood ratq and fatq before modern cosmology.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:04:44",
@@ -414,7 +463,10 @@
         "earlier-religious-parallels-ancient-near-eastern-cosmogony"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the standard translation of the Sumerian Song of the Hoe (e.g. ETCSL) for this line and its dating."
+      "verificationNote": "Check the standard translation of the Sumerian Song of the Hoe (e.g. ETCSL) for this line and its dating.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:04:57",
@@ -429,7 +481,10 @@
         "earlier-religious-parallels-ancient-near-eastern-cosmogony"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether this line belongs to Enuma Elish proper or to a related Babylonian incantation text, and identify the translation used."
+      "verificationNote": "Check whether this line belongs to Enuma Elish proper or to a related Babylonian incantation text, and identify the translation used.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:05:03",
@@ -444,7 +499,10 @@
         "earlier-religious-parallels-ancient-near-eastern-cosmogony"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Pangu myth's earliest textual attestation (Three Kingdoms period sources) and its date relative to the Qur'an."
+      "verificationNote": "Check the Pangu myth's earliest textual attestation (Three Kingdoms period sources) and its date relative to the Qur'an.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:05:10",
@@ -459,7 +517,10 @@
         "earlier-religious-parallels-ancient-near-eastern-cosmogony"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Egyptological sources on the Geb–Nut separation and whether it is Ra or Shu who effects it in the standard accounts."
+      "verificationNote": "Check Egyptological sources on the Geb–Nut separation and whether it is Ra or Shu who effects it in the standard accounts.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:05:19",
@@ -473,7 +534,8 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check standard cosmology references on the distinction between an explosion in space and metric expansion of space."
+      "verificationNote": "Check standard cosmology references on the distinction between an explosion in space and metric expansion of space.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:27",
@@ -487,7 +549,8 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check accepted figures: universe age ~13.8 Gyr and Earth formation ~4.54 Gya, giving roughly a 9 Gyr gap."
+      "verificationNote": "Check accepted figures: universe age ~13.8 Gyr and Earth formation ~4.54 Gya, giving roughly a 9 Gyr gap.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:45",
@@ -502,7 +565,13 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the verse (Q 21:30) and survey pre-Islamic statements linking life or all things to water."
+      "verificationNote": "Confirm the verse (Q 21:30) and survey pre-Islamic statements linking life or all things to water.",
+      "citationRefs": [
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:05:58",
@@ -517,7 +586,10 @@
         "earlier-religious-parallels-ancient-near-eastern-cosmogony"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Genesis 1:20 in the King James Version, which the quoted wording appears to follow."
+      "verificationNote": "Check Genesis 1:20 in the King James Version, which the quoted wording appears to follow.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:06:13",
@@ -529,7 +601,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the doxographical sources for Thales' water principle (Aristotle, Metaphysics A3)."
+      "verificationNote": "Check the doxographical sources for Thales' water principle (Aristotle, Metaphysics A3).",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:06:18",
@@ -541,7 +616,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the fragments and testimonia for Anaximander's zoogony (Aetius, Hippolytus, Censorinus)."
+      "verificationNote": "Check the fragments and testimonia for Anaximander's zoogony (Aetius, Hippolytus, Censorinus).",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:06:29",
@@ -552,7 +630,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the verse (Q 57:25) and identify the apologetic sources making the meteoric-iron argument."
+      "verificationNote": "Confirm the verse (Q 57:25) and identify the apologetic sources making the meteoric-iron argument.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:06:39",
@@ -564,7 +645,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Egyptological literature on the term bia-n-pet (\"iron of the sky\") and archaeological work on meteoritic iron artefacts."
+      "verificationNote": "Check Egyptological literature on the term bia-n-pet (\"iron of the sky\") and archaeological work on meteoritic iron artefacts.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:06:53",
@@ -575,7 +659,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the geology of banded iron formations and terrestrial iron ore versus meteoritic iron as a share of production."
+      "verificationNote": "Check the geology of banded iron formations and terrestrial iron ore versus meteoritic iron as a share of production.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:00",
@@ -587,7 +672,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 7:26 and survey other Qur'anic uses of anzala with non-celestial objects; consult classical lexica and tafsir on the idiom."
+      "verificationNote": "Check Q 7:26 and survey other Qur'anic uses of anzala with non-celestial objects; consult classical lexica and tafsir on the idiom.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:07:11",
@@ -602,7 +690,8 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the verse (Q 51:47) and check the grammatical claim about the aspectual force of the active participle in classical Arabic."
+      "verificationNote": "Confirm the verse (Q 51:47) and check the grammatical claim about the aspectual force of the active participle in classical Arabic.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:23",
@@ -614,7 +703,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read al-Tabari, al-Qurtubi and Ibn Kathir on Q 51:47 and confirm the glosses dhu si'ah and la-qadirun."
+      "verificationNote": "Read al-Tabari, al-Qurtubi and Ibn Kathir on Q 51:47 and confirm the glosses dhu si'ah and la-qadirun.",
+      "citationRefs": [
+        "c24",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:07:40",
@@ -626,7 +719,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm Q 2:236 and check by concordance whether these are indeed the only two occurrences of the relevant form."
+      "verificationNote": "Confirm Q 2:236 and check by concordance whether these are indeed the only two occurrences of the relevant form.",
+      "citationRefs": [
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:07:55",
@@ -638,7 +735,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify which classical commentators allow the spatial-expanse sense for Q 51:47."
+      "verificationNote": "Identify which classical commentators allow the spatial-expanse sense for Q 51:47.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:08:04",
@@ -649,7 +749,12 @@
         "quran-scientific-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative claim tied to the speaker's second criterion; verify only the underlying claim that the classical glosses are better attested."
+      "verificationNote": "Evaluative claim tied to the speaker's second criterion; verify only the underlying claim that the classical glosses are better attested.",
+      "citationRefs": [
+        "c24",
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:08:18",
@@ -663,7 +768,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Methodological argument rather than a source claim; note it as the speaker's framing of the concordist risk."
+      "verificationNote": "Methodological argument rather than a source claim; note it as the speaker's framing of the concordist risk.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:35",
@@ -674,7 +780,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the verse (Q 21:31, cf. 16:15, 31:10) and identify the apologetic sources asserting seismic damping by mountains."
+      "verificationNote": "Confirm the verse (Q 21:31, cf. 16:15, 31:10) and identify the apologetic sources asserting seismic damping by mountains.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:08:44",
@@ -688,7 +797,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare successive editions of apologetic literature on mountains to see whether the formulation has shifted over time."
+      "verificationNote": "Compare successive editions of apologetic literature on mountains to see whether the formulation has shifted over time.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:00",
@@ -703,7 +813,10 @@
         "earlier-religious-parallels-ancient-near-eastern-cosmogony"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Ugaritic Baal cycle references to Trgzz and Thrmg and the scholarship on their cosmological function."
+      "verificationNote": "Check the Ugaritic Baal cycle references to Trgzz and Thrmg and the scholarship on their cosmological function.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:09:18",
@@ -715,7 +828,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the quoted lines, likely Psalm 75:3 and 1 Samuel 2:8, and check the translation used and whether the pillars are identified with mountains."
+      "verificationNote": "Locate the quoted lines, likely Psalm 75:3 and 1 Samuel 2:8, and check the translation used and whether the pillars are identified with mountains.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:09:32",
@@ -727,7 +843,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read al-Tabari's Jami' al-Bayan on Q 21:31 and 16:15 and verify the wording of the gloss on tamid."
+      "verificationNote": "Read al-Tabari's Jami' al-Bayan on Q 21:31 and 16:15 and verify the wording of the gloss on tamid.",
+      "citationRefs": [
+        "c27",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:09:54",
@@ -738,7 +858,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the UNISDR/CRED 1994–2013 disaster mortality report for the 750,000 figure and the comparison with other disaster types."
+      "verificationNote": "Check the UNISDR/CRED 1994–2013 disaster mortality report for the 750,000 figure and the comparison with other disaster types.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:10:13",
@@ -749,7 +872,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check plate tectonics literature on orogeny and on whether mountain mass has any damping or amplifying effect on seismic shaking."
+      "verificationNote": "Check plate tectonics literature on orogeny and on whether mountain mass has any damping or amplifying effect on seismic shaking.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:33",
@@ -760,7 +884,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "A theodicy argument, not a source claim; record as the speaker's inference from the miracle claim rather than from the text."
+      "verificationNote": "A theodicy argument, not a source claim; record as the speaker's inference from the miracle claim rather than from the text.",
+      "citationRefs": [
+        "c27",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:10:53",
@@ -772,7 +900,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Aristotle passage (likely Meteorologica) and identify the biblical verses, probably Job 28:9 and Jonah 2:6, checking the translations quoted."
+      "verificationNote": "Locate the Aristotle passage (likely Meteorologica) and identify the biblical verses, probably Job 28:9 and Jonah 2:6, checking the translations quoted.",
+      "citationRefs": [
+        "c32",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:11:23",
@@ -787,7 +919,11 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm Q 41:11 and read Ibn Kathir on it to verify the gloss huwa bukhar al-ma'."
+      "verificationNote": "Confirm Q 41:11 and read Ibn Kathir on it to verify the gloss huwa bukhar al-ma'.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:11:42",
@@ -801,7 +937,10 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the apologetic sources that equate dukhan with primordial plasma or cosmic dust."
+      "verificationNote": "Identify the apologetic sources that equate dukhan with primordial plasma or cosmic dust.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:11:53",
@@ -812,7 +951,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative application of the speaker's own criteria; no external source to check."
+      "verificationNote": "Evaluative application of the speaker's own criteria; no external source to check.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:12:11",
@@ -825,7 +968,11 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Genesis 1:6-8 on the waters above the firmament and the commentary tradition reading them as vapour."
+      "verificationNote": "Check Genesis 1:6-8 on the waters above the firmament and the commentary tradition reading them as vapour.",
+      "citationRefs": [
+        "c35",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:12:24",
@@ -840,7 +987,10 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check creationist literature on the vapour canopy theory (e.g. Whitcomb and Morris) and its use as evidence of biblical foreknowledge."
+      "verificationNote": "Check creationist literature on the vapour canopy theory (e.g. Whitcomb and Morris) and its use as evidence of biblical foreknowledge.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:12:33",
@@ -854,7 +1004,11 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check cosmological descriptions of the primordial plasma and recombination era against the semantics of smoke and vapour."
+      "verificationNote": "Check cosmological descriptions of the primordial plasma and recombination era against the semantics of smoke and vapour.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:12:42",
@@ -869,7 +1023,11 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 41:9-12 in sequence and check how commentators handle the order of creation there against Q 79:27-30."
+      "verificationNote": "Read Q 41:9-12 in sequence and check how commentators handle the order of creation there against Q 79:27-30.",
+      "citationRefs": [
+        "c34",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:13:06",
@@ -884,7 +1042,10 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the day-counts in Q 41:9-12 and how commentators reconcile them with the six-day statements elsewhere in the Qur'an."
+      "verificationNote": "Check the day-counts in Q 41:9-12 and how commentators reconcile them with the six-day statements elsewhere in the Qur'an.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:13:19",
@@ -898,7 +1059,10 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Rhetorical challenge; record as the speaker's characterisation of the concordist method as retrospective."
+      "verificationNote": "Rhetorical challenge; record as the speaker's characterisation of the concordist method as retrospective.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:13:37",
@@ -910,7 +1074,10 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the verse (Q 10:92) and identify the apologetic works making the mummy-preservation argument."
+      "verificationNote": "Confirm the verse (Q 10:92) and identify the apologetic works making the mummy-preservation argument.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:13:51",
@@ -922,7 +1089,8 @@
         "quran-lexical-and-interpretive-questions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read al-Tabari, al-Qurtubi and Ibn Kathir on Q 10:92 and verify the reported reason (Israelite doubt about Pharaoh's death) and the meaning of liman khalfak."
+      "verificationNote": "Read al-Tabari, al-Qurtubi and Ibn Kathir on Q 10:92 and verify the reported reason (Israelite doubt about Pharaoh's death) and the meaning of liman khalfak.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:20",
@@ -934,7 +1102,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether knowledge of Egyptian mummification was current in late antique Arabia and the Near East."
+      "verificationNote": "Check whether knowledge of Egyptian mummification was current in late antique Arabia and the Near East.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:30",
@@ -946,7 +1115,11 @@
         "quran-historical-claims-narrative-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Egyptological identification debate and the mummification status of both rulers."
+      "verificationNote": "Check the Egyptological identification debate and the mummification status of both rulers.",
+      "citationRefs": [
+        "c39",
+        "c40"
+      ]
     },
     {
       "timestamp": "00:14:43",
@@ -958,7 +1131,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the role of natron in Egyptian mummification and trace the origin of the salt-proves-drowning claim, often attributed to Maurice Bucaille."
+      "verificationNote": "Check the role of natron in Egyptian mummification and trace the origin of the salt-proves-drowning claim, often attributed to Maurice Bucaille.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:52",
@@ -970,7 +1144,10 @@
         "quran-historical-claims-narrative-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the excavation records for the Deir el-Bahari royal cache (TT320) in 1881 and the KV35 cache in 1898, and the find contexts of both mummies."
+      "verificationNote": "Check the excavation records for the Deir el-Bahari royal cache (TT320) in 1881 and the KV35 cache in 1898, and the find contexts of both mummies.",
+      "citationRefs": [
+        "c41"
+      ]
     },
     {
       "timestamp": "00:15:20",
@@ -981,7 +1158,8 @@
         "quran-scientific-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check oceanographic descriptions of estuarine stratification and the halocline against the apologetic reading of Q 55:19-20 and 25:53."
+      "verificationNote": "Check oceanographic descriptions of estuarine stratification and the halocline against the apologetic reading of Q 55:19-20 and 25:53.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:35",
@@ -993,7 +1171,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the passage in Aristotle's Meteorologica book 2 and check the translation quoted."
+      "verificationNote": "Locate the passage in Aristotle's Meteorologica book 2 and check the translation quoted.",
+      "citationRefs": [
+        "c42"
+      ]
     },
     {
       "timestamp": "00:15:51",
@@ -1008,7 +1189,10 @@
         "quran-scientific-claims-cosmology-and-creation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verses placing lamps or stars in the lowest heaven (Q 37:6, 41:12, 67:5) and how apologists reconcile them with the atmospheric-layers reading."
+      "verificationNote": "Check the verses placing lamps or stars in the lowest heaven (Q 37:6, 41:12, 67:5) and how apologists reconcile them with the atmospheric-layers reading.",
+      "citationRefs": [
+        "c43"
+      ]
     },
     {
       "timestamp": "00:16:10",
@@ -1020,7 +1204,11 @@
         "quran-lexical-and-interpretive-questions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the two apologetic arguments in their published forms to confirm the shift in the meaning assigned to al-samawat."
+      "verificationNote": "Compare the two apologetic arguments in their published forms to confirm the shift in the meaning assigned to al-samawat.",
+      "citationRefs": [
+        "c12",
+        "c43"
+      ]
     },
     {
       "timestamp": "00:16:27",
@@ -1034,7 +1222,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey the growth of the i'jaz 'ilmi corpus over time to assess whether claims proliferate and mutate as described."
+      "verificationNote": "Survey the growth of the i'jaz 'ilmi corpus over time to assess whether claims proliferate and mutate as described.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:38",
@@ -1048,7 +1237,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the history of i'jaz literature and whether medieval figures such as al-Ghazali or al-Suyuti made proto-concordist claims, which would qualify the \"never\" here."
+      "verificationNote": "Check the history of i'jaz literature and whether medieval figures such as al-Ghazali or al-Suyuti made proto-concordist claims, which would qualify the \"never\" here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:50",
@@ -1062,7 +1252,11 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the publication date and title of Bucaille's book, his relationship to the Saudi royal family, and the coinage of \"Bucailleism\" in academic literature."
+      "verificationNote": "Check the publication date and title of Bucaille's book, his relationship to the Saudi royal family, and the coinage of \"Bucailleism\" in academic literature.",
+      "citationRefs": [
+        "c44",
+        "c45"
+      ]
     },
     {
       "timestamp": "00:17:03",
@@ -1076,7 +1270,11 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the commission's founding date, its official name, and al-Zindani's role at its head."
+      "verificationNote": "Verify the commission's founding date, its official name, and al-Zindani's role at its head.",
+      "citationRefs": [
+        "c46",
+        "c47"
+      ]
     },
     {
       "timestamp": "00:17:13",
@@ -1090,7 +1288,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the proceedings of the commission's conferences and the published accounts by the participating scientists."
+      "verificationNote": "Check the proceedings of the commission's conferences and the published accounts by the participating scientists.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:28",
@@ -1104,7 +1303,8 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare raw and edited footage where available and check the scientists' own published statements about the editing."
+      "verificationNote": "Compare raw and edited footage where available and check the scientists' own published statements about the editing.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:38",
@@ -1118,7 +1318,14 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Collect the retractions and clarifications issued by the named scientists and assess how widespread the disavowals are."
+      "verificationNote": "Collect the retractions and clarifications issued by the named scientists and assess how widespread the disavowals are.",
+      "citationRefs": [
+        "c48",
+        "c49",
+        "c50",
+        "c51",
+        "c52"
+      ]
     },
     {
       "timestamp": "00:17:52",
@@ -1132,7 +1339,10 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate William Hay's statement and its original context and date."
+      "verificationNote": "Locate William Hay's statement and its original context and date.",
+      "citationRefs": [
+        "c48"
+      ]
     },
     {
       "timestamp": "00:17:58",
@@ -1147,7 +1357,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate Goeringer's statement, noting that he is elsewhere cited as a co-author of i'jaz material, and check the chronology."
+      "verificationNote": "Locate Goeringer's statement, noting that he is elsewhere cited as a co-author of i'jaz material, and check the chronology.",
+      "citationRefs": [
+        "c49"
+      ]
     },
     {
       "timestamp": "00:18:02",
@@ -1161,7 +1374,10 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Find the text of Kröner's standard reply and confirm its authenticity and circulation."
+      "verificationNote": "Find the text of Kröner's standard reply and confirm its authenticity and circulation.",
+      "citationRefs": [
+        "c50"
+      ]
     },
     {
       "timestamp": "00:18:13",
@@ -1176,7 +1392,10 @@
         "quran-scientific-claims-embryology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the standard editions of Moore's The Developing Human with the edition titled With Islamic Additions and check where the i'jaz material appears."
+      "verificationNote": "Compare the standard editions of Moore's The Developing Human with the edition titled With Islamic Additions and check where the i'jaz material appears.",
+      "citationRefs": [
+        "c51"
+      ]
     },
     {
       "timestamp": "00:18:34",
@@ -1190,7 +1409,10 @@
         "scientific-miracles-apologetics-movement"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate The Rationalizer's channel and the interviews, and note that these are themselves discovery inputs rather than evidence."
+      "verificationNote": "Locate The Rationalizer's channel and the interviews, and note that these are themselves discovery inputs rather than evidence.",
+      "citationRefs": [
+        "c52"
+      ]
     }
   ],
   "citations": [
@@ -1200,7 +1422,8 @@
       "asStatedInVideo": "compare these Quranic statements to those of Galen 500 years before Muhammad",
       "author": "Galen",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -1208,7 +1431,8 @@
       "asStatedInVideo": "This is exactly what the Quran says Chapter, Chapter 23",
       "locator": "23 (sura number only; verse not stated — commonly Q 23:14)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -1216,7 +1440,8 @@
       "asStatedInVideo": "This was pointed out to Adnan Rashid when he cornered PZ Myers outside a conference in Dublin",
       "author": "Adnan Rashid",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -1224,14 +1449,16 @@
       "asStatedInVideo": "when he cornered PZ Myers outside a conference in Dublin",
       "author": "PZ Myers",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
       "timestamp": "00:01:31",
       "asStatedInVideo": "outside a conference in Dublin",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -1241,7 +1468,8 @@
       "author": "Keith Moore",
       "locator": "p. 364A",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -1249,7 +1477,8 @@
       "asStatedInVideo": "Let me tell you what Keith Moore said... He's an embryologist",
       "author": "Keith Moore",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -1257,7 +1486,8 @@
       "asStatedInVideo": "\"Let man consider from what he is created. He is created from gushing fluid that issues from between the backbone and ribs.\"",
       "locator": "no sura:aya given in video (wording matches Q 86:5-7)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -1266,7 +1496,8 @@
       "workTitle": "Tafsir al-Qurtubi",
       "author": "al-Qurtubi",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
@@ -1274,7 +1505,8 @@
       "asStatedInVideo": "Qatadah said, \"It means the backbone of the man and the ribs of the woman.\"",
       "author": "Qatadah",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -1282,7 +1514,8 @@
       "asStatedInVideo": "While al-Hasan said, \"It means the backbone and ribs of the man, and the backbone and ribs of the woman, for as we know the nutfah comes from all parts of the body.\"",
       "author": "al-Hasan",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -1290,7 +1523,8 @@
       "asStatedInVideo": "\"Do they not see the heavens and the earth were one entity and we separated them?\"",
       "locator": "no sura:aya given in video (wording matches Q 21:30)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "book",
@@ -1298,7 +1532,8 @@
       "asStatedInVideo": "The Sumerian \"Song of the Hoe\" said, \"Did he hasten to separate heaven from earth, and hasten to separate earth from heaven?\"",
       "workTitle": "Song of the Hoe",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "book",
@@ -1306,7 +1541,8 @@
       "asStatedInVideo": "The Babylonian myth of Enuma Elish says, \"When the heavens had been separated from the earth...\"",
       "workTitle": "Enuma Elish",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -1314,7 +1550,8 @@
       "asStatedInVideo": "In the Chinese creation myth, Pangu separated earth from sky, pushing the sky upward",
       "author": "Pangu",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -1322,7 +1559,8 @@
       "asStatedInVideo": "In ancient Egyptian mythology, Geb, representing earth, and Nut, representing heaven, were separated on the orders of the god Ra",
       "author": "Geb, Nut and Ra",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -1330,7 +1568,8 @@
       "asStatedInVideo": "\"We made from water every living thing.\"",
       "locator": "no sura:aya given in video (wording matches Q 21:30)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "book",
@@ -1339,7 +1578,8 @@
       "workTitle": "Genesis",
       "locator": "chapter and verse not stated (wording matches Genesis 1:20, KJV)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1347,7 +1587,8 @@
       "asStatedInVideo": "The ancient Greek philosopher Thales said water was the nature of all things",
       "author": "Thales",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -1355,7 +1596,8 @@
       "asStatedInVideo": "And Anaximander put forward the astonishingly farsighted view that life started from warm water and earth and emerged from fish-like creatures from the sea",
       "author": "Anaximander",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -1363,14 +1605,16 @@
       "asStatedInVideo": "\"We sent down iron.\"",
       "locator": "no sura:aya given in video (wording matches Q 57:25)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c21"
     },
     {
       "citationType": "event",
       "timestamp": "00:06:46",
       "asStatedInVideo": "3,000 years before Islam, the ancient Egyptians called iron \"the metal of heaven\"",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1378,7 +1622,8 @@
       "asStatedInVideo": "the Quran also says, \"O children of Adam, we sent down clothing for you\"",
       "locator": "no sura:aya given in video (wording matches Q 7:26)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1386,7 +1631,8 @@
       "asStatedInVideo": "And \"inna la-musi'un\" is similar to \"inna la-qadirun\", \"verily, we are well able\"",
       "locator": "no sura:aya given in video (phrase occurs at Q 51:47)",
       "quotedArabic": "وَإِنَّا لَمُوسِعُونَ",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -1394,7 +1640,8 @@
       "asStatedInVideo": "in the only other instance of the word \"musi'un\", it says \"ala al-musi'i qadaruhu\", \"the one with abundant means according to his capability\"",
       "locator": "no sura:aya given in video (phrase occurs at Q 2:236)",
       "quotedArabic": "عَلَى الْمُوسِعِ قَدَرُهُ",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c25"
     },
     {
       "citationType": "book",
@@ -1402,7 +1649,8 @@
       "asStatedInVideo": "Classical tafsirs say it means \"dhu si'ah\", possessing abundant ability",
       "workTitle": "unnamed classical tafsirs",
       "quotedArabic": "ذُو سَعَةٍ",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -1410,14 +1658,16 @@
       "asStatedInVideo": "\"We set on the earth mountains standing firm lest it should shake with them.\"",
       "locator": "no sura:aya given in video (wording matches Q 21:31, cf. 16:15)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "event",
       "timestamp": "00:09:08",
       "asStatedInVideo": "in Canaanite mythology, there were twin mountains, Targhizizi and Tharumagi, which held up the firmament and bound the earth together",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "book",
@@ -1426,7 +1676,8 @@
       "workTitle": "Old Testament",
       "locator": "chapter and verse not stated (wording resembles Psalm 75:3 and 1 Samuel 2:8)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c29"
     },
     {
       "citationType": "book",
@@ -1435,14 +1686,16 @@
       "workTitle": "Tafsir al-Tabari",
       "author": "al-Tabari",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "event",
       "timestamp": "00:09:59",
       "asStatedInVideo": "In the 20-year period between 1994 and 2013, 3/4 of a million men, women, and children were killed by earthquakes",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1450,7 +1703,8 @@
       "asStatedInVideo": "Aristotle referred to those who believed the earth had roots",
       "author": "Aristotle",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c32"
     },
     {
       "citationType": "book",
@@ -1459,7 +1713,8 @@
       "workTitle": "Old Testament",
       "locator": "chapter and verse not stated (wording resembles Job 28:9 and Jonah 2:6)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1467,7 +1722,8 @@
       "asStatedInVideo": "\"Then he turned to the heavens when it was smoke.\"",
       "locator": "no sura:aya given in video (wording matches Q 41:11)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c34"
     },
     {
       "citationType": "book",
@@ -1476,7 +1732,8 @@
       "workTitle": "Tafsir Ibn Kathir",
       "author": "Ibn Kathir",
       "quotedArabic": "ثُمَّ اسْتَوَى إِلَى السَّمَاءِ وَهِيَ دُخَانٌ، وَهُوَ بُخَارُ الْمَاءِ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "book",
@@ -1485,7 +1742,8 @@
       "workTitle": "Genesis",
       "locator": "chapter and verse not stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     },
     {
       "citationType": "quran",
@@ -1493,7 +1751,8 @@
       "asStatedInVideo": "this same passage describes the creation of the earth in four days and the heavens in two days",
       "locator": "no sura:aya given in video (matches Q 41:9-12)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -1501,7 +1760,8 @@
       "asStatedInVideo": "\"We will this day deliver you with your body that you may be a sign to those after you.\"",
       "locator": "no sura:aya given in video (wording matches Q 10:92)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c38"
     },
     {
       "citationType": "person",
@@ -1509,7 +1769,8 @@
       "asStatedInVideo": "Some Muslims identify the Pharaoh of Moses as Ramesses II, while others as Merneptah",
       "author": "Ramesses II",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1517,14 +1778,16 @@
       "asStatedInVideo": "Some Muslims identify the Pharaoh of Moses as Ramesses II, while others as Merneptah",
       "author": "Merneptah",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c40"
     },
     {
       "citationType": "event",
       "timestamp": "00:15:05",
       "asStatedInVideo": "Ramesses II and Merneptah were both buried in the Valley of the Kings... their bodies were moved to the nearby Royal Cache due to grave robbing. And this is where they were discovered in 1881 and 1898, respectively.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c41"
     },
     {
       "citationType": "person",
@@ -1532,7 +1795,8 @@
       "asStatedInVideo": "Aristotle says, \"The drinkable, sweet water then is light, and all of it is drawn up. The salt water is heavy and remains behind.\"",
       "author": "Aristotle",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "quran",
@@ -1540,7 +1804,8 @@
       "asStatedInVideo": "the Quran says the stars are in the lowest heaven",
       "locator": "no sura:aya given in video (cf. Q 37:6, 41:12, 67:5)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c43"
     },
     {
       "citationType": "book",
@@ -1550,7 +1815,8 @@
       "author": "Maurice Bucaille",
       "locator": "published 1975",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c44"
     },
     {
       "citationType": "person",
@@ -1558,14 +1824,16 @@
       "asStatedInVideo": "a physician to King Faisal of Saudi Arabia",
       "author": "King Faisal of Saudi Arabia",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c45"
     },
     {
       "citationType": "event",
       "timestamp": "00:17:03",
       "asStatedInVideo": "In 1984, the Saudi Muslim World League set up Commission on Scientific Signs in the Quran and Sunnah",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c46"
     },
     {
       "citationType": "person",
@@ -1573,7 +1841,8 @@
       "asStatedInVideo": "with Sheikh Abdul Majeed al-Zindani at its head",
       "author": "Abdul Majeed al-Zindani",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c47"
     },
     {
       "citationType": "person",
@@ -1581,7 +1850,8 @@
       "asStatedInVideo": "William Hay complained of having \"fallen into a trap\" of interviews",
       "author": "William Hay",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c48"
     },
     {
       "citationType": "person",
@@ -1589,7 +1859,8 @@
       "asStatedInVideo": "the embryologist Gerald Goeringer complained of \"manipulation\"",
       "author": "Gerald Goeringer",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c49"
     },
     {
       "citationType": "person",
@@ -1597,7 +1868,8 @@
       "asStatedInVideo": "Geologist Professor Alfred Kröner has a standard email reply clarifying his out-of-context remarks",
       "author": "Alfred Kröner",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c50"
     },
     {
       "citationType": "book",
@@ -1606,7 +1878,8 @@
       "workTitle": "The Developing Human (special edition: With Islamic Additions)",
       "author": "Keith Moore",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c51"
     },
     {
       "citationType": "person",
@@ -1614,7 +1887,8 @@
       "asStatedInVideo": "There are several interviews with some of these scientists conducted by The Rationalizer, available on his YouTube channel",
       "author": "The Rationalizer",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c52"
     }
   ],
   "topicProposals": [

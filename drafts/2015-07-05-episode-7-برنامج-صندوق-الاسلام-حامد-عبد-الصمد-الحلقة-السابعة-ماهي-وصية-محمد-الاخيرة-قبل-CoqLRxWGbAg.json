@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "CoqLRxWGbAg",
   "videoUrl": "https://www.youtube.com/watch?v=CoqLRxWGbAg",
   "videoTitle": "Episode 7 (برنامج صندوق الإسلام - حامد عبد الصمد: الحلقة السابعة (ماهي وصية محمد الاخيرة قبل وفاتة؟",
@@ -59,7 +59,10 @@
         "sirah"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check eschatological traditions and political governance reports in early Islamic literature."
+      "verificationNote": "Check eschatological traditions and political governance reports in early Islamic literature.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:05",
@@ -70,7 +73,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check historical reports in Sahih al-Bukhari regarding the collection of the Quran under Abu Bakr."
+      "verificationNote": "Check historical reports in Sahih al-Bukhari regarding the collection of the Quran under Abu Bakr.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:34",
@@ -82,7 +86,10 @@
         "hadith-ethical-controversies"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Hadith of the Pen and Paper (Calamity of Thursday) in Sahih al-Bukhari and Sahih Muslim."
+      "verificationNote": "Check Hadith of the Pen and Paper (Calamity of Thursday) in Sahih al-Bukhari and Sahih Muslim.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:03:34",
@@ -93,7 +100,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Ibn Abbas's statement 'الرزية كل الرزية' in Sahih al-Bukhari."
+      "verificationNote": "Verify Ibn Abbas's statement 'الرزية كل الرزية' in Sahih al-Bukhari.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:03:50",
@@ -104,7 +114,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check early historical sources (Ibn Hisham, al-Tabari, Ibn Sa'd) for the timeline of Muhammad's burial."
+      "verificationNote": "Check early historical sources (Ibn Hisham, al-Tabari, Ibn Sa'd) for the timeline of Muhammad's burial.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:41",
@@ -115,7 +126,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Tabaqat Ibn Sa'd and Tahdhib al-Tahdhib by Ibn Hajar regarding the narrative of Sa'd ibn Ubadah's death."
+      "verificationNote": "Check Tabaqat Ibn Sa'd and Tahdhib al-Tahdhib by Ibn Hajar regarding the narrative of Sa'd ibn Ubadah's death.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:06:25",
@@ -126,7 +140,10 @@
         "quran"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Examine Quranic passages on jinn (e.g., Surah al-Jinn) and sociological studies on belief in jinn."
+      "verificationNote": "Examine Quranic passages on jinn (e.g., Surah al-Jinn) and sociological studies on belief in jinn.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:09:00",
@@ -137,7 +154,8 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check early Islamic historical accounts regarding the belief in Muhammad's resurrection immediately after his death."
+      "verificationNote": "Check early Islamic historical accounts regarding the belief in Muhammad's resurrection immediately after his death.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:30",
@@ -148,7 +166,11 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Tarikh al-Tabari (Vol. 2) with Tarikh al-Ya'qubi regarding the event of forced allegiance."
+      "verificationNote": "Compare Tarikh al-Tabari (Vol. 2) with Tarikh al-Ya'qubi regarding the event of forced allegiance.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:11:10",
@@ -159,7 +181,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the speeches of Abu Bakr in early chronicles like Tarikh al-Tabari."
+      "verificationNote": "Check the speeches of Abu Bakr in early chronicles like Tarikh al-Tabari.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:13:26",
@@ -170,7 +195,8 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check biographical entries for Abu Hurairah in Siyar A'lam al-Nubala and Hadith count statistics."
+      "verificationNote": "Check biographical entries for Abu Hurairah in Siyar A'lam al-Nubala and Hadith count statistics.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:00",
@@ -181,7 +207,11 @@
         "hadith-ethical-controversies"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check narrations of this Hadith in Sahih al-Bukhari and analysis in Hadith critical studies."
+      "verificationNote": "Check narrations of this Hadith in Sahih al-Bukhari and analysis in Hadith critical studies.",
+      "citationRefs": [
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:15:40",
@@ -193,7 +223,8 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Hadith counts attributed to Aisha, Umm Salamah, and Safiyyah in Musnad Ahmad and Jawami' al-Sirah."
+      "verificationNote": "Compare Hadith counts attributed to Aisha, Umm Salamah, and Safiyyah in Musnad Ahmad and Jawami' al-Sirah.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:50",
@@ -204,7 +235,8 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check reports of Abu Hurairah's governorship in Bahrain and Umar's audit in Ibn Sa'd and Ibn Abd al-Barr."
+      "verificationNote": "Check reports of Abu Hurairah's governorship in Bahrain and Umar's audit in Ibn Sa'd and Ibn Abd al-Barr.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:50",
@@ -215,7 +247,10 @@
         "sirah-ibn-ishaq"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the introduction of As-Sirah an-Nabawiyyah by Ibn Hisham and modern critical studies on Ibn Ishaq."
+      "verificationNote": "Examine the introduction of As-Sirah an-Nabawiyyah by Ibn Hisham and modern critical studies on Ibn Ishaq.",
+      "citationRefs": [
+        "c12"
+      ]
     }
   ],
   "citations": [
@@ -227,7 +262,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "بُعِثْتُ أَنَا وَالسَّاعَةُ كَهَاتَيْنِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "event",
@@ -237,7 +273,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "اتركوا رسول الله فقد اشتد عليه الوجع / اتركوا رسول الله فإنه يهجر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -247,7 +284,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الرَّزِيَّةُ كُلُّ الرَّزِيَّةِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "book",
@@ -257,7 +295,8 @@
       "author": "Ibn Sa'd / Ibn Hajar",
       "locator": "",
       "quotedArabic": "نَحْنُ قَتَلْنَا سَيِّدَ الخَزْرَجِ سَعْدَ بْنَ عُبَادَة / وَرَ‌مَيْنَاهُ بِسَهْمَيْنِ فَلَمْ نُخْطِئْ فُؤَادَه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -267,7 +306,8 @@
       "author": "",
       "locator": "Surah 72",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -277,7 +317,8 @@
       "author": "Al-Tabari",
       "locator": "Part 2",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "book",
@@ -287,7 +328,8 @@
       "author": "Al-Ya'qubi",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
@@ -297,7 +339,8 @@
       "author": "Abu Bakr",
       "locator": "",
       "quotedArabic": "مَنْ كَانَ يَعْبُدُ مُحَمَّدًا فَإِنَّ مُحَمَّدًا قَدْ مَاتَ وَمَنْ كَانَ يَعْبُدُ اللَّهَ فَإِنَّ اللَّهَ حَيٌّ لاَ يَمُوتُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "hadith",
@@ -307,7 +350,8 @@
       "author": "Abu Hurairah",
       "locator": "",
       "quotedArabic": "أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ وَيُقِيمُوا الصَّلاَةَ وَيُؤْتُوا الزَّكَاةَ فَإِنْ فَعَلُوا عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -317,7 +361,8 @@
       "author": "",
       "locator": "6:38",
       "quotedArabic": "مَا فَرَّطْنَا فِي الكِتَابِ مِنْ شَيْءٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "hadith",
@@ -327,7 +372,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "مَنْ بَدَّلَ دِينَهُ فَاقْتُلُوهُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "sirah",
@@ -337,7 +383,8 @@
       "author": "Ibn Ishaq / Ibn Hisham",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     }
   ],
   "topicProposals": []

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "W0BsYMDMPRw",
   "videoUrl": "https://www.youtube.com/watch?v=W0BsYMDMPRw",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 17 - خرافات إسلامية",
@@ -124,7 +124,11 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the preachers in the opening montage and locate the full clips; confirm that they do affirm a flat or spread-out earth on the basis of Qur'anic wording and classical tafsir, and check the term madhuwwa against the tafsir tradition cited."
+      "verificationNote": "Identify the preachers in the opening montage and locate the full clips; confirm that they do affirm a flat or spread-out earth on the basis of Qur'anic wording and classical tafsir, and check the term madhuwwa against the tafsir tradition cited.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:00:01",
@@ -142,7 +146,10 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur'anic wording \"min kulli fajjin 'amiq\" and its occurrence, and check whether classical lexicons and tafsirs gloss 'amiq spatially in a way that bears any relation to sphericity."
+      "verificationNote": "Check the Qur'anic wording \"min kulli fajjin 'amiq\" and its occurrence, and check whether classical lexicons and tafsirs gloss 'amiq spatially in a way that bears any relation to sphericity.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:00:37",
@@ -158,7 +165,8 @@
         "religion-as-human-invention"
       ],
       "checkability": "interpretive",
-      "verificationNote": "No source to check; record as the speaker's stated thesis and personal framing, and treat it as the organizing claim the episode's other claims are meant to support."
+      "verificationNote": "No source to check; record as the speaker's stated thesis and personal framing, and treat it as the organizing claim the episode's other claims are meant to support.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:55",
@@ -174,7 +182,8 @@
         "religion-as-human-invention"
       ],
       "checkability": "interpretive",
-      "verificationNote": "An argument about the psychological function of religion rather than a source claim; an editor should check only that it is reported as the speaker's reasoning and not attributed to any text."
+      "verificationNote": "An argument about the psychological function of religion rather than a source claim; an editor should check only that it is reported as the speaker's reasoning and not attributed to any text.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:04",
@@ -190,7 +199,10 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the fitra verse (Q30:30) and check whether the classical tafsirs do identify the fitra with Islam and with the clause \"la tabdila li-khalq Allah\" as the speaker states."
+      "verificationNote": "Verify the wording of the fitra verse (Q30:30) and check whether the classical tafsirs do identify the fitra with Islam and with the clause \"la tabdila li-khalq Allah\" as the speaker states.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:02:04",
@@ -206,7 +218,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check how classical theology reconciles innate fitra with the necessity of prophethood (e.g. the discussions of ma'rifa fitriyya versus sam'iyya) before treating this as an unanswered tension."
+      "verificationNote": "Check how classical theology reconciles innate fitra with the necessity of prophethood (e.g. the discussions of ma'rifa fitriyya versus sam'iyya) before treating this as an unanswered tension.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:46",
@@ -222,7 +235,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the population figures cited (roughly 8 billion world population and 1.8 billion Muslims) against standard demographic sources for the video's date, and note that the inference depends on the doctrine implying observable universal Islam."
+      "verificationNote": "Check the population figures cited (roughly 8 billion world population and 1.8 billion Muslims) against standard demographic sources for the video's date, and note that the inference depends on the doctrine implying observable universal Islam.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:46",
@@ -238,7 +252,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "An inference from the diversity of belief; an editor need only confirm the argument is reported as the speaker's reasoning and check whether the fitra doctrine as classically stated claims the universality he assumes."
+      "verificationNote": "An inference from the diversity of belief; an editor need only confirm the argument is reported as the speaker's reasoning and check whether the fitra doctrine as classically stated claims the universality he assumes.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:32",
@@ -255,7 +270,11 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith and its collection and grading (the wording resembles reports in Sahih al-Bukhari and Sahih Muslim, though the speaker names no collection), and check whether commentators treat parental influence as altering the fitra or only as concealing it."
+      "verificationNote": "Locate the hadith and its collection and grading (the wording resembles reports in Sahih al-Bukhari and Sahih Muslim, though the speaker names no collection), and check whether commentators treat parental influence as altering the fitra or only as concealing it.",
+      "citationRefs": [
+        "c8",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:32",
@@ -271,7 +290,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the Islamic positions on the fate of those who never received the message (ahl al-fatra) before accepting that the doctrine entails eternal punishment in the way the speaker states."
+      "verificationNote": "Check the Islamic positions on the fate of those who never received the message (ahl al-fatra) before accepting that the doctrine entails eternal punishment in the way the speaker states.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:17",
@@ -287,7 +307,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the history of intra-Muslim theological dispute over the divine attributes as an illustration of the claim, and note that the argumentative force depends on the fitra being claimed to determine doctrinal content."
+      "verificationNote": "Check the history of intra-Muslim theological dispute over the divine attributes as an illustration of the claim, and note that the argumentative force depends on the fitra being claimed to determine doctrinal content.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:36",
@@ -304,7 +325,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "A dilemma drawn from the preceding claims; confirm it is recorded as the speaker's inference and that the premises it rests on are separately verified."
+      "verificationNote": "A dilemma drawn from the preceding claims; confirm it is recorded as the speaker's inference and that the premises it rests on are separately verified.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:36",
@@ -320,7 +342,8 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether this moral definition of fitra is a modern apologetic move as the speaker implies, or is already present in classical exegesis and theology."
+      "verificationNote": "Check whether this moral definition of fitra is a modern apologetic move as the speaker implies, or is already present in classical exegesis and theology.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:36",
@@ -336,7 +359,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether any Qur'anic verse specifies a minimum marriage age and how the verses on marriage and on orphan girls are read by the fiqh schools on the age question."
+      "verificationNote": "Check whether any Qur'anic verse specifies a minimum marriage age and how the verses on marriage and on orphan girls are read by the fiqh schools on the age question.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:04:36",
@@ -350,7 +376,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the Qur'anic amputation penalty (Q5:38) and its wording, and check the claim that the Qur'an presents it as obligatory rather than as a bounded hadd with conditions in the juristic literature."
+      "verificationNote": "Verify the Qur'anic amputation penalty (Q5:38) and its wording, and check the claim that the Qur'an presents it as obligatory rather than as a bounded hadd with conditions in the juristic literature.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:05:23",
@@ -366,7 +395,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of Q4:34 and its classical glosses on nushuz and on the imperative wa-dribuhunna, and note the modern reinterpretations the speaker does not address here."
+      "verificationNote": "Verify the wording of Q4:34 and its classical glosses on nushuz and on the imperative wa-dribuhunna, and note the modern reinterpretations the speaker does not address here.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:23",
@@ -381,7 +413,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the Qur'anic vocabulary of enslavement and concubinage (ma malakat aymanukum and related expressions) and check whether the terms sarari and jawari occur in the Qur'an itself or only in the hadith and fiqh literature."
+      "verificationNote": "Verify the Qur'anic vocabulary of enslavement and concubinage (ma malakat aymanukum and related expressions) and check whether the terms sarari and jawari occur in the Qur'an itself or only in the hadith and fiqh literature.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:06:08",
@@ -398,7 +433,13 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "The inference depends on the four preceding legislative claims being confirmed and on the moral definition of fitra being an Islamic position; check both before treating the contradiction as established."
+      "verificationNote": "The inference depends on the four preceding legislative claims being confirmed and on the moral definition of fitra being an Islamic position; check both before treating the contradiction as established.",
+      "citationRefs": [
+        "c9",
+        "c10",
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:06:55",
@@ -414,7 +455,8 @@
         "religion-as-human-invention"
       ],
       "checkability": "interpretive",
-      "verificationNote": "A statement of the speaker's own ethical framework rather than a source claim; record as such and check that no scriptural attribution is implied."
+      "verificationNote": "A statement of the speaker's own ethical framework rather than a source claim; record as such and check that no scriptural attribution is implied.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:41",
@@ -431,7 +473,10 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Confirm this is presented as a conclusion from the fitra discussion and not as an independent source claim; verify the verse's presentation of fitra as declarative rather than exhortative."
+      "verificationNote": "Confirm this is presented as a conclusion from the fitra discussion and not as an independent source claim; verify the verse's presentation of fitra as declarative rather than exhortative.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:07:41",
@@ -448,7 +493,11 @@
         "quran-adam-and-human-origins"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the Qur'anic and traditional account of Adam's descent and progeny and whether the tradition names only two sons at this stage, and check the earlier Jewish and Christian versions of the same problem."
+      "verificationNote": "Verify the Qur'anic and traditional account of Adam's descent and progeny and whether the tradition names only two sons at this stage, and check the earlier Jewish and Christian versions of the same problem.",
+      "citationRefs": [
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:08:26",
@@ -465,7 +514,10 @@
         "quran-adam-and-human-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the preacher quoted and trace the \"male of one womb with the female of another womb\" formula to its source in tafsir or qisas al-anbiya' literature, and check its grading and whether it is the tradition's dominant position."
+      "verificationNote": "Identify the preacher quoted and trace the \"male of one womb with the female of another womb\" formula to its source in tafsir or qisas al-anbiya' literature, and check its grading and whether it is the tradition's dominant position.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:09:12",
@@ -482,7 +534,10 @@
         "quran-adam-and-human-origins"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of Q5:27 and check whether the sister-marriage motive is in the verse itself or supplied only by the tafsirs the speaker's clip cites; compare the Genesis account and the Midrashic versions of the quarrel."
+      "verificationNote": "Verify the wording of Q5:27 and check whether the sister-marriage motive is in the verse itself or supplied only by the tafsirs the speaker's clip cites; compare the Genesis account and the Midrashic versions of the quarrel.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:09:12",
@@ -499,7 +554,10 @@
         "quran-adam-and-human-origins"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the speaker of the clip and trace this narrative — the girl of the other womb, Adam's arbitration by sacrifice, the rock — to specific tafsirs (e.g. al-Tabari's reports) and note which chains carry it."
+      "verificationNote": "Identify the speaker of the clip and trace this narrative — the girl of the other womb, Adam's arbitration by sacrifice, the rock — to specific tafsirs (e.g. al-Tabari's reports) and note which chains carry it.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:09:58",
@@ -516,7 +574,10 @@
         "quran-fitra-doctrine"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Confirm the inference is recorded as the speaker's, and that the underlying exegetical narrative and the fitra doctrine have each been separately verified."
+      "verificationNote": "Confirm the inference is recorded as the speaker's, and that the underlying exegetical narrative and the fitra doctrine have each been separately verified.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:09:58",
@@ -532,7 +593,8 @@
         "quran-adam-and-human-origins"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Record as the speaker's summary judgment on the creation narrative; nothing to check beyond the accuracy of the narrative as he has stated it."
+      "verificationNote": "Record as the speaker's summary judgment on the creation narrative; nothing to check beyond the accuracy of the narrative as he has stated it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:43",
@@ -549,7 +611,10 @@
         "quran-adam-and-human-origins"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and full list of Q4:23 and check the juristic principle the speaker relies on (that what is not prohibited is permitted) as it applies to pre-revelation marriage among Adam's children."
+      "verificationNote": "Verify the wording and full list of Q4:23 and check the juristic principle the speaker relies on (that what is not prohibited is permitted) as it applies to pre-revelation marriage among Adam's children.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:11:21",
@@ -567,7 +632,8 @@
         "religion-as-human-invention"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether comparative literature on Near Eastern creation accounts supports the claim of inherited material, and record that the speaker offers no specific antecedent text here."
+      "verificationNote": "Check whether comparative literature on Near Eastern creation accounts supports the claim of inherited material, and record that the speaker offers no specific antecedent text here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:21",
@@ -582,7 +648,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the Qur'anic flood and ark verses including the wording about pairs quoted in the opening montage, check whether the Qur'an describes a global rather than local flood, and compare the Genesis and Mesopotamian flood accounts."
+      "verificationNote": "Verify the Qur'anic flood and ark verses including the wording about pairs quoted in the opening montage, check whether the Qur'an describes a global rather than local flood, and compare the Genesis and Mesopotamian flood accounts.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:12:16",
@@ -597,7 +666,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "A characterization of contemporary online apologetics rather than a source claim; an editor may sample representative material if the claim is to be used, and should keep it separate from the textual claims."
+      "verificationNote": "A characterization of contemporary online apologetics rather than a source claim; an editor may sample representative material if the claim is to be used, and should keep it separate from the textual claims.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:16",
@@ -615,7 +685,8 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify that contemporary Muslim flat-earth advocacy exists and argues from scripture, and assess independently whether the verses the speaker later cites carry the flat reading he asserts."
+      "verificationNote": "Verify that contemporary Muslim flat-earth advocacy exists and argues from scripture, and assess independently whether the verses the speaker later cites carry the flat reading he asserts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:02",
@@ -632,7 +703,11 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the date of Eratosthenes' measurement (third century BCE) against the speaker's \"two thousand years before Muhammad's birth\", which overstates the interval, and confirm the method and accuracy described."
+      "verificationNote": "Check the date of Eratosthenes' measurement (third century BCE) against the speaker's \"two thousand years before Muhammad's birth\", which overstates the interval, and confirm the method and accuracy described.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:13:02",
@@ -650,7 +725,17 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify each verse quoted (firash, qarar, mihad, madd al-ard, madadnaha, bisat) with its sura and aya, identify the tafsir from which each gloss is taken since the speaker names none, and check whether those glosses assert flatness or only habitability and stability."
+      "verificationNote": "Verify each verse quoted (firash, qarar, mihad, madd al-ard, madadnaha, bisat) with its sura and aya, identify the tafsir from which each gloss is taken since the speaker names none, and check whether those glosses assert flatness or only habitability and stability.",
+      "citationRefs": [
+        "c22",
+        "c23",
+        "c24",
+        "c25",
+        "c26",
+        "c27",
+        "c28",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:13:47",
@@ -667,7 +752,10 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the pegs verse (Q78:7) and the rawasi verses, check whether the text or the tafsirs describe mountains as placed from above, and compare with the geological account of orogeny."
+      "verificationNote": "Verify the pegs verse (Q78:7) and the rawasi verses, check whether the text or the tafsirs describe mountains as placed from above, and compare with the geological account of orogeny.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:14:33",
@@ -684,7 +772,11 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and sequence of Q88:17-22 and check the classical exegesis of sutihat (flattened) against the alternative renderings offered in modern translations."
+      "verificationNote": "Verify the wording and sequence of Q88:17-22 and check the classical exegesis of sutihat (flattened) against the alternative renderings offered in modern translations.",
+      "citationRefs": [
+        "c31",
+        "c32"
+      ]
     },
     {
       "timestamp": "00:14:41",
@@ -702,7 +794,11 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the \"preserved roof\" verse (Q21:32) the speaker alludes to, and check each of the four assertions separately against the text and against current scientific description before treating the sweeping conclusion as established."
+      "verificationNote": "Verify the \"preserved roof\" verse (Q21:32) the speaker alludes to, and check each of the four assertions separately against the text and against current scientific description before treating the sweeping conclusion as established.",
+      "citationRefs": [
+        "c31",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:15:26",
@@ -720,7 +816,8 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Search the classical tafsir and hadith corpus for any pre-modern statement that the earth only appears flat, and check whether classical scholars who affirmed sphericity (e.g. Ibn Hazm, Ibn Taymiyya) argued from these verses or from other grounds."
+      "verificationNote": "Search the classical tafsir and hadith corpus for any pre-modern statement that the earth only appears flat, and check whether classical scholars who affirmed sphericity (e.g. Ibn Hazm, Ibn Taymiyya) argued from these verses or from other grounds.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:26",
@@ -738,7 +835,11 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse (wording matches Q39:5) and locate the hadith of the sun going beneath or prostrating under the Throne with its collection and grading, since the speaker gives no locator; check the exegesis of yukawwir."
+      "verificationNote": "Verify the verse (wording matches Q39:5) and locate the hadith of the sun going beneath or prostrating under the Throne with its collection and grading, since the speaker gives no locator; check the exegesis of yukawwir.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:15:26",
@@ -756,7 +857,8 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check ancient Near Eastern and late antique cosmographies for the flat-earth-with-orbiting-luminaries picture the speaker attributes to them, and note that he names no specific antecedent source."
+      "verificationNote": "Check ancient Near Eastern and late antique cosmographies for the flat-earth-with-orbiting-luminaries picture the speaker attributes to them, and note that he names no specific antecedent source.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:06",
@@ -773,7 +875,10 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the sheikh quoted and check whether a consensus on sphericity is in fact reported by scholars such as Ibn Taymiyya or Ibn Hazm, and on what grounds it was claimed."
+      "verificationNote": "Identify the sheikh quoted and check whether a consensus on sphericity is in fact reported by scholars such as Ibn Taymiyya or Ibn Hazm, and on what grounds it was claimed.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:16:06",
@@ -790,7 +895,8 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the dating implied for the alleged consensus and whether any early authority within the first two centuries addressed the shape of the earth; the inference about motives is not itself checkable."
+      "verificationNote": "Check the dating implied for the alleged consensus and whether any early authority within the first two centuries addressed the shape of the earth; the inference about motives is not itself checkable.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:50",
@@ -807,7 +913,10 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the fatwa or lecture quoted and confirm its wording; the argument from silence — that no verse asserting sphericity exists — should be checked against the verses apologists usually cite for it."
+      "verificationNote": "Identify the fatwa or lecture quoted and confirm its wording; the argument from silence — that no verse asserting sphericity exists — should be checked against the verses apologists usually cite for it.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:17:33",
@@ -824,7 +933,10 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the qibla verse (Q2:144) and check the juristic literature on facing the Ka'ba over long distances (jihat versus 'ayn al-Ka'ba, and great-circle direction) which bears directly on the inference."
+      "verificationNote": "Verify the wording of the qibla verse (Q2:144) and check the juristic literature on facing the Ka'ba over long distances (jihat versus 'ayn al-Ka'ba, and great-circle direction) which bears directly on the inference.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:18:19",
@@ -840,7 +952,8 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the geometric argument itself: whether facing along a great circle counts as facing the Ka'ba, and how the fiqh of qibla direction on a globe answers it."
+      "verificationNote": "Assess the geometric argument itself: whether facing along a great circle counts as facing the Ka'ba, and how the fiqh of qibla direction on a globe answers it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:19",
@@ -857,7 +970,10 @@
         "quran-flat-earth-cosmography"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This conclusion stands or falls with the geometric premise above; verify that premise and the qibla verse before recording the conclusion as anything more than the speaker's inference."
+      "verificationNote": "This conclusion stands or falls with the geometric premise above; verify that premise and the qibla verse before recording the conclusion as anything more than the speaker's inference.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:19:02",
@@ -874,7 +990,8 @@
         "religion-as-human-invention"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Record as the speaker's conclusion from the qibla argument; nothing further to check beyond the premises already listed."
+      "verificationNote": "Record as the speaker's conclusion from the qibla argument; nothing further to check beyond the premises already listed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:23",
@@ -892,7 +1009,10 @@
         "religion-as-human-invention"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the episode's summary thesis; check it against the specific transmission claims made elsewhere in the series, since here the speaker names no intermediary culture or text for the cosmology in question."
+      "verificationNote": "This is the episode's summary thesis; check it against the specific transmission claims made elsewhere in the series, since here the speaker names no intermediary culture or text for the cosmology in question.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:20:09",
@@ -904,7 +1024,8 @@
       "existingTopicIds": [],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Closing methodological and safety advice with no bearing on the premise; recorded only so the episode's structure is complete."
+      "verificationNote": "Closing methodological and safety advice with no bearing on the premise; recorded only so the episode's structure is complete.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -916,7 +1037,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -926,7 +1048,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "يا معشر الجن والإنس",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -936,7 +1059,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "من كل زوجين اثنين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -946,7 +1070,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "من كل فج عميق",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -956,7 +1081,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "person",
@@ -966,7 +1092,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -976,7 +1103,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فطرة الله التي فطر الناس عليها لا تبديل لخلق الله ذلك الدين القيم ولكن أكثر الناس لا يعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "hadith",
@@ -986,7 +1114,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ما من مولود إلا يولد على الفطرة فأبواه يهودانه أو ينصرانه أو يمجسانه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -996,7 +1125,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -1006,7 +1136,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فاضربوهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -1016,7 +1147,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -1026,7 +1158,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -1036,7 +1169,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
@@ -1046,7 +1180,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -1056,7 +1191,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -1066,7 +1202,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "واتل عليهم نبأ ابني آدم بالحق إذ قربا قربانا فتقبل من أحدهما ولم يتقبل من الآخر قال لأقتلنك قال إنما يتقبل الله من المتقين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -1076,7 +1213,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -1086,7 +1224,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "حرمت عليكم أمهاتكم وبناتكم وأخواتكم وعماتكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "event",
@@ -1096,7 +1235,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -1106,7 +1246,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -1116,7 +1257,8 @@
       "author": "إيراتوستينس",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -1126,7 +1268,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الذي جعل لكم الأرض فراشا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "book",
@@ -1136,7 +1279,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1146,7 +1290,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "جعلنا الأرض قرارا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -1156,7 +1301,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ألم نجعل الأرض مهادا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -1166,7 +1312,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "هو الذي مد الأرض وجعل فيها رواسي وأنهارا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -1176,7 +1323,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "والأرض مددناها وألقينا فيها رواسي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
@@ -1186,7 +1334,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "والله جعل لكم الأرض بساطا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "book",
@@ -1196,7 +1345,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -1206,7 +1356,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -1216,7 +1367,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "أفلا ينظرون إلى الإبل كيف خلقت وإلى السماء كيف رفعت وإلى الجبال كيف نصبت وإلى الأرض كيف سطحت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -1226,7 +1378,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فذكر إنما أنت مذكر لست عليهم بمسيطر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1236,7 +1389,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "سقف محفوظ",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1246,7 +1400,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "هو الذي خلق السماوات والأرض بالحق يكور الليل على النهار والنهار على الليل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "hadith",
@@ -1256,7 +1411,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "person",
@@ -1266,7 +1422,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1276,7 +1433,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -1286,7 +1444,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فلنولينك قبلة ترضاها فول وجهك شطر المسجد الحرام وحيثما كنتم فولوا وجوهكم شطره",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "person",
@@ -1296,7 +1455,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c39"
     }
   ],
   "topicProposals": [

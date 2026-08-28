@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "CyOCQmE0WL0",
   "videoUrl": "https://www.youtube.com/watch?v=CyOCQmE0WL0",
   "videoTitle": "Episode 21 برنامج صندوق الإسلام - الحلقة الحادية والعشرون: كلام جديد عن المخطوطات الاولى للقرآن",
@@ -53,7 +53,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare academic output on early Quranic manuscripts between Western academia and traditional Islamic institutions."
+      "verificationNote": "Compare academic output on early Quranic manuscripts between Western academia and traditional Islamic institutions.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:06:27",
@@ -64,7 +67,12 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine manuscript folios (e.g., Sanaa palimpsest) for orthographic developments, diacritics, and textual variants."
+      "verificationNote": "Examine manuscript folios (e.g., Sanaa palimpsest) for orthographic developments, diacritics, and textual variants.",
+      "citationRefs": [
+        "c4",
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:08:29",
@@ -75,7 +83,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check published transcriptions and multispectral images of the Sanaa palimpsest DAM 01-27.1 (e.g., Elisabeth Puin or Behnam Sadeghi)."
+      "verificationNote": "Check published transcriptions and multispectral images of the Sanaa palimpsest DAM 01-27.1 (e.g., Elisabeth Puin or Behnam Sadeghi).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:49",
@@ -86,7 +95,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Inspect folio 14 of DAM 01-27.1 for paleographic forms of nun and ra in Surah al-Qasas."
+      "verificationNote": "Inspect folio 14 of DAM 01-27.1 for paleographic forms of nun and ra in Surah al-Qasas.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:14:16",
@@ -97,7 +109,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify reading of Surah al-Hijr 15:65 in the lower text transcription of DAM 01-27.1."
+      "verificationNote": "Verify reading of Surah al-Hijr 15:65 in the lower text transcription of DAM 01-27.1.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:14:56",
@@ -108,7 +123,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Elisabeth Puin's published articles ('Ein frühes Koranfragment aus Sanaa') detailing variants in DAM 01-27.1."
+      "verificationNote": "Check Elisabeth Puin's published articles ('Ein frühes Koranfragment aus Sanaa') detailing variants in DAM 01-27.1.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:18:07",
@@ -119,7 +137,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm codicological unity between Mingana 1572a/b and BnF Arabe 328c as demonstrated by François Déroche and Alba Fedeli."
+      "verificationNote": "Confirm codicological unity between Mingana 1572a/b and BnF Arabe 328c as demonstrated by François Déroche and Alba Fedeli.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:50",
@@ -130,7 +149,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check methodological discussions by François Déroche on radiocarbon dating vs paleographic dating of early Quranic manuscripts."
+      "verificationNote": "Check methodological discussions by François Déroche on radiocarbon dating vs paleographic dating of early Quranic manuscripts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:00",
@@ -141,7 +161,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify Michele Amari's 1850s classification of 'خط حجازي' (scrittura egiziana/higiazina) in Quranic paleography literature."
+      "verificationNote": "Verify Michele Amari's 1850s classification of 'خط حجازي' (scrittura egiziana/higiazina) in Quranic paleography literature.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:23:13",
@@ -152,7 +175,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check epigraphic evidence for epigraphic South Arabian / Thamudic scripts vs Nabataeo-Arabic script evolution in Central and Northern Arabia."
+      "verificationNote": "Check epigraphic evidence for epigraphic South Arabian / Thamudic scripts vs Nabataeo-Arabic script evolution in Central and Northern Arabia.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:25:03",
@@ -163,7 +189,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult paleographic literature on the evolution of Aramaic to Nabataean to early Arabic script (e.g. Beatrice Gruendler, Robert Hoyland)."
+      "verificationNote": "Consult paleographic literature on the evolution of Aramaic to Nabataean to early Arabic script (e.g. Beatrice Gruendler, Robert Hoyland).",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:25:42",
@@ -174,7 +203,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify theories regarding Syriac Estrangelo influence on Kufic Quranic calligraphy in paleographic studies."
+      "verificationNote": "Verify theories regarding Syriac Estrangelo influence on Kufic Quranic calligraphy in paleographic studies.",
+      "citationRefs": [
+        "c10"
+      ]
     }
   ],
   "citations": [
@@ -186,7 +218,8 @@
       "author": "Édouard Gallez",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -196,7 +229,8 @@
       "author": "Christoph Luxenberg",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -206,7 +240,8 @@
       "author": "Ghanim Kaddouri al-Hamad",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -216,7 +251,8 @@
       "author": "Gerd-Rüdiger Puin",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -226,7 +262,8 @@
       "author": "François Déroche",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
@@ -236,7 +273,8 @@
       "author": "Markus Groß",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -246,7 +284,8 @@
       "author": "",
       "locator": "28:84",
       "quotedArabic": "مَن جاء بالحسنةِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -256,7 +295,8 @@
       "author": "",
       "locator": "15:65",
       "quotedArabic": "وَامْضُوا حَيْثُ تُؤْمَرُونَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
@@ -266,7 +306,8 @@
       "author": "Elisabeth Puin",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
@@ -276,7 +317,8 @@
       "author": "Robert M. Kerr",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -286,7 +328,8 @@
       "author": "Michele Amari",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     }
   ],
   "topicProposals": []

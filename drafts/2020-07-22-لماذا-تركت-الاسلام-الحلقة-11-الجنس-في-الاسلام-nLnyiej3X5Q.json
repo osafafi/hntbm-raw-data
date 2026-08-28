@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "nLnyiej3X5Q",
   "videoUrl": "https://www.youtube.com/watch?v=nLnyiej3X5Q",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 11 - الجنس في الإسلام",
@@ -127,7 +127,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the quoted prohibition of approaching zina, its immediate context, and the Qur'anic passages specifying worldly punishment; distinguish the verse's wording from the speaker's claims about punishment in the hereafter."
+      "verificationNote": "Check the quoted prohibition of approaching zina, its immediate context, and the Qur'anic passages specifying worldly punishment; distinguish the verse's wording from the speaker's claims about punishment in the hereafter.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:00:41",
@@ -142,7 +146,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur'anic verse prescribing one hundred lashes, including its Arabic wording, scope, and classical legal interpretation."
+      "verificationNote": "Check the Qur'anic verse prescribing one hundred lashes, including its Arabic wording, scope, and classical legal interpretation.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:15",
@@ -157,7 +164,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the hadith corpus and classical legal sources for the conditions, evidentiary requirements, and claimed continuing validity of stoning for married offenders."
+      "verificationNote": "Check the hadith corpus and classical legal sources for the conditions, evidentiary requirements, and claimed continuing validity of stoning for married offenders.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:01:15",
@@ -173,7 +183,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report actually invoked by the speaker, verify whether it mentions a domestic animal, which written verses it concerns, its collection and grading, and whether the stoning-verse tradition is the same report or a separate tradition."
+      "verificationNote": "Locate the report actually invoked by the speaker, verify whether it mentions a domestic animal, which written verses it concerns, its collection and grading, and whether the stoning-verse tradition is the same report or a separate tradition.",
+      "citationRefs": [
+        "c3",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:01:15",
@@ -188,7 +202,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the extant Qur'anic text, stoning hadiths, reports about an abrogated or missing stoning verse, and classical theories of abrogation of recitation while retaining a ruling."
+      "verificationNote": "Compare the extant Qur'anic text, stoning hadiths, reports about an abrogated or missing stoning verse, and classical theories of abrogation of recitation while retaining a ruling.",
+      "citationRefs": [
+        "c3",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:02:33",
@@ -204,7 +222,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check every Qur'anic occurrence of the quoted wives-or-right-hand-possessions formula and the range of classical interpretations of sexual access in those passages."
+      "verificationNote": "Check every Qur'anic occurrence of the quoted wives-or-right-hand-possessions formula and the range of classical interpretations of sexual access in those passages.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:02:33",
@@ -220,7 +241,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check classical Arabic dictionaries and legal works for the meanings and legal distinctions among ama, surriyya, tasarri, and milk al-yamin."
+      "verificationNote": "Check classical Arabic dictionaries and legal works for the meanings and legal distinctions among ama, surriyya, tasarri, and milk al-yamin.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:24",
@@ -235,7 +257,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Qur'anic passages and classical jurisprudence for whether concubines were numerically limited and for any relevant ownership or sexual-access restrictions."
+      "verificationNote": "Check Qur'anic passages and classical jurisprudence for whether concubines were numerically limited and for any relevant ownership or sexual-access restrictions.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:03:24",
@@ -251,7 +276,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the quoted verse concerning marriage to believing slave women and classical law on marrying one's own slave, including whether emancipation was required before such a marriage."
+      "verificationNote": "Check the quoted verse concerning marriage to believing slave women and classical law on marrying one's own slave, including whether emancipation was required before such a marriage.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:04:28",
@@ -267,7 +296,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the syntax and classical exegesis of all verses juxtaposing azwaj and ma malakat ayman, and review the modern interpretation the speaker is rebutting."
+      "verificationNote": "Compare the syntax and classical exegesis of all verses juxtaposing azwaj and ma malakat ayman, and review the modern interpretation the speaker is rebutting.",
+      "citationRefs": [
+        "c6",
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:04:28",
@@ -283,7 +317,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the complete verse, the meanings of ujur and afa'a Allahu alayk, and classical exegesis concerning the categories of women permitted specifically to Muhammad."
+      "verificationNote": "Check the complete verse, the meanings of ujur and afa'a Allahu alayk, and classical exegesis concerning the categories of women permitted specifically to Muhammad.",
+      "citationRefs": [
+        "c8",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:12",
@@ -299,7 +337,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the earliest sirah, hadith, and biographical reports for the capture, emancipation, dower, and marriage status of Safiyya bint Huyayy and Juwayriya bint al-Harith."
+      "verificationNote": "Check the earliest sirah, hadith, and biographical reports for the capture, emancipation, dower, and marriage status of Safiyya bint Huyayy and Juwayriya bint al-Harith.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:12",
@@ -315,7 +356,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the variant early reports about Rayhana and Maria, especially whether either was emancipated or married and how their legal status is described."
+      "verificationNote": "Compare the variant early reports about Rayhana and Maria, especially whether either was emancipated or married and how their legal status is described.",
+      "citationRefs": [
+        "c10",
+        "c17"
+      ]
     },
     {
       "timestamp": "00:06:00",
@@ -330,7 +375,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check early biographical and hadith reports concerning Ibrahim's maternity and Maria's legal status at his birth."
+      "verificationNote": "Check early biographical and hadith reports concerning Ibrahim's maternity and Maria's legal status at his birth.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:06:47",
@@ -346,7 +394,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the complete passage containing 'except those whom your right hands possess' and classical interpretations of whether captivity dissolved an existing non-Muslim marriage."
+      "verificationNote": "Check the complete passage containing 'except those whom your right hands possess' and classical interpretations of whether captivity dissolved an existing non-Muslim marriage.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:07:26",
@@ -362,7 +414,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Awtas captive report, identify its collection, chain, wording, and grading, and compare versions concerning Hunayn, Awtas, the women's husbands, and the revelation of the verse."
+      "verificationNote": "Locate the Awtas captive report, identify its collection, chain, wording, and grading, and compare versions concerning Hunayn, Awtas, the women's husbands, and the revelation of the verse.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:08:16",
@@ -377,7 +432,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the inference against the exact wording and historical context of the Awtas report and the relevant legal interpretations; the moral comparison itself is evaluative."
+      "verificationNote": "Assess the inference against the exact wording and historical context of the Awtas report and the relevant legal interpretations; the moral comparison itself is evaluative.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:08:16",
@@ -393,7 +451,13 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the underlying textual contrast and then evaluate whether the authorship conclusion follows; separate textual description from the speaker's moral and theological inference."
+      "verificationNote": "Verify the underlying textual contrast and then evaluate whether the authorship conclusion follows; separate textual description from the speaker's moral and theological inference.",
+      "citationRefs": [
+        "c6",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:09:47",
@@ -409,7 +473,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare pre-Islamic and classical Islamic routes into slavery across Qur'an, hadith, jurisprudence, and historical practice, including warfare, birth, purchase, debt, and kidnapping."
+      "verificationNote": "Compare pre-Islamic and classical Islamic routes into slavery across Qur'an, hadith, jurisprudence, and historical practice, including warfare, birth, purchase, debt, and kidnapping.",
+      "citationRefs": [
+        "c20",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:10:32",
@@ -424,7 +492,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether foundational sources contain a categorical endpoint abolishing slavery and distinguish classical legal permissibility from abolition by modern state law and international agreements."
+      "verificationNote": "Check whether foundational sources contain a categorical endpoint abolishing slavery and distinguish classical legal permissibility from abolition by modern state law and international agreements.",
+      "citationRefs": [
+        "c20",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:10:32",
@@ -440,7 +512,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the chronology and scope of each cited prohibition and compare them with emancipation and slavery provisions before evaluating the consistency of the gradualism argument."
+      "verificationNote": "Check the chronology and scope of each cited prohibition and compare them with emancipation and slavery provisions before evaluating the consistency of the gradualism argument.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:12:02",
@@ -457,7 +532,11 @@
         "women-child-marriage-and-consummation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verse's wording, occasion and context, and survey classical interpretations of 'those who have not menstruated,' including whether it necessarily denotes prepubescent girls."
+      "verificationNote": "Check the verse's wording, occasion and context, and survey classical interpretations of 'those who have not menstruated,' including whether it necessarily denotes prepubescent girls.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:12:57",
@@ -474,7 +553,11 @@
         "women-child-marriage-and-consummation"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Qur'anic rules on waiting periods before and after consummation and classical jurisprudence concerning whether the cited waiting period presupposes intercourse."
+      "verificationNote": "Check Qur'anic rules on waiting periods before and after consummation and classical jurisprudence concerning whether the cited waiting period presupposes intercourse.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:13:42",
@@ -491,7 +574,10 @@
         "women-child-marriage-and-consummation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith versions reporting Aisha's ages, identify their collections and chains, and compare them with alternative chronological reconstructions."
+      "verificationNote": "Locate the hadith versions reporting Aisha's ages, identify their collections and chains, and compare them with alternative chronological reconstructions.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:13:42",
@@ -508,7 +594,10 @@
         "women-child-marriage-and-consummation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the unnamed speaker or fatwa quoted in the video and check its exact legal basis, institutional context, and criteria for physical capacity."
+      "verificationNote": "Identify the unnamed speaker or fatwa quoted in the video and check its exact legal basis, institutional context, and criteria for physical capacity.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:14:29",
@@ -525,7 +614,13 @@
         "women-child-marriage-and-consummation"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Verify the textual and historical premises about child marriage and examine whether the speaker's proposed dilemma exhausts the available theological interpretations."
+      "verificationNote": "Verify the textual and historical premises about child marriage and examine whether the speaker's proposed dilemma exhausts the available theological interpretations.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c28",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:15:14",
@@ -540,7 +635,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Qur'anic exegesis, hadith reports, and Sunni and Shi'i jurisprudence concerning the early permissibility, contractual form, compensation, and later status of mut'a."
+      "verificationNote": "Check Qur'anic exegesis, hadith reports, and Sunni and Shi'i jurisprudence concerning the early permissibility, contractual form, compensation, and later status of mut'a.",
+      "citationRefs": [
+        "c33",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:15:14",
@@ -556,7 +655,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the full verse and major classical commentaries for the meaning of istamta'tum and ujur, and verify which interpreters used the verse for mut'a."
+      "verificationNote": "Check the full verse and major classical commentaries for the meaning of istamta'tum and ujur, and verify which interpreters used the verse for mut'a.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:16:01",
@@ -571,7 +673,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the unnamed exegetical passage quoted, verify its attribution to al-Shafi'i and other scholars, and compare the chronological hadith reports about permission and prohibition."
+      "verificationNote": "Identify the unnamed exegetical passage quoted, verify its attribution to al-Shafi'i and other scholars, and compare the chronological hadith reports about permission and prohibition.",
+      "citationRefs": [
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:16:01",
@@ -587,7 +693,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the quoted Sahih Muslim report, verify its complete text, narrator, context, and hadith numbering across editions, and compare it with reports assigning prohibition to other occasions."
+      "verificationNote": "Locate the quoted Sahih Muslim report, verify its complete text, narrator, context, and hadith numbering across editions, and compare it with reports assigning prohibition to other occasions.",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:16:46",
@@ -602,7 +711,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the source chronology and classical doctrines of abrogation and changing circumstances before assessing the speaker's claim that the sequence entails a change in divine knowledge or judgment."
+      "verificationNote": "Check the source chronology and classical doctrines of abrogation and changing circumstances before assessing the speaker's claim that the sequence entails a change in divine knowledge or judgment.",
+      "citationRefs": [
+        "c33",
+        "c35",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:17:32",
@@ -618,7 +732,28 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate this conclusion only after separately checking each underlying claim concerning zina, slavery, captives, child marriage, and mut'a; the attribution of authorship is an inference rather than direct source testimony."
+      "verificationNote": "Evaluate this conclusion only after separately checking each underlying claim concerning zina, slavery, captives, child marriage, and mut'a; the attribution of authorship is an inference rather than direct source testimony.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c3",
+        "c6",
+        "c7",
+        "c8",
+        "c10",
+        "c17",
+        "c20",
+        "c21",
+        "c22",
+        "c26",
+        "c27",
+        "c28",
+        "c31",
+        "c32",
+        "c33",
+        "c35",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:17:32",
@@ -633,7 +768,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify representative apologetic treatments of the specific sexual-law passages discussed and compare their arguments with classical exegesis rather than treating the generalization as self-verifying."
+      "verificationNote": "Identify representative apologetic treatments of the specific sexual-law passages discussed and compare their arguments with classical exegesis rather than treating the generalization as self-verifying.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:19",
@@ -648,7 +784,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Treat this as the speaker's normative philosophical alternative; an editor should assess its philosophical assumptions separately from the historical-source claims."
+      "verificationNote": "Treat this as the speaker's normative philosophical alternative; an editor should assess its philosophical assumptions separately from the historical-source claims.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -658,7 +795,8 @@
       "asStatedInVideo": "آية تحريم الاقتراب من الزنا؛ لم يذكر المتحدث رقم السورة أو الآية.",
       "workTitle": "القرآن",
       "quotedArabic": "ولا تقربوا الزنا، إنه كان فاحشة وساء سبيلا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -666,14 +804,16 @@
       "asStatedInVideo": "الحكم القرآني بجلد غير المحصنين مئة جلدة؛ لم يقتبس المتحدث نص الآية ولم يذكر موضعها.",
       "workTitle": "القرآن",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:01:15",
       "asStatedInVideo": "أحاديث صحيحة تتضمن آية الرجم أو حكم الرجم، من دون تسمية مجموعة أو إعطاء رقم.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -683,14 +823,16 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
       "timestamp": "00:01:15",
       "asStatedInVideo": "رواية أكل عنزة عائشة لآيات الرجم المزعومة.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -698,7 +840,8 @@
       "asStatedInVideo": "آيات حفظ الفروج والاستثناء للزوجات وما ملكت الأيمان؛ لم يذكر رقم السورة أو الآية.",
       "workTitle": "القرآن",
       "quotedArabic": "والذين هم لفروجهم حافظون، إلا على أزواجهم أو ما ملكت أيمانهم، فإنهم غير ملومين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -706,7 +849,8 @@
       "asStatedInVideo": "آية الزواج من الفتيات المؤمنات من ملك اليمين عند عدم الاستطاعة؛ لم يذكر موضعها.",
       "workTitle": "القرآن",
       "quotedArabic": "ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات، فمما ملكت أيمانكم من فتياتكم المؤمنات",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -714,14 +858,16 @@
       "asStatedInVideo": "آية خاصة بالنبي تميز بين أزواجه وما ملكت يمينه مما أفاء الله عليه؛ بلا رقم.",
       "workTitle": "القرآن",
       "quotedArabic": "يا أيها النبي، إنا أحللنا لك أزواجك التي آتيت أجورهن، وما ملكت يمينك مما أفاء الله عليك",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:28",
       "asStatedInVideo": "محمد، استُخدم مثاله للتمييز بين الزوجات والسراري.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -729,49 +875,56 @@
       "asStatedInVideo": "نص تفسيري غير منسوب يشرح الأزواج والأجور وما ملكت اليمين في الآية الخاصة بالنبي.",
       "workTitle": "تفسير غير مسمى في الفيديو",
       "quotedArabic": "يقول تعالى مخاطب النبي صلوات الله وسلامه عليه بأنه قد أحل له من النساء أزواجه التي أعطاهن مهورهن، وهي الأجور هاهن",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:12",
       "asStatedInVideo": "صفية بنت حيي، قيل إنها كانت من سبي خيبر ثم أُعتقت وتزوجها محمد.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "event",
       "timestamp": "00:05:12",
       "asStatedInVideo": "سبي خيبر، ذُكر بوصفه السياق الذي أُخذت فيه صفية بنت حيي.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:12",
       "asStatedInVideo": "جويرية بنت الحارث، نطق المتحدث الاسم بصورة غير واضحة قليلاً، وقيل إنها أُعتقت وتزوجها محمد.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c13"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:12",
       "asStatedInVideo": "ريحانة بنت شمعون، وُصفت بأنها من سراري محمد.",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:12",
       "asStatedInVideo": "ماريا القبطية، وُصفت بأنها سرية محمد وأم ابنه إبراهيم.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:12",
       "asStatedInVideo": "إبراهيم ابن محمد، ذُكر بوصفه ابن ماريا القبطية.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "book",
@@ -779,21 +932,24 @@
       "asStatedInVideo": "رواية أو نص سيرة غير مسمى يقول إن محمد تزوج إحدى عشرة امرأة وتسرى جاريتين.",
       "workTitle": "مصدر سيرة غير مسمى في الفيديو",
       "quotedArabic": "تزوج إحدى عشرة امرأة، ومات عن تسع، وتسرى جاريتين",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:00",
       "asStatedInVideo": "ريحانة بنت زيد، وُصفت هنا بأنها جارية يهودية من سبي بني قريظة.",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "event",
       "timestamp": "00:06:00",
       "asStatedInVideo": "سبي بني قريظة، ذُكر مصدراً لامتلاك ريحانة.",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -801,7 +957,8 @@
       "asStatedInVideo": "آية المحرمات من النساء وصولاً إلى استثناء ما ملكت الأيمان؛ لم يذكر رقمها.",
       "workTitle": "القرآن",
       "quotedArabic": "حرمت عليكم أمهاتكم وبناتكم وأخواتكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -809,28 +966,32 @@
       "asStatedInVideo": "جزء الآية المتعلق بالمحصنات واستثناء ملك اليمين؛ بلا رقم.",
       "workTitle": "القرآن",
       "quotedArabic": "والمحصنات من النساء إلا ما ملكت أيمانكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:07:26",
       "asStatedInVideo": "رواية سبايا أوطاس المتزوجات ونزول الاستثناء، من دون تسمية مجموعة الحديث أو رقمه.",
       "quotedArabic": "أصبنا نساء في سبي أوطاس، ولهن أزواج، فكرهنا أن نقع عليهن ولهن أزواج، فسألنا النبي صلى الله عليه وآله وسلم، فنزلت هذه الآية: والمحصنات من النساء إلا ما ملكت أيمانكم، قال: فاستحللنا فروجهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "event",
       "timestamp": "00:07:26",
       "asStatedInVideo": "غزوة حنين وإرسال جيش إلى أوطاس وأسر النساء هناك.",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:26",
       "asStatedInVideo": "محمد، قيل إن المقاتلين سألوه عن جماع السبايا المتزوجات.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -838,7 +999,8 @@
       "asStatedInVideo": "أحكام قرآنية عامة قيل إنها حرمت لحم الخنزير والتبني وزواج الأمهات والأخوات فوراً؛ لم تُذكر الآيات أو تُقتبس.",
       "workTitle": "القرآن",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -846,7 +1008,8 @@
       "asStatedInVideo": "آية عدة الآيسات واللائي لم يحضن؛ لم يذكر المتحدث رقم السورة أو الآية.",
       "workTitle": "القرآن",
       "quotedArabic": "واللائي لم يحضن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "book",
@@ -854,28 +1017,32 @@
       "asStatedInVideo": "تفسير غير مسمى يشرح أن عدة الآيسة والصغيرة التي لم تبلغ سن الحيض ثلاثة أشهر.",
       "workTitle": "تفسير غير مسمى في الفيديو",
       "quotedArabic": "يقول تعالى مبيناً لعدة الآيسة وهي التي انقطع عنها الحيض لكبرها إنها ثلاثة أشهر عوضاً عن الثلاثة قروء في حق من تحيض، وكذا الصغار اللائي لم يبلغن سن الحيض إن عدتهن كعدة الآيسة ثلاثة أشهر",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:13:42",
       "asStatedInVideo": "رواية زواج محمد من عائشة في السادسة والدخول بها في التاسعة، من دون ذكر المجموعة أو الرقم.",
       "quotedArabic": "عقد النبي صلى الله عليه وسلم على عائشة وهي بنت ست سنين، وبنى بها وهي بنت تسع سنين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
       "timestamp": "00:13:42",
       "asStatedInVideo": "عائشة، ذُكرت أعمارها عند العقد والدخول.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c29"
     },
     {
       "citationType": "person",
       "timestamp": "00:13:42",
       "asStatedInVideo": "محمد، نُسب إليه العقد على عائشة والدخول بها.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c30"
     },
     {
       "citationType": "book",
@@ -883,7 +1050,8 @@
       "asStatedInVideo": "قول أو فتوى فقهية غير منسوبة تجيز العقد على الصغيرة والدخول بها إذا كانت تتحمل.",
       "workTitle": "فتوى أو قول فقهي غير مسمى في الفيديو",
       "quotedArabic": "يجوز العقد على الصغيرة، أما التمكين من البناء فإذا كانت تتحمل البناء بني بها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -891,7 +1059,8 @@
       "asStatedInVideo": "آية الاستمتاع وإيتاء الأجور؛ لم يذكر المتحدث رقمها.",
       "workTitle": "القرآن",
       "quotedArabic": "فما استمتعتم به منهن فآتوهن أجورهن فريضة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "book",
@@ -899,14 +1068,16 @@
       "asStatedInVideo": "تفسير غير مسمى يقول إن المتعة شُرعت في بداية الإسلام ثم نُسخت، وينقل خلافاً في عدد مرات الإباحة والنسخ.",
       "workTitle": "تفسير غير مسمى في الفيديو",
       "quotedArabic": "ولا شك أنه كان مشروعاً في ابتداء الإسلام، أن نكاح المتعة كان مشروعاً في ابتداء الإسلام ثم نسخ بعد ذلك",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "person",
       "timestamp": "00:16:01",
       "asStatedInVideo": "الشافعي، نُسب إليه القول بأن المتعة أبيحت ثم نسخت ثم أبيحت ثم نسخت مرتين.",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "hadith",
@@ -915,28 +1086,32 @@
       "workTitle": "صحيح مسلم",
       "author": "مسلم",
       "quotedArabic": "يا أيها الناس، إني قد كنت أذنت لكم في الاستمتاع من النساء، وإن الله قد حرم ذلك إلى يوم القيامة، فمن كان عنده منهن شيء فليخل سبيله، ولا تأخذوا مما آتيتموهن شيئاً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "person",
       "timestamp": "00:16:01",
       "asStatedInVideo": "محمد، نُسب إليه إعلان التحريم النهائي للمتعة.",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c36"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:16:46",
       "asStatedInVideo": "رواية غير محددة عن أصحاب طلبوا الإذن بالاختصاء، فأذن لهم محمد بالمتعة ثم جاء الوحي بمنعها.",
       "quotedArabic": "جاء بعض أصحاب النبي صلى الله عليه وسلم واستأذنوه في أن يختصوا خشية أن يقعوا في الحرام، فأذن لهم النبي صلى الله عليه وسلم بالمتعة، فجاءه الوحي من الله بالإذن بها، ثم جاءه الوحي من الله بمنعها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c37"
     },
     {
       "citationType": "person",
       "timestamp": "00:16:46",
       "asStatedInVideo": "أصحاب محمد، ذُكروا جماعة من دون أسماء في رواية طلب الاختصاء والإذن بالمتعة.",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     }
   ],
   "topicProposals": [

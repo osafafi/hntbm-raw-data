@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "2AbmjoqAxsE",
   "videoUrl": "https://www.youtube.com/watch?v=2AbmjoqAxsE",
   "videoTitle": "أسئلة اليهود لكاتب القرآن - سورة الكهف والإسراء دليل واضح على بشرية القرآن",
@@ -97,7 +97,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the analogy separately from the historicity and wording of the underlying test narrative."
+      "verificationNote": "Assess the analogy separately from the historicity and wording of the underlying test narrative.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:47",
@@ -114,7 +115,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate this conclusion only after checking each proposed connection between the questions, the Qur'anic answers, and Daniel."
+      "verificationNote": "Evaluate this conclusion only after checking each proposed connection between the questions, the Qur'anic answers, and Daniel.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:02:05",
@@ -129,7 +133,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the cited passage in Surah al-Isra, its wording, context, and classical accounts of what request it answers."
+      "verificationNote": "Check the cited passage in Surah al-Isra, its wording, context, and classical accounts of what request it answers.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:45",
@@ -147,7 +154,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the earliest sirah and occasion-of-revelation versions, compare their chains and wording, and determine al-Nadr's stated role."
+      "verificationNote": "Locate the earliest sirah and occasion-of-revelation versions, compare their chains and wording, and determine al-Nadr's stated role.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:03:30",
@@ -164,7 +174,12 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the earliest formulations of the questions with the relevant Qur'anic passages and test whether the proposed expected answers are historically demonstrable."
+      "verificationNote": "Compare the earliest formulations of the questions with the relevant Qur'anic passages and test whether the proposed expected answers are historically demonstrable.",
+      "citationRefs": [
+        "c5",
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:30",
@@ -181,7 +196,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the full Qur'anic passage, early exegesis, and the test narratives to establish what 'spirit' was understood to mean."
+      "verificationNote": "Check the full Qur'anic passage, early exegesis, and the test narratives to establish what 'spirit' was understood to mean.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:03:30",
@@ -196,7 +214,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the passage in Tafsir Ibn Kathir, identify its earlier source and chain, and compare its exact wording and context."
+      "verificationNote": "Verify the passage in Tafsir Ibn Kathir, identify its earlier source and chain, and compare its exact wording and context.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:05:03",
@@ -211,7 +232,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Ibn Kathir's complete list, the authorities he cites, and whether exegetical plurality necessarily indicates ignorance of the original question."
+      "verificationNote": "Check Ibn Kathir's complete list, the authorities he cites, and whether exegetical plurality necessarily indicates ignorance of the original question.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:37",
@@ -228,7 +252,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Determine whether the earliest test accounts explicitly identify Jewish prophetic classification as the rationale or whether this is the speaker's reconstruction."
+      "verificationNote": "Determine whether the earliest test accounts explicitly identify Jewish prophetic classification as the rationale or whether this is the speaker's reconstruction.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:23",
@@ -245,7 +270,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult current scholarship on Jewish and Christian canon formation, especially the chronology and nature of Daniel's classification."
+      "verificationNote": "Consult current scholarship on Jewish and Christian canon formation, especially the chronology and nature of Daniel's classification.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:09",
@@ -262,7 +288,11 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the ordering of the Hebrew canon and rabbinic explanations for Daniel's placement, distinguishing ancient evidence from later theories."
+      "verificationNote": "Check the ordering of the Hebrew canon and rabbinic explanations for Daniel's placement, distinguishing ancient evidence from later theories.",
+      "citationRefs": [
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:09:40",
@@ -279,7 +309,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the placement and reception of Daniel in major early Christian canons with Jewish canonical arrangements and stated rationales."
+      "verificationNote": "Compare the placement and reception of Daniel in major early Christian canons with Jewish canonical arrangements and stated rationales.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:25",
@@ -296,7 +329,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Hebrew and Aramaic usage in Daniel and rabbinic sources, including whether this terminology explains Daniel's canonical position."
+      "verificationNote": "Check Hebrew and Aramaic usage in Daniel and rabbinic sources, including whether this terminology explains Daniel's canonical position.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:11:14",
@@ -313,7 +349,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Test whether the proposed Jewish answers are evidenced in the earliest question narrative and whether the Qur'anic answers depend specifically on Christian sources."
+      "verificationNote": "Test whether the proposed Jewish answers are evidenced in the earliest question narrative and whether the Qur'anic answers depend specifically on Christian sources.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:01",
@@ -331,7 +368,11 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the wording of the earliest Islamic question reports with Daniel and look for premodern evidence that the three questions were understood as a coordinated Danielic test."
+      "verificationNote": "Compare the wording of the earliest Islamic question reports with Daniel and look for premodern evidence that the three questions were understood as a coordinated Danielic test.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:12:48",
@@ -346,7 +387,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Locate the variants attributed to Ibn Abbas, Mujahid and Ikrima, assess their transmission, and distinguish the reported delay from the speaker's explanation for it."
+      "verificationNote": "Locate the variants attributed to Ibn Abbas, Mujahid and Ikrima, assess their transmission, and distinguish the reported delay from the speaker's explanation for it.",
+      "citationRefs": [
+        "c19",
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:13:35",
@@ -361,7 +407,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the earliest versions of the omission-and-delay explanation and whether its chronology or theology supports the speaker's inference."
+      "verificationNote": "Check the earliest versions of the omission-and-delay explanation and whether its chronology or theology supports the speaker's inference.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:14:22",
@@ -376,7 +425,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording, chains and dates in the Ibn Abbas occasion-of-revelation report and parallel sirah accounts."
+      "verificationNote": "Verify the wording, chains and dates in the Ibn Abbas occasion-of-revelation report and parallel sirah accounts.",
+      "citationRefs": [
+        "c19",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:14:22",
@@ -393,7 +446,12 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether the cited occasion-of-revelation report explicitly connects all of these passages and compare textual chronology across Surahs al-Kahf and al-Isra."
+      "verificationNote": "Check whether the cited occasion-of-revelation report explicitly connects all of these passages and compare textual chronology across Surahs al-Kahf and al-Isra.",
+      "citationRefs": [
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:10",
@@ -408,7 +466,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine the grammar, addressee and exegetical context of the verse and whether it is intended as a definition, a limitation of knowledge, or both."
+      "verificationNote": "Examine the grammar, addressee and exegetical context of the verse and whether it is intended as a definition, a limitation of knowledge, or both.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:15:10",
@@ -426,7 +487,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Qur'anic narratives with datable Greek and Syriac Cave and Alexander texts and assess possible directions and channels of transmission."
+      "verificationNote": "Compare the Qur'anic narratives with datable Greek and Syriac Cave and Alexander texts and assess possible directions and channels of transmission.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:57",
@@ -443,7 +505,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the earliest question's exact terminology and whether Jewish sources or early Islamic commentators identify these three Danielic figures."
+      "verificationNote": "Check the earliest question's exact terminology and whether Jewish sources or early Islamic commentators identify these three Danielic figures.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:15:57",
@@ -460,7 +525,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Investigate Jewish knowledge of and engagement with the Seven Sleepers tradition in late antiquity rather than assuming strict isolation between traditions."
+      "verificationNote": "Investigate Jewish knowledge of and engagement with the Seven Sleepers tradition in late antiquity rather than assuming strict isolation between traditions.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:43",
@@ -475,7 +541,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Encyclopaedia Britannica entry and the earliest Greek, Syriac and other witnesses for the number, location, ruler and chronology."
+      "verificationNote": "Check the Encyclopaedia Britannica entry and the earliest Greek, Syriac and other witnesses for the number, location, ruler and chronology.",
+      "citationRefs": [
+        "c31",
+        "c32",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:17:29",
@@ -490,7 +561,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Establish the dates and textual relationships of the earliest Greek and Syriac witnesses and compare them with proposed Qur'anic chronology."
+      "verificationNote": "Establish the dates and textual relationships of the earliest Greek and Syriac witnesses and compare them with proposed Qur'anic chronology.",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:17:29",
@@ -505,7 +579,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check Q18:22's syntax, rhetorical structure and early interpretations, including whether the verse endorses one number or deliberately declines to specify it."
+      "verificationNote": "Check Q18:22's syntax, rhetorical structure and early interpretations, including whether the verse endorses one number or deliberately declines to specify it.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:19:02",
@@ -522,7 +599,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This conclusion depends on first demonstrating that the question originally and uniquely referred to Daniel's three youths."
+      "verificationNote": "This conclusion depends on first demonstrating that the question originally and uniquely referred to Daniel's three youths.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:47",
@@ -539,7 +617,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the Arabic expression, the Hebrew or Aramaic wording of Daniel 8, and the earliest Islamic accounts of what the questioners intended."
+      "verificationNote": "Compare the Arabic expression, the Hebrew or Aramaic wording of Daniel 8, and the earliest Islamic accounts of what the questioners intended.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:19:47",
@@ -556,7 +637,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify pre-Islamic Hebrew, Aramaic, Syriac or Greek equivalents and establish the date of the Arabic question formula independently of later Islamic reports."
+      "verificationNote": "Identify pre-Islamic Hebrew, Aramaic, Syriac or Greek equivalents and establish the date of the Arabic question formula independently of later Islamic reports.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:20:32",
@@ -573,7 +657,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Daniel 8's vision and its explicit interpretation, noting the wording and whether the ram represents kings, kingdoms, or both."
+      "verificationNote": "Check Daniel 8's vision and its explicit interpretation, noting the wording and whether the ram represents kings, kingdoms, or both.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:21:17",
@@ -589,7 +676,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the historical succession and identities intended in Daniel 8; the text itself names Media and Persia but may not identify the horns as Cyrus and Darius individually."
+      "verificationNote": "Check the historical succession and identities intended in Daniel 8; the text itself names Media and Persia but may not identify the horns as Cyrus and Darius individually.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:22:03",
@@ -603,7 +693,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Daniel's directional language with the chronology and geography of Median and Persian expansion."
+      "verificationNote": "Compare Daniel's directional language with the chronology and geography of Median and Persian expansion.",
+      "citationRefs": [
+        "c42"
+      ]
     },
     {
       "timestamp": "00:22:03",
@@ -620,7 +713,11 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Daniel 8's symbolic interpretation and compare its grammatical categories with the Qur'anic presentation of Dhu al-Qarnayn."
+      "verificationNote": "Check Daniel 8's symbolic interpretation and compare its grammatical categories with the Qur'anic presentation of Dhu al-Qarnayn.",
+      "citationRefs": [
+        "c39",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:22:49",
@@ -637,7 +734,11 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Daniel 8 for the identity of the interpreting angel and the exact wording of the interpretation, then assess whether the Islamic test narrative makes this connection."
+      "verificationNote": "Check Daniel 8 for the identity of the interpreting angel and the exact wording of the interpretation, then assess whether the Islamic test narrative makes this connection.",
+      "citationRefs": [
+        "c43",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:23:38",
@@ -654,7 +755,11 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Daniel 8's goat vision and explicit interpretation, then verify the standard historical identification of its first great horn."
+      "verificationNote": "Check Daniel 8's goat vision and explicit interpretation, then verify the standard historical identification of its first great horn.",
+      "citationRefs": [
+        "c45",
+        "c48"
+      ]
     },
     {
       "timestamp": "00:24:23",
@@ -671,7 +776,10 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Determine when Alexander was first identified with the Qur'anic figure and whether any source shows that Daniel 8, rather than Alexander lore independently, caused that identification."
+      "verificationNote": "Determine when Alexander was first identified with the Qur'anic figure and whether any source shows that Daniel 8, rather than Alexander lore independently, caused that identification.",
+      "citationRefs": [
+        "c46"
+      ]
     },
     {
       "timestamp": "00:25:08",
@@ -687,7 +795,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the relevant Qur'anic episodes with datable recensions of the Alexander Romance and Syriac Alexander material, including chronology and direction of dependence."
+      "verificationNote": "Compare the relevant Qur'anic episodes with datable recensions of the Alexander Romance and Syriac Alexander material, including chronology and direction of dependence.",
+      "citationRefs": [
+        "c49",
+        "c50"
+      ]
     },
     {
       "timestamp": "00:25:08",
@@ -702,7 +814,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Daniel 8, the Dhu al-Qarnayn passage and the relevant Alexander texts for the eastern-people motif."
+      "verificationNote": "Compare Daniel 8, the Dhu al-Qarnayn passage and the relevant Alexander texts for the eastern-people motif.",
+      "citationRefs": [
+        "c49",
+        "c50"
+      ]
     },
     {
       "timestamp": "00:25:53",
@@ -717,7 +833,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the presence or absence of the Gog and Magog barrier motif in Daniel 8, the Qur'an and pre-Islamic Alexander traditions."
+      "verificationNote": "Check the presence or absence of the Gog and Magog barrier motif in Daniel 8, the Qur'an and pre-Islamic Alexander traditions.",
+      "citationRefs": [
+        "c49",
+        "c51"
+      ]
     },
     {
       "timestamp": "00:26:39",
@@ -735,7 +855,8 @@
         "danielic-test-hypothesis"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the conclusion against the historical reliability of the test narrative, the proposed Danielic referents, and the source-critical analysis of the Qur'anic stories."
+      "verificationNote": "Evaluate the conclusion against the historical reliability of the test narrative, the proposed Danielic referents, and the source-critical analysis of the Qur'anic stories.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -747,7 +868,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -757,7 +879,8 @@
       "author": "",
       "locator": "سورتا الكهف والإسراء؛ لا أرقام آيات في هذا الموضع",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -767,7 +890,8 @@
       "author": "",
       "locator": "سورة الإسراء؛ رقم الآية غير مذكور",
       "quotedArabic": "وما منعنا أن نرسله بالآيات إلا إن كتب بها الأولون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -777,7 +901,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -787,7 +912,8 @@
       "author": "",
       "locator": "لا مصدر أو إسناد محدد في هذا الموضع",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -797,7 +923,8 @@
       "author": "",
       "locator": "سورة الإسراء؛ رقم الآية غير مذكور",
       "quotedArabic": "قل الروح من أمر ربي وما أتيتم من العلم إلا قليلة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -807,7 +934,8 @@
       "author": "",
       "locator": "سورة الكهف؛ أرقام الآيات غير مذكورة هنا",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
@@ -817,7 +945,8 @@
       "author": "إسماعيل بن كثير",
       "locator": "تفسير آية الروح؛ الرقم غير مذكور",
       "quotedArabic": "من جاءك بهذا؟ فقال جاءني به جبريل من عند الله، فقالوا له والله ما قاله لك إلا عدو لنا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
@@ -827,7 +956,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -837,7 +967,8 @@
       "author": "إسماعيل بن كثير",
       "locator": "تفسير آية الروح؛ الرقم غير مذكور",
       "quotedArabic": "وقد اختلف المفسرون في المراد بالروح هاهنا على أقوال، أحدها أن المراد بالروح هي أرواح بني آدم، وقيل المراد بالروح هاهنا جبريل، وقيل المراد به هاهنا ملك عظيم بقدر المخلوقات كلها، وقيل المراد بذلك طائفة من الملائكة على صور بني آدم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "book",
@@ -847,7 +978,8 @@
       "author": "",
       "locator": "أقسام التوراة والأنبياء والكتابات",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "book",
@@ -857,7 +989,8 @@
       "author": "",
       "locator": "القسم القانوني العام؛ لا إصحاح محدد",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "book",
@@ -867,7 +1000,8 @@
       "author": "",
       "locator": "موضع سفر دانيال في القانون المسيحي",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "book",
@@ -877,7 +1011,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -887,7 +1022,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "book",
@@ -897,7 +1033,8 @@
       "author": "",
       "locator": "السفر عمومًا؛ لا موضع محدد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -907,7 +1044,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "book",
@@ -917,7 +1055,8 @@
       "author": "",
       "locator": "السفر عمومًا؛ الإصحاح الثامن يحدد لاحقًا لذي القرنين",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "sirah",
@@ -927,7 +1066,8 @@
       "author": "عبد الله بن عباس",
       "locator": "المصدر الجامع والإسناد غير مذكورين",
       "quotedArabic": "أخبركم بما سألتم غدا ولم يقل إن شاء الله",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -937,7 +1077,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "قال مجاهد اثنتا عشر ليلة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -947,7 +1088,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وقال عكرمة أربعين يوما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "sirah",
@@ -957,7 +1099,8 @@
       "author": "عبد الله بن عباس",
       "locator": "المصدر الجامع والإسناد غير مذكورين",
       "quotedArabic": "وأهل مكة يقولون وعدنا محمد غدا وقد أصبحنا لا يخبرنا بشيء حتى حزن النبي صلى الله عليه وسلم من مكث الوحي وشق عليه ما يقوله أهل مكة",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -967,7 +1110,8 @@
       "author": "",
       "locator": "سورة الكهف؛ رقم الآية غير مذكور",
       "quotedArabic": "ولا تقولن لشيء إني فاعل ذلك غدا إلا أن يشاء الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -977,7 +1121,8 @@
       "author": "",
       "locator": "سورة الكهف؛ رقم الآية غير مذكور",
       "quotedArabic": "أما حسبت أن أصحاب الكهفة والرقيم كانوا من آياتنا عجبة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -987,7 +1132,8 @@
       "author": "",
       "locator": "سورة الكهف؛ رقم الآية غير مذكور",
       "quotedArabic": "ويسألونك عن ذي القرنين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -997,7 +1143,8 @@
       "author": "",
       "locator": "سورة الإسراء؛ رقم الآية غير مذكور",
       "quotedArabic": "ويسألونك عن الروح قل الروح من أمر ربي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1007,7 +1154,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c27"
     },
     {
       "citationType": "person",
@@ -1017,7 +1165,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -1027,7 +1176,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c29"
     },
     {
       "citationType": "book",
@@ -1037,7 +1187,8 @@
       "author": "",
       "locator": "الإصحاح غير مذكور في الفيديو",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "event",
@@ -1047,7 +1198,8 @@
       "author": "",
       "locator": "أفسس؛ عددهم سبعة أو ثمانية بحسب عرض المتحدث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "book",
@@ -1057,7 +1209,8 @@
       "author": "",
       "locator": "مقالة غير محددة العنوان أو الرابط",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "person",
@@ -1067,7 +1220,8 @@
       "author": "",
       "locator": "نحو سنة 250م كما ذُكر",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "event",
@@ -1077,7 +1231,8 @@
       "author": "",
       "locator": "سنة 250م كما ذُكرت",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "event",
@@ -1087,7 +1242,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
@@ -1097,7 +1253,8 @@
       "author": "",
       "locator": "18:22",
       "quotedArabic": "سيقولون ثلاثة رابعهم كلبهم ويقولون خمسة سادسهم كلبهم رجما بالغيب ويقولون سبعة وثامنهم كلبهم قل ربي أعلم بعددهم ما يعلمهم إلا قليل",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c36"
     },
     {
       "citationType": "book",
@@ -1107,7 +1264,8 @@
       "author": "",
       "locator": "الإصحاح 8",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c37"
     },
     {
       "citationType": "person",
@@ -1117,7 +1275,8 @@
       "author": "",
       "locator": "السنة الثالثة من عهده كما ذُكر",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c38"
     },
     {
       "citationType": "book",
@@ -1127,7 +1286,8 @@
       "author": "",
       "locator": "الإصحاح 8، العدد 1 كما قيل في الفيديو",
       "quotedArabic": "في السنة الثالثة من عهد بلشصر الملك رأيت أنا دانيال رؤيا بعد الرؤيا التي ظهرت لي في البداية، فرأيت في رؤياي أن في شوشان العاصمة التي بإقليم عيلام وكنت واقفا على نهر أولاي، ورفعت عيني ونظرت فإذا بكبش واقف عند النهر وله قرنان عاليان أحدهما أعلى من الآخر والأعلى نبت بعده",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1137,7 +1297,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c40"
     },
     {
       "citationType": "person",
@@ -1147,7 +1308,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c41"
     },
     {
       "citationType": "book",
@@ -1157,7 +1319,8 @@
       "author": "",
       "locator": "الإصحاح 8، العدد 4",
       "quotedArabic": "ورأيت الكبش ذو قرنين ينطح نحو الغرب والشمال والجنوب فما وقف أمامه حيوان ولا كان منقذ من يده فعمل ما يرضيه وصار عظيما",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c42"
     },
     {
       "citationType": "person",
@@ -1167,7 +1330,8 @@
       "author": "",
       "locator": "دانيال 8 بحسب عرض المتحدث",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c43"
     },
     {
       "citationType": "book",
@@ -1177,7 +1341,8 @@
       "author": "",
       "locator": "الإصحاح 8، العدد 20",
       "quotedArabic": "الكبش الذي رأيته وله قرنان هو ملوك مادي وفارس",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c44"
     },
     {
       "citationType": "book",
@@ -1187,7 +1352,8 @@
       "author": "",
       "locator": "الإصحاح 8، ابتداء من العدد 5 كما ذُكر",
       "quotedArabic": "وبينما أنا أتبين ما يجري إذا بتيس ماعز أقبل من الغرب فصار على وجه الأرض كلها وهو لسرعته يكاد لا يمس الأرض، وكان لهذا التيس قرن بارز بين عينيه، فجاء إلى الكبش ذي القرنين الذي رأيته واقفا عند النهر وهجم عليه بغضب شديد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c45"
     },
     {
       "citationType": "book",
@@ -1197,7 +1363,8 @@
       "author": "",
       "locator": "الإصحاح 8؛ الأعداد التفصيلية غير مذكورة",
       "quotedArabic": "فتعاظم تيس الماعز جدا، ولما اعتز انكسر القرن العظيم وطلع من تحته أربعة قرون بارزة نحو رياح السماء الأربعة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c46"
     },
     {
       "citationType": "person",
@@ -1207,7 +1374,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c47"
     },
     {
       "citationType": "event",
@@ -1217,7 +1385,8 @@
       "author": "",
       "locator": "لا معركة أو تاريخ محدد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c48"
     },
     {
       "citationType": "book",
@@ -1227,7 +1396,8 @@
       "author": "",
       "locator": "لا نص أو نسخة محددة",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c49"
     },
     {
       "citationType": "quran",
@@ -1237,7 +1407,8 @@
       "author": "",
       "locator": "سورة الكهف؛ رقم الآية غير مذكور",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c50"
     },
     {
       "citationType": "quran",
@@ -1247,7 +1418,8 @@
       "author": "",
       "locator": "سورة الكهف؛ أرقام الآيات غير مذكورة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c51"
     }
   ],
   "topicProposals": [

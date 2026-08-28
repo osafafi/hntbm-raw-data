@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "RPdZj2MPzE0",
   "videoUrl": "https://www.youtube.com/watch?v=RPdZj2MPzE0",
   "videoTitle": "صندوق الاسلام 61 : حقيقة الإعجاز العلمي في القران أطوار الجنين",
@@ -96,7 +96,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the speakers accurately distinguish empirical scientific claims from metaphysical claims and whether that distinction alone bears on authorship rather than only on testability."
+      "verificationNote": "Assess whether the speakers accurately distinguish empirical scientific claims from metaphysical claims and whether that distinction alone bears on authorship rather than only on testability.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:16",
@@ -111,7 +112,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate each Qur'anic passage, verify the exact Arabic and classical interpretive range, and compare the speakers' literal readings with relevant astronomy rather than assuming their glosses."
+      "verificationNote": "Locate each Qur'anic passage, verify the exact Arabic and classical interpretive range, and compare the speakers' literal readings with relevant astronomy rather than assuming their glosses.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:04:03",
@@ -126,7 +132,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check representative scientific-miracle arguments about the Big Bang and evolution and determine whether the alleged selective acceptance is characteristic or overgeneralized."
+      "verificationNote": "Check representative scientific-miracle arguments about the Big Bang and evolution and determine whether the alleged selective acceptance is characteristic or overgeneralized.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:48",
@@ -140,7 +150,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the stated Qur'anic sequence with current embryology references, paying particular attention to what each Arabic stage term denotes and to the timing of osteogenesis and myogenesis."
+      "verificationNote": "Compare the stated Qur'anic sequence with current embryology references, paying particular attention to what each Arabic stage term denotes and to the timing of osteogenesis and myogenesis.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:34",
@@ -154,7 +167,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess this historical-contextual principle against the language and reception of the cited passages; the transcript offers it as a general inference rather than a demonstrated result."
+      "verificationNote": "Assess this historical-contextual principle against the language and reception of the cited passages; the transcript offers it as a general inference rather than a demonstrated result.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:14",
@@ -168,7 +182,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Review the history of scientific-miracle exegesis for documented cases in which a verse's proposed scientific referent changed after a scientific theory changed."
+      "verificationNote": "Review the history of scientific-miracle exegesis for documented cases in which a verse's proposed scientific referent changed after a scientific theory changed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:59",
@@ -183,7 +198,14 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify which al-Razi is intended and locate explicit statements by each named scholar allowing scientific interpretation; also verify how each interpreted the cited phrase from Surat al-An'am."
+      "verificationNote": "Identify which al-Razi is intended and locate explicit statements by each named scholar allowing scientific interpretation; also verify how each interpreted the cited phrase from Surat al-An'am.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:11:21",
@@ -198,7 +220,13 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the stated rule in al-Shatibi and explicit positions in works by Amin al-Khuli, Muhammad al-Dhahabi and Mahmud Shaltut; verify wording and context rather than treating the transcript's formulation as a quotation."
+      "verificationNote": "Locate the stated rule in al-Shatibi and explicit positions in works by Amin al-Khuli, Muhammad al-Dhahabi and Mahmud Shaltut; verify wording and context rather than treating the transcript's formulation as a quotation.",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:09:31",
@@ -213,7 +241,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey the history of modern scientific-miracle publications for prospective discoveries genuinely derived from scripture versus retrospective alignments after external scientific publication."
+      "verificationNote": "Survey the history of modern scientific-miracle publications for prospective discoveries genuinely derived from scripture versus retrospective alignments after external scientific publication.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:13",
@@ -228,7 +257,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check premodern Arabic lexica and Qur'anic exegesis for the semantic range of dharra, and distinguish lexical meaning from the modern Arabic technical term for atom."
+      "verificationNote": "Check premodern Arabic lexica and Qur'anic exegesis for the semantic range of dharra, and distinguish lexical meaning from the modern Arabic technical term for atom.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:12:52",
@@ -243,7 +275,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the reading and relevance of the manuscript name as stated, and test the proposed meaning of sulala against early manuscripts, lexica and classical tafsir of Qur'an 23:12."
+      "verificationNote": "Verify the reading and relevance of the manuscript name as stated, and test the proposed meaning of sulala against early manuscripts, lexica and classical tafsir of Qur'an 23:12.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:13:42",
@@ -258,7 +294,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sense and attested usage of nutfa in early Arabic lexica and texts, and independently evaluate what reproductive knowledge was ordinary in Late Antiquity."
+      "verificationNote": "Check the sense and attested usage of nutfa in early Arabic lexica and texts, and independently evaluate what reproductive knowledge was ordinary in Late Antiquity.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:31",
@@ -273,7 +310,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the semantic range of alaqa and whether lazib in Qur'an 37:11 is a valid lexical parallel; compare early tafsir with modern leech analogies."
+      "verificationNote": "Check the semantic range of alaqa and whether lazib in Qur'an 37:11 is a valid lexical parallel; compare early tafsir with modern leech analogies.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:14:31",
@@ -288,7 +328,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check early Arabic usage, lexica and tafsir for mudgha, including whether 'piece of flesh' is an early sense and whether the later mention of flesh constrains it as the speaker argues."
+      "verificationNote": "Check early Arabic usage, lexica and tafsir for mudgha, including whether 'piece of flesh' is an early sense and whether the later mention of flesh constrains it as the speaker argues.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:15:22",
@@ -302,7 +345,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the exact Qur'anic syntax and compare the developmental timelines of cartilage, ossification and skeletal muscle in current embryology; avoid collapsing cartilage and bone or all soft tissue into one category."
+      "verificationNote": "Verify the exact Qur'anic syntax and compare the developmental timelines of cartilage, ossification and skeletal muscle in current embryology; avoid collapsing cartilage and bone or all soft tissue into one category.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:15:22",
@@ -317,7 +363,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Genesis 2:7 and the relevant potter passages in Jeremiah, then compare their wording and conceptual structure with the Qur'anic creation passages rather than inferring dependence from clay imagery alone."
+      "verificationNote": "Check Genesis 2:7 and the relevant potter passages in Jeremiah, then compare their wording and conceptual structure with the Qur'anic creation passages rather than inferring dependence from clay imagery alone.",
+      "citationRefs": [
+        "c20",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:10",
@@ -332,7 +382,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Qur'anic clay-bird passages and compare the sequence of shaping and breathing with the human-creation model and with any proposed earlier Christian parallels."
+      "verificationNote": "Locate the Qur'anic clay-bird passages and compare the sequence of shaping and breathing with the human-creation model and with any proposed earlier Christian parallels.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:16:58",
@@ -347,7 +400,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the exact Aramaic word intended by the transcript's pronunciation 'مصعة', verify its spelling and sense, and test whether the proposed undotted relation to mudgha is philologically possible."
+      "verificationNote": "Identify the exact Aramaic word intended by the transcript's pronunciation 'مصعة', verify its spelling and sense, and test whether the proposed undotted relation to mudgha is philologically possible.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:58",
@@ -362,7 +416,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Qur'an 22:5 and early tafsir of mukhallaqa wa-ghayr mukhallaqa, including miscarriage interpretations, and assess whether the speaker's clay-and-breath reading is textually supported."
+      "verificationNote": "Verify Qur'an 22:5 and early tafsir of mukhallaqa wa-ghayr mukhallaqa, including miscarriage interpretations, and assess whether the speaker's clay-and-breath reading is textually supported.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:18:30",
@@ -377,7 +434,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Establish the chronology of Arabic Galenic translations and compare pre-translation and Abbasid-era tafsir of the embryo verses to determine whether detailed stage mappings appear only after transmission."
+      "verificationNote": "Establish the chronology of Arabic Galenic translations and compare pre-translation and Abbasid-era tafsir of the embryo verses to determine whether detailed stage mappings appear only after transmission.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c28"
+      ]
     },
     {
       "timestamp": "00:18:30",
@@ -391,7 +453,14 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Galenic work intended, verify Hunayn ibn Ishaq's translation, date Galen, Aristotle and Hippocrates, and compare their actual stage descriptions with the Qur'anic and exegetical sequence."
+      "verificationNote": "Identify the Galenic work intended, verify Hunayn ibn Ishaq's translation, date Galen, Aristotle and Hippocrates, and compare their actual stage descriptions with the Qur'anic and exegetical sequence.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c28",
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:19:59",
@@ -405,7 +474,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the institutional and linguistic history of the Abbasid translation movement and separate the verifiable role of Syriac and Persian translators from the speaker's sweeping claim about Arabs lacking civilization."
+      "verificationNote": "Check the institutional and linguistic history of the Abbasid translation movement and separate the verifiable role of Syriac and Persian translators from the speaker's sweeping claim about Arabs lacking civilization.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:46",
@@ -419,7 +489,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the al-Razi work and passage, verify the exact experiment and attribution to Galen, and determine its relevance to embryological exegesis rather than medicine generally."
+      "verificationNote": "Identify the al-Razi work and passage, verify the exact experiment and attribution to Galen, and determine its relevance to embryological exegesis rather than medicine generally.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:21:32",
@@ -433,7 +506,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Bukhtishu' family's and Hunayn ibn Ishaq's documented translation and medical roles, and look for evidence that their work specifically affected tafsir of the embryo passages."
+      "verificationNote": "Check the Bukhtishu' family's and Hunayn ibn Ishaq's documented translation and medical roles, and look for evidence that their work specifically affected tafsir of the embryo passages.",
+      "citationRefs": [
+        "c32",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:22:22",
@@ -447,7 +524,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the scholar's exact name, dissertation title and findings; independently compare those findings with current embryology rather than using a single unspecified thesis as authority."
+      "verificationNote": "Verify the scholar's exact name, dissertation title and findings; independently compare those findings with current embryology rather than using a single unspecified thesis as authority.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:23:11",
@@ -461,7 +541,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate these claims in Galen's embryological works and check the translation of the relevant physiological categories; compare them separately with modern reproductive biology."
+      "verificationNote": "Locate these claims in Galen's embryological works and check the translation of the relevant physiological categories; compare them separately with modern reproductive biology.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:24:34",
@@ -475,7 +558,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the forty-day report in hadith or tafsir and the six-day claims in Aristotle and Hippocrates, verify what stage each duration describes, and compare them with modern developmental chronology."
+      "verificationNote": "Locate the forty-day report in hadith or tafsir and the six-day claims in Aristotle and Hippocrates, verify what stage each duration describes, and compare them with modern developmental chronology.",
+      "citationRefs": [
+        "c35",
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:24:34",
@@ -490,7 +578,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse's exact wording and grammatical referents, survey classical and modern interpretations of sulb and tara'ib, and compare the claimed anatomy with reproductive physiology."
+      "verificationNote": "Verify the verse's exact wording and grammatical referents, survey classical and modern interpretations of sulb and tara'ib, and compare the claimed anatomy with reproductive physiology.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:26:04",
@@ -505,7 +596,14 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Test the full transmission claim chronologically: compare pre-Abbasid Qur'anic commentary, Galenic texts, Arabic translations and later tafsir, and verify which elements modern embryology rejects."
+      "verificationNote": "Test the full transmission claim chronologically: compare pre-Abbasid Qur'anic commentary, Galenic texts, Arabic translations and later tafsir, and verify which elements modern embryology rejects.",
+      "citationRefs": [
+        "c6",
+        "c26",
+        "c27",
+        "c28",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:26:50",
@@ -520,7 +618,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the proposed criterion of prospective predictive usefulness and document whether the phrase 'creates what you do not know' has in fact been used for the technologies the speaker lists."
+      "verificationNote": "Evaluate the proposed criterion of prospective predictive usefulness and document whether the phrase 'creates what you do not know' has in fact been used for the technologies the speaker lists.",
+      "citationRefs": [
+        "c37"
+      ]
     }
   ],
   "citations": [
@@ -529,35 +630,40 @@
       "timestamp": "00:03:16",
       "asStatedInVideo": "زيّنا السماء الدنيا بمصابيح، وجعلناها رجوماً للشياطين",
       "quotedArabic": "زيّنا السماء الدنيا بمصابيح، وجعلناها رجوماً للشياطين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
       "timestamp": "00:03:16",
       "asStatedInVideo": "فوجدها تغرب في عين حميئة",
       "quotedArabic": "فوجدها تغرب في عين حميئة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
       "timestamp": "00:04:03",
       "asStatedInVideo": "والشمس تجري لمستقر لها",
       "quotedArabic": "والشمس تجري لمستقر لها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
       "timestamp": "00:04:03",
       "asStatedInVideo": "أوَلم يروا أن السماوات والأرض كانت رتقاً ففتقناهما — يقول لك دا القرآن بيتكلم عن الانفجار العظيم",
       "quotedArabic": "أوَلم يروا أن السماوات والأرض كانت رتقاً ففتقناهما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:03",
       "asStatedInVideo": "داروين — إيه موقعه في القرآن؟",
       "locator": "داروين",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -565,35 +671,40 @@
       "asStatedInVideo": "في آية في سورة المؤمنون بتشرح مراحل تطور الجنين: ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظاماً فكسونا العظام لحماً ثم أنشأناه خلقاً آخر فتبارك الله أحسن الخالقين",
       "workTitle": "سورة المؤمنون",
       "quotedArabic": "ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظاماً فكسونا العظام لحماً ثم أنشأناه خلقاً آخر فتبارك الله أحسن الخالقين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:59",
       "asStatedInVideo": "الرازي أبو بكر الرازي — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
       "locator": "أبو بكر الرازي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:59",
       "asStatedInVideo": "السيوطي — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
       "locator": "السيوطي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:59",
       "asStatedInVideo": "الإمام الغزالي — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
       "locator": "الغزالي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:59",
       "asStatedInVideo": "محمد عبده — من علماء الإسلام الذين يقولون بجواز الإعجاز العلمي",
       "locator": "محمد عبده",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -601,14 +712,16 @@
       "asStatedInVideo": "ما فرطنا في الكتاب من شيء — في سورة الأنعام",
       "workTitle": "سورة الأنعام",
       "quotedArabic": "ما فرطنا في الكتاب من شيء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
       "timestamp": "00:10:13",
       "asStatedInVideo": "نحن عندنا في القرآن كلمة: وَمَنْ يَعْمَلْ مَنْ يَشْتِقَلَ دَرَاتٍ خَيْراً يَرَى",
       "quotedArabic": "وَمَنْ يَعْمَلْ مَنْ يَشْتِقَلَ دَرَاتٍ خَيْراً يَرَى",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -616,28 +729,32 @@
       "asStatedInVideo": "الإمام الشاطبي — أكبر شخص قال إنه لا يجوز القول بالإعجاز العلمي",
       "locator": "الإمام الشاطبي",
       "quotedArabic": "لا يجوز لأحد أن يفسر آي القرآن الكريم بما لم يكن معروف عند الصحابة مما جد فيما بعد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:21",
       "asStatedInVideo": "الشيخ أمين الخولي — ممن قالوا إنه لا يجوز القول بالإعجاز العلمي",
       "locator": "أمين الخولي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:21",
       "asStatedInVideo": "الشيخ محمد الذهبي — ممن قالوا إنه لا يجوز القول بالإعجاز العلمي",
       "locator": "محمد الذهبي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:21",
       "asStatedInVideo": "الشيخ محمود شلتوت، شيخ الأزهر السابق وأول واحد أخذ لقب الإمام الأكبر",
       "locator": "محمود شلتوت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -646,14 +763,16 @@
       "workTitle": "سورة المؤمنون",
       "locator": "12",
       "quotedArabic": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ مِنْ سُلَالَةٍ مِنْ طِينٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "book",
       "timestamp": "00:12:52",
       "asStatedInVideo": "تكلمنا عن هذا الموضوع في مخطوطة صلال وصلصال، باريزينو بيترو بوليتانوس",
       "workTitle": "باريزينو بيترو بوليتانوس",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -662,7 +781,8 @@
       "workTitle": "سورة الصافات",
       "locator": "11",
       "quotedArabic": "إن خلقناهم من طين لازب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "book",
@@ -670,34 +790,39 @@
       "asStatedInVideo": "في التوراة في سفر التكوين، الإصحاح اثنين، الآية سبعة، يتكلم عن التراب، يعني إن آدم خلق من تراب",
       "workTitle": "سفر التكوين",
       "locator": "الإصحاح 2، الآية 7",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
       "timestamp": "00:15:22",
       "asStatedInVideo": "آدم خلق من تراب",
       "locator": "آدم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "book",
       "timestamp": "00:16:10",
       "asStatedInVideo": "وفي سفر إرميا بيحكي عن هذا الفخاري، عن هذا التشكيل",
       "workTitle": "سفر إرميا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:10",
       "asStatedInVideo": "في القرآن بالنسبة للمعجزة اللي عملها المسيح، ويخلق لكم من الطين كهذا، فهيأتي طائر فينفخوا فيه الروح",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "person",
       "timestamp": "00:16:10",
       "asStatedInVideo": "المسيح — المعجزة التي يعمل فيها من الطين هيئة طائر وينفخ فيه",
       "locator": "المسيح",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -706,92 +831,104 @@
       "workTitle": "سورة الحج",
       "locator": "5",
       "quotedArabic": "مخلقة وغير مخلقة",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
       "timestamp": "00:18:30",
       "asStatedInVideo": "حنين بن إسحاق، مترجم وشخص مسيحي معروف، ترجم كتاباً لجالينيوس",
       "locator": "حنين بن إسحاق",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
       "timestamp": "00:18:30",
       "asStatedInVideo": "غالينيوس، الطبيب الذي عاش قبل الإسلام وأعطى تفاصيل الأربع مراحل",
       "locator": "غالينيوس / جالينيوس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "book",
       "timestamp": "00:18:30",
       "asStatedInVideo": "ترجم كتاباً لغالينيوس",
       "author": "غالينيوس",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c28"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:19",
       "asStatedInVideo": "عندنا أريستو حتى من قبل، وأبو قراط، دول كلموا عن هذا الموضوع",
       "locator": "أريستو / أرسطو",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:19",
       "asStatedInVideo": "أبو قراط — تكلم عن هذا الموضوع قبل الإسلام",
       "locator": "أبو قراط",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
       "timestamp": "00:20:46",
       "asStatedInVideo": "الرازي يتحدث عن أن جالينيوس بقر قرد وأدخل يده وجده في بطنه ثم أدخل أصبعه في قلبه وجده حاراً",
       "locator": "الرازي",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c31"
     },
     {
       "citationType": "person",
       "timestamp": "00:21:32",
       "asStatedInVideo": "حنين بن إسحاق — كانت قبله عيلة مثقفة تترجم من علماء وأطباء، عائلة بخت يشوع",
       "locator": "حنين بن إسحاق",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "person",
       "timestamp": "00:21:32",
       "asStatedInVideo": "عائلة بخت يشوع — عيلة مثقفة كانت تترجم من علماء وأطباء",
       "locator": "عائلة بخت يشوع",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "person",
       "timestamp": "00:22:22",
       "asStatedInVideo": "دكتورة فرنسية اسمها كريستين بونيت كاديلاك عملت رسالة الدكتوراه بتاعتها في الرد على جالينيوس",
       "locator": "كريستين بونيت كاديلاك",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c34"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:24:34",
       "asStatedInVideo": "بالنسبة لتفسير أو الأحاديث تقول إن هذه النطفة تعيش أربعين يوماً في الرحم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
       "timestamp": "00:24:34",
       "asStatedInVideo": "وإنما يخرج من بين الصلب والترائب",
       "quotedArabic": "يخرج من بين الصلب والترائب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "quran",
       "timestamp": "00:26:50",
       "asStatedInVideo": "ويخلق ما لا تعلمون — يقول لك ما لا تعلمون دي هي الطيارات والصواريخ والتوك توك",
       "quotedArabic": "ويخلق ما لا تعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     }
   ],
   "topicProposals": []
 }
-

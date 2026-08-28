@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "ftjBGAv1dYE",
   "videoUrl": "https://www.youtube.com/watch?v=ftjBGAv1dYE",
   "videoTitle": "الأخطاء التاريخية فى القرآن دليل على بشرية كاتبه",
@@ -87,7 +87,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether published i'jaz responses to the speaker's earlier episode exist and whether their readings depart from the classical exegetical glosses; this is a characterization of apologetic method rather than a source claim."
+      "verificationNote": "Check whether published i'jaz responses to the speaker's earlier episode exist and whether their readings depart from the classical exegetical glosses; this is a characterization of apologetic method rather than a source claim.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:28",
@@ -101,7 +102,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is the criterion the speaker sets for a divine text; an editor should note it as a stated premise of the argument rather than a checkable fact."
+      "verificationNote": "This is the criterion the speaker sets for a divine text; an editor should note it as a stated premise of the argument rather than a checkable fact.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:40",
@@ -117,7 +119,8 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the thesis statement of the episode; verification depends on the individual cases advanced below."
+      "verificationNote": "This is the thesis statement of the episode; verification depends on the individual cases advanced below.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:52",
@@ -133,7 +136,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 20:83-98 against Exodus 32 to confirm the parallel and the naming of al-Samiri in verses 85 and 87."
+      "verificationNote": "Read Q 20:83-98 against Exodus 32 to confirm the parallel and the naming of al-Samiri in verses 85 and 87.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:02:30",
@@ -150,7 +157,8 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check standard histories of Jewish–Samaritan relations for the antiquity of the enmity; the inference about the author's motive is the speaker's own."
+      "verificationNote": "Check standard histories of Jewish–Samaritan relations for the antiquity of the enmity; the inference about the author's motive is the speaker's own.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:06",
@@ -166,7 +174,12 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Britannica entries on Samaria, the Samaritans and Sargon II for the 722 BCE date, and check the range of scholarly datings proposed for Moses; note also that Muslim exegetes have offered other readings of al-Samiri (e.g. a tribal or place-based epithet)."
+      "verificationNote": "Check the Britannica entries on Samaria, the Samaritans and Sargon II for the 722 BCE date, and check the range of scholarly datings proposed for Moses; note also that Muslim exegetes have offered other readings of al-Samiri (e.g. a tribal or place-based epithet).",
+      "citationRefs": [
+        "c5",
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:40",
@@ -182,7 +195,11 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Inference drawn from the preceding dating claim; verification depends on that claim and on the exegetical alternatives for al-Samiri."
+      "verificationNote": "Inference drawn from the preceding dating claim; verification depends on that claim and on the exegetical alternatives for al-Samiri.",
+      "citationRefs": [
+        "c5",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:56",
@@ -197,7 +214,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 34:10-11 and al-Tabari's Jami' al-bayan on those verses to confirm the gloss of sabighat, the claim that David was the first to make them, and the statement about earlier plate armour."
+      "verificationNote": "Read Q 34:10-11 and al-Tabari's Jami' al-bayan on those verses to confirm the gloss of sabighat, the claim that David was the first to make them, and the statement about earlier plate armour.",
+      "citationRefs": [
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:04:41",
@@ -213,7 +234,10 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Britannica and specialist studies on the history of mail armour for its earliest attested date, and check what iron and bronze armour is archaeologically attested in the Levant around 1000 BCE."
+      "verificationNote": "Check Britannica and specialist studies on the history of mail armour for its earliest attested date, and check what iron and bronze armour is archaeologically attested in the Levant around 1000 BCE.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:05:10",
@@ -230,7 +254,12 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Inference from the previous claim about the dating of mail armour; no independent source is offered."
+      "verificationNote": "Inference from the previous claim about the dating of mail armour; no independent source is offered.",
+      "citationRefs": [
+        "c8",
+        "c9",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:05:28",
@@ -247,7 +276,13 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 7:120-124, Q 20:71 and Q 12:41 to confirm the references to crucifixion, and check the conventional datings assigned to Joseph and to the Exodus Pharaoh."
+      "verificationNote": "Read Q 7:120-124, Q 20:71 and Q 12:41 to confirm the references to crucifixion, and check the conventional datings assigned to Joseph and to the Exodus Pharaoh.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:05:50",
@@ -263,7 +298,10 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Egyptological literature on capital punishment in pharaonic Egypt — including impalement and exposure on a stake — before accepting the absolute claim that no form of crucifixion was practised there."
+      "verificationNote": "Check Egyptological literature on capital punishment in pharaonic Egypt — including impalement and exposure on a stake — before accepting the absolute claim that no form of crucifixion was practised there.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:06:14",
@@ -279,7 +317,10 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Britannica and specialist studies (e.g. on Persian, Assyrian and Roman practice) for the earliest attested date of crucifixion or impalement as a judicial penalty."
+      "verificationNote": "Check Britannica and specialist studies (e.g. on Persian, Assyrian and Roman practice) for the earliest attested date of crucifixion or impalement as a judicial penalty.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:06:59",
@@ -297,7 +338,8 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "General thesis; verification rests on the specific cases of Mary and Haman that follow."
+      "verificationNote": "General thesis; verification rests on the specific cases of Mary and Haman that follow.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:20",
@@ -312,7 +354,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Exodus 6:20 and Numbers 26:59 to confirm the genealogy of Amram's children."
+      "verificationNote": "Read Exodus 6:20 and Numbers 26:59 to confirm the genealogy of Amram's children.",
+      "citationRefs": [
+        "c16",
+        "c17"
+      ]
     },
     {
       "timestamp": "00:07:48",
@@ -329,7 +375,14 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Inference introducing the verses cited next; check also the classical exegetical replies that 'sister of Aaron' is an idiom of lineage or piety rather than sibling relation."
+      "verificationNote": "Inference introducing the verses cited next; check also the classical exegetical replies that 'sister of Aaron' is an idiom of lineage or piety rather than sibling relation.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c22",
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:08:00",
@@ -344,7 +397,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 20:19-36 to confirm the wording 'Harun akhi' in verse 30."
+      "verificationNote": "Read Q 20:19-36 to confirm the wording 'Harun akhi' in verse 30.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:08:20",
@@ -361,7 +417,10 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 19:27-28 to confirm the address 'ya ukhta Harun' and check the classical commentaries on how they explain it."
+      "verificationNote": "Read Q 19:27-28 to confirm the address 'ya ukhta Harun' and check the classical commentaries on how they explain it.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:08:35",
@@ -378,7 +437,12 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 66:12 and Q 3:33-36 on the family of Imran, and check whether classical exegetes identify this Imran with the biblical Amram or with a different figure."
+      "verificationNote": "Read Q 66:12 and Q 3:33-36 on the family of Imran, and check whether classical exegetes identify this Imran with the biblical Amram or with a different figure.",
+      "citationRefs": [
+        "c22",
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:08:50",
@@ -394,7 +458,15 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the dilemma against the exegetical and modern apologetic responses to the 'sister of Aaron' address before treating the two options as exhaustive."
+      "verificationNote": "Assess the dilemma against the exegetical and modern apologetic responses to the 'sister of Aaron' address before treating the two options as exhaustive.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c22",
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:09:20",
@@ -411,7 +483,13 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the argument really is internal to the Qur'anic text — that is, whether the identification of Imran with Amram rests only on Qur'anic data or also on the biblical genealogy."
+      "verificationNote": "Check whether the argument really is internal to the Qur'anic text — that is, whether the identification of Imran with Amram rests only on Qur'anic data or also on the biblical genealogy.",
+      "citationRefs": [
+        "c22",
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:10:08",
@@ -429,7 +507,13 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 28:38 alongside Genesis 11:1-9 and the book of Esther to assess the proposed fusion of the three narratives."
+      "verificationNote": "Read Q 28:38 alongside Genesis 11:1-9 and the book of Esther to assess the proposed fusion of the three narratives.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:10:30",
@@ -445,7 +529,10 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Egyptological literature on the use of mudbrick versus stone in monumental construction, including large mudbrick structures such as pylons, enclosure walls and the fired-brick question."
+      "verificationNote": "Check Egyptological literature on the use of mudbrick versus stone in monumental construction, including large mudbrick structures such as pylons, enclosure walls and the fired-brick question.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:10:54",
@@ -460,7 +547,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 40:36-37 to confirm the wording and the repetition of the Haman-and-tower motif."
+      "verificationNote": "Read Q 40:36-37 to confirm the wording and the repetition of the Haman-and-tower motif.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:11:00",
@@ -478,7 +568,13 @@
         "quran-historical-claims-conflated-biblical-figures"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the book of Esther for Haman's role, the reign dates of Xerxes I (486-465 BCE) implied here, onomastic studies of the name Haman, and the counter-argument from the Egyptian title/name read as 'Haman' in hieroglyphic sources advanced by some apologists."
+      "verificationNote": "Check the book of Esther for Haman's role, the reign dates of Xerxes I (486-465 BCE) implied here, onomastic studies of the name Haman, and the counter-argument from the Egyptian title/name read as 'Haman' in hieroglyphic sources advanced by some apologists.",
+      "citationRefs": [
+        "c29",
+        "c30",
+        "c31",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:11:44",
@@ -495,7 +591,10 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 12:20; then check the history of the term dirham, its derivation from the Greek drachma and its circulation in pre-Islamic Arabia, which bears on the claim that the name postdates Joseph."
+      "verificationNote": "Read Q 12:20; then check the history of the term dirham, its derivation from the Greek drachma and its circulation in pre-Islamic Arabia, which bears on the claim that the name postdates Joseph.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:12:30",
@@ -511,7 +610,12 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check numismatic literature on the earliest struck coinage (Lydia, c. 600 BCE) and on pre-coinage weighed silver (hacksilver) in the Bronze Age Near East, and the datings proposed for Joseph."
+      "verificationNote": "Check numismatic literature on the earliest struck coinage (Lydia, c. 600 BCE) and on pre-coinage weighed silver (hacksilver) in the Bronze Age Near East, and the datings proposed for Joseph.",
+      "citationRefs": [
+        "c32",
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:13:15",
@@ -528,7 +632,10 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Bronze Age Near Eastern commercial practice (weighed silver, shekel as a weight unit) and the Arabic lexicography of mithqal; also check Genesis 37:28 which gives a number of pieces of silver, which bears on the 'counted' objection."
+      "verificationNote": "Check Bronze Age Near Eastern commercial practice (weighed silver, shekel as a weight unit) and the Arabic lexicography of mithqal; also check Genesis 37:28 which gives a number of pieces of silver, which bears on the 'counted' objection.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:13:40",
@@ -545,7 +652,35 @@
         "quran-historical-claims-anachronisms"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Final synthesis; its force depends entirely on the individual dating and identification claims listed above."
+      "verificationNote": "Final synthesis; its force depends entirely on the individual dating and identification claims listed above.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c5",
+        "c7",
+        "c8",
+        "c9",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c22",
+        "c23",
+        "c24",
+        "c25",
+        "c26",
+        "c27",
+        "c28",
+        "c30",
+        "c31",
+        "c32",
+        "c33",
+        "c34",
+        "c35"
+      ]
     }
   ],
   "citations": [
@@ -556,7 +691,8 @@
       "workTitle": "القرآن — سورة طه",
       "locator": "20:84-85",
       "quotedArabic": "وما أعجلك عن قومك يا موسى ... فإنا قد فتن قومك من بعدك وأضلهم السامري",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -565,39 +701,45 @@
       "workTitle": "القرآن — سورة طه",
       "locator": "20:87",
       "quotedArabic": "ألقى السامري",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:18",
       "asStatedInVideo": "موسى النبي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:05",
       "asStatedInVideo": "السامري",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
       "timestamp": "00:03:06",
       "asStatedInVideo": "السامرة فلم تؤسس ولم يوجد السامريين لحد سنة 722 قبل الميلاد بعد سقوط المملكة الشمالية لإسرائيل",
       "locator": "722 قبل الميلاد",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:06",
       "asStatedInVideo": "الملك الأشوري سارجون الثاني",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "book",
       "timestamp": "00:03:20",
       "asStatedInVideo": "هتلاقيني حاطط المصادر تحت الفيديو من الموسوعة البريطانية",
       "workTitle": "Encyclopaedia Britannica",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -606,7 +748,8 @@
       "workTitle": "القرآن — سورة سبأ",
       "locator": "34:10-11",
       "quotedArabic": "ولقد آتينا داود مننا فضلة ... أنعمل سابغات وقدر في السرد",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -615,13 +758,15 @@
       "workTitle": "تفسير الطبري (جامع البيان)",
       "author": "محمد بن جرير الطبري",
       "locator": "تفسير سورة سبأ 10-11",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:56",
       "asStatedInVideo": "داود",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "book",
@@ -629,7 +774,8 @@
       "asStatedInVideo": "أهمها مرة تانية الموسوعة البريطانية في تاريخ الدروع الوقائية وأسلوب تطويرها وصناعتها من حديد",
       "workTitle": "Encyclopaedia Britannica",
       "locator": "مادة تاريخ الدروع الواقية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -637,7 +783,8 @@
       "asStatedInVideo": "سورة الأعراف من آية 100 وعشرين لآية 124",
       "workTitle": "القرآن — سورة الأعراف",
       "locator": "7:120-124",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -645,7 +792,8 @@
       "asStatedInVideo": "وسورة طه آية 71",
       "workTitle": "القرآن — سورة طه",
       "locator": "20:71",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -653,7 +801,8 @@
       "asStatedInVideo": "وسورة يوسف آية 41",
       "workTitle": "القرآن — سورة يوسف",
       "locator": "12:41",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "book",
@@ -661,7 +810,8 @@
       "asStatedInVideo": "حتلاقيني حاطة مصادر الموسوعة البريطانية وتاريخ عقوبة الصلب كأسلوب تعذيب",
       "workTitle": "Encyclopaedia Britannica",
       "locator": "مادة تاريخ عقوبة الصلب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "book",
@@ -669,38 +819,44 @@
       "asStatedInVideo": "في سفر الخروج إصحاح 6 عدد 20 بيقول لنا بوضوح إن موسى وهارون هم أولاد واحد اسمه عمرام",
       "workTitle": "سفر الخروج (التوراة)",
       "locator": "6:20",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "book",
       "timestamp": "00:07:40",
       "asStatedInVideo": "وفي سفر العدد بيؤكد على إن موسى وهارون ومريم هم أولاد عمرام",
       "workTitle": "سفر العدد (التوراة)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:20",
       "asStatedInVideo": "مريم النبية أخت موسى، المذكورة في التقليد اليهودي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:30",
       "asStatedInVideo": "هارون أخو موسى، معاونه في خدمة شعب بني إسرائيل",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:20",
       "asStatedInVideo": "عمرام والد موسى وهارون ومريم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:48",
       "asStatedInVideo": "المسيح يسوع النصري أو عيسى بن مريم مولودا من عذراء",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -709,7 +865,8 @@
       "workTitle": "القرآن — سورة طه",
       "locator": "20:19-30",
       "quotedArabic": "ألقها يا موسى ... هارون أخي",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -718,7 +875,8 @@
       "workTitle": "القرآن — سورة مريم",
       "locator": "19:27-28",
       "quotedArabic": "يا مريم يا أخت هارون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -727,19 +885,22 @@
       "workTitle": "القرآن — سورة التحريم",
       "locator": "66:12",
       "quotedArabic": "ومريم ابنة عمران التي أحصنت فرجها فنفخنا فيه من روحنا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "event",
       "timestamp": "00:09:20",
       "asStatedInVideo": "مريم أم المسيح اللي جيه في القرن الأول الميلادي في زمن الإمبراطورية الرومانية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "event",
       "timestamp": "00:10:08",
       "asStatedInVideo": "قصة برج بابل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -748,7 +909,8 @@
       "workTitle": "القرآن — سورة القصص",
       "locator": "28:38",
       "quotedArabic": "وقال فرعون فأوقد لي يا هامان على الطين فأجعل لي صرحة لعلي أطلع إلى إله موسى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
@@ -757,27 +919,31 @@
       "workTitle": "القرآن — سورة غافر",
       "locator": "40:36-37",
       "quotedArabic": "وقال فرعون يا هامان ابني لي صرحاً لعلي أبلغ الأسباب أسباب السماوات فأطلع إلى إله موسى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:00",
       "asStatedInVideo": "هامان، وزير شرير في قصة أستير",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c29"
     },
     {
       "citationType": "book",
       "timestamp": "00:11:15",
       "asStatedInVideo": "قصة أستير أحد كتب اليهود",
       "workTitle": "سفر أستير",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "event",
       "timestamp": "00:11:30",
       "asStatedInVideo": "هامان طبقاً لكتابات اليونانيين حكم ما بين سنة 486 و465 قبل الميلاد في فارس",
       "locator": "486-465 قبل الميلاد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -786,26 +952,30 @@
       "workTitle": "القرآن — سورة يوسف",
       "locator": "12:20",
       "quotedArabic": "وشروه بثمن بخص ودراهم معدودة",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c32"
     },
     {
       "citationType": "person",
       "timestamp": "00:12:30",
       "asStatedInVideo": "سيدنا يوسف ده كان عايش سنة 1800 قبل الميلاد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "event",
       "timestamp": "00:12:45",
       "asStatedInVideo": "تاريخ العملات المعدنية أساساً أيا كان اسم العملة ظهرت سنة 600 قبل الميلاد",
       "locator": "600 قبل الميلاد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:28",
       "asStatedInVideo": "فرعون موسى سنة 1400 قبل الميلاد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     }
   ],
   "topicProposals": [

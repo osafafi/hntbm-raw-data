@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "tfEFS_TkeB4",
   "videoUrl": "https://www.youtube.com/watch?v=tfEFS_TkeB4",
   "videoTitle": "القرآن وخرافة ذو القرنين - خطأ علمي فشل الشيوخ فى الرد عليه",
@@ -87,7 +87,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether this conclusion follows from the speaker's later textual and historical comparisons; it is a philosophical inference rather than a separately sourced historical fact."
+      "verificationNote": "Check whether this conclusion follows from the speaker's later textual and historical comparisons; it is a philosophical inference rather than a separately sourced historical fact.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:36",
@@ -103,7 +104,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare Qur'an 18:83–96 with pre-Islamic Alexander traditions and assess whether the verse necessarily asserts the physical cosmology alleged by the speaker."
+      "verificationNote": "Compare Qur'an 18:83–96 with pre-Islamic Alexander traditions and assess whether the verse necessarily asserts the physical cosmology alleged by the speaker.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:36",
@@ -118,7 +122,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Arabic wording and canonical readings of Qur'an 18:86, then compare literal, classical exegetical, and phenomenological interpretations."
+      "verificationNote": "Check the Arabic wording and canonical readings of Qur'an 18:86, then compare literal, classical exegetical, and phenomenological interpretations.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:03:45",
@@ -133,7 +140,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the readings of Qur'an 18:86 in the canonical qira'at literature, including which readers transmit each form and how classical lexicons gloss them."
+      "verificationNote": "Verify the readings of Qur'an 18:86 in the canonical qira'at literature, including which readers transmit each form and how classical lexicons gloss them.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:06:03",
@@ -149,7 +159,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate separately the linguistic reading of the Qur'anic passage, the dates and contents of proposed source texts, and evidence for a transmission route into the Qur'anic milieu."
+      "verificationNote": "Evaluate separately the linguistic reading of the Qur'anic passage, the dates and contents of proposed source texts, and evidence for a transmission route into the Qur'anic milieu.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:03",
@@ -164,7 +175,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Qur'anic figure with Alexander traditions and review the range of historical identifications proposed by early exegetes and modern scholars."
+      "verificationNote": "Compare the Qur'anic figure with Alexander traditions and review the range of historical identifications proposed by early exegetes and modern scholars.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:06:03",
@@ -179,7 +193,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which traditions concerning Alexander, Muhammad, and Jesus the speaker may have in mind and assess their dates, sources, and historical status individually."
+      "verificationNote": "Identify which traditions concerning Alexander, Muhammad, and Jesus the speaker may have in mind and assess their dates, sources, and historical status individually.",
+      "citationRefs": [
+        "c3",
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:06:48",
@@ -194,7 +213,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the dating, language, textual strata, and Pseudo-Callisthenes attribution of the Alexander Romance in critical editions and manuscript scholarship."
+      "verificationNote": "Verify the dating, language, textual strata, and Pseudo-Callisthenes attribution of the Alexander Romance in critical editions and manuscript scholarship.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:06:48",
@@ -209,7 +232,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check catalogued manuscripts, translations, and scholarly dating for the Greek, Latin, Armenian, and Syriac recensions, distinguishing the Romance from later Syriac Alexander texts."
+      "verificationNote": "Check catalogued manuscripts, translations, and scholarly dating for the Greek, Latin, Armenian, and Syriac recensions, distinguishing the Romance from later Syriac Alexander texts.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:29",
@@ -225,7 +251,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the relevant Jewish and Talmudic Alexander traditions, verify their dates and episodes, and determine whether they predate Islam and resemble the Qur'anic material."
+      "verificationNote": "Locate the relevant Jewish and Talmudic Alexander traditions, verify their dates and episodes, and determine whether they predate Islam and resemble the Qur'anic material.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:08:16",
@@ -240,7 +269,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the exact Syriac Alexander text and passage, verify its wording and date, and compare it line by line with Qur'an 18:90."
+      "verificationNote": "Identify the exact Syriac Alexander text and passage, verify its wording and date, and compare it line by line with Qur'an 18:90.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:08:16",
@@ -255,7 +287,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the relevant Syriac Alexander recension for Gog and Magog, the barrier's materials, and its relationship in date and wording to Qur'an 18:93–98."
+      "verificationNote": "Check the relevant Syriac Alexander recension for Gog and Magog, the barrier's materials, and its relationship in date and wording to Qur'an 18:93–98.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:09:06",
@@ -270,7 +305,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Analyze the Arabic syntax, repeated verb balagha, spatial nouns, and narrative sequence across Qur'an 18:83–96, including alternative exegetical readings."
+      "verificationNote": "Analyze the Arabic syntax, repeated verb balagha, spatial nouns, and narrative sequence across Qur'an 18:83–96, including alternative exegetical readings.",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:09:06",
@@ -285,7 +325,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey early and major classical tafsir works on Qur'an 18:86 to test the claimed consensus and distinguish lexical glosses of hami'a from views about whether the setting is literal or apparent."
+      "verificationNote": "Survey early and major classical tafsir works on Qur'an 18:86 to test the claimed consensus and distinguish lexical glosses of hami'a from views about whether the setting is literal or apparent.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:51",
@@ -300,7 +341,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the grammatical and narrative construction of Qur'an 18:86, 18:90, and 18:93 and assess whether the parallelism requires identical spatial senses."
+      "verificationNote": "Compare the grammatical and narrative construction of Qur'an 18:86, 18:90, and 18:93 and assess whether the parallelism requires identical spatial senses.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:09:51",
@@ -315,7 +361,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the syntax and semantic range of wajada in Qur'an 18:86–93 and in comparable Classical Arabic usage, including constructions that can introduce perception."
+      "verificationNote": "Examine the syntax and semantic range of wajada in Qur'an 18:86–93 and in comparable Classical Arabic usage, including constructions that can introduce perception.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:10:38",
@@ -331,7 +382,14 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report in al-Tabari or its earlier sources, verify its isnad and wording, and determine whether Ka'b's statement concerns the physical setting of the sun or only the correct reading."
+      "verificationNote": "Locate the report in al-Tabari or its earlier sources, verify its isnad and wording, and determine whether Ka'b's statement concerns the physical setting of the sun or only the correct reading.",
+      "citationRefs": [
+        "c19",
+        "c20",
+        "c21",
+        "c22",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:11:28",
@@ -347,7 +405,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the report's context and Ka'b's role, then assess whether requesting his view supports the proposed inference about Jewish cosmological transmission."
+      "verificationNote": "Verify the report's context and Ka'b's role, then assess whether requesting his view supports the proposed inference about Jewish cosmological transmission.",
+      "citationRefs": [
+        "c19",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:28",
@@ -363,7 +425,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the relevant Talmudic passages, establish their textual dates and Alexander content, and test whether Ka'b could plausibly have drawn on them."
+      "verificationNote": "Identify the relevant Talmudic passages, establish their textual dates and Alexander content, and test whether Ka'b could plausibly have drawn on them.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:12:12",
@@ -378,7 +443,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the Arabic term ayn must denote a small spring and whether classical or geographical usage permits a large body of water capable of producing the described visual effect."
+      "verificationNote": "Check whether the Arabic term ayn must denote a small spring and whether classical or geographical usage permits a large body of water capable of producing the described visual effect.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:58",
@@ -394,7 +460,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the exact Qur'anic and Syriac passages, establish relative dating, and investigate evidence for transmission through Syriac or Jewish intermediaries."
+      "verificationNote": "Compare the exact Qur'anic and Syriac passages, establish relative dating, and investigate evidence for transmission through Syriac or Jewish intermediaries.",
+      "citationRefs": [
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:13:44",
@@ -409,7 +479,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the exact recension and passage of the Alexander literature, since the speaker does not provide a locator, and verify the details about the sun emerging and the unbuildable ground."
+      "verificationNote": "Locate the exact recension and passage of the Alexander literature, since the speaker does not provide a locator, and verify the details about the sun emerging and the unbuildable ground.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:13:44",
@@ -424,7 +497,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check al-Tabari's commentary on Qur'an 18:90, its wording, transmitted authorities, and whether al-Tabari endorses or merely reports this explanation."
+      "verificationNote": "Check al-Tabari's commentary on Qur'an 18:90, its wording, transmitted authorities, and whether al-Tabari endorses or merely reports this explanation.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:14:29",
@@ -439,7 +515,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate al-Hasan's and Qatada's reports in al-Tabari or earlier tafsir sources, verify their chains and exact language, and distinguish the two formulations."
+      "verificationNote": "Locate al-Hasan's and Qatada's reports in al-Tabari or earlier tafsir sources, verify their chains and exact language, and distinguish the two formulations.",
+      "citationRefs": [
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:14:29",
@@ -455,7 +535,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare Qur'an 18:93–98 with the barrier episodes across dated Alexander recensions, paying particular attention to differences between iron, copper, and combined materials."
+      "verificationNote": "Compare Qur'an 18:93–98 with the barrier episodes across dated Alexander recensions, paying particular attention to differences between iron, copper, and combined materials.",
+      "citationRefs": [
+        "c31",
+        "c32"
+      ]
     },
     {
       "timestamp": "00:14:29",
@@ -469,7 +553,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the scriptural and hadith sources for the barrier's continued existence and assess whether the premise entails a geographically detectable surface structure."
+      "verificationNote": "Identify the scriptural and hadith sources for the barrier's continued existence and assess whether the premise entails a geographically detectable surface structure.",
+      "citationRefs": [
+        "c31",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:15:17",
@@ -484,7 +572,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Qur'an 18:83–98 as a complete unit and assess whether its grammar and narrative geography require the literal three-location scheme asserted."
+      "verificationNote": "Read Qur'an 18:83–98 as a complete unit and assess whether its grammar and narrative geography require the literal three-location scheme asserted.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:15:17",
@@ -499,7 +590,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Determine whether Qur'an 18:86 commits the narrator to a physical solar setting rather than reporting Dhu al-Qarnayn's visual experience; the conclusion depends on that linguistic issue."
+      "verificationNote": "Determine whether Qur'an 18:86 commits the narrator to a physical solar setting rather than reporting Dhu al-Qarnayn's visual experience; the conclusion depends on that linguistic issue.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:04",
@@ -515,7 +607,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test each element independently: the semantics of wajadaha and ayn, the content and dating of the Alexander and Talmudic material, and evidence for transmission to the Qur'anic text."
+      "verificationNote": "Test each element independently: the semantics of wajadaha and ayn, the content and dating of the Alexander and Talmudic material, and evidence for transmission to the Qur'anic text.",
+      "citationRefs": [
+        "c35"
+      ]
     }
   ],
   "citations": [
@@ -527,7 +622,8 @@
       "author": "",
       "locator": "18:86",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -537,7 +633,8 @@
       "author": "",
       "locator": "18:86",
       "quotedArabic": "فوجدها تغرب في عين حامية",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -547,7 +644,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -557,7 +655,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -567,7 +666,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -577,7 +677,8 @@
       "author": "منسوب زعماً إلى كاليسثينيس",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -587,7 +688,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -597,7 +699,8 @@
       "author": "",
       "locator": "القرنان الرابع–السادس الميلاديان",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -607,7 +710,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -617,7 +721,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -627,7 +732,8 @@
       "author": "",
       "locator": "18:90",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -637,7 +743,8 @@
       "author": "",
       "locator": "18:93–98",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -647,7 +754,8 @@
       "author": "",
       "locator": "18:83–96",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -657,7 +765,8 @@
       "author": "",
       "locator": "18:84",
       "quotedArabic": "مكنّا له في الأرض",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -667,7 +776,8 @@
       "author": "",
       "locator": "18:86",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -677,7 +787,8 @@
       "author": "",
       "locator": "18:86",
       "quotedArabic": "حتى إذا بلغ مغرب الشمس وجد قوما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -687,7 +798,8 @@
       "author": "",
       "locator": "18:90",
       "quotedArabic": "حتى إذا بلغ مطلع الشمس وجد قوما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -697,7 +809,8 @@
       "author": "",
       "locator": "18:93",
       "quotedArabic": "حتى إذا بلغ بين السدين وجد من دونهما قوما",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "hadith",
@@ -707,7 +820,8 @@
       "author": "",
       "locator": "لم يذكر المتحدث مجموعة حديث أو رقماً",
       "quotedArabic": "سمعت عبد الله بن عباس يقول قرأ معاوية هذه الآية فقال عين حامية، فقال ابن عباس إنها عين حمئة... أما الشمس فإنها تغرب في الثقت",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -717,7 +831,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -727,7 +842,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
@@ -737,7 +853,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c22"
     },
     {
       "citationType": "book",
@@ -747,7 +864,8 @@
       "author": "محمد بن جرير الطبري",
       "locator": "تفسير 18:86",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "book",
@@ -757,7 +875,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "book",
@@ -767,7 +886,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -777,7 +897,8 @@
       "author": "",
       "locator": "18:90",
       "quotedArabic": "حتى إذا بلغ مطلع الشمس وجدها تطلع على قوم لم نجعل لهم من دونها سترة",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "book",
@@ -787,7 +908,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "book",
@@ -797,7 +919,8 @@
       "author": "محمد بن جرير الطبري",
       "locator": "تفسير 18:90",
       "quotedArabic": "ووجد ذو القرنين الشمس تطلع على قوم لم نجعل لهم من دونها سترة، وذلك أن أرضهم لا جبل فيها ولا شجر ولا تحتمل بناء فيسكنوا البيوت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -807,7 +930,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "كانت أرضا لا تحتمل البناء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "person",
@@ -817,7 +941,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ذكر لنا أنهم كانوا في مكان لا يستقر عليه البناء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -827,7 +952,8 @@
       "author": "",
       "locator": "18:93–98",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "book",
@@ -837,7 +963,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "event",
@@ -847,7 +974,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -857,7 +985,8 @@
       "author": "",
       "locator": "18:83–98",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "book",
@@ -867,7 +996,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     }
   ],
   "topicProposals": []

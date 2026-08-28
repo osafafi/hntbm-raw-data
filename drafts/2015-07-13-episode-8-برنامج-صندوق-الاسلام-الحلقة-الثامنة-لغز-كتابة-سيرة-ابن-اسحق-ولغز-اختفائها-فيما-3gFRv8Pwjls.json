@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "3gFRv8Pwjls",
   "videoUrl": "https://www.youtube.com/watch?v=3gFRv8Pwjls",
   "videoTitle": "Episode 8 برنامج صندوق الإسلام-الحلقة الثامنة: لُغز كتابة سيرة إبن إسحق ولُغز إختفائها فيما بعد",
@@ -64,7 +64,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check traditional sources (e.g., Musnad Ahmad, Tafsir Ibn Kathir) for reports on Ibn Mas'ud's view on the Mu'awwidhatayn."
+      "verificationNote": "Check traditional sources (e.g., Musnad Ahmad, Tafsir Ibn Kathir) for reports on Ibn Mas'ud's view on the Mu'awwidhatayn.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:30",
@@ -76,7 +79,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Hadith and Tafsir literature (e.g., al-Itqan by al-Suyuti) for A'ishah's narration regarding Surah al-Ahzab."
+      "verificationNote": "Check Hadith and Tafsir literature (e.g., al-Itqan by al-Suyuti) for A'ishah's narration regarding Surah al-Ahzab.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:46",
@@ -88,7 +94,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check academic publications analyzing the Sanaa palimpsest and Tübingen manuscript variants against the Cairo standard edition."
+      "verificationNote": "Check academic publications analyzing the Sanaa palimpsest and Tübingen manuscript variants against the Cairo standard edition.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:49",
@@ -100,7 +107,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check al-Khatib al-Baghdadi's Tarikh Baghdad or Ibn Khallikan for reports on al-Mansur commissioning Ibn Ishaq."
+      "verificationNote": "Check al-Khatib al-Baghdadi's Tarikh Baghdad or Ibn Khallikan for reports on al-Mansur commissioning Ibn Ishaq.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:49",
@@ -113,7 +121,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Cross-reference biographical dictionaries (Tabaqat) regarding the social status and clientage (wala') of early hadith compilers."
+      "verificationNote": "Cross-reference biographical dictionaries (Tabaqat) regarding the social status and clientage (wala') of early hadith compilers.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:12",
@@ -125,7 +134,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check biographical entries for Abu Hurairah in Ibn Hajar's Tahdhib al-Tahdhib or al-Dhahabi's Siyar A'lam al-Nubala."
+      "verificationNote": "Check biographical entries for Abu Hurairah in Ibn Hajar's Tahdhib al-Tahdhib or al-Dhahabi's Siyar A'lam al-Nubala.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:10:33",
@@ -137,7 +150,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the genealogical opening of Ibn Hisham's revision of Ibn Ishaq's Sirah."
+      "verificationNote": "Examine the genealogical opening of Ibn Hisham's revision of Ibn Ishaq's Sirah.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:04",
@@ -149,7 +163,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate genealogical assertions against historical chronology and average generation span assumptions."
+      "verificationNote": "Evaluate genealogical assertions against historical chronology and average generation span assumptions.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:42",
@@ -164,7 +179,10 @@
         "sirah-christian-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check scholarly studies comparing early Islamic prophetic biography structures with Near Eastern Christian hagiographies and canonical Gospels."
+      "verificationNote": "Check scholarly studies comparing early Islamic prophetic biography structures with Near Eastern Christian hagiographies and canonical Gospels.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:13:49",
@@ -179,7 +197,10 @@
         "sirah-christian-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Qur'anic claims about Muhammad's lack of physical miracles with miracle reports introduced in Ibn Ishaq's Sirah."
+      "verificationNote": "Compare Qur'anic claims about Muhammad's lack of physical miracles with miracle reports introduced in Ibn Ishaq's Sirah.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:15:11",
@@ -191,7 +212,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare literary dating and origins of early Abbasid popular prose collections with Sirah compilation history."
+      "verificationNote": "Compare literary dating and origins of early Abbasid popular prose collections with Sirah compilation history.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:18:49",
@@ -203,7 +227,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the biographical treatment of Zaynab bint Muhammad and her husband Abu al-Aas ibn al-Rabi' in Ibn Hisham's Sirah."
+      "verificationNote": "Check the biographical treatment of Zaynab bint Muhammad and her husband Abu al-Aas ibn al-Rabi' in Ibn Hisham's Sirah.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:32",
@@ -215,7 +240,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine narrations involving Waraqah ibn Nawfal in Ibn Hisham and Sahih al-Bukhari."
+      "verificationNote": "Examine narrations involving Waraqah ibn Nawfal in Ibn Hisham and Sahih al-Bukhari.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:05",
@@ -227,7 +253,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Ibn Hisham's explicitly stated editorial principles in the introduction to Al-Sirah al-Nabawiyyah."
+      "verificationNote": "Read Ibn Hisham's explicitly stated editorial principles in the introduction to Al-Sirah al-Nabawiyyah.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -236,105 +263,120 @@
       "timestamp": "00:02:10",
       "asStatedInVideo": "عبد الله بن مسعود",
       "author": "Abdullah ibn Mas'ud",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
       "timestamp": "00:02:10",
       "asStatedInVideo": "سورة المعوذتين (قل أعوذ برب الناس وقل أعوذ برب الفلق)",
       "locator": "113-114",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:30",
       "asStatedInVideo": "عائشة",
       "author": "A'ishah bint Abi Bakr",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
       "timestamp": "00:02:30",
       "asStatedInVideo": "سورة الأحزاب",
       "locator": "33",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:49",
       "asStatedInVideo": "أبو جعفر المنصور",
       "author": "Abu Ja'far al-Mansur",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
       "timestamp": "00:05:49",
       "asStatedInVideo": "إبن إسحاق",
       "author": "Ibn Ishaq",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:12",
       "asStatedInVideo": "إبن سعد صاحب الطبقات الكبرى",
       "author": "Ibn Sa'd",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:12",
       "asStatedInVideo": "الواقدي",
       "author": "al-Waqidi",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:12",
       "asStatedInVideo": "أبو هريرة",
       "author": "Abu Hurairah",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:24",
       "asStatedInVideo": "عروة بن الزبير",
       "author": "Urwah ibn al-Zubayr",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:24",
       "asStatedInVideo": "موسى بن عقبة",
       "author": "Musa ibn 'Uqbah",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "book",
       "timestamp": "00:12:42",
       "asStatedInVideo": "إنجيل متى",
       "workTitle": "Gospel of Matthew",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "book",
       "timestamp": "00:15:11",
       "asStatedInVideo": "ألف ليلة وليلة",
       "workTitle": "One Thousand and One Nights",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:32",
       "asStatedInVideo": "ورقة بن نوفل",
       "author": "Waraqah ibn Nawfal",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:21:05",
       "asStatedInVideo": "إبن هشام",
       "author": "Ibn Hisham",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     }
   ],
   "topicProposals": [

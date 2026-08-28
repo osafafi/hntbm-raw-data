@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "sHhwtIxZc5c",
   "videoUrl": "https://www.youtube.com/watch?v=sHhwtIxZc5c",
   "videoTitle": "Box of islam 55 .صندوق الاسلام 55: فترة عبد الملك بن مروان",
@@ -124,7 +124,8 @@
         "early-islamic-coinage"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check published numismatic catalogues of Sufyanid and early Marwanid coinage for the range of religious symbolism (crosses, fire altars, Sabian or other motifs), and check whether specialists read that diversity as evidence of a non-religious expansion or merely as continuity of local mints."
+      "verificationNote": "Check published numismatic catalogues of Sufyanid and early Marwanid coinage for the range of religious symbolism (crosses, fire altars, Sabian or other motifs), and check whether specialists read that diversity as evidence of a non-religious expansion or merely as continuity of local mints.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:48",
@@ -138,7 +139,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check demographic studies of conversion rates in the early Islamic Near East (e.g. Bulliet and later revisions) and Syriac/Coptic sources for the confessional makeup of Iraq, Syria and Egypt in the Umayyad and early Abbasid periods."
+      "verificationNote": "Check demographic studies of conversion rates in the early Islamic Near East (e.g. Bulliet and later revisions) and Syriac/Coptic sources for the confessional makeup of Iraq, Syria and Egypt in the Umayyad and early Abbasid periods.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:37",
@@ -152,7 +154,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the standard accounts of Abd al-Malik's Arabisation and standardisation measures (coinage reform, administrative language, monumental epigraphy) and whether historians describe them as the construction of a distinct religious identity or as state centralisation."
+      "verificationNote": "Check the standard accounts of Abd al-Malik's Arabisation and standardisation measures (coinage reform, administrative language, monumental epigraphy) and whether historians describe them as the construction of a distinct religious identity or as state centralisation.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:26",
@@ -165,7 +168,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Background genealogy and succession order; check against standard chronicles (al-Tabari, al-Ya'qubi). Recorded for context only, it carries no weight for the premise."
+      "verificationNote": "Background genealogy and succession order; check against standard chronicles (al-Tabari, al-Ya'qubi). Recorded for context only, it carries no weight for the premise.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:11",
@@ -178,7 +184,11 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the second fitna narrative in al-Tabari and al-Baladhuri. Political background rather than a premise argument in itself, though it underpins later claims in the episode."
+      "verificationNote": "Check the second fitna narrative in al-Tabari and al-Baladhuri. Political background rather than a premise argument in itself, though it underpins later claims in the episode.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:03:59",
@@ -194,7 +204,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check palaeographic studies on the transition from Hijazi to Kufic scripts and whether dated Marwanid material supports placing that shift in Abd al-Malik's reign."
+      "verificationNote": "Check palaeographic studies on the transition from Hijazi to Kufic scripts and whether dated Marwanid material supports placing that shift in Abd al-Malik's reign.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:51",
@@ -209,7 +220,11 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the construction dates of the Dome of the Rock and the al-Aqsa congregational mosque in archaeological and epigraphic scholarship, and whether any structure on the site predates al-Walid."
+      "verificationNote": "Check the construction dates of the Dome of the Rock and the al-Aqsa congregational mosque in archaeological and epigraphic scholarship, and whether any structure on the site predates al-Walid.",
+      "citationRefs": [
+        "c7",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:04:51",
@@ -224,7 +239,11 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the passage in Aref al-Aref's al-Mufassal fi Tarikh al-Quds and identify the earlier source it rests on for the transfer of a dome from a Baalbek church."
+      "verificationNote": "Locate the passage in Aref al-Aref's al-Mufassal fi Tarikh al-Quds and identify the earlier source it rests on for the transfer of a dome from a Baalbek church.",
+      "citationRefs": [
+        "c6",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:05:37",
@@ -241,7 +260,10 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the octagonal plan of the Dome of the Rock with Byzantine martyria and the octagonal church on the Mount of Olives in architectural-history literature; confirm which Jerusalem church the speaker means, since the name is unclear in the audio."
+      "verificationNote": "Compare the octagonal plan of the Dome of the Rock with Byzantine martyria and the octagonal church on the Mount of Olives in architectural-history literature; confirm which Jerusalem church the speaker means, since the name is unclear in the audio.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:24",
@@ -257,7 +279,10 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check published editions of the Dome of the Rock inscription for the number and identity of the Qur'anic passages, and check whether earlier dated Arabic religious inscriptions exist (e.g. the Zuhayr inscription, dam and milestone inscriptions)."
+      "verificationNote": "Check published editions of the Dome of the Rock inscription for the number and identity of the Qur'anic passages, and check whether earlier dated Arabic religious inscriptions exist (e.g. the Zuhayr inscription, dam and milestone inscriptions).",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:06:24",
@@ -274,7 +299,10 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the epigraphic corpus for earlier attestations of the words islam and muhammad — including the Arab-Sasanian and Arab-Byzantine coin legends and papyri — to test the claim of first appearance."
+      "verificationNote": "Check the epigraphic corpus for earlier attestations of the words islam and muhammad — including the Arab-Sasanian and Arab-Byzantine coin legends and papyri — to test the claim of first appearance.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:06:24",
@@ -290,7 +318,14 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read the full inscription text and count how much of it is Christological or addressed to the People of the Book versus general theological content; then check how western scholarship (e.g. Grabar, Whelan, Milwright) characterises its polemical audience."
+      "verificationNote": "Read the full inscription text and count how much of it is Christological or addressed to the People of the Book versus general theological content; then check how western scholarship (e.g. Grabar, Whelan, Milwright) characterises its polemical audience.",
+      "citationRefs": [
+        "c14",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:08:01",
@@ -304,7 +339,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the classical lexica (Lisan al-Arab, Taj al-Arus) for the semantic range of k-'-b, including whether roundness or protrusion is the core sense, and check the exegesis of kawa'ib atraban (Q 78:33)."
+      "verificationNote": "Check the classical lexica (Lisan al-Arab, Taj al-Arus) for the semantic range of k-'-b, including whether roundness or protrusion is the core sense, and check the exegesis of kawa'ib atraban (Q 78:33).",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:08:49",
@@ -320,7 +358,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the verse the speaker means — qittana appears in Q 38:16 — and check whether classical exegetes gloss it as nasib (portion) or relate it to qatta'na; then check whether Arabic phonology permits the 'ayn elision he proposes for ka'ba > qubba."
+      "verificationNote": "Identify the verse the speaker means — qittana appears in Q 38:16 — and check whether classical exegetes gloss it as nasib (portion) or relate it to qatta'na; then check whether Arabic phonology permits the 'ayn elision he proposes for ka'ba > qubba.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:08:49",
@@ -337,7 +378,10 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate Luxenberg's article on the Dome of the Rock inscription, confirm the argument attributed to him, and check the scholarly responses to it."
+      "verificationNote": "Locate Luxenberg's article on the Dome of the Rock inscription, confirm the argument attributed to him, and check the scholarly responses to it.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:09:53",
@@ -354,7 +398,10 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read the inscription's wording in situ or in a critical edition, and check the lexical claim that hamd is exclusive to God while shukr is general, in classical Arabic lexica and exegesis."
+      "verificationNote": "Read the inscription's wording in situ or in a critical edition, and check the lexical claim that hamd is exclusive to God while shukr is general, in classical Arabic lexica and exegesis.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:10:40",
@@ -371,7 +418,10 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 4:172 and the other Qur'anic uses of abd Allah (e.g. Q 19:30) and whether the phrase is applied to figures other than Christ, which would weaken the identification."
+      "verificationNote": "Check Q 4:172 and the other Qur'anic uses of abd Allah (e.g. Q 19:30) and whether the phrase is applied to figures other than Christ, which would weaken the identification.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:11:31",
@@ -388,7 +438,10 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Philippians 2:7-8 in Arabic and Syriac (Peshitta), and search Syriac liturgical and homiletic literature for any attested title corresponding to mhamda / muhammad applied to Christ."
+      "verificationNote": "Check Philippians 2:7-8 in Arabic and Syriac (Peshitta), and search Syriac liturgical and homiletic literature for any attested title corresponding to mhamda / muhammad applied to Christ.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:12:22",
@@ -405,7 +458,13 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify each quoted passage against the inscription's published text and against Q 33:56, 4:171-172 and 19:33, and assess whether the selection is exclusively anti-Christian in address."
+      "verificationNote": "Verify each quoted passage against the inscription's published text and against Q 33:56, 4:171-172 and 19:33, and assess whether the selection is exclusively anti-Christian in address.",
+      "citationRefs": [
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:13:56",
@@ -422,7 +481,14 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "interpretive",
-      "verificationNote": "An inference from the previous claims; an editor should test it against alternative readings of the inscription as anti-Christian polemic aimed at a Christian majority audience by an already-formed Islamic state."
+      "verificationNote": "An inference from the previous claims; an editor should test it against alternative readings of the inscription as anti-Christian polemic aimed at a Christian majority audience by an already-formed Islamic state.",
+      "citationRefs": [
+        "c14",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:14:41",
@@ -436,7 +502,14 @@
         "dome-of-the-rock-inscriptions"
       ],
       "checkability": "interpretive",
-      "verificationNote": "An interpretive conclusion drawn from the inscription's content; check against scholarly readings of the building's purpose, including its relation to the Holy Sepulchre and its anti-Trinitarian polemic."
+      "verificationNote": "An interpretive conclusion drawn from the inscription's content; check against scholarly readings of the building's purpose, including its relation to the Holy Sepulchre and its anti-Trinitarian polemic.",
+      "citationRefs": [
+        "c14",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:14:41",
@@ -451,7 +524,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the earliest documentary and archaeological attestations of Mecca and its sanctuary, and the Islamic traditions tracing the Ka'ba to Adam and Abraham, noting that the speaker gives no source here."
+      "verificationNote": "Check the earliest documentary and archaeological attestations of Mecca and its sanctuary, and the Islamic traditions tracing the Ka'ba to Adam and Abraham, noting that the speaker gives no source here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:29",
@@ -467,7 +541,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the accounts of the sieges of Mecca in 683 and 692 in al-Tabari and al-Azraqi for the damage to the Ka'ba, and whether the sources present it as deliberate or incidental."
+      "verificationNote": "Check the accounts of the sieges of Mecca in 683 and 692 in al-Tabari and al-Azraqi for the damage to the Ka'ba, and whether the sources present it as deliberate or incidental.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:15:29",
@@ -480,7 +557,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Standard second-fitna history; check al-Tabari and al-Baladhuri. Recorded as the setting for the coinage and pilgrimage claims that follow."
+      "verificationNote": "Standard second-fitna history; check al-Tabari and al-Baladhuri. Recorded as the setting for the coinage and pilgrimage claims that follow.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:22",
@@ -495,7 +573,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zubayrid and Arab-Sasanian coin corpus for the earliest full shahada legend, and compare with claims for earlier Sufyanid or governor issues bearing muhammad rasul Allah."
+      "verificationNote": "Check the Zubayrid and Arab-Sasanian coin corpus for the earliest full shahada legend, and compare with claims for earlier Sufyanid or governor issues bearing muhammad rasul Allah.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:22",
@@ -509,7 +590,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Umayyad administrative and building activity in the Hijaz against Syria and Iraq, and whether the evidence supports systematic neglect of the two sanctuary cities."
+      "verificationNote": "Check Umayyad administrative and building activity in the Hijaz against Syria and Iraq, and whether the evidence supports systematic neglect of the two sanctuary cities.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:52",
@@ -524,7 +606,8 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Islamic reports (al-Ya'qubi in particular) that Abd al-Malik barred Syrians from the Meccan hajj and the scholarly debate on whether that report is reliable or anti-Umayyad polemic."
+      "verificationNote": "Check the Islamic reports (al-Ya'qubi in particular) that Abd al-Malik barred Syrians from the Meccan hajj and the scholarly debate on whether that report is reliable or anti-Umayyad polemic.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:52",
@@ -539,7 +622,8 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Goldziher's thesis on the Dome as a rival hajj site and the substantial later scholarship rejecting or qualifying it (Grabar, Elad), together with the primary reports it rests on."
+      "verificationNote": "Check Goldziher's thesis on the Dome as a rival hajj site and the substantial later scholarship rejecting or qualifying it (Grabar, Elad), together with the primary reports it rests on.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:38",
@@ -556,7 +640,10 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the earliest datable exegesis identifying al-masjid al-aqsa in Q 17:1 with Jerusalem, including reports attributed to pre-Marwanid authorities, and test whether the identification can be shown to postdate Abd al-Malik."
+      "verificationNote": "Trace the earliest datable exegesis identifying al-masjid al-aqsa in Q 17:1 with Jerusalem, including reports attributed to pre-Marwanid authorities, and test whether the identification can be shown to postdate Abd al-Malik.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:17:38",
@@ -573,7 +660,10 @@
         "hadith-fabrication-and-political-patronage"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect all isnads of the la tushaddu al-rihal hadith in Bukhari, Muslim and earlier collections, and date its circulation by common-link analysis to test whether it emerges in the Marwanid period."
+      "verificationNote": "Collect all isnads of the la tushaddu al-rihal hadith in Bukhari, Muslim and earlier collections, and date its circulation by common-link analysis to test whether it emerges in the Marwanid period.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:18:24",
@@ -590,7 +680,11 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether al-Zuhri actually appears in the isnad of this hadith in Bukhari, and examine the biographical reports on his relations with the Umayyad court, including Goldziher's argument and the rebuttals to it."
+      "verificationNote": "Check whether al-Zuhri actually appears in the isnad of this hadith in Bukhari, and examine the biographical reports on his relations with the Umayyad court, including Goldziher's argument and the rebuttals to it.",
+      "citationRefs": [
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:18:24",
@@ -604,7 +698,11 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the earliest evidence for Muslim veneration of Jerusalem, including the qibla direction traditions and the fada'il al-quds literature, and whether any of it is securely pre-Marwanid."
+      "verificationNote": "Check the earliest evidence for Muslim veneration of Jerusalem, including the qibla direction traditions and the fada'il al-quds literature, and whether any of it is securely pre-Marwanid.",
+      "citationRefs": [
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:18:24",
@@ -621,7 +719,10 @@
         "jerusalem-and-al-aqsa-sanctity"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the relevant chapters of the Armenian History attributed to Sebeos for the statement that the Arabs moved to reclaim the land promised to Abraham, and check the scholarly assessment of that passage's reliability and date."
+      "verificationNote": "Check the relevant chapters of the Armenian History attributed to Sebeos for the statement that the Arabs moved to reclaim the land promised to Abraham, and check the scholarly assessment of that passage's reliability and date.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:19:11",
@@ -635,7 +736,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "A general appeal to scholarly opinion with no named work; an editor should determine which revisionist scholarship is meant and whether the characterisation of a consensus is accurate."
+      "verificationNote": "A general appeal to scholarly opinion with no named work; an editor should determine which revisionist scholarship is meant and whether the characterisation of a consensus is accurate.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:57",
@@ -649,7 +751,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Syriac chronicles said to report a new poll tax on non-Arabs under Abd al-Malik around 691-92 (the census reports in John bar Penkaye and later chronicles are candidates), and check the fiscal history of jizya and kharaj in the Marwanid reforms."
+      "verificationNote": "Identify the Syriac chronicles said to report a new poll tax on non-Arabs under Abd al-Malik around 691-92 (the census reports in John bar Penkaye and later chronicles are candidates), and check the fiscal history of jizya and kharaj in the Marwanid reforms.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:20:44",
@@ -664,7 +769,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 9:29 and its reported occasion of revelation, and the sirah accounts of Banu Qaynuqa, Banu al-Nadir, Khaybar and Najran for whether any non-Muslim community lived under Muhammad's rule paying a poll tax."
+      "verificationNote": "Check Q 9:29 and its reported occasion of revelation, and the sirah accounts of Banu Qaynuqa, Banu al-Nadir, Khaybar and Najran for whether any non-Muslim community lived under Muhammad's rule paying a poll tax.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:20:44",
@@ -679,7 +787,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether Q 9:29 and related passages are preserved in the earliest manuscripts (Birmingham, Sana'a palimpsest, Codex Parisino-petropolitanus, Tubingen) and whether their absence is due to lacunae rather than non-existence."
+      "verificationNote": "Check whether Q 9:29 and related passages are preserved in the earliest manuscripts (Birmingham, Sana'a palimpsest, Codex Parisino-petropolitanus, Tubingen) and whether their absence is due to lacunae rather than non-existence.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:30",
@@ -694,7 +803,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Search seventh-century Jewish sources (the Doctrina Jacobi, apocalyptic and piyyut material, Geniza-era chronicles) for any reference to the expulsion or killing of Arabian Jewish tribes, and assess the argument from silence given the sparsity of Hijazi Jewish records generally."
+      "verificationNote": "Search seventh-century Jewish sources (the Doctrina Jacobi, apocalyptic and piyyut material, Geniza-era chronicles) for any reference to the expulsion or killing of Arabian Jewish tribes, and assess the argument from silence given the sparsity of Hijazi Jewish records generally.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:21:30",
@@ -708,7 +820,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "The wording in the transcript is unclear at this point; an editor should re-listen to fix what dynasty or authority is meant before treating this as a distinct thesis."
+      "verificationNote": "The wording in the transcript is unclear at this point; an editor should re-listen to fix what dynasty or authority is meant before treating this as a distinct thesis.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:30",
@@ -723,7 +836,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check numismatic catalogues for Arab-Byzantine and Arab-Sasanian issues under Abd al-Malik, the dating formula \"year 75\" and whether clipping is documented as a driver of the coinage reform."
+      "verificationNote": "Check numismatic catalogues for Arab-Byzantine and Arab-Sasanian issues under Abd al-Malik, the dating formula \"year 75\" and whether clipping is documented as a driver of the coinage reform.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:22:16",
@@ -737,7 +853,10 @@
         "early-islamic-coinage"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the standing-caliph dinar type in published catalogues, confirm the legend and the column-on-steps reverse, and check the dating of the type."
+      "verificationNote": "Examine the standing-caliph dinar type in published catalogues, confirm the legend and the column-on-steps reverse, and check the dating of the type.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:23:02",
@@ -752,7 +871,11 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Heraclian solidi with Arab-Byzantine imitations and the modified cross-on-steps types in numismatic literature, and check the identification of the intermediate form as a tau or St Anthony's cross."
+      "verificationNote": "Compare Heraclian solidi with Arab-Byzantine imitations and the modified cross-on-steps types in numismatic literature, and check the identification of the intermediate form as a tau or St Anthony's cross.",
+      "citationRefs": [
+        "c32",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:23:48",
@@ -768,7 +891,10 @@
         "early-islamic-coinage"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Greek New Testament use of stauros and its lexical range (pole, stake, cross), and check the numismatic literature on whether the cross-on-steps was modified by removing the crossbar."
+      "verificationNote": "Check the Greek New Testament use of stauros and its lexical range (pole, stake, cross), and check the numismatic literature on whether the cross-on-steps was modified by removing the crossbar.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:24:34",
@@ -785,7 +911,11 @@
         "early-islamic-coinage"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 20:71 for the phrase on crucifixion on palm trunks and its exegesis, and check whether numismatists connect the coin's column to a doctrinal position on the manner of crucifixion."
+      "verificationNote": "Check Q 20:71 for the phrase on crucifixion on palm trunks and its exegesis, and check whether numismatists connect the coin's column to a doctrinal position on the manner of crucifixion.",
+      "citationRefs": [
+        "c35",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:25:20",
@@ -798,7 +928,8 @@
         "early-islamic-coinage"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the numismatic identification of the globus cruciger and related devices on Byzantine and Arab-Byzantine coins; recorded as descriptive detail supporting the coin argument rather than a premise claim of its own."
+      "verificationNote": "Check the numismatic identification of the globus cruciger and related devices on Byzantine and Arab-Byzantine coins; recorded as descriptive detail supporting the coin argument rather than a premise claim of its own.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:25:20",
@@ -813,7 +944,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the coin or image on which the succession scene appears and check the numismatic literature on whether it depicts an oath taken upon a cross-like object."
+      "verificationNote": "Identify the coin or image on which the succession scene appears and check the numismatic literature on whether it depicts an oath taken upon a cross-like object.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:26:06",
@@ -830,7 +964,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Byzantine coin types showing co-emperors flanking a cross, including those of Basil II and Heraclius, and whether the iconography is described as a succession oath."
+      "verificationNote": "Check Byzantine coin types showing co-emperors flanking a cross, including those of Basil II and Heraclius, and whether the iconography is described as a succession oath.",
+      "citationRefs": [
+        "c37"
+      ]
     },
     {
       "timestamp": "00:26:06",
@@ -844,7 +981,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which scholars are said to leave Abd al-Malik's confessional identity open and whether this reflects a real scholarly position or an overstatement of revisionist arguments."
+      "verificationNote": "Identify which scholars are said to leave Abd al-Malik's confessional identity open and whether this reflects a real scholarly position or an overstatement of revisionist arguments.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:52",
@@ -859,7 +997,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the dating of the epigraphic dinar reform (usually placed at 77 AH) and the literature relating it to contemporary iconoclastic currents."
+      "verificationNote": "Check the dating of the epigraphic dinar reform (usually placed at 77 AH) and the literature relating it to contemporary iconoclastic currents.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:52",
@@ -876,7 +1015,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports of al-Hajjaj's intervention in the mushaf (in Ibn Abi Dawud's Kitab al-Masahif and Ibn Shabba) and the scholarly debate on whether that intervention was dotting and vocalisation, a fresh recension, or a full collection."
+      "verificationNote": "Check the reports of al-Hajjaj's intervention in the mushaf (in Ibn Abi Dawud's Kitab al-Masahif and Ibn Shabba) and the scholarly debate on whether that intervention was dotting and vocalisation, a fresh recension, or a full collection.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:52",
@@ -890,7 +1030,8 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "interpretive",
-      "verificationNote": "The central thesis of the episode; check whether any source supports a Christian background for Abd al-Malik personally, and weigh the reconstruction against the documented pre-Marwanid Islamic material."
+      "verificationNote": "The central thesis of the episode; check whether any source supports a Christian background for Abd al-Malik personally, and weigh the reconstruction against the documented pre-Marwanid Islamic material.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:38",
@@ -906,7 +1047,10 @@
         "umayyad-period-and-religious-formation"
       ],
       "checkability": "interpretive",
-      "verificationNote": "An analogy rather than a source-based claim; an editor may check the historiography of Constantine's role in Christian state formation to assess how far the parallel holds."
+      "verificationNote": "An analogy rather than a source-based claim; an editor may check the historiography of Constantine's role in Christian state formation to assess how far the parallel holds.",
+      "citationRefs": [
+        "c38"
+      ]
     }
   ],
   "citations": [
@@ -918,7 +1062,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -928,7 +1073,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -938,7 +1084,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -948,7 +1095,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -958,7 +1106,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -968,7 +1117,8 @@
       "author": "العارف (عارف العارف)",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -978,7 +1128,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -988,7 +1139,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "event",
@@ -998,7 +1150,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "event",
@@ -1008,7 +1161,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -1018,7 +1172,8 @@
       "author": "كريستوف لوكسنبرغ",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -1028,7 +1183,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "كواعب أتراباً",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -1038,7 +1194,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "قطنا يوم الحساب",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -1048,7 +1205,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "بسم الله الرحمن الرحيم لا إله إلا الله وحده لا شريك له له الملك وله الحمد يحيي ويميت وهو على كل شيء قدير محمد عبد الله ورسوله",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -1058,7 +1216,8 @@
       "author": "",
       "locator": "4:172",
       "quotedArabic": "لن يستنكف المسيح أن يكون عبدا لله ولا الملائكة المقربون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "book",
@@ -1068,7 +1227,8 @@
       "author": "",
       "locator": "2:7-8",
       "quotedArabic": "لكنه أخلى نفسه آخذا صورة عبد صائرا في شبه الناس ووجد في الهيئة كإنسان وضع نفسه وأطاع حتى الموت على الصليب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -1078,7 +1238,8 @@
       "author": "",
       "locator": "33:56",
       "quotedArabic": "إن الله وملائكته يصلون على النبي يا أيها الذين آمنوا صلوا عليه وسلموا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -1088,7 +1249,8 @@
       "author": "",
       "locator": "4:171",
       "quotedArabic": "يا أهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه فآمنوا بالله ورسوله ولا تقولوا ثلاثة انتهوا خيرا لكم إنما الله إله واحد سبحانه أن يكون له ولد له ما في السماوات وما في الأرض وكفى بالله وكيلا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -1098,7 +1260,8 @@
       "author": "",
       "locator": "4:172",
       "quotedArabic": "لن يستنكف المسيح أن يكون عبد الله ولا الملائكة المقربون ومن يستنكف عن عبادته ويستكبر فسيحشرهم إليه جميعا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -1108,7 +1271,8 @@
       "author": "",
       "locator": "19:33",
       "quotedArabic": "اللهم صل على رسولك وعبدك عيسى ابن مريم والسلام عليه يوم ولد ويوم يموت ويوم يبعث",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "event",
@@ -1118,7 +1282,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "event",
@@ -1128,7 +1293,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لا إله إلا الله محمد رسول الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1138,7 +1304,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "hadith",
@@ -1148,7 +1315,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لا تشد الرحال إلا إلى ثلاثة مساجد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
@@ -1158,7 +1326,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "book",
@@ -1168,7 +1337,8 @@
       "author": "البخاري",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1178,7 +1348,8 @@
       "author": "سيبيوس",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -1188,7 +1359,8 @@
       "author": "",
       "locator": "691-692 م",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "sirah",
@@ -1198,7 +1370,8 @@
       "author": "",
       "locator": "خيبر",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c29"
     },
     {
       "citationType": "sirah",
@@ -1208,7 +1381,8 @@
       "author": "",
       "locator": "بنو قينقاع، بنو النضير",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "event",
@@ -1218,7 +1392,8 @@
       "author": "",
       "locator": "سنة 75",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1228,7 +1403,8 @@
       "author": "هرقل (هيراكليوس)",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c32"
     },
     {
       "citationType": "event",
@@ -1238,7 +1414,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "book",
@@ -1248,7 +1425,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1258,7 +1436,8 @@
       "author": "",
       "locator": "20:71",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c35"
     },
     {
       "citationType": "event",
@@ -1268,7 +1447,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1278,7 +1458,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c37"
     },
     {
       "citationType": "person",
@@ -1288,7 +1469,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c38"
     }
   ],
   "topicProposals": [

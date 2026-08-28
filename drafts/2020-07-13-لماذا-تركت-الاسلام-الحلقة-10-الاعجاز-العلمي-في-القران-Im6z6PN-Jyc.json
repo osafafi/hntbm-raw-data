@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "Im6z6PN-Jyc",
   "videoUrl": "https://www.youtube.com/watch?v=Im6z6PN-Jyc",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 10 - الإعجاز العلمي في القرآن",
@@ -157,7 +157,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Framing thesis of the episode; nothing to verify against a source beyond confirming it is the speaker's own stated position."
+      "verificationNote": "Framing thesis of the episode; nothing to verify against a source beyond confirming it is the speaker's own stated position.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:38",
@@ -171,7 +172,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Methodological thesis; an editor should check that the three reasons he later gives (provisional science, cherry-picking, and the source/truth gap) are in fact delivered in the episode."
+      "verificationNote": "Methodological thesis; an editor should check that the three reasons he later gives (provisional science, cherry-picking, and the source/truth gap) are in fact delivered in the episode.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:26",
@@ -186,7 +188,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the preacher's clip and confirm the quoted wording; identify the verse he cites (Q41:11) and check whether modern cosmology is stated as he presents it."
+      "verificationNote": "Locate the preacher's clip and confirm the quoted wording; identify the verse he cites (Q41:11) and check whether modern cosmology is stated as he presents it.",
+      "citationRefs": [
+        "c16",
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:08",
@@ -202,7 +208,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q41:9–12 in full and confirm the stated order of creation; confirm that standard cosmology places no formation of the earth before an early smoke or gas phase."
+      "verificationNote": "Read Q41:9–12 in full and confirm the stated order of creation; confirm that standard cosmology places no formation of the earth before an early smoke or gas phase.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:49",
@@ -217,7 +227,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the preacher's recitation with the full text of Q41:11 to confirm the truncation; the imputed intent is the speaker's inference, not established."
+      "verificationNote": "Compare the preacher's recitation with the full text of Q41:11 to confirm the truncation; the imputed intent is the speaker's inference, not established.",
+      "citationRefs": [
+        "c4",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:03:30",
@@ -232,7 +246,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the described pattern of selective quotation is documented across a sample of i'jaz publications rather than in this single clip."
+      "verificationNote": "Assess whether the described pattern of selective quotation is documented across a sample of i'jaz publications rather than in this single clip.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:14",
@@ -248,7 +263,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the quoted exegetical statement about smoke arising from the breathing of water, including the naming of Thursday and Friday, to a specific tafsir (e.g. al-Tabari) and identify its transmitter; the speaker gives no attribution beyond \"the salaf\"."
+      "verificationNote": "Trace the quoted exegetical statement about smoke arising from the breathing of water, including the naming of Thursday and Friday, to a specific tafsir (e.g. al-Tabari) and identify its transmitter; the speaker gives no attribution beyond \"the salaf\".",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:04:58",
@@ -264,7 +282,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the wording of Q41:12 and whether the sequence it gives, read with the preceding verses and the classical gloss, matches the reconstruction offered here."
+      "verificationNote": "Confirm the wording of Q41:12 and whether the sequence it gives, read with the preceding verses and the classical gloss, matches the reconstruction offered here.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:05:44",
@@ -279,7 +300,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the preacher's quoted statement from the clip, and check independently which pre-Islamic cosmogonies place water before creation."
+      "verificationNote": "Confirm the preacher's quoted statement from the clip, and check independently which pre-Islamic cosmogonies place water before creation.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:06:29",
@@ -295,7 +319,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and reference of the throne-upon-the-water verse (Q11:7) and how classical exegetes read the temporal implication of \"and his throne was upon the water\"."
+      "verificationNote": "Verify the wording and reference of the throne-upon-the-water verse (Q11:7) and how classical exegetes read the temporal implication of \"and his throne was upon the water\".",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:06:29",
@@ -310,7 +337,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith in Sahih al-Bukhari (the speaker gives no book or number) and confirm the wording and the questioners' context as reported."
+      "verificationNote": "Locate the hadith in Sahih al-Bukhari (the speaker gives no book or number) and confirm the wording and the questioners' context as reported.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:17",
@@ -325,7 +355,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the wording of the address to heaven and earth in Q41:11 and how classical and modern commentators treat it — literal speech, metaphor, or command of being."
+      "verificationNote": "Check the wording of the address to heaven and earth in Q41:11 and how classical and modern commentators treat it — literal speech, metaphor, or command of being.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:08:01",
@@ -340,7 +373,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test the generalization against a sample of well-known i'jaz claims to see whether the described procedure recurs."
+      "verificationNote": "Test the generalization against a sample of well-known i'jaz claims to see whether the described procedure recurs.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:31",
@@ -354,7 +388,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Sociological assertion about audience reception; would need survey or reception-study evidence rather than textual verification."
+      "verificationNote": "Sociological assertion about audience reception; would need survey or reception-study evidence rather than textual verification.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:18",
@@ -368,7 +403,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Epistemological framing; an editor may wish to check the characterization of scientific theory against standard philosophy-of-science accounts."
+      "verificationNote": "Epistemological framing; an editor may wish to check the characterization of scientific theory against standard philosophy-of-science accounts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:18",
@@ -382,7 +418,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Logical objection; check whether i'jaz literature acknowledges this dependency and how it answers the revision problem."
+      "verificationNote": "Logical objection; check whether i'jaz literature acknowledges this dependency and how it answers the revision problem.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:01",
@@ -396,7 +433,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Rhetorical theological inference; nothing external to check."
+      "verificationNote": "Rhetorical theological inference; nothing external to check.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:01",
@@ -411,7 +449,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the history of science for any documented discovery derived predictively from a Qur'anic verse before its independent establishment; an argument from absence that requires a survey to sustain."
+      "verificationNote": "Check the history of science for any documented discovery derived predictively from a Qur'anic verse before its independent establishment; an argument from absence that requires a survey to sustain.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:01",
@@ -426,7 +465,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the chronology of prominent i'jaz claims against the dates of the scientific findings they invoke."
+      "verificationNote": "Check the chronology of prominent i'jaz claims against the dates of the scientific findings they invoke.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:43",
@@ -441,7 +481,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the University of Georgia study and \"Professor Hill\" as used in da'wah material, and check Keith Moore's actual involvement with the i'jaz commission and any later statements he made."
+      "verificationNote": "Identify the University of Georgia study and \"Professor Hill\" as used in da'wah material, and check Keith Moore's actual involvement with the i'jaz commission and any later statements he made.",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:10:43",
@@ -456,7 +501,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether i'jaz literature ever asserts the reverse direction of proof, and whether the asymmetry is as consistent as claimed."
+      "verificationNote": "Check whether i'jaz literature ever asserts the reverse direction of proof, and whether the asymmetry is as consistent as claimed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:30",
@@ -473,7 +519,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Logical analysis; check that the rhetorical question is in fact standard in i'jaz presentations and that the fallacy is correctly identified."
+      "verificationNote": "Logical analysis; check that the rhetorical question is in fact standard in i'jaz presentations and that the fallacy is correctly identified.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:30",
@@ -489,7 +536,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Formal-logic assertion about premises and questions; verifiable against standard treatments of argument form."
+      "verificationNote": "Formal-logic assertion about premises and questions; verifiable against standard treatments of argument form.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:13",
@@ -505,7 +553,10 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the reconstruction is a fair rendering of the apologetic argument as its proponents state it."
+      "verificationNote": "Check whether the reconstruction is a fair rendering of the apologetic argument as its proponents state it.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:13:00",
@@ -521,7 +572,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Logical objection about the gap between truth and provenance; no external source required."
+      "verificationNote": "Logical objection about the gap between truth and provenance; no external source required.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:45",
@@ -537,7 +589,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Standard evidentiary principle applied to the revelation claim; nothing external to verify."
+      "verificationNote": "Standard evidentiary principle applied to the revelation claim; nothing external to verify.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:45",
@@ -553,7 +606,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Epistemic position statement; nothing external to verify."
+      "verificationNote": "Epistemic position statement; nothing external to verify.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:20",
@@ -567,7 +621,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Statement of the speaker's own position; no external check needed."
+      "verificationNote": "Statement of the speaker's own position; no external check needed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:20",
@@ -584,7 +639,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether i'jaz literature engages the awkward passages the speaker lists or passes over them."
+      "verificationNote": "Check whether i'jaz literature engages the awkward passages the speaker lists or passes over them.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:20",
@@ -600,7 +656,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the verses on stars as missiles against eavesdropping devils (the speaker cites none by number) and confirm that i'jaz literature does not advance them as miracles."
+      "verificationNote": "Identify the verses on stars as missiles against eavesdropping devils (the speaker cites none by number) and confirm that i'jaz literature does not advance them as miracles.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:16:01",
@@ -615,7 +674,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "The speaker cites no verse; an editor must identify which passages he has in mind (spreading of the earth, and similar) and how they are read classically."
+      "verificationNote": "The speaker cites no verse; an editor must identify which passages he has in mind (spreading of the earth, and similar) and how they are read classically.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:16:01",
@@ -631,7 +693,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the backbone-and-ribs verse (Q86:6–7, not cited by number here) and the classical glosses assigning the man's fluid to the back and the woman's to the chest; check the claim that no ovum is mentioned."
+      "verificationNote": "Identify the backbone-and-ribs verse (Q86:6–7, not cited by number here) and the classical glosses assigning the man's fluid to the back and the woman's to the chest; check the claim that no ovum is mentioned.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:16:01",
@@ -646,7 +711,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the finger-licking hadith and its collection and grading; the speaker names no collection or locator."
+      "verificationNote": "Locate the finger-licking hadith and its collection and grading; the speaker names no collection or locator.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:16:01",
@@ -663,7 +731,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the selection pattern across published i'jaz material."
+      "verificationNote": "Assess the selection pattern across published i'jaz material.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:47",
@@ -679,7 +748,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Logical objection; check the identification of the fallacy and whether i'jaz proponents supply independent evidence for the source premise."
+      "verificationNote": "Logical objection; check the identification of the fallacy and whether i'jaz proponents supply independent evidence for the source premise.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:32",
@@ -695,7 +765,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the formal analysis of the two premises and whether the asymmetry between them is correctly described."
+      "verificationNote": "Check the formal analysis of the two premises and whether the asymmetry between them is correctly described.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:48",
@@ -711,7 +782,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Analogical argument; nothing external to check beyond the soundness of the parallel."
+      "verificationNote": "Analogical argument; nothing external to check beyond the soundness of the parallel.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:30",
@@ -727,7 +799,8 @@
         "quran-scientific-claims-miracle-argument-fallacies"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Restatement of the burden-of-proof position; nothing external to check."
+      "verificationNote": "Restatement of the burden-of-proof position; nothing external to check.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:30",
@@ -742,7 +815,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Historical-sociological thesis about the function of the i'jaz movement; would need the movement's own history and its stated aims to assess."
+      "verificationNote": "Historical-sociological thesis about the function of the i'jaz movement; would need the movement's own history and its stated aims to assess.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -751,42 +825,48 @@
       "timestamp": "00:01:26",
       "asStatedInVideo": "قوله تعالى ثم استوى إلى السماء وهي دخان — no sura or verse number given by the speaker or the preacher he quotes",
       "quotedArabic": "ثم استوى إلى السماء وهي دخان",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
       "timestamp": "00:02:08",
       "asStatedInVideo": "الآية تقول قل أئنكم لتكفرون بالذي خلق الأرض في يومين وتجعلون له أندادا ذلك رب العالمين — quoted without a locator",
       "quotedArabic": "قل أئنكم لتكفرون بالذي خلق الأرض في يومين وتجعلون له أندادا ذلك رب العالمين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
       "timestamp": "00:02:08",
       "asStatedInVideo": "وجعل فيها رواسي من فوقها وبارك فيها وقدر فيها أقواتها في أربعة أيام — quoted without a locator",
       "quotedArabic": "وجعل فيها رواسي من فوقها وبارك فيها وقدر فيها أقواتها في أربعة أيام",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
       "timestamp": "00:02:49",
       "asStatedInVideo": "the continuation of the same verse: فقال لها وللأرض ائتيا طوعا أو كرها قالتا أتينا طائعين",
       "quotedArabic": "فقال لها وللأرض ائتيا طوعا أو كرها قالتا أتينا طائعين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
       "timestamp": "00:04:58",
       "asStatedInVideo": "تقول فقضاهن سبع سماوات في يومين وأوحى في كل سماء أمرها — quoted without a locator",
       "quotedArabic": "فقضاهن سبع سماوات في يومين وأوحى في كل سماء أمرها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
       "timestamp": "00:06:29",
       "asStatedInVideo": "الآية بتقول هو الذي خلق السماوات والأرض في ستة أيام وكان عرشه على الماء — quoted without a locator",
       "quotedArabic": "هو الذي خلق السماوات والأرض في ستة أيام وكان عرشه على الماء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "book",
@@ -795,7 +875,8 @@
       "workTitle": "تفسير منسوب إلى السلف الصالح",
       "locator": "غير محدد",
       "quotedArabic": "وكان ذلك الدخان من تنفس الماء حين تنفس",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "hadith",
@@ -804,66 +885,76 @@
       "workTitle": "صحيح البخاري",
       "locator": "لم يذكر كتابًا ولا رقمًا",
       "quotedArabic": "كان الله ولم يكن شيء غيره وكان عرشه على الماء وكتب في الذكر كل شيء وخلق السماوات والأرض",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:01",
       "asStatedInVideo": "لا نسمع أي إعجاز عن النجوم التي ترجم الشياطين — the verses on stars hurled at devils are alluded to with no wording or locator",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:01",
       "asStatedInVideo": "لا نسمع الإعجاز في أن الأرض مسطحة — flat-earth material alluded to with no verse given",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:01",
       "asStatedInVideo": "كيف أن المني عند الرجل يتكون في الظهر والمني عند المرأة يتكون في الصدر أو موقع القلادة، نعم القرآن يعتقد أن المرأة لها مني وليس بويضة — paraphrase of the backbone-and-ribs verse with no locator or quotation",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:16:01",
       "asStatedInVideo": "إذا أكل أحدكم فلا يمسح يده حتى يلعقها أو يلعقها — quoted with no collection or locator named",
       "quotedArabic": "إذا أكل أحدكم فلا يمسح يده حتى يلعقها أو يلعقها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "book",
       "timestamp": "00:10:43",
       "asStatedInVideo": "الدراسة قامت بها جامعة جورجيا عام ... — clip of apologetic material citing a University of Georgia study, year inaudible or unstated",
       "workTitle": "دراسة جامعة جورجيا",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c13"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:43",
       "asStatedInVideo": "وعندما نوقش هذا النص القرآني مع عالم البحار الأمريكي البروفيسور هيل",
       "author": "البروفيسور هيل / Professor Hill",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:43",
       "asStatedInVideo": "علما بارزا في علم الأجنة البشرية اسمه كيف مور، عالم كندي",
       "author": "كيث مور / Keith Moore",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
       "timestamp": "00:01:00",
       "asStatedInVideo": "فيديو لداعية من دعاة الإعجاز العلمي — an unnamed preacher whose clip is played and rebutted throughout the first half",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c16"
     },
     {
       "citationType": "person",
       "timestamp": "00:12:13",
       "asStatedInVideo": "كيف كان لمحمد أن يعلم بهذه الأمور ... إذن محمد حتما يتواصل مع ملاك يأتيه برسائل من خارج الكون — Muhammad as the figure to whom the information is attributed",
       "author": "محمد",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     }
   ],
   "topicProposals": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "3caGzNr9jwU",
   "videoUrl": "https://www.youtube.com/watch?v=3caGzNr9jwU",
   "videoTitle": "Box of islam 50 .صندوق الإسلام 50 : كلام جديدعن الاسراء",
@@ -148,7 +148,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate Youssef Ziedan's actual statements on the Isra' and Mi'raj (lectures, interviews, or published writing) and confirm he holds the Mi'raj was a vision and the Mecca–Jerusalem destination doubtful."
+      "verificationNote": "Locate Youssef Ziedan's actual statements on the Isra' and Mi'raj (lectures, interviews, or published writing) and confirm he holds the Mi'raj was a vision and the Mecca–Jerusalem destination doubtful.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:22",
@@ -163,7 +166,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify Édouard-Marie Gallez's publications on suspected later additions to the Qur'an and confirm Q17:1 appears in his list."
+      "verificationNote": "Identify Édouard-Marie Gallez's publications on suspected later additions to the Qur'an and confirm Q17:1 appears in his list.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:07",
@@ -179,7 +186,8 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Survey critical Qur'anic scholarship on the Isra' to see whether it supports the strong claim of fictionality, and distinguish the speaker's summary from what the cited scholars actually argue."
+      "verificationNote": "Survey critical Qur'anic scholarship on the Isra' to see whether it supports the strong claim of fictionality, and distinguish the speaker's summary from what the cited scholars actually argue.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:52",
@@ -195,7 +203,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q17:90-93 in full and assess whether the demand for ascent and the reply are addressed to the same audience and period as the Night Journey verse."
+      "verificationNote": "Read Q17:90-93 in full and assess whether the demand for ascent and the reply are addressed to the same audience and period as the Night Journey verse.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:04:38",
@@ -211,7 +222,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q17:93 and consult classical tafsir on whether the reply is read as a denial of capacity or as a refusal of a demanded sign."
+      "verificationNote": "Check the wording of Q17:93 and consult classical tafsir on whether the reply is read as a denial of capacity or as a refusal of a demanded sign.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:38",
@@ -224,7 +238,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Background claim about the history of the field; check against standard accounts of nineteenth-century German Qur'anic scholarship."
+      "verificationNote": "Background claim about the history of the field; check against standard accounts of nineteenth-century German Qur'anic scholarship.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:26",
@@ -238,7 +255,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Find the passage in Gustav Weil's work (e.g. Mohammed der Prophet or his Einleitung in den Koran) where he argues Q17:1 is a post-Muhammad addition, and check how he states it."
+      "verificationNote": "Find the passage in Gustav Weil's work (e.g. Mohammed der Prophet or his Einleitung in den Koran) where he argues Q17:1 is a post-Muhammad addition, and check how he states it.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:26",
@@ -253,7 +273,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q17:1-8 and judge the degree of thematic discontinuity; compare with how classical exegetes explain the transition."
+      "verificationNote": "Read Q17:1-8 and judge the degree of thematic discontinuity; compare with how classical exegetes explain the transition.",
+      "citationRefs": [
+        "c3",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:06:17",
@@ -267,7 +291,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Tabulate the verse endings of the whole of Surat al-Isra' and confirm whether verse 1 is genuinely unique in its rhyme, and whether other verses in the sura also end without the -an/-a pattern."
+      "verificationNote": "Tabulate the verse endings of the whole of Surat al-Isra' and confirm whether verse 1 is genuinely unique in its rhyme, and whether other verses in the sura also end without the -an/-a pattern.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:03",
@@ -284,7 +311,10 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the archaeological and literary dating of construction on the Haram al-Sharif under 'Abd al-Malik and al-Walid, and whether the term al-masjid al-aqsa in the verse necessarily denotes a building."
+      "verificationNote": "Check the archaeological and literary dating of construction on the Haram al-Sharif under 'Abd al-Malik and al-Walid, and whether the term al-masjid al-aqsa in the verse necessarily denotes a building.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:07:53",
@@ -300,7 +330,8 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Assess the scholarly literature on 'Abd al-Malik's religious policy and the extent to which it shaped Islamic identity and sacred geography."
+      "verificationNote": "Assess the scholarly literature on 'Abd al-Malik's religious policy and the extent to which it shaped Islamic identity and sacred geography.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:53",
@@ -314,7 +345,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Treat as a general historical generalization; check whether comparative-religion scholarship supports it and whether it is applied here with evidence specific to Jerusalem."
+      "verificationNote": "Treat as a general historical generalization; check whether comparative-religion scholarship supports it and whether it is applied here with evidence specific to Jerusalem.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:53",
@@ -330,7 +362,11 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the report that 'Abd al-Malik built the Dome of the Rock to divert the hajj (found in al-Ya'qubi) and review the scholarly debate over its reliability."
+      "verificationNote": "Trace the report that 'Abd al-Malik built the Dome of the Rock to divert the hajj (found in al-Ya'qubi) and review the scholarly debate over its reliability.",
+      "citationRefs": [
+        "c10",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:42",
@@ -347,7 +383,10 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the hadith in Bukhari and Muslim, examine its isnads and datings, and check studies proposing an Umayyad-era origin for the fada'il al-Quds material."
+      "verificationNote": "Locate the hadith in Bukhari and Muslim, examine its isnads and datings, and check studies proposing an Umayyad-era origin for the fada'il al-Quds material.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:08:42",
@@ -362,7 +401,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm from the Arabic of Q17:1 that neither the servant nor a located mosque is named, and trace the earliest attestations of the name al-Masjid al-Aqsa for the Jerusalem site."
+      "verificationNote": "Confirm from the Arabic of Q17:1 that neither the servant nor a located mosque is named, and trace the earliest attestations of the name al-Masjid al-Aqsa for the Jerusalem site.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:09:28",
@@ -379,7 +421,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the traditional dating of the Isra' in the sira sources against the archaeological record of the Jerusalem Temple Mount in the early seventh century."
+      "verificationNote": "Check the traditional dating of the Isra' in the sira sources against the archaeological record of the Jerusalem Temple Mount in the early seventh century.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:09:28",
@@ -395,7 +440,8 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check early accounts (e.g. the Umar conquest narratives, Christian pilgrim sources) and archaeology on the state of the Temple Mount before Umayyad construction."
+      "verificationNote": "Check early accounts (e.g. the Umar conquest narratives, Christian pilgrim sources) and archaeology on the state of the Temple Mount before Umayyad construction.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:28",
@@ -412,7 +458,11 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Find the passage in Nöldeke's Geschichte des Qorans dealing with Q17:1 and verify the quotation and its argument."
+      "verificationNote": "Find the passage in Nöldeke's Geschichte des Qorans dealing with Q17:1 and verify the quotation and its argument.",
+      "citationRefs": [
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:10:14",
@@ -427,7 +477,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the biblical ascension accounts of Elijah and Enoch, the Qur'anic identification of Idris, and the Islamic reports attributing the Kaaba's first construction to Adam."
+      "verificationNote": "Check the biblical ascension accounts of Elijah and Enoch, the Qur'anic identification of Idris, and the Islamic reports attributing the Kaaba's first construction to Adam.",
+      "citationRefs": [
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:11:06",
@@ -440,7 +494,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "A counter-argument to the interpolation thesis; verify Nöldeke's actual wording and note that it weakens the contextual argument while leaving the rhyme argument standing."
+      "verificationNote": "A counter-argument to the interpolation thesis; verify Nöldeke's actual wording and note that it weakens the contextual argument while leaving the rhyme argument standing.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:11:06",
@@ -455,7 +512,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Survey how often verse endings break the rhyme pattern of their sura elsewhere in the Qur'an, to test whether the phenomenon is genuinely rare."
+      "verificationNote": "Survey how often verse endings break the rhyme pattern of their sura elsewhere in the Qur'an, to test whether the phenomenon is genuinely rare.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:11:57",
@@ -470,7 +530,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm the alternative name Bani Isra'il for sura 17 in the classical sources, and assess whether the sura as a whole is about the Israelites."
+      "verificationNote": "Confirm the alternative name Bani Isra'il for sura 17 in the classical sources, and assess whether the sura as a whole is about the Israelites.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:11:57",
@@ -485,7 +548,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Obtain the list of 43+ verses attributed to Gallez's research and check whether it is published and how the manuscript basis is argued."
+      "verificationNote": "Obtain the list of 43+ verses attributed to Gallez's research and check whether it is published and how the manuscript basis is argued.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:12:48",
@@ -501,7 +567,10 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify Gallez's specific argument for a partial interpolation in Q17:1 and the evidence he offers for dating it to 'Abd al-Malik's reign."
+      "verificationNote": "Verify Gallez's specific argument for a partial interpolation in Q17:1 and the evidence he offers for dating it to 'Abd al-Malik's reign.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:12:48",
@@ -516,7 +585,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the classical category of naskh al-tilawa (abrogation of wording) and whether any traditional source associates it with Q17:1."
+      "verificationNote": "Check the classical category of naskh al-tilawa (abrogation of wording) and whether any traditional source associates it with Q17:1.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:13:35",
@@ -531,7 +603,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether tanwin reliably marks verse endings in Surat al-Isra' and whether any transmitted verse-division tradition ends verse 1 at laylan."
+      "verificationNote": "Check whether tanwin reliably marks verse endings in Surat al-Isra' and whether any transmitted verse-division tradition ends verse 1 at laylan.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:13:35",
@@ -547,7 +622,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the Samarkand codex at Q2:90 to confirm the defective spelling of 'ibadihi, and check whether the rasm of Q17:1 in early manuscripts admits both readings."
+      "verificationNote": "Examine the Samarkand codex at Q2:90 to confirm the defective spelling of 'ibadihi, and check whether the rasm of Q17:1 in early manuscripts admits both readings.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:14:22",
@@ -565,7 +643,13 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Test whether any manuscript, variant reading, or early report supports a shorter form of Q17:1, and whether the political reconstruction is documented independently."
+      "verificationNote": "Test whether any manuscript, variant reading, or early report supports a shorter form of Q17:1, and whether the political reconstruction is documented independently.",
+      "citationRefs": [
+        "c9",
+        "c10",
+        "c11",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:15:12",
@@ -580,7 +664,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the exact wording of Q20:77, Q26:52 and Q44:23 and confirm that asra bi-'ibadi is the standard Qur'anic collocation for the exodus."
+      "verificationNote": "Check the exact wording of Q20:77, Q26:52 and Q44:23 and confirm that asra bi-'ibadi is the standard Qur'anic collocation for the exodus.",
+      "citationRefs": [
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:02",
@@ -595,7 +684,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the lexical range of s-r-y in classical Arabic dictionaries and the Qur'anic usage of asra, including whether it can carry a supernatural sense."
+      "verificationNote": "Check the lexical range of s-r-y in classical Arabic dictionaries and the Qur'anic usage of asra, including whether it can carry a supernatural sense.",
+      "citationRefs": [
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:57",
@@ -608,7 +702,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the Lot night-travel verses (e.g. Q11:81, Q15:65) and note that they show asra is not exclusively tied to the Israelites."
+      "verificationNote": "Identify the Lot night-travel verses (e.g. Q11:81, Q15:65) and note that they show asra is not exclusively tied to the Israelites.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:16:57",
@@ -623,7 +720,14 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the sura's alternative title is early enough and whether the argument from title to original reading is methodologically sound."
+      "verificationNote": "Assess whether the sura's alternative title is early enough and whether the argument from title to original reading is methodologically sound.",
+      "citationRefs": [
+        "c16",
+        "c19",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:17:43",
@@ -638,7 +742,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine whether other suras begin with a wa- conjunction, and evaluate the internal tension in the speaker's own reconstruction regarding the rhyme."
+      "verificationNote": "Examine whether other suras begin with a wa- conjunction, and evaluate the internal tension in the speaker's own reconstruction regarding the rhyme.",
+      "citationRefs": [
+        "c3",
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:17:43",
@@ -655,7 +764,19 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Note that the speaker offers competing reconstructions rather than one thesis; check whether either is supported by manuscript or variant-reading evidence."
+      "verificationNote": "Note that the speaker offers competing reconstructions rather than one thesis; check whether either is supported by manuscript or variant-reading evidence.",
+      "citationRefs": [
+        "c3",
+        "c9",
+        "c10",
+        "c11",
+        "c16",
+        "c18",
+        "c19",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:18:31",
@@ -672,7 +793,12 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the traditional chronological placement of suras 17 and 53, the Gharaniq reports, and the exegetical linking of Q53 to the Mi'raj."
+      "verificationNote": "Compare the traditional chronological placement of suras 17 and 53, the Gharaniq reports, and the exegetical linking of Q53 to the Mi'raj.",
+      "citationRefs": [
+        "c1",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:19:26",
@@ -690,7 +816,8 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the earliest datable attestations of the Buraq in sira and hadith and check whether they cluster in or after the Marwanid period."
+      "verificationNote": "Trace the earliest datable attestations of the Buraq in sira and hadith and check whether they cluster in or after the Marwanid period.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:26",
@@ -705,7 +832,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "A summary reference to the programme's prior arguments; verify each borrowing claim separately rather than as a block."
+      "verificationNote": "A summary reference to the programme's prior arguments; verify each borrowing claim separately rather than as a block.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:17",
@@ -720,7 +848,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Zoroastrian text the speaker has in mind (possibly the Arda Viraf ascent or a Zoroaster legend) and check whether a winged camel appears in it."
+      "verificationNote": "Identify the Zoroastrian text the speaker has in mind (possibly the Arda Viraf ascent or a Zoroaster legend) and check whether a winged camel appears in it.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:20:17",
@@ -737,7 +868,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadiths describing the Buraq (Bukhari, Muslim) and check whether wings are part of the canonical description or a later accretion."
+      "verificationNote": "Locate the hadiths describing the Buraq (Bukhari, Muslim) and check whether wings are part of the canonical description or a later accretion.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:20:17",
@@ -754,7 +888,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether any scholarly literature argues for Greek mythological influence on the Buraq, and whether the resemblance is more than generic."
+      "verificationNote": "Check whether any scholarly literature argues for Greek mythological influence on the Buraq, and whether the resemblance is more than generic.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:21:07",
@@ -770,7 +907,12 @@
         "greek-mythological-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Perseus–Medusa–Pegasus myth against classical sources (Hesiod, Ovid) and note where the speaker's retelling departs from them."
+      "verificationNote": "Check the Perseus–Medusa–Pegasus myth against classical sources (Hesiod, Ovid) and note where the speaker's retelling departs from them.",
+      "citationRefs": [
+        "c28",
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:23:26",
@@ -786,7 +928,10 @@
         "greek-mythological-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the classical association of Pegasus with Zeus's thunderbolt and with the constellation Pegasus."
+      "verificationNote": "Check the classical association of Pegasus with Zeus's thunderbolt and with the constellation Pegasus.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:23:26",
@@ -802,7 +947,10 @@
         "greek-mythological-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Luvian epithet pihassassi (of lightning) and the scholarly proposal linking it to Pegasus; then assess independently whether Arabic buraq derives from barq and whether any etymological link to Pegasus is defensible."
+      "verificationNote": "Check the Luvian epithet pihassassi (of lightning) and the scholarly proposal linking it to Pegasus; then assess independently whether Arabic buraq derives from barq and whether any etymological link to Pegasus is defensible.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:24:13",
@@ -817,7 +965,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Qur'anic Solomon horse passage (Q38:31, al-safinat al-jiyad) and the rabbinic or midrashic legends about Solomon's flying mounts; note the speaker's mention of an alternative reading of al-safinat."
+      "verificationNote": "Check the Qur'anic Solomon horse passage (Q38:31, al-safinat al-jiyad) and the rabbinic or midrashic legends about Solomon's flying mounts; note the speaker's mention of an alternative reading of al-safinat.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:24:58",
@@ -832,7 +983,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith of 'A'isha's dolls in Sunan Abi Dawud, verify the winged-horse detail and the laughter, and check its grading."
+      "verificationNote": "Locate the hadith of 'A'isha's dolls in Sunan Abi Dawud, verify the winged-horse detail and the laughter, and check its grading.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:26:04",
@@ -849,7 +1003,11 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Confirm the dating of Khaybar in the sira, and evaluate whether the Prophet's laughter in the hadith can reasonably be read as astonishment at a winged horse."
+      "verificationNote": "Confirm the dating of Khaybar in the sira, and evaluate whether the Prophet's laughter in the hadith can reasonably be read as astonishment at a winged horse.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:26:49",
@@ -866,7 +1024,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether the inference holds, and whether the hadith's wording supports reading the Prophet's reaction as disbelief in winged horses."
+      "verificationNote": "Evaluate whether the inference holds, and whether the hadith's wording supports reading the Prophet's reaction as disbelief in winged horses.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:26:49",
@@ -881,7 +1042,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check 'A'isha's age at Khaybar on the traditional chronology, and clarify what the speaker means by the Mu'awiya connection, which is stated only loosely."
+      "verificationNote": "Check 'A'isha's age at Khaybar on the traditional chronology, and clarify what the speaker means by the Mu'awiya connection, which is stated only loosely.",
+      "citationRefs": [
+        "c34",
+        "c35",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:27:35",
@@ -898,7 +1064,10 @@
         "quran-historical-claims-isra-and-miraj"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Confirm that Q17:1 is the only Qur'anic verse cited for the Isra' and that it names neither the servant nor the mosque's location."
+      "verificationNote": "Confirm that Q17:1 is the only Qur'anic verse cited for the Isra' and that it names neither the servant nor the mosque's location.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:28:20",
@@ -916,7 +1085,19 @@
         "umayyad-shaping-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the two proposed sources separately: the Enoch ascent literature and the Pegasus myth, and whether either is argued for in the scholarly literature on the Isra'."
+      "verificationNote": "Evaluate the two proposed sources separately: the Enoch ascent literature and the Pegasus myth, and whether either is argued for in the scholarly literature on the Isra'.",
+      "citationRefs": [
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c15",
+        "c28",
+        "c29",
+        "c30",
+        "c31",
+        "c32"
+      ]
     }
   ],
   "citations": [
@@ -925,14 +1106,16 @@
       "timestamp": "00:01:35",
       "asStatedInVideo": "الدكتور يوسف زيدان وهو متخصص في المخطوطات",
       "author": "يوسف زيدان",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:22",
       "asStatedInVideo": "الباحث الفرنسي إدوارد جالي",
       "author": "إدوار ماري جالي (Édouard-Marie Gallez)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -940,7 +1123,8 @@
       "asStatedInVideo": "الآية الأولى من سورة الإسراء التي تقول سبحان الذي أسرى بعبده ليلا من المسجد الحرام إلى المسجد الأقصى الذي بركنا حوله لنريه من آياتنا إنه السميع البصير",
       "locator": "17:1",
       "quotedArabic": "سبحان الذي أسرى بعبده ليلا من المسجد الحرام إلى المسجد الأقصى الذي باركنا حوله لنريه من آياتنا إنه هو السميع البصير",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -948,7 +1132,8 @@
       "asStatedInVideo": "نفس الصورة صورة الإسراء الآية 93",
       "locator": "17:93",
       "quotedArabic": "أو يكون لك بيت من زخرف أو ترقى في السماء ولن نؤمن لرقيك حتى تنزل علينا كتابا نقرأه",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -956,14 +1141,16 @@
       "asStatedInVideo": "فهو رده قال سبحان ربي إن كنت إلا بشرا رسولا",
       "locator": "17:93",
       "quotedArabic": "قل سبحان ربي هل كنت إلا بشرا رسولا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:38",
       "asStatedInVideo": "الباحث الألماني فايل ... جوستوف فايل",
       "author": "غوستاف فايل (Gustav Weil)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -971,7 +1158,8 @@
       "asStatedInVideo": "الآية اللي بعدها وآتينا موسى الكتاب وجعلناه هدى لبني إسرائيل ألا تتخذوا من دوني وكيلا",
       "locator": "17:2",
       "quotedArabic": "وآتينا موسى الكتاب وجعلناه هدى لبني إسرائيل ألا تتخذوا من دوني وكيلا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -979,28 +1167,32 @@
       "asStatedInVideo": "في الآية الأولى هو يقول السميع البصير وفي الآية الثانية وكيلا شكورا كبيرا مفعولا نفيرا",
       "locator": "سورة الإسراء - فواصل الآيات",
       "quotedArabic": "وكيلا شكورا كبيرا مفعولا نفيرا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:03",
       "asStatedInVideo": "المسجد الأقصى كما نعرف أنه بني في عصر عبد الملك بن مروان",
       "author": "عبد الملك بن مروان",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:53",
       "asStatedInVideo": "عبد الله بن الزبير كان يعني في مكة يعني عمل خلافة ضد خلافة الأمويين",
       "author": "عبد الله بن الزبير",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "event",
       "timestamp": "00:07:53",
       "asStatedInVideo": "قيل أنه بهذا السبب قام عبد الملك بن المروان ببناء قبة الصخرة لجلب الحجيج إليها",
       "workTitle": "بناء قبة الصخرة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "hadith",
@@ -1008,7 +1200,8 @@
       "asStatedInVideo": "ظهر في هذا العصر كمان حديث يقول لا يشد الرحال إلا إلى ثلاث ومنهم المسجد الأقصى",
       "locator": "لم يذكر المصدر ولا الراوي",
       "quotedArabic": "لا تشد الرحال إلا إلى ثلاثة مساجد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -1016,21 +1209,24 @@
       "asStatedInVideo": "بالنسبة لتيودر نولديكا نعم أنه هو قال يجوز لنا أن نرى في الإسراء الليلي عملا قام به بطل ديني آخر من أبطال العصور الخوالي",
       "author": "تيودور نولدكه (Theodor Nöldeke)",
       "workTitle": "لم يُسمَّ الكتاب في الحلقة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:14",
       "asStatedInVideo": "ليس من بين الشخصيات الكتاب المقدس التي ترتبط بالكعبة مثل آدم وإبراهيم من تنقل عنه معجزة كهذه",
       "author": "آدم وإبراهيم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:14",
       "asStatedInVideo": "الشخصيات اللي هي طلعت للسماء زي إليا النبي أو كمثل النبي أخنوخ اللي هو إدريس في القرآن",
       "author": "إيليا النبي، أخنوخ (إدريس)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "book",
@@ -1038,7 +1234,8 @@
       "asStatedInVideo": "الصورة الكاملة بتاعة الإسراء حتى اسمها الرسمي هي صورة بني إسرائيل",
       "workTitle": "سورة بني إسرائيل (سورة الإسراء)",
       "locator": "سورة 17",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "book",
@@ -1047,14 +1244,16 @@
       "author": "إدوار ماري جالي",
       "workTitle": "بحث في الآيات المحتمل إضافتها لاحقاً إلى القرآن",
       "locator": "أكثر من 43 آية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "book",
       "timestamp": "00:13:35",
       "asStatedInVideo": "ما يسمى عند علماء الإسلام بما نسخ حرفه",
       "workTitle": "مفهوم ما نُسخ حرفه (نسخ التلاوة)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -1063,7 +1262,8 @@
       "workTitle": "مخطوطة سمرقند",
       "locator": "القرآن 2:90",
       "quotedArabic": "على من يشاء من عباده",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -1071,7 +1271,8 @@
       "asStatedInVideo": "الآية الأولى هي في سورة طه الآية 77 ولقد أوحينا إلى موسى أن أسر بعبادي",
       "locator": "20:77",
       "quotedArabic": "ولقد أوحينا إلى موسى أن أسر بعبادي",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -1079,7 +1280,8 @@
       "asStatedInVideo": "الآية الثانية جاءت في سورة الشعراء الآية 52 بتقول وأوحينا إلى موسى أن أسر بعبادي إنكم متبعون",
       "locator": "26:52",
       "quotedArabic": "وأوحينا إلى موسى أن أسر بعبادي إنكم متبعون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -1087,14 +1289,16 @@
       "asStatedInVideo": "وأخيرا في سورة الدخان الآية 23 فأسر بعبادي ليلا",
       "locator": "44:23",
       "quotedArabic": "فأسر بعبادي ليلا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:57",
       "asStatedInVideo": "في آيتين في القرآن تتحدث عن إسراء لوط مع عائلته",
       "locator": "لم تُذكر أرقام الآيات",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1102,56 +1306,64 @@
       "asStatedInVideo": "وصورة النجم اللي فيها إشارة إلى المعراج قبلها بتاع خمس سنوات عند قصة الغرانيق وما ضل صاحبكم وما غوى وما ينطق عن الهوى",
       "locator": "سورة النجم 53:2-3",
       "quotedArabic": "ما ضل صاحبكم وما غوى وما ينطق عن الهوى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "event",
       "timestamp": "00:18:31",
       "asStatedInVideo": "عند قصة الغرانيق",
       "workTitle": "قصة الغرانيق",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
       "timestamp": "00:20:17",
       "asStatedInVideo": "عندنا قصة زراديشتية على أساس إنه نبي الزراديشتي بيطير بجمل مجنح",
       "author": "النبي الزرادشتي (زرادشت)",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c26"
     },
     {
       "citationType": "book",
       "timestamp": "00:20:17",
       "asStatedInVideo": "البراق يقال عنه عند العلماء الإسلام إنه هو دابة أبيض فوق الحمار ودون البغل",
       "workTitle": "وصف البراق عند علماء الإسلام",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "person",
       "timestamp": "00:21:07",
       "asStatedInVideo": "في المتولوجية اليونانية أنه فيه حصان أسطوري له جناحين اسمه بيغاسوس",
       "author": "بيغاسوس (Pegasus)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
       "timestamp": "00:21:52",
       "asStatedInVideo": "فرآها إله البحر اللي هو بوسيدم ... فهي طبعا هربت للمعبد بتاع أتينة اللي هي إلهة الحكمة ... ساعدت ميدوزا",
       "author": "بوسيدون، أثينة، ميدوزا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "person",
       "timestamp": "00:21:52",
       "asStatedInVideo": "في بطل من الأبطال اليونان اللي هو بيرتيوس",
       "author": "بيرسيوس (Perseus)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
       "timestamp": "00:23:26",
       "asStatedInVideo": "هناك الإله زيوس قد استخدم أو طلب مساعدة هذا الفرس المجنح",
       "author": "زيوس",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c31"
     },
     {
       "citationType": "book",
@@ -1159,7 +1371,8 @@
       "asStatedInVideo": "في إحدى اللغات القديمة اللي كانت في بلاد الأنبياء تقريبا 600 سنة قبل الميلاد وهي كانت لغة اسمها اللوفية كلمة بيهاسس معناها برق",
       "workTitle": "اللغة اللوفية (Luwian)",
       "locator": "نحو 600 ق.م.",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1167,7 +1380,8 @@
       "asStatedInVideo": "حتى عند الملك سليمان كان برضو في قصة أنه عنده أحصنة مجنحة ... اللي هي الصافينات موجودة في صفنات الجياد ... صافيات لها قراءة أخرى",
       "locator": "لم يُذكر رقم الآية (إشارة إلى الصافنات الجياد)",
       "quotedArabic": "الصافنات الجياد",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c33"
     },
     {
       "citationType": "hadith",
@@ -1176,7 +1390,8 @@
       "workTitle": "سنن أبي داود",
       "author": "عائشة (الراوية)",
       "locator": "لم يُذكر رقم الحديث؛ المتحدث يقول \"أعتقد\"",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c34"
     },
     {
       "citationType": "event",
@@ -1184,14 +1399,16 @@
       "asStatedInVideo": "المفروض أن خيبر دي يعني سنة خمسة هجريا أو ستة هجريا ... هي خيبر كانت سنة ستمية وتسعة وعشرين يعني تقريبا السبعة والثامنة بعد الهجرة",
       "workTitle": "معركة خيبر",
       "locator": "629 م / السنة السابعة أو الثامنة للهجرة (تردد المتحدث بين 5 و6 و7 و8)",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "person",
       "timestamp": "00:26:49",
       "asStatedInVideo": "وكذلك معاوية بن أبي سفيان ... معاوية بن أبي سفيان كان كافر وقتها",
       "author": "معاوية بن أبي سفيان",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     }
   ],
   "topicProposals": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "jgkEOr6bon0",
   "videoUrl": "https://www.youtube.com/watch?v=jgkEOr6bon0",
   "videoTitle": "BOI Episode 19 برنامج صندوق الإسلام - الحلقة التاسعة عشر: مراحل تطور القرآن/ الفترة المكية",
@@ -74,7 +74,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check biographical reports in Ibn Ishaq/Ibn Hisham and Sahih al-Bukhari regarding the 'fatra' (pause) of revelation and reports of grief or suicide attempts."
+      "verificationNote": "Check biographical reports in Ibn Ishaq/Ibn Hisham and Sahih al-Bukhari regarding the 'fatra' (pause) of revelation and reports of grief or suicide attempts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:24",
@@ -88,7 +89,11 @@
         "quran-psychological-origin"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Asbab al-Nuzul (occasions of revelation) for Surah Ad-Duha and Ash-Sharh in classical exegesis."
+      "verificationNote": "Check Asbab al-Nuzul (occasions of revelation) for Surah Ad-Duha and Ash-Sharh in classical exegesis.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:03:32",
@@ -102,7 +107,8 @@
         "pre-islamic-prophets"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical sources on pre-Islamic Arabia and reports of other individuals claiming prophethood or monotheism (Hanafiya) prior to Islam."
+      "verificationNote": "Check historical sources on pre-Islamic Arabia and reports of other individuals claiming prophethood or monotheism (Hanafiya) prior to Islam.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:17",
@@ -116,7 +122,11 @@
         "quran-psychological-origin"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check classical Tafsir (e.g. Tabari) regarding the occasion of revelation for Surah Al-Masad."
+      "verificationNote": "Check classical Tafsir (e.g. Tabari) regarding the occasion of revelation for Surah Al-Masad.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:44",
@@ -130,7 +140,10 @@
         "quran-psychological-origin"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Tafsir explanations of the term 'al-abtar' in Surah Al-Kawthar."
+      "verificationNote": "Check Tafsir explanations of the term 'al-abtar' in Surah Al-Kawthar.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:07:48",
@@ -144,7 +157,12 @@
         "syriac-christian-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check comparative studies between Syriac Christian hymmography (Ephrem the Syrian) and Quranic apocalyptic terminology."
+      "verificationNote": "Check comparative studies between Syriac Christian hymmography (Ephrem the Syrian) and Quranic apocalyptic terminology.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:09:41",
@@ -156,7 +174,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check chronological classifications of Quranic surahs (Meccan vs. Medinan phases) and the placement of Ad/Thamud narrative cycles."
+      "verificationNote": "Check chronological classifications of Quranic surahs (Meccan vs. Medinan phases) and the placement of Ad/Thamud narrative cycles.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:11:34",
@@ -171,7 +192,13 @@
         "satanic-verses-incident"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Tabari's Tafsir/Tarikh and Ibn Ishaq's account regarding the story of the Cranes (Hadith al-Gharaniq)."
+      "verificationNote": "Check Tabari's Tafsir/Tarikh and Ibn Ishaq's account regarding the story of the Cranes (Hadith al-Gharaniq).",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:11:46",
@@ -183,7 +210,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare extant transmissions of Ibn Ishaq (e.g. preserved in Tabari) with Ibn Hisham's edited version."
+      "verificationNote": "Compare extant transmissions of Ibn Ishaq (e.g. preserved in Tabari) with Ibn Hisham's edited version.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:14:17",
@@ -195,7 +225,14 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check classical treatises on Nasikh and Mansukh and whether the Gharaniq incident was treated under abrogation or divine protection (ismah)."
+      "verificationNote": "Check classical treatises on Nasikh and Mansukh and whether the Gharaniq incident was treated under abrogation or divine protection (ismah).",
+      "citationRefs": [
+        "c14",
+        "c15",
+        "c18",
+        "c19",
+        "c20"
+      ]
     },
     {
       "timestamp": "00:14:53",
@@ -207,7 +244,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check academic publications on the Sanaa 1 palimpsest lower and upper text variants."
+      "verificationNote": "Check academic publications on the Sanaa 1 palimpsest lower and upper text variants.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:17:23",
@@ -221,7 +261,11 @@
         "jewish-rabbinic-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Genesis Rabbah 38:13 regarding Abraham breaking his father's idols compared to Quran 21:51-70."
+      "verificationNote": "Check Genesis Rabbah 38:13 regarding Abraham breaking his father's idols compared to Quran 21:51-70.",
+      "citationRefs": [
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:18:44",
@@ -235,7 +279,10 @@
         "jewish-rabbinic-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check rabbinic parallels to Quranic stories (e.g. Cain and Abel in Surah al-Ma'idah 5:32 and Mishnah Sanhedrin 4:5)."
+      "verificationNote": "Check rabbinic parallels to Quranic stories (e.g. Cain and Abel in Surah al-Ma'idah 5:32 and Mishnah Sanhedrin 4:5).",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:19:35",
@@ -249,7 +296,11 @@
         "apocryphal-gospel-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Quran 3:49 / 5:110 with the Infancy Gospel of Thomas 2:1-5."
+      "verificationNote": "Compare Quran 3:49 / 5:110 with the Infancy Gospel of Thomas 2:1-5.",
+      "citationRefs": [
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:22:12",
@@ -263,7 +314,11 @@
         "extremism-and-exclusivism"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check classical usage of the 'Saved Sect' hadith and modern ideological literature of extremist groups."
+      "verificationNote": "Check classical usage of the 'Saved Sect' hadith and modern ideological literature of extremist groups.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     }
   ],
   "citations": [
@@ -275,7 +330,8 @@
       "author": "",
       "locator": "93:1-3",
       "quotedArabic": "وَالضُّحَى وَاللَّيْلِ إِذَا سَجَى مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَى وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -285,7 +341,8 @@
       "author": "",
       "locator": "94:1",
       "quotedArabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -295,7 +352,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -305,7 +363,8 @@
       "author": "",
       "locator": "111:1",
       "quotedArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -315,7 +374,8 @@
       "author": "",
       "locator": "111:4",
       "quotedArabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -325,7 +385,8 @@
       "author": "",
       "locator": "108:3",
       "quotedArabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -335,7 +396,8 @@
       "author": "",
       "locator": "99:1-3",
       "quotedArabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا وَقَالَ الْإِنسَانُ مَا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -345,7 +407,8 @@
       "author": "",
       "locator": "81:1-3",
       "quotedArabic": "إِذَا الشَّمْسُ كُوِّرَتْ وَإِذَا النُّجُومُ انكَدَرَتْ وَإِذَا الْجِبَالُ سُيِّرَتْ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "hadith",
@@ -355,7 +418,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "بعثت أنا والساعة كهاتين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -365,7 +429,8 @@
       "author": "",
       "locator": "54:1",
       "quotedArabic": "اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -375,7 +440,8 @@
       "author": "Ephrem the Syrian",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -385,7 +451,8 @@
       "author": "",
       "locator": "91:14-15",
       "quotedArabic": "فَكَّذَبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنبِهِمْ فسَوَّاهَا وَلَا يَخَافُ عُقْبَاهَا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -395,7 +462,8 @@
       "author": "",
       "locator": "53:19-20",
       "quotedArabic": "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّى وَمَنَاةَ الثَّالِثَةَ الْأُخْرَى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "book",
@@ -405,7 +473,8 @@
       "author": "Al-Tabari",
       "locator": "Surah An-Najm commentary",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -415,7 +484,8 @@
       "author": "Ibn Ishaq / Ibn Hisham",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -425,7 +495,8 @@
       "author": "",
       "locator": "39:3",
       "quotedArabic": "مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَا إِلَى اللَّهِ زُلْفَى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "event",
@@ -435,7 +506,8 @@
       "author": "",
       "locator": "Sanaa Palimpsest (DAM 01-27.1)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -445,7 +517,8 @@
       "author": "",
       "locator": "53:21-23",
       "quotedArabic": "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنثَى إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -455,7 +528,8 @@
       "author": "",
       "locator": "21:98",
       "quotedArabic": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ اللَّهِ حَصَبُ جَهَنَّمَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -465,7 +539,8 @@
       "author": "",
       "locator": "109:1-3",
       "quotedArabic": "قُلْ يَا أَيُّهَا الْكَافِرُونَ لَا أَعْبُدُ مَا تَعْبُدُونَ وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "book",
@@ -475,7 +550,8 @@
       "author": "Ibn Kathir, Al-Baghawi, Al-Qurtubi, Al-Tabari",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "book",
@@ -485,7 +561,8 @@
       "author": "Rabbinic Sages",
       "locator": "Genesis Rabbah 38",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "book",
@@ -495,7 +572,8 @@
       "author": "Rabbinic Sages",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -505,7 +583,8 @@
       "author": "",
       "locator": "3:49 / 5:110",
       "quotedArabic": "وَأَنِّي أَخْلُقُ لَكُم مِّنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ فَيَكُونُ طَيْرًا بِإِذْنِ اللَّهِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "book",
@@ -515,7 +594,8 @@
       "author": "Apocryphal authors",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -525,7 +605,8 @@
       "author": "",
       "locator": "100:6",
       "quotedArabic": "إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -535,7 +616,8 @@
       "author": "",
       "locator": "103:2",
       "quotedArabic": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
@@ -545,7 +627,8 @@
       "author": "",
       "locator": "17:70",
       "quotedArabic": "وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c28"
     }
   ],
   "topicProposals": [

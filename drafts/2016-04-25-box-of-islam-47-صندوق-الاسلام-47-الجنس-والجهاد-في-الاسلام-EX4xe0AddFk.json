@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "EX4xe0AddFk",
   "videoUrl": "https://www.youtube.com/watch?v=EX4xe0AddFk",
   "videoTitle": "Box of islam 47 صندوق الاسلام 47 :الجنس والجهاد في الاسلام",
@@ -160,7 +160,10 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the preacher and the hadith or exegetical sources behind the claim of two houris per believer, seventy handmaidens per houri, and the sexual lawfulness of handmaidens; check Tirmidhi, Ibn Majah and paradise-description literature for these numbers."
+      "verificationNote": "Identify the preacher and the hadith or exegetical sources behind the claim of two houris per believer, seventy handmaidens per houri, and the sexual lawfulness of handmaidens; check Tirmidhi, Ibn Majah and paradise-description literature for these numbers.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:33",
@@ -178,7 +181,10 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether classical sources describe houris as mulk al-yamin and rank paradise women in classes, and locate the Qur'anic phrase al-wildan al-mukhalladun (Q 56:17, 76:19) used as the comparison."
+      "verificationNote": "Check whether classical sources describe houris as mulk al-yamin and rank paradise women in classes, and locate the Qur'anic phrase al-wildan al-mukhalladun (Q 56:17, 76:19) used as the comparison.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:02:34",
@@ -195,7 +201,8 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the seventy-year-encounter motif and the calling houri to its hadith or preaching source; check whether it appears in canonical collections or only in later homiletic literature."
+      "verificationNote": "Trace the seventy-year-encounter motif and the calling houri to its hadith or preaching source; check whether it appears in canonical collections or only in later homiletic literature.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:23",
@@ -212,7 +219,11 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 50:35 (wa-ladayna mazid) and Q 32:17 (qurrat a'yun) and compare classical exegesis with the sexual reading the preacher assigns them."
+      "verificationNote": "Check Q 50:35 (wa-ladayna mazid) and Q 32:17 (qurrat a'yun) and compare classical exegesis with the sexual reading the preacher assigns them.",
+      "citationRefs": [
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:04:09",
@@ -228,7 +239,8 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the balance of sensual versus spiritual descriptions of paradise across the Qur'an and canonical hadith to assess whether the characterization is supported."
+      "verificationNote": "Compare the balance of sensual versus spiritual descriptions of paradise across the Qur'an and canonical hadith to assess whether the characterization is supported.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:54",
@@ -245,7 +257,10 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the Qur'anic paradise descriptions naming lahm tayr, 'inab, khamr and hur (e.g. Q 56, Q 55, Q 78) and assess whether the sensual content grounds the claim."
+      "verificationNote": "Collect the Qur'anic paradise descriptions naming lahm tayr, 'inab, khamr and hur (e.g. Q 56, Q 55, Q 78) and assess whether the sensual content grounds the claim.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:05:40",
@@ -262,7 +277,10 @@
         "jihad-incentive-structure"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess against studies of martyrdom literature and recruitment propaganda whether paradise descriptions function as jihad motivation in the sources cited."
+      "verificationNote": "Assess against studies of martyrdom literature and recruitment propaganda whether paradise descriptions function as jihad motivation in the sources cited.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:40",
@@ -280,7 +298,10 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the hadith about a houri spitting into the sea and sweetening it, and check whether such descriptions appear in recruitment or martyrdom material."
+      "verificationNote": "Locate the hadith about a houri spitting into the sea and sweetening it, and check whether such descriptions appear in recruitment or martyrdom material.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:06:27",
@@ -296,7 +317,11 @@
         "jihad-incentive-structure"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Qur'anic and hadith statements about assurance of salvation, and the classical doctrine on fear and hope (khawf wa-raja'), against the claim of no guarantee."
+      "verificationNote": "Check Qur'anic and hadith statements about assurance of salvation, and the classical doctrine on fear and hope (khawf wa-raja'), against the claim of no guarantee.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:27",
@@ -312,7 +337,11 @@
         "jihad-incentive-structure"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the saying attributed to Abu Bakr about not feeling safe from God's makr with one foot in paradise to its source and assess its authenticity."
+      "verificationNote": "Trace the saying attributed to Abu Bakr about not feeling safe from God's makr with one foot in paradise to its source and assess its authenticity.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:27",
@@ -327,7 +356,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Q 8:30 and Q 3:54 wording on makr, and check the classical lists of the divine names for whether al-Makir is included."
+      "verificationNote": "Verify Q 8:30 and Q 3:54 wording on makr, and check the classical lists of the divine names for whether al-Makir is included.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:07:13",
@@ -344,7 +376,10 @@
         "jihad-incentive-structure"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 9:111 wording and classical exegesis on whether martyrdom is presented as an unconditional guarantee of paradise."
+      "verificationNote": "Check Q 9:111 wording and classical exegesis on whether martyrdom is presented as an unconditional guarantee of paradise.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:07:58",
@@ -360,7 +395,10 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Comparative and rhetorical claim; verify only the underlying paradise descriptions the comparison rests on."
+      "verificationNote": "Comparative and rhetorical claim; verify only the underlying paradise descriptions the comparison rests on.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:58",
@@ -377,7 +415,8 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess against Qur'anic and hadith descriptions of women's status in paradise whether the sources grant women independent reward or agency."
+      "verificationNote": "Assess against Qur'anic and hadith descriptions of women's status in paradise whether the sources grant women independent reward or agency.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:44",
@@ -395,7 +434,8 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Survey Qur'anic and hadith descriptions of women's rewards in paradise and check whether any male counterpart to the houris is described."
+      "verificationNote": "Survey Qur'anic and hadith descriptions of women's rewards in paradise and check whether any male counterpart to the houris is described.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:44",
@@ -410,7 +450,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Core premise inference; verify the supporting textual asymmetries and the biographical marriage record it rests on."
+      "verificationNote": "Core premise inference; verify the supporting textual asymmetries and the biographical marriage record it rests on.",
+      "citationRefs": [
+        "c12",
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:30",
@@ -426,7 +470,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 33:50 for the wording on cousins and the woman who offers herself, and classical exegesis on its occasion of revelation."
+      "verificationNote": "Check Q 33:50 for the wording on cousins and the woman who offers herself, and classical exegesis on its occasion of revelation.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:09:30",
@@ -443,7 +490,10 @@
         "paradise-sexual-rewards"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 55:72 (hur maqsurat fi al-khiyam) and the hur 'in verses, and the classical exegesis of these descriptions."
+      "verificationNote": "Check Q 55:72 (hur maqsurat fi al-khiyam) and the hur 'in verses, and the classical exegesis of these descriptions.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:18",
@@ -459,7 +509,8 @@
         "jihad-incentive-structure"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Inference from the earlier salvation and martyrdom claims; verify those rather than this restatement."
+      "verificationNote": "Inference from the earlier salvation and martyrdom claims; verify those rather than this restatement.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:18",
@@ -475,7 +526,8 @@
         "jihad-incentive-structure"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check forensic and journalistic reporting on suicide bombers wrapping genitals before attacks, and whether the practice is documented rather than anecdotal."
+      "verificationNote": "Check forensic and journalistic reporting on suicide bombers wrapping genitals before attacks, and whether the practice is documented rather than anecdotal.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:18",
@@ -491,7 +543,10 @@
         "jihad-incentive-structure"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess against sirah and maghazi accounts whether sexual reward is used as an instrument of command and motivation."
+      "verificationNote": "Assess against sirah and maghazi accounts whether sexual reward is used as an instrument of command and motivation.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:06",
@@ -507,7 +562,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadiths on the prophet's sexual strength being that of thirty (or forty) men, e.g. in Bukhari and Musnad Ahmad, and check the numbers actually stated."
+      "verificationNote": "Locate the hadiths on the prophet's sexual strength being that of thirty (or forty) men, e.g. in Bukhari and Musnad Ahmad, and check the numbers actually stated.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:52",
@@ -524,7 +582,10 @@
         "jihad-incentive-structure"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive inference; check whether early sources link the prophet's sexual strength to military virility rhetoric."
+      "verificationNote": "Interpretive inference; check whether early sources link the prophet's sexual strength to military virility rhetoric.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:52",
@@ -542,7 +603,8 @@
         "jihad-incentive-structure"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check maghazi and futuh literature on the distribution of captives as part of spoils and whether sources present this as a recruitment incentive."
+      "verificationNote": "Check maghazi and futuh literature on the distribution of captives as part of spoils and whether sources present this as a recruitment incentive.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:39",
@@ -557,7 +619,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q 21:107 (rahmatan lil-'alamin) and the scope of the ya ayyuha al-nas address in classical exegesis against the speaker's restriction to Muslims."
+      "verificationNote": "Check Q 21:107 (rahmatan lil-'alamin) and the scope of the ya ayyuha al-nas address in classical exegesis against the speaker's restriction to Muslims.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:13:24",
@@ -575,7 +640,8 @@
         "jihad-incentive-structure"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether any classical juristic or homiletic source articulates this womb-conversion rationale, and whether the children of captive women were held to follow the father's religion."
+      "verificationNote": "Check whether any classical juristic or homiletic source articulates this womb-conversion rationale, and whether the children of captive women were held to follow the father's religion.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:24",
@@ -591,7 +657,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the sirah accounts of Safiyya bint Huyayy at Khaybar with documented ISIS practice regarding Yazidi captives to test the claimed identity of the scenarios."
+      "verificationNote": "Compare the sirah accounts of Safiyya bint Huyayy at Khaybar with documented ISIS practice regarding Yazidi captives to test the claimed identity of the scenarios.",
+      "citationRefs": [
+        "c16",
+        "c17"
+      ]
     },
     {
       "timestamp": "00:14:11",
@@ -608,7 +678,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Bukhari, Muslim, Ibn Ishaq and Waqidi on the timing of Safiyya's consummation relative to the killing of Kinana b. al-Rabi' and of Huyayy b. Akhtab."
+      "verificationNote": "Check Bukhari, Muslim, Ibn Ishaq and Waqidi on the timing of Safiyya's consummation relative to the killing of Kinana b. al-Rabi' and of Huyayy b. Akhtab.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:14:11",
@@ -624,7 +697,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the sirah reports on Safiyya's stated attitude toward Islam with the circumstances of her capture recorded in the same sources."
+      "verificationNote": "Compare the sirah reports on Safiyya's stated attitude toward Islam with the circumstances of her capture recorded in the same sources.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:14:57",
@@ -640,7 +717,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the fiqh rules on istibra' for captives versus 'idda for free women, and the hadiths on intercourse with captives (e.g. the Awtas reports) against this characterization."
+      "verificationNote": "Check the fiqh rules on istibra' for captives versus 'idda for free women, and the hadiths on intercourse with captives (e.g. the Awtas reports) against this characterization.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:15:42",
@@ -657,7 +737,11 @@
         "jihad-incentive-structure"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the apologetic claim that Islam liberated women against the legal status of captive and enslaved women in the same sources."
+      "verificationNote": "Assess the apologetic claim that Islam liberated women against the legal status of captive and enslaved women in the same sources.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:15:42",
@@ -675,7 +759,11 @@
         "jihad-incentive-structure"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report on Tabuk and banat al-asfar (reported in tafsir of Q 9 and in sirah/maghazi literature) and check its exact wording and chains."
+      "verificationNote": "Locate the report on Tabuk and banat al-asfar (reported in tafsir of Q 9 and in sirah/maghazi literature) and check its exact wording and chains.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:15:42",
@@ -689,7 +777,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical slave-market price data for Byzantine or fair-skinned captives relative to other categories in early Islamic sources."
+      "verificationNote": "Check historical slave-market price data for Byzantine or fair-skinned captives relative to other categories in early Islamic sources.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:30",
@@ -703,7 +794,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the ISIS video or documented slave price list on the valuation of blue-eyed captives."
+      "verificationNote": "Locate the ISIS video or documented slave price list on the valuation of blue-eyed captives.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:30",
@@ -718,7 +812,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Sociological inference; check whether it rests on any cited data beyond the speaker's reasoning from the captivity precedent."
+      "verificationNote": "Sociological inference; check whether it rests on any cited data beyond the speaker's reasoning from the captivity precedent.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:17:15",
@@ -733,7 +830,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Cultural inference; verify the underlying legal categories of nikah and concubinage it relies on rather than the sociological conclusion."
+      "verificationNote": "Cultural inference; verify the underlying legal categories of nikah and concubinage it relies on rather than the sociological conclusion.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:01",
@@ -747,7 +845,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative comparison; no source locator to verify beyond the legal rules already recorded."
+      "verificationNote": "Evaluative comparison; no source locator to verify beyond the legal rules already recorded.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:47",
@@ -762,7 +861,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the Egyptian Salafi fatwas prohibiting handshaking and sitting on a seat warmed by a woman, and identify the scholars who issued them."
+      "verificationNote": "Locate the Egyptian Salafi fatwas prohibiting handshaking and sitting on a seat warmed by a woman, and identify the scholars who issued them.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:19:32",
@@ -778,7 +880,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the hadith about a head being pierced with an iron needle rather than touching a woman (attributed to Tabarani) and any report about sinking seventy cubits, and check their wording and grading."
+      "verificationNote": "Trace the hadith about a head being pierced with an iron needle rather than touching a woman (attributed to Tabarani) and any report about sinking seventy cubits, and check their wording and grading.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:19:32",
@@ -792,7 +897,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Broad sociological conclusion with no source locator; verify only the specific rulings and reports it builds on."
+      "verificationNote": "Broad sociological conclusion with no source locator; verify only the specific rulings and reports it builds on.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:18",
@@ -806,7 +912,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative claim about contemporary societies; no primary source to check."
+      "verificationNote": "Evaluative claim about contemporary societies; no primary source to check.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:20:18",
@@ -820,7 +930,11 @@
         "daawa-rhetoric-and-fabrication"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the preacher in the closing clip and check whether any US Congressional proceeding on street children or Islamic banking of the kind described ever occurred."
+      "verificationNote": "Identify the preacher in the closing clip and check whether any US Congressional proceeding on street children or Islamic banking of the kind described ever occurred.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     }
   ],
   "citations": [
@@ -832,7 +946,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لكل مسلم في الجنة حوريتين، هذا أقل شيء، كل حورية لها سبعين وصيفة معها، الحورية حلالك والوصيفة حلالك",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -842,7 +957,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "الولدان المخلدون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -852,7 +968,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولدينا مزيد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -862,7 +979,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فلا تعلم نفس ما أخفي لهم من قرة أعين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -872,7 +990,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "hadith",
@@ -882,7 +1001,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -892,7 +1012,8 @@
       "author": "أبو بكر الصديق",
       "locator": "",
       "quotedArabic": "ما آمن مكر ربي ولو كانت إحدى قدماي في الجنة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -902,7 +1023,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -912,7 +1034,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ويمكرون ويمكر الله والله خير الماكرين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -922,7 +1045,8 @@
       "author": "",
       "locator": "9:111",
       "quotedArabic": "إن الله اشترى من المؤمنين أنفسهم وأموالهم بأن لهم الجنة يقاتلون في سبيل الله فيقتلون ويقتلون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
@@ -932,7 +1056,8 @@
       "author": "هيو هافنر",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -942,7 +1067,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وامرأة مؤمنة إن وهبت نفسها للنبي إن أراد النبي أن يستنكحها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -952,7 +1078,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "حور مقصورات في الخيام",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "hadith",
@@ -962,7 +1089,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -972,7 +1100,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "event",
@@ -982,7 +1111,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "sirah",
@@ -992,7 +1122,8 @@
       "author": "",
       "locator": "صفية بنت حيي",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
@@ -1002,7 +1133,8 @@
       "author": "صفية بنت حيي",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "event",
@@ -1012,7 +1144,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "hadith",
@@ -1022,7 +1155,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "اغزوا تبوك تنالوا بنات الأصفر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "event",
@@ -1032,7 +1166,8 @@
       "author": "",
       "locator": "غزوة تبوك",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "event",
@@ -1042,7 +1177,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c22"
     },
     {
       "citationType": "event",
@@ -1052,7 +1188,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "person",
@@ -1062,7 +1199,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c24"
     },
     {
       "citationType": "hadith",
@@ -1072,7 +1210,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c25"
     },
     {
       "citationType": "person",
@@ -1082,7 +1221,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c26"
     },
     {
       "citationType": "event",
@@ -1092,7 +1232,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     }
   ],
   "topicProposals": [

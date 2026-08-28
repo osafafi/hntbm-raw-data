@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "E-b6N24Tkjs",
   "videoUrl": "https://www.youtube.com/watch?v=E-b6N24Tkjs",
   "videoTitle": "Box of islam 54 صندوق الإسلام 54 : فترة  ما بين معاوية بن ابي سفيان و عبد الملك بن مروان",
@@ -139,7 +139,10 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check published Umayyad numismatic and epigraphic catalogues for coins and inscriptions attributed to Mu'awiya's reign that carry cross iconography, and confirm the attribution and dating independently of the speaker."
+      "verificationNote": "Check published Umayyad numismatic and epigraphic catalogues for coins and inscriptions attributed to Mu'awiya's reign that carry cross iconography, and confirm the attribution and dating independently of the speaker.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:00:02",
@@ -155,7 +158,10 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey modern scholarship on Mu'awiya to see whether the material record is in fact regarded as difficult to reconcile with the traditional Islamic portrait."
+      "verificationNote": "Survey modern scholarship on Mu'awiya to see whether the material record is in fact regarded as difficult to reconcile with the traditional Islamic portrait.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:55",
@@ -171,7 +177,8 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check demographic estimates for the Christian population of Syria under early Umayyad rule and the scholarly explanations offered for cross iconography on Arab-Byzantine coinage."
+      "verificationNote": "Check demographic estimates for the Christian population of Syria under early Umayyad rule and the scholarly explanations offered for cross iconography on Arab-Byzantine coinage.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:31",
@@ -186,7 +193,8 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Methodological and biographical statement about the guest's own corpus; an editor need only note that the underlying reference list and coin count are not published in the video."
+      "verificationNote": "Methodological and biographical statement about the guest's own corpus; an editor need only note that the underlying reference list and coin count are not published in the video.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:21",
@@ -203,7 +211,12 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify against standard catalogues of Arab-Byzantine and Arab-Sasanian coinage that the pre-reform issues retained Byzantine denominations and the Sasanian bust-and-fire-altar types."
+      "verificationNote": "Verify against standard catalogues of Arab-Byzantine and Arab-Sasanian coinage that the pre-reform issues retained Byzantine denominations and the Sasanian bust-and-fire-altar types.",
+      "citationRefs": [
+        "c4",
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:04:12",
@@ -219,7 +232,15 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm from numismatic literature that distinct locally struck Arab types exist for this period that are not direct imitations of Byzantine or Sasanian prototypes."
+      "verificationNote": "Confirm from numismatic literature that distinct locally struck Arab types exist for this period that are not direct imitations of Byzantine or Sasanian prototypes.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c11",
+        "c13",
+        "c14",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:05:02",
@@ -235,7 +256,10 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the published specimen and its find-spot; check whether the five-pointed star is attested on early Arab coinage from eastern Arabia and whether any scholarship links it to Sabian star veneration."
+      "verificationNote": "Locate the published specimen and its find-spot; check whether the five-pointed star is attested on early Arab coinage from eastern Arabia and whether any scholarship links it to Sabian star veneration.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:05:47",
@@ -252,7 +276,11 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the coin type and the scholarly disagreement over the bird; check the traditional association of the eagle with John the Evangelist and of the dove with the Holy Spirit."
+      "verificationNote": "Identify the coin type and the scholarly disagreement over the bird; check the traditional association of the eagle with John the Evangelist and of the dove with the Holy Spirit.",
+      "citationRefs": [
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:06:36",
@@ -269,7 +297,11 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the published lion-type coin with the Arabic legend, and check the biblical basis for the lion of Judah as a messianic symbol."
+      "verificationNote": "Locate the published lion-type coin with the Arabic legend, and check the biblical basis for the lion of Judah as a messianic symbol.",
+      "citationRefs": [
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:07:23",
@@ -286,7 +318,13 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which revisionist scholars read the numismatic \"muhammad\" as a christological epithet rather than a personal name, and how mainstream numismatists answer them."
+      "verificationNote": "Identify which revisionist scholars read the numismatic \"muhammad\" as a christological epithet rather than a personal name, and how mainstream numismatists answer them.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:07:23",
@@ -303,7 +341,12 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the chronology of the prohibition of figural images in hadith and law against the dated figural coinage of the first Islamic century."
+      "verificationNote": "Check the chronology of the prohibition of figural images in hadith and law against the dated figural coinage of the first Islamic century.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:12",
@@ -319,7 +362,12 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the specific types discussed with their Byzantine and Sasanian prototypes to test how far they diverge from imitative issues."
+      "verificationNote": "Compare the specific types discussed with their Byzantine and Sasanian prototypes to test how far they diverge from imitative issues.",
+      "citationRefs": [
+        "c7",
+        "c8",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:09:06",
@@ -336,7 +384,10 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate this coin in the numismatic literature and check independently whether the Syriac legend reads \"Jesus\", whether the Arabic reads \"muhammad\", and how the M/40-nummi mark and crosses are described by specialists."
+      "verificationNote": "Locate this coin in the numismatic literature and check independently whether the Syriac legend reads \"Jesus\", whether the Arabic reads \"muhammad\", and how the M/40-nummi mark and crosses are described by specialists.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:51",
@@ -354,7 +405,10 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Estrangelo form of ܝܫܘܥ with early Hijazi and Kufic renderings of محمد letter by letter, and check whether any palaeographer has published this observation."
+      "verificationNote": "Compare the Estrangelo form of ܝܫܘܥ with early Hijazi and Kufic renderings of محمد letter by letter, and check whether any palaeographer has published this observation.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:09:51",
@@ -371,7 +425,10 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey the revisionist debate on whether early attestations of \"muhammad\" are personal names or honorific/christological titles, and note the counter-evidence for a historical individual."
+      "verificationNote": "Survey the revisionist debate on whether early attestations of \"muhammad\" are personal names or honorific/christological titles, and note the counter-evidence for a historical individual.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:39",
@@ -388,7 +445,11 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Find the published menorah-type coin with the Arabic legend, confirm the number of branches on surviving specimens, and check whether any source supports reading five branches as the Pentateuch."
+      "verificationNote": "Find the published menorah-type coin with the Arabic legend, confirm the number of branches on surviving specimens, and check whether any source supports reading five branches as the Pentateuch.",
+      "citationRefs": [
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:11:28",
@@ -405,7 +466,10 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the fish-type coin with both Arabic legends and confirm the standard expansion of the Greek ICHTHYS acronym."
+      "verificationNote": "Locate the fish-type coin with both Arabic legends and confirm the standard expansion of the Greek ICHTHYS acronym.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:12:13",
@@ -418,7 +482,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Background on early Christian symbolism; check the standard account of the Ichthys preceding the cross as a Christian sign."
+      "verificationNote": "Background on early Christian symbolism; check the standard account of the Ichthys preceding the cross as a Christian sign.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:12:58",
@@ -436,7 +503,11 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the Qur'anic denial of divine sonship and of the crucifixion, and weigh whether the coexistence of the shahada and the Ichthys on one coin admits other explanations, such as reuse of engravers' dies or mixed workshops."
+      "verificationNote": "Check the Qur'anic denial of divine sonship and of the crucifixion, and weigh whether the coexistence of the shahada and the Ichthys on one coin admits other explanations, such as reuse of engravers' dies or mixed workshops.",
+      "citationRefs": [
+        "c16",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:13:50",
@@ -453,7 +524,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate Luxenberg's published treatment of the crucifixion verse, check the wording of the verse and its classical exegesis, and record the philological criticism of Luxenberg's method."
+      "verificationNote": "Locate Luxenberg's published treatment of the crucifixion verse, check the wording of the verse and its classical exegesis, and record the philological criticism of Luxenberg's method.",
+      "citationRefs": [
+        "c18",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:14:35",
@@ -470,7 +545,8 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the traditional dating of the Uthmanic collection with revisionist datings that place the text's fixation in the later seventh century, and with the radiocarbon and palaeographic evidence."
+      "verificationNote": "Compare the traditional dating of the Uthmanic collection with revisionist datings that place the text's fixation in the later seventh century, and with the radiocarbon and palaeographic evidence.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:35",
@@ -487,7 +563,13 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the symbol repertoire on the coins can be matched item by item with the alleged religious strands in the Qur'anic text, or whether the parallel is rhetorical."
+      "verificationNote": "Assess whether the symbol repertoire on the coins can be matched item by item with the alleged religious strands in the Qur'anic text, or whether the parallel is rhetorical.",
+      "citationRefs": [
+        "c7",
+        "c13",
+        "c14",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:14:35",
@@ -503,7 +585,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Abraham material in Midrash Rabbah, the date and content of Jacob of Serugh's homily on the Sleepers of Ephesus, and the star material in Surat al-Najm against the Qur'anic versions."
+      "verificationNote": "Check the Abraham material in Midrash Rabbah, the date and content of Jacob of Serugh's homily on the Sleepers of Ephesus, and the star material in Surat al-Najm against the Qur'anic versions.",
+      "citationRefs": [
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:15:25",
@@ -519,7 +606,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test the aggregation thesis against the range of documented pre-Islamic parallels and against the counter-argument that shared regional material does not entail literary dependence."
+      "verificationNote": "Test the aggregation thesis against the range of documented pre-Islamic parallels and against the counter-argument that shared regional material does not entail literary dependence.",
+      "citationRefs": [
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:10",
@@ -536,7 +628,16 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive image restating the aggregation thesis; check whether the numismatic evidence is being used as an analogy or as an independent argument."
+      "verificationNote": "Interpretive image restating the aggregation thesis; check whether the numismatic evidence is being used as an analogy or as an independent argument.",
+      "citationRefs": [
+        "c7",
+        "c13",
+        "c14",
+        "c16",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:16:10",
@@ -552,7 +653,8 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the religious composition of the early Umayyad provinces and the evidence for the pace of conversion in the first Islamic century."
+      "verificationNote": "Check the religious composition of the early Umayyad provinces and the evidence for the pace of conversion in the first Islamic century.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:57",
@@ -569,7 +671,8 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the fiscal basis of early Arab rule and whether tax-driven pragmatism is the explanation given in the scholarship for the continuity of local religious iconography."
+      "verificationNote": "Check the fiscal basis of early Arab rule and whether tax-driven pragmatism is the explanation given in the scholarship for the continuity of local religious iconography.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:57",
@@ -585,7 +688,8 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check what is known about the autonomy of provincial governors in minting and religious policy under the Sufyanid Umayyads."
+      "verificationNote": "Check what is known about the autonomy of provincial governors in minting and religious policy under the Sufyanid Umayyads.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:42",
@@ -602,7 +706,13 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the claim that non-Arab religious influences entered Islam during a deliberate transitional stage is supported by any documentary evidence or is an inference from the coin iconography."
+      "verificationNote": "Assess whether the claim that non-Arab religious influences entered Islam during a deliberate transitional stage is supported by any documentary evidence or is an inference from the coin iconography.",
+      "citationRefs": [
+        "c20",
+        "c21",
+        "c22",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:18:29",
@@ -619,7 +729,10 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read the relevant chapter of the Armenian History attributed to Sebeos in a critical translation, and check both the priority claim and the description of Muhammad as a merchant versed in Jewish tradition."
+      "verificationNote": "Read the relevant chapter of the Armenian History attributed to Sebeos in a critical translation, and check both the priority claim and the description of Muhammad as a merchant versed in Jewish tradition.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:18:29",
@@ -635,7 +748,11 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the date and circumstances of Heraclius' restoration of Jerusalem and the reported measures taken against the Jewish population afterwards."
+      "verificationNote": "Check the date and circumstances of Heraclius' restoration of Jerusalem and the reported measures taken against the Jewish population afterwards.",
+      "citationRefs": [
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:19:16",
@@ -651,7 +768,10 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the sources for Heraclius' reported edict of forced baptism of Jews and its geographical scope; the speaker names no reference, so the locator is vague."
+      "verificationNote": "Check the sources for Heraclius' reported edict of forced baptism of Jews and its geographical scope; the speaker names no reference, so the locator is vague.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:19:16",
@@ -668,7 +788,10 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Sebeos' account of the Jewish-Arab approach and check whether the text presents it as a Jewish initiative appealing to Ishmaelite descent and the Promised Land."
+      "verificationNote": "Read Sebeos' account of the Jewish-Arab approach and check whether the text presents it as a Jewish initiative appealing to Ishmaelite descent and the Promised Land.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:20:03",
@@ -685,7 +808,11 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether Sebeos or another early source records the initial Arab refusal and the Abrahamic-descent argument, and whether the alliance is attested outside the revisionist reconstruction."
+      "verificationNote": "Check whether Sebeos or another early source records the initial Arab refusal and the Abrahamic-descent argument, and whether the alliance is attested outside the revisionist reconstruction.",
+      "citationRefs": [
+        "c24",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:20:54",
@@ -702,7 +829,14 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Read Crone and Cook's \"Hagarism\" for the Jewish-Arab alliance thesis and note that the speaker gives the co-author's first name as Thomas rather than Michael; check the Arabic translation attributed to Nabil Fayyad."
+      "verificationNote": "Read Crone and Cook's \"Hagarism\" for the Jewish-Arab alliance thesis and note that the speaker gives the co-author's first name as Thomas rather than Michael; check the Arabic translation attributed to Nabil Fayyad.",
+      "citationRefs": [
+        "c28",
+        "c29",
+        "c30",
+        "c31",
+        "c32"
+      ]
     },
     {
       "timestamp": "00:21:36",
@@ -718,7 +852,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the verses quoted loosely here (the favouring of the Children of Israel, the cursing, the apes and swine, the worst of beasts), check their traditional chronological placement, and test whether the shift tracks a political alliance and its breakdown."
+      "verificationNote": "Locate the verses quoted loosely here (the favouring of the Children of Israel, the cursing, the apes and swine, the worst of beasts), check their traditional chronological placement, and test whether the shift tracks a political alliance and its breakdown.",
+      "citationRefs": [
+        "c33",
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:21:36",
@@ -735,7 +874,10 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the texts said to portray the Arab prophet as a Jewish messianic deliverer, such as the Doctrina Jacobi and the Secrets of Rabbi Shim'on b. Yohai; the speaker names none."
+      "verificationNote": "Identify the texts said to portray the Arab prophet as a Jewish messianic deliverer, such as the Doctrina Jacobi and the Secrets of Rabbi Shim'on b. Yohai; the speaker names none.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:22:21",
@@ -752,7 +894,11 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Compare the sirah account of relations with the Jews of Medina with the external reports of a Jewish-Arab alliance, and assess how far the two are genuinely irreconcilable."
+      "verificationNote": "Compare the sirah account of relations with the Jews of Medina with the external reports of a Jewish-Arab alliance, and assess how far the two are genuinely irreconcilable.",
+      "citationRefs": [
+        "c24",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:22:21",
@@ -768,7 +914,12 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Read Volker Popp's identification of the standing figure on the Arab-Byzantine coin and check the speaker's counter-arguments about the two crosses, the head, and the dating of cross iconography."
+      "verificationNote": "Read Volker Popp's identification of the standing figure on the Arab-Byzantine coin and check the speaker's counter-arguments about the two crosses, the head, and the dating of cross iconography.",
+      "citationRefs": [
+        "c13",
+        "c36",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:23:54",
@@ -784,7 +935,13 @@
         "early-islamic-coinage-and-epigraphy"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Arab-Sasanian coin catalogues for the governors' names and mint dates cited, and confirm the roles and dates attributed to Ubayd Allah ibn Ziyad, Ziyad ibn Abi Sufyan and Umayya ibn Abdallah."
+      "verificationNote": "Check Arab-Sasanian coin catalogues for the governors' names and mint dates cited, and confirm the roles and dates attributed to Ubayd Allah ibn Ziyad, Ziyad ibn Abi Sufyan and Umayya ibn Abdallah.",
+      "citationRefs": [
+        "c38",
+        "c39",
+        "c40",
+        "c41"
+      ]
     },
     {
       "timestamp": "00:24:42",
@@ -802,7 +959,18 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether the absence of the caliph's name on many issues is generally read as evidence of provincial autonomy, and whether the range of symbols listed is actually attested on struck coins rather than inferred."
+      "verificationNote": "Check whether the absence of the caliph's name on many issues is generally read as evidence of provincial autonomy, and whether the range of symbols listed is actually attested on struck coins rather than inferred.",
+      "citationRefs": [
+        "c6",
+        "c7",
+        "c13",
+        "c14",
+        "c16",
+        "c38",
+        "c39",
+        "c40",
+        "c41"
+      ]
     },
     {
       "timestamp": "00:25:31",
@@ -820,7 +988,20 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the claimed correspondence between coin iconography and Qur'anic content amounts to an argument or an analogy."
+      "verificationNote": "Assess whether the claimed correspondence between coin iconography and Qur'anic content amounts to an argument or an analogy.",
+      "citationRefs": [
+        "c6",
+        "c7",
+        "c8",
+        "c11",
+        "c13",
+        "c14",
+        "c16",
+        "c20",
+        "c21",
+        "c22",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:25:31",
@@ -837,7 +1018,12 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Weigh the inference from tolerated iconography to a purely political expansion against alternative explanations such as administrative continuity and mint conservatism."
+      "verificationNote": "Weigh the inference from tolerated iconography to a purely political expansion against alternative explanations such as administrative continuity and mint conservatism.",
+      "citationRefs": [
+        "c13",
+        "c16",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:26:19",
@@ -854,7 +1040,8 @@
         "non-muslim-witnesses-to-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey seventh-century Syriac, Greek, Armenian and Coptic sources for how they describe the Arab conquerors and their religion, and check whether any of them describe a new religion before the 690s."
+      "verificationNote": "Survey seventh-century Syriac, Greek, Armenian and Coptic sources for how they describe the Arab conquerors and their religion, and check whether any of them describe a new religion before the 690s.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:19",
@@ -872,7 +1059,8 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the corpus of dated seventh-century Arabic inscriptions, papyri and coin legends for any occurrence of the term islam before Abd al-Malik, including the Dome of the Rock inscriptions of 72 AH."
+      "verificationNote": "Check the corpus of dated seventh-century Arabic inscriptions, papyri and coin legends for any occurrence of the term islam before Abd al-Malik, including the Dome of the Rock inscriptions of 72 AH.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:09",
@@ -890,7 +1078,11 @@
         "umayyad-religious-policy-and-identity"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the date and legends of Abd al-Malik's reformed epigraphic dinar, the Arabicization of the diwans, and the inscriptional programme of the Dome of the Rock, and assess whether these amount to the deliberate creation of a single religious identity."
+      "verificationNote": "Check the date and legends of Abd al-Malik's reformed epigraphic dinar, the Arabicization of the diwans, and the inscriptional programme of the Dome of the Rock, and assess whether these amount to the deliberate creation of a single religious identity.",
+      "citationRefs": [
+        "c42",
+        "c43"
+      ]
     }
   ],
   "citations": [
@@ -902,7 +1094,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -912,7 +1105,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -922,7 +1116,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -932,7 +1127,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -942,7 +1138,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "event",
@@ -952,7 +1149,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "event",
@@ -962,7 +1160,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "لا إله إلا الله وحده",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -972,7 +1171,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -982,7 +1182,8 @@
       "author": "يوحنا",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -992,7 +1193,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "event",
@@ -1002,7 +1204,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "محمد رسول الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
@@ -1012,7 +1215,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "event",
@@ -1022,7 +1226,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "event",
@@ -1032,7 +1237,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "محمد رسول الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "book",
@@ -1042,7 +1248,8 @@
       "author": "موسى",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "event",
@@ -1052,7 +1259,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "لا إله إلا الله وحده",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -1062,7 +1270,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -1072,7 +1281,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما قتلوه وما صلبوه ولكن شبه لهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1082,7 +1292,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "book",
@@ -1092,7 +1303,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -1102,7 +1314,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -1112,7 +1325,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1122,7 +1336,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "person",
@@ -1132,7 +1347,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
@@ -1142,7 +1358,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "event",
@@ -1152,7 +1369,8 @@
       "workTitle": "",
       "locator": "سنة 628",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "event",
@@ -1162,7 +1380,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -1172,7 +1391,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "book",
@@ -1182,7 +1402,8 @@
       "author": "باتريشيا كرون وكوك (ذُكر باسم توماس كوك)",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "person",
@@ -1192,7 +1413,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
@@ -1202,7 +1424,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1212,7 +1435,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1222,7 +1446,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فضلتكم على العالمين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1232,7 +1457,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ومنهم القردة والخنازير وعبدة الطاغوت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1242,7 +1468,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "شر الدواب عند الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "person",
@@ -1252,7 +1479,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1262,7 +1490,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c37"
     },
     {
       "citationType": "person",
@@ -1272,7 +1501,8 @@
       "workTitle": "",
       "locator": "البصرة، سنة 55 هجرية",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c38"
     },
     {
       "citationType": "person",
@@ -1282,7 +1512,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1292,7 +1523,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c40"
     },
     {
       "citationType": "person",
@@ -1302,7 +1534,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c41"
     },
     {
       "citationType": "event",
@@ -1312,7 +1545,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c42"
     },
     {
       "citationType": "event",
@@ -1322,7 +1556,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "لا إله إلا الله محمد رسول الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     }
   ],
   "topicProposals": [

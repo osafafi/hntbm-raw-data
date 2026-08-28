@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "vvqgVS8KVJA",
   "videoUrl": "https://www.youtube.com/watch?v=vvqgVS8KVJA",
   "videoTitle": "حقائق لا تعرفها عن القرآن",
@@ -98,7 +98,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the surviving evidence for Arius, the Ebionites, the Council of Nicaea, subsequent persecution, and documented migration of non-Trinitarian Christians into Arabia."
+      "verificationNote": "Check the surviving evidence for Arius, the Ebionites, the Council of Nicaea, subsequent persecution, and documented migration of non-Trinitarian Christians into Arabia.",
+      "citationRefs": [
+        "c2",
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:01:56-00:02:34",
@@ -113,7 +118,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare pre-Islamic non-Trinitarian Christian doctrines with the Qur’anic presentation of Jesus and assess whether the similarity warrants the speaker’s conclusion."
+      "verificationNote": "Compare pre-Islamic non-Trinitarian Christian doctrines with the Qur’anic presentation of Jesus and assess whether the similarity warrants the speaker’s conclusion.",
+      "citationRefs": [
+        "c2",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:02:34-00:03:17",
@@ -129,7 +138,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the linguistic history of late antique Arabia, the distribution of Syriac Christian texts, and evidence for clergy or communities carrying such texts into Arabia."
+      "verificationNote": "Check the linguistic history of late antique Arabia, the distribution of Syriac Christian texts, and evidence for clergy or communities carrying such texts into Arabia.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:03:17-00:04:05",
@@ -145,7 +157,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the specific Syriac works that could underlie Qur’anic passages and test the alleged translation relationships through philological and textual comparison."
+      "verificationNote": "Identify the specific Syriac works that could underlie Qur’anic passages and test the alleged translation relationships through philological and textual comparison.",
+      "citationRefs": [
+        "c2",
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:04:05-00:04:45",
@@ -161,7 +178,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Catalogue all Qur’anic assertions of Arabic language and examine their contexts and the explanations offered by early exegetes and modern scholarship."
+      "verificationNote": "Catalogue all Qur’anic assertions of Arabic language and examine their contexts and the explanations offered by early exegetes and modern scholarship.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:45-00:05:24",
@@ -177,7 +195,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted or paraphrased Qur’anic passages in their full contexts and determine precisely what accusations they report and how the text answers them."
+      "verificationNote": "Verify the quoted or paraphrased Qur’anic passages in their full contexts and determine precisely what accusations they report and how the text answers them.",
+      "citationRefs": [
+        "c8",
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:24-00:06:06",
@@ -192,7 +215,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Count and contextualize the relevant passages rather than relying on the speaker’s estimate of more than ten occurrences."
+      "verificationNote": "Count and contextualize the relevant passages rather than relying on the speaker’s estimate of more than ten occurrences.",
+      "citationRefs": [
+        "c8",
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:06-00:06:50",
@@ -207,7 +235,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check dated inscriptions and Qur’anic manuscripts for the development of consonantal pointing, vocalization, hamza notation, and related orthographic conventions."
+      "verificationNote": "Check dated inscriptions and Qur’anic manuscripts for the development of consonantal pointing, vocalization, hamza notation, and related orthographic conventions.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:50-00:07:36",
@@ -222,7 +251,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the letter-count claim, the chronology of pointing, and whether oral transmission and manuscript conventions constrained the theoretically possible readings."
+      "verificationNote": "Verify the letter-count claim, the chronology of pointing, and whether oral transmission and manuscript conventions constrained the theoretically possible readings.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:36",
@@ -237,7 +267,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the evidence used for the 150-year period and distinguish reports of lost revelation, variant recensions, orthographic differences, and actual deletion."
+      "verificationNote": "Identify the evidence used for the 150-year period and distinguish reports of lost revelation, variant recensions, orthographic differences, and actual deletion.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:36-00:08:15",
@@ -252,7 +283,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the critical scholars and publications intended by the speaker and evaluate each proposed repointing against manuscript spellings, grammar, context, and Syriac usage."
+      "verificationNote": "Identify the critical scholars and publications intended by the speaker and evaluate each proposed repointing against manuscript spellings, grammar, context, and Syriac usage.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:15-00:09:51",
@@ -267,7 +299,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Q6:146, early manuscript spellings, Arabic lexica, classical exegesis, and the alleged Syriac form and meaning."
+      "verificationNote": "Check Q6:146, early manuscript spellings, Arabic lexica, classical exegesis, and the alleged Syriac form and meaning.",
+      "citationRefs": [
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:09:03-00:09:51",
@@ -282,7 +318,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the range, linguistic bases, and transmission history of the cited exegetical glosses rather than treating plurality alone as proof of invention."
+      "verificationNote": "Compare the range, linguistic bases, and transmission history of the cited exegetical glosses rather than treating plurality alone as proof of invention.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:09:51-00:10:37",
@@ -297,7 +336,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Q19:24, its manuscript readings, Arabic lexica and tafsir, and whether the claimed Syriac expression has the stated form and sense."
+      "verificationNote": "Check Q19:24, its manuscript readings, Arabic lexica and tafsir, and whether the claimed Syriac expression has the stated form and sense.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:37-00:11:28",
@@ -312,7 +354,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Q12:88, the Arabic root and classical glosses, manuscript orthography, and the proposed Syriac word and semantics."
+      "verificationNote": "Check Q12:88, the Arabic root and classical glosses, manuscript orthography, and the proposed Syriac word and semantics.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:11:28-00:12:13",
@@ -328,7 +373,15 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Test each listed name and term separately using comparative Semitic linguistics and the earliest attestations in Arabic, Syriac, Aramaic, Hebrew, and Ethiopic."
+      "verificationNote": "Test each listed name and term separately using comparative Semitic linguistics and the earliest attestations in Arabic, Syriac, Aramaic, Hebrew, and Ethiopic.",
+      "citationRefs": [
+        "c17",
+        "c18",
+        "c19",
+        "c20",
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:28-00:12:13",
@@ -343,7 +396,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic and early Islamic attestations and etymological scholarship on nasara across Syriac, Aramaic, Arabic, Greek, and other relevant languages."
+      "verificationNote": "Check pre-Islamic and early Islamic attestations and etymological scholarship on nasara across Syriac, Aramaic, Arabic, Greek, and other relevant languages.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:13-00:12:59",
@@ -358,7 +412,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the counts and wording in al-Qurtubi and Ibn al-Naqib and review Arabic and comparative-linguistic evidence for al-kawthar."
+      "verificationNote": "Verify the counts and wording in al-Qurtubi and Ibn al-Naqib and review Arabic and comparative-linguistic evidence for al-kawthar.",
+      "citationRefs": [
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:12:59-00:13:45",
@@ -373,7 +432,13 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine the relevant verses, early poetry and lexica, and the range and reasoning of classical glosses for abban and awwah."
+      "verificationNote": "Examine the relevant verses, early poetry and lexica, and the range and reasoning of classical glosses for abban and awwah.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c28",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:13:45-00:14:31",
@@ -388,7 +453,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q26:63, Qur’anic occurrences and Arabic attestations of both words, and manuscript evidence for any dal/ra variant."
+      "verificationNote": "Check Q26:63, Qur’anic occurrences and Arabic attestations of both words, and manuscript evidence for any dal/ra variant.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:14:31-00:15:18",
@@ -403,7 +471,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the verse in Surat al-Mumtahana, analyze its syntax and early interpretations, and test whether translation interference is evidenced."
+      "verificationNote": "Locate the verse in Surat al-Mumtahana, analyze its syntax and early interpretations, and test whether translation interference is evidenced.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:15:18-00:16:02",
@@ -418,7 +489,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the complete verse in Surat al-Nur, its grammar, legal setting, and classical explanations of the listed houses and possession of keys."
+      "verificationNote": "Check the complete verse in Surat al-Nur, its grammar, legal setting, and classical explanations of the listed houses and possession of keys.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:16:02-00:17:34",
@@ -433,7 +507,16 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the cited language verse, evidence for early understanding of the allegedly obscure terms, and whether later disagreement establishes contemporary incomprehension."
+      "verificationNote": "Check the cited language verse, evidence for early understanding of the allegedly obscure terms, and whether later disagreement establishes contemporary incomprehension.",
+      "citationRefs": [
+        "c11",
+        "c13",
+        "c16",
+        "c23",
+        "c26",
+        "c27",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:16:52-00:17:34",
@@ -448,7 +531,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report in al-Tabari, verify its exact wording and chain, and compare hadiths and tafsir reports in which Muhammad explains verses."
+      "verificationNote": "Locate the report in al-Tabari, verify its exact wording and chain, and compare hadiths and tafsir reports in which Muhammad explains verses.",
+      "citationRefs": [
+        "c35",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:16:52-00:18:17",
@@ -463,7 +550,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the historical corpus of prophetic exegesis and whether the number of later interpretations logically supports the claimed absence of early explanation."
+      "verificationNote": "Assess the historical corpus of prophetic exegesis and whether the number of later interpretations logically supports the claimed absence of early explanation.",
+      "citationRefs": [
+        "c35",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:17:34-00:18:17",
@@ -478,7 +569,15 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare translation problems associated with the listed words to ordinary semantic ambiguity and examine whether scholars truly regard them as wholly unintelligible."
+      "verificationNote": "Compare translation problems associated with the listed words to ordinary semantic ambiguity and examine whether scholars truly regard them as wholly unintelligible.",
+      "citationRefs": [
+        "c11",
+        "c13",
+        "c16",
+        "c23",
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:18:17-00:19:05",
@@ -493,7 +592,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Review the Arabic root q-r-ʾ, Syriac qeryana, their earliest attestations, and competing etymological explanations."
+      "verificationNote": "Review the Arabic root q-r-ʾ, Syriac qeryana, their earliest attestations, and competing etymological explanations.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:19:05-00:19:51",
@@ -508,7 +610,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the counts under clearly defined criteria and assess whether frequency supports the proposed Christological authorship inference."
+      "verificationNote": "Verify the counts under clearly defined criteria and assess whether frequency supports the proposed Christological authorship inference.",
+      "citationRefs": [
+        "c39",
+        "c40"
+      ]
     },
     {
       "timestamp": "00:19:05-00:19:51",
@@ -524,7 +630,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Analyze all four Qur’anic contexts, early inscriptions and coins, Arabic grammar, and the history of Muhammad as a personal name or epithet."
+      "verificationNote": "Analyze all four Qur’anic contexts, early inscriptions and coins, Arabic grammar, and the history of Muhammad as a personal name or epithet.",
+      "citationRefs": [
+        "c39",
+        "c40"
+      ]
     },
     {
       "timestamp": "00:19:05-00:20:37",
@@ -539,7 +649,13 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the full verses containing Ahmad, ‘Muhammad is not the father,’ ‘Muhammad is only a messenger,’ and ‘the Messiah is only a messenger,’ and compare their syntax and historical interpretation."
+      "verificationNote": "Check the full verses containing Ahmad, ‘Muhammad is not the father,’ ‘Muhammad is only a messenger,’ and ‘the Messiah is only a messenger,’ and compare their syntax and historical interpretation.",
+      "citationRefs": [
+        "c41",
+        "c42",
+        "c43",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:19:51-00:20:37",
@@ -554,7 +670,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Read the verse’s complete formulation and legal context and compare it with early traditions about Muhammad’s sons and adopted son."
+      "verificationNote": "Read the verse’s complete formulation and legal context and compare it with early traditions about Muhammad’s sons and adopted son.",
+      "citationRefs": [
+        "c39",
+        "c40",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:20:37-00:21:22",
@@ -570,7 +691,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the precise coin type, mint, legend, iconography, date, and scholarly readings of both the standing figure and the word muhammad."
+      "verificationNote": "Identify the precise coin type, mint, legend, iconography, date, and scholarly readings of both the standing figure and the word muhammad.",
+      "citationRefs": [
+        "c45"
+      ]
     },
     {
       "timestamp": "00:21:22",
@@ -585,7 +709,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the coin and verify its dating, inscriptions, cross imagery, minting authority, and numismatic interpretation."
+      "verificationNote": "Identify the coin and verify its dating, inscriptions, cross imagery, minting authority, and numismatic interpretation.",
+      "citationRefs": [
+        "c46"
+      ]
     },
     {
       "timestamp": "00:21:22-00:22:09",
@@ -601,7 +728,17 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate each proposed linguistic, numismatic, and narrative dependency separately before assessing this broad synthesis."
+      "verificationNote": "Evaluate each proposed linguistic, numismatic, and narrative dependency separately before assessing this broad synthesis.",
+      "citationRefs": [
+        "c6",
+        "c38",
+        "c41",
+        "c42",
+        "c43",
+        "c44",
+        "c45",
+        "c46"
+      ]
     },
     {
       "timestamp": "00:22:09-00:22:55",
@@ -616,7 +753,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the rabbinic work intended, establish its date and wording, and compare its narrative sequence with all relevant Qur’anic passages and earlier Christian or Jewish sources."
+      "verificationNote": "Identify the rabbinic work intended, establish its date and wording, and compare its narrative sequence with all relevant Qur’anic passages and earlier Christian or Jewish sources.",
+      "citationRefs": [
+        "c49"
+      ]
     },
     {
       "timestamp": "00:22:55",
@@ -631,7 +771,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Exodus 16 with the Qur’anic Sabbath-breakers passages and distinguish shared Sabbath law from the Qur’anic transformation narrative."
+      "verificationNote": "Compare Exodus 16 with the Qur’anic Sabbath-breakers passages and distinguish shared Sabbath law from the Qur’anic transformation narrative.",
+      "citationRefs": [
+        "c50"
+      ]
     },
     {
       "timestamp": "00:22:55-00:23:39",
@@ -646,7 +789,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the alleged Jewish antecedent and compare its date, wording, and plot with the Qur’anic cow episode and Numbers 19."
+      "verificationNote": "Identify the alleged Jewish antecedent and compare its date, wording, and plot with the Qur’anic cow episode and Numbers 19.",
+      "citationRefs": [
+        "c51"
+      ]
     },
     {
       "timestamp": "00:22:55-00:23:39",
@@ -661,7 +807,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Ezekiel, Revelation, Syriac Alexander traditions, and the Qur’anic Gog-and-Magog passages chronologically and textually."
+      "verificationNote": "Compare Ezekiel, Revelation, Syriac Alexander traditions, and the Qur’anic Gog-and-Magog passages chronologically and textually.",
+      "citationRefs": [
+        "c53",
+        "c54"
+      ]
     },
     {
       "timestamp": "00:22:55-00:23:39",
@@ -676,7 +826,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Determine which Mesopotamian flood text and manuscript date the speaker means and compare its motifs with Genesis and Qur’anic Noah passages."
+      "verificationNote": "Determine which Mesopotamian flood text and manuscript date the speaker means and compare its motifs with Genesis and Qur’anic Noah passages.",
+      "citationRefs": [
+        "c56"
+      ]
     },
     {
       "timestamp": "00:23:39-00:25:11",
@@ -691,7 +844,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Q5:27–32 with the textual forms and dating of Mishnah Sanhedrin 4 and related rabbinic versions, noting wording and addressees."
+      "verificationNote": "Compare Q5:27–32 with the textual forms and dating of Mishnah Sanhedrin 4 and related rabbinic versions, noting wording and addressees.",
+      "citationRefs": [
+        "c58",
+        "c59"
+      ]
     },
     {
       "timestamp": "00:24:25-00:25:11",
@@ -706,7 +863,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine the transition and addressee in Q5:27–32 and determine whether dependence on a rabbinic source is the best explanation."
+      "verificationNote": "Examine the transition and addressee in Q5:27–32 and determine whether dependence on a rabbinic source is the best explanation.",
+      "citationRefs": [
+        "c58",
+        "c59"
+      ]
     },
     {
       "timestamp": "00:25:11-00:25:56",
@@ -721,7 +882,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Qur’anic account with dated Greek, Syriac, and other versions of the Seven Sleepers legend, including the role of Decius and the number of sleepers."
+      "verificationNote": "Compare the Qur’anic account with dated Greek, Syriac, and other versions of the Seven Sleepers legend, including the role of Decius and the number of sleepers.",
+      "citationRefs": [
+        "c60",
+        "c62"
+      ]
     },
     {
       "timestamp": "00:25:56",
@@ -736,7 +901,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Surat Yusuf with Genesis 37–50 and relevant post-biblical traditions, separating direct biblical parallels from later expansions."
+      "verificationNote": "Compare Surat Yusuf with Genesis 37–50 and relevant post-biblical traditions, separating direct biblical parallels from later expansions.",
+      "citationRefs": [
+        "c63",
+        "c64"
+      ]
     },
     {
       "timestamp": "00:25:56-00:26:43",
@@ -751,7 +920,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Hebrew work actually intended by the speaker, verify whether it contains the claimed story and bird, and compare it with the Qur’anic passage."
+      "verificationNote": "Identify the Hebrew work actually intended by the speaker, verify whether it contains the claimed story and bird, and compare it with the Qur’anic passage.",
+      "citationRefs": [
+        "c66",
+        "c67"
+      ]
     },
     {
       "timestamp": "00:26:43",
@@ -766,7 +939,18 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test the universal claim story by story and distinguish broad motif similarity from demonstrable textual dependence."
+      "verificationNote": "Test the universal claim story by story and distinguish broad motif similarity from demonstrable textual dependence.",
+      "citationRefs": [
+        "c49",
+        "c50",
+        "c53",
+        "c54",
+        "c56",
+        "c59",
+        "c60",
+        "c64",
+        "c66"
+      ]
     },
     {
       "timestamp": "00:26:43-00:27:30",
@@ -781,7 +965,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Catalogue the relevant threat and reward passages and assess the speaker’s literary criterion and characterization of their argumentative function."
+      "verificationNote": "Catalogue the relevant threat and reward passages and assess the speaker’s literary criterion and characterization of their argumentative function.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:30-00:28:17",
@@ -796,7 +981,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the stated verse range and literary structure of Surat al-Baqara and review compositional analyses of the allegedly interrupting verses."
+      "verificationNote": "Check the stated verse range and literary structure of Surat al-Baqara and review compositional analyses of the allegedly interrupting verses.",
+      "citationRefs": [
+        "c68"
+      ]
     },
     {
       "timestamp": "00:28:17-00:29:01",
@@ -811,7 +999,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare fragmentary or redactional models with alternative accounts of Qur’anic ring composition, oral style, and thematic coherence."
+      "verificationNote": "Compare fragmentary or redactional models with alternative accounts of Qur’anic ring composition, oral style, and thematic coherence.",
+      "citationRefs": [
+        "c68"
+      ]
     },
     {
       "timestamp": "00:28:17-00:29:01",
@@ -825,7 +1016,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Define the unit being counted, verify the percentage, and analyze the semantic and structural roles of Qur’anic rhyme endings."
+      "verificationNote": "Define the unit being counted, verify the percentage, and analyze the semantic and structural roles of Qur’anic rhyme endings.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:29:01-00:29:48",
@@ -840,7 +1032,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the specific verses intended, their historical and textual contexts, and evidence for their use and effects in militant ideology."
+      "verificationNote": "Identify the specific verses intended, their historical and textual contexts, and evidence for their use and effects in militant ideology.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:29:01-00:30:34",
@@ -855,7 +1048,14 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify each frequency count and distinguish repeated names, episodes, allusions, and distinct retellings before evaluating the literary conclusion."
+      "verificationNote": "Verify each frequency count and distinguish repeated names, episodes, allusions, and distinct retellings before evaluating the literary conclusion.",
+      "citationRefs": [
+        "c69",
+        "c70",
+        "c71",
+        "c72",
+        "c73"
+      ]
     },
     {
       "timestamp": "00:29:48-00:30:34",
@@ -869,7 +1069,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare all Qur’anic dietary-prohibition passages and assess their wording, contexts, and legal functions."
+      "verificationNote": "Compare all Qur’anic dietary-prohibition passages and assess their wording, contexts, and legal functions.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:30:34",
@@ -883,7 +1084,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate Nöldeke’s exact statement and context and check whether the speaker represents his literary assessment accurately."
+      "verificationNote": "Locate Nöldeke’s exact statement and context and check whether the speaker represents his literary assessment accurately.",
+      "citationRefs": [
+        "c74"
+      ]
     },
     {
       "timestamp": "00:30:34-00:31:21",
@@ -898,7 +1102,14 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the animal-and-sheet report and the separate stoning-verse reports in each collection named by the speaker, checking wording, chains, grading, and whether he conflates distinct traditions."
+      "verificationNote": "Locate the animal-and-sheet report and the separate stoning-verse reports in each collection named by the speaker, checking wording, chains, grading, and whether he conflates distinct traditions.",
+      "citationRefs": [
+        "c75",
+        "c76",
+        "c77",
+        "c78",
+        "c79"
+      ]
     },
     {
       "timestamp": "00:31:21-00:32:07",
@@ -913,7 +1124,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Distinguish the doctrines of textual preservation, abrogation of recitation, and accidental loss, then evaluate whether the cited reports entail the speaker’s conclusion."
+      "verificationNote": "Distinguish the doctrines of textual preservation, abrogation of recitation, and accidental loss, then evaluate whether the cited reports entail the speaker’s conclusion.",
+      "citationRefs": [
+        "c79"
+      ]
     },
     {
       "timestamp": "00:32:07-00:32:53",
@@ -929,7 +1143,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Umar’s sermon in the hadith collections, its precise wording and grading, and the legal doctrine developed from it."
+      "verificationNote": "Verify Umar’s sermon in the hadith collections, its precise wording and grading, and the legal doctrine developed from it.",
+      "citationRefs": [
+        "c80",
+        "c81"
+      ]
     },
     {
       "timestamp": "00:32:53-00:33:40",
@@ -944,7 +1162,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Review classical doctrines of abrogation of recitation with retention of ruling and the historical reports of stoning during Muhammad’s lifetime."
+      "verificationNote": "Review classical doctrines of abrogation of recitation with retention of ruling and the historical reports of stoning during Muhammad’s lifetime.",
+      "citationRefs": [
+        "c81",
+        "c82"
+      ]
     },
     {
       "timestamp": "00:33:40-00:34:27",
@@ -959,7 +1181,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate Aisha’s suckling report in the named and relevant collections, distinguish adult-suckling reports from the ten-to-five abrogation report, and check exact wording and grading."
+      "verificationNote": "Locate Aisha’s suckling report in the named and relevant collections, distinguish adult-suckling reports from the ten-to-five abrogation report, and check exact wording and grading.",
+      "citationRefs": [
+        "c83",
+        "c85"
+      ]
     },
     {
       "timestamp": "00:34:27-00:35:14",
@@ -974,7 +1200,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report attributed to Aisha, verify whether it states 200 verses, and examine its chain, textual variants, and scholarly grading."
+      "verificationNote": "Locate the report attributed to Aisha, verify whether it states 200 verses, and examine its chain, textual variants, and scholarly grading.",
+      "citationRefs": [
+        "c86",
+        "c87"
+      ]
     },
     {
       "timestamp": "00:34:27-00:35:14",
@@ -989,7 +1219,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report in al-Sunan al-Kubra and verify its narrator, wording, chain, and grading."
+      "verificationNote": "Locate the report in al-Sunan al-Kubra and verify its narrator, wording, chain, and grading.",
+      "citationRefs": [
+        "c88",
+        "c89",
+        "c90"
+      ]
     },
     {
       "timestamp": "00:34:27-00:35:14",
@@ -1004,7 +1239,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the report intended, verify whether it refers to a complete sura or forgotten wording, and examine its collection, chain, and interpretation."
+      "verificationNote": "Identify the report intended, verify whether it refers to a complete sura or forgotten wording, and examine its collection, chain, and interpretation.",
+      "citationRefs": [
+        "c91"
+      ]
     },
     {
       "timestamp": "00:35:14-00:35:55",
@@ -1019,7 +1257,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the earliest manuscripts and references to Surat al-Wilaya and Surat al-Nurayn and establish when, by whom, and in what polemical setting they were attributed to the Qur’an."
+      "verificationNote": "Trace the earliest manuscripts and references to Surat al-Wilaya and Surat al-Nurayn and establish when, by whom, and in what polemical setting they were attributed to the Qur’an.",
+      "citationRefs": [
+        "c93",
+        "c94"
+      ]
     },
     {
       "timestamp": "00:35:14-00:35:55",
@@ -1034,7 +1276,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Establish the texts’ dates and reception and evaluate the criteria by which stylistic similarity and the Qur’anic imitation challenge are judged."
+      "verificationNote": "Establish the texts’ dates and reception and evaluate the criteria by which stylistic similarity and the Qur’anic imitation challenge are judged.",
+      "citationRefs": [
+        "c93",
+        "c94"
+      ]
     },
     {
       "timestamp": "00:35:55",
@@ -1048,7 +1294,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the passage in A Dictionary of Islam, verify the author’s identity and exact statement, and identify the primary reports on which it relies."
+      "verificationNote": "Locate the passage in A Dictionary of Islam, verify the author’s identity and exact statement, and identify the primary reports on which it relies.",
+      "citationRefs": [
+        "c95",
+        "c96"
+      ]
     },
     {
       "timestamp": "00:35:55-00:36:41",
@@ -1062,7 +1312,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the work and passage attributed to al-Suyuti and determine whether he states that 500 verses were deleted or is discussing abrogated recitation or variant reports."
+      "verificationNote": "Identify the work and passage attributed to al-Suyuti and determine whether he states that 500 verses were deleted or is discussing abrogated recitation or variant reports.",
+      "citationRefs": [
+        "c97"
+      ]
     },
     {
       "timestamp": "00:35:55-00:36:41",
@@ -1077,7 +1330,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the statement attributed to Umar, verify its wording, chain, and context, and determine how early scholars understood ‘what has been taken away’ or ‘what remains.’"
+      "verificationNote": "Locate the statement attributed to Umar, verify its wording, chain, and context, and determine how early scholars understood ‘what has been taken away’ or ‘what remains.’",
+      "citationRefs": [
+        "c98"
+      ]
     },
     {
       "timestamp": "00:36:41-00:37:27",
@@ -1092,7 +1348,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare Qur’anic and hadith accounts of the preserved tablet and gradual revelation with early collection narratives and evidence for written codices."
+      "verificationNote": "Compare Qur’anic and hadith accounts of the preserved tablet and gradual revelation with early collection narratives and evidence for written codices.",
+      "citationRefs": [
+        "c99",
+        "c100"
+      ]
     },
     {
       "timestamp": "00:37:27-00:38:11",
@@ -1107,7 +1367,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Abu Bakr and Uthman collection reports, their chronology, and statements expressing hesitation because Muhammad had not collected the text in that manner."
+      "verificationNote": "Compare the Abu Bakr and Uthman collection reports, their chronology, and statements expressing hesitation because Muhammad had not collected the text in that manner.",
+      "citationRefs": [
+        "c101"
+      ]
     },
     {
       "timestamp": "00:38:11-00:38:57",
@@ -1122,7 +1385,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the listed writing materials, roles of Abu Bakr, Umar, Zayd, and Uthman, and the chronology in the earliest collection traditions."
+      "verificationNote": "Verify the listed writing materials, roles of Abu Bakr, Umar, Zayd, and Uthman, and the chronology in the earliest collection traditions.",
+      "citationRefs": [
+        "c102"
+      ]
     },
     {
       "timestamp": "00:38:11-00:38:57",
@@ -1137,7 +1403,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check securely dated manuscripts and the historical traditions concerning Abu al-Aswad, Nasr ibn Asim, Yahya ibn Ya'mar, and al-Khalil without assuming the speaker’s round chronology."
+      "verificationNote": "Check securely dated manuscripts and the historical traditions concerning Abu al-Aswad, Nasr ibn Asim, Yahya ibn Ya'mar, and al-Khalil without assuming the speaker’s round chronology.",
+      "citationRefs": [
+        "c103"
+      ]
     },
     {
       "timestamp": "00:38:57-00:39:43",
@@ -1152,7 +1421,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate how oral transmission, consonantal writing, reading traditions, and manuscript agreement affect the inference from later notation to textual unreliability."
+      "verificationNote": "Evaluate how oral transmission, consonantal writing, reading traditions, and manuscript agreement affect the inference from later notation to textual unreliability.",
+      "citationRefs": [
+        "c102",
+        "c103"
+      ]
     },
     {
       "timestamp": "00:38:57-00:40:26",
@@ -1167,7 +1440,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify exactly what the Uthmanic reports say was burned—complete codices, private sheets, or source materials—and whether any report identifies them as Muhammad-era originals."
+      "verificationNote": "Verify exactly what the Uthmanic reports say was burned—complete codices, private sheets, or source materials—and whether any report identifies them as Muhammad-era originals.",
+      "citationRefs": [
+        "c104"
+      ]
     },
     {
       "timestamp": "00:39:43-00:40:26",
@@ -1182,7 +1458,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess what independent oral, manuscript, and documentary controls remained after the reported destruction and whether all earlier witnesses were actually eliminated."
+      "verificationNote": "Assess what independent oral, manuscript, and documentary controls remained after the reported destruction and whether all earlier witnesses were actually eliminated.",
+      "citationRefs": [
+        "c104"
+      ]
     },
     {
       "timestamp": "00:40:26-00:41:11",
@@ -1198,7 +1477,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey seventh- and early-eighth-century Greek, Syriac, Armenian, Coptic, Arabic, and other sources for explicit or indirect references to the Qur’an and verify the proposed first attestation in 710."
+      "verificationNote": "Survey seventh- and early-eighth-century Greek, Syriac, Armenian, Coptic, Arabic, and other sources for explicit or indirect references to the Qur’an and verify the proposed first attestation in 710.",
+      "citationRefs": [
+        "c105"
+      ]
     },
     {
       "timestamp": "00:41:11-00:41:57",
@@ -1214,7 +1496,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check early Arabic inscriptions, papyri, coins, and non-Arabic chronicles for Islam, Muslim, believer, Arab, and related identity terms, noting semantic distinctions."
+      "verificationNote": "Check early Arabic inscriptions, papyri, coins, and non-Arabic chronicles for Islam, Muslim, believer, Arab, and related identity terms, noting semantic distinctions.",
+      "citationRefs": [
+        "c106"
+      ]
     },
     {
       "timestamp": "00:41:11-00:42:06",
@@ -1230,7 +1515,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the primary Islamic and non-Islamic evidence for Qur’anic work under Abd al-Malik and al-Hajjaj and distinguish collection, copying, orthographic reform, and textual alteration."
+      "verificationNote": "Identify the primary Islamic and non-Islamic evidence for Qur’anic work under Abd al-Malik and al-Hajjaj and distinguish collection, copying, orthographic reform, and textual alteration.",
+      "citationRefs": [
+        "c107",
+        "c108"
+      ]
     },
     {
       "timestamp": "00:41:57-00:42:06",
@@ -1245,7 +1534,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the statement attributed to Abd al-Malik, verify its Arabic wording, source date, chain, and whether ‘collecting the Qur’an’ has the meaning assigned by the speaker."
+      "verificationNote": "Locate the statement attributed to Abd al-Malik, verify its Arabic wording, source date, chain, and whether ‘collecting the Qur’an’ has the meaning assigned by the speaker.",
+      "citationRefs": [
+        "c109"
+      ]
     },
     {
       "timestamp": "00:42:06-00:42:50",
@@ -1261,7 +1553,13 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the evidence requires either alternative or permits later copying, orthographic regulation, or administrative standardization without substantive rewriting."
+      "verificationNote": "Assess whether the evidence requires either alternative or permits later copying, orthographic regulation, or administrative standardization without substantive rewriting.",
+      "citationRefs": [
+        "c101",
+        "c107",
+        "c108",
+        "c109"
+      ]
     },
     {
       "timestamp": "00:42:50-00:43:27",
@@ -1276,7 +1574,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reports about al-Hajjaj’s codices and destruction orders, verify their dates and wording, and distinguish textual revision from official copying or orthographic changes."
+      "verificationNote": "Locate the reports about al-Hajjaj’s codices and destruction orders, verify their dates and wording, and distinguish textual revision from official copying or orthographic changes.",
+      "citationRefs": [
+        "c108",
+        "c110"
+      ]
     },
     {
       "timestamp": "00:42:50-00:43:27",
@@ -1291,7 +1593,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report attributed to Anas, verify its wording, source, chain, and what object the term ‘Uthman’s codex’ designates."
+      "verificationNote": "Locate the report attributed to Anas, verify its wording, source, chain, and what object the term ‘Uthman’s codex’ designates.",
+      "citationRefs": [
+        "c111"
+      ]
     },
     {
       "timestamp": "00:42:50-00:43:27",
@@ -1306,7 +1611,13 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Determine whether the disappearance report is historically connected to al-Hajjaj and whether any surviving evidence demonstrates substantive divergence from an Uthmanic text."
+      "verificationNote": "Determine whether the disappearance report is historically connected to al-Hajjaj and whether any surviving evidence demonstrates substantive divergence from an Uthmanic text.",
+      "citationRefs": [
+        "c107",
+        "c108",
+        "c110",
+        "c111"
+      ]
     },
     {
       "timestamp": "00:43:27-00:44:19",
@@ -1321,7 +1632,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which Sanaa fragments are intended, review their radiocarbon and paleographic ranges, and distinguish palimpsest correction, lower-text variants, and alleged verse-level additions or deletions."
+      "verificationNote": "Identify which Sanaa fragments are intended, review their radiocarbon and paleographic ranges, and distinguish palimpsest correction, lower-text variants, and alleged verse-level additions or deletions.",
+      "citationRefs": [
+        "c112"
+      ]
     },
     {
       "timestamp": "00:44:49-00:45:34",
@@ -1336,7 +1650,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the British Library shelfmark and verify the manuscript’s contents, date, proportion of the Qur’an preserved, vocalization, and pointing."
+      "verificationNote": "Identify the British Library shelfmark and verify the manuscript’s contents, date, proportion of the Qur’an preserved, vocalization, and pointing.",
+      "citationRefs": [
+        "c113"
+      ]
     },
     {
       "timestamp": "00:45:34-00:46:19",
@@ -1350,7 +1667,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Inspect the identified manuscript and determine whether the difference reflects actual wording, verse division, basmala counting, or a cataloguing convention."
+      "verificationNote": "Inspect the identified manuscript and determine whether the difference reflects actual wording, verse division, basmala counting, or a cataloguing convention.",
+      "citationRefs": [
+        "c113",
+        "c114"
+      ]
     },
     {
       "timestamp": "00:45:34-00:46:19",
@@ -1364,7 +1685,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check whether the stated total is present in the manuscript and whether it reflects text variation or a different verse-counting system."
+      "verificationNote": "Check whether the stated total is present in the manuscript and whether it reflects text variation or a different verse-counting system.",
+      "citationRefs": [
+        "c113",
+        "c115"
+      ]
     },
     {
       "timestamp": "00:45:34-00:46:19",
@@ -1378,7 +1703,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Inspect the manuscript’s Surat Hud and distinguish absent wording from differences in verse segmentation."
+      "verificationNote": "Inspect the manuscript’s Surat Hud and distinguish absent wording from differences in verse segmentation.",
+      "citationRefs": [
+        "c113",
+        "c116"
+      ]
     },
     {
       "timestamp": "00:46:19",
@@ -1392,7 +1721,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the manuscript and modern verse divisions and determine whether any words or passages are actually absent."
+      "verificationNote": "Compare the manuscript and modern verse divisions and determine whether any words or passages are actually absent.",
+      "citationRefs": [
+        "c113",
+        "c117"
+      ]
     },
     {
       "timestamp": "00:46:19",
@@ -1406,7 +1739,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the manuscript’s wording and verse markers and separate counting traditions from textual addition."
+      "verificationNote": "Check the manuscript’s wording and verse markers and separate counting traditions from textual addition.",
+      "citationRefs": [
+        "c113",
+        "c118"
+      ]
     },
     {
       "timestamp": "00:46:19",
@@ -1420,7 +1757,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Inspect the manuscript’s Surat al-Hajj and determine whether the difference is textual or a recognized verse-numbering variant."
+      "verificationNote": "Inspect the manuscript’s Surat al-Hajj and determine whether the difference is textual or a recognized verse-numbering variant.",
+      "citationRefs": [
+        "c113",
+        "c119"
+      ]
     },
     {
       "timestamp": "00:46:19-00:47:06",
@@ -1435,7 +1776,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the headings and verse markers in the identified manuscript and determine whether they are titles, opening-letter labels, or later cataloguing descriptions."
+      "verificationNote": "Verify the headings and verse markers in the identified manuscript and determine whether they are titles, opening-letter labels, or later cataloguing descriptions.",
+      "citationRefs": [
+        "c113",
+        "c120",
+        "c121"
+      ]
     },
     {
       "timestamp": "00:46:19-00:47:06",
@@ -1450,7 +1796,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Obtain a diplomatic transcription and catalogue each claimed orthographic, lexical, and pointing variant against the standard Cairo text."
+      "verificationNote": "Obtain a diplomatic transcription and catalogue each claimed orthographic, lexical, and pointing variant against the standard Cairo text.",
+      "citationRefs": [
+        "c113"
+      ]
     },
     {
       "timestamp": "00:47:06",
@@ -1465,7 +1814,19 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare securely dated Umayyad and early Abbasid manuscripts, inscriptions, reading traditions, and verse-count systems to determine when the consonantal text and later notation reached their recognizable forms."
+      "verificationNote": "Compare securely dated Umayyad and early Abbasid manuscripts, inscriptions, reading traditions, and verse-count systems to determine when the consonantal text and later notation reached their recognizable forms.",
+      "citationRefs": [
+        "c113",
+        "c114",
+        "c115",
+        "c116",
+        "c117",
+        "c118",
+        "c119",
+        "c120",
+        "c121",
+        "c122"
+      ]
     }
   ],
   "citations": [
@@ -1476,7 +1837,8 @@
       "workTitle": "مجمع نيقية الأول",
       "locator": "325 م",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -1484,7 +1846,8 @@
       "asStatedInVideo": "إيريس، أي آريوس، قال إن المسيح ليس إلهاً ولا ابن إله بل رسول بشري عادي.",
       "workTitle": "آريوس",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -1492,14 +1855,16 @@
       "asStatedInVideo": "المسيح أو عيسى، موضوع الخلاف حول الألوهية ووصفه بأنه رسول.",
       "workTitle": "يسوع المسيح",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "event",
       "timestamp": "00:01:15",
       "asStatedInVideo": "اضطهاد أتباع آريوس وهجرتهم إلى بلاد الشرق والجزيرة العربية.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -1507,14 +1872,16 @@
       "asStatedInVideo": "طائفة الإيبايونايتس بوصفها جماعة مسيحية أقدم تنكر ألوهية المسيح.",
       "workTitle": "الإبيونيون",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "event",
       "timestamp": "00:02:34-00:03:17",
       "asStatedInVideo": "هجرة أساقفة أو رجال دين مسيحيين ومعهم كتب سريانية إلى الجزيرة العربية.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -1522,7 +1889,8 @@
       "asStatedInVideo": "محمد بوصفه الشخص الذي اتهمه معاصروه بالسماع من غيره وبأن أعجمياً يعلمه.",
       "workTitle": "محمد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -1530,7 +1898,8 @@
       "asStatedInVideo": "آية يقول فيها المعترضون عن محمد إنه «أذن». لم يذكر المتحدث رقمها.",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "ويقولون هو أذن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -1538,7 +1907,8 @@
       "asStatedInVideo": "آية تذكر قول المعترضين إنهم سمعوا الآيات من قبل. لم يذكر المتحدث رقمها.",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "وإذا تتلى عليهم آياتنا قالوا قد سمعنا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -1546,7 +1916,8 @@
       "asStatedInVideo": "آية ترد على قول المعترضين إن شخصاً أعجمياً يعلم صاحب القرآن. لم يذكر المتحدث رقمها.",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -1555,7 +1926,8 @@
       "workTitle": "القرآن",
       "locator": "6:146",
       "quotedArabic": "ومن البقر والغنم حرمنا عليهم شحومهما إلا ما حملت ظهورهما أو الحوايا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -1564,7 +1936,8 @@
       "workTitle": "القرآن",
       "locator": "6:146",
       "quotedArabic": "إلا ما حملت ظهورهما أو البطون",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -1573,7 +1946,8 @@
       "workTitle": "القرآن",
       "locator": "19:24",
       "quotedArabic": "فناداها من تحتها ألا تحزني قد جعل ربك تحتك سرياً",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
@@ -1581,7 +1955,8 @@
       "asStatedInVideo": "مريم في سياق ولادة عيسى.",
       "workTitle": "مريم",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
@@ -1589,7 +1964,8 @@
       "asStatedInVideo": "عيسى بوصفه الطفل الذي يطمئن مريم بحسب قراءة المتحدث.",
       "workTitle": "عيسى",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -1598,7 +1974,8 @@
       "workTitle": "القرآن",
       "locator": "12:88",
       "quotedArabic": "فلما دخلوا عليه قالوا يا أيها العزيز ومسنا وأهلنا الضر وجئنا ببضاعة مزجاة",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -1606,7 +1983,8 @@
       "asStatedInVideo": "إسماعيل ضمن أسماء الأنبياء التي قال المتحدث إن نطقها سرياني.",
       "workTitle": "إسماعيل",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
@@ -1614,7 +1992,8 @@
       "asStatedInVideo": "سليمان ضمن أسماء الشخصيات الدينية ذات النطق السرياني المزعوم.",
       "workTitle": "سليمان",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1622,7 +2001,8 @@
       "asStatedInVideo": "إسحاق ضمن الأسماء ذات النطق السرياني المزعوم.",
       "workTitle": "إسحاق",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -1630,7 +2010,8 @@
       "asStatedInVideo": "يعقوب ضمن الأسماء ذات النطق السرياني المزعوم.",
       "workTitle": "يعقوب",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -1638,7 +2019,8 @@
       "asStatedInVideo": "زكريا ضمن الأسماء ذات النطق السرياني المزعوم.",
       "workTitle": "زكريا",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
@@ -1646,7 +2028,8 @@
       "asStatedInVideo": "نوح ضمن الأسماء ذات النطق السرياني المزعوم.",
       "workTitle": "نوح",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1655,7 +2038,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الكوثر؛ لم يذكر رقم آية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "person",
@@ -1663,7 +2047,8 @@
       "asStatedInVideo": "القرطبي، نُسب إليه ذكر سبعة معانٍ للكوثر.",
       "workTitle": "القرطبي",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "person",
@@ -1671,7 +2056,8 @@
       "asStatedInVideo": "ابن النقيب، نُسب إليه ذكر ستة وعشرين معنى للكوثر.",
       "workTitle": "ابن النقيب",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -1680,7 +2066,8 @@
       "workTitle": "القرآن",
       "locator": "سورة عبس؛ لم يذكر رقم الآية",
       "quotedArabic": "وفاكهة وأباً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -1689,7 +2076,8 @@
       "workTitle": "القرآن",
       "locator": "سورة هود؛ لم يذكر رقم الآية",
       "quotedArabic": "إن إبراهيم لأواه منيب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "person",
@@ -1697,7 +2085,8 @@
       "asStatedInVideo": "إبراهيم، الذي يرى المتحدث أن المفسرين اختاروا له معاني إيجابية لكلمة «أواه».",
       "workTitle": "إبراهيم",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -1705,7 +2094,8 @@
       "asStatedInVideo": "فرعون استُعمل افتراضياً لإظهار ما يراه المتحدث تحيزاً تفسيرياً.",
       "workTitle": "فرعون",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -1714,7 +2104,8 @@
       "workTitle": "القرآن",
       "locator": "26:63",
       "quotedArabic": "فأوحينا إلى موسى أن اضرب بعصاك البحر فانفلق فكان كل فرق كالطود العظيم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
@@ -1722,7 +2113,8 @@
       "asStatedInVideo": "موسى في آية انشقاق البحر.",
       "workTitle": "موسى",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -1731,7 +2123,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الممتحنة؛ لم يذكر رقم الآية",
       "quotedArabic": "وإن فاتكم شيئاً من أزواجكم إلى الكفار",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1740,7 +2133,8 @@
       "workTitle": "القرآن",
       "locator": "سورة النور؛ لم يذكر رقم الآية",
       "quotedArabic": "ليس على الأعمى حرج ولا على المريض حرج ولا على أنفسكم حرج أن تأكلوا من بيوتكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1749,7 +2143,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "وما أرسلنا من رسول إلا بلسان قومه ليبين لهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "person",
@@ -1757,7 +2152,8 @@
       "asStatedInVideo": "الطبري، نُسب إليه نقل قول عائشة إن محمد لم يفسر إلا آيات قليلة.",
       "workTitle": "الطبري",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "person",
@@ -1765,7 +2161,8 @@
       "asStatedInVideo": "عائشة، نُسب إليها خبر قلة تفسير محمد للقرآن.",
       "workTitle": "عائشة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1773,7 +2170,8 @@
       "asStatedInVideo": "محمد بوصفه المكلّف ببيان القرآن للناس.",
       "workTitle": "محمد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "book",
@@ -1781,7 +2179,8 @@
       "asStatedInVideo": "اللفظ السرياني «قريان» أو «قريانا» بمعنى كتاب تلاوة الطقوس المسيحية، المقدم أصلاً لكلمة قرآن.",
       "workTitle": "قريانا",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c38"
     },
     {
       "citationType": "person",
@@ -1789,7 +2188,8 @@
       "asStatedInVideo": "المسيح أو عيسى في المقارنة بين مرات ذكره ومرات ذكر محمد وفي القراءة البديلة لكلمة محمد.",
       "workTitle": "عيسى المسيح",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1797,7 +2197,8 @@
       "asStatedInVideo": "محمد، قيل إن اسمه ورد أربع مرات وإن اللفظ قد يكون صفة لا اسماً.",
       "workTitle": "محمد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "quran",
@@ -1806,7 +2207,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "اسمه أحمد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "quran",
@@ -1815,7 +2217,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "ما كان محمد أبا أحد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "quran",
@@ -1824,7 +2227,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "وما محمد إلا رسول قد خلت من قبله الرسل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     },
     {
       "citationType": "quran",
@@ -1833,7 +2237,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "ما المسيح ابن مريم إلا رسول قد خلت من قبله الرسل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c44"
     },
     {
       "citationType": "event",
@@ -1841,7 +2246,8 @@
       "asStatedInVideo": "عملة فلسطينية مؤرخة بين 647 و658 تحمل كلمة محمد وصورة شخص يحمل صليباً.",
       "locator": "فلسطين، 647-658 م",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c45"
     },
     {
       "citationType": "event",
@@ -1849,7 +2255,8 @@
       "asStatedInVideo": "عملة سورية مؤرخة بين 686 و687 تحمل كلمة محمد وصورة شخص يحمل صليباً.",
       "locator": "سوريا، 686-687 م",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c46"
     },
     {
       "citationType": "person",
@@ -1857,7 +2264,8 @@
       "asStatedInVideo": "آدم في قصة السجود ورفض الشيطان.",
       "workTitle": "آدم",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c47"
     },
     {
       "citationType": "person",
@@ -1865,7 +2273,8 @@
       "asStatedInVideo": "الشيطان الذي رفض السجود لآدم لأنه خُلق من نار.",
       "workTitle": "الشيطان",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c48"
     },
     {
       "citationType": "book",
@@ -1873,7 +2282,8 @@
       "asStatedInVideo": "الأدب الحاخامي بوصفه مصدر قصة سجود الملائكة لآدم ورفض الشيطان.",
       "workTitle": "الأدب الحاخامي",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c49"
     },
     {
       "citationType": "book",
@@ -1882,7 +2292,8 @@
       "workTitle": "سفر الخروج",
       "locator": "الإصحاح 16",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c50"
     },
     {
       "citationType": "quran",
@@ -1891,7 +2302,8 @@
       "workTitle": "القرآن",
       "locator": "سورة البقرة؛ لم يذكر أرقام الآيات",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c51"
     },
     {
       "citationType": "person",
@@ -1899,7 +2311,8 @@
       "asStatedInVideo": "يأجوج ومأجوج بوصفهما شخصيتين سابقتين للإسلام في العهد القديم والأساطير السريانية.",
       "workTitle": "يأجوج ومأجوج",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c52"
     },
     {
       "citationType": "book",
@@ -1907,7 +2320,8 @@
       "asStatedInVideo": "العهد القديم بوصفه حاوياً لقصة يأجوج ومأجوج.",
       "workTitle": "العهد القديم",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c53"
     },
     {
       "citationType": "book",
@@ -1915,7 +2329,8 @@
       "asStatedInVideo": "كتب أساطير سريانية تتضمن قصة يأجوج ومأجوج، من غير تسمية عمل محدد.",
       "workTitle": "أساطير سريانية غير مسماة",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c54"
     },
     {
       "citationType": "person",
@@ -1923,7 +2338,8 @@
       "asStatedInVideo": "نوح في قصة الطوفان والسفينة.",
       "workTitle": "نوح",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c55"
     },
     {
       "citationType": "event",
@@ -1931,7 +2347,8 @@
       "asStatedInVideo": "أقدم نسخة من قصة الطوفان، قيل إن تاريخها نحو 1600 قبل الميلاد من غير تسمية النص.",
       "locator": "نحو 1600 ق.م",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c56"
     },
     {
       "citationType": "person",
@@ -1939,7 +2356,8 @@
       "asStatedInVideo": "قابيل وهابيل في قصة القتل الأولى.",
       "workTitle": "قابيل وهابيل",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c57"
     },
     {
       "citationType": "quran",
@@ -1948,7 +2366,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "من قتل نفساً بغير نفس فكأنما قتل الناس جميعاً ومن أحياها فكأنما أحيا الناس جميعاً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c58"
     },
     {
       "citationType": "book",
@@ -1957,7 +2376,8 @@
       "workTitle": "مشناة سنهدرين",
       "locator": "الفصل الرابع",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c59"
     },
     {
       "citationType": "event",
@@ -1965,7 +2385,8 @@
       "asStatedInVideo": "الأسطورة المسيحية عن سبعة أشخاص هربوا من الإمبراطور ديسيوس واختبأوا في كهف.",
       "workTitle": "قصة النيام السبعة أو أصحاب الكهف",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c60"
     },
     {
       "citationType": "person",
@@ -1973,7 +2394,8 @@
       "asStatedInVideo": "الإمبراطور الروماني ديسيوس في قصة أصحاب الكهف.",
       "workTitle": "ديسيوس",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c61"
     },
     {
       "citationType": "quran",
@@ -1982,7 +2404,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الكهف؛ لم يذكر أرقام الآيات",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c62"
     },
     {
       "citationType": "quran",
@@ -1991,7 +2414,8 @@
       "workTitle": "القرآن",
       "locator": "سورة يوسف",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c63"
     },
     {
       "citationType": "book",
@@ -1999,7 +2423,8 @@
       "asStatedInVideo": "التوراة أو الإنجيل بوصفهما حاويين لقصة يوسف قبل القرآن.",
       "workTitle": "التوراة أو الكتاب المقدس",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c64"
     },
     {
       "citationType": "person",
@@ -2007,7 +2432,8 @@
       "asStatedInVideo": "الملك سليمان وملكة سبأ في القصة المقارنة.",
       "workTitle": "سليمان وملكة سبأ",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c65"
     },
     {
       "citationType": "book",
@@ -2015,7 +2441,8 @@
       "asStatedInVideo": "كتاب عبري سماه المتحدث «بوكوف إستر».",
       "workTitle": "Book of Esther بحسب نطق المتحدث",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c66"
     },
     {
       "citationType": "quran",
@@ -2024,7 +2451,8 @@
       "workTitle": "القرآن",
       "locator": "لم يذكر رقم الآية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c67"
     },
     {
       "citationType": "quran",
@@ -2033,7 +2461,8 @@
       "workTitle": "القرآن",
       "locator": "2:221 وما بعدها بحسب المتحدث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c68"
     },
     {
       "citationType": "person",
@@ -2041,7 +2470,8 @@
       "asStatedInVideo": "لوط، قيل إن قصته تكررت ثماني مرات.",
       "workTitle": "لوط",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c69"
     },
     {
       "citationType": "person",
@@ -2049,7 +2479,8 @@
       "asStatedInVideo": "نوح، قيل إن قصته تكررت إحدى عشرة مرة.",
       "workTitle": "نوح",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c70"
     },
     {
       "citationType": "person",
@@ -2057,7 +2488,8 @@
       "asStatedInVideo": "إبراهيم، قيل إن اسمه ذُكر تسعاً وستين مرة.",
       "workTitle": "إبراهيم",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c71"
     },
     {
       "citationType": "person",
@@ -2065,7 +2497,8 @@
       "asStatedInVideo": "فرعون، قيل إن اسمه ذُكر أربعاً وسبعين مرة.",
       "workTitle": "فرعون",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c72"
     },
     {
       "citationType": "person",
@@ -2073,7 +2506,8 @@
       "asStatedInVideo": "موسى، قيل إن اسمه ذُكر 136 مرة وإن قصته تكررت سبع مرات.",
       "workTitle": "موسى",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c73"
     },
     {
       "citationType": "person",
@@ -2081,7 +2515,8 @@
       "asStatedInVideo": "تيودور نولدك، نُسب إليه القول إن القرآن بلا حس أدبي.",
       "workTitle": "تيودور نولدكه",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c74"
     },
     {
       "citationType": "book",
@@ -2089,7 +2524,8 @@
       "asStatedInVideo": "صحيح البخاري بوصفه أحد الكتب التي قال المتحدث إنها تتضمن روايات آيات الرجم المفقودة.",
       "workTitle": "صحيح البخاري",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c75"
     },
     {
       "citationType": "book",
@@ -2097,7 +2533,8 @@
       "asStatedInVideo": "صحيح مسلم بوصفه أحد الكتب التي قال المتحدث إنها تتضمن روايات آية الرجم.",
       "workTitle": "صحيح مسلم",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c76"
     },
     {
       "citationType": "book",
@@ -2106,7 +2543,8 @@
       "workTitle": "الموطأ",
       "author": "مالك بن أنس",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c77"
     },
     {
       "citationType": "book",
@@ -2114,14 +2552,16 @@
       "asStatedInVideo": "السنن الكبرى ضمن الكتب التي سماها المتحدث في سياق الآيات المفقودة.",
       "workTitle": "السنن الكبرى",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c78"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:30:34-00:31:21",
       "asStatedInVideo": "رواية أن فرخة أو معزة دخلت فأكلت الصحيفة التي كانت مكتوبة فيها آيات.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c79"
     },
     {
       "citationType": "person",
@@ -2129,14 +2569,16 @@
       "asStatedInVideo": "عمر بن الخطاب في رواية آية الرجم واستمرار حكمها.",
       "workTitle": "عمر بن الخطاب",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c80"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:32:07-00:32:53",
       "asStatedInVideo": "حديث عمر في آية الرجم، وصفه المتحدث بأنه في أعلى درجات الصحة.",
       "quotedArabic": "إن الله تعالى بعث محمداً وأنزل عليه الكتاب فكان مما أنزل الله عليه آية الرجم ورجم رسول الله ورجمنا بعده",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c81"
     },
     {
       "citationType": "person",
@@ -2144,7 +2586,8 @@
       "asStatedInVideo": "محمد في رواية تطبيق الرجم في حياته.",
       "workTitle": "محمد",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c82"
     },
     {
       "citationType": "person",
@@ -2152,7 +2595,8 @@
       "asStatedInVideo": "عائشة، راوية خبر عشر رضعات ثم خمس رضعات.",
       "workTitle": "عائشة",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c83"
     },
     {
       "citationType": "book",
@@ -2160,14 +2604,16 @@
       "asStatedInVideo": "صحيح البخاري، قال المتحدث إن حديث رضاعة الكبير موجود فيه.",
       "workTitle": "صحيح البخاري",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c84"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:33:40-00:34:27",
       "asStatedInVideo": "حديث عائشة عن عشر رضعات معلومات ثم نسخها بخمس.",
       "quotedArabic": "كان مما أنزل من القرآن عشر رضعات معلومات يحرمن ثم نسخن بخمس رضعات معلومات يحرمن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c85"
     },
     {
       "citationType": "person",
@@ -2175,7 +2621,8 @@
       "asStatedInVideo": "عائشة، نُسب إليها أن سورة الأحزاب كانت مئتي آية.",
       "workTitle": "عائشة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c86"
     },
     {
       "citationType": "quran",
@@ -2184,7 +2631,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الأحزاب",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c87"
     },
     {
       "citationType": "person",
@@ -2192,7 +2640,8 @@
       "asStatedInVideo": "البيهقي في نسبة رواية طول سورة الأحزاب.",
       "workTitle": "أبو بكر البيهقي",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c88"
     },
     {
       "citationType": "book",
@@ -2201,7 +2650,8 @@
       "workTitle": "السنن الكبرى",
       "author": "البيهقي",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c89"
     },
     {
       "citationType": "quran",
@@ -2210,7 +2660,8 @@
       "workTitle": "القرآن",
       "locator": "سورة البقرة",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c90"
     },
     {
       "citationType": "quran",
@@ -2219,7 +2670,8 @@
       "workTitle": "القرآن",
       "locator": "سورة براءة أو التوبة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c91"
     },
     {
       "citationType": "person",
@@ -2227,7 +2679,8 @@
       "asStatedInVideo": "عثمان بن عفان في اتهام حذف سورتين من مصحفه.",
       "workTitle": "عثمان بن عفان",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c92"
     },
     {
       "citationType": "book",
@@ -2235,7 +2688,8 @@
       "asStatedInVideo": "نص منسوب إلى القرآن باسم سورة الولاية.",
       "workTitle": "سورة الولاية",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c93"
     },
     {
       "citationType": "book",
@@ -2243,7 +2697,8 @@
       "asStatedInVideo": "نص منسوب إلى القرآن باسم سورة النورين.",
       "workTitle": "سورة النورين",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c94"
     },
     {
       "citationType": "person",
@@ -2251,7 +2706,8 @@
       "asStatedInVideo": "توماس باتريك، نُسب إليه الكلام عن كثرة الآيات المحذوفة.",
       "workTitle": "توماس باتريك",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c95"
     },
     {
       "citationType": "book",
@@ -2260,7 +2716,8 @@
       "workTitle": "A Dictionary of Islam",
       "author": "توماس باتريك بحسب ما ذكره المتحدث",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c96"
     },
     {
       "citationType": "person",
@@ -2268,7 +2725,8 @@
       "asStatedInVideo": "جلال الدين السيوطي، نُسب إليه تقدير خمسمئة آية محذوفة.",
       "workTitle": "جلال الدين السيوطي",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c97"
     },
     {
       "citationType": "person",
@@ -2276,7 +2734,8 @@
       "asStatedInVideo": "عمر بن الخطاب، نُسب إليه النهي عن القول بامتلاك القرآن كله.",
       "workTitle": "عمر بن الخطاب",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c98"
     },
     {
       "citationType": "person",
@@ -2284,7 +2743,8 @@
       "asStatedInVideo": "جبريل بوصفه الملك الذي أملى القرآن على محمد.",
       "workTitle": "جبريل",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c99"
     },
     {
       "citationType": "book",
@@ -2292,7 +2752,8 @@
       "asStatedInVideo": "اللوح المحفوظ بوصفه موضع وجود القرآن قبل النزول.",
       "workTitle": "اللوح المحفوظ",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c100"
     },
     {
       "citationType": "person",
@@ -2300,7 +2761,8 @@
       "asStatedInVideo": "عثمان بن عفان بوصفه جامع المصحف وموزع نسخه وفق الرواية التقليدية التي عرضها المتحدث.",
       "workTitle": "عثمان بن عفان",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c101"
     },
     {
       "citationType": "event",
@@ -2308,7 +2770,8 @@
       "asStatedInVideo": "جمع القرآن من أكتاف الحيوانات وجلود الماعز والخراف وورق النخل ومحفوظات القراء.",
       "workTitle": "جمع المصحف العثماني",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c102"
     },
     {
       "citationType": "event",
@@ -2316,7 +2779,8 @@
       "asStatedInVideo": "بدء تنقيط القرآن بعد نحو خمسين سنة ثم استمرار العملية وإضافة التشكيل والهمزة.",
       "workTitle": "تنقيط المصحف وتشكيله",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c103"
     },
     {
       "citationType": "event",
@@ -2324,7 +2788,8 @@
       "asStatedInVideo": "إحراق عثمان للمصاحف الأخرى والمواد الأصلية.",
       "workTitle": "إحراق المصاحف في عهد عثمان",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c104"
     },
     {
       "citationType": "event",
@@ -2332,14 +2797,16 @@
       "asStatedInVideo": "أول ذكر غير إسلامي لكلمة قرآن سنة 710 بحسب المتحدث.",
       "locator": "710 م",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c105"
     },
     {
       "citationType": "event",
       "timestamp": "00:41:11-00:41:57",
       "asStatedInVideo": "غياب مزعوم لذكري الإسلام والمسلمين في المصادر الخارجية لأكثر من سبعين سنة بعد محمد.",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c106"
     },
     {
       "citationType": "person",
@@ -2347,7 +2814,8 @@
       "asStatedInVideo": "عبد الملك بن مروان بوصفه جامعاً أو معدلاً للقرآن.",
       "workTitle": "عبد الملك بن مروان",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c107"
     },
     {
       "citationType": "person",
@@ -2355,14 +2823,16 @@
       "asStatedInVideo": "الحجاج بن يوسف الثقفي بوصفه مساعد عبد الملك في جمع المصحف وإحراق النسخ القديمة.",
       "workTitle": "الحجاج بن يوسف الثقفي",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c108"
     },
     {
       "citationType": "sirah",
       "timestamp": "00:41:57-00:42:06",
       "asStatedInVideo": "قول منسوب إلى عبد الملك إنه جمع القرآن في شهر رمضان وخشي الموت فيه.",
       "quotedArabic": "جمعت القرآن",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c109"
     },
     {
       "citationType": "event",
@@ -2370,7 +2840,8 @@
       "asStatedInVideo": "أمر الحجاج بإحراق المصاحف القديمة وتوزيع نسخ المصحف الجديد على الأمصار.",
       "workTitle": "تدخلات الحجاج في المصاحف",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c110"
     },
     {
       "citationType": "person",
@@ -2378,7 +2849,8 @@
       "asStatedInVideo": "أنس بن مالك، نُسب إليه القول إن مصحف عثمان اختفى.",
       "workTitle": "أنس بن مالك",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c111"
     },
     {
       "citationType": "event",
@@ -2386,7 +2858,8 @@
       "asStatedInVideo": "مخطوطات صنعاء بوصفها من أقدم مخطوطات القرآن وتظهر آثار حذف وإضافة وتعديل.",
       "workTitle": "مخطوطات صنعاء القرآنية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c112"
     },
     {
       "citationType": "event",
@@ -2394,7 +2867,8 @@
       "asStatedInVideo": "مخطوطات أحدث في المكتبة البريطانية تضم نحو ثلثي القرآن وترجع إلى أكثر من مئة سنة بعد محمد؛ لم يذكر المتحدث رقم الحفظ.",
       "workTitle": "مخطوط قرآني في المكتبة البريطانية",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c113"
     },
     {
       "citationType": "quran",
@@ -2403,7 +2877,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الأنفال",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c114"
     },
     {
       "citationType": "quran",
@@ -2412,7 +2887,8 @@
       "workTitle": "القرآن",
       "locator": "سورة التوبة",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c115"
     },
     {
       "citationType": "quran",
@@ -2421,7 +2897,8 @@
       "workTitle": "القرآن",
       "locator": "سورة هود",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c116"
     },
     {
       "citationType": "quran",
@@ -2430,7 +2907,8 @@
       "workTitle": "القرآن",
       "locator": "سورة طه",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c117"
     },
     {
       "citationType": "quran",
@@ -2439,7 +2917,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الأنبياء",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c118"
     },
     {
       "citationType": "quran",
@@ -2448,7 +2927,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الحج",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c119"
     },
     {
       "citationType": "quran",
@@ -2457,7 +2937,8 @@
       "workTitle": "القرآن",
       "locator": "سورة الشعراء",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c120"
     },
     {
       "citationType": "quran",
@@ -2466,7 +2947,8 @@
       "workTitle": "القرآن",
       "locator": "سورة النمل",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c121"
     },
     {
       "citationType": "event",
@@ -2474,7 +2956,8 @@
       "asStatedInVideo": "العصر العباسي بوصفه الحد الزمني الذي قال المتحدث إن القرآن ظل قبله غير مكتمل.",
       "workTitle": "بداية الدولة العباسية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c122"
     }
   ],
   "topicProposals": []

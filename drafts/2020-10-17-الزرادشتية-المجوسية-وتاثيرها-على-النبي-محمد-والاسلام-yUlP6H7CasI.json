@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "yUlP6H7CasI",
   "videoUrl": "https://www.youtube.com/watch?v=yUlP6H7CasI",
   "videoTitle": "الزرادشتية المجوسية وتأثيرها على النبي محمد والإسلام",
@@ -137,7 +137,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the standard scholarly dating of Zoroastrianism and of Zoroaster, its status under the Achaemenids, Parthians and Sasanians, and whether specialists describe it as one of the oldest surviving monotheisms."
+      "verificationNote": "Check the standard scholarly dating of Zoroastrianism and of Zoroaster, its status under the Achaemenids, Parthians and Sasanians, and whether specialists describe it as one of the oldest surviving monotheisms.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:31",
@@ -152,7 +153,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Achaemenid inscriptions (e.g. Behistun) for the name Ahura Mazda, the etymology given for the two elements, and how scholars describe Zoroastrian monotheism and the role of fire in it."
+      "verificationNote": "Check Achaemenid inscriptions (e.g. Behistun) for the name Ahura Mazda, the etymology given for the two elements, and how scholars describe Zoroastrian monotheism and the role of fire in it.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:17",
@@ -168,7 +172,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-save-checkable",
-      "verificationNote": "Locate the passage of the Avesta (Hormozd Yasht) listing the names of Ahura Mazda in the Arabic translation the speaker used, verify the page reference, and compare the list item by item with the traditional list of the ninety-nine names."
+      "verificationNote": "Locate the passage of the Avesta (Hormozd Yasht) listing the names of Ahura Mazda in the Arabic translation the speaker used, verify the page reference, and compare the list item by item with the traditional list of the ninety-nine names.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:03:53",
@@ -184,7 +191,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan passage on the creation of the soul and its breathing into the body, and compare with the Qur'anic wording on breathing of the spirit (e.g. Q15:29, Q32:9) to see whether the resemblance is as close as stated."
+      "verificationNote": "Locate the Avestan passage on the creation of the soul and its breathing into the body, and compare with the Qur'anic wording on breathing of the spirit (e.g. Q15:29, Q32:9) to see whether the resemblance is as close as stated.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:39",
@@ -200,7 +210,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate this Gathic passage (Yasna 44) in the translation used and compare its rhetorical questions with Qur'anic passages using the same device about the sky held up, the balance, and the alternation of night and day."
+      "verificationNote": "Locate this Gathic passage (Yasna 44) in the translation used and compare its rhetorical questions with Qur'anic passages using the same device about the sky held up, the balance, and the alternation of night and day.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:27",
@@ -217,7 +230,10 @@
         "zoroastrian-parallels-zoroaster-biography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the scholarly consensus on Zoroaster's historicity and the origin of the legendary material about him, and confirm the speaker's characterisation of Nietzsche's book as a source of the doubt."
+      "verificationNote": "Check the scholarly consensus on Zoroaster's historicity and the origin of the legendary material about him, and confirm the speaker's characterisation of Nietzsche's book as a source of the doubt.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:06:15",
@@ -235,7 +251,10 @@
         "zoroastrian-parallels-zoroaster-biography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate this birth narrative in Sulayman Mazhar's Qissat al-Diyanat and in the Zoroastrian hagiographical sources it derives from, and compare with the annunciation and birth portents in the sirah of Muhammad."
+      "verificationNote": "Locate this birth narrative in Sulayman Mazhar's Qissat al-Diyanat and in the Zoroastrian hagiographical sources it derives from, and compare with the annunciation and birth portents in the sirah of Muhammad.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:00",
@@ -253,7 +272,10 @@
         "zoroastrian-parallels-zoroaster-biography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the source for Zoroaster's laughing at birth and the date 660 BC, and locate the sirah reports attributed to Amina bint Wahb about light at Muhammad's birth (Ibn Ishaq/Ibn Hisham) to test the comparison. The transcript is garbled at the point where Amina's words are quoted."
+      "verificationNote": "Check the source for Zoroaster's laughing at birth and the date 660 BC, and locate the sirah reports attributed to Amina bint Wahb about light at Muhammad's birth (Ibn Ishaq/Ibn Hisham) to test the comparison. The transcript is garbled at the point where Amina's words are quoted.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:07:00",
@@ -270,7 +292,8 @@
         "zoroastrian-parallels-zoroaster-biography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian and secondary sources for the age assigned to Zoroaster at his first revelation, and compare with the traditional age of forty for Muhammad."
+      "verificationNote": "Check the Zoroastrian and secondary sources for the age assigned to Zoroaster at his first revelation, and compare with the traditional age of forty for Muhammad.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:47",
@@ -283,7 +306,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the dates of the conquest of Persia, the evidence for destruction of fire temples and loss of Avestan texts, and current demographic estimates. Recorded for completeness; it does not itself bear on the origin of Islamic doctrine."
+      "verificationNote": "Check the dates of the conquest of Persia, the evidence for destruction of fire temples and loss of Avestan texts, and current demographic estimates. Recorded for completeness; it does not itself bear on the origin of Islamic doctrine.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:08:34",
@@ -299,7 +325,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan passage on the molten metal ordeal (Gathas, Yasna 51) and compare the imagery with Q18:29 and with classical glosses of al-muhl."
+      "verificationNote": "Locate the Avestan passage on the molten metal ordeal (Gathas, Yasna 51) and compare the imagery with Q18:29 and with classical glosses of al-muhl.",
+      "citationRefs": [
+        "c12",
+        "c11"
+      ]
     },
     {
       "timestamp": "00:09:19",
@@ -315,7 +345,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Gathic passage on the two primordial spirits and their choice, and compare with Islamic doctrines of divine foreknowledge, human choice, and the figure of Iblis."
+      "verificationNote": "Locate the Gathic passage on the two primordial spirits and their choice, and compare with Islamic doctrines of divine foreknowledge, human choice, and the figure of Iblis.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:04",
@@ -331,7 +362,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian doctrine of the three ages and the Amesha Spentas, and assess whether the Islamic angelology and demonology it is being compared with can be shown to depend on it."
+      "verificationNote": "Check the Zoroastrian doctrine of the three ages and the Amesha Spentas, and assess whether the Islamic angelology and demonology it is being compared with can be shown to depend on it.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:10:49",
@@ -347,7 +381,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Zoroastrian six creations (Bundahishn) and their dating relative to Genesis, then compare with the Qur'anic verses on creation in six days (e.g. Q7:54, Q41:9-12) before accepting a direction of borrowing."
+      "verificationNote": "Check the Zoroastrian six creations (Bundahishn) and their dating relative to Genesis, then compare with the Qur'anic verses on creation in six days (e.g. Q7:54, Q41:9-12) before accepting a direction of borrowing.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:49",
@@ -363,7 +398,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian account of Mashya and Mashyana, its date of attestation, and whether the correspondence with Adam and Eve is a scholarly claim of dependence or a typological resemblance."
+      "verificationNote": "Check the Zoroastrian account of Mashya and Mashyana, its date of attestation, and whether the correspondence with Adam and Eve is a scholarly claim of dependence or a typological resemblance.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:11:36",
@@ -379,7 +417,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian Saoshyant doctrine and its dating, and the scholarship on whether Jewish, Christian and Islamic messianic expectation depends on it."
+      "verificationNote": "Check the Zoroastrian Saoshyant doctrine and its dating, and the scholarship on whether Jewish, Christian and Islamic messianic expectation depends on it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:36",
@@ -397,7 +436,11 @@
         "zoroastrian-parallels-zoroaster-biography"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate this account in Sulayman Mazhar and in the Zoroastrian tradition, and compare with the sirah account of solitary retreat at Hira and the first appearance of Gabriel."
+      "verificationNote": "Locate this account in Sulayman Mazhar and in the Zoroastrian tradition, and compare with the sirah account of solitary retreat at Hira and the first appearance of Gabriel.",
+      "citationRefs": [
+        "c15",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:12:22",
@@ -413,7 +456,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether Zoroastrian texts and Achaemenid reliefs actually depict an ascent on a winged bull-like mount, what the Faravahar emblem represents, and compare with the Buraq and the mi'raj narratives."
+      "verificationNote": "Check whether Zoroastrian texts and Achaemenid reliefs actually depict an ascent on a winged bull-like mount, what the Faravahar emblem represents, and compare with the Buraq and the mi'raj narratives.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:08",
@@ -429,7 +473,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Arda Viraf Namag, its dating, the motif of the body left in trance, the angelic guide and the tiered heavens, and compare with the mi'raj narrative and the report of Muhammad's body remaining behind."
+      "verificationNote": "Check the Arda Viraf Namag, its dating, the motif of the body left in trance, the angelic guide and the tiered heavens, and compare with the mi'raj narrative and the report of Muhammad's body remaining behind.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:13:55",
@@ -445,7 +492,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian doctrine of the weighing of deeds and the intermediate place (hamistagan), and compare with the Qur'anic mizan and the people of al-A'raf."
+      "verificationNote": "Check the Zoroastrian doctrine of the weighing of deeds and the intermediate place (hamistagan), and compare with the Qur'anic mizan and the people of al-A'raf.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:55",
@@ -461,7 +509,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan and Pahlavi descriptions of the Chinvat bridge and compare the hair-thin, sword-sharp description with the hadith descriptions of the sirat, checking which attestation is earlier."
+      "verificationNote": "Locate the Avestan and Pahlavi descriptions of the Chinvat bridge and compare the hair-thin, sword-sharp description with the hadith descriptions of the sirat, checking which attestation is earlier.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:14:41",
@@ -477,7 +528,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Fravarane confession of faith in the Avesta and compare its two-part structure with the Islamic shahada."
+      "verificationNote": "Locate the Fravarane confession of faith in the Avesta and compare its two-part structure with the Islamic shahada.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:14:41",
@@ -493,7 +547,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian practice of facing fire or light in prayer and its status as a qibla, and the Islamic material on kissing the Black Stone and facing the Ka'ba, to test whether the comparison is apt."
+      "verificationNote": "Check Zoroastrian practice of facing fire or light in prayer and its status as a qibla, and the Islamic material on kissing the Black Stone and facing the Ka'ba, to test whether the comparison is apt.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:26",
@@ -509,7 +564,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the five Zoroastrian gah watches, their times and their attested antiquity, and compare with the timing of the five Islamic prayers and reports about when the five were fixed."
+      "verificationNote": "Check the five Zoroastrian gah watches, their times and their attested antiquity, and compare with the timing of the five Islamic prayers and reports about when the five were fixed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:26",
@@ -526,7 +582,8 @@
         "zoroastrian-parallels-purity-and-bodily-rules"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian purification practice (padyab) before prayer and compare with the Islamic wudu, including which elements are washed."
+      "verificationNote": "Check Zoroastrian purification practice (padyab) before prayer and compare with the Islamic wudu, including which elements are washed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:26",
@@ -542,7 +599,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check descriptions of Zoroastrian prayer posture, including any raising of a finger at the confession of one god, and compare with the Islamic qiyam, julus and the raised index finger in the tashahhud."
+      "verificationNote": "Check descriptions of Zoroastrian prayer posture, including any raising of a finger at the confession of one god, and compare with the Islamic qiyam, julus and the raised index finger in the tashahhud.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:13",
@@ -557,7 +615,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian sources on the merit of the dawn watch and Satan's inducement to sleep, and compare with the hadith on the virtue of fajr and Satan's knots on the sleeper's head."
+      "verificationNote": "Check the Zoroastrian sources on the merit of the dawn watch and Satan's inducement to sleep, and compare with the hadith on the virtue of fajr and Satan's knots on the sleeper's head.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:13",
@@ -572,7 +631,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the archaeology of the Ka'ba-ye Zartosht at Naqsh-e Rustam, its date, form and proposed functions, the dates given for the Achaemenid capital at Persepolis (550-330 BC), and whether the name is ancient or a later designation."
+      "verificationNote": "Check the archaeology of the Ka'ba-ye Zartosht at Naqsh-e Rustam, its date, form and proposed functions, the dates given for the Achaemenid capital at Persepolis (550-330 BC), and whether the name is ancient or a later designation.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:16:58",
@@ -589,7 +651,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Vendidad passage on Yima's var and compare with the Utnapishtim flood account in Gilgamesh tablet XI and with the Qur'anic Noah narrative, noting that the Avestan disaster is a winter and not a flood."
+      "verificationNote": "Locate the Vendidad passage on Yima's var and compare with the Utnapishtim flood account in Gilgamesh tablet XI and with the Qur'anic Noah narrative, noting that the Avestan disaster is a winter and not a flood.",
+      "citationRefs": [
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:18:31",
@@ -606,7 +672,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan passage (Hadhokht Nask / Yasht 22) on the daena appearing as a maiden of fifteen, check whether the phrase kawa'ib atraba is the Arabic translator's choice echoing Q78:33, and compare with the Qur'anic houri descriptions."
+      "verificationNote": "Locate the Avestan passage (Hadhokht Nask / Yasht 22) on the daena appearing as a maiden of fifteen, check whether the phrase kawa'ib atraba is the Arabic translator's choice echoing Q78:33, and compare with the Qur'anic houri descriptions.",
+      "citationRefs": [
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:20:02",
@@ -624,7 +694,10 @@
         "zoroastrian-parallels-purity-and-bodily-rules"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Vendidad passages on fornication, abortion and intercourse with a menstruating or pregnant woman, and compare with the corresponding Islamic rulings on zina, abortion and menstrual abstinence (e.g. Q2:222)."
+      "verificationNote": "Locate the Vendidad passages on fornication, abortion and intercourse with a menstruating or pregnant woman, and compare with the corresponding Islamic rulings on zina, abortion and menstrual abstinence (e.g. Q2:222).",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:20:48",
@@ -641,7 +714,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Vendidad fargard 3 passage comparing unploughed earth to a childless woman, verify the Arabic wording in the translation used, and compare with Q2:223 and its occasion-of-revelation reports before assessing the claim of borrowing."
+      "verificationNote": "Locate the Vendidad fargard 3 passage comparing unploughed earth to a childless woman, verify the Arabic wording in the translation used, and compare with Q2:223 and its occasion-of-revelation reports before assessing the claim of borrowing.",
+      "citationRefs": [
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:21:35",
@@ -654,7 +731,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan invocation quoted; recorded for completeness, as the speaker draws no Islamic parallel from it."
+      "verificationNote": "Locate the Avestan invocation quoted; recorded for completeness, as the speaker draws no Islamic parallel from it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:22",
@@ -671,7 +749,10 @@
         "zoroastrian-parallels-purity-and-bodily-rules"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Vendidad passage on eating carrion and the Druj Nasu, and compare with the Islamic prohibition of carrion (Q5:3) and its associated notions of impurity."
+      "verificationNote": "Locate the Vendidad passage on eating carrion and the Druj Nasu, and compare with the Islamic prohibition of carrion (Q5:3) and its associated notions of impurity.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:23:09",
@@ -684,7 +765,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian and Yazidi rules on conversion, endogamy, animals and plants. Recorded for completeness; the speaker draws no Islamic parallel from this section."
+      "verificationNote": "Check the Zoroastrian and Yazidi rules on conversion, endogamy, animals and plants. Recorded for completeness; the speaker draws no Islamic parallel from this section.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:23:58",
@@ -702,7 +784,11 @@
         "zoroastrian-parallels-purity-and-bodily-rules"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Vendidad passage on the woman who bears a stillborn child and purification with gomez (bull's urine), and verify the hadith of the people of Urayna and Ukl in Bukhari and Muslim from Anas b. Malik, including its wording about drinking camels' urine and milk."
+      "verificationNote": "Locate the Vendidad passage on the woman who bears a stillborn child and purification with gomez (bull's urine), and verify the hadith of the people of Urayna and Ukl in Bukhari and Muslim from Anas b. Malik, including its wording about drinking camels' urine and milk.",
+      "citationRefs": [
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:24:46",
@@ -718,7 +804,8 @@
         "zoroastrian-parallels-purity-and-bodily-rules"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian funerary practice, the dakhma, the doctrine of corpse impurity and the date the practice was discontinued. Recorded for completeness; the speaker draws no explicit Islamic parallel here."
+      "verificationNote": "Check Zoroastrian funerary practice, the dakhma, the doctrine of corpse impurity and the date the practice was discontinued. Recorded for completeness; the speaker draws no explicit Islamic parallel here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:20",
@@ -734,7 +821,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan passage and check whether the Arabic rendering 'round earth' reflects an original term for sphericity or is a translator's choice; relevant because it bears on claims that scriptural statements about nature are uniquely miraculous."
+      "verificationNote": "Locate the Avestan passage and check whether the Arabic rendering 'round earth' reflects an original term for sphericity or is a translator's choice; relevant because it bears on claims that scriptural statements about nature are uniquely miraculous.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:27:06",
@@ -751,7 +841,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the sirah accounts of Salman al-Farisi's Zoroastrian background and his advice at the battle of the Trench, and identify who holds the view that he transmitted Zoroastrian material to Muhammad."
+      "verificationNote": "Check the sirah accounts of Salman al-Farisi's Zoroastrian background and his advice at the battle of the Trench, and identify who holds the view that he transmitted Zoroastrian material to Muhammad.",
+      "citationRefs": [
+        "c32",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:27:06",
@@ -767,7 +861,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the occasion-of-revelation report for Q2:62 involving Salman al-Farisi in the tafsir and asbab al-nuzul literature, check its grading, and verify the wording attributed to the Prophet and to Salman."
+      "verificationNote": "Locate the occasion-of-revelation report for Q2:62 involving Salman al-Farisi in the tafsir and asbab al-nuzul literature, check its grading, and verify the wording attributed to the Prophet and to Salman.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:27:52",
@@ -783,7 +881,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report attributed to Aisha about Salman's private night sessions with the Prophet, identify the collection it appears in and its grading."
+      "verificationNote": "Locate the report attributed to Aisha about Salman's private night sessions with the Prophet, identify the collection it appears in and its grading.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:28:38",
@@ -800,7 +901,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's inference from the preceding parallels and from Salman's biography; an editor should note that it rests on possibility rather than on a source stating transmission, and check whether any early source alleges such instruction."
+      "verificationNote": "This is the speaker's inference from the preceding parallels and from Salman's biography; an editor should note that it rests on possibility rather than on a source stating transmission, and check whether any early source alleges such instruction.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:28:38",
@@ -817,7 +919,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "This is the speaker's summary conclusion; check the scholarship on Zoroastrian influence on Second Temple Judaism and thence on Christianity and Islam, and on the relative dating of the doctrines listed."
+      "verificationNote": "This is the speaker's summary conclusion; check the scholarship on Zoroastrian influence on Second Temple Judaism and thence on Christianity and Islam, and on the relative dating of the doctrines listed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:29:28",
@@ -833,7 +936,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the hadith material describing the Black Stone as having descended from paradise, and note that the comparative judgment about absurdity is the speaker's own evaluation rather than a source claim."
+      "verificationNote": "Check the hadith material describing the Black Stone as having descended from paradise, and note that the comparative judgment about absurdity is the speaker's own evaluation rather than a source claim.",
+      "citationRefs": [
+        "c37"
+      ]
     }
   ],
   "citations": [
@@ -844,7 +950,8 @@
       "workTitle": "الأفستا (Avesta)",
       "locator": "غير محدد؛ يقول إنه سيذكر أرقام الصفحات",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -854,7 +961,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -863,7 +971,8 @@
       "workTitle": "",
       "locator": "منقوشات الإخمينيين",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "book",
@@ -872,7 +981,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "خالق أنا، نصير، محافظ وعليم، اسمي الروح القدس، اسمي الشافي، الناجع، الراعي، الراعي الأقدس، اسمي أهورا، اسمي مازدا أيضاً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "book",
@@ -881,7 +991,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "وحيث خلقت روح الحياة ونفختها في الجسد وخلقت الأفكار والكلمات والأفعال ليمارس الإنسان بها إيمانه بإرادته الحرة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -890,7 +1001,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور (مناجاة زردشتية)",
       "quotedArabic": "من الذي وضع الأرض ورفع السماء التي لا تسقط أبداً... من الذي خلق الماء والغابات، من الذي ربط السرعة بالريح والغيوم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -899,7 +1011,8 @@
       "author": "فريدريش نيتشه",
       "workTitle": "هكذا تكلم زردشت",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
@@ -909,7 +1022,8 @@
       "author": "سليمان مظهر",
       "locator": "غير مذكور",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
@@ -918,7 +1032,8 @@
       "workTitle": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "event",
@@ -926,7 +1041,8 @@
       "asStatedInVideo": "بعد الغزو الإسلامي لفارس في الفترة ما بين العامين ستمئة وثلاثة وثلاثين وستمئة وأربعة وخمسين ميلادية",
       "locator": "633-654 م",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -935,7 +1051,8 @@
       "workTitle": "القرآن",
       "locator": "18:29",
       "quotedArabic": "وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ فَمَنْ شَاءَ فَلْيُؤْمِنْ وَمَنْ شَاءَ فَلْيَكْفُرْ إِنَّا أَعْتَدْنَا لِلظَّالِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا وَإِنْ يَسْتَغِيثُوا يُغَاثُوا بِمَاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَ بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "book",
@@ -944,7 +1061,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "ما هو الجزاء الذي ستمنحه لكل الطرفين بواسطة نارك الحمراء ومعدنك المنصهر... ما يجلب الدمار للشرير والبركات للصالح",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -952,7 +1070,8 @@
       "asStatedInVideo": "فأوجد سبعة ملائكة مقربين عرفوا باسم أميشا سبينتس أو الخالدون المقدسون",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
@@ -960,7 +1079,8 @@
       "asStatedInVideo": "ثم خلق أهورا مزدا أول البشر الذكر موشى والأنثى موشية التي تماثل آدم وحواء في الأديان الإبراهيمية",
       "locator": "مشيا ومشيانة",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "book",
@@ -970,7 +1090,8 @@
       "author": "سليمان مظهر",
       "locator": "غير مذكور",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -978,7 +1099,8 @@
       "asStatedInVideo": "وإذا به فرده وهو مانا كبير الملائكة قد جاء ليقود زردشت إلى السماء",
       "locator": "وهو مانا (Vohu Manah)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c16"
     },
     {
       "citationType": "person",
@@ -986,7 +1108,8 @@
       "asStatedInVideo": "فانتخبوا شاباً من أهل زردشت اسمه أردا فيراف وأرسلوا روحه إلى السماء",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "book",
@@ -995,7 +1118,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "سوف أعبر جسر جينفات الفاصل... سوف يلقون العذاب بأرواحهم وضمائرهم عندما يأتون إلى جسر جينفات وإلى الأبد سينزلون في مقر الشر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "book",
@@ -1004,7 +1128,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "أشهد أني مؤمن بأهورا مزدا الواحد وعابد له وأشهد أني تابع لزردشت رسوله ومعادٍ للشيطان وأعوانه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "event",
@@ -1012,7 +1137,8 @@
       "asStatedInVideo": "يقال له كعبة زردشت والنصب مبني على شكل برج ويقع شمال غرب مدينة برسبوليس في إيران والتي كانت عاصمة الإمبراطورية الإخمينية بين العامين 550 و 330 قبل الميلاد",
       "locator": "القرن الخامس قبل الميلاد؛ برسبوليس؛ 550-330 ق.م",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "book",
@@ -1021,7 +1147,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "قال أهورا مزدا ليم: يا يم الرائع ستحل شتاءات على هذا العالم المادي الآثم... وأنت ستبني فار بمساحة جري الخيل من الجهات الأربع",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "book",
@@ -1030,7 +1157,8 @@
       "workTitle": "ملحمة جلجامش",
       "locator": "قصة أوتنابشتيم",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "book",
@@ -1039,7 +1167,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "تجلس عندهم العذراوات ممشوقات القامة متجملات بالأساور ذوات الأجساد الجميلة يتمتع النظر إليهن... ذات نهدين بارزين يقفان بجلال كواعب أتراباً... في الخامسة عشرة من عمرها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1048,7 +1177,8 @@
       "workTitle": "القرآن",
       "locator": "غير مذكور صراحة (لفظ من سورة النبأ 78:33)",
       "quotedArabic": "كواعب أتراباً",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c24"
     },
     {
       "citationType": "book",
@@ -1057,7 +1187,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "إذا زنى رجل بفتاة... وأحبلها يجب عليها أن لا تحيق الهلاك بالثمرة الموجودة في رحمها خجلاً من الناس... يكون الوالدان مذنبين... ويعاقبان بالقصاص العادل جراء القتل العمد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -1066,7 +1197,8 @@
       "workTitle": "القرآن",
       "locator": "2:223",
       "quotedArabic": "نساؤكم حرث لكم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "book",
@@ -1075,7 +1207,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "الأرض تكون حزينة يا زردشت سبيتاما عندما تبقى غير محروثة لفترة طويلة حيث تجب حراثتها من قبل الفلاح الذي ينتظر بفارغ الصبر محصولاً جيداً منها مثل المرأة الجميلة التي عاشت فترة طويلة بدون ذرية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "book",
@@ -1084,7 +1217,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "أجاب أهورا مزدا لا يمكن له أيها المقدس زردشت، ينبغي هدم جحره وشق قلبه وقلع عينيه، تهاجمه دروج ناسو فتمسك به بإحكام حتى نهاية أظافره فيظل نجساً إلى أبد الآبدين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "book",
@@ -1093,7 +1227,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "hadith",
@@ -1103,7 +1238,8 @@
       "author": "أنس بن مالك",
       "locator": "الصحيحان، حديث أنس بن مالك (قصة العرنيين) — دون رقم",
       "quotedArabic": "قدم رهط من عرينة وعكل على النبي فاجتووا المدينة، فشكوا ذلك، فأمرهم أن يأتوا إبل الصدقة فيشربوا من أبوالها وألبانها، ففعلوا فصحوا وسمنوا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "book",
@@ -1112,7 +1248,8 @@
       "workTitle": "الأفستا",
       "locator": "غير مذكور",
       "quotedArabic": "من أي مكان على هذه الأرض المستديرة ذات الأطراف المترامية البعيدة أخذت هذه الحجارة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1120,7 +1257,8 @@
       "asStatedInVideo": "يعتقد بأن الصحابي سلمان الفارسي الذي أشار على النبي محمد بحفر الخندق حول المدينة في غزوة الخندق كان من أطلع محمداً على بعض ما جاء في الزردشتية كونه كان مجوسياً قبل أن يعتنق الإسلام",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "event",
@@ -1128,7 +1266,8 @@
       "asStatedInVideo": "أشار على النبي محمد بحفر الخندق حول المدينة في غزوة الخندق",
       "locator": "غزوة الخندق",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c33"
     },
     {
       "citationType": "quran",
@@ -1137,7 +1276,8 @@
       "workTitle": "القرآن",
       "locator": "2:62",
       "quotedArabic": "إن الذين آمنوا والذين هادوا والنصارى والصابئين من آمن بالله واليوم الآخر وعمل صالحاً فلهم أجرهم عند ربهم ولا خوف عليهم ولا هم يحزنون",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c34"
     },
     {
       "citationType": "hadith",
@@ -1145,7 +1285,8 @@
       "asStatedInVideo": "فقال النبي يا سلمان هم من أهل النار لأنهم لم يكونوا من المسلمين فاشتد ذلك على سلمان وقال لو أدركوك صدقوك واتبعوك",
       "locator": "غير مذكور",
       "quotedArabic": "يا سلمان هم من أهل النار",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "hadith",
@@ -1154,7 +1295,8 @@
       "author": "عائشة بنت أبي بكر",
       "locator": "غير مذكور",
       "quotedArabic": "كان لسلمان مجلس من رسول الله ينفرد به بالليل حتى كاد يغلبنا على رسول الله",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1162,7 +1304,8 @@
       "asStatedInVideo": "كما يقدس المسلمون مكعباً حجرياً مجللاً بالسواد اسمه الكعبة وحجراً آخر صغيراً... لأنهم يؤمنون بأنه من حجارة الجنة الساقطة من السماء",
       "locator": "الكعبة والحجر الأسود",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     }
   ],
   "topicProposals": [

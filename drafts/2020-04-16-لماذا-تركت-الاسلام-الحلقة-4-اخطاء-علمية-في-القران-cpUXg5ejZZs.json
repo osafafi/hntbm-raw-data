@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "cpUXg5ejZZs",
   "videoUrl": "https://www.youtube.com/watch?v=cpUXg5ejZZs",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 4 - أخطاء علمية في القرآن",
@@ -137,7 +137,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Editorial framing claim. Check that the i'jaz movement is accurately characterised as inviting empirical testing of the text, and record it as the speaker's thesis rather than a source-based claim."
+      "verificationNote": "Editorial framing claim. Check that the i'jaz movement is accurately characterised as inviting empirical testing of the text, and record it as the speaker's thesis rather than a source-based claim.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:12",
@@ -152,7 +153,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the Qur'an makes descriptive statements about the natural world that are empirically testable, independent of whether it presents itself as a science book."
+      "verificationNote": "Check whether the Qur'an makes descriptive statements about the natural world that are empirically testable, independent of whether it presents itself as a science book.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:59",
@@ -168,7 +170,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey i'jaz publications and lectures on embryology and check whether Q86:5-7 is systematically omitted while Q23:12-14 is cited."
+      "verificationNote": "Survey i'jaz publications and lectures on embryology and check whether Q86:5-7 is systematically omitted while Q23:12-14 is cited.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:59",
@@ -183,7 +188,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q86:5-7 and the classical glosses of al-sulb and al-tara'ib against the anatomical origin of semen in modern physiology."
+      "verificationNote": "Check the wording of Q86:5-7 and the classical glosses of al-sulb and al-tara'ib against the anatomical origin of semen in modern physiology.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:40",
@@ -198,7 +206,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic and early Arabic usage of min sulbihi for descent, and whether lexicographers connect the idiom to a belief that semen originates in the spine."
+      "verificationNote": "Check pre-Islamic and early Arabic usage of min sulbihi for descent, and whether lexicographers connect the idiom to a belief that semen originates in the spine.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:40",
@@ -213,7 +222,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Inference drawn from the preceding two claims; verify that the text's statement matches the attested folk belief rather than any independent anatomical description."
+      "verificationNote": "Inference drawn from the preceding two claims; verify that the text's statement matches the attested folk belief rather than any independent anatomical description.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:06",
@@ -228,7 +240,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q76:2 and the classical exegesis of nutfa amshaj as the mixture of two fluids, against the modern account of fertilization by sperm and ovum."
+      "verificationNote": "Check the wording of Q76:2 and the classical exegesis of nutfa amshaj as the mixture of two fluids, against the modern account of fertilization by sperm and ovum.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:02:06",
@@ -242,7 +257,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the physiological account of vaginal secretion versus gametes, and whether classical Arabic sources identify that fluid as the woman's maniyy."
+      "verificationNote": "Check the physiological account of vaginal secretion versus gametes, and whether classical Arabic sources identify that fluid as the woman's maniyy.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:47",
@@ -257,7 +273,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith on the white and yellow fluids in Sahih Muslim or Sahih al-Bukhari, record collection and number, and confirm its grading; the speaker names no collection."
+      "verificationNote": "Locate the hadith on the white and yellow fluids in Sahih Muslim or Sahih al-Bukhari, record collection and number, and confirm its grading; the speaker names no collection.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:47",
@@ -272,7 +291,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sex-determination clause in the same hadith text and compare with chromosomal sex determination."
+      "verificationNote": "Check the sex-determination clause in the same hadith text and compare with chromosomal sex determination.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:30",
@@ -287,7 +309,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check science curricula in religious schools in Muslim-majority states for whether the white/yellow fluid and forty-night hadiths appear as biology content."
+      "verificationNote": "Check science curricula in religious schools in Muslim-majority states for whether the white/yellow fluid and forty-night hadiths appear as biology content.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:47",
@@ -301,7 +324,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the forty-nights angel hadith in the canonical collections, record collection and number, and check the wording on the timing of the decree of sex; the speaker gives no locator."
+      "verificationNote": "Locate the forty-nights angel hadith in the canonical collections, record collection and number, and check the wording on the timing of the decree of sex; the speaker gives no locator.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:04:07",
@@ -316,7 +342,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Confirm the standard account of chromosomal sex determination at fertilization and check whether any classical reading of the hadith avoids fixing the sex at day forty."
+      "verificationNote": "Confirm the standard account of chromosomal sex determination at fertilization and check whether any classical reading of the hadith avoids fixing the sex at day forty.",
+      "citationRefs": [
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -331,7 +361,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Keith Moore's involvement with the embryology i'jaz argument and which verses his published statements address."
+      "verificationNote": "Check Keith Moore's involvement with the embryology i'jaz argument and which verses his published statements address.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -345,7 +379,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q23:14 and compare the stated sequence with the simultaneous development of bone and muscle tissue in modern embryology."
+      "verificationNote": "Check the wording of Q23:14 and compare the stated sequence with the simultaneous development of bone and muscle tissue in modern embryology.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -360,7 +397,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare classical tafsir glosses of lahm in Q23:14 with the muscle reading used in modern i'jaz literature."
+      "verificationNote": "Compare classical tafsir glosses of lahm in Q23:14 with the muscle reading used in modern i'jaz literature.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:49",
@@ -375,7 +415,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic and late-antique knowledge of miscarried fetal material and whether the described stages were observable without instruments."
+      "verificationNote": "Check pre-Islamic and late-antique knowledge of miscarried fetal material and whether the described stages were observable without instruments.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:05:29",
@@ -390,7 +433,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether any early report records astonishment at the embryology verses, and whether the surrounding rhetoric presents them as agreed premises."
+      "verificationNote": "Check whether any early report records astonishment at the embryology verses, and whether the surrounding rhetoric presents them as agreed premises.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:29",
@@ -406,7 +450,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Job 10:8-11 in Arabic and English translations for the clay, curdling and bones-and-sinews imagery; the speaker states the chapter and verses loosely as 'Job 10 13 8'."
+      "verificationNote": "Check Job 10:8-11 in Arabic and English translations for the clay, curdling and bones-and-sinews imagery; the speaker states the chapter and verses loosely as 'Job 10 13 8'.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:05:29",
@@ -421,7 +468,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "The speaker names no Greek work. Check scholarship on Greek medical influence on biblical and late-antique embryological imagery, and note that he conflates Job with 'the Gospel'."
+      "verificationNote": "The speaker names no Greek work. Check scholarship on Greek medical influence on biblical and late-antique embryological imagery, and note that he conflates Job with 'the Gospel'.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:06:07",
@@ -436,7 +486,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the rhetorical form of Q21:30 and comparable verses — whether they invoke agreed premises as evidence rather than announce unknown facts."
+      "verificationNote": "Check the rhetorical form of Q21:30 and comparable verses — whether they invoke agreed premises as evidence rather than announce unknown facts.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:32",
@@ -452,7 +505,10 @@
         "quran-scientific-claims-animal-biology"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q16:66 and classical glosses of farth and dam, then compare with mammary gland physiology."
+      "verificationNote": "Check the wording of Q16:66 and classical glosses of farth and dam, then compare with mammary gland physiology.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:17",
@@ -468,7 +524,10 @@
         "quran-scientific-claims-animal-biology"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the phrase sa'igh lil-sharibin in Q16:66 and its classical sense, and the epidemiology of lactose intolerance including rates in Arab populations; the speaker's word for the condition is missing from the transcript."
+      "verificationNote": "Check the phrase sa'igh lil-sharibin in Q16:66 and its classical sense, and the epidemiology of lactose intolerance including rates in Arab populations; the speaker's word for the condition is missing from the transcript.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:07:17",
@@ -485,7 +544,17 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assemble the full set of verses the speaker relies on and check whether taken together they describe a naked-eye cosmography."
+      "verificationNote": "Assemble the full set of verses the speaker relies on and check whether taken together they describe a naked-eye cosmography.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c20",
+        "c22",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:07:59",
@@ -501,7 +570,12 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording of Q13:3, Q71:19 and Q2:22 and their classical glosses (basataha wa-maddaha), and assess whether the grammar supports the appearance-only reading."
+      "verificationNote": "Check the wording of Q13:3, Q71:19 and Q2:22 and their classical glosses (basataha wa-maddaha), and assess whether the grammar supports the appearance-only reading.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:08:38",
@@ -518,7 +592,10 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q27:61 and the lexical range of qarar in the classical dictionaries; note the speaker derives it from qarra/qarra, which an editor should verify."
+      "verificationNote": "Check Q27:61 and the lexical range of qarar in the classical dictionaries; note the speaker derives it from qarra/qarra, which an editor should verify.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:09:18",
@@ -534,7 +611,12 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q88:17-20, Q21:31 and Q16:15 with their classical tafsir on rawasi and an tamida bikum."
+      "verificationNote": "Check Q88:17-20, Q21:31 and Q16:15 with their classical tafsir on rawasi and an tamida bikum.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:10:00",
@@ -548,7 +630,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the geological account of orogeny and the isostatic-root argument used in i'jaz literature to defend the peg reading."
+      "verificationNote": "Check the geological account of orogeny and the isostatic-root argument used in i'jaz literature to defend the peg reading.",
+      "citationRefs": [
+        "c16",
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:10:00",
@@ -565,7 +652,10 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the day-and-night verses presuppose simultaneous night over the whole earth, and whether any classical commentator addresses the question."
+      "verificationNote": "Check whether the day-and-night verses presuppose simultaneous night over the whole earth, and whether any classical commentator addresses the question.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:10:31",
@@ -583,7 +673,14 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q39:5 and the classical glosses of yukawwir, and count the verses commonly cited as describing a spread-out earth to test the figure of about twelve."
+      "verificationNote": "Check Q39:5 and the classical glosses of yukawwir, and count the verses commonly cited as describing a spread-out earth to test the figure of about twelve.",
+      "citationRefs": [
+        "c19",
+        "c12",
+        "c13",
+        "c14",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:11:01",
@@ -600,7 +697,11 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q7:54 and the parallel verse, and locate the gloss attributed to Mujahid in the tafsir literature; the transcript does not preserve the quoted wording."
+      "verificationNote": "Check Q7:54 and the parallel verse, and locate the gloss attributed to Mujahid in the tafsir literature; the transcript does not preserve the quoted wording.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:11:44",
@@ -615,7 +716,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check i'jaz literature for the galactic-orbit reading of Q36:38 and the wording of the verse itself."
+      "verificationNote": "Check i'jaz literature for the galactic-orbit reading of Q36:38 and the wording of the verse itself.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:44",
@@ -630,7 +734,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith on the sun prostrating beneath the Throne and seeking permission to rise, record its collection and number, and compare it with the wording of Q36:38; the speaker names no collection."
+      "verificationNote": "Locate the hadith on the sun prostrating beneath the Throne and seeking permission to rise, record its collection and number, and compare it with the wording of Q36:38; the speaker names no collection.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:12:25",
@@ -647,7 +754,19 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the individual verses and reports cited combine into the single cosmography the speaker reconstructs, or whether they admit separate readings."
+      "verificationNote": "Assess whether the individual verses and reports cited combine into the single cosmography the speaker reconstructs, or whether they admit separate readings.",
+      "citationRefs": [
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c20",
+        "c22",
+        "c23"
+      ]
     },
     {
       "timestamp": "00:13:08",
@@ -664,7 +783,11 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Straightforward astronomy; check how the argument bears on verses that describe the sun's rising and setting as events."
+      "verificationNote": "Straightforward astronomy; check how the argument bears on verses that describe the sun's rising and setting as events.",
+      "citationRefs": [
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:13:08",
@@ -681,7 +804,12 @@
         "quran-scientific-claims-flat-and-stationary-earth"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q55:16-17 and Q2:258 for the quoted wording and the classical exegesis of the two easts and two wests."
+      "verificationNote": "Check Q55:16-17 and Q2:258 for the quoted wording and the classical exegesis of the two easts and two wests.",
+      "citationRefs": [
+        "c24",
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:13:48",
@@ -696,7 +824,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Central inference of the episode toward human authorship; check whether the text's natural-world statements go beyond ordinary idiom into assertions about how things are."
+      "verificationNote": "Central inference of the episode toward human authorship; check whether the text's natural-world statements go beyond ordinary idiom into assertions about how things are.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:48",
@@ -711,7 +840,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic Near Eastern and late-antique seven-heaven cosmologies and their transmission into Arabian religious language."
+      "verificationNote": "Check pre-Islamic Near Eastern and late-antique seven-heaven cosmologies and their transmission into Arabian religious language.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:32",
@@ -726,7 +856,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q67:5 and Q37:6-10 for the lamps-and-missiles wording, and whether the ghayb reading is compatible with them."
+      "verificationNote": "Check Q67:5 and Q37:6-10 for the lamps-and-missiles wording, and whether the ghayb reading is compatible with them.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:15:17",
@@ -740,7 +873,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test the inference against the verses on the lowest heaven and the meteors, and against the meteorological account of meteors within the atmosphere."
+      "verificationNote": "Test the inference against the verses on the lowest heaven and the meteors, and against the meteorological account of meteors within the atmosphere.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:15:57",
@@ -755,7 +891,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Philosophical inference the speaker defers to another episode; check which verses place God's Throne within the created heavens."
+      "verificationNote": "Philosophical inference the speaker defers to another episode; check which verses place God's Throne within the created heavens.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:57",
@@ -770,7 +907,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q22:65 and the verses on the sky as a preserved roof, together with their classical glosses."
+      "verificationNote": "Check Q22:65 and the verses on the sky as a preserved roof, together with their classical glosses.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:16:41",
@@ -785,7 +925,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q51:47 and the i'jaz literature that reads musi'un as cosmic expansion."
+      "verificationNote": "Check Q51:47 and the i'jaz literature that reads musi'un as cosmic expansion.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:16:41",
@@ -800,7 +943,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q2:236 and the lexical range of the root w-s-' in the classical dictionaries and in tafsir of Q51:47."
+      "verificationNote": "Check Q2:236 and the lexical range of the root w-s-' in the classical dictionaries and in tafsir of Q51:47.",
+      "citationRefs": [
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:17:23",
@@ -814,7 +961,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Methodological argument; check the standard definition of scientific theory the speaker relies on."
+      "verificationNote": "Methodological argument; check the standard definition of scientific theory the speaker relies on.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:18:05",
@@ -829,7 +979,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check i'jaz treatments of evolution versus the Big Bang for the asymmetry the speaker describes."
+      "verificationNote": "Check i'jaz treatments of evolution versus the Big Bang for the asymmetry the speaker describes.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:05",
@@ -844,7 +995,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q41:9-12 for the day counts and the classical discussions of how the four and two days are reconciled with the six days elsewhere."
+      "verificationNote": "Check Q41:9-12 for the day counts and the classical discussions of how the four and two days are reconciled with the six days elsewhere.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:19:50",
@@ -859,7 +1013,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording and count in Q41:11-12 and how tafsir handles the smoke and the seven completed heavens."
+      "verificationNote": "Check the wording and count in Q41:11-12 and how tafsir handles the smoke and the seven completed heavens.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:20:34",
@@ -873,7 +1030,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the epistemological argument on its own terms; no source check required beyond stating it accurately."
+      "verificationNote": "Evaluate the epistemological argument on its own terms; no source check required beyond stating it accurately.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:34",
@@ -887,7 +1045,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Record as the speaker's epistemological criterion; no primary source involved."
+      "verificationNote": "Record as the speaker's epistemological criterion; no primary source involved.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:13",
@@ -901,7 +1060,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Logical claim; check the structure of the i'jaz inference as commonly presented."
+      "verificationNote": "Logical claim; check the structure of the i'jaz inference as commonly presented.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:13",
@@ -916,7 +1076,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Summary inference of the episode; check that each underlying textual claim has been verified before this conclusion is used."
+      "verificationNote": "Summary inference of the episode; check that each underlying textual claim has been verified before this conclusion is used.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:49",
@@ -931,7 +1092,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Restates the episode's thesis; verify against the individual claims recorded above."
+      "verificationNote": "Restates the episode's thesis; verify against the individual claims recorded above.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:49",
@@ -946,7 +1108,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the Qur'anic self-descriptions of clarity (lisan arabi mubin, la rayba fih) against the apologetic requirement of specialist tafsir for lay readers."
+      "verificationNote": "Check the Qur'anic self-descriptions of clarity (lisan arabi mubin, la rayba fih) against the apologetic requirement of specialist tafsir for lay readers.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -955,14 +1118,16 @@
       "timestamp": "00:00:59",
       "asStatedInVideo": "الآية التي تقول: فلينظر الإنسان مِمَّ خُلق، خُلق من ماء دافق يخرج من بين الصلب والترائب — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "خلق من ماء دافق يخرج من بين الصلب والترائب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
       "timestamp": "00:02:06",
       "asStatedInVideo": "الآية اللي بتقول ... أمشاج، يعني ممزوجة — يشير إلى وصف النطفة بالأمشاج دون ذكر موضعها",
       "quotedArabic": "أمشاج",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "hadith",
@@ -970,7 +1135,8 @@
       "asStatedInVideo": "الرسول لما سُئل عن هذا الموضوع شرح لنا بالحديث الصحيح اللي بيقول: ماء الرجل أبيض وماء المرأة أصفر، فإذا اجتمعا فعلا مني الرجل مني المرأة أذكرا بإذن الله، وإذا علا مني المرأة مني الرجل آنثا بإذن الله",
       "workTitle": "حديث وُصف بأنه صحيح دون تسمية المجموعة",
       "quotedArabic": "ماء الرجل أبيض وماء المرأة أصفر، فإذا اجتمعا فعلا مني الرجل مني المرأة أذكرا بإذن الله، وإذا علا مني المرأة مني الرجل آنثا بإذن الله",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "hadith",
@@ -978,14 +1144,16 @@
       "asStatedInVideo": "وبحديث آخر بيقول: يدخل الملك على النطفة بعدما تستقر في الرحم بأربعين ليلة، والملك بيسأل الله إن كان الجنين شقيًا أم سعيدًا أو ذكرًا أو أنثى",
       "workTitle": "حديث دون تسمية المجموعة",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
       "timestamp": "00:04:49",
       "asStatedInVideo": "الآية اللي بتبلش بالنطفة الأمشاج: ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظامًا فكسونا العظام لحمًا ثم أنشأناه خلقًا آخر — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "ثم خلقنا النطفة علقة فخلقنا العلقة مضغة فخلقنا المضغة عظامًا فكسونا العظام لحمًا ثم أنشأناه خلقًا آخر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
@@ -993,7 +1161,8 @@
       "asStatedInVideo": "الآية نفسها اللي شهد عليها كيث مور رحمه الله",
       "author": "كيث مور / Keith Moore",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -1001,7 +1170,8 @@
       "asStatedInVideo": "محمد كمان أخطأ بموضوع تحديد جنس الجنين",
       "author": "محمد",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
@@ -1010,7 +1180,8 @@
       "workTitle": "سفر أيوب (العهد القديم)",
       "locator": "أصحاح 10، الأعداد كما نُطقت: 10 / 13 / 8",
       "quotedArabic": "أذكر أنك جبلتني كالطين، أفتعيدني للتراب، ألم تصبّني كالجبن ... فنسجتني بعظام وعصب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -1018,84 +1189,96 @@
       "asStatedInVideo": "وكلام الإنجيل اللي هو قبل القرآن كمان منلاقيه مأخوذ من كتب يونانية علمية قديمة — دون تسمية أي كتاب",
       "workTitle": "كتب يونانية علمية قديمة (غير مسمّاة)",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
       "timestamp": "00:06:07",
       "asStatedInVideo": "مثل الآية بتقول: أولم ير الذين كفروا أن السماوات والأرض كانتا رتقًا — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "أفلم يرَ الذين كفروا أن السماوات والأرض كانتا رتقًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
       "timestamp": "00:06:32",
       "asStatedInVideo": "آية الأنعام: نسقيكم مما في بطونه من بين فرث ودم لبنًا خالصًا سائغًا للشاربين — يعرضها بالشرح دون ذكر رقم السورة أو الآية",
       "quotedArabic": "من بين الفرث والدم ... سائغًا للشاربين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
       "timestamp": "00:07:59",
       "asStatedInVideo": "الآيات بتقول: هو الذي مدّ الأرض وجعل فيها رواسيَ وأنهارًا — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "هو الذي مد الأرض وجعل فيها رواسيَ وأنهارًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
       "timestamp": "00:08:00",
       "asStatedInVideo": "آية أخرى: والله جعل لكم الأرض بساطًا — تفسيرها بسطها ومدّها؛ دون ذكر رقم السورة أو الآية",
       "quotedArabic": "جعل لكم الأرض بساطًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
       "timestamp": "00:08:10",
       "asStatedInVideo": "آية ثانية: الذي جعل لكم الأرض فراشًا — كمان تفسيرها مدّها كالفراش؛ دون ذكر رقم السورة أو الآية",
       "quotedArabic": "جعل لكم الأرض فراشًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
       "timestamp": "00:08:38",
       "asStatedInVideo": "الآية عن ثبات الأرض بتقول: أمّن جعل الأرض قرارًا — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "أمّن جعل الأرض قرارًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
       "timestamp": "00:09:18",
       "asStatedInVideo": "الآية بتقول: أفلا ينظرون إلى الإبل كيف خُلقت وإلى السماء كيف رُفعت وإلى الجبال كيف نُصبت وإلى الأرض كيف سُطحت — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "أفلا ينظرون إلى الإبل كيف خلقت والسماء كيف رفعت وإلى الجبال كيف نصبت ... وإلى الأرض كيف سطحت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
       "timestamp": "00:09:30",
       "asStatedInVideo": "آية ثانية: وجعلنا في الأرض رواسيَ أن تميد بهم — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "وجعلنا في الأرض رواسيَ أن تميد بهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
       "timestamp": "00:09:45",
       "asStatedInVideo": "آية ثانية: وألقى في الأرض رواسيَ أن تميد بكم وأنهارًا وسبلًا لعلكم تهتدون — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "وألقى في الأرض رواسيَ أن تميد بكم وأنهارًا وسبلًا لعلكم تهتدون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
       "timestamp": "00:10:31",
       "asStatedInVideo": "الآية اللي فيها كلمة يكوّر، يستخدمها دعاة الإعجاز دليلًا على كروية الأرض — لم تُتلَ كاملة ولم يُذكر رقمها",
       "quotedArabic": "يكوّر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
       "timestamp": "00:11:01",
       "asStatedInVideo": "آية يغشي الليل النهار يطلبه حثيثًا، وكل منهما يطلب الآخر طلبًا حثيثًا — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "يطلبه طلبًا حثيثًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -1103,14 +1286,16 @@
       "asStatedInVideo": "وتفسير هاي الآية حسب مجاهد — التفسير نفسه غير محفوظ في النص المفرَّغ",
       "author": "مجاهد",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
       "timestamp": "00:11:44",
       "asStatedInVideo": "والآية الأخيرة بتوثق هذا الكلام: والشمس تجري لمستقر لها ذلك تقدير العزيز العليم — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "والشمس تجري لمستقر لها ذلك تقدير العزيز العليم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "hadith",
@@ -1118,21 +1303,24 @@
       "asStatedInVideo": "الرسول نفسه بيرد عليهم: آية والشمس تجري لمستقر لها تعني أن الشمس بتروح تحت عرش الرحمن يوميًا، وبصير حوار بينها وبين الله، تستأذن وتروح وتجي، وآخر شيء بأمره أنها ترجع تطلع",
       "workTitle": "حديث دون تسمية المجموعة",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
       "timestamp": "00:13:08",
       "asStatedInVideo": "وبيقول: فبأي آلاء ربكما تكذبان، رب المشرقين ورب المغربين — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "فبأي آلاء ربكما تكذبان، رب المشرقين ورب المغربين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
       "timestamp": "00:13:20",
       "asStatedInVideo": "وبآية تانية: فإن الله يأتي بالشمس من المشرق فأتِ بها من المغرب فبُهت الذي كفر — هذا تحدي إبراهيم مع النمرود؛ دون ذكر رقم السورة أو الآية",
       "quotedArabic": "وإن الله يأتي بالشمس من المشرق فأتِ بها من المغرب فبُهت الذي كفر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
@@ -1140,42 +1328,48 @@
       "asStatedInVideo": "هذا تحدي إبراهيم مع النمرود",
       "author": "إبراهيم والنمرود",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
       "timestamp": "00:14:32",
       "asStatedInVideo": "القرآن نفسه بيرد عليهم بهذا الكلام — آية عن السماء الدنيا وزينتها بالمصابيح وجعلها رجومًا للشياطين؛ نص الآية غير محفوظ في التفريغ ولم يُذكر رقمها",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c27"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:41",
       "asStatedInVideo": "وفي آية تانية: ويمسك السماء أن تقع على الأرض إلا بإذنه — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "ويمسك السماء أن تقع على الأرض إلا بإذنه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "quran",
       "timestamp": "00:16:41",
       "asStatedInVideo": "الآية اللي بتقول: والسماء بنيناها بأيدٍ وإنا لموسعون — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "والسماء بنيناها بأيدٍ وإنا لموسعون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
       "timestamp": "00:17:23",
       "asStatedInVideo": "الآية اللي بتتكلم عن أحكام الطلاق من النساء التي لم تُمَسّ: ومتّعوهنّ على الموسع قدرُه — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "ومتّعوهنّ على الموسع قدرُه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
       "timestamp": "00:19:05",
       "asStatedInVideo": "الآية بتقول: خلق الأرض وقدّر أقواتها في أربعة أيام، ثم استوى إلى السماء وهي دخان، فقضاهنّ سبع سماوات في يومين — دون ذكر رقم السورة أو الآية",
       "quotedArabic": "ثم استوى إلى السماء وكانت دخان، فقضاهنّ سبع سماوات في يومين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     }
   ],
   "topicProposals": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "3aHUwinjsoQ",
   "videoUrl": "https://www.youtube.com/watch?v=3aHUwinjsoQ",
   "videoTitle": "Box of islam 53  صندوق الإسلام 53 : معاوية بن أبي سفيان و ميوله  المسيحية",
@@ -98,7 +98,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether this is presented as the framing thesis of the series rather than a sourced claim, and what evidence the speaker elsewhere offers that post-prophetic actors determined Islamic doctrine and text."
+      "verificationNote": "Check whether this is presented as the framing thesis of the series rather than a sourced claim, and what evidence the speaker elsewhere offers that post-prophetic actors determined Islamic doctrine and text.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:32",
@@ -115,7 +116,11 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check numismatic and epigraphic corpora for the 630s–650s (Arab-Sasanian and Arab-Byzantine issues, papyri such as PERF 558, early inscriptions) for any securely dated item naming Abu Bakr, Umar, Uthman or Ali."
+      "verificationNote": "Check numismatic and epigraphic corpora for the 630s–650s (Arab-Sasanian and Arab-Byzantine issues, papyri such as PERF 558, early inscriptions) for any securely dated item naming Abu Bakr, Umar, Uthman or Ali.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:23",
@@ -131,7 +136,10 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the dating of the earliest contemporary attestations of a caliph's name and whether Mu'awiya is in fact the earliest so attested."
+      "verificationNote": "Check the dating of the earliest contemporary attestations of a caliph's name and whether Mu'awiya is in fact the earliest so attested.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:23",
@@ -149,7 +157,10 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check catalogues of Mu'awiya-era coinage and inscriptions: how many bear Christian iconography, whether any are free of it, and whether Western scholarship actually infers Christian identity or only continuity of Byzantine minting conventions."
+      "verificationNote": "Check catalogues of Mu'awiya-era coinage and inscriptions: how many bear Christian iconography, whether any are free of it, and whether Western scholarship actually infers Christian identity or only continuity of Byzantine minting conventions.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:08",
@@ -166,7 +177,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the full published corpus of inscriptions, coins and papyri datable to Mu'awiya's reign (661–680) for occurrences of 'Muhammad', 'islam', or 'muslim', including the Zuhayr inscription and Arab-Sasanian legends."
+      "verificationNote": "Check the full published corpus of inscriptions, coins and papyri datable to Mu'awiya's reign (661–680) for occurrences of 'Muhammad', 'islam', or 'muslim', including the Zuhayr inscription and Arab-Sasanian legends.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:08",
@@ -182,7 +194,10 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether the contrast is as absolute as stated, and how mainstream historians of the early caliphate weigh material evidence against the literary tradition."
+      "verificationNote": "Check whether the contrast is as absolute as stated, and how mainstream historians of the early caliphate weigh material evidence against the literary tradition.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:00",
@@ -199,7 +214,8 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the attested etymology of mu'awiya in Arabic lexica, its attestation as a pre-Islamic personal name, and whether any source documents it as a Christian ascetic epithet."
+      "verificationNote": "Check the attested etymology of mu'awiya in Arabic lexica, its attestation as a pre-Islamic personal name, and whether any source documents it as a Christian ascetic epithet.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:00",
@@ -216,7 +232,8 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which researchers hold this position and on what evidence beyond the name, and whether the speaker's own later conclusion (pragmatic ruler, not Christian) contradicts it."
+      "verificationNote": "Identify which researchers hold this position and on what evidence beyond the name, and whether the speaker's own later conclusion (pragmatic ruler, not Christian) contradicts it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:51",
@@ -233,7 +250,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check which coins bear Mu'awiya's name, their mints and dates, and whether earlier Arab rulers (e.g. Ghassanid or Lakhmid phylarchs) are attested materially."
+      "verificationNote": "Check which coins bear Mu'awiya's name, their mints and dates, and whether earlier Arab rulers (e.g. Ghassanid or Lakhmid phylarchs) are attested materially.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:04:38",
@@ -249,7 +269,10 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Arab-Sasanian drachm legends for 'wali Allah' or 'Ali', the numismatic literature on coins attributed to Ali's caliphate, and who advanced the identification the guest is dismissing."
+      "verificationNote": "Check Arab-Sasanian drachm legends for 'wali Allah' or 'Ali', the numismatic literature on coins attributed to Ali's caliphate, and who advanced the identification the guest is dismissing.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:04:38",
@@ -265,7 +288,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the divergence is as total as claimed by comparing the traditional biography with what the material record actually establishes."
+      "verificationNote": "Check whether the divergence is as total as claimed by comparing the traditional biography with what the material record actually establishes.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:38",
@@ -282,7 +306,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the sirah and akhbar sources for the pre-Islamic Hashim–Umayya rivalry over the Meccan offices and trade, and whether it is documented independently of later partisan retrojection."
+      "verificationNote": "Check the sirah and akhbar sources for the pre-Islamic Hashim–Umayya rivalry over the Meccan offices and trade, and whether it is documented independently of later partisan retrojection.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:23",
@@ -299,7 +326,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Read Sayyid al-Qimni, al-Hizb al-Hashimi, and check the primary reports it builds on for the thesis that Islam emerged out of the Hashimi-Umayyad contest."
+      "verificationNote": "Read Sayyid al-Qimni, al-Hizb al-Hashimi, and check the primary reports it builds on for the thesis that Islam emerged out of the Hashimi-Umayyad contest.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:23",
@@ -316,7 +346,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check sources on the relative wealth, trade networks and Syrian connections of the two clans in the early seventh century."
+      "verificationNote": "Check sources on the relative wealth, trade networks and Syrian connections of the two clans in the early seventh century.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:09",
@@ -333,7 +364,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the claim that the Qur'an is the first Arabic book, against pre-Islamic Arabic written material, and evaluate the framing of revelation as an instrument of tribal unification and leadership."
+      "verificationNote": "Check the claim that the Qur'an is the first Arabic book, against pre-Islamic Arabic written material, and evaluate the framing of revelation as an instrument of tribal unification and leadership.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:09",
@@ -347,7 +379,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sirah accounts of the caravan interceptions preceding Badr and the role of Abu Sufyan in them, in Ibn Ishaq/Ibn Hisham and al-Waqidi."
+      "verificationNote": "Check the sirah accounts of the caravan interceptions preceding Badr and the role of Abu Sufyan in them, in Ibn Ishaq/Ibn Hisham and al-Waqidi.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:06:56",
@@ -364,7 +400,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the biographical dictionaries (Ibn Sa'd, Ibn Hajar's al-Isaba) for the competing reports on the date and manner of Mu'awiya's conversion, including the concealed-conversion tradition."
+      "verificationNote": "Check the biographical dictionaries (Ibn Sa'd, Ibn Hajar's al-Isaba) for the competing reports on the date and manner of Mu'awiya's conversion, including the concealed-conversion tradition.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:07:42",
@@ -379,7 +418,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur'anic category al-mu'allafa qulubuhum (Q 9:60) and the sirah/hadith reports of the Hunayn distributions naming Abu Sufyan and Mu'awiya, including the sums stated."
+      "verificationNote": "Check the Qur'anic category al-mu'allafa qulubuhum (Q 9:60) and the sirah/hadith reports of the Hunayn distributions naming Abu Sufyan and Mu'awiya, including the sums stated.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:07:42",
@@ -393,7 +435,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording and chains of the safe-conduct proclamation at the conquest of Mecca in Ibn Hisham, al-Waqidi and Sahih Muslim, and whether the house of Abu Sufyan clause is uniformly transmitted."
+      "verificationNote": "Check the wording and chains of the safe-conduct proclamation at the conquest of Mecca in Ibn Hisham, al-Waqidi and Sahih Muslim, and whether the house of Abu Sufyan clause is uniformly transmitted.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:28",
@@ -407,7 +452,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the political reading of the safe-conduct clause against the traditional theological reading, and check whether early sources themselves present it as a calculated concession."
+      "verificationNote": "Evaluate the political reading of the safe-conduct clause against the traditional theological reading, and check whether early sources themselves present it as a calculated concession.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:08:28",
@@ -423,7 +471,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the specific reports the guest alludes to about Abu Sufyan's lack of belief after conversion and assess their transmission and possible Abbasid-era partisanship."
+      "verificationNote": "Identify the specific reports the guest alludes to about Abu Sufyan's lack of belief after conversion and assess their transmission and possible Abbasid-era partisanship.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:14",
@@ -439,7 +488,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the sources casting doubt on Mu'awiya's sincerity and determine whether they are Shi'i polemic, Abbasid-era historiography, or earlier."
+      "verificationNote": "Locate the sources casting doubt on Mu'awiya's sincerity and determine whether they are Shi'i polemic, Abbasid-era historiography, or earlier.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:14",
@@ -453,7 +503,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sirah descriptions of the army entering Mecca, the reported numbers, and the torch scene, and compare with reported tribal fighting strengths."
+      "verificationNote": "Check the sirah descriptions of the army entering Mecca, the reported numbers, and the torch scene, and compare with reported tribal fighting strengths.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:14",
@@ -467,7 +518,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check reports of Abu Sufyan's participation in post-conquest campaigns (e.g. al-Ta'if, where he is said to have lost an eye) and his reported age."
+      "verificationNote": "Check reports of Abu Sufyan's participation in post-conquest campaigns (e.g. al-Ta'if, where he is said to have lost an eye) and his reported age.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:00",
@@ -483,7 +535,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the historiography of the Abbasid revolution and the killing of the Umayyads (e.g. the reported massacre at Abu Futrus) and the continuity of clan rivalry as an explanatory frame."
+      "verificationNote": "Check the historiography of the Abbasid revolution and the killing of the Umayyads (e.g. the reported massacre at Abu Futrus) and the continuity of clan rivalry as an explanatory frame.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:49",
@@ -500,7 +553,8 @@
         "hadith-political-fabrication"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the literature on politically motivated hadith fabrication (fada'il Banu Umayya, mathalib reports) and whether datable clusters correlate with the Umayyad and Abbasid periods."
+      "verificationNote": "Check the literature on politically motivated hadith fabrication (fada'il Banu Umayya, mathalib reports) and whether datable clusters correlate with the Umayyad and Abbasid periods.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:49",
@@ -516,7 +570,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the standing of Banu Taym among the Quraysh clans and the reports of Abu Sufyan's reaction to Abu Bakr's accession."
+      "verificationNote": "Check the standing of Banu Taym among the Quraysh clans and the reports of Abu Sufyan's reaction to Abu Bakr's accession.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:11:36",
@@ -532,7 +589,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports of Abu Sufyan's stance at the time of the bay'a to Abu Bakr in al-Tabari, Ibn Sa'd and al-Ya'qubi."
+      "verificationNote": "Check the reports of Abu Sufyan's stance at the time of the bay'a to Abu Bakr in al-Tabari, Ibn Sa'd and al-Ya'qubi.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:11:36",
@@ -548,7 +608,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report of Abu Sufyan's offer to Ali after the bay'a to Abu Bakr, verify the exact wording and its chains in al-Tabari and Ibn Abi al-Hadid, and note the speaker did not name the collection."
+      "verificationNote": "Locate the report of Abu Sufyan's offer to Ali after the bay'a to Abu Bakr, verify the exact wording and its chains in al-Tabari and Ibn Abi al-Hadid, and note the speaker did not name the collection.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:12:22",
@@ -566,7 +629,10 @@
         "hadith-political-fabrication"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the texts and chains of Hadith al-Ghadir in Sunni and Shi'i collections and the scholarly dispute over its designation of Ali as successor."
+      "verificationNote": "Check the texts and chains of Hadith al-Ghadir in Sunni and Shi'i collections and the scholarly dispute over its designation of Ali as successor.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:13:08",
@@ -582,7 +648,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports of Abu Sufyan's visit to Uthman after his accession and his kinship relation to him."
+      "verificationNote": "Check the reports of Abu Sufyan's visit to Uthman after his accession and his kinship relation to him.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:13:56",
@@ -599,7 +668,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the 'tie/pass it around like a ball' report attributed to Abu Sufyan, its exact wording and source; the guest quoted it only by sense and named no collection."
+      "verificationNote": "Locate the 'tie/pass it around like a ball' report attributed to Abu Sufyan, its exact wording and source; the guest quoted it only by sense and named no collection.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:13:56",
@@ -615,7 +687,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the grievances against Uthman's appointments in al-Tabari and al-Baladhuri, and the extent to which the tradition preserves them alongside his canonized status."
+      "verificationNote": "Check the grievances against Uthman's appointments in al-Tabari and al-Baladhuri, and the extent to which the tradition preserves them alongside his canonized status.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:41",
@@ -631,7 +704,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the sources for Mu'awiya's appointment over Syria and for any statement distancing himself from the Hijaz; distinguish reported speech from the guest's paraphrase."
+      "verificationNote": "Check the sources for Mu'awiya's appointment over Syria and for any statement distancing himself from the Hijaz; distinguish reported speech from the guest's paraphrase.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:27",
@@ -648,7 +722,8 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Byzantine and Syriac sources (Theophanes, Maronite Chronicle) for direct dealings, treaties and tribute arrangements between Mu'awiya and Constantinople."
+      "verificationNote": "Check Byzantine and Syriac sources (Theophanes, Maronite Chronicle) for direct dealings, treaties and tribute arrangements between Mu'awiya and Constantinople.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:27",
@@ -665,7 +740,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the non-Islamic sources for the 630s–660s (Sebeos, the Maronite Chronicle, Byzantine chroniclers) for negotiated arrangements and tribute paid by Mu'awiya to Byzantium."
+      "verificationNote": "Check the non-Islamic sources for the 630s–660s (Sebeos, the Maronite Chronicle, Byzantine chroniclers) for negotiated arrangements and tribute paid by Mu'awiya to Byzantium.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:12",
@@ -681,7 +757,8 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Byzantine and Syriac chronicles for accounts of Yarmuk and the loss of Syria and Egypt; verify whether they are absent as claimed."
+      "verificationNote": "Check Byzantine and Syriac chronicles for accounts of Yarmuk and the loss of Syria and Egypt; verify whether they are absent as claimed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:12",
@@ -698,7 +775,8 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the scholars advancing Byzantine appointment of Mu'awiya and the documentary basis claimed for it, against the Islamic accounts of his appointment by Umar and confirmation by Uthman."
+      "verificationNote": "Identify the scholars advancing Byzantine appointment of Mu'awiya and the documentary basis claimed for it, against the Islamic accounts of his appointment by Umar and confirmation by Uthman.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:01",
@@ -714,7 +792,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the chronology of Mu'awiya's naval and land campaigns against Byzantium and whether they follow a period of documented accommodation."
+      "verificationNote": "Check the chronology of Mu'awiya's naval and land campaigns against Byzantium and whether they follow a period of documented accommodation.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:01",
@@ -730,7 +809,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the accounts of Mu'awiya's demand for the qatalat Uthman and the negotiations before Siffin in al-Tabari, and assess the political reading of his motive."
+      "verificationNote": "Check the accounts of Mu'awiya's demand for the qatalat Uthman and the negotiations before Siffin in al-Tabari, and assess the political reading of his motive.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:17:48",
@@ -745,7 +827,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Standard historical background on the Umayyad emirate of Cordoba; no direct bearing on the premise, recorded for completeness."
+      "verificationNote": "Standard historical background on the Umayyad emirate of Cordoba; no direct bearing on the premise, recorded for completeness.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:19:29",
@@ -762,7 +847,8 @@
         "hadith-political-fabrication"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Sunni fada'il literature on Mu'awiya with Shi'i and Mu'tazili mathalib literature and assess the incompatibility of the two portraits."
+      "verificationNote": "Compare the Sunni fada'il literature on Mu'awiya with Shi'i and Mu'tazili mathalib literature and assess the incompatibility of the two portraits.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:18",
@@ -780,7 +866,10 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the published text of the Hammat Gader bath inscription (42 AH), the presence of a cross, the Greek and Arabic titulature of Mu'awiya, and the claim that abdallah functioned as a Christian title."
+      "verificationNote": "Check the published text of the Hammat Gader bath inscription (42 AH), the presence of a cross, the Greek and Arabic titulature of Mu'awiya, and the claim that abdallah functioned as a Christian title.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:20:18",
@@ -797,7 +886,11 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Volker Popp's publications and Arab-Byzantine fals catalogues for a coin naming Mu'awiya in Greek script (MAAUIA), its mint, and its dating."
+      "verificationNote": "Check Volker Popp's publications and Arab-Byzantine fals catalogues for a coin naming Mu'awiya in Greek script (MAAUIA), its mint, and its dating.",
+      "citationRefs": [
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:21:14",
@@ -813,7 +906,8 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check seventh-century dating formulae (e.g. 'year of the Arabs', qadā' al-mu'minin) in papyri and inscriptions, and the earliest attestation of the words hijra and islam in datable documents."
+      "verificationNote": "Check seventh-century dating formulae (e.g. 'year of the Arabs', qadā' al-mu'minin) in papyri and inscriptions, and the earliest attestation of the words hijra and islam in datable documents.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:00",
@@ -829,7 +923,8 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the terminology of seventh-century Greek, Syriac and Armenian sources (Saracens, Ishmaelites, Hagarenes, mhaggraye) and whether any use a term equivalent to Muslim."
+      "verificationNote": "Check the terminology of seventh-century Greek, Syriac and Armenian sources (Saracens, Ishmaelites, Hagarenes, mhaggraye) and whether any use a term equivalent to Muslim.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:00",
@@ -847,7 +942,10 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the coin type described, check whether the object held is read by numismatists as the head of John the Baptist or as a standard Byzantine imperial attribute (globus cruciger, mappa), and check the Mandaean/Sabian association."
+      "verificationNote": "Identify the coin type described, check whether the object held is read by numismatists as the head of John the Baptist or as a standard Byzantine imperial attribute (globus cruciger, mappa), and check the Mandaean/Sabian association.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:22:47",
@@ -865,7 +963,10 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the specific coin or seal described and verify the iconography and its attribution to Mu'awiya rather than to a generic Arab-Byzantine imitative type."
+      "verificationNote": "Locate the specific coin or seal described and verify the iconography and its attribution to Mu'awiya rather than to a generic Arab-Byzantine imitative type.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:22:47",
@@ -881,7 +982,10 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Weigh this inference against the alternative numismatic explanation that early Arab issues copied circulating Byzantine types for acceptability before the reform coinage."
+      "verificationNote": "Weigh this inference against the alternative numismatic explanation that early Arab issues copied circulating Byzantine types for acceptability before the reform coinage.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:22:47",
@@ -899,7 +1003,12 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify which revisionist scholars hold that Islam as a distinct religion begins under Abd al-Malik, and check how mainstream historians assess the pre-Marwanid evidence."
+      "verificationNote": "Identify which revisionist scholars hold that Islam as a distinct religion begins under Abd al-Malik, and check how mainstream historians assess the pre-Marwanid evidence.",
+      "citationRefs": [
+        "c25",
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:23:33",
@@ -916,7 +1025,10 @@
         "documentary-and-epigraphic-evidence"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Dome of the Rock inscriptions (72 AH) and the earliest datable coins and papyri bearing the shahada or muhammad rasul allah, including any pre-Marwanid attestation."
+      "verificationNote": "Check the Dome of the Rock inscriptions (72 AH) and the earliest datable coins and papyri bearing the shahada or muhammad rasul allah, including any pre-Marwanid attestation.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:23:33",
@@ -933,7 +1045,10 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Inarah group's publications (Ohlig, Puin, Popp, Gross) for the two-figure thesis and the evidence adduced for it."
+      "verificationNote": "Check the Inarah group's publications (Ohlig, Puin, Popp, Gross) for the two-figure thesis and the evidence adduced for it.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:24:19",
@@ -950,7 +1065,12 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the morphology of muhammad as a passive participle versus a proper name, its pre-Islamic attestation as a personal name, and the argument that it functions as a Christological epithet in early inscriptions."
+      "verificationNote": "Check the morphology of muhammad as a passive participle versus a proper name, its pre-Islamic attestation as a personal name, and the argument that it functions as a Christological epithet in early inscriptions.",
+      "citationRefs": [
+        "c25",
+        "c26",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:24:19",
@@ -965,7 +1085,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Examine the codex held at the Mashhad al-Husayni in Cairo for cross-shaped verse markers or decorations, and check whether such marks are read by manuscript scholars as Christian symbols or as scribal division signs."
+      "verificationNote": "Examine the codex held at the Mashhad al-Husayni in Cairo for cross-shaped verse markers or decorations, and check whether such marks are read by manuscript scholars as Christian symbols or as scribal division signs.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:25:06",
@@ -983,7 +1106,10 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Arab-Sasanian drachms naming Mu'awiya (Maawia amir-i wruishnikan), their Pahlavi legends, the Khusrau II bust and the fire altar reverse."
+      "verificationNote": "Check Arab-Sasanian drachms naming Mu'awiya (Maawia amir-i wruishnikan), their Pahlavi legends, the Khusrau II bust and the fire altar reverse.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:25:06",
@@ -1001,7 +1127,11 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Confirm the coexistence of Arab-Byzantine and Arab-Sasanian issues in Mu'awiya's name and their regional distribution."
+      "verificationNote": "Confirm the coexistence of Arab-Byzantine and Arab-Sasanian issues in Mu'awiya's name and their regional distribution.",
+      "citationRefs": [
+        "c26",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:25:53",
@@ -1019,7 +1149,11 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the material record supports deliberate confessional double-dealing or merely administrative continuity, and whether any contemporary source describes such a policy."
+      "verificationNote": "Assess whether the material record supports deliberate confessional double-dealing or merely administrative continuity, and whether any contemporary source describes such a policy.",
+      "citationRefs": [
+        "c26",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:25:53",
@@ -1035,7 +1169,11 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Note that this conclusion is in tension with the earlier claim that the name and the crosses indicate Christian affiliation; an editor should record both readings."
+      "verificationNote": "Note that this conclusion is in tension with the earlier claim that the name and the crosses indicate Christian affiliation; an editor should record both readings.",
+      "citationRefs": [
+        "c26",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:26:40",
@@ -1052,7 +1190,8 @@
         "early-arab-rulers-religious-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check documentation of Arab-Christian intermarriage and cultural exchange in Umayyad Syria, including Mu'awiya's own reported Christian wife and Christian officials."
+      "verificationNote": "Check documentation of Arab-Christian intermarriage and cultural exchange in Umayyad Syria, including Mu'awiya's own reported Christian wife and Christian officials.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:26:40",
@@ -1068,7 +1207,10 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the accounts of the bay'a taken for Yazid in Mu'awiya's lifetime and the subsequent dynastic norm in Umayyad, Abbasid and Ottoman succession."
+      "verificationNote": "Check the accounts of the bay'a taken for Yazid in Mu'awiya's lifetime and the subsequent dynastic norm in Umayyad, Abbasid and Ottoman succession.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:27:27",
@@ -1083,7 +1225,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the radiocarbon and palaeographic dating of the earliest Qur'anic manuscripts and whether the surviving corpus is datable to the Umayyad period rather than earlier."
+      "verificationNote": "Check the radiocarbon and palaeographic dating of the earliest Qur'anic manuscripts and whether the surviving corpus is datable to the Umayyad period rather than earlier.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:27",
@@ -1098,7 +1241,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the claims made for the Uthmanic codices (Topkapi, Tashkent, Sana'a) and their actual dating, and whether any manuscript is securely dated to Uthman's caliphate."
+      "verificationNote": "Check the claims made for the Uthmanic codices (Topkapi, Tashkent, Sana'a) and their actual dating, and whether any manuscript is securely dated to Uthman's caliphate.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:27",
@@ -1113,7 +1257,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check what evidence, if any, is offered for additions and deletions in the Umayyad period, including the reports about al-Hajjaj's intervention and palimpsest variants."
+      "verificationNote": "Check what evidence, if any, is offered for additions and deletions in the Umayyad period, including the reports about al-Hajjaj's intervention and palimpsest variants.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:27",
@@ -1129,7 +1274,8 @@
         "hadith-political-fabrication"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the dating of the earliest hadith collections and written transmission (sahifas, Umar b. Abd al-Aziz's reported order to collect hadith) against the claim of Umayyad-era origin."
+      "verificationNote": "Check the dating of the earliest hadith collections and written transmission (sahifas, Umar b. Abd al-Aziz's reported order to collect hadith) against the claim of Umayyad-era origin.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:27",
@@ -1148,7 +1294,8 @@
         "early-islamic-state-and-caliphate"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the scholarship on Abbasid-era redaction of the historical and hadith corpus and any documented suppression or restoration of earlier material."
+      "verificationNote": "Check the scholarship on Abbasid-era redaction of the historical and hadith corpus and any documented suppression or restoration of earlier material.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -1160,7 +1307,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -1170,7 +1318,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -1180,7 +1329,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -1190,7 +1340,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -1200,7 +1351,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -1210,7 +1362,8 @@
       "author": "سيد القمني",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -1220,7 +1373,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "event",
@@ -1230,7 +1384,8 @@
       "author": "",
       "locator": "غزوة بدر",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "event",
@@ -1240,7 +1395,8 @@
       "author": "",
       "locator": "فتح مكة",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -1250,7 +1406,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c10"
     },
     {
       "citationType": "hadith",
@@ -1260,7 +1417,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "من دخل بيت أبي سفيان فهو آمن، ومن دخل المسجد فهو آمن، ومن دخل داره وأغلق عليه بابه فهو آمن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "sirah",
@@ -1270,7 +1428,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "أغلبك على هذا الأمر أقل بيت في قريش، أما والله لأملأنها خيلا ورجالا إن شئت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -1280,7 +1439,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "hadith",
@@ -1290,7 +1450,8 @@
       "author": "",
       "locator": "حديث الغدير",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "hadith",
@@ -1300,7 +1461,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "تلقفوها كتلقف الكرة لبني أمية",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -1310,7 +1472,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "event",
@@ -1320,7 +1483,8 @@
       "author": "",
       "locator": "الفتنة الكبرى / مقتل عثمان",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
@@ -1330,7 +1494,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "event",
@@ -1340,7 +1505,8 @@
       "author": "",
       "locator": "ألمانيا، 2012",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
@@ -1350,7 +1516,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -1360,7 +1527,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c21"
     },
     {
       "citationType": "event",
@@ -1370,7 +1538,8 @@
       "author": "",
       "locator": "نقش الحمّة",
       "quotedArabic": "في عهد عبد الله معاوية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "person",
@@ -1380,7 +1549,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "event",
@@ -1390,7 +1560,8 @@
       "author": "",
       "locator": "فلس باسم معاوية بالكتابة اليونانية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "event",
@@ -1400,7 +1571,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "event",
@@ -1410,7 +1582,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1420,7 +1593,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -1430,7 +1604,8 @@
       "author": "",
       "locator": "نقوش قبة الصخرة",
       "quotedArabic": "محمد رسول الله",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -1440,7 +1615,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c29"
     },
     {
       "citationType": "book",
@@ -1450,7 +1626,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "event",
@@ -1460,7 +1637,8 @@
       "author": "",
       "locator": "درهم ساساني باسم معاوية",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "person",
@@ -1470,7 +1648,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c32"
     }
   ],
   "topicProposals": [

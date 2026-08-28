@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "LrMRyQnRRLM",
   "videoUrl": "https://www.youtube.com/watch?v=LrMRyQnRRLM",
   "videoTitle": "صندوق الإسلام 22  قصة جمع القرآن فى زمن عثمان بن عفان 22 Episode",
@@ -83,7 +83,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify epigraphic studies regarding pre-Islamic scripts in the Hijaz versus North Arabia."
+      "verificationNote": "Verify epigraphic studies regarding pre-Islamic scripts in the Hijaz versus North Arabia.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:15",
@@ -94,7 +95,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Namara inscription text and paleographic analysis of Arabic script development."
+      "verificationNote": "Check the Namara inscription text and paleographic analysis of Arabic script development.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:04:40",
@@ -105,7 +109,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult paleographical scholarship on the origins of Kufic script and Syriac influence."
+      "verificationNote": "Consult paleographical scholarship on the origins of Kufic script and Syriac influence.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:35",
@@ -117,7 +122,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical literature on Garshuni texts and pre-Islamic Arab-Syriac trade literacy."
+      "verificationNote": "Check historical literature on Garshuni texts and pre-Islamic Arab-Syriac trade literacy.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:00",
@@ -129,7 +135,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Arabic-Syriac lexicography and Arthur Jeffery's 'The Foreign Vocabulary of the Qur'an'."
+      "verificationNote": "Check Arabic-Syriac lexicography and Arthur Jeffery's 'The Foreign Vocabulary of the Qur'an'.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:15",
@@ -141,7 +148,10 @@
         "sirah-christian-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Christoph Luxenberg's 'The Syro-Aramaic Reading of the Koran'."
+      "verificationNote": "Check Christoph Luxenberg's 'The Syro-Aramaic Reading of the Koran'.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:08:45",
@@ -154,7 +164,10 @@
         "sirah-christian-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare Surah al-Kahf (18:9-26) with Jacob of Serugh's memra on the Seven Sleepers of Ephesus."
+      "verificationNote": "Compare Surah al-Kahf (18:9-26) with Jacob of Serugh's memra on the Seven Sleepers of Ephesus.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:11:00",
@@ -165,7 +178,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Verify paleographic permutations of unpointed initial t-b-t sequence in early orthography."
+      "verificationNote": "Verify paleographic permutations of unpointed initial t-b-t sequence in early orthography.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:14:15",
@@ -176,7 +192,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check paleographic studies and radiocarbon dating of the Samarkand, Topkapi, and Cairo codices (e.g., Tayyar Altıkulaç)."
+      "verificationNote": "Check paleographic studies and radiocarbon dating of the Samarkand, Topkapi, and Cairo codices (e.g., Tayyar Altıkulaç).",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:14:40",
@@ -187,7 +206,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Dr. Tayyar Altıkulaç's published works on the Topkapi and Al-Mashhad Al-Husseini codices."
+      "verificationNote": "Check Dr. Tayyar Altıkulaç's published works on the Topkapi and Al-Mashhad Al-Husseini codices.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:15:00",
@@ -198,7 +220,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Examine textual analysis of the Al-Mashhad Al-Husseini Quran codex in Cairo."
+      "verificationNote": "Examine textual analysis of the Al-Mashhad Al-Husseini Quran codex in Cairo.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:00",
@@ -209,7 +232,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Kitab al-Masahif by Ibn Abi Dawood regarding the structural modifications attributed to Al-Hajjaj and Ibn Ziyad."
+      "verificationNote": "Check Kitab al-Masahif by Ibn Abi Dawood regarding the structural modifications attributed to Al-Hajjaj and Ibn Ziyad.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:45",
@@ -220,7 +244,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Kitab al-Masahif of Ibn Abi Dawood and Tafsir Ibn Kathir / Suyuti's al-Itqan for Ibn Mas'ud's codex contents."
+      "verificationNote": "Check Kitab al-Masahif of Ibn Abi Dawood and Tafsir Ibn Kathir / Suyuti's al-Itqan for Ibn Mas'ud's codex contents.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:15",
@@ -232,7 +257,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sahih al-Bukhari (Hadith 3758, 4999) and Sahih Muslim."
+      "verificationNote": "Check Sahih al-Bukhari (Hadith 3758, 4999) and Sahih Muslim.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:20:15",
@@ -243,7 +271,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sahih al-Bukhari (Hadith 4987) and Kitab al-Masahif for historical details on the compilation committee."
+      "verificationNote": "Check Sahih al-Bukhari (Hadith 4987) and Kitab al-Masahif for historical details on the compilation committee.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:00",
@@ -254,7 +283,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Jami' at-Tirmidhi (Hadith 3104) and Ibn Sa'd's Tabaqat regarding Ibn Mas'ud's reaction."
+      "verificationNote": "Check Jami' at-Tirmidhi (Hadith 3104) and Ibn Sa'd's Tabaqat regarding Ibn Mas'ud's reaction.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:40",
@@ -265,7 +295,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check reports in Sunan at-Tirmidhi and Musnad Ahmad on Zayd ibn Thabit learning the script of the Jews / Syriac."
+      "verificationNote": "Check reports in Sunan at-Tirmidhi and Musnad Ahmad on Zayd ibn Thabit learning the script of the Jews / Syriac.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:23:45",
@@ -277,7 +308,10 @@
         "quran-internal-tensions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Al-Itqan fi Ulum al-Qur'an by al-Suyuti and Al-Mustadrak by al-Hakim for Aisha's narration on Surah al-Ahzab."
+      "verificationNote": "Check Al-Itqan fi Ulum al-Qur'an by al-Suyuti and Al-Mustadrak by al-Hakim for Aisha's narration on Surah al-Ahzab.",
+      "citationRefs": [
+        "c10"
+      ]
     }
   ],
   "citations": [
@@ -286,21 +320,24 @@
       "timestamp": "00:02:15",
       "asStatedInVideo": "نقش النمارة لقبر امرؤ القيس",
       "workTitle": "Namaara Inscription",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:15",
       "asStatedInVideo": "الباحث كريستوفر لوكسمبورغ",
       "author": "Christoph Luxenberg",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:45",
       "asStatedInVideo": "يعقوب السروجي",
       "author": "Jacob of Serugh",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -308,48 +345,55 @@
       "asStatedInVideo": "تبت يدا أبي لهب وتب",
       "locator": "111:1",
       "quotedArabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "book",
       "timestamp": "00:14:40",
       "asStatedInVideo": "الدكتور طيار آلتي قولاچ",
       "author": "Tayyar Altıkulaç",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
       "timestamp": "00:17:00",
       "asStatedInVideo": "الحجاج بن يوسف الثقفي وعبيد الله بن زياد",
       "author": "Al-Hajjaj ibn Yusuf & Ubayd Allah ibn Ziyad",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:18:30",
       "asStatedInVideo": "عبد الله بن مسعود وأبي بن كعب وعلي بن أبي طالب",
       "author": "Abdullah ibn Mas'ud, Ubayy ibn Ka'b, Ali ibn Abi Talib",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:19:15",
       "asStatedInVideo": "حديث: خذوا القرآن عن أربعة...",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:20:15",
       "asStatedInVideo": "زيد بن ثابت",
       "author": "Zayd ibn Thabit",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:23:45",
       "asStatedInVideo": "رواية عن عائشة حول سورة الأحزاب",
       "author": "Aisha bint Abi Bakr",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     }
   ],
   "topicProposals": []

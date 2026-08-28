@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "6HhDi8MKJlY",
   "videoUrl": "https://www.youtube.com/watch?v=6HhDi8MKJlY",
   "videoTitle": "Box of islam 52 صندوق الإسلام 52 : عمر بن الخطاب وميوله اليهودية",
@@ -114,7 +114,8 @@
         "formative-figures-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the portrayal of Umar as just, ascetic and luminous in classical biographical and virtue literature is demonstrably a later accretion rather than an early stratum of the tradition."
+      "verificationNote": "Check whether the portrayal of Umar as just, ascetic and luminous in classical biographical and virtue literature is demonstrably a later accretion rather than an early stratum of the tradition.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:59",
@@ -127,7 +128,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Contemporary political commentary by the speaker; no source is invoked and it bears on modern political culture rather than on the origins of Islam."
+      "verificationNote": "Contemporary political commentary by the speaker; no source is invoked and it bears on modern political culture rather than on the origins of Islam.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:01:46",
@@ -143,7 +147,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm that no Qur'anic passage names or is uncontroversially identified with Umar, and that all biographical material about him derives from later Islamic literature."
+      "verificationNote": "Confirm that no Qur'anic passage names or is uncontroversially identified with Umar, and that all biographical material about him derives from later Islamic literature.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:32",
@@ -158,7 +163,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey the documentary and numismatic record of the first Islamic decades (papyri, inscriptions, Arab-Byzantine and Arab-Sasanian coinage) for any contemporary attestation of Umar."
+      "verificationNote": "Survey the documentary and numismatic record of the first Islamic decades (papyri, inscriptions, Arab-Byzantine and Arab-Sasanian coinage) for any contemporary attestation of Umar.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:17",
@@ -175,7 +181,11 @@
         "pre-islamic-hanif-monotheism"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the genealogical link between al-Khattab and Zayd ibn Amr ibn Nufayl in Ibn Ishaq, Ibn Sa'd and the ansab literature."
+      "verificationNote": "Verify the genealogical link between al-Khattab and Zayd ibn Amr ibn Nufayl in Ibn Ishaq, Ibn Sa'd and the ansab literature.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:03:17",
@@ -192,7 +202,10 @@
         "pre-islamic-hanif-monotheism"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports on Zayd ibn Amr's abstentions and monotheism in Ibn Ishaq/Ibn Hisham, Ibn Sa'd and al-Bukhari, and whether they predate Muhammad's preaching in the tradition's own chronology."
+      "verificationNote": "Check the reports on Zayd ibn Amr's abstentions and monotheism in Ibn Ishaq/Ibn Hisham, Ibn Sa'd and al-Bukhari, and whether they predate Muhammad's preaching in the tradition's own chronology.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:03:17",
@@ -210,7 +223,10 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith that Zayd ibn Amr will be raised as an umma on his own, identify its collection and grading, and assess the reports of contact between Muhammad and Zayd."
+      "verificationNote": "Locate the hadith that Zayd ibn Amr will be raised as an umma on his own, identify its collection and grading, and assess the reports of contact between Muhammad and Zayd.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:04:04",
@@ -223,7 +239,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Background social detail; check the standing of Banu Adi and their role as sifara/arbitration in the Quraysh literature, but note it does not by itself bear on the premise."
+      "verificationNote": "Background social detail; check the standing of Banu Adi and their role as sifara/arbitration in the Quraysh literature, but note it does not by itself bear on the premise.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:04:59",
@@ -239,7 +259,10 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the report that al-Khattab overworked and beat Umar (\"يتعبني إذا عملت ويضربني إذا قصرت\") to a named classical source and check its wording."
+      "verificationNote": "Trace the report that al-Khattab overworked and beat Umar (\"يتعبني إذا عملت ويضربني إذا قصرت\") to a named classical source and check its wording.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:04:59",
@@ -253,7 +276,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "The speaker himself treats this genealogy as a probable polemical fabrication; check where the story of the Abyssinian slave-woman appears and who transmits it before giving it any weight."
+      "verificationNote": "The speaker himself treats this genealogy as a probable polemical fabrication; check where the story of the Abyssinian slave-woman appears and who transmits it before giving it any weight.",
+      "citationRefs": [
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:06",
@@ -266,7 +293,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Methodological caveat by the speaker distancing himself from sectarian invective; check the sectarian provenance of the lineage slurs if any of them is ever used as evidence."
+      "verificationNote": "Methodological caveat by the speaker distancing himself from sectarian invective; check the sectarian provenance of the lineage slurs if any of them is ever used as evidence.",
+      "citationRefs": [
+        "c12",
+        "c13"
+      ]
     },
     {
       "timestamp": "00:06:54",
@@ -279,7 +310,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Cultural-historical aside; check Fatimid-era cursing of the first caliphs in Egypt and the etymology of the colloquial expression only if the claim is reused."
+      "verificationNote": "Cultural-historical aside; check Fatimid-era cursing of the first caliphs in Egypt and the etymology of the colloquial expression only if the claim is reused.",
+      "citationRefs": [
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:08:29",
@@ -296,7 +331,10 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith \"اللهم أعز الإسلام بعمر\" (or \"بأحب هذين الرجلين إليك\") with its collection and grading, and check the reports of Umar's poverty and hired labour."
+      "verificationNote": "Locate the hadith \"اللهم أعز الإسلام بعمر\" (or \"بأحب هذين الرجلين إليك\") with its collection and grading, and check the reports of Umar's poverty and hired labour.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:09:19",
@@ -309,7 +347,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the childhood reports about carrying water for a handful of raisins and gathering firewood, and identify which classical works transmit them."
+      "verificationNote": "Check the childhood reports about carrying water for a handful of raisins and gathering firewood, and identify which classical works transmit them.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:09:19",
@@ -324,7 +365,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Assess whether early undotted Arabic script would render خطاب and حطاب identically, whether \"al-Khattab\" is otherwise attested as a name or occupational epithet, and whether any early source or inscription bears on the reading."
+      "verificationNote": "Assess whether early undotted Arabic script would render خطاب and حطاب identically, whether \"al-Khattab\" is otherwise attested as a name or occupational epithet, and whether any early source or inscription bears on the reading.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:00",
@@ -342,7 +384,13 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate this passage in Ibn Abi al-Hadid's Sharh Nahj al-Balagha, check its exact wording, and note the author's Mu'tazili-Shia leaning when weighing it; also check independent reports of Umar impugning Abu Hurayra's narration."
+      "verificationNote": "Locate this passage in Ibn Abi al-Hadid's Sharh Nahj al-Balagha, check its exact wording, and note the author's Mu'tazili-Shia leaning when weighing it; also check independent reports of Umar impugning Abu Hurayra's narration.",
+      "citationRefs": [
+        "c18",
+        "c19",
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:11:00",
@@ -357,7 +405,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the hadiths in which Umar asks permission to behead an opponent (Badr captives, the hypocrite, Hatib ibn Abi Balta'a) and check collections and wording."
+      "verificationNote": "Collect the hadiths in which Umar asks permission to behead an opponent (Badr captives, the hypocrite, Hatib ibn Abi Balta'a) and check collections and wording.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:48",
@@ -374,7 +425,15 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports of Umar's pre-Islamic drinking and conduct, and whether classical sources connect his personal history to his demands for prohibition."
+      "verificationNote": "Check the reports of Umar's pre-Islamic drinking and conduct, and whether classical sources connect his personal history to his demands for prohibition.",
+      "citationRefs": [
+        "c33",
+        "c34",
+        "c36",
+        "c38",
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:11:48",
@@ -392,7 +451,16 @@
         "formative-figures-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the episode's central thesis; evaluate it only against the specific reports the speaker adduces later, and check whether any classical or academic literature frames Umar as a channel of Jewish influence."
+      "verificationNote": "This is the episode's central thesis; evaluate it only against the specific reports the speaker adduces later, and check whether any classical or academic literature frames Umar as a channel of Jewish influence.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c28",
+        "c29",
+        "c30",
+        "c31",
+        "c32"
+      ]
     },
     {
       "timestamp": "00:12:00",
@@ -408,7 +476,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test the claimed phase division against the traditional Meccan/Medinan chronology: whether early Meccan material is free of legislation and hostility, and what evidence supports a specifically Christian colouring in that phase."
+      "verificationNote": "Test the claimed phase division against the traditional Meccan/Medinan chronology: whether early Meccan material is free of legislation and hostility, and what evidence supports a specifically Christian colouring in that phase.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:12:40",
@@ -425,7 +496,16 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the traditional dating of Umar's conversion coincides with any identifiable shift toward Jewish-derived material in the Meccan suras."
+      "verificationNote": "Check whether the traditional dating of Umar's conversion coincides with any identifiable shift toward Jewish-derived material in the Meccan suras.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c28",
+        "c29",
+        "c30",
+        "c31",
+        "c32"
+      ]
     },
     {
       "timestamp": "00:12:40",
@@ -442,7 +522,8 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the report of a Jewish woman rescuing and raising al-Khattab, identify the classical work transmitting it and its chain; the speaker gives no source and treats the motif itself as suspect."
+      "verificationNote": "Locate the report of a Jewish woman rescuing and raising al-Khattab, identify the classical work transmitting it and its chain; the speaker gives no source and treats the motif itself as suspect.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:35",
@@ -455,7 +536,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Speaker's own caveat weakening the preceding report; record it so the editor does not treat the Jewish-grandmother story as firm evidence."
+      "verificationNote": "Speaker's own caveat weakening the preceding report; record it so the editor does not treat the Jewish-grandmother story as firm evidence.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:34",
@@ -471,7 +553,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the conversion narrative of Umar in Ibn Ishaq and later sirah with the Acts account of Saul/Paul, and check whether any scholarship argues literary dependence or a shared conversion topos."
+      "verificationNote": "Compare the conversion narrative of Umar in Ibn Ishaq and later sirah with the Acts account of Saul/Paul, and check whether any scholarship argues literary dependence or a shared conversion topos.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:15:22",
@@ -485,7 +570,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sirah versions of this episode for what his sister was reading and whether the detail of intended killing is uniform across recensions."
+      "verificationNote": "Check the sirah versions of this episode for what his sister was reading and whether the detail of intended killing is uniform across recensions.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:22",
@@ -502,7 +590,8 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Jewish purity rules on handling scripture (netilat yadayim, tevilah) against the ghusl motif in the Umar story, and whether ritual washing is attested in early Meccan Islam."
+      "verificationNote": "Check Jewish purity rules on handling scripture (netilat yadayim, tevilah) against the ghusl motif in the Umar story, and whether ritual washing is attested in early Meccan Islam.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:22",
@@ -519,7 +608,12 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report \"بهذا جاء موسى\" in Ibn Asakir's Tarikh Madinat Dimashq, give volume and page, and check the isnad and whether other collections carry it."
+      "verificationNote": "Locate the report \"بهذا جاء موسى\" in Ibn Asakir's Tarikh Madinat Dimashq, give volume and page, and check the isnad and whether other collections carry it.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:16:12",
@@ -537,7 +631,10 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the hadith on Umar reading the Torah and any source asserting his knowledge of Hebrew or Syriac; the speaker names no collection, so treat the language claim as unsourced."
+      "verificationNote": "Identify the hadith on Umar reading the Torah and any source asserting his knowledge of Hebrew or Syriac; the speaker names no collection, so treat the language claim as unsourced.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:17:00",
@@ -555,7 +652,11 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the \"amutahawwikun\" hadith of Jabir (commonly cited via Ahmad and al-Darimi), record collection, number and grading, and compare wordings."
+      "verificationNote": "Locate the \"amutahawwikun\" hadith of Jabir (commonly cited via Ahmad and al-Darimi), record collection, number and grading, and compare wordings.",
+      "citationRefs": [
+        "c30",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:17:45",
@@ -573,7 +674,10 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's inference from the hadith's prohibition; assess it against alternative classical readings of the prohibition on writing from the People of the Book."
+      "verificationNote": "This is the speaker's inference from the hadith's prohibition; assess it against alternative classical readings of the prohibition on writing from the People of the Book.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:17:45",
@@ -590,7 +694,10 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the variant with \"أفي شك أنت يا ابن الخطاب\" and the Torah page, record its collection and grading, and check whether it is a separate report or a recension of the Jabir hadith."
+      "verificationNote": "Locate the variant with \"أفي شك أنت يا ابن الخطاب\" and the Torah page, record its collection and grading, and check whether it is a separate report or a recension of the Jabir hadith.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:18:32",
@@ -606,7 +713,15 @@
         "formative-figures-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the cumulative reports in which Umar initiates or forces a ruling in Muhammad's presence and judge whether the tradition itself presents him as dominant."
+      "verificationNote": "Assess the cumulative reports in which Umar initiates or forces a ruling in Muhammad's presence and judge whether the tradition itself presents him as dominant.",
+      "citationRefs": [
+        "c37",
+        "c38",
+        "c39",
+        "c40",
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:18:32",
@@ -623,7 +738,13 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the hadiths in which Umar rebukes women before the Prophet, objects to singing or instruments, and presses for the veiling of the wives; record collections and gradings."
+      "verificationNote": "Collect the hadiths in which Umar rebukes women before the Prophet, objects to singing or instruments, and presses for the veiling of the wives; record collections and gradings.",
+      "citationRefs": [
+        "c33",
+        "c34",
+        "c36",
+        "c38"
+      ]
     },
     {
       "timestamp": "00:18:32",
@@ -639,7 +760,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Sawda hadith (commonly cited in Bukhari and Muslim in connection with the hijab verse) and check the exact wording of Umar's remark."
+      "verificationNote": "Locate the Sawda hadith (commonly cited in Bukhari and Muslim in connection with the hijab verse) and check the exact wording of Umar's remark.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:18:32",
@@ -655,7 +779,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the report of Umar striking veiled slave-women with the words \"أتتشبهين بالحرائر\" to its classical source (commonly Ibn Abi Shayba / Abd al-Razzaq) and check the wording."
+      "verificationNote": "Trace the report of Umar striking veiled slave-women with the words \"أتتشبهين بالحرائر\" to its classical source (commonly Ibn Abi Shayba / Abd al-Razzaq) and check the wording.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:18:32",
@@ -671,7 +798,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check classical fiqh on the exemption of slave-women from covering and the reasoning given for it, and whether the class-marker reading is supported by the exegesis of Q 33:59."
+      "verificationNote": "Check classical fiqh on the exemption of slave-women from covering and the reasoning given for it, and whether the class-marker reading is supported by the exegesis of Q 33:59.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:19:22",
@@ -686,7 +816,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the apologetic argument attributed to Ali al-Ja'fari and evaluate the analogy with racial segregation as the speaker's own reasoning, not a sourced claim."
+      "verificationNote": "Check the apologetic argument attributed to Ali al-Ja'fari and evaluate the analogy with racial segregation as the speaker's own reasoning, not a sourced claim.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:19:22",
@@ -701,7 +835,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report of Umar rebuking perfumed women in the market, identify the collection and wording; the speaker's paraphrase is loose."
+      "verificationNote": "Locate the report of Umar rebuking perfumed women in the market, identify the collection and wording; the speaker's paraphrase is loose.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:20:07",
@@ -719,7 +856,13 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the \"wafaqtu rabbi fi thalath\" hadith with collection and number, check the variant lists of the agreements, and check classical explanations of the direction of agreement."
+      "verificationNote": "Locate the \"wafaqtu rabbi fi thalath\" hadith with collection and number, check the variant lists of the agreements, and check classical explanations of the direction of agreement.",
+      "citationRefs": [
+        "c37",
+        "c38",
+        "c39",
+        "c40"
+      ]
     },
     {
       "timestamp": "00:20:55",
@@ -737,7 +880,10 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the hijab item in the \"agreements of Umar\" hadith, the wording attributed to him, and which verse (Q 33:53 or 33:59) the sources connect to it."
+      "verificationNote": "Check the hijab item in the \"agreements of Umar\" hadith, the wording attributed to him, and which verse (Q 33:53 or 33:59) the sources connect to it.",
+      "citationRefs": [
+        "c38"
+      ]
     },
     {
       "timestamp": "00:20:55",
@@ -754,7 +900,10 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the maqam Ibrahim item in the agreements hadith against Q 2:125, and note the speaker's aside about its location is indistinct in the transcript."
+      "verificationNote": "Check the maqam Ibrahim item in the agreements hadith against Q 2:125, and note the speaker's aside about its location is indistinct in the transcript.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:21:40",
@@ -772,7 +921,10 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the wording attributed to Umar in the agreements hadith with Q 66:5 and check whether the sources present his words as preceding the verse."
+      "verificationNote": "Compare the wording attributed to Umar in the agreements hadith with Q 66:5 and check whether the sources present his words as preceding the verse.",
+      "citationRefs": [
+        "c40"
+      ]
     },
     {
       "timestamp": "00:21:40",
@@ -789,7 +941,11 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports that Umar repeatedly asked for a decisive ruling on wine (\"اللهم بيّن لنا في الخمر بياناً شافياً\") against the staged verses Q 2:219, 4:43 and 5:90."
+      "verificationNote": "Check the reports that Umar repeatedly asked for a decisive ruling on wine (\"اللهم بيّن لنا في الخمر بياناً شافياً\") against the staged verses Q 2:219, 4:43 and 5:90.",
+      "citationRefs": [
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:22:29",
@@ -806,7 +962,11 @@
         "formative-figures-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Psychological inference by the speaker; check whether any source connects Umar's pre-Islamic drinking with his pressing for prohibition."
+      "verificationNote": "Psychological inference by the speaker; check whether any source connects Umar's pre-Islamic drinking with his pressing for prohibition.",
+      "citationRefs": [
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:22:29",
@@ -823,7 +983,12 @@
         "formative-figures-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Inference by the speaker; check whether reports connect Umar personally with the severity of the zina penalty, including the reported 'stoning verse' episode."
+      "verificationNote": "Inference by the speaker; check whether reports connect Umar personally with the severity of the zina penalty, including the reported 'stoning verse' episode.",
+      "citationRefs": [
+        "c33",
+        "c34",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:22:29",
@@ -840,7 +1005,8 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports that Umar suspended the hadd of theft in the year of famine, altered practice on zina cases, and banned mut'a, and how classical jurists explain these as ijtihad rather than change of scripture."
+      "verificationNote": "Check the reports that Umar suspended the hadd of theft in the year of famine, altered practice on zina cases, and banned mut'a, and how classical jurists explain these as ijtihad rather than change of scripture.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:23:18",
@@ -856,7 +1022,11 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the collection reports in which Umar urges Abu Bakr to have the Qur'an written after Yamama, and their transmission history."
+      "verificationNote": "Check the collection reports in which Umar urges Abu Bakr to have the Qur'an written after Yamama, and their transmission history.",
+      "citationRefs": [
+        "c43",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:23:18",
@@ -870,7 +1040,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reported numbers of qurra' killed at Yamama, the identification of those killed as memorisers, and the report that Mu'adh ibn Jabal died in the plague of Amwas."
+      "verificationNote": "Check the reported numbers of qurra' killed at Yamama, the identification of those killed as memorisers, and the report that Mu'adh ibn Jabal died in the plague of Amwas.",
+      "citationRefs": [
+        "c43",
+        "c44"
+      ]
     },
     {
       "timestamp": "00:24:19",
@@ -886,7 +1060,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Cross-reference the earlier episodes of this series on dotting and qira'at; the conclusion rests on their content rather than on a source given here."
+      "verificationNote": "Cross-reference the earlier episodes of this series on dotting and qira'at; the conclusion rests on their content rather than on a source given here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:24:19",
@@ -904,7 +1079,12 @@
         "formative-figures-of-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the reports on Zayd ibn Thabit's schooling in a Jewish school in Medina and his learning of Hebrew/Syriac at the Prophet's instruction, and his role in the collection."
+      "verificationNote": "Check the reports on Zayd ibn Thabit's schooling in a Jewish school in Medina and his learning of Hebrew/Syriac at the Prophet's instruction, and his role in the collection.",
+      "citationRefs": [
+        "c43",
+        "c44",
+        "c45"
+      ]
     },
     {
       "timestamp": "00:25:11",
@@ -922,7 +1102,10 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the bull/whale cosmology attributed to Ka'b al-Ahbar in tafsir and qisas literature, and check Ka'b's documented relationship with Umar."
+      "verificationNote": "Trace the bull/whale cosmology attributed to Ka'b al-Ahbar in tafsir and qisas literature, and check Ka'b's documented relationship with Umar.",
+      "citationRefs": [
+        "c46"
+      ]
     },
     {
       "timestamp": "00:25:11",
@@ -939,7 +1122,8 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check reports on Umar's policy toward qussas (storytellers) and any permission granted specifically to Ka'b al-Ahbar to narrate in the mosque."
+      "verificationNote": "Check reports on Umar's policy toward qussas (storytellers) and any permission granted specifically to Ka'b al-Ahbar to narrate in the mosque.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:25:56",
@@ -957,7 +1141,11 @@
         "formative-figures-of-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Muhammad ibn Maslama's tribal affiliation and any claim of Jewish origin, his role in the killing of Ka'b ibn al-Ashraf, and his appointment by Umar to inspect governors."
+      "verificationNote": "Check Muhammad ibn Maslama's tribal affiliation and any claim of Jewish origin, his role in the killing of Ka'b ibn al-Ashraf, and his appointment by Umar to inspect governors.",
+      "citationRefs": [
+        "c47",
+        "c48"
+      ]
     },
     {
       "timestamp": "00:26:43",
@@ -975,7 +1163,11 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Aramaic/Syriac sense of the root prq (\"to save, redeem\") against the Arabic faruq (\"one who separates\"), and read Sebeos' account of a Jewish-Arab alliance concerning Jerusalem."
+      "verificationNote": "Check the Aramaic/Syriac sense of the root prq (\"to save, redeem\") against the Arabic faruq (\"one who separates\"), and read Sebeos' account of a Jewish-Arab alliance concerning Jerusalem.",
+      "citationRefs": [
+        "c49",
+        "c50"
+      ]
     },
     {
       "timestamp": "00:26:43",
@@ -991,7 +1183,10 @@
         "jewish-influence-on-early-islam"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Byzantine measures against Jews under Heraclius (forced baptism edicts, reprisals after 630) in the Greek, Syriac and Armenian sources."
+      "verificationNote": "Check Byzantine measures against Jews under Heraclius (forced baptism edicts, reprisals after 630) in the Greek, Syriac and Armenian sources.",
+      "citationRefs": [
+        "c51"
+      ]
     },
     {
       "timestamp": "00:27:00",
@@ -1008,7 +1203,11 @@
         "formative-figures-of-islam"
       ],
       "checkability": "interpretive",
-      "verificationNote": "The episode's overall thesis; it rests on the accumulated claims above rather than on a source of its own."
+      "verificationNote": "The episode's overall thesis; it rests on the accumulated claims above rather than on a source of its own.",
+      "citationRefs": [
+        "c52",
+        "c53"
+      ]
     }
   ],
   "citations": [
@@ -1016,116 +1215,134 @@
       "citationType": "person",
       "timestamp": "00:00:02",
       "asStatedInVideo": "عمر بن الخطاب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:01:46",
       "asStatedInVideo": "الأستاذ محمد المسيح (ضيف الحلقة)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:01:46",
       "asStatedInVideo": "صلاح الدين — الذي ينتظره الناس ليحرر القدس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:17",
       "asStatedInVideo": "والده هو الخطاب بن نفيل",
       "locator": "الخطاب بن نفيل",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:17",
       "asStatedInVideo": "زيد بن عمرو بن نفيل، من الموحدين الأوائل من الأحناف",
       "locator": "زيد بن عمرو بن نفيل",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:03:17",
       "asStatedInVideo": "حتى قيل عنه أنه سوف يبعث يوم القيامة كأمة كاملة، فده حديث",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:04",
       "asStatedInVideo": "بنو عدي، من أضعف بطون قريش",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:04",
       "asStatedInVideo": "بنو هاشم وبنو أمية، اللي كانوا محتكمين في تجارة مكة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:59",
       "asStatedInVideo": "جدة عمر، أمة حبشية لعبد المطلب تُسمى الصحّاك كانت ترعى الأغنام",
       "locator": "الصحّاك",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:59",
       "asStatedInVideo": "عبد المطلب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "book",
       "timestamp": "00:04:59",
       "asStatedInVideo": "بعض الكتب الإسلامية تقول عنه كان رجلاً فظاً غليظاً",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:06",
       "asStatedInVideo": "وقيل أمه حنتمة بنت هشام من بني المغيرة",
       "locator": "حنتمة بنت هشام",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:44",
       "asStatedInVideo": "عمرو بن العاص وخالد بن الوليد — تُستخدم ضدهم مسبّات النسب",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "event",
       "timestamp": "00:06:54",
       "asStatedInVideo": "الفترة الفاطمية في مصر وكان الجامع الأزهر شيعياً والأئمة يشتمون عمر من على المنبر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:44",
       "asStatedInVideo": "لماذا نكّلت بفاطمة يا عمر",
       "locator": "فاطمة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:08:29",
       "asStatedInVideo": "حتى في الحديث الشهير: اللهم أعز الإسلام بعمر",
       "quotedArabic": "اللهم أعز الإسلام بعمر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
       "timestamp": "00:09:19",
       "asStatedInVideo": "خالاته المخزوميات",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:00",
       "asStatedInVideo": "فيقول مثلاً ابن أبي الحديد",
       "author": "ابن أبي الحديد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1133,48 +1350,55 @@
       "asStatedInVideo": "شتم أبا هريرة وطعن في روايته",
       "locator": "أبو هريرة",
       "quotedArabic": "قيل إنه شتم أبا هريرة وطعن في روايته وشتم خالد بن الوليد وطعن في دينه وحكم بفسقه وبوجوب قتله وخوّن عمرو بن العاص ومعاوية وقال له يا ابن أبي سفيان، ونسبهما إلى سرقة مال الفيء واقتطاعه، وكان سريع الغضب كثير الجبه والشتم والسب لكل أحد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:00",
       "asStatedInVideo": "خالد بن الوليد — حكم بفسقه وبوجوب قتله",
       "locator": "خالد بن الوليد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
       "timestamp": "00:11:00",
       "asStatedInVideo": "عمرو بن العاص ومعاوية بن أبي سفيان — نسبهما إلى سرقة مال الفيء",
       "locator": "عمرو بن العاص، معاوية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:11:00",
       "asStatedInVideo": "عمر مشهور عنه حكاية: دعني أضرب عنقه يا رسول الله",
       "quotedArabic": "دعني أضرب عنقه يا رسول الله",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c22"
     },
     {
       "citationType": "event",
       "timestamp": "00:12:00",
       "asStatedInVideo": "الهجرة إلى الحبشة والهجرة الثانية إلى الحبشة والعودة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "person",
       "timestamp": "00:14:34",
       "asStatedInVideo": "عندهم قصة إسلام بولس اللي تحوّل من شاولوس إلى بولس وهو معادٍ للمسيحية",
       "locator": "بولس / شاول",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
       "timestamp": "00:15:22",
       "asStatedInVideo": "وجدها تقرأ سورة طه، جزء من سورة طه",
       "workTitle": "سورة طه",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "book",
@@ -1182,28 +1406,32 @@
       "asStatedInVideo": "عندنا تاريخ مدينة دمشق للإمام الحافظ أبي القاسم علي بن الحسن الشافعي",
       "workTitle": "تاريخ مدينة دمشق",
       "author": "أبو القاسم علي بن الحسن (ابن عساكر)",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "book",
       "timestamp": "00:16:12",
       "asStatedInVideo": "قلت بهذا جاء موسى — لما سمع جزءاً من سورة طه",
       "quotedArabic": "بهذا جاء موسى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "book",
       "timestamp": "00:16:12",
       "asStatedInVideo": "التوراة كان مكتوب باللغة العبرية، وبعض المصادر تقول إنه كان يجيد العبرية وحتى السريانية",
       "workTitle": "التوراة",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c28"
     },
     {
       "citationType": "person",
       "timestamp": "00:16:12",
       "asStatedInVideo": "موسى — ما أتى به موسى، المرجع كانت التوراة",
       "locator": "موسى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c29"
     },
     {
       "citationType": "hadith",
@@ -1211,21 +1439,24 @@
       "asStatedInVideo": "عندنا حديث بيقول عن جابر عن النبي صلى الله عليه وسلم حين أتاه عمر",
       "locator": "عن جابر",
       "quotedArabic": "إننا نسمع أحاديث من يهود تعجبنا، أفترى أن نكتب بعضها؟ فقال: أمتهوّكون أنتم كما تهوّكت اليهود والنصارى؟ لقد جئتكم بها بيضاء نقية، ولو كان موسى حياً ما وسعه إلا اتباعي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
       "timestamp": "00:17:00",
       "asStatedInVideo": "جابر — راوي الحديث",
       "locator": "جابر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:17:45",
       "asStatedInVideo": "وفي رواية أخرى أن النبي غضب حين رأى مع عمر صحيفة فيها شيء من التوراة",
       "quotedArabic": "أفي شك أنت يا ابن الخطاب؟ ألم آتِ بها بيضاء نقية؟ لو كان أخي موسى حياً ما وسعه إلا اتباعي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "hadith",
@@ -1233,143 +1464,164 @@
       "asStatedInVideo": "لما سودة بنت زمعة زوجة محمد خرجت بالليل لتقضي حاجتها في الخلاء فمشى عمر وراءها",
       "locator": "سودة بنت زمعة",
       "quotedArabic": "والله عرفتك يا سودة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:18:32",
       "asStatedInVideo": "كان يمشي في الأسواق يضرب الإماء بالسوط ويقول: أتشبّهتنّ بالحرائر",
       "quotedArabic": "أتشبّهتنّ بالحرائر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c34"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:22",
       "asStatedInVideo": "عمك الحبيب علي الجعفري — يبرّر أن عمر كان متحيزاً للحق ولا يقبل التزوير",
       "locator": "علي الجعفري",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:20:07",
       "asStatedInVideo": "الحديث المشهور كمان أنه غضب من نساء متعطرات في الأسواق",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:20:07",
       "asStatedInVideo": "هو كان بيقول: وافقني ربي في ثلاث",
       "quotedArabic": "وافقني ربي في ثلاث",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
       "timestamp": "00:20:55",
       "asStatedInVideo": "قلت يا رسول الله إنه يدخل عليك البرّ والفاجر فلو أمرت نساءك بالحجاب — فنزلت آية الحجاب",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c38"
     },
     {
       "citationType": "quran",
       "timestamp": "00:20:55",
       "asStatedInVideo": "موضوع أن يُتّخذ من مقام إبراهيم مصلّى",
       "quotedArabic": "واتخذوا من مقام إبراهيم مصلى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "quran",
       "timestamp": "00:21:40",
       "asStatedInVideo": "ونزلت الآية بنفس النص: مسلمات مؤمنات قانتات … ثيبات وأبكاراً",
       "quotedArabic": "مسلمات مؤمنات قانتات … ثيبات وأبكاراً",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "quran",
       "timestamp": "00:21:40",
       "asStatedInVideo": "المرحلة الأولى في تحريم الخمر: فيهما إثم كبير ومنافع للناس وإثمهما أكبر من نفعهما",
       "quotedArabic": "فيهما إثم كبير ومنافع للناس وإثمهما أكبر من نفعهما",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "quran",
       "timestamp": "00:21:40",
       "asStatedInVideo": "المرحلة الثانية: لا تقربوا الصلاة وأنتم سكارى",
       "quotedArabic": "لا تقربوا الصلاة وأنتم سكارى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "event",
       "timestamp": "00:23:18",
       "asStatedInVideo": "حرب اليمامة وحروب الردة — قُتل فيها عديد ممن حفظوا القرآن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     },
     {
       "citationType": "person",
       "timestamp": "00:23:18",
       "asStatedInVideo": "معاذ بن جبل وهو أحد الحفظة مات بالطاعون",
       "locator": "معاذ بن جبل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c44"
     },
     {
       "citationType": "person",
       "timestamp": "00:24:19",
       "asStatedInVideo": "استعان بزيد بن ثابت — من أصول يهودية أو على الأقل متربٍّ في مدارس يهودية",
       "locator": "زيد بن ثابت",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c45"
     },
     {
       "citationType": "person",
       "timestamp": "00:25:11",
       "asStatedInVideo": "استعان كذلك بكعب الأحبار، صاحب القصص الخرافية الإسرائيليات",
       "locator": "كعب الأحبار",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c46"
     },
     {
       "citationType": "person",
       "timestamp": "00:25:56",
       "asStatedInVideo": "محمد بن مسلمة — يقولون إنه من أصل يهودي وكان محالفاً لليهود وأعطاه عمر أن يكون صاحب العمال",
       "locator": "محمد بن مسلمة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c47"
     },
     {
       "citationType": "person",
       "timestamp": "00:25:56",
       "asStatedInVideo": "كعب بن الأشرف — كان محمد بن مسلمة أحد قاتليه",
       "locator": "كعب بن الأشرف",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c48"
     },
     {
       "citationType": "person",
       "timestamp": "00:26:43",
       "asStatedInVideo": "كما تكلمنا في إحدى الحلقات عن سيبيوس والتحالف اليهودي العربي",
       "locator": "سيبيوس",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c49"
     },
     {
       "citationType": "event",
       "timestamp": "00:26:43",
       "asStatedInVideo": "استرجاع القدس، واعتُبر عمر المخلّص — الفاروق بالآرامية معناها المخلّص",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c50"
     },
     {
       "citationType": "person",
       "timestamp": "00:26:43",
       "asStatedInVideo": "كان في اضطهاد في عصر هرقل (هيراكليوس) للبيزنطيين لليهود",
       "locator": "هرقل",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c51"
     },
     {
       "citationType": "person",
       "timestamp": "00:27:00",
       "asStatedInVideo": "الإسلام صنعه رجال: منهم ورقة بن نوفل، منهم سلمان الفارسي",
       "locator": "ورقة بن نوفل، سلمان الفارسي",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c52"
     },
     {
       "citationType": "person",
       "timestamp": "00:27:29",
       "asStatedInVideo": "سنواصل الحديث عن معاوية بن أبي سفيان وعبد الملك بن مروان",
       "locator": "معاوية بن أبي سفيان، عبد الملك بن مروان",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c53"
     }
   ],
   "topicProposals": [

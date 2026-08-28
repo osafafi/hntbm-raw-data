@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "w8ItxJMAFP0",
   "videoUrl": "https://www.youtube.com/watch?v=w8ItxJMAFP0",
   "videoTitle": "Box of islam 46 صندوق الاسلام 46 : الاسلام و الجنس",
@@ -104,7 +104,10 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Contemporary news event, not a source-critical claim; check German police and press reporting on the 2015-16 New Year's Eve assaults if the entry is retained for context only."
+      "verificationNote": "Contemporary news event, not a source-critical claim; check German police and press reporting on the 2015-16 New Year's Eve assaults if the entry is retained for context only.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:02:28",
@@ -120,7 +123,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "This is the speaker's framing thesis; an editor should note it as an interpretive claim resting on the textual claims that follow, not on an independent source."
+      "verificationNote": "This is the speaker's framing thesis; an editor should note it as an interpretive claim resting on the textual claims that follow, not on an independent source.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:20",
@@ -135,7 +139,8 @@
         "hadith"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the cited Qur'anic and hadith material actually forms the consistent pattern claimed, or whether counter-texts exist within the same corpora."
+      "verificationNote": "Check whether the cited Qur'anic and hadith material actually forms the consistent pattern claimed, or whether counter-texts exist within the same corpora.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:56",
@@ -150,7 +155,10 @@
         "quran-historical-claims-revelation-context"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the verse (the speaker does not give sura:aya) and compare classical exegesis on the phrase 'so they be recognised and not harmed' with the speaker's reading that harassment was endemic at the time."
+      "verificationNote": "Locate the verse (the speaker does not give sura:aya) and compare classical exegesis on the phrase 'so they be recognised and not harmed' with the speaker's reading that harassment was endemic at the time.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:04:00",
@@ -164,7 +172,11 @@
         "hadith-ethical-controversies"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Trace the reports about Umar beating unveiled slave women for imitating free women and striking perfumed women, and the saying that men's hearts lie beneath their noses, in the hadith and athar collections; the speaker gives no source."
+      "verificationNote": "Trace the reports about Umar beating unveiled slave women for imitating free women and striking perfumed women, and the saying that men's hearts lie beneath their noses, in the hadith and athar collections; the speaker gives no source.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:04:43",
@@ -180,7 +192,10 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive gloss by the speaker on the attributed saying; check whether any classical commentator reads the phrase in a sexual sense."
+      "verificationNote": "Interpretive gloss by the speaker on the attributed saying; check whether any classical commentator reads the phrase in a sexual sense.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:04:43",
@@ -193,7 +208,11 @@
         "women"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive summary; verify against the specific texts the speaker adduces rather than as an independent claim."
+      "verificationNote": "Interpretive summary; verify against the specific texts the speaker adduces rather than as an independent claim.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:04:43",
@@ -210,7 +229,8 @@
         "women-marriage-contracts-and-forms"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the lexical range of n-k-h in Arabic dictionaries and whether the claim that no other language merges the two senses holds; also check whether the classical jurists describe the contract as conferring ownership (milk) of the woman or only of the sexual right (milk al-mut'a)."
+      "verificationNote": "Check the lexical range of n-k-h in Arabic dictionaries and whether the claim that no other language merges the two senses holds; also check whether the classical jurists describe the contract as conferring ownership (milk) of the woman or only of the sexual right (milk al-mut'a).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:28",
@@ -227,7 +247,10 @@
         "women-marriage-contracts-and-forms"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read the entry n-k-h in Lisan al-Arab and verify which of the listed synonyms actually appear there and whether they carry the violent connotation the speaker assigns them."
+      "verificationNote": "Read the entry n-k-h in Lisan al-Arab and verify which of the listed synonyms actually appear there and whether they carry the violent connotation the speaker assigns them.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:05:28",
@@ -242,7 +265,10 @@
         "hadith-ethical-controversies"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the verse (Q 4:34, though the speaker gives no number here) and the classical exegetical treatment of wa-dribuhunna."
+      "verificationNote": "Verify the wording of the verse (Q 4:34, though the speaker gives no number here) and the classical exegetical treatment of wa-dribuhunna.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:06:17",
@@ -257,7 +283,11 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Confirm that the phrase sarrihuhunna sarahan jamilan occurs in the Qur'an and compare the lexical range of daraba across its Qur'anic occurrences with the apologetic 'separate from them' reading."
+      "verificationNote": "Confirm that the phrase sarrihuhunna sarahan jamilan occurs in the Qur'an and compare the lexical range of daraba across its Qur'anic occurrences with the apologetic 'separate from them' reading.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:06:17",
@@ -271,7 +301,10 @@
         "women"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether any pre-modern commentator read the verse non-physically, which would bear directly on this argument from silence."
+      "verificationNote": "Check whether any pre-modern commentator read the verse non-physically, which would bear directly on this argument from silence.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:07:03",
@@ -286,7 +319,10 @@
         "hadith-ethical-controversies"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the siwak-beating tradition in the hadith and exegetical literature and identify which apologists make this argument."
+      "verificationNote": "Trace the siwak-beating tradition in the hadith and exegetical literature and identify which apologists make this argument.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:07:03",
@@ -301,7 +337,10 @@
         "sirah-family-and-household-traditions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Surat al-Ahzab in order and assess how many of its passages concern Muhammad's marital and household affairs; compare with the classical asbab al-nuzul reports."
+      "verificationNote": "Read Surat al-Ahzab in order and assess how many of its passages concern Muhammad's marital and household affairs; compare with the classical asbab al-nuzul reports.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:07:49",
@@ -316,7 +355,10 @@
         "sirah-family-and-household-traditions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Zaynab bint Jahsh marriage verse in Surat al-Ahzab and the sirah and tafsir accounts of the occasion of its revelation."
+      "verificationNote": "Check the Zaynab bint Jahsh marriage verse in Surat al-Ahzab and the sirah and tafsir accounts of the occasion of its revelation.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:49",
@@ -331,7 +373,10 @@
         "sirah-family-and-household-traditions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the verse the speaker means (he gives no reference; likely in Surat al-Tahrim) and check the reports about the wives' conspiracy against Muhammad."
+      "verificationNote": "Identify the verse the speaker means (he gives no reference; likely in Surat al-Tahrim) and check the reports about the wives' conspiracy against Muhammad.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:07:49",
@@ -346,7 +391,10 @@
         "women"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the reported occasion of revelation of Q 4:34 and whether it is connected in the sources to Muhammad's own wives, as the speaker's causal account requires."
+      "verificationNote": "Check the reported occasion of revelation of Q 4:34 and whether it is connected in the sources to Muhammad's own wives, as the speaker's causal account requires.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:08:00",
@@ -361,7 +409,11 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "The transcript states Khadija was older by fifty years, almost certainly a misspeaking or transcription error for fifteen; check the sirah on the age gap, and check the Aisha age reports in Bukhari and Muslim for the six/seven and nine figures."
+      "verificationNote": "The transcript states Khadija was older by fifty years, almost certainly a misspeaking or transcription error for fifteen; check the sirah on the age gap, and check the Aisha age reports in Bukhari and Muslim for the six/seven and nine figures.",
+      "citationRefs": [
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:08:39",
@@ -376,7 +428,12 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate all three reports in the canonical collections (the speaker names no collection) and assess whether the corpus is internally inconsistent as claimed."
+      "verificationNote": "Locate all three reports in the canonical collections (the speaker names no collection) and assess whether the corpus is internally inconsistent as claimed.",
+      "citationRefs": [
+        "c13",
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:08:39",
@@ -391,7 +448,10 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith and verify the narrator: it is commonly transmitted from Abu Hurayra in Sahih Muslim; check whether Ibn Umar is in fact a narrator of it, and note Aisha's reported objection to the report."
+      "verificationNote": "Locate the hadith and verify the narrator: it is commonly transmitted from Abu Hurayra in Sahih Muslim; check whether Ibn Umar is in fact a narrator of it, and note Aisha's reported objection to the report.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:09:28",
@@ -405,7 +465,11 @@
         "sirah-historical-setting-and-identity"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare scholarship on the legal and social position of women in pre-Islamic Arabia with the position under early Islamic law."
+      "verificationNote": "Compare scholarship on the legal and social position of women in pre-Islamic Arabia with the position under early Islamic law.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:09:28",
@@ -420,7 +484,10 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sirah reports that Khadija inherited from a deceased husband, employed Muhammad, and initiated the marriage against her family's wishes, and check whether pre-Islamic Arabian custom allowed women to inherit."
+      "verificationNote": "Check the sirah reports that Khadija inherited from a deceased husband, employed Muhammad, and initiated the marriage against her family's wishes, and check whether pre-Islamic Arabian custom allowed women to inherit.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:10:12",
@@ -434,7 +501,10 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the sources on Hind bint Utba and other pre-Islamic women of commerce and public standing."
+      "verificationNote": "Check the sources on Hind bint Utba and other pre-Islamic women of commerce and public standing.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:10:12",
@@ -451,7 +521,10 @@
         "women-marriage-contracts-and-forms"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the verse (Q 4:24; the speaker gives no number) and the classical dispute over whether it refers to mut'a and whether it was abrogated."
+      "verificationNote": "Verify the wording of the verse (Q 4:24; the speaker gives no number) and the classical dispute over whether it refers to mut'a and whether it was abrogated.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:10:12",
@@ -466,7 +539,10 @@
         "quran-textual-transmission-readings-and-ahruf"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the variant reading 'ila ajalin musamma' attributed to Ibn Mas'ud (and Ubayy and Ibn Abbas) in the works on qira'at and masahif, e.g. Ibn Abi Dawud's Kitab al-Masahif and al-Tabari's tafsir."
+      "verificationNote": "Check the variant reading 'ila ajalin musamma' attributed to Ibn Mas'ud (and Ubayy and Ibn Abbas) in the works on qira'at and masahif, e.g. Ibn Abi Dawud's Kitab al-Masahif and al-Tabari's tafsir.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:11:02",
@@ -482,7 +558,10 @@
         "women-marriage-contracts-and-forms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the pre-Islamic forms of marriage listed in the Aisha report in Sahih al-Bukhari and the fiqh treatment of nikah al-badal and nikah al-shighar, which most schools prohibit on the basis of an explicit hadith – the claim that Islam did not forbid these needs testing."
+      "verificationNote": "Check the pre-Islamic forms of marriage listed in the Aisha report in Sahih al-Bukhari and the fiqh treatment of nikah al-badal and nikah al-shighar, which most schools prohibit on the basis of an explicit hadith – the claim that Islam did not forbid these needs testing.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:11:02",
@@ -499,7 +578,11 @@
         "women-marriage-contracts-and-forms"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the report on the red-bannered houses of pre-Islamic Mecca and the jurists' distinction between mut'a and prostitution."
+      "verificationNote": "Check the report on the red-bannered houses of pre-Islamic Mecca and the jurists' distinction between mut'a and prostitution.",
+      "citationRefs": [
+        "c22",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:11:48",
@@ -515,7 +598,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the fiqh rules on a wife needing her husband's permission to leave the house and on perfume, and whether the jurists frame the contract as ownership of the body."
+      "verificationNote": "Check the fiqh rules on a wife needing her husband's permission to leave the house and on perfume, and whether the jurists frame the contract as ownership of the body.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:36",
@@ -531,7 +615,10 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Cologne imam and the reported statement in the German press; the speaker names neither the imam nor the mosque."
+      "verificationNote": "Identify the Cologne imam and the reported statement in the German press; the speaker names neither the imam nor the mosque.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:12:36",
@@ -546,7 +633,10 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the perfume-and-zina hadith in Sunan Abi Dawud, Sunan al-Nasa'i and al-Hakim's Mustadrak, record the exact wording and the gradings given to each chain."
+      "verificationNote": "Locate the perfume-and-zina hadith in Sunan Abi Dawud, Sunan al-Nasa'i and al-Hakim's Mustadrak, record the exact wording and the gradings given to each chain.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:13:23",
@@ -563,7 +653,10 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive inference from the perfume hadith; check whether any classical or modern jurist draws the further inference that the perfumed woman forfeits protection."
+      "verificationNote": "Interpretive inference from the perfume hadith; check whether any classical or modern jurist draws the further inference that the perfumed woman forfeits protection.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:14:09",
@@ -575,7 +668,10 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Contemporary sociological assertion with no source given and no bearing on the origins of the text; check migration and crime statistics only if retained for context."
+      "verificationNote": "Contemporary sociological assertion with no source given and no bearing on the origins of the text; check migration and crime statistics only if retained for context.",
+      "citationRefs": [
+        "c25"
+      ]
     },
     {
       "timestamp": "00:14:57",
@@ -591,7 +687,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Central interpretive claim of the episode; it rests on the textual claims recorded above rather than on a source of its own."
+      "verificationNote": "Central interpretive claim of the episode; it rests on the textual claims recorded above rather than on a source of its own.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:00",
@@ -607,7 +704,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Psychological claim offered without a source; check whether it is supported by any empirical literature before use."
+      "verificationNote": "Psychological claim offered without a source; check whether it is supported by any empirical literature before use.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:47",
@@ -619,7 +717,10 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "An illustrative anecdote attributed to al-Rafi'i without a source; check whether it is documented in his biography or is a popular story."
+      "verificationNote": "An illustrative anecdote attributed to al-Rafi'i without a source; check whether it is documented in his biography or is a popular story.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:16:40",
@@ -636,7 +737,11 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the iron-peg-in-the-head hadith and the 'pregnant hands' report about masturbation, and record their gradings; the speaker names no collection for either."
+      "verificationNote": "Locate the iron-peg-in-the-head hadith and the 'pregnant hands' report about masturbation, and record their gradings; the speaker names no collection for either.",
+      "citationRefs": [
+        "c27",
+        "c28"
+      ]
     },
     {
       "timestamp": "00:17:27",
@@ -652,7 +757,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive claim; relevant to the premise only as an assertion that the corpus is bound to its seventh-century setting."
+      "verificationNote": "Interpretive claim; relevant to the premise only as an assertion that the corpus is bound to its seventh-century setting.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:15",
@@ -664,7 +770,8 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Statistical assertion with no source cited; check any harassment-prevalence surveys before use, and note that the claim bears on modern society rather than on the origin of the texts."
+      "verificationNote": "Statistical assertion with no source cited; check any harassment-prevalence surveys before use, and note that the claim bears on modern society rather than on the origin of the texts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:13",
@@ -681,7 +788,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Core premise-bearing inference: check the Qur'anic paradise passages promising sexual reward and their link to fighting, which the speaker asserts without citing them here."
+      "verificationNote": "Core premise-bearing inference: check the Qur'anic paradise passages promising sexual reward and their link to fighting, which the speaker asserts without citing them here.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:04",
@@ -696,7 +804,12 @@
         "women"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Summative inference resting on the three texts already recorded; verify each of them individually."
+      "verificationNote": "Summative inference resting on the three texts already recorded; verify each of them individually.",
+      "citationRefs": [
+        "c5",
+        "c24",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:20:04",
@@ -710,7 +823,10 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the tillage verse (Q 2:223; the speaker gives no number) and compare classical exegesis of 'anna shi'tum' with the speaker's 'any place and any time' reading."
+      "verificationNote": "Verify the wording of the tillage verse (Q 2:223; the speaker gives no number) and compare classical exegesis of 'anna shi'tum' with the speaker's 'any place and any time' reading.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:20:55",
@@ -725,7 +841,10 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith 'even if she is on the back of a camel' (commonly cited from Ibn Majah and Ahmad) and record its exact wording and grading; the speaker names no collection."
+      "verificationNote": "Locate the hadith 'even if she is on the back of a camel' (commonly cited from Ibn Majah and Ahmad) and record its exact wording and grading; the speaker names no collection.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:20:55",
@@ -740,7 +859,10 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the 'angels curse her until morning' hadith in Bukhari and Muslim and record the exact wording; the ethical contrast is the speaker's own inference."
+      "verificationNote": "Locate the 'angels curse her until morning' hadith in Bukhari and Muslim and record the exact wording; the ethical contrast is the speaker's own inference.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:21:41",
@@ -753,7 +875,12 @@
         "women"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Summative interpretive claim drawn from the preceding hadith and verses."
+      "verificationNote": "Summative interpretive claim drawn from the preceding hadith and verses.",
+      "citationRefs": [
+        "c29",
+        "c30",
+        "c31"
+      ]
     },
     {
       "timestamp": "00:21:41",
@@ -770,7 +897,11 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether any juristic text draws this conclusion, or whether it is the speaker's extrapolation from the perfume hadith."
+      "verificationNote": "Check whether any juristic text draws this conclusion, or whether it is the speaker's extrapolation from the perfume hadith.",
+      "citationRefs": [
+        "c1",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:22:30",
@@ -782,7 +913,8 @@
         "women"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Statistical assertion with no source; no bearing on the origins of the text."
+      "verificationNote": "Statistical assertion with no source; no bearing on the origins of the text.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:30",
@@ -797,7 +929,8 @@
         "women"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the Qur'anic passages on ma malakat aymanukum and captives (the speaker cites none here) and the juristic rules on concubinage with female war captives."
+      "verificationNote": "Identify the Qur'anic passages on ma malakat aymanukum and captives (the speaker cites none here) and the juristic rules on concubinage with female war captives.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:30",
@@ -813,7 +946,8 @@
         "women-sexual-ethics-and-repression"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Final interpretive conclusion of the episode; it depends entirely on the textual claims recorded above."
+      "verificationNote": "Final interpretive conclusion of the episode; it depends entirely on the textual claims recorded above.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -822,20 +956,23 @@
       "timestamp": "00:03:20",
       "asStatedInVideo": "«يدنين عليهن من جلابيبهن ... ذلك أدنى أن يعرفن فلا يؤذين» — يذكرها في سياق نساء النبي ونساء المؤمنين دون رقم سورة أو آية",
       "quotedArabic": "يدنين عليهن من جلابيبهن ذلك أدنى أن يعرفن فلا يؤذين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:00",
       "asStatedInVideo": "«عمر بن الخطاب كان بيجري ورا الستات ... يلاقي واحدة مش محجبة يروح يضربها ويقول لها انت بتتشبهي بالحرائر»",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:00",
       "asStatedInVideo": "«يلاقي سيدات حاطين عطور يجي يضربهم ويقول لهم انتو ما انتو عارفين إن قلوب الرجال تحت أنوفهم» — قول منسوب إلى عمر بن الخطاب",
       "quotedArabic": "قلوب الرجال تحت أنوفهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "book",
@@ -844,40 +981,46 @@
       "workTitle": "لسان العرب",
       "author": "ابن منظور",
       "locator": "مادة نكح",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
       "timestamp": "00:05:28",
       "asStatedInVideo": "«والتي تخافون نشوزهن فاعظوهن واهجروهن في المضاجع واضربوهن» — يقدمها بأن ربنا من فوق سبع سماوات يقولها للرجل، دون رقم",
       "quotedArabic": "واللاتي تخافون نشوزهن فعظوهن واهجروهن في المضاجع واضربوهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
       "timestamp": "00:06:17",
       "asStatedInVideo": "«كلمة يسرحهن سراحًا جميلًا موجودة في القرآن» — يستشهد بوجود العبارة دون تحديد موضعها",
       "quotedArabic": "وسرحوهن سراحًا جميلًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
       "timestamp": "00:07:03",
       "asStatedInVideo": "«اقرأ سورة الأحزاب كده وحاول تتمعن في تسلسل سورة الأحزاب، هتلاقي كلها عمالة تبرر لمحمد حاجات»",
       "workTitle": "سورة الأحزاب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
       "timestamp": "00:07:49",
       "asStatedInVideo": "«عايز يتجوز زينب وما نجحش، تنزل له آية» — إشارة إلى آية زواج زينب دون رقم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
       "timestamp": "00:07:49",
       "asStatedInVideo": "«عائشة وبعض نساءه بيعملوا مؤامرة ضده، فيروح جايب آية عشان يقول لهم ما تخونوش الرسول»",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -885,40 +1028,46 @@
       "asStatedInVideo": "«فينزل آية في سورة النساء: واضربوهن»",
       "workTitle": "سورة النساء",
       "quotedArabic": "واضربوهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:00",
       "asStatedInVideo": "«زواجه المتأخر جدًا من سيدة تكبره بخمسين سنة» — يقصد خديجة، والرقم في التفريغ شبه مؤكد أنه خطأ عن خمسة عشر",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:00",
       "asStatedInVideo": "«اللي اتجوزها بعد كده بنت عندها سبع ست سنين ودخل بها وهي عندها تسع سنين» — يقصد عائشة دون ذكر مصدر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:08:39",
       "asStatedInVideo": "«مرة يقول استوصوا بالنساء خيرًا» — بلا ذكر مصدر",
       "quotedArabic": "استوصوا بالنساء خيرًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:08:39",
       "asStatedInVideo": "«ما تركت على أمتي فتنة أشد من النساء» — بلا ذكر مصدر",
       "quotedArabic": "ما تركت على أمتي فتنة أشد من النساء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:08:39",
       "asStatedInVideo": "«نظرت في النار فوجدت أن معظم سكانها من النساء» — بلا ذكر مصدر",
       "quotedArabic": "نظرت في النار فوجدت أن معظم سكانها من النساء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "hadith",
@@ -926,26 +1075,30 @@
       "asStatedInVideo": "«الرجل المسلم بيصلي والمرأة عدت أو كلب أو حمار صلاته تبطل ... والحديث ده رواه ابن عمر يعني عبد الله بن عمر»",
       "author": "عبد الله بن عمر",
       "locator": "عزاه إلى ابن عمر دون تسمية المجموعة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
       "timestamp": "00:09:28",
       "asStatedInVideo": "«خديجة اللي كانت مشغلة محمد عندها، كانت ورثة إزاي؟ ... مكتوب في السير إنها كانت ورثة عن زوجها اللي مات وكانت أرملة، وهو اللي بيتاجر في فلوسها، وهي اللي خطبته واتجوزته رغم إرادة أهلها»",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:12",
       "asStatedInVideo": "«وقصص زي دي كتير: هند بنت عتبة ونساء كتير كانوا بيتاجروا أو لهم دور في المجتمع»",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
       "timestamp": "00:10:12",
       "asStatedInVideo": "«جاء محمد وقنن زواج المتعة بآية قرآنية: فما استمتعتم بهن فآتوهن أجورهن»",
       "quotedArabic": "فما استمتعتم به منهن فآتوهن أجورهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -954,25 +1107,29 @@
       "author": "عبد الله بن مسعود",
       "locator": "مصحف ابن مسعود — قراءة «إلى أجل مسمى»",
       "quotedArabic": "فما استمتعتم به منهن إلى أجل مسمى فآتوهن أجورهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "event",
       "timestamp": "00:11:02",
       "asStatedInVideo": "«زواج البدل اللي كان موجود قبل الإسلام: إن ده يتزوج دي ويغيّر» وكذلك «أنا آخد بنتي لابنك وانت تجيب بنتك لابني ويبدلهم ببعض ... مش ممنوع في الإسلام»",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "event",
       "timestamp": "00:11:02",
       "asStatedInVideo": "«الحاجة الوحيدة اللي محمد منعها هي زيارة صاحبات الرايات الحمر اللي هو الدعارة»",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "person",
       "timestamp": "00:12:36",
       "asStatedInVideo": "«جاء إمام أحد أكبر مساجد كولونيا وقال ما هو برضو النساء هم اللي غلطانين لأنهم كانوا حاطين عطور» — دون تسمية الإمام أو المسجد",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "hadith",
@@ -980,50 +1137,58 @@
       "asStatedInVideo": "«في حديث في أكتر من رواية عند الحاكم وعند سنن أبي داود وعند النسائي، بيقول فيه محمد إن المرأة إذا خرجت من بيتها فتعطرت والرجال شموا ريحها فهي زانية»",
       "workTitle": "سنن أبي داود؛ سنن النسائي؛ المستدرك للحاكم",
       "locator": "ثلاث روايات دون أرقام",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "event",
       "timestamp": "00:00:49",
       "asStatedInVideo": "«في ليلة رأس السنة في ألمانيا حصلت كارثة كبيرة ... في أكتر من 12 مدينة ألمانية» — أحداث التحرش الجماعي في كولونيا ومدن أخرى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "person",
       "timestamp": "00:15:47",
       "asStatedInVideo": "«في قصة الرافعي، قصة قديمة، إنه كان بيعدي من تحت بيت كل يوم ويشوف ستّ منقبة ... طلعت زلعة مية»",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c26"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:16:40",
       "asStatedInVideo": "«ولو لمست امرأة كأنك ضربت على دماغك بمسمار من حديد» — منسوب للنبي دون مصدر",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:16:40",
       "asStatedInVideo": "«واللي يمارس العادة السرية ... يأتي يوم القيامة بيديه حبلى ... النبي قال الكلام ده» — دون مصدر",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c28"
     },
     {
       "citationType": "quran",
       "timestamp": "00:20:04",
       "asStatedInVideo": "«نساؤكم حرث لكم فأتوا حرثكم أنى شئتم» — دون رقم سورة أو آية",
       "quotedArabic": "نساؤكم حرث لكم فأتوا حرثكم أنى شئتم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:20:55",
       "asStatedInVideo": "«لو ركبت معه على جمل وطلبها الليلة لازم تسلّم له نفسها على الجمل وهو ماشي» — دون تسمية المجموعة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:20:55",
       "asStatedInVideo": "«لو الراجل حب ينام معها ومرضيتش تفضل الملائكة تلعنها طول الليل» — دون تسمية المجموعة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     }
   ],
   "topicProposals": [

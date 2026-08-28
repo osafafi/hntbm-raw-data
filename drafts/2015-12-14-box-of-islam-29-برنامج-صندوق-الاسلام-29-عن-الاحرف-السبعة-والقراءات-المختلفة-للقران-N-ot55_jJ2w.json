@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "N-ot55_jJ2w",
   "videoUrl": "https://www.youtube.com/watch?v=N-ot55_jJ2w",
   "videoTitle": "Box of islam 29 برنامج صندوق الإسلام 29 عن الأحرف السبعة والقراءات المختلفة للقرآن",
@@ -69,7 +69,10 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sahih al-Bukhari (Kitab Fada'il al-Quran) for the hadith regarding Umar, Hisham ibn Hakim, and the revelation upon seven ahruf."
+      "verificationNote": "Check Sahih al-Bukhari (Kitab Fada'il al-Quran) for the hadith regarding Umar, Hisham ibn Hakim, and the revelation upon seven ahruf.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:25",
@@ -81,7 +84,8 @@
         "hadith"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check hadith commentaries (such as Fath al-Bari) for discussions on companion responses to the phrase 'seven ahruf'."
+      "verificationNote": "Check hadith commentaries (such as Fath al-Bari) for discussions on companion responses to the phrase 'seven ahruf'.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:16",
@@ -92,7 +96,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify in classical quranic sciences compendia (e.g., Al-Itqan fi Ulum al-Quran by al-Suyuti) for lists of interpretations of 'seven ahruf'."
+      "verificationNote": "Verify in classical quranic sciences compendia (e.g., Al-Itqan fi Ulum al-Quran by al-Suyuti) for lists of interpretations of 'seven ahruf'.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:02",
@@ -103,7 +108,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check al-Suyuti's Al-Itqan or al-Qurtubi's Tafsir for tribal dialect explanations of the seven ahruf."
+      "verificationNote": "Check al-Suyuti's Al-Itqan or al-Qurtubi's Tafsir for tribal dialect explanations of the seven ahruf.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:14",
@@ -114,7 +120,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify classical Ulum al-Quran literature regarding grammatical case differences as an explanation for ahruf."
+      "verificationNote": "Verify classical Ulum al-Quran literature regarding grammatical case differences as an explanation for ahruf.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:07:02",
@@ -125,7 +134,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check classic hadiths and Ulum al-Quran texts listing thematic categories (amr, nahy, qasas, etc.) as seven ahruf."
+      "verificationNote": "Check classic hadiths and Ulum al-Quran texts listing thematic categories (amr, nahy, qasas, etc.) as seven ahruf.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:22",
@@ -136,7 +146,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check modern academic historical linguistics literature on pre-Islamic and early Islamic Arabic dialects."
+      "verificationNote": "Check modern academic historical linguistics literature on pre-Islamic and early Islamic Arabic dialects.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:08",
@@ -148,7 +159,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Asbab al-Nuzul (e.g., al-Wahidi) and Sirah Ibn Hisham for reports concerning Abd Allah ibn Abi Sarh and Surah al-Mu'minun 23:14."
+      "verificationNote": "Check Asbab al-Nuzul (e.g., al-Wahidi) and Sirah Ibn Hisham for reports concerning Abd Allah ibn Abi Sarh and Surah al-Mu'minun 23:14.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:11:45",
@@ -159,7 +173,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare early Quranic manuscripts (e.g., Sanaa palimpsest, Birmingham leaf) against canonical variants."
+      "verificationNote": "Compare early Quranic manuscripts (e.g., Sanaa palimpsest, Birmingham leaf) against canonical variants.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:35",
@@ -170,7 +185,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Ibn al-Khatib's work 'Furqan al-Qur'an' for the precise count of 980 reading routes."
+      "verificationNote": "Check Ibn al-Khatib's work 'Furqan al-Qur'an' for the precise count of 980 reading routes.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:14:52",
@@ -181,7 +199,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check biographical dictionaries of Qurra (e.g., Ibn al-Jazari's Ghayat al-Nihayah) for Ibn Amir al-Shami."
+      "verificationNote": "Check biographical dictionaries of Qurra (e.g., Ibn al-Jazari's Ghayat al-Nihayah) for Ibn Amir al-Shami.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:57",
@@ -192,7 +211,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Ibn al-Jazari's al-Nashr fi al-Qira'at al-Ashr for the formalization of the Ten and Fourteen readers."
+      "verificationNote": "Check Ibn al-Jazari's al-Nashr fi al-Qira'at al-Ashr for the formalization of the Ten and Fourteen readers.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:44",
@@ -203,7 +223,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare standard Hafs and Warsh mushafs at Surah al-Fatiha (1:4)."
+      "verificationNote": "Compare standard Hafs and Warsh mushafs at Surah al-Fatiha (1:4).",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:19:15",
@@ -214,7 +237,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check variant works (such as Al-Taysir by al-Dani) for 72:20 Qul vs. Qala."
+      "verificationNote": "Check variant works (such as Al-Taysir by al-Dani) for 72:20 Qul vs. Qala.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:19:40",
@@ -225,7 +251,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check variant collections for 43:19 ('ibad' vs. 'inda')."
+      "verificationNote": "Check variant collections for 43:19 ('ibad' vs. 'inda').",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:22:16",
@@ -236,7 +265,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check al-Jazari's three conditions for an authentic reading (Dawabit al-Qira'ah al-Sahihah)."
+      "verificationNote": "Check al-Jazari's three conditions for an authentic reading (Dawabit al-Qira'ah al-Sahihah).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:45",
@@ -248,7 +278,12 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Sahih al-Bukhari for 'Take the Quran from four...' and historical accounts of Zayd ibn Ka'b/Ibn Mas'ud during Uthmanic codification."
+      "verificationNote": "Verify Sahih al-Bukhari for 'Take the Quran from four...' and historical accounts of Zayd ibn Ka'b/Ibn Mas'ud during Uthmanic codification.",
+      "citationRefs": [
+        "c10",
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:24:07",
@@ -259,7 +294,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Al-Muhtasab by Ibn Jinni or Al-Bahr al-Muhit for Zayd ibn Ali's reading in 2:30."
+      "verificationNote": "Check Al-Muhtasab by Ibn Jinni or Al-Bahr al-Muhit for Zayd ibn Ali's reading in 2:30.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:24:38",
@@ -270,7 +308,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Mukhtasar fi Shawadhdhal-Qira'at by Ibn Khalawayh for Ibn Abbas's variant on 26:227."
+      "verificationNote": "Check Mukhtasar fi Shawadhdhal-Qira'at by Ibn Khalawayh for Ibn Abbas's variant on 26:227.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:24:58",
@@ -281,7 +322,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify Tawus's reading in Surah al-Jathiyah in classical shadhdh works."
+      "verificationNote": "Verify Tawus's reading in Surah al-Jathiyah in classical shadhdh works.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:25:18",
@@ -292,7 +336,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Kitab al-Masahif by Ibn Abi Dawood for Ibn Mas'ud's codex variant at 2:36."
+      "verificationNote": "Check Kitab al-Masahif by Ibn Abi Dawood for Ibn Mas'ud's codex variant at 2:36.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:25:45",
@@ -303,7 +350,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Kitab al-Masahif for Ibn Mas'ud's variant on 2:114."
+      "verificationNote": "Check Kitab al-Masahif for Ibn Mas'ud's variant on 2:114.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:25:58",
@@ -314,7 +364,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Tafsir al-Tabari and Kitab al-Masahif for Ibn Mas'ud's reading of 3:19."
+      "verificationNote": "Check Tafsir al-Tabari and Kitab al-Masahif for Ibn Mas'ud's reading of 3:19.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:26:34",
@@ -325,7 +378,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify historical reports regarding Al-Hajjaj's destruction of companion codices and epigraphics on the Dome of the Rock."
+      "verificationNote": "Verify historical reports regarding Al-Hajjaj's destruction of companion codices and epigraphics on the Dome of the Rock.",
+      "citationRefs": [
+        "c19"
+      ]
     }
   ],
   "citations": [
@@ -336,7 +392,8 @@
       "workTitle": "Qur'an",
       "locator": "26:193-195",
       "quotedArabic": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ * عَلَى قَلْبِكَ لِتَكُونَ مِنَ الْمُنذِرِينَ * بِلِسَانٍ عَرَبِيٍّ مُّبِينٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -345,14 +402,16 @@
       "workTitle": "Qur'an",
       "locator": "19:97",
       "quotedArabic": "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:01:51",
       "asStatedInVideo": "Sahih al-Bukhari hadith about Umar ibn al-Khattab and Hisham ibn Hakim",
       "workTitle": "Sahih al-Bukhari",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -361,7 +420,8 @@
       "workTitle": "Qur'an",
       "locator": "30:2",
       "quotedArabic": "غَلَبَتِ الرُّومُ / غُلِبَتِ الرُّومُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -370,7 +430,8 @@
       "workTitle": "Qur'an",
       "locator": "23:14",
       "quotedArabic": "خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظَامًا فَكَسَوْنَا الْعِظَامَ لَحْمًا ثُمَّ أَنشَأْنَاهُ خَلْقًا آخَرَ فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -378,7 +439,8 @@
       "asStatedInVideo": "Ibn al-Khatib",
       "workTitle": "Furqan al-Qur'an",
       "author": "Ibn al-Khatib",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -387,7 +449,8 @@
       "workTitle": "Qur'an",
       "locator": "1:4",
       "quotedArabic": "مَالِكِ يَوْمِ الدِّينِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -396,7 +459,8 @@
       "workTitle": "Qur'an",
       "locator": "72:20",
       "quotedArabic": "قُلْ إِنَّمَا أَدْعُو رَبِّي / قَالَ إِنَّمَا أَدْعُو رَبِّي",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -405,25 +469,29 @@
       "workTitle": "Qur'an",
       "locator": "43:19",
       "quotedArabic": "وَجَعَلُوا الْمَلائِكَةَ الَّذِينَ هُمْ عِبَادُ الرَّحْمَنِ إِنَاثًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "person",
       "timestamp": "00:22:45",
       "asStatedInVideo": "Abd Allah ibn Mas'ud",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "person",
       "timestamp": "00:22:45",
       "asStatedInVideo": "Ubayy ibn Ka'b",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
       "timestamp": "00:22:56",
       "asStatedInVideo": "Zayd ibn Thabit",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -432,7 +500,8 @@
       "workTitle": "Qur'an",
       "locator": "2:30",
       "quotedArabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -441,7 +510,8 @@
       "workTitle": "Qur'an",
       "locator": "26:227",
       "quotedArabic": "وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -450,7 +520,8 @@
       "workTitle": "Qur'an",
       "locator": "45:23",
       "quotedArabic": "وَجَعَلَ عَلَى بَصَرِهِ غِشَاوَةً",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -459,7 +530,8 @@
       "workTitle": "Qur'an",
       "locator": "2:36",
       "quotedArabic": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -468,7 +540,8 @@
       "workTitle": "Qur'an",
       "locator": "2:114",
       "quotedArabic": "مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلا خَائِفِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -477,13 +550,15 @@
       "workTitle": "Qur'an",
       "locator": "3:19",
       "quotedArabic": "إِنَّ الدِّينَ عِنْدَ اللَّهِ الإِسْلامُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "event",
       "timestamp": "00:26:34",
       "asStatedInVideo": "Inscription on the Dome of the Rock under Abd al-Malik ibn Marwan",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     }
   ],
   "topicProposals": []

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "YnKrE35tv-Y",
   "videoUrl": "https://www.youtube.com/watch?v=YnKrE35tv-Y",
   "videoTitle": "Box of islam 31 صندوق الاسلام 31 اساطير القرآن، بيت العنكبوت و ذو القرنين",
@@ -79,7 +79,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Syriac homily of Jacob of Serugh on the Sleepers of Ephesus with Surah al-Kahf (18:9-26)."
+      "verificationNote": "Compare the Syriac homily of Jacob of Serugh on the Sleepers of Ephesus with Surah al-Kahf (18:9-26).",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:18",
@@ -90,7 +93,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check qira'at literature and commentaries (e.g., Al-Qurtubi, Ibn Jinni's Al-Muhtasab) for Abu 'Amr al-Zahid's reading of 'kali'uhum' in 18:18."
+      "verificationNote": "Check qira'at literature and commentaries (e.g., Al-Qurtubi, Ibn Jinni's Al-Muhtasab) for Abu 'Amr al-Zahid's reading of 'kali'uhum' in 18:18.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:03:13",
@@ -102,7 +108,10 @@
         "sirah-christian-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical critical studies on the hagiography of Saint Felix of Nola and its relationship to the Syriac tradition of the Seven Sleepers."
+      "verificationNote": "Check historical critical studies on the hagiography of Saint Felix of Nola and its relationship to the Syriac tradition of the Seven Sleepers.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:05:05",
@@ -114,7 +123,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare Paulinus of Nola's poem on Saint Felix with Islamic Sira traditions regarding the Cave of Thawr."
+      "verificationNote": "Compare Paulinus of Nola's poem on Saint Felix with Islamic Sira traditions regarding the Cave of Thawr.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:06:33",
@@ -126,7 +138,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check classical Tafsir works (e.g., Tabari, Ibn Kathir) on Quran 9:40 to verify if 'unseen soldiers' is linked to the spider and dove."
+      "verificationNote": "Check classical Tafsir works (e.g., Tabari, Ibn Kathir) on Quran 9:40 to verify if 'unseen soldiers' is linked to the spider and dove.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:09:27",
@@ -137,7 +152,8 @@
         "sirah-ibn-ishaq"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Ibn Hisham's edition of Ibn Ishaq's Al-Sirah al-Nabawiyyah for the earliest attribution of the spider web at Cave Thawr."
+      "verificationNote": "Check Ibn Hisham's edition of Ibn Ishaq's Al-Sirah al-Nabawiyyah for the earliest attribution of the spider web at Cave Thawr.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:16",
@@ -149,7 +165,10 @@
         "hadith"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check biographical evaluation works (Ilm al-Rijal) such as Al-Dhahabi's Mizan al-I'tidal or Ibn Hajar's Tahdhib al-Tahdhib for Malik's statement on Ibn Ishaq."
+      "verificationNote": "Check biographical evaluation works (Ilm al-Rijal) such as Al-Dhahabi's Mizan al-I'tidal or Ibn Hajar's Tahdhib al-Tahdhib for Malik's statement on Ibn Ishaq.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:12:03",
@@ -161,7 +180,11 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Rabbinic literature (e.g., Genesis Rabbah / Midrash Rabbah) and early non-canonical works (such as the Life of Adam and Eve) for the narration of Satan refusing to worship Adam."
+      "verificationNote": "Check Rabbinic literature (e.g., Genesis Rabbah / Midrash Rabbah) and early non-canonical works (such as the Life of Adam and Eve) for the narration of Satan refusing to worship Adam.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:13:06",
@@ -173,7 +196,10 @@
         "quran-internal-tensions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Analyze Quran 18:86 alongside classical tafsir interpretations (e.g., whether literal or perceptual)."
+      "verificationNote": "Analyze Quran 18:86 alongside classical tafsir interpretations (e.g., whether literal or perceptual).",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:14:40",
@@ -184,7 +210,8 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Review classical Tafsir entries for Surah 18:83 to see the identification of Dhu al-Qarnayn with Alexander or Persian kings."
+      "verificationNote": "Review classical Tafsir entries for Surah 18:83 to see the identification of Dhu al-Qarnayn with Alexander or Persian kings.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:27",
@@ -196,7 +223,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Ezekiel 38-39 and Revelation 20:7-8 in the Christian Biblical canon."
+      "verificationNote": "Check Ezekiel 38-39 and Revelation 20:7-8 in the Christian Biblical canon.",
+      "citationRefs": [
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:17:22",
@@ -208,7 +239,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check scholarly editions of the Syriac Alexander Legend and the Alexander Poem attributed to Jacob of Serugh/Pseudo-Ephrem."
+      "verificationNote": "Check scholarly editions of the Syriac Alexander Legend and the Alexander Poem attributed to Jacob of Serugh/Pseudo-Ephrem.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:33",
@@ -219,7 +251,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult Richard Stoneman's 'Alexander the Great in the Arabic Tradition' and related studies on the transmission of Pseudo-Callisthenes."
+      "verificationNote": "Consult Richard Stoneman's 'Alexander the Great in the Arabic Tradition' and related studies on the transmission of Pseudo-Callisthenes.",
+      "citationRefs": [
+        "c13",
+        "c14"
+      ]
     },
     {
       "timestamp": "00:23:09",
@@ -231,7 +267,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "See Kevin van Bladel, 'The Alexander Legend in the Qur'an 18:83-102' in 'The Qur'an in Its Historical Context' (ed. Gabriel Said Reynolds)."
+      "verificationNote": "See Kevin van Bladel, 'The Alexander Legend in the Qur'an 18:83-102' in 'The Qur'an in Its Historical Context' (ed. Gabriel Said Reynolds).",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:26:36",
@@ -243,7 +282,8 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Asbab al-Nuzul by al-Wahidi or Ibn Ishaq's Sira regarding Nadr ibn al-Harith and the revelation of Surah al-Kahf."
+      "verificationNote": "Check Asbab al-Nuzul by al-Wahidi or Ibn Ishaq's Sira regarding Nadr ibn al-Harith and the revelation of Surah al-Kahf.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:27:16",
@@ -254,7 +294,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check accounts of the Battle of Badr in Ibn Hisham's Sira or Tabari's History regarding the execution of Nadr ibn al-Harith and Uqbah ibn Abi Mu'ayt."
+      "verificationNote": "Check accounts of the Battle of Badr in Ibn Hisham's Sira or Tabari's History regarding the execution of Nadr ibn al-Harith and Uqbah ibn Abi Mu'ayt.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -263,21 +304,24 @@
       "timestamp": "00:00:57",
       "asStatedInVideo": "يعقوب السروجي",
       "author": "Jacob of Serugh",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:44",
       "asStatedInVideo": "أبو عمر الزاهد",
       "author": "Abu 'Amr al-Zahid",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:13",
       "asStatedInVideo": "القديس فيلكس النولي",
       "author": "Saint Felix of Nola",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -286,21 +330,24 @@
       "workTitle": "Qur'an",
       "locator": "9:40",
       "quotedArabic": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ اللَّهُ إِذْ أَخْرَجَهُ الَّذِينَ كَفَرُوا ثَانِيَ اثْنَيْنِ إِذْ هُمَا فِي الْغَارِ إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
       "timestamp": "00:09:27",
       "asStatedInVideo": "ابن إسحاق",
       "author": "Ibn Ishaq",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
       "timestamp": "00:10:16",
       "asStatedInVideo": "الإمام مالك",
       "author": "Imam Malik",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -309,14 +356,16 @@
       "workTitle": "Qur'an",
       "locator": "2:34",
       "quotedArabic": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
       "timestamp": "00:12:12",
       "asStatedInVideo": "مدراش ربا",
       "workTitle": "Midrash Rabbah",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -325,7 +374,8 @@
       "workTitle": "Qur'an",
       "locator": "18:86",
       "quotedArabic": "مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -334,7 +384,8 @@
       "workTitle": "Qur'an",
       "locator": "18:93",
       "quotedArabic": "حَتَّىٰ إِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "book",
@@ -342,7 +393,8 @@
       "asStatedInVideo": "سفر حزقيال، الإصحاح 38",
       "workTitle": "Book of Ezekiel",
       "locator": "38",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "book",
@@ -350,35 +402,40 @@
       "asStatedInVideo": "سفر الرؤيا، الإصحاح 20",
       "workTitle": "Book of Revelation",
       "locator": "20",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "book",
       "timestamp": "00:21:38",
       "asStatedInVideo": "الموسوعة الإيرانية إنسايكلوبيديا إيرانيكا",
       "workTitle": "Encyclopædia Iranica",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "person",
       "timestamp": "00:22:03",
       "asStatedInVideo": "ريتشارد ستونمان",
       "author": "Richard Stoneman",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "person",
       "timestamp": "00:23:09",
       "asStatedInVideo": "فان بلادل",
       "author": "Kevin van Bladel",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
       "timestamp": "00:26:36",
       "asStatedInVideo": "النضر بن الحارث",
       "author": "Nadr ibn al-Harith",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     }
   ],
   "topicProposals": []

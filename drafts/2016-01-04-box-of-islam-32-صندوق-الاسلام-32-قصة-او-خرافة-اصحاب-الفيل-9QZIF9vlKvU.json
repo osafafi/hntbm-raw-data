@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "9QZIF9vlKvU",
   "videoUrl": "https://www.youtube.com/watch?v=9QZIF9vlKvU",
   "videoTitle": "Box of islam 32 صندوق الاسلام 32 ، قصة او خرافة اصحاب الفيل",
@@ -68,7 +68,10 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the text of Surah 105 (al-Fil) to confirm whether specific historical details, names, or locations are absent."
+      "verificationNote": "Check the text of Surah 105 (al-Fil) to confirm whether specific historical details, names, or locations are absent.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:54",
@@ -79,7 +82,8 @@
         "quran"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult classical Tafsir literature (e.g., Tabari, Ibn Kathir) on Surah 105:4 to verify the definition of Sijjil."
+      "verificationNote": "Consult classical Tafsir literature (e.g., Tabari, Ibn Kathir) on Surah 105:4 to verify the definition of Sijjil.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:01:58",
@@ -91,7 +95,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare dates of early Sirah compositions (e.g., Ibn Ishaq) against Muhammad's death date (632 CE)."
+      "verificationNote": "Compare dates of early Sirah compositions (e.g., Ibn Ishaq) against Muhammad's death date (632 CE).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:11",
@@ -103,7 +108,8 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check classical Sirah texts (Ibn Hisham / Ibn Ishaq) for the account of Al-Qullays and Abrahah's motives."
+      "verificationNote": "Check classical Sirah texts (Ibn Hisham / Ibn Ishaq) for the account of Al-Qullays and Abrahah's motives.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:49",
@@ -115,7 +121,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify in Ibn Hisham's Sirah whether Abrahah's elephant is explicitly named Mahmud."
+      "verificationNote": "Verify in Ibn Hisham's Sirah whether Abrahah's elephant is explicitly named Mahmud.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:28",
@@ -126,7 +133,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check historical records of the Qarmatian attack (317 AH) and Al-Hajjaj's siege of Mecca (73 AH)."
+      "verificationNote": "Check historical records of the Qarmatian attack (317 AH) and Al-Hajjaj's siege of Mecca (73 AH).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:51",
@@ -137,7 +145,8 @@
         "sirah-christian-parallels"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate comparative literary studies comparing nativity portents in Sirah literature with Gospel accounts."
+      "verificationNote": "Evaluate comparative literary studies comparing nativity portents in Sirah literature with Gospel accounts.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:38",
@@ -148,7 +157,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check epigraphic and academic consensus on Abrahah's death date (e.g., CIH 541 inscription / Murayghan inscription)."
+      "verificationNote": "Check epigraphic and academic consensus on Abrahah's death date (e.g., CIH 541 inscription / Murayghan inscription).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:13",
@@ -159,7 +169,10 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Procopius's 'History of the Wars' (specifically Book I regarding the Persian/Axumite/Himyarite conflicts)."
+      "verificationNote": "Check Procopius's 'History of the Wars' (specifically Book I regarding the Persian/Axumite/Himyarite conflicts).",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:09:50",
@@ -170,7 +183,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pachyderm biological requirements (150-200 kg food, 100-150L water daily) against ancient Arabian desert hydrology."
+      "verificationNote": "Check pachyderm biological requirements (150-200 kg food, 100-150L water daily) against ancient Arabian desert hydrology.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:30",
@@ -182,7 +196,8 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check classical Tafsir works (Tabari/Qurtubi) on Surah 105 regarding variants on the number of elephants."
+      "verificationNote": "Check classical Tafsir works (Tabari/Qurtubi) on Surah 105 regarding variants on the number of elephants.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:05",
@@ -193,7 +208,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sebeos's 'History' (Chapter 30/32) for early attestations of Muhammad's name."
+      "verificationNote": "Check Sebeos's 'History' (Chapter 30/32) for early attestations of Muhammad's name.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:05",
@@ -204,7 +220,10 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Sebeos's 'History' regarding Bahram Chobin's rebellion and use of war elephants."
+      "verificationNote": "Check Sebeos's 'History' regarding Bahram Chobin's rebellion and use of war elephants.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:21:42",
@@ -218,7 +237,10 @@
         "armenian-christian-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Matenadaran manuscript MS 2639 and translations of Sebeos's History containing Mushegh II's correspondence."
+      "verificationNote": "Check Matenadaran manuscript MS 2639 and translations of Sebeos's History containing Mushegh II's correspondence.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:22:31",
@@ -232,7 +254,11 @@
         "armenian-christian-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the phrasing of Mushegh II's letter in Sebeos's History with the Arabic text of Surah 105:1-5."
+      "verificationNote": "Compare the phrasing of Mushegh II's letter in Sebeos's History with the Arabic text of Surah 105:1-5.",
+      "citationRefs": [
+        "c1",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:24:21",
@@ -246,7 +272,12 @@
         "armenian-christian-parallels"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess the hypothesis comparing the 591 CE Byzantine-Persian conflict context with early Meccan Quranic polemics."
+      "verificationNote": "Assess the hypothesis comparing the 591 CE Byzantine-Persian conflict context with early Meccan Quranic polemics.",
+      "citationRefs": [
+        "c1",
+        "c10",
+        "c11"
+      ]
     }
   ],
   "citations": [
@@ -257,63 +288,72 @@
       "workTitle": "Qur'an",
       "locator": "105:1-5",
       "quotedArabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:11",
       "asStatedInVideo": "أبرهة",
       "author": "Abrahah",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:02",
       "asStatedInVideo": "عبد المطلب",
       "author": "Abd al-Muttalib",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:25",
       "asStatedInVideo": "محمد المسيح",
       "author": "Mohamed Al-Masih",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
       "timestamp": "00:07:20",
       "asStatedInVideo": "بروكوبيوس القيصري",
       "author": "Procopius of Caesarea",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "person",
       "timestamp": "00:16:08",
       "asStatedInVideo": "سبيوس المؤرخ الأرمني",
       "author": "Sebeos",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:17:15",
       "asStatedInVideo": "بهرام",
       "author": "Bahram Chobin",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
       "timestamp": "00:17:23",
       "asStatedInVideo": "خسرو الثاني",
       "author": "Khosrow II",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:19:39",
       "asStatedInVideo": "موشيج الثاني",
       "author": "Mushegh II Mamikonian",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -321,7 +361,8 @@
       "asStatedInVideo": "مكتبة مطينداران بالعاصمة الأرمنية يريفان رقم 2639",
       "workTitle": "Matenadaran MS 2639 / History of Sebeos",
       "locator": "MS 2639",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -330,7 +371,8 @@
       "workTitle": "Qur'an",
       "locator": "30:2-5",
       "quotedArabic": "غُلِبَتِ الرُّومُ فِي أَدْنَى الْأَرْضِ وَهُم مِّن بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ فِي بِضْعِ سِنِينَ لِلَّهِ الْأَمْرُ مِن قَبْلُ وَمِن بَعْدُ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ بِنَصْرِ اللَّهِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     }
   ],
   "topicProposals": [

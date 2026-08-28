@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "AxCfvsuJcdQ",
   "videoUrl": "https://www.youtube.com/watch?v=AxCfvsuJcdQ",
   "videoTitle": "Box of islam 30  صندوق الإسلام 30 مقدمة عن اساطير القرآن ومصدر أسطورة أصحاب الكهف",
@@ -68,7 +68,15 @@
         "quran"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Editor must check the Quranic text concordance to verify whether 'asatir al-awwalin' occurs exactly seven times."
+      "verificationNote": "Editor must check the Quranic text concordance to verify whether 'asatir al-awwalin' occurs exactly seven times.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:01:23",
@@ -80,7 +88,15 @@
         "quran-internal-tensions"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Editor should inspect the six Quranic passages (in al-An'am, al-Anfal, an-Nahl, al-Qalam, al-Mutaffifin) and their surrounding context to verify whether immediate refutations occur."
+      "verificationNote": "Editor should inspect the six Quranic passages (in al-An'am, al-Anfal, an-Nahl, al-Qalam, al-Mutaffifin) and their surrounding context to verify whether immediate refutations occur.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:02:49",
@@ -91,7 +107,10 @@
         "quran"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the writings of Muhammad Ahmad Khalafallah (e.g., 'Al-Fann al-Qasasi fi al-Qur'an al-Karim') regarding his interpretation of 'asatir al-awwalin'."
+      "verificationNote": "Check the writings of Muhammad Ahmad Khalafallah (e.g., 'Al-Fann al-Qasasi fi al-Qur'an al-Karim') regarding his interpretation of 'asatir al-awwalin'.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:54",
@@ -103,7 +122,8 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Editor should confirm the absence of the Abraham-in-fire narrative in Genesis and verify its presence in Rabbinic texts (e.g., Genesis Rabbah 38:13)."
+      "verificationNote": "Editor should confirm the absence of the Abraham-in-fire narrative in Genesis and verify its presence in Rabbinic texts (e.g., Genesis Rabbah 38:13).",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:20",
@@ -114,7 +134,11 @@
         "sirah-christian-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare early Islamic sirah reports of the cave during the Hijrah with the hagiography of Paulinus of Nola regarding St. Felix hiding in a cave/ruin covered by a spider web."
+      "verificationNote": "Compare early Islamic sirah reports of the cave during the Hijrah with the hagiography of Paulinus of Nola regarding St. Felix hiding in a cave/ruin covered by a spider web.",
+      "citationRefs": [
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:04:34",
@@ -125,7 +149,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check parallels between Surah Luqman and the Aramaic/Assyrian 'Story of Ahikar' (specifically maxims on speech and donkey braying)."
+      "verificationNote": "Check parallels between Surah Luqman and the Aramaic/Assyrian 'Story of Ahikar' (specifically maxims on speech and donkey braying).",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:36",
@@ -136,7 +163,14 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Quran 18:13 ('We relate to you their story in truth') compared to explicit parable language ('wa-drib lahum mathalan') in Surah al-Kahf."
+      "verificationNote": "Check Quran 18:13 ('We relate to you their story in truth') compared to explicit parable language ('wa-drib lahum mathalan') in Surah al-Kahf.",
+      "citationRefs": [
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:07:20",
@@ -147,7 +181,8 @@
         "quran"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Arabic lexicographical sources (Lisan al-Arab, Taj al-Arus) for the root s-t-r and classical etymologies/loanword hypotheses for 'astur'/'asatir' (e.g., Greek 'historia' or Syriac 'setar')."
+      "verificationNote": "Check Arabic lexicographical sources (Lisan al-Arab, Taj al-Arus) for the root s-t-r and classical etymologies/loanword hypotheses for 'astur'/'asatir' (e.g., Greek 'historia' or Syriac 'setar').",
+      "citationRefs": []
     },
     {
       "timestamp": "00:08:12",
@@ -159,7 +194,10 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify Jacob of Serugh's Syriac 'Memra on the Sleepers of Ephesus' (late 5th/early 6th c.) and its textual relationship to the Seven Sleepers legend."
+      "verificationNote": "Verify Jacob of Serugh's Syriac 'Memra on the Sleepers of Ephesus' (late 5th/early 6th c.) and its textual relationship to the Seven Sleepers legend.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:09:23",
@@ -170,7 +208,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Editor should verify manuscript catalogs for Vatican Syriac manuscripts containing Jacob of Serugh's homilies (e.g., Vat. Syr. 115 or similar) and their paleographical dates."
+      "verificationNote": "Editor should verify manuscript catalogs for Vatican Syriac manuscripts containing Jacob of Serugh's homilies (e.g., Vat. Syr. 115 or similar) and their paleographical dates.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:46",
@@ -181,7 +220,8 @@
         "earlier-religious-parallels"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check published translations/editions of Jacob of Serugh's homily on the Sleepers of Ephesus to confirm the details: 7 soldiers, 372 years, location in Ephesus."
+      "verificationNote": "Check published translations/editions of Jacob of Serugh's homily on the Sleepers of Ephesus to confirm the details: 7 soldiers, 372 years, location in Ephesus.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:00",
@@ -193,7 +233,10 @@
         "quran-historical-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Editor should check classical tafsir literature (e.g., Ibn Kathir, al-Tabari on Surah 18:9) and Sirah Ibn Hisham regarding the delegation of Quraysh sending Al-Nadr ibn al-Harith to Jewish rabbis in Medina."
+      "verificationNote": "Editor should check classical tafsir literature (e.g., Ibn Kathir, al-Tabari on Surah 18:9) and Sirah Ibn Hisham regarding the delegation of Quraysh sending Al-Nadr ibn al-Harith to Jewish rabbis in Medina.",
+      "citationRefs": [
+        "c17"
+      ]
     },
     {
       "timestamp": "00:20:10",
@@ -204,7 +247,8 @@
         "quran"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Editor should check classical tafsir collections (e.g., al-Qurtubi or al-Tabari on Quran 18:9) for the number of distinct interpretations recorded for 'al-Raqim'."
+      "verificationNote": "Editor should check classical tafsir collections (e.g., al-Qurtubi or al-Tabari on Quran 18:9) for the number of distinct interpretations recorded for 'al-Raqim'.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:21:10",
@@ -215,7 +259,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check Syriac lexicography for 'raqiba' / 'raqiba' (guardian angel) and textual-critical studies proposing a scribal error (b/m) in the Quranic text."
+      "verificationNote": "Check Syriac lexicography for 'raqiba' / 'raqiba' (guardian angel) and textual-critical studies proposing a scribal error (b/m) in the Quranic text.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:24:49",
@@ -226,7 +271,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check high-resolution images of the Samarkand/Tashkent Quran manuscript at Surah 18:18."
+      "verificationNote": "Check high-resolution images of the Samarkand/Tashkent Quran manuscript at Surah 18:18.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:25:31",
@@ -237,7 +283,12 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Abd al-Latif al-Khatib's 'Mu'jam al-Qira'at' or Ibn Jinni's 'Al-Muhtasab' for the reading 'kali'uhum' attributed to Abu 'Amr al-Zahid on Quran 18:18."
+      "verificationNote": "Check Abd al-Latif al-Khatib's 'Mu'jam al-Qira'at' or Ibn Jinni's 'Al-Muhtasab' for the reading 'kali'uhum' attributed to Abu 'Amr al-Zahid on Quran 18:18.",
+      "citationRefs": [
+        "c21",
+        "c22",
+        "c20"
+      ]
     }
   ],
   "citations": [
@@ -249,7 +300,8 @@
       "author": "",
       "locator": "6:25",
       "quotedArabic": "حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -259,7 +311,8 @@
       "author": "",
       "locator": "8:31",
       "quotedArabic": "لَوْ نَشَاءُ لَقُلْنَا مِثْلَ هَٰذَا ۙ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -269,7 +322,8 @@
       "author": "",
       "locator": "16:24",
       "quotedArabic": "وَإِذَا قِيلَ لَهُم مَّاذَا أَنزَلَ رَبُّكُمْ ۙ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -279,7 +333,8 @@
       "author": "",
       "locator": "68:15",
       "quotedArabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -289,7 +344,8 @@
       "author": "",
       "locator": "83:13",
       "quotedArabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -299,13 +355,15 @@
       "author": "",
       "locator": "25:5-6",
       "quotedArabic": "وَقَالُوا أَسَاطِيرُ الْأَوَّلِينَ اكْتَتَبَهَا فَهِيَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا قُلْ أَنزَلَهُ الَّذِي يَعْلَمُ السِّرَّ فِي السَّمَاوَاتِ وَالْأَرْضِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:02:49",
       "asStatedInVideo": "Muhammad Ahmad Khalafallah",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -315,13 +373,15 @@
       "author": "",
       "locator": "9:40",
       "quotedArabic": "إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
       "timestamp": "00:04:29",
       "asStatedInVideo": "Felix of Nola (فيليكس النولي)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -331,7 +391,8 @@
       "author": "",
       "locator": "31:19",
       "quotedArabic": "إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -341,7 +402,8 @@
       "author": "",
       "locator": "18:13",
       "quotedArabic": "إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -351,7 +413,8 @@
       "author": "",
       "locator": "18:32",
       "quotedArabic": "وَاضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لأَحَدِهِمَا جَنَّتَيْنِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -361,7 +424,8 @@
       "author": "",
       "locator": "18:13",
       "quotedArabic": "نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -371,7 +435,8 @@
       "author": "",
       "locator": "18:25",
       "quotedArabic": "ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -381,19 +446,22 @@
       "author": "",
       "locator": "18:18",
       "quotedArabic": "بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
       "timestamp": "00:08:17",
       "asStatedInVideo": "Jacob of Serugh (يعقوب السروجي)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "person",
       "timestamp": "00:15:05",
       "asStatedInVideo": "Al-Nadr ibn al-Harith (النضر بن الحارث)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -403,7 +471,8 @@
       "author": "",
       "locator": "18:23-24",
       "quotedArabic": "وَلَا تَقُولَنَّ لِشَيْءٍ إِنِّي فَاعِلٌ ذَٰلِكَ غَدًا إِلَّا أَن يَشَاءَ اللَّهُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -413,7 +482,8 @@
       "author": "",
       "locator": "18:22",
       "quotedArabic": "سَيَقُولُونَ ثَلَاثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -423,7 +493,8 @@
       "author": "",
       "locator": "21:42",
       "quotedArabic": "قُلْ مَن يَكْلَؤُكُم بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c20"
     },
     {
       "citationType": "book",
@@ -431,13 +502,15 @@
       "asStatedInVideo": "Mu'jam al-Qira'at by al-Khatib",
       "workTitle": "Mu'jam al-Qira'at",
       "author": "al-Khatib",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
       "timestamp": "00:25:31",
       "asStatedInVideo": "Abu 'Amr al-Zahid (أبي عمر الزاهد)",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c22"
     }
   ],
   "topicProposals": []

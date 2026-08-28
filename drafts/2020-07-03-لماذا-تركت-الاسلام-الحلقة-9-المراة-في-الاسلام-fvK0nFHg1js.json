@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "fvK0nFHg1js",
   "videoUrl": "https://www.youtube.com/watch?v=fvK0nFHg1js",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 9 - المرأة في الإسلام",
@@ -127,7 +127,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the specific Qur’anic passages and hadiths cited later in the episode with the speaker’s interpretation and with the liberation claim he is disputing."
+      "verificationNote": "Compare the specific Qur’anic passages and hadiths cited later in the episode with the speaker’s interpretation and with the liberation claim he is disputing.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:00:52",
@@ -141,7 +142,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the dates, offices, historical settings, and social significance of Zenobia and Dihya, and assess whether their cases support a broader comparison with women under Islamic law."
+      "verificationNote": "Verify the dates, offices, historical settings, and social significance of Zenobia and Dihya, and assess whether their cases support a broader comparison with women under Islamic law.",
+      "citationRefs": [
+        "c1",
+        "c2"
+      ]
     },
     {
       "timestamp": "00:01:24",
@@ -156,7 +161,12 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the underlying Arabic source for this report, establish the women’s names and wording, and evaluate the source’s date and historical reliability."
+      "verificationNote": "Identify the underlying Arabic source for this report, establish the women’s names and wording, and evaluate the source’s date and historical reliability.",
+      "citationRefs": [
+        "c3",
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:02:05",
@@ -171,7 +181,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate and date the attributed pre-Islamic text, compare its authenticated Arabic wording with Surat al-Tariq and other Qur’anic oaths, and assess whether the report predates the Qur’an."
+      "verificationNote": "Locate and date the attributed pre-Islamic text, compare its authenticated Arabic wording with Surat al-Tariq and other Qur’anic oaths, and assess whether the report predates the Qur’an.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:02:05",
@@ -186,7 +200,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the vocabulary, meter or sajʿ, syntax, and rhetorical structure of the attributed lines with relevant Qur’anic passages; the indistinguishability judgment itself is subjective."
+      "verificationNote": "Compare the vocabulary, meter or sajʿ, syntax, and rhetorical structure of the attributed lines with relevant Qur’anic passages; the indistinguishability judgment itself is subjective.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:02:44",
@@ -201,7 +219,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the earliest sira and hadith reports concerning Khadija’s wealth, trade, social standing, and financial relationship with Muhammad."
+      "verificationNote": "Check the earliest sira and hadith reports concerning Khadija’s wealth, trade, social standing, and financial relationship with Muhammad.",
+      "citationRefs": [
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:02:44",
@@ -216,7 +238,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare early sira, hadith, and biographical enumerations of Muhammad’s wives, distinguishing marriages, consummated unions, disputed names, and the number living with him simultaneously."
+      "verificationNote": "Compare early sira, hadith, and biographical enumerations of Muhammad’s wives, distinguishing marriages, consummated unions, disputed names, and the number living with him simultaneously.",
+      "citationRefs": [
+        "c8",
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:03:14",
@@ -232,7 +259,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the verse’s wording, early exegesis of jilbab and yudnina, reported occasion of revelation, and evidence for women’s dress and movement before the ruling."
+      "verificationNote": "Check the verse’s wording, early exegesis of jilbab and yudnina, reported occasion of revelation, and evidence for women’s dress and movement before the ruling.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:03:14",
@@ -247,7 +277,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the hadith collection and full wording, examine its chains and grading, and compare traditional explanations of ʿawra and istashrafaha."
+      "verificationNote": "Identify the hadith collection and full wording, examine its chains and grading, and compare traditional explanations of ʿawra and istashrafaha.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:04:03",
@@ -263,7 +296,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the grammatical addressees and context of the verse, its early interpretations, and independent evidence about women’s public activity and adornment in pre-Islamic Arabia."
+      "verificationNote": "Check the grammatical addressees and context of the verse, its early interpretations, and independent evidence about women’s public activity and adornment in pre-Islamic Arabia.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:04:45",
@@ -278,7 +314,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the complete set of Qur’anic and early Islamic texts addressing harassment, modesty, male conduct, and women’s public movement before evaluating the speaker’s inference about authorship."
+      "verificationNote": "Assess the complete set of Qur’anic and early Islamic texts addressing harassment, modesty, male conduct, and women’s public movement before evaluating the speaker’s inference about authorship.",
+      "citationRefs": [
+        "c11",
+        "c13"
+      ]
     },
     {
       "timestamp": "00:06:04",
@@ -293,7 +333,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the full verse, its relationship to orphan guardianship and justice, and classical legal interpretations of the permitted number of wives."
+      "verificationNote": "Check the full verse, its relationship to orphan guardianship and justice, and classical legal interpretations of the permitted number of wives.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:06:44",
@@ -309,7 +352,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the cited verse and classical jurisprudence concerning ownership, concubinage, numerical limits, sexual access, and the legal categories included under ma malakat aymanukum."
+      "verificationNote": "Check the cited verse and classical jurisprudence concerning ownership, concubinage, numerical limits, sexual access, and the legal categories included under ma malakat aymanukum.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:06:44",
@@ -324,7 +370,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Verify the relevant Qur’anic, hadith, and legal rules governing captives and concubines, then assess the ethical inference separately."
+      "verificationNote": "Verify the relevant Qur’anic, hadith, and legal rules governing captives and concubines, then assess the ethical inference separately.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:07:25",
@@ -339,7 +388,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Survey Qur’anic passages on slavery, captives, manumission, concubinage, pork, and intoxicants to compare the forms and scope of their respective rulings."
+      "verificationNote": "Survey Qur’anic passages on slavery, captives, manumission, concubinage, pork, and intoxicants to compare the forms and scope of their respective rulings.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:07:25",
@@ -353,7 +405,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Examine the chronology and causes of abolition across Muslim-majority jurisdictions, including internal religious arguments, international pressure, legislation, and human-rights movements."
+      "verificationNote": "Examine the chronology and causes of abolition across Muslim-majority jurisdictions, including internal religious arguments, international pressure, legislation, and human-rights movements.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:08:06",
@@ -368,7 +423,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the speaker’s inference with Islamic theories of universal law, historically conditioned rulings, legal objectives, and suspension or obsolescence of particular institutions."
+      "verificationNote": "Compare the speaker’s inference with Islamic theories of universal law, historically conditioned rulings, legal objectives, and suspension or obsolescence of particular institutions.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:08:51",
@@ -383,7 +441,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted or paraphrased exegetical source, check the verse’s addressees and property context, and compare early interpretations of al-sufahaʾ."
+      "verificationNote": "Identify the quoted or paraphrased exegetical source, check the verse’s addressees and property context, and compare early interpretations of al-sufahaʾ.",
+      "citationRefs": [
+        "c16",
+        "c17"
+      ]
     },
     {
       "timestamp": "00:09:38",
@@ -398,7 +460,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the complete debt-contract verse, its precise scope, the wording concerning error or forgetfulness, and its treatment in classical law beyond financial contracts."
+      "verificationNote": "Check the complete debt-contract verse, its precise scope, the wording concerning error or forgetfulness, and its treatment in classical law beyond financial contracts.",
+      "citationRefs": [
+        "c18"
+      ]
     },
     {
       "timestamp": "00:10:18",
@@ -412,7 +477,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the preacher or source advancing this neuroscience claim and compare it with current peer-reviewed research on sex, emotion, and memory performance."
+      "verificationNote": "Identify the preacher or source advancing this neuroscience claim and compare it with current peer-reviewed research on sex, emotion, and memory performance.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:11:40",
@@ -427,7 +495,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the full hadith and its variants, collections, chains, grading, audience, and classical explanations of deficient reason and ingratitude to the husband."
+      "verificationNote": "Locate the full hadith and its variants, collections, chains, grading, audience, and classical explanations of deficient reason and ingratitude to the husband.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:12:21",
@@ -442,7 +514,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Analyze the logical structure of the hadith and traditional accounts of whether it is giving a legal illustration, a causal explanation, or an independent proof."
+      "verificationNote": "Analyze the logical structure of the hadith and traditional accounts of whether it is giving a legal illustration, a causal explanation, or an independent proof.",
+      "citationRefs": [
+        "c18",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:13:08",
@@ -457,7 +533,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the hadith’s exact wording and the legal traditions governing prayer, fasting, and the later making up of missed fasts during menstruation."
+      "verificationNote": "Check the hadith’s exact wording and the legal traditions governing prayer, fasting, and the later making up of missed fasts during menstruation.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:13:55",
@@ -472,7 +551,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine whether the hadith presents deficiency as moral blame, quantitative ritual difference, or another category, and assess the claimed contradiction under each interpretation."
+      "verificationNote": "Examine whether the hadith presents deficiency as moral blame, quantitative ritual difference, or another category, and assess the claimed contradiction under each interpretation.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:15:28",
@@ -487,7 +569,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Map the distribution of legal passages across the Qur’an and compare proposed principles of sura composition and reports about collection before assessing whether disorder follows from the evidence."
+      "verificationNote": "Map the distribution of legal passages across the Qur’an and compare proposed principles of sura composition and reports about collection before assessing whether disorder follows from the evidence.",
+      "citationRefs": [
+        "c23",
+        "c24",
+        "c25"
+      ]
     },
     {
       "timestamp": "00:15:28",
@@ -502,7 +589,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q2:226–227 and classical legal disagreements concerning ilaʾ, the wife’s remedies during the waiting period, automatic divorce, and judicial intervention."
+      "verificationNote": "Check Q2:226–227 and classical legal disagreements concerning ilaʾ, the wife’s remedies during the waiting period, automatic divorce, and judicial intervention.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:16:57",
@@ -517,7 +607,13 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare hadith and tafsir reports about the occasion of Q4:128, Muhammad’s intention, Sawda’s age and health, and variant explanations of the verse."
+      "verificationNote": "Compare hadith and tafsir reports about the occasion of Q4:128, Muhammad’s intention, Sawda’s age and health, and variant explanations of the verse.",
+      "citationRefs": [
+        "c26",
+        "c27",
+        "c29",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:16:57",
@@ -532,7 +628,12 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate all hadith and sira variants about Sawda’s gift of her day or night, their chains and wording, and whether avoiding divorce is explicitly stated."
+      "verificationNote": "Locate all hadith and sira variants about Sawda’s gift of her day or night, their chains and wording, and whether avoiding divorce is explicitly stated.",
+      "citationRefs": [
+        "c27",
+        "c28",
+        "c30"
+      ]
     },
     {
       "timestamp": "00:17:44",
@@ -547,7 +648,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verse, early tafsir, and jurisprudence on marital settlement, voluntariness, permissible surrendered rights, coercion, and judicial remedies."
+      "verificationNote": "Check the verse, early tafsir, and jurisprudence on marital settlement, voluntariness, permissible surrendered rights, coercion, and judicial remedies.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:18:30",
@@ -562,7 +666,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare all relevant verses and legal remedies for male and female nushuz, including divorce initiation, maintenance, judicial annulment, and settlement."
+      "verificationNote": "Compare all relevant verses and legal remedies for male and female nushuz, including divorce initiation, maintenance, judicial annulment, and settlement.",
+      "citationRefs": [
+        "c23",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:19:15",
@@ -577,7 +685,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verse’s wording and early lexical and exegetical explanations of qawwamun, faddala, and the relationship between authority and financial maintenance."
+      "verificationNote": "Check the verse’s wording and early lexical and exegetical explanations of qawwamun, faddala, and the relationship between authority and financial maintenance.",
+      "citationRefs": [
+        "c31",
+        "c32"
+      ]
     },
     {
       "timestamp": "00:19:54",
@@ -592,7 +704,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the exegetical wording paraphrased by the speaker and compare theological debates over female prophecy and the gendering of God and angels."
+      "verificationNote": "Identify the exegetical wording paraphrased by the speaker and compare theological debates over female prophecy and the gendering of God and angels.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:20:40",
@@ -607,7 +722,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the Qur’anic sequence and the tafsir or legal commentary paraphrased by the speaker, including how nushuz and admonition were defined."
+      "verificationNote": "Check the Qur’anic sequence and the tafsir or legal commentary paraphrased by the speaker, including how nushuz and admonition were defined.",
+      "citationRefs": [
+        "c31",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:20:40",
@@ -622,7 +741,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith’s collections, variants, chains, conditions, and classical interpretations of refusal, valid excuses, anger, and the duration of the curse."
+      "verificationNote": "Locate the hadith’s collections, variants, chains, conditions, and classical interpretations of refusal, valid excuses, anger, and the duration of the curse.",
+      "citationRefs": [
+        "c33"
+      ]
     },
     {
       "timestamp": "00:21:26",
@@ -637,7 +759,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the exact report, collection, Arabic wording, grading, and relationship to better-known variants concerning angels and a husband sleeping angry."
+      "verificationNote": "Identify the exact report, collection, Arabic wording, grading, and relationship to better-known variants concerning angels and a husband sleeping angry.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:21:26",
@@ -653,7 +778,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report about houris addressing an earthly wife, check whether it concerns general harm or sexual refusal, and assess its chain and grading."
+      "verificationNote": "Locate the report about houris addressing an earthly wife, check whether it concerns general harm or sexual refusal, and assess its chain and grading.",
+      "citationRefs": [
+        "c35"
+      ]
     },
     {
       "timestamp": "00:22:12",
@@ -669,7 +797,12 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the verse, early definitions of nushuz, interpretations of wa-dribuhunna, legal limits on discipline, and whether sexual refusal is treated as the operative case."
+      "verificationNote": "Check the verse, early definitions of nushuz, interpretations of wa-dribuhunna, legal limits on discipline, and whether sexual refusal is treated as the operative case.",
+      "citationRefs": [
+        "c31",
+        "c33",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:22:58",
@@ -684,7 +817,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the premise that the verse authorizes beating for sexual refusal and compare the rule with contemporary Arabian and neighboring marital norms before evaluating the authorship inference."
+      "verificationNote": "Assess the premise that the verse authorizes beating for sexual refusal and compare the rule with contemporary Arabian and neighboring marital norms before evaluating the authorship inference.",
+      "citationRefs": [
+        "c33",
+        "c36"
+      ]
     },
     {
       "timestamp": "00:22:58",
@@ -700,7 +837,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith and tafsir reports about the occasion of Q2:223, verify the Jewish belief’s wording, and distinguish vaginal intercourse from anal intercourse in the reports."
+      "verificationNote": "Locate the hadith and tafsir reports about the occasion of Q2:223, verify the Jewish belief’s wording, and distinguish vaginal intercourse from anal intercourse in the reports.",
+      "citationRefs": [
+        "c37",
+        "c38"
+      ]
     },
     {
       "timestamp": "00:23:42",
@@ -715,7 +856,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the lexical range of harth, the syntax of anna shiʾtum, early exegesis, legal limits, and whether the metaphor entails ownership or disregards consent."
+      "verificationNote": "Check the lexical range of harth, the syntax of anna shiʾtum, early exegesis, legal limits, and whether the metaphor entails ownership or disregards consent.",
+      "citationRefs": [
+        "c39"
+      ]
     },
     {
       "timestamp": "00:24:26",
@@ -731,7 +875,14 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the cited texts with classical doctrines of marital sexual rights, coercion, bodily harm, consent, and modern definitions of marital rape."
+      "verificationNote": "Compare the cited texts with classical doctrines of marital sexual rights, coercion, bodily harm, consent, and modern definitions of marital rape.",
+      "citationRefs": [
+        "c33",
+        "c34",
+        "c35",
+        "c36",
+        "c39"
+      ]
     },
     {
       "timestamp": "00:25:11",
@@ -746,7 +897,13 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic inscriptions, poetry, later Islamic reports, and the relevant Qur’anic passages concerning the term Allah and the status of the three goddesses."
+      "verificationNote": "Check pre-Islamic inscriptions, poetry, later Islamic reports, and the relevant Qur’anic passages concerning the term Allah and the status of the three goddesses.",
+      "citationRefs": [
+        "c40",
+        "c41",
+        "c42",
+        "c43"
+      ]
     },
     {
       "timestamp": "00:25:11",
@@ -761,7 +918,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the passage’s rhetoric and early exegesis to determine whether it endorses female inferiority or argues ad hominem from the opponents’ own values."
+      "verificationNote": "Check the passage’s rhetoric and early exegesis to determine whether it endorses female inferiority or argues ad hominem from the opponents’ own values.",
+      "citationRefs": [
+        "c40"
+      ]
     },
     {
       "timestamp": "00:25:57",
@@ -776,7 +936,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the complete passage and compare its rhetorical target with other Qur’anic condemnations of female infanticide and grief at a daughter’s birth."
+      "verificationNote": "Identify the complete passage and compare its rhetorical target with other Qur’anic condemnations of female infanticide and grief at a daughter’s birth.",
+      "citationRefs": [
+        "c44",
+        "c45"
+      ]
     },
     {
       "timestamp": "00:27:28",
@@ -791,7 +955,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the verse’s readings and grammar, identify the exegetical passage paraphrased, and compare interpretations concerning whether the description is endorsed or attributed to the opponents."
+      "verificationNote": "Check the verse’s readings and grammar, identify the exegetical passage paraphrased, and compare interpretations concerning whether the description is endorsed or attributed to the opponents.",
+      "citationRefs": [
+        "c46",
+        "c47"
+      ]
     },
     {
       "timestamp": "00:28:59",
@@ -806,7 +974,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Examine archaeological, epigraphic, poetic, genealogical, and early Islamic evidence for the prevalence, tribal distribution, and motives of female infanticide."
+      "verificationNote": "Examine archaeological, epigraphic, poetic, genealogical, and early Islamic evidence for the prevalence, tribal distribution, and motives of female infanticide.",
+      "citationRefs": [
+        "c48"
+      ]
     },
     {
       "timestamp": "00:29:43",
@@ -822,7 +993,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the source for the alleged pre-Islamic muhsan rule and verify its terminology, geographic scope, date, exceptions, and historical reliability."
+      "verificationNote": "Identify the source for the alleged pre-Islamic muhsan rule and verify its terminology, geographic scope, date, exceptions, and historical reliability.",
+      "citationRefs": [
+        "c49"
+      ]
     },
     {
       "timestamp": "00:29:43",
@@ -838,7 +1012,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check Q4:23–24, its early occasions of revelation and exegesis, and classical law on whether captivity dissolves a captive woman’s prior marriage and when intercourse becomes lawful."
+      "verificationNote": "Check Q4:23–24, its early occasions of revelation and exegesis, and classical law on whether captivity dissolves a captive woman’s prior marriage and when intercourse becomes lawful.",
+      "citationRefs": [
+        "c50"
+      ]
     },
     {
       "timestamp": "00:30:24",
@@ -854,7 +1031,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "First verify the alleged pre-Islamic rule and the Islamic legal consequences of captivity, then compare the two regimes without assuming either description."
+      "verificationNote": "First verify the alleged pre-Islamic rule and the Islamic legal consequences of captivity, then compare the two regimes without assuming either description.",
+      "citationRefs": [
+        "c49",
+        "c50"
+      ]
     },
     {
       "timestamp": "00:31:08",
@@ -869,7 +1050,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate whether the preceding textual and historical claims establish dependence on a particular human social environment; the nonexistence conclusion is philosophical rather than directly source-verifiable."
+      "verificationNote": "Evaluate whether the preceding textual and historical claims establish dependence on a particular human social environment; the nonexistence conclusion is philosophical rather than directly source-verifiable.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:31:08",
@@ -884,7 +1066,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare early accounts of the succession disputes and civil wars with the claim that Muhammad deliberately constructed the political system that caused them."
+      "verificationNote": "Compare early accounts of the succession disputes and civil wars with the claim that Muhammad deliberately constructed the political system that caused them.",
+      "citationRefs": [
+        "c51"
+      ]
     },
     {
       "timestamp": "00:31:54",
@@ -899,7 +1084,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Survey representative modern interpretations of fighting, hand-cutting, neck-striking, guardianship, testimony, beating, concubinage, and marital sexual duties to test the claimed asymmetry."
+      "verificationNote": "Survey representative modern interpretations of fighting, hand-cutting, neck-striking, guardianship, testimony, beating, concubinage, and marital sexual duties to test the claimed asymmetry.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -911,7 +1097,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -921,7 +1108,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -931,7 +1119,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -941,7 +1130,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -951,7 +1141,8 @@
       "author": "",
       "locator": "No source or locator stated",
       "quotedArabic": "فأقبلت خويلة سيدة القوم تتوكأ على زبراء الشاعرة، فلما أبصرها القوم قاموا إجلالاً لها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -961,7 +1152,8 @@
       "author": "Attributed in the video to Zabra the soothsayer — منسوبة في الفيديو إلى زبراء الكاهنة",
       "locator": "No work or locator stated",
       "quotedArabic": "واللوحي الخافق والليل الغاسق والصباح الشارق والنجم الطارق",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -971,7 +1163,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "النجم الطارق",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "person",
@@ -981,7 +1174,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "person",
@@ -991,7 +1185,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c9"
     },
     {
       "citationType": "sirah",
@@ -1001,7 +1196,8 @@
       "author": "",
       "locator": "No source or locator stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -1011,7 +1207,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "يا أيها النبي قل لأزواجك وبناتك ونساء المؤمنين يدنين عليهن من جلابيبهن ذلك أدنى أن يعرفن فلا يؤذين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "hadith",
@@ -1021,7 +1218,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "المرأة عورة فإذا خرجت استشرفها الشيطان",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "quran",
@@ -1031,7 +1229,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "وقرن في بيوتكن ولا تبرجن تبرج الجاهلية",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -1041,7 +1240,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "وإن خفتم ألا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع... فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "event",
@@ -1051,7 +1251,8 @@
       "author": "",
       "locator": "No date, jurisdiction, or instrument stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -1061,7 +1262,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "ولا تؤتوا السفهاء أموالكم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "book",
@@ -1071,7 +1273,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "قالوا النساء والأولاد",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "quran",
@@ -1081,7 +1284,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "واستشهدوا شهيدين من رجالكم فإن لم يكونا رجلين فرجل وامرأتان... أن تضل إحداهما فتذكر إحداهما الأخرى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1091,7 +1295,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c19"
     },
     {
       "citationType": "hadith",
@@ -1101,7 +1306,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "يا معشر النساء تصدقن فإني أريتكن أكثر أهل النار... تكثرن اللعن وتكفرن العشير، وما رأيت من ناقصات عقل ودين أذهب للب الرجل الحازم من إحداكن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "hadith",
@@ -1111,7 +1317,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "أليست شهادة المرأة مثل نصف شهادة الرجل؟ قلن بلى، قال فذلك من نقصان عقلها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "hadith",
@@ -1121,7 +1328,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "أليس إذا حاضت لم تصل ولم تصم؟ قلن بلى، قال فذلك من نقصان دينها",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1131,7 +1339,8 @@
       "author": "",
       "locator": "2:226",
       "quotedArabic": "للذين يؤلون من نسائهم تربص أربعة أشهر فإن فاءوا فإن الله غفور رحيم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1141,7 +1350,8 @@
       "author": "",
       "locator": "Sura named; no aya stated",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -1151,7 +1361,8 @@
       "author": "",
       "locator": "Sura named; no aya stated",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -1161,7 +1372,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "وإن امرأة خافت من بعلها نشوزا أو إعراضا فلا جناح عليهما أن يصلحا بينهما صلحا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1171,7 +1383,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c27"
     },
     {
       "citationType": "person",
@@ -1181,7 +1394,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "hadith",
@@ -1191,7 +1405,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c29"
     },
     {
       "citationType": "sirah",
@@ -1201,7 +1416,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -1211,7 +1427,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم... واللاتي تخافون نشوزهن فعظوهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "book",
@@ -1221,7 +1438,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "الرجل قيم على المرأة أي هو رئيسها وكبيرها والحاكم عليها ومؤدبها إذا اعوجت... الرجال أفضل من النساء والرجل خير من المرأة ولهذا كانت النبوة مختصة بالرجل",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c32"
     },
     {
       "citationType": "hadith",
@@ -1231,7 +1449,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "إذا دعا الرجل امرأته إلى فراشه فأبت عليه لعنتها الملائكة حتى تصبح",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "hadith",
@@ -1241,7 +1460,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "فبات زوجها عليها غضبان لم يزل الذي في السماء غضبان عليها حتى يرضى عنها زوجها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c34"
     },
     {
       "citationType": "hadith",
@@ -1251,7 +1471,8 @@
       "author": "",
       "locator": "No locator or exact wording stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c35"
     },
     {
       "citationType": "quran",
@@ -1261,7 +1482,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "واهجروهن في المضاجع... واضربوهن",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "event",
@@ -1271,7 +1493,8 @@
       "author": "",
       "locator": "No dates or named incident stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "hadith",
@@ -1281,7 +1504,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "quran",
@@ -1291,7 +1515,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "نساؤكم حرث لكم فأتوا حرثكم أنى شئتم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "quran",
@@ -1301,7 +1526,8 @@
       "author": "",
       "locator": "Surat al-Najm; aya numbers not stated",
       "quotedArabic": "أفرأيتم اللات والعزى ومناة الثالثة الأخرى ألكم الذكر وله الأنثى تلك إذا قسمة ضيزى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "person",
@@ -1311,7 +1537,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "person",
@@ -1321,7 +1548,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "person",
@@ -1331,7 +1559,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     },
     {
       "citationType": "quran",
@@ -1341,7 +1570,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "أتجعلون له ولدا وتجعلون لكم أنثى وتختارون لأنفسكم الذكور، تلك إذا قسمة ضيزى",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c44"
     },
     {
       "citationType": "quran",
@@ -1351,7 +1581,8 @@
       "author": "",
       "locator": "The speaker says Surat al-Zukhruf; aya number not stated",
       "quotedArabic": "وإذا بشر أحدهم بما ضرب للرحمن مثلا ظل وجهه مسودا وهو كظيم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c45"
     },
     {
       "citationType": "quran",
@@ -1361,7 +1592,8 @@
       "author": "",
       "locator": "Sura and aya not stated in the video",
       "quotedArabic": "أو من ينشأ في الحلية وهو في الخصام غير مبين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c46"
     },
     {
       "citationType": "book",
@@ -1371,7 +1603,8 @@
       "author": "",
       "locator": "No locator stated",
       "quotedArabic": "تحليها الأم لسداد الناقص الذي قد يكون فيها... وإذا جاءت تخاصم تجد المرأة لا تركز في خصومتها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c47"
     },
     {
       "citationType": "event",
@@ -1381,7 +1614,8 @@
       "author": "",
       "locator": "No tribe, date, or primary source stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c48"
     },
     {
       "citationType": "event",
@@ -1391,7 +1625,8 @@
       "author": "",
       "locator": "No source, date, or jurisdiction stated",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c49"
     },
     {
       "citationType": "quran",
@@ -1401,7 +1636,8 @@
       "author": "",
       "locator": "4:23-24",
       "quotedArabic": "حرمت عليكم أمهاتكم وبناتكم وأخواتكم... والمحصنات من النساء إلا ما ملكت أيمانكم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c50"
     },
     {
       "citationType": "event",
@@ -1411,7 +1647,8 @@
       "author": "",
       "locator": "No particular conflict, date, or source stated",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c51"
     }
   ],
   "topicProposals": []

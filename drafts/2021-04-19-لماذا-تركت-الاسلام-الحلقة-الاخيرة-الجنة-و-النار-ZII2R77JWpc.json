@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "ZII2R77JWpc",
   "videoUrl": "https://www.youtube.com/watch?v=ZII2R77JWpc",
   "videoTitle": "لماذا تركت الإسلام - الحلقة الأخيرة - الجنة و النار",
@@ -109,7 +109,8 @@
         "targhib-and-tarhib-as-control"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether targhib wa tarhib is a standard category in Islamic homiletic literature and how it is described in classical and modern preaching manuals; the claim is a characterization, not a source citation."
+      "verificationNote": "Check whether targhib wa tarhib is a standard category in Islamic homiletic literature and how it is described in classical and modern preaching manuals; the claim is a characterization, not a source citation.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:18",
@@ -125,7 +126,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the quoted verse on the pious in a secure station among gardens and springs wearing sundus and istabraq and being wedded to hur (Surat al-Dukhan), confirm the wording the speaker recites, and check translations of \"zawwajnahum bi-hurin 'in\"."
+      "verificationNote": "Locate the quoted verse on the pious in a secure station among gardens and springs wearing sundus and istabraq and being wedded to hur (Surat al-Dukhan), confirm the wording the speaker recites, and check translations of \"zawwajnahum bi-hurin 'in\".",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:02:18",
@@ -140,7 +144,8 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the definition of hawra' / hur in the classical Arabic dictionaries (Lisan al-'Arab, Taj al-'Arus) and in the standard tafsirs, and whether whiteness of the body is part of the lexical definition or of exegetical elaboration."
+      "verificationNote": "Check the definition of hawra' / hur in the classical Arabic dictionaries (Lisan al-'Arab, Taj al-'Arus) and in the standard tafsirs, and whether whiteness of the body is part of the lexical definition or of exegetical elaboration.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:02",
@@ -155,7 +160,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compile the Qur'anic passages describing sexual or sensual rewards and assess whether their number and specificity support the characterization; this is an evaluative claim built on the verses cited elsewhere in the video."
+      "verificationNote": "Compile the Qur'anic passages describing sexual or sensual rewards and assess whether their number and specificity support the characterization; this is an evaluative claim built on the verses cited elsewhere in the video.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:02",
@@ -171,7 +177,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the Qur'anic wording \"hurun maqsuratun fi al-khiyam\" and \"fihinna khayratun hisan\" in Surat al-Rahman, and separately locate the hadith on the tent of a single hollowed pearl sixty miles long and the report on the believer circulating among his wives without their seeing one another; the speaker does not name the collection."
+      "verificationNote": "Verify the Qur'anic wording \"hurun maqsuratun fi al-khiyam\" and \"fihinna khayratun hisan\" in Surat al-Rahman, and separately locate the hadith on the tent of a single hollowed pearl sixty miles long and the report on the believer circulating among his wives without their seeing one another; the speaker does not name the collection.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:03:51",
@@ -186,7 +196,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative comparison; an editor should record it as the speaker's rhetorical judgment and check that the underlying textual description he relies on is accurately reported."
+      "verificationNote": "Evaluative comparison; an editor should record it as the speaker's rhetorical judgment and check that the underlying textual description he relies on is accurately reported.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:51",
@@ -202,7 +213,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "An inference from the speaker's reading of the paradise verses; the editor should verify only that the textual description is as reported and note the psychological argument as the speaker's own."
+      "verificationNote": "An inference from the speaker's reading of the paradise verses; the editor should verify only that the textual description is as reported and note the psychological argument as the speaker's own.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:35",
@@ -217,7 +229,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Core inference of the episode: check that it is drawn from the verses the speaker cites and record it as an authorship inference rather than a source-based finding."
+      "verificationNote": "Core inference of the episode: check that it is drawn from the verses the speaker cites and record it as an authorship inference rather than a source-based finding.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:35",
@@ -233,7 +246,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse \"fihinna qasiratu al-tarf lam yatmithhunna insun qablahum wa-la jann\" in Surat al-Rahman and the exegetical gloss the speaker reads out (abkaran 'uruban atraban), identifying which tafsir it comes from."
+      "verificationNote": "Verify the verse \"fihinna qasiratu al-tarf lam yatmithhunna insun qablahum wa-la jann\" in Surat al-Rahman and the exegetical gloss the speaker reads out (abkaran 'uruban atraban), identifying which tafsir it comes from.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:05:20",
@@ -248,7 +265,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse on new creation and virginity in Surat al-Waqi'a and check whether the exegetes apply it to the women of this world, to the hur, or to both."
+      "verificationNote": "Verify the verse on new creation and virginity in Surat al-Waqi'a and check whether the exegetes apply it to the women of this world, to the hur, or to both.",
+      "citationRefs": [
+        "c6"
+      ]
     },
     {
       "timestamp": "00:05:20",
@@ -263,7 +283,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse in Surat Yasin and trace the gloss \"iftidad al-abkar\" to its exegetical sources (e.g. Ibn Kathir, al-Tabari reporting Ibn 'Abbas), noting which authorities give it and which give other meanings."
+      "verificationNote": "Verify the verse in Surat Yasin and trace the gloss \"iftidad al-abkar\" to its exegetical sources (e.g. Ibn Kathir, al-Tabari reporting Ibn 'Abbas), noting which authorities give it and which give other meanings.",
+      "citationRefs": [
+        "c7",
+        "c8"
+      ]
     },
     {
       "timestamp": "00:05:20",
@@ -278,7 +302,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Inference chaining the paradise verses to a psychological profile of the author; verify the underlying citations and record the profile as the speaker's conclusion."
+      "verificationNote": "Inference chaining the paradise verses to a psychological profile of the author; verify the underlying citations and record the profile as the speaker's conclusion.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:06",
@@ -293,7 +318,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith in Sahih al-Bukhari on the Prophet circulating among his wives in one night with nine wives, and confirm the speaker's added remark about concubines is his own gloss rather than part of the text."
+      "verificationNote": "Locate the hadith in Sahih al-Bukhari on the Prophet circulating among his wives in one night with nine wives, and confirm the speaker's added remark about concubines is his own gloss rather than part of the text.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:06:06",
@@ -308,7 +336,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the report of circulating among the wives with one ghusl in Sahih Muslim and compare it with the parallel reports mentioning a washing for each wife."
+      "verificationNote": "Locate the report of circulating among the wives with one ghusl in Sahih Muslim and compare it with the parallel reports mentioning a washing for each wife.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:06:06",
@@ -324,7 +355,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check that the two hadiths on circulating among the wives and the paradise material are both correctly reported before assessing the parallel the speaker draws between them."
+      "verificationNote": "Check that the two hadiths on circulating among the wives and the paradise material are both correctly reported before assessing the parallel the speaker draws between them.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:50",
@@ -340,7 +372,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith on Aisha's age at marriage and consummation in Sahih al-Bukhari with its book and number, and record the reported age of Muhammad at the time from the biographical sources; the moral label is the speaker's."
+      "verificationNote": "Locate the hadith on Aisha's age at marriage and consummation in Sahih al-Bukhari with its book and number, and record the reported age of Muhammad at the time from the biographical sources; the moral label is the speaker's.",
+      "citationRefs": [
+        "c11",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:06:50",
@@ -355,7 +391,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Central authorship inference of the episode; verify the hadith and Qur'anic citations it rests on and record the correspondence as the speaker's argument."
+      "verificationNote": "Central authorship inference of the episode; verify the hadith and Qur'anic citations it rests on and record the correspondence as the speaker's argument.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:35",
@@ -371,7 +408,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check pre-Islamic and early Islamic Arabic poetry and lexicography for the celebration of pale skin and dark eyes as beauty ideals, and whether historians of Arabia support the claim about their rarity."
+      "verificationNote": "Check pre-Islamic and early Islamic Arabic poetry and lexicography for the celebration of pale skin and dark eyes as beauty ideals, and whether historians of Arabia support the claim about their rarity.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:35",
@@ -386,7 +424,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the Qur'anic verses promising pearls, gold bracelets and couches and silver vessels, and check the speaker's economic argument about scarcity pricing as a separate, non-textual step."
+      "verificationNote": "Collect the Qur'anic verses promising pearls, gold bracelets and couches and silver vessels, and check the speaker's economic argument about scarcity pricing as a separate, non-textual step.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:08:20",
@@ -401,7 +442,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Confirm the word khiyam in the verse and record that the speaker's dating remark (\"500 years\") appears to be a slip for a much earlier period; the argument from limited imagery is his inference."
+      "verificationNote": "Confirm the word khiyam in the verse and record that the speaker's dating remark (\"500 years\") appears to be a slip for a much earlier period; the argument from limited imagery is his inference.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:08:20",
@@ -416,7 +460,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording \"fakihatin mimma yatakhayyarun wa-lahmi tayrin mimma yashtahun\" in Surat al-Waqi'a; the historical-availability argument is the speaker's own."
+      "verificationNote": "Verify the wording \"fakihatin mimma yatakhayyarun wa-lahmi tayrin mimma yashtahun\" in Surat al-Waqi'a; the historical-availability argument is the speaker's own.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:09:20",
@@ -431,7 +478,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Confirm the Qur'anic terms sundus and istabraq and their meanings in the dictionaries; the claim about their loss of appeal is an evaluative judgment."
+      "verificationNote": "Confirm the Qur'anic terms sundus and istabraq and their meanings in the dictionaries; the claim about their loss of appeal is an evaluative judgment.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:09:20",
@@ -446,7 +496,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Record as the speaker's moral evaluation; no source is cited for it."
+      "verificationNote": "Record as the speaker's moral evaluation; no source is cited for it.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:00",
@@ -462,7 +513,8 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the Qur'anic and hadith material on hell's gates and its guardian angels and check whether the features the speaker lists are actually described there."
+      "verificationNote": "Collect the Qur'anic and hadith material on hell's gates and its guardian angels and check whether the features the speaker lists are actually described there.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:46",
@@ -480,7 +532,10 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse \"ya ma'shara al-jinni wa-l-insi alam ya'tikum rusulun minkum yaqussuna 'alaykum ayati wa-yundhirunakum liqa'a yawmikum hadha\" (Surat al-An'am) and check how the exegetes explain God's questioning of what he already knows."
+      "verificationNote": "Verify the verse \"ya ma'shara al-jinni wa-l-insi alam ya'tikum rusulun minkum yaqussuna 'alaykum ayati wa-yundhirunakum liqa'a yawmikum hadha\" (Surat al-An'am) and check how the exegetes explain God's questioning of what he already knows.",
+      "citationRefs": [
+        "c15"
+      ]
     },
     {
       "timestamp": "00:11:28",
@@ -496,7 +551,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the individual subjects listed (menstruation rules, child marriage, the striking verse, martyrdom rewards) against the Qur'anic and hadith texts; the summary judgment is the speaker's."
+      "verificationNote": "Check the individual subjects listed (menstruation rules, child marriage, the striking verse, martyrdom rewards) against the Qur'anic and hadith texts; the summary judgment is the speaker's.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:07",
@@ -512,7 +568,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the cave-of-Hira revelation narrative in the sirah and hadith and the Aisha marriage reports; the evidential evaluation is the speaker's."
+      "verificationNote": "Check the cave-of-Hira revelation narrative in the sirah and hadith and the Aisha marriage reports; the evidential evaluation is the speaker's.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:07",
@@ -528,7 +585,8 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Philosophical objection with no source citation; record as the speaker's reasoning."
+      "verificationNote": "Philosophical objection with no source citation; record as the speaker's reasoning.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:46",
@@ -545,7 +603,11 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse \"wa-ji'a yawma'idhin bi-jahannam\" (Surat al-Fajr) and locate the hadith on the seventy thousand reins and angels, identifying the collection and its grading; the speaker does not name it."
+      "verificationNote": "Verify the verse \"wa-ji'a yawma'idhin bi-jahannam\" (Surat al-Fajr) and locate the hadith on the seventy thousand reins and angels, identifying the collection and its grading; the speaker does not name it.",
+      "citationRefs": [
+        "c16",
+        "c17"
+      ]
     },
     {
       "timestamp": "00:13:34",
@@ -563,7 +625,10 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Verify the verse \"ya laytani qaddamtu li-hayati\" (Surat al-Fajr) and check whether the deeds the speaker lists are those the tradition names as saving works; the characterization is polemical."
+      "verificationNote": "Verify the verse \"ya laytani qaddamtu li-hayati\" (Surat al-Fajr) and check whether the deeds the speaker lists are those the tradition names as saving works; the characterization is polemical.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:13:34",
@@ -579,7 +644,11 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether classical and modern Sunni doctrine makes belief the decisive criterion for salvation regardless of works towards others, and record the two named individuals as the speaker's illustration rather than as textual material."
+      "verificationNote": "Check whether classical and modern Sunni doctrine makes belief the decisive criterion for salvation regardless of works towards others, and record the two named individuals as the speaker's illustration rather than as textual material.",
+      "citationRefs": [
+        "c18",
+        "c19"
+      ]
     },
     {
       "timestamp": "00:14:15",
@@ -596,7 +665,10 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording of the passage in Surat al-Haqqa and check whether the stated reason for the punishment in the surrounding verses is confined to unbelief or also includes withholding food from the poor."
+      "verificationNote": "Verify the wording of the passage in Surat al-Haqqa and check whether the stated reason for the punishment in the surrounding verses is confined to unbelief or also includes withholding food from the poor.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:14:15",
@@ -612,7 +684,8 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Collect the occurrences of seventy and seven in the Qur'anic and hadith descriptions of hell and check the claim that the number functions as a formulaic figure."
+      "verificationNote": "Collect the occurrences of seventy and seven in the Qur'anic and hadith descriptions of hell and check the claim that the number functions as a formulaic figure.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:15",
@@ -629,7 +702,10 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse in Surat al-A'raf and check the exegetical explanations of \"li-kullin di'f\" — whether it is read as doubling the punishment of both parties or as something else."
+      "verificationNote": "Verify the verse in Surat al-A'raf and check the exegetical explanations of \"li-kullin di'f\" — whether it is read as doubling the punishment of both parties or as something else.",
+      "citationRefs": [
+        "c21"
+      ]
     },
     {
       "timestamp": "00:15:44",
@@ -646,7 +722,10 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse in Surat al-Sajda and survey how the theological schools reconciled it with human responsibility; note the transcript renders the speaker's phrasing awkwardly."
+      "verificationNote": "Verify the verse in Surat al-Sajda and survey how the theological schools reconciled it with human responsibility; note the transcript renders the speaker's phrasing awkwardly.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:15:44",
@@ -663,7 +742,11 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith of the dispute between paradise and hell and the placing of the foot (the speaker names no collection), verify the wording \"hal min mazid\" and \"qat qat\", and check the Qur'anic verse on hell being asked whether it is full."
+      "verificationNote": "Locate the hadith of the dispute between paradise and hell and the placing of the foot (the speaker names no collection), verify the wording \"hal min mazid\" and \"qat qat\", and check the Qur'anic verse on hell being asked whether it is full.",
+      "citationRefs": [
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:16:30",
@@ -678,7 +761,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the verses cited in apologetics as the text's self-attestation and record the circularity objection as the speaker's argument."
+      "verificationNote": "Check the verses cited in apologetics as the text's self-attestation and record the circularity objection as the speaker's argument.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:16",
@@ -695,7 +779,8 @@
         "targhib-and-tarhib-as-control"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Summary authorship inference; verify only that the preceding citations it rests on are accurately reported."
+      "verificationNote": "Summary authorship inference; verify only that the preceding citations it rests on are accurately reported.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:17:16",
@@ -711,7 +796,8 @@
         "divine-justice-moral-objections"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether Sunni doctrine makes faith the sole condition of salvation and how it treats the moral works of unbelievers; the criminality label is the speaker's."
+      "verificationNote": "Check whether Sunni doctrine makes faith the sole condition of salvation and how it treats the moral works of unbelievers; the criminality label is the speaker's.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:03",
@@ -728,7 +814,8 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluative reading of the punishment verses; record as the speaker's characterization."
+      "verificationNote": "Evaluative reading of the punishment verses; record as the speaker's characterization.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:03",
@@ -744,7 +831,8 @@
         "targhib-and-tarhib-as-control"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check comparative studies on afterlife doctrines as instruments of social control and on the antiquity of heaven-and-hell schemes in earlier religions; the speaker gives no source."
+      "verificationNote": "Check comparative studies on afterlife doctrines as instruments of social control and on the antiquity of heaven-and-hell schemes in earlier religions; the speaker gives no source.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:03",
@@ -760,7 +848,8 @@
         "targhib-and-tarhib-as-control"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Rhetorical formulation of the control thesis; record as the speaker's argument with no source attached."
+      "verificationNote": "Rhetorical formulation of the control thesis; record as the speaker's argument with no source attached.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:49",
@@ -777,7 +866,8 @@
         "hell-and-punishment-narratives"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check that the lake of sulfur belongs to the Christian apocalyptic imagery and the tree of zaqqum to the Qur'anic; the geographical-distribution argument is the speaker's own inference."
+      "verificationNote": "Check that the lake of sulfur belongs to the Christian apocalyptic imagery and the tree of zaqqum to the Qur'anic; the geographical-distribution argument is the speaker's own inference.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:32",
@@ -788,7 +878,8 @@
       "existingTopicIds": [],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Closing safety advice to the audience; no source and no bearing on the premise, recorded only for completeness."
+      "verificationNote": "Closing safety advice to the audience; no source and no bearing on the premise, recorded only for completeness.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -798,7 +889,8 @@
       "asStatedInVideo": "آية اللي بتقول إن المتقين في مقام آمنين في جنات وعيون يلبسون من سندس وإستبرق متقابلين كذلك وزوجناهم بحور نعيم",
       "workTitle": "القرآن",
       "quotedArabic": "إن المتقين في مقام أمين، في جنات وعيون، يلبسون من سندس وإستبرق متقابلين، كذلك وزوجناهم بحور عين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -806,14 +898,16 @@
       "asStatedInVideo": "الآية اللي بتقول فيهن خيرات حسان حور مقصورات في الخيام",
       "workTitle": "القرآن",
       "quotedArabic": "فيهن خيرات حسان ... حور مقصورات في الخيام",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:03:02",
       "asStatedInVideo": "في الجنة في خيمة طولها ستون ميلا مصنوعة من لؤلؤ ... يطوف عليهم المؤمنون فلا يرى بعضهم بعضا",
       "quotedArabic": "يطوف عليهم المؤمنون فلا يرى بعضهم بعضا",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -821,14 +915,16 @@
       "asStatedInVideo": "الآية التي تقول فيهن قاصرات الطرف لم يطمثهن إنس قبلهم ولا جان",
       "workTitle": "القرآن",
       "quotedArabic": "فيهن قاصرات الطرف لم يطمثهن إنس قبلهم ولا جان",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "book",
       "timestamp": "00:04:35",
       "asStatedInVideo": "أي بل هن النساء بالجنة أبكارا عربا أترابا لم يطأهن أحد قبل أزواجهن من الإنس ولا الجن",
       "quotedArabic": "أبكارا عربا أترابا لم يطأهن أحد قبل أزواجهن من الإنس ولا الجن",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -836,7 +932,8 @@
       "asStatedInVideo": "أنشأناهن إنشاءا ... فجعلناهن أبكارا",
       "workTitle": "القرآن",
       "quotedArabic": "إنا أنشأناهن إنشاء فجعلناهن أبكارا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "quran",
@@ -844,14 +941,16 @@
       "asStatedInVideo": "آية ثانية إن أصحاب الجنة اليوم في شغل فاكهون",
       "workTitle": "القرآن",
       "quotedArabic": "إن أصحاب الجنة اليوم في شغل فاكهون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
       "timestamp": "00:05:20",
       "asStatedInVideo": "شيخي تلفز ... يقول إنه فيه شغل في افتضاض الأبكار",
       "quotedArabic": "في شغل: افتضاض الأبكار",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c8"
     },
     {
       "citationType": "hadith",
@@ -859,7 +958,8 @@
       "asStatedInVideo": "نقرأ بصحيح بخاري إن النبي صلى الله عليه وسلم كان يطوف على نسائه في ليلة واحدة وله تسع نسوة",
       "workTitle": "صحيح البخاري",
       "quotedArabic": "كان النبي صلى الله عليه وسلم يطوف على نسائه في الليلة الواحدة وله تسع نسوة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "hadith",
@@ -867,7 +967,8 @@
       "asStatedInVideo": "بحديث آخر عن المسلم أن النبي صلى الله عليه وسلم كان يطوف على نسائه بغسل واحد",
       "workTitle": "صحيح مسلم",
       "quotedArabic": "كان يطوف على نسائه بغسل واحد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "hadith",
@@ -875,19 +976,22 @@
       "asStatedInVideo": "نقرأ كمان بصحيح البخاري تزوج النبي صلى الله عليه وسلم عائشة وهي بنت ست سنين وبنى بها وهي بنت تسع",
       "workTitle": "صحيح البخاري",
       "quotedArabic": "تزوج النبي صلى الله عليه وسلم عائشة وهي بنت ست سنين وبنى بها وهي بنت تسع",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:50",
       "asStatedInVideo": "عائشة، تزوجها النبي وهي بنت ست سنين",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
       "timestamp": "00:06:06",
       "asStatedInVideo": "شخصية الرسول ... محمد، اللي أنا بيوم من الأيام كنت معتبره خير المرسلين",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -895,7 +999,8 @@
       "asStatedInVideo": "آية فاكهتهم مما يتخيرون ولحم طيرهم مما يشتهون",
       "workTitle": "القرآن",
       "quotedArabic": "وفاكهة مما يتخيرون ولحم طير مما يشتهون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "quran",
@@ -903,7 +1008,8 @@
       "asStatedInVideo": "الآية بتقول يا معشر الجن والإنس ألم يأتكم رسل منكم يقصون عليكم آياتي وينذرونكم لقاء يومكم هذا",
       "workTitle": "القرآن",
       "quotedArabic": "يا معشر الجن والإنس ألم يأتكم رسل منكم يقصون عليكم آياتي وينذرونكم لقاء يومكم هذا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "quran",
@@ -911,26 +1017,30 @@
       "asStatedInVideo": "آية اللي بتقول وجيء يومئذ بجهنم يومئذ يتذكر الإنسان وأنى له الذكرى يقول يا ليتني قدمت لحياتي",
       "workTitle": "القرآن",
       "quotedArabic": "وجيء يومئذ بجهنم، يومئذ يتذكر الإنسان وأنى له الذكرى، يقول يا ليتني قدمت لحياتي",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:12:46",
       "asStatedInVideo": "إنها جهنم يؤتى بها لها سبعون ألف زمام مع كل زمام سبعون ألف ملك يجرونها جرا",
       "quotedArabic": "يؤتى بجهنم لها سبعون ألف زمام مع كل زمام سبعون ألف ملك يجرونها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c17"
     },
     {
       "citationType": "person",
       "timestamp": "00:13:34",
       "asStatedInVideo": "شخص مثل أبو بكر البغدادي في جنان الخلد رايح الجنة 100%",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
       "timestamp": "00:13:34",
       "asStatedInVideo": "شخص مثل ستيفن هوكينغز ما في نقاش أنه هو بجهنم",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -938,7 +1048,8 @@
       "asStatedInVideo": "خذوه فغلوه ثم الجحيم صلوه ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه إنه كان لا يؤمن بالله العظيم",
       "workTitle": "القرآن",
       "quotedArabic": "خذوه فغلوه ثم الجحيم صلوه ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه إنه كان لا يؤمن بالله العظيم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -946,7 +1057,8 @@
       "asStatedInVideo": "آية تانية ... كلما دخلت أمة لعنت أختها حتى إذا اداركوا فيها جميعا قالت أخراها لأولاها ربنا هؤلاء أضلونا فآتهم عذابا ضعفا من النار قال لكل ضعف ولكن لا تعلمون",
       "workTitle": "القرآن",
       "quotedArabic": "كلما دخلت أمة لعنت أختها حتى إذا اداركوا فيها جميعا قالت أخراهم لأولاهم ربنا هؤلاء أضلونا فآتهم عذابا ضعفا من النار، قال لكل ضعف ولكن لا تعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -954,21 +1066,24 @@
       "asStatedInVideo": "ولو شئنا لآتينا كل نفس هداها ولكن حق القول مني لأملأن جهنم من الجنة والناس أجمعين",
       "workTitle": "القرآن",
       "quotedArabic": "ولو شئنا لآتينا كل نفس هداها ولكن حق القول مني لأملأن جهنم من الجنة والناس أجمعين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:15:44",
       "asStatedInVideo": "برواية تانية اختصمت الجنة والنار فقالت الجنة ... ما لي لا يدخلني إلا ضعفاء الناس وسقطهم وعجزهم فقال الله للجنة أنت رحمتي أرحم بك من أشاء من عبادي وقال للنار أنت عذابي أعذب بك من أشاء من عبادي ولكل واحدة منكم ملؤها",
       "quotedArabic": "أنت رحمتي أرحم بك من أشاء من عبادي ... أنت عذابي أعذب بك من أشاء من عبادي ولكل واحدة منكما ملؤها",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c23"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:16:30",
       "asStatedInVideo": "فيضع قدمه عليها فتقول جهنم قط قط ... بتقول هل من مزيد",
       "quotedArabic": "هل من مزيد ... قط قط",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c24"
     }
   ],
   "topicProposals": [

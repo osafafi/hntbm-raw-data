@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "6Fewib-ZrZY",
   "videoUrl": "https://www.youtube.com/watch?v=6Fewib-ZrZY",
   "videoTitle": "خرافة الجن وتفسير حالات اللبس",
@@ -114,7 +114,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Assyriological literature on Pazuzu: its dating, iconography (canine or leonine head), colour associations, and its association with the netherworld, and whether specialists describe it as Sumerian or Akkadian/Assyrian."
+      "verificationNote": "Check Assyriological literature on Pazuzu: its dating, iconography (canine or leonine head), colour associations, and its association with the netherworld, and whether specialists describe it as Sumerian or Akkadian/Assyrian.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:00:08",
@@ -131,7 +134,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Babylonian demon class the speaker names (the transcript renders it as 'al-qutuku'; possibly gallû or utukku) and verify whether Mesopotamian sources locate such beings in graves and unclean places. The transcript is garbled at this point."
+      "verificationNote": "Identify the Babylonian demon class the speaker names (the transcript renders it as 'al-qutuku'; possibly gallû or utukku) and verify whether Mesopotamian sources locate such beings in graves and unclean places. The transcript is garbled at this point.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:00:53",
@@ -149,7 +155,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Palmyrene Aramaic epigraphy and dedications to the ginnaye, and the etymological literature deriving Arabic jinn from that Aramaic term rather than from an Arabic root j-n-n meaning concealment."
+      "verificationNote": "Check Palmyrene Aramaic epigraphy and dedications to the ginnaye, and the etymological literature deriving Arabic jinn from that Aramaic term rather than from an Arabic root j-n-n meaning concealment.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:00:53",
@@ -167,7 +176,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify pre-Islamic Arabian attestation of jinn belief in poetry, inscriptions and early sources, and compare with the Qur'anic and hadith treatment of jinn as an existing category rather than a new doctrine."
+      "verificationNote": "Verify pre-Islamic Arabian attestation of jinn belief in poetry, inscriptions and early sources, and compare with the Qur'anic and hadith treatment of jinn as an existing category rather than a new doctrine.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:01:34",
@@ -184,7 +196,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare descriptions of jinn habitats and shapeshifting in pre-Islamic material with the descriptions in the Qur'an and in hadith collections, to test the claim of continuity."
+      "verificationNote": "Compare descriptions of jinn habitats and shapeshifting in pre-Islamic material with the descriptions in the Qur'an and in hadith collections, to test the claim of continuity.",
+      "citationRefs": [
+        "c4"
+      ]
     },
     {
       "timestamp": "00:01:34",
@@ -200,7 +215,8 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the hadith and fiqh material on jinn inhabiting lavatories and waste places (e.g. the supplication on entering the toilet) and how classical scholars reconcile immaterial beings with material locations."
+      "verificationNote": "Check the hadith and fiqh material on jinn inhabiting lavatories and waste places (e.g. the supplication on entering the toilet) and how classical scholars reconcile immaterial beings with material locations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:22",
@@ -216,7 +232,8 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess as an interpretive claim about folk reasoning; check whether the colour associations the speaker describes are documented in pre-Islamic and early Islamic material."
+      "verificationNote": "Assess as an interpretive claim about folk reasoning; check whether the colour associations the speaker describes are documented in pre-Islamic and early Islamic material.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:22",
@@ -233,7 +250,11 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the hadith on the pure black dog being a devil (reported in Sahih Muslim in the chapter on what invalidates prayer) and record the exact wording, collection and locator; the speaker gives no collection."
+      "verificationNote": "Locate the hadith on the pure black dog being a devil (reported in Sahih Muslim in the chapter on what invalidates prayer) and record the exact wording, collection and locator; the speaker gives no collection.",
+      "citationRefs": [
+        "c5",
+        "c6"
+      ]
     },
     {
       "timestamp": "00:02:22",
@@ -249,7 +270,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check dream-interpretation and ruqya literature for the colour associations cited, and verify the preacher clip quoted about black-coloured apparitions indicating a devil."
+      "verificationNote": "Check dream-interpretation and ruqya literature for the colour associations cited, and verify the preacher clip quoted about black-coloured apparitions indicating a devil.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:02",
@@ -266,7 +290,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check anthropological literature on the cultural distribution of possession attribution and whether bathroom-jinn attribution is specific to Muslim-majority societies."
+      "verificationNote": "Check anthropological literature on the cultural distribution of possession attribution and whether bathroom-jinn attribution is specific to Muslim-majority societies.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:45",
@@ -282,7 +307,8 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive; check popular ruqya literature and televised exorcism material for the gender of the jinn typically reported and for the gendered imagery the speaker describes."
+      "verificationNote": "Interpretive; check popular ruqya literature and televised exorcism material for the gender of the jinn typically reported and for the gendered imagery the speaker describes.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:03:45",
@@ -298,7 +324,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the historical literature on Arabic occult manuals and their claimed chains of transmission for the summoning procedures the speaker describes."
+      "verificationNote": "Check the historical literature on Arabic occult manuals and their claimed chains of transmission for the summoning procedures the speaker describes.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:05:15",
@@ -314,7 +341,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive ridicule of the mechanism; check whether classical or popular texts on sihr address compulsion of jinn and by what rationale."
+      "verificationNote": "Interpretive ridicule of the mechanism; check whether classical or popular texts on sihr address compulsion of jinn and by what rationale.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:43",
@@ -330,7 +358,10 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the study of possession-disorder patients in a Chinese psychiatric hospital; the speaker names no authors, journal or year, and the diagnostic label is cut off in the transcript."
+      "verificationNote": "Identify the study of possession-disorder patients in a Chinese psychiatric hospital; the speaker names no authors, journal or year, and the diagnostic label is cut off in the transcript.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:07:29",
@@ -346,7 +377,10 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Verify the percentages against the original study, and check the Chinese folk category of spirit possession by the dead that the transcript renders as 'al-kwaifu'."
+      "verificationNote": "Verify the percentages against the original study, and check the Chinese folk category of spirit possession by the dead that the transcript renders as 'al-kwaifu'.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:08:14",
@@ -362,7 +396,10 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the DSM-5 entry on dissociative identity disorder and possession-form presentations and its statements on cultural shaping of symptoms; confirm the manual says what the speaker attributes to it."
+      "verificationNote": "Check the DSM-5 entry on dissociative identity disorder and possession-form presentations and its statements on cultural shaping of symptoms; confirm the manual says what the speaker attributes to it.",
+      "citationRefs": [
+        "c10"
+      ]
     },
     {
       "timestamp": "00:09:02",
@@ -378,7 +415,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check clinical and anthropological literature on culture-specific triggers in possession presentations, and whether the pattern the speaker describes is documented."
+      "verificationNote": "Check clinical and anthropological literature on culture-specific triggers in possession presentations, and whether the pattern the speaker describes is documented.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:09:02",
@@ -394,7 +432,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether the clinical literature supports an age floor for possession-form dissociative presentations and the developmental explanation the speaker gives."
+      "verificationNote": "Check whether the clinical literature supports an age floor for possession-form dissociative presentations and the developmental explanation the speaker gives.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:35",
@@ -410,7 +449,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Presented as a thought-experiment, not a reported experiment; check whether any cross-cultural trial of ritual triggers has actually been conducted."
+      "verificationNote": "Presented as a thought-experiment, not a reported experiment; check whether any cross-cultural trial of ritual triggers has actually been conducted.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:21",
@@ -426,7 +466,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Thought-experiment; check whether ruqya practitioners claim the Qur'an works irrespective of language, voice and the patient's awareness, since the claim tests that assertion."
+      "verificationNote": "Thought-experiment; check whether ruqya practitioners claim the Qur'an works irrespective of language, voice and the patient's awareness, since the claim tests that assertion.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:21",
@@ -442,7 +483,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check standard clinical guidance on treating possession-form dissociative presentations and whether it matches the two-track description given."
+      "verificationNote": "Check standard clinical guidance on treating possession-form dissociative presentations and whether it matches the two-track description given.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:53",
@@ -458,7 +500,10 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the 1967 documentary and the psychiatric institute named (transcript renders it as 'ma'had ghush fikul'), and confirm the clip's provenance and the diagnosis shown."
+      "verificationNote": "Identify the 1967 documentary and the psychiatric institute named (transcript renders it as 'ma'had ghush fikul'), and confirm the clip's provenance and the diagnosis shown.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:12:53",
@@ -474,7 +519,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the clinical description of the condition historically labelled hysteria (now conversion/dissociative disorders) against the symptoms listed."
+      "verificationNote": "Check the clinical description of the condition historically labelled hysteria (now conversion/dissociative disorders) against the symptoms listed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:42",
@@ -490,7 +536,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check neurological literature on temporal lobe epilepsy for the described symptoms, including amnesic automatisms and hallucinations."
+      "verificationNote": "Check neurological literature on temporal lobe epilepsy for the described symptoms, including amnesic automatisms and hallucinations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:24",
@@ -506,7 +553,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether hierophobia is a recognised clinical category and whether the neurological and trauma-based aetiology described is supported."
+      "verificationNote": "Check whether hierophobia is a recognised clinical category and whether the neurological and trauma-based aetiology described is supported.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:01",
@@ -522,7 +570,10 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive charge about televised exorcism programming; check documented cases of such programmes and any regulatory or medical criticism of them."
+      "verificationNote": "Interpretive charge about televised exorcism programming; check documented cases of such programmes and any regulatory or medical criticism of them.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:17:00",
@@ -538,7 +589,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check epidemiological and mental-health-literacy data for Arab countries on the recognition and reporting of psychotic and dissociative disorders versus possession attribution."
+      "verificationNote": "Check epidemiological and mental-health-literacy data for Arab countries on the recognition and reporting of psychotic and dissociative disorders versus possession attribution.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:03",
@@ -554,7 +606,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check ethnographic descriptions of Japanese, Thai, Christian and Islamic exorcism practice and whether the structural parallel the speaker draws is documented."
+      "verificationNote": "Check ethnographic descriptions of Japanese, Thai, Christian and Islamic exorcism practice and whether the structural parallel the speaker draws is documented.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:02",
@@ -570,7 +623,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check documented ruqya practice for the variety of methods described, including reports of beating during exorcism and any resulting harm."
+      "verificationNote": "Check documented ruqya practice for the variety of methods described, including reports of beating during exorcism and any resulting harm.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:38",
@@ -586,7 +640,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "The percentages are the speaker's own estimate with no source; note this and check whether any of the specific story types cited have documented origins."
+      "verificationNote": "The percentages are the speaker's own estimate with no source; note this and check whether any of the specific story types cited have documented origins.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:58",
@@ -600,7 +655,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the fiqh discussion of permissible lying (e.g. the hadith on lying in war, reconciliation and between spouses) and whether any school extends it to strengthening faith through fabricated edifying stories; also the classical debate over al-targhib wa-l-tarhib with weak hadith."
+      "verificationNote": "Check the fiqh discussion of permissible lying (e.g. the hadith on lying in war, reconciliation and between spouses) and whether any school extends it to strengthening faith through fabricated edifying stories; also the classical debate over al-targhib wa-l-tarhib with weak hadith.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:20:58",
@@ -616,7 +672,10 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check the reputation and content of Kitab Shams al-Ma'arif (attributed to al-Buni) and the popular claims made about it; the speaker gives no author."
+      "verificationNote": "Check the reputation and content of Kitab Shams al-Ma'arif (attributed to al-Buni) and the popular claims made about it; the speaker gives no author.",
+      "citationRefs": [
+        "c13"
+      ]
     },
     {
       "timestamp": "00:21:43",
@@ -632,7 +691,8 @@
         "jinn-and-spirit-beings"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive argument from non-use; note that the speaker anticipates and dismisses the reply that magic is forbidden in Islam."
+      "verificationNote": "Interpretive argument from non-use; note that the speaker anticipates and dismisses the reply that magic is forbidden in Islam.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:22:54",
@@ -648,7 +708,8 @@
         "possession-exorcism-and-mental-illness"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Interpretive social explanation; check research on the correlation between deprivation, uncertainty and recourse to ritual healing."
+      "verificationNote": "Interpretive social explanation; check research on the correlation between deprivation, uncertainty and recourse to ritual healing.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -659,7 +720,8 @@
       "workTitle": "Pazuzu / البازوزو (Sumerian belief as described)",
       "locator": "c. 3000 years ago",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c1"
     },
     {
       "citationType": "event",
@@ -667,7 +729,8 @@
       "asStatedInVideo": "ناس يسمّوا البابليين يؤمنوا بخرافة ثانية، كائنات اسمها (القتوكو) تعيش في المقابر وفي المقابر غير النظيفة",
       "workTitle": "Babylonian grave-dwelling beings as named in the video",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c2"
     },
     {
       "citationType": "event",
@@ -675,45 +738,52 @@
       "asStatedInVideo": "أهل مدينة تدمر كانوا يؤمنون بكائنات اسمها الجناية تعيش في الصحراء وممكن تتهيأ على شكل بشر، ومنها انشقت كلمة جن",
       "workTitle": "The ginnaye of Palmyra (Tadmur)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "event",
       "timestamp": "00:01:34",
       "asStatedInVideo": "العرب والبدو في شبه الجزيرة العربية من آلاف السنين من قبل حتى المعتقد الإسلامي نفسه ما يظهر كانوا يؤمنون أن الجن يعيش في المقابر والجبال والصحراء",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:02:22",
       "asStatedInVideo": "قال النبي عليه السلام، قال في الحديث أيضاً: الكلب الأسود البهيم شيطان — لا يذكر المتحدث المصدر ولا رقم الحديث",
       "quotedArabic": "الكلب الأسود البهيم شيطان",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "hadith",
       "timestamp": "00:02:22",
       "asStatedInVideo": "مقطع لشيخ يقول: القطة السوداء والكلب الأسود... أنتم كرام إنما هو شيطان",
       "quotedArabic": "القطة الأسود والكلب الأسود انتم كرام إنما هو شيطان",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c6"
     },
     {
       "citationType": "person",
       "timestamp": "00:03:02",
       "asStatedInVideo": "مقطع لشيخ: كل ما ينشكل بهذا اللون الأسود في الغالب ما يدل على شيطان من الشياطين فعليكم الرقية الشرعية — المتحدث غير مسمّى",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c7"
     },
     {
       "citationType": "event",
       "timestamp": "00:06:43",
       "asStatedInVideo": "دراسة علمية قام بها مجموعة من علماء النفس على مجموعة أشخاص كانوا في مستشفى أمراض عقلية في الصين — بدون ذكر الباحثين أو سنة النشر",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c8"
     },
     {
       "citationType": "event",
       "timestamp": "00:07:29",
       "asStatedInVideo": "45% مؤمنين أن هم ملبوسين بروح ناس ميتة أو ما يسمى بالكوايفو وده أشهر أنواع اللبس في الصين، و25% بآلهة صينية شريرة، و20% بحيوان، و10% بشيطان",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "book",
@@ -722,28 +792,32 @@
       "workTitle": "DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5th ed.)",
       "locator": "possession disorder entry (no page given)",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "event",
       "timestamp": "00:12:53",
       "asStatedInVideo": "مقطع من فيلم وثائقي طبي لسنة 1967 من معهد (غوش فيكول) للطب النفسي، يوضح حالة مريضة عندها مرض عقلي اسمه الهستيريا — اسم المعهد غير واضح في النطق",
       "locator": "1967",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "person",
       "timestamp": "00:17:00",
       "asStatedInVideo": "مقطع تلفزيوني: «أنا بخنق الجن» ومخاطبة «يا دكتور عبدالله» — دون تعريف بالشخص",
       "author": "دكتور عبدالله (as named in an inserted clip)",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c12"
     },
     {
       "citationType": "book",
       "timestamp": "00:20:58",
       "asStatedInVideo": "مفيش كتب غامضة الناس بتموت أول ما بتقراها، ده كتاب شمس المعارف أهو — دون ذكر المؤلف",
       "workTitle": "شمس المعارف / Shams al-Ma'arif",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     }
   ],
   "topicProposals": [

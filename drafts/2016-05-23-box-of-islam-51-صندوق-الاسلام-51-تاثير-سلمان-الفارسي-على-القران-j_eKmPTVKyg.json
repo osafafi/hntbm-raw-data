@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "j_eKmPTVKyg",
   "videoUrl": "https://www.youtube.com/watch?v=j_eKmPTVKyg",
   "videoTitle": "Box of islam 51 . صندوق الإسلام 51 : تأثير سلمان الفارسي على القران",
@@ -138,7 +138,13 @@
         "sirah-formative-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether the classical sources themselves attribute doctrinal or narrative content in Islam to named companions rather than to revelation, and how this framing differs from the traditional account."
+      "verificationNote": "Check whether the classical sources themselves attribute doctrinal or narrative content in Islam to named companions rather than to revelation, and how this framing differs from the traditional account.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:00:54",
@@ -155,7 +161,13 @@
         "sirah-formative-figures"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the scholarship on Umar's legislative innovations, Mu'awiya's transformation of the caliphate, and Abd al-Malik's religious and epigraphic programme, and whether each is credibly described as reshaping Islam."
+      "verificationNote": "Check the scholarship on Umar's legislative innovations, Mu'awiya's transformation of the caliphate, and Abd al-Malik's religious and epigraphic programme, and whether each is credibly described as reshaping Islam.",
+      "citationRefs": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ]
     },
     {
       "timestamp": "00:00:54",
@@ -171,7 +183,10 @@
         "sirah-formative-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Survey the entries for Salman al-Farisi in the major companion dictionaries and measure how much biographical detail they actually carry compared with other prominent companions."
+      "verificationNote": "Survey the entries for Salman al-Farisi in the major companion dictionaries and measure how much biographical detail they actually carry compared with other prominent companions.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:39",
@@ -187,7 +202,10 @@
         "sirah-formative-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sirah and maghazi sources for the attribution of the trench to Salman, and whether they present it as an imported Persian military practice."
+      "verificationNote": "Check the sirah and maghazi sources for the attribution of the trench to Salman, and whether they present it as an imported Persian military practice.",
+      "citationRefs": [
+        "c5"
+      ]
     },
     {
       "timestamp": "00:02:26",
@@ -203,7 +221,14 @@
         "sirah-formative-figures"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the length and detail of entries for Waraqa b. Nawfal and Salman al-Farisi against comparable companions in al-Isaba, Ansab al-Ashraf and Tabaqat Ibn Sa'd to test whether the asymmetry the speaker describes exists."
+      "verificationNote": "Compare the length and detail of entries for Waraqa b. Nawfal and Salman al-Farisi against comparable companions in al-Isaba, Ansab al-Ashraf and Tabaqat Ibn Sa'd to test whether the asymmetry the speaker describes exists.",
+      "citationRefs": [
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:03:11",
@@ -220,7 +245,12 @@
         "sirah-formative-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate this report in Siyar A'lam al-Nubala' and its parallels, and check the wording, the isnad to Ibn Abbas, and whether the phrase describes a cultic office or merely household devotion."
+      "verificationNote": "Locate this report in Siyar A'lam al-Nubala' and its parallels, and check the wording, the isnad to Ibn Abbas, and whether the phrase describes a cultic office or merely household devotion.",
+      "citationRefs": [
+        "c11",
+        "c12",
+        "c13"
+      ]
     },
     {
       "timestamp": "00:03:56",
@@ -236,7 +266,10 @@
         "sirah-formative-figures"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check studies of Zoroastrian fire-temple personnel on whether the tender of the sacred fire held priestly rank, and whether the Arabic report supports that identification."
+      "verificationNote": "Check studies of Zoroastrian fire-temple personnel on whether the tender of the sacred fire held priestly rank, and whether the Arabic report supports that identification.",
+      "citationRefs": [
+        "c11"
+      ]
     },
     {
       "timestamp": "00:04:44",
@@ -250,7 +283,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian studies on the herbad/mobed/dastur hierarchy and on memorization requirements for the Avesta, and whether they apply to a fire-keeper of Salman's described position."
+      "verificationNote": "Check Zoroastrian studies on the herbad/mobed/dastur hierarchy and on memorization requirements for the Avesta, and whether they apply to a fire-keeper of Salman's described position.",
+      "citationRefs": [
+        "c14"
+      ]
     },
     {
       "timestamp": "00:05:30",
@@ -267,7 +303,11 @@
         "sirah-formative-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Find this report in al-Isaba and its earlier sources, verify the exact wording attributed to Aisha, and assess its chain."
+      "verificationNote": "Find this report in al-Isaba and its earlier sources, verify the exact wording attributed to Aisha, and assess its chain.",
+      "citationRefs": [
+        "c15",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:06:15",
@@ -283,7 +323,11 @@
         "sirah-formative-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether any early source describes the content of Salman's conversations with Muhammad, and whether the silence is as complete as the speaker asserts."
+      "verificationNote": "Check whether any early source describes the content of Salman's conversations with Muhammad, and whether the silence is as complete as the speaker asserts.",
+      "citationRefs": [
+        "c15",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:06:15",
@@ -300,7 +344,8 @@
         "sirah-formative-figures"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the conversion narrative of Salman in the sirah and companion literature for the Christian stage, and what 'Nasrani' denotes there."
+      "verificationNote": "Check the conversion narrative of Salman in the sirah and companion literature for the Christian stage, and what 'Nasrani' denotes there.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:07:01",
@@ -318,7 +363,11 @@
         "sirah-formative-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check whether any early report attributes Qur'anic or ritual content to Salman, and how the accusation in Q 16:103 about a human teacher has been discussed in relation to him."
+      "verificationNote": "Check whether any early report attributes Qur'anic or ritual content to Salman, and how the accusation in Q 16:103 about a human teacher has been discussed in relation to him.",
+      "citationRefs": [
+        "c15",
+        "c16"
+      ]
     },
     {
       "timestamp": "00:07:46",
@@ -334,7 +383,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Abraham material in Midrash Rabbah and the clay-bird episode in the Infancy Gospel of Thomas with the corresponding Qur'anic passages."
+      "verificationNote": "Compare the Abraham material in Midrash Rabbah and the clay-bird episode in the Infancy Gospel of Thomas with the corresponding Qur'anic passages.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:07:46",
@@ -348,7 +401,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check how far Zoroastrianism is classified as monotheistic in the scholarship, and whether the dualism of Ahura Mazda and Angra Mainyu qualifies the claim."
+      "verificationNote": "Check how far Zoroastrianism is classified as monotheistic in the scholarship, and whether the dualism of Ahura Mazda and Angra Mainyu qualifies the claim.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:08:31",
@@ -364,7 +420,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Avestan text the speaker is paraphrasing, check the translation he is using, and compare its formulas with Q 2:255 point by point."
+      "verificationNote": "Locate the Avestan text the speaker is paraphrasing, check the translation he is using, and compare its formulas with Q 2:255 point by point.",
+      "citationRefs": [
+        "c20",
+        "c21"
+      ]
     },
     {
       "timestamp": "00:09:19",
@@ -378,7 +438,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian gah divisions of the day against the five Islamic prayer times, including whether the boundaries match as closely as claimed."
+      "verificationNote": "Check the Zoroastrian gah divisions of the day against the five Islamic prayer times, including whether the boundaries match as closely as claimed.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:10:07",
@@ -392,7 +453,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Zoroastrian padyab ritual purification with the ablution prescribed in Q 5:6 and its exegesis."
+      "verificationNote": "Compare the Zoroastrian padyab ritual purification with the ablution prescribed in Q 5:6 and its exegesis.",
+      "citationRefs": [
+        "c22"
+      ]
     },
     {
       "timestamp": "00:11:50",
@@ -408,7 +472,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian law on plural marriage and the status of the padshah-zan (chief wife), and whether the comparison with the four-wife limit and with concubinage holds."
+      "verificationNote": "Check Zoroastrian law on plural marriage and the status of the padshah-zan (chief wife), and whether the comparison with the four-wife limit and with concubinage holds.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:12:35",
@@ -422,7 +489,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian eschatology on the fate of the soul after death and the general resurrection (frashokereti), and compare with the Islamic account."
+      "verificationNote": "Check Zoroastrian eschatology on the fate of the soul after death and the general resurrection (frashokereti), and compare with the Islamic account.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:13:26",
@@ -436,7 +504,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Locate the Zoroastrian resurrection passage the speaker paraphrases and check the three-element formulation and the role of deeds."
+      "verificationNote": "Locate the Zoroastrian resurrection passage the speaker paraphrases and check the three-element formulation and the role of deeds.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:14:16",
@@ -451,7 +520,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Compare the Zoroastrian judgment passage with Q 7:44-50 and check whether the mutual-sight and three-day motifs are actually present in the Zoroastrian text."
+      "verificationNote": "Compare the Zoroastrian judgment passage with Q 7:44-50 and check whether the mutual-sight and three-day motifs are actually present in the Zoroastrian text.",
+      "citationRefs": [
+        "c24"
+      ]
     },
     {
       "timestamp": "00:14:16",
@@ -466,7 +538,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the Qur'anic wording and locations of these two phrases and check whether comparable separation and regret formulas appear in Zoroastrian eschatological texts."
+      "verificationNote": "Verify the Qur'anic wording and locations of these two phrases and check whether comparable separation and regret formulas appear in Zoroastrian eschatological texts.",
+      "citationRefs": [
+        "c25",
+        "c26"
+      ]
     },
     {
       "timestamp": "00:15:51",
@@ -481,7 +557,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check whether post-mortem punishment before resurrection is genuinely absent from other traditions, and where the Islamic doctrine of 'adhab al-qabr is grounded in hadith rather than Qur'an."
+      "verificationNote": "Check whether post-mortem punishment before resurrection is genuinely absent from other traditions, and where the Islamic doctrine of 'adhab al-qabr is grounded in hadith rather than Qur'an.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:51",
@@ -496,7 +573,8 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Zoroastrian daena figure that meets the soul after death and the grave-punishment reports in hadith collections, and compare the imagery."
+      "verificationNote": "Check the Zoroastrian daena figure that meets the soul after death and the grave-punishment reports in hadith collections, and compare the imagery.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:15:51",
@@ -513,7 +591,11 @@
         "ascension-narratives-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Elijah ascent account, Christian ascension traditions, and the Zoroastrian heavenly journey texts for the winged mount detail."
+      "verificationNote": "Check the Elijah ascent account, Christian ascension traditions, and the Zoroastrian heavenly journey texts for the winged mount detail.",
+      "citationRefs": [
+        "c27",
+        "c28"
+      ]
     },
     {
       "timestamp": "00:16:38",
@@ -530,7 +612,10 @@
         "ascension-narratives-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the Zoroastrian text describing Zoroaster's ascent and its mount, and compare with the Buraq of the Mi'raj reports."
+      "verificationNote": "Identify the Zoroastrian text describing Zoroaster's ascent and its mount, and compare with the Buraq of the Mi'raj reports.",
+      "citationRefs": [
+        "c28"
+      ]
     },
     {
       "timestamp": "00:17:23",
@@ -547,7 +632,10 @@
         "ascension-narratives-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian cosmology for a sevenfold heaven and a cosmic tree above it, and compare with the Mi'raj reports and Sidrat al-Muntaha in Q 53:14."
+      "verificationNote": "Check Zoroastrian cosmology for a sevenfold heaven and a cosmic tree above it, and compare with the Mi'raj reports and Sidrat al-Muntaha in Q 53:14.",
+      "citationRefs": [
+        "c29"
+      ]
     },
     {
       "timestamp": "00:18:13",
@@ -563,7 +651,8 @@
         "ascension-narratives-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the Amesha Spentas and yazatas for a figure functioning as chief angel or guide, and compare with Gabriel's role in the Mi'raj reports."
+      "verificationNote": "Check the Amesha Spentas and yazatas for a figure functioning as chief angel or guide, and compare with Gabriel's role in the Mi'raj reports.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:18:13",
@@ -580,7 +669,8 @@
         "ascension-narratives-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the classical disagreement over a bodily versus spiritual Isra and whether any premodern voices questioned the story's origin."
+      "verificationNote": "Check the classical disagreement over a bodily versus spiritual Isra and whether any premodern voices questioned the story's origin.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:19:03",
@@ -595,7 +685,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read Q 53 and check what it actually names, then trace how the Mi'raj details entered the exegesis of the sura."
+      "verificationNote": "Read Q 53 and check what it actually names, then trace how the Mi'raj details entered the exegesis of the sura.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:19:52",
@@ -611,7 +704,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the sirah and hadith sources for the epithet Ibn Abi Kabsha, the identity of Abu Kabsha, and the claim of a maternal-line ancestry."
+      "verificationNote": "Check the sirah and hadith sources for the epithet Ibn Abi Kabsha, the identity of Abu Kabsha, and the claim of a maternal-line ancestry.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:19:52",
@@ -627,7 +723,11 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Read al-Qurtubi on Q 53:49 and verify the identification of al-Shi'ra and the report about Abu Kabsha introducing its worship."
+      "verificationNote": "Read al-Qurtubi on Q 53:49 and verify the identification of al-Shi'ra and the report about Abu Kabsha introducing its worship.",
+      "citationRefs": [
+        "c32",
+        "c33"
+      ]
     },
     {
       "timestamp": "00:20:40",
@@ -643,7 +743,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the identification of Avestan Tishtrya with Sirius and with the Arabic al-Shi'ra in the astronomical and Iranological literature."
+      "verificationNote": "Check the identification of Avestan Tishtrya with Sirius and with the Arabic al-Shi'ra in the astronomical and Iranological literature.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:20:40",
@@ -659,7 +762,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the Tishtar Yasht passages on offerings to Tishtrya and its descent, and check whether they describe an intercessory function as the speaker states."
+      "verificationNote": "Locate the Tishtar Yasht passages on offerings to Tishtrya and its descent, and check whether they describe an intercessory function as the speaker states.",
+      "citationRefs": [
+        "c34"
+      ]
     },
     {
       "timestamp": "00:22:18",
@@ -676,7 +782,11 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Read Q 53:1-10 in Arabic and check whether the grammar permits the star as subject of dana fatadalla, and how classical exegetes assign the referent."
+      "verificationNote": "Read Q 53:1-10 in Arabic and check whether the grammar permits the star as subject of dana fatadalla, and how classical exegetes assign the referent.",
+      "citationRefs": [
+        "c34",
+        "c35"
+      ]
     },
     {
       "timestamp": "00:23:09",
@@ -693,7 +803,11 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate this report about a son of Abu Lahab and the invocation of the 'dog of God' in the hadith and sirah collections; the speaker gives no collection or number."
+      "verificationNote": "Locate this report about a son of Abu Lahab and the invocation of the 'dog of God' in the hadith and sirah collections; the speaker gives no collection or number.",
+      "citationRefs": [
+        "c36",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:24:01",
@@ -709,7 +823,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check Zoroastrian material on a divine dog figure and the association of Sirius with Canis Major, and whether the Arabic phrase in the report can bear this reading."
+      "verificationNote": "Check Zoroastrian material on a divine dog figure and the association of Sirius with Canis Major, and whether the Arabic phrase in the report can bear this reading.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:24:48",
@@ -726,7 +843,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the report, if authentic, implies Muhammad shared an astral belief in stars as agents of punishment, and how commentators have explained it."
+      "verificationNote": "Assess whether the report, if authentic, implies Muhammad shared an astral belief in stars as agents of punishment, and how commentators have explained it.",
+      "citationRefs": [
+        "c36"
+      ]
     },
     {
       "timestamp": "00:24:48",
@@ -742,7 +862,11 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and locations of Q 56:75-76 and Q 86:1-3 and the exegetical identification of al-tariq with a star."
+      "verificationNote": "Verify the wording and locations of Q 56:75-76 and Q 86:1-3 and the exegetical identification of al-tariq with a star.",
+      "citationRefs": [
+        "c39",
+        "c40"
+      ]
     },
     {
       "timestamp": "00:25:35",
@@ -758,7 +882,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and location of the verse in Surat al-Mulk about lamps made missiles for devils."
+      "verificationNote": "Verify the wording and location of the verse in Surat al-Mulk about lamps made missiles for devils.",
+      "citationRefs": [
+        "c41"
+      ]
     },
     {
       "timestamp": "00:25:35",
@@ -774,7 +901,10 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the wording and location of Q 72:8-9 and the exegesis of the jinn eavesdropping and being struck by meteors."
+      "verificationNote": "Verify the wording and location of Q 72:8-9 and the exegesis of the jinn eavesdropping and being struck by meteors.",
+      "citationRefs": [
+        "c42"
+      ]
     },
     {
       "timestamp": "00:26:27",
@@ -791,7 +921,11 @@
         "astral-religion-and-star-veneration"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Find the Zoroastrian texts describing the sky as a guarded dome and stars repelling demons, and judge how close the parallel to Q 72:8-9 and Q 67:5 is."
+      "verificationNote": "Find the Zoroastrian texts describing the sky as a guarded dome and stars repelling demons, and judge how close the parallel to Q 72:8-9 and Q 67:5 is.",
+      "citationRefs": [
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:27:12",
@@ -806,7 +940,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check every Qur'anic use of najm, kawkab and shihab to test whether the text conflates them, and confirm the astronomical points about stellar distance and meteors."
+      "verificationNote": "Check every Qur'anic use of najm, kawkab and shihab to test whether the text conflates them, and confirm the astronomical points about stellar distance and meteors.",
+      "citationRefs": [
+        "c41",
+        "c42"
+      ]
     },
     {
       "timestamp": "00:28:00",
@@ -824,7 +962,15 @@
         "sirah-formative-figures"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Weigh whether Salman's biography can carry the explanatory role assigned to it, given how little the sources record about his contact with Muhammad."
+      "verificationNote": "Weigh whether Salman's biography can carry the explanatory role assigned to it, given how little the sources record about his contact with Muhammad.",
+      "citationRefs": [
+        "c11",
+        "c14",
+        "c15",
+        "c16",
+        "c20",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:28:00",
@@ -840,7 +986,18 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Assess the cumulative case: whether the individual parallels presented in the episode are strong enough to support a general claim of composite human authorship."
+      "verificationNote": "Assess the cumulative case: whether the individual parallels presented in the episode are strong enough to support a general claim of composite human authorship.",
+      "citationRefs": [
+        "c11",
+        "c14",
+        "c15",
+        "c17",
+        "c18",
+        "c20",
+        "c21",
+        "c34",
+        "c35"
+      ]
     }
   ],
   "citations": [
@@ -852,7 +1009,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -862,7 +1020,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "person",
@@ -872,7 +1031,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "person",
@@ -882,7 +1042,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "event",
@@ -892,7 +1053,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c5"
     },
     {
       "citationType": "book",
@@ -902,7 +1064,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "book",
@@ -912,7 +1075,8 @@
       "author": "البلاذري",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
@@ -922,7 +1086,8 @@
       "author": "ابن سعد",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -932,7 +1097,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "person",
@@ -942,7 +1108,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c10"
     },
     {
       "citationType": "book",
@@ -952,7 +1119,8 @@
       "author": "",
       "locator": "خبر عن ابن عباس عن سلمان الفارسي",
       "quotedArabic": "كنت رجلا فارسيا من أهل أصبهان، من أهل قرية منها يقال لها جي، وكان أبي دهقانها، وكنت أحب خلق الله إليه، فلم يزل بي حبه إياي حتى حبسني في بيته كما تحبس الجارية، فاجتهدت في المجوسية حتى كنت قاطن النار الذي يوقدها، لا يتركها تخبو ساعة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "person",
@@ -962,7 +1130,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -972,7 +1141,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     },
     {
       "citationType": "book",
@@ -982,7 +1152,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c14"
     },
     {
       "citationType": "hadith",
@@ -992,7 +1163,8 @@
       "author": "",
       "locator": "مروي عن عائشة، بلا رقم",
       "quotedArabic": "كان لسلمان مجلس من رسول الله حتى كاد يغلبنا على رسول الله",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -1002,7 +1174,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c16"
     },
     {
       "citationType": "book",
@@ -1012,7 +1185,8 @@
       "author": "",
       "locator": "قصص إبراهيم",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "book",
@@ -1022,7 +1196,8 @@
       "author": "",
       "locator": "خلق الطير من الطين",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "person",
@@ -1032,7 +1207,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c19"
     },
     {
       "citationType": "book",
@@ -1042,7 +1218,8 @@
       "author": "",
       "locator": "الآية الأولى / مناجاة زرادشت لأهورا مازدا",
       "quotedArabic": "يا أهورا مازدا، أيها الخالق المنير، العظيم، الأعظم، والأحسن، والأجمل، والأقدر، والأكمل، والأحكم، والأقوى ... يا أيها الخالق الأوحد، الذي لا ينام ولا يسهو، وأنت الخالق، مقاليد الخلق بيدك فيكون ما تريد ولا يكون ما لا تريد، أنت عليم، أنت بصير، وأنت عادل، وأنت أبو العدالة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "quran",
@@ -1052,7 +1229,8 @@
       "author": "",
       "locator": "سورة البقرة، آية الكرسي (2:255)",
       "quotedArabic": "لا تأخذه سنة ولا نوم ... من ذا الذي يشفع",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "quran",
@@ -1062,7 +1240,8 @@
       "author": "",
       "locator": "آية الوضوء، بلا رقم في الفيديو",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -1072,7 +1251,8 @@
       "author": "",
       "locator": "حدّ الأربع نساء، بلا رقم في الفيديو",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1082,7 +1262,8 @@
       "author": "",
       "locator": "سورة الأعراف، بلا رقم آية",
       "quotedArabic": "على الأعراف رجال ... ونادى أصحاب الجنة أصحاب النار أن قد وجدنا ما وعدنا ربنا حقا فهل وجدتم ما وعدكم ربكم حقا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -1092,7 +1273,8 @@
       "author": "",
       "locator": "بلا سورة ولا رقم في الفيديو",
       "quotedArabic": "يا ليتني كنت ترابا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -1102,7 +1284,8 @@
       "author": "",
       "locator": "بلا سورة ولا رقم في الفيديو",
       "quotedArabic": "وامتازوا اليوم أيها المجرمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "person",
@@ -1112,7 +1295,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -1122,7 +1306,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c28"
     },
     {
       "citationType": "quran",
@@ -1132,7 +1317,8 @@
       "author": "",
       "locator": "سدرة المنتهى، بلا رقم في الفيديو",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "quran",
@@ -1142,7 +1328,8 @@
       "author": "",
       "locator": "سورة النجم",
       "quotedArabic": "والنجم إذا هوى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c30"
     },
     {
       "citationType": "person",
@@ -1152,7 +1339,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "book",
@@ -1162,7 +1350,8 @@
       "author": "القرطبي",
       "locator": "تفسير سورة النجم، الآية 49",
       "quotedArabic": "وأنه هو رب الشعرى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1172,7 +1361,8 @@
       "author": "",
       "locator": "53:49",
       "quotedArabic": "وأنه هو رب الشعرى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c33"
     },
     {
       "citationType": "book",
@@ -1182,7 +1372,8 @@
       "author": "",
       "locator": "نصوص نجم تِشتَريا، بلا موضع محدد",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1192,7 +1383,8 @@
       "author": "",
       "locator": "53:1-7",
       "quotedArabic": "والنجم إذا هوى، ما ضل صاحبكم وما غوى، وما ينطق عن الهوى، إن هو إلا وحي يوحى، علمه شديد القوى، ذو مرة فاستوى، وهو بالأفق الأعلى، ثم دنا فتدلى",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c35"
     },
     {
       "citationType": "hadith",
@@ -1202,7 +1394,8 @@
       "author": "",
       "locator": "لم تُذكر المجموعة ولا رقم الحديث",
       "quotedArabic": "إني كفرت برب النجم",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c36"
     },
     {
       "citationType": "person",
@@ -1212,7 +1405,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c37"
     },
     {
       "citationType": "quran",
@@ -1222,7 +1416,8 @@
       "author": "",
       "locator": "تبت يدا أبي لهب (سورة المسد)، بلا رقم في الفيديو",
       "quotedArabic": "تبت يدا أبي لهب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c38"
     },
     {
       "citationType": "quran",
@@ -1232,7 +1427,8 @@
       "author": "",
       "locator": "بلا سورة ولا رقم في الفيديو",
       "quotedArabic": "فلا أقسم بمواقع النجوم وإنه لقسم لو تعلمون عظيم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "quran",
@@ -1242,7 +1438,8 @@
       "author": "",
       "locator": "بلا سورة ولا رقم في الفيديو",
       "quotedArabic": "والسماء والطارق",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "quran",
@@ -1252,7 +1449,8 @@
       "author": "",
       "locator": "سورة الملك، بلا رقم آية",
       "quotedArabic": "إنا زينا السماء الدنيا بمصابيح وجعلناها رجوما للشياطين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "quran",
@@ -1262,7 +1460,8 @@
       "author": "",
       "locator": "سورة الجن، بلا رقم آية",
       "quotedArabic": "وأنا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبا، وأنا كنا نقعد منها مقاعد للسمع، فمن يستمع الآن يجد له شهابا رصدا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     }
   ],
   "topicProposals": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "fuPrisPa_F8",
   "videoUrl": "https://www.youtube.com/watch?v=fuPrisPa_F8",
   "videoTitle": "Box of Islam Episode 20 برنامج صندوق الإسلام - الحلقة العشرين - مراحل تطور القرآن / فترة المدينة",
@@ -74,7 +74,8 @@
         "sirah"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Check biographical reports on the timing of Khadijah's death and the revelation dates of Surat al-Jinn and Surat al-Isra, alongside modern psychological assessments of hallucinatory claims."
+      "verificationNote": "Check biographical reports on the timing of Khadijah's death and the revelation dates of Surat al-Jinn and Surat al-Isra, alongside modern psychological assessments of hallucinatory claims.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:04:06",
@@ -86,7 +87,8 @@
         "quran-historical-claims"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Quranic and Hadith accounts of Mi'raj with 1 Enoch / 2 Enoch and Genesis 28:10-19 (Jacob's Ladder) in Jewish pseudepigrapha and biblical studies."
+      "verificationNote": "Compare the Quranic and Hadith accounts of Mi'raj with 1 Enoch / 2 Enoch and Genesis 28:10-19 (Jacob's Ladder) in Jewish pseudepigrapha and biblical studies.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:06:36",
@@ -97,7 +99,10 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine Surat al-Isra (17:93) and early classical tafsir commentaries on the Quraysh's demand for a written book and Muhammad's response."
+      "verificationNote": "Examine Surat al-Isra (17:93) and early classical tafsir commentaries on the Quraysh's demand for a written book and Muhammad's response.",
+      "citationRefs": [
+        "c2"
+      ]
     },
     {
       "timestamp": "00:07:42",
@@ -108,7 +113,10 @@
         "quran-scientific-claims"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Examine Surat ar-Ra'd (13:2) and evaluate classical tafsir explanations regarding physical versus invisible pillars against atmospheric science."
+      "verificationNote": "Examine Surat ar-Ra'd (13:2) and evaluate classical tafsir explanations regarding physical versus invisible pillars against atmospheric science.",
+      "citationRefs": [
+        "c3"
+      ]
     },
     {
       "timestamp": "00:11:24",
@@ -119,7 +127,8 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check primary sirah texts (Ibn Hisham, al-Waqidi, al-Tabari) regarding the cause and economic consequences of the expulsion of Banu Qaynuqa'."
+      "verificationNote": "Check primary sirah texts (Ibn Hisham, al-Waqidi, al-Tabari) regarding the cause and economic consequences of the expulsion of Banu Qaynuqa'.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:58",
@@ -130,7 +139,8 @@
         "quran-textual-transmission"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the textual locations of the four occurrences of the name 'Muhammad' in the Quran (3:144, 33:40, 47:2, 48:29) and confirm their Medinan classification."
+      "verificationNote": "Verify the textual locations of the four occurrences of the name 'Muhammad' in the Quran (3:144, 33:40, 47:2, 48:29) and confirm their Medinan classification.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:12:47",
@@ -141,7 +151,10 @@
         "sirah"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Consult historical studies by Hichem Djaït and classical biographical works (e.g., Ibn Sa'd's al-Tabaqat al-Kubra) for references to the name Qutham."
+      "verificationNote": "Consult historical studies by Hichem Djaït and classical biographical works (e.g., Ibn Sa'd's al-Tabaqat al-Kubra) for references to the name Qutham.",
+      "citationRefs": [
+        "c7"
+      ]
     },
     {
       "timestamp": "00:14:12",
@@ -152,7 +165,11 @@
         "earlier-religious-parallels"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Cross-reference John 14:16 in Greek/Syriac Peshitta, Song of Solomon 5:16 ('Mahmaddim'), and modern scholarly theories regarding the linguistic origins of the name Muhammad."
+      "verificationNote": "Cross-reference John 14:16 in Greek/Syriac Peshitta, Song of Solomon 5:16 ('Mahmaddim'), and modern scholarly theories regarding the linguistic origins of the name Muhammad.",
+      "citationRefs": [
+        "c8",
+        "c9"
+      ]
     },
     {
       "timestamp": "00:17:25",
@@ -164,7 +181,10 @@
         "sirah"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check classical asbab al-nuzul and sirah sources (al-Wahidi, Ibn al-Athir, al-Tabari) for reports regarding 'Abd Allah ibn Abi Sarh and Surat al-Mu'minun verse 14."
+      "verificationNote": "Check classical asbab al-nuzul and sirah sources (al-Wahidi, Ibn al-Athir, al-Tabari) for reports regarding 'Abd Allah ibn Abi Sarh and Surat al-Mu'minun verse 14.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:19:17",
@@ -175,7 +195,8 @@
         "women"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the rhetorical comparison regarding Quranic chapter titles and their thematic contents regarding women's legal status."
+      "verificationNote": "Evaluate the rhetorical comparison regarding Quranic chapter titles and their thematic contents regarding women's legal status.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -187,7 +208,8 @@
       "author": "",
       "locator": "17:1",
       "quotedArabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ لَيْلًا مِّنَ الْمَسْجِدِ الْحَرَامِ إِلَى الْمَسْجِدِ الْأَقْصَى الَّذِي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ آيَاتِنَا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c1"
     },
     {
       "citationType": "quran",
@@ -197,7 +219,8 @@
       "author": "",
       "locator": "17:92-93",
       "quotedArabic": "أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِيَ بِاللَّهِ وَالْمَلَائِكَةِ قَبِيلًا أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرَقَىٰ فِي السَّمَاءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَّقْرَؤُهُ قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c2"
     },
     {
       "citationType": "quran",
@@ -207,7 +230,8 @@
       "author": "",
       "locator": "13:2-4",
       "quotedArabic": "اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى ۚ مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا ۖ وَمِن كُلِّ الثَّمَرَاتِ يُغْشِي اللَّيْلَ النَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c3"
     },
     {
       "citationType": "quran",
@@ -217,7 +241,8 @@
       "author": "",
       "locator": "13:12-13",
       "quotedArabic": "هُوَ الَّذِي يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ السَّحَابَ الثِّقَالَ وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ وَيُرْسِلُ الصَّوَاعِقَ فَيُصِيبُ بِهَا مَن يَشَاءُ وَهُمْ يُجَادِلُونَ فِي اللَّهِ وَهُوَ شَدِيدُ الْمِحَالِ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c4"
     },
     {
       "citationType": "quran",
@@ -227,7 +252,8 @@
       "author": "",
       "locator": "2:62",
       "quotedArabic": "إِنَّ الَّذِينَ هَادُوا وَالنَّصَارَىٰ وَالصَّابِئِينَ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -237,7 +263,8 @@
       "author": "",
       "locator": "29:46",
       "quotedArabic": "وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c6"
     },
     {
       "citationType": "person",
@@ -247,7 +274,8 @@
       "author": "Hichem Djaït",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "book",
@@ -257,7 +285,8 @@
       "author": "John",
       "locator": "14:16",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c8"
     },
     {
       "citationType": "book",
@@ -267,7 +296,8 @@
       "author": "",
       "locator": "Song of Songs 5:16",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c9"
     },
     {
       "citationType": "quran",
@@ -277,7 +307,8 @@
       "author": "",
       "locator": "5:82, 5:73",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -287,7 +318,8 @@
       "author": "",
       "locator": "2:219, 4:43, 5:91",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -297,7 +329,8 @@
       "author": "",
       "locator": "23:14",
       "quotedArabic": "فَتَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -307,7 +340,8 @@
       "author": "'Abd Allah ibn Abi Sarh",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c13"
     }
   ],
   "topicProposals": []

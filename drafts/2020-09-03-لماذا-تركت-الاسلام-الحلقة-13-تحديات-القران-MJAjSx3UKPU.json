@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "videoId": "MJAjSx3UKPU",
   "videoUrl": "https://www.youtube.com/watch?v=MJAjSx3UKPU",
   "videoTitle": "لماذا تركت الإسلام - الحلقة 13 - تحديات القرآن",
@@ -109,7 +109,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the philosophical inference and determine whether Islamic presentations of the challenge claim comparability between divine and human agents or only invite evaluation of a produced text."
+      "verificationNote": "Evaluate the philosophical inference and determine whether Islamic presentations of the challenge claim comparability between divine and human agents or only invite evaluation of a produced text.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:01:34",
@@ -126,7 +129,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check the chronology and reported number of converts during the Meccan period in the earliest sirah and prosopographical sources, and compare them with reports of Quraysh’s reactions to recitation."
+      "verificationNote": "Check the chronology and reported number of converts during the Meccan period in the earliest sirah and prosopographical sources, and compare them with reports of Quraysh’s reactions to recitation.",
+      "citationRefs": [
+        "c2",
+        "c3"
+      ]
     },
     {
       "timestamp": "00:02:15",
@@ -144,7 +151,8 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Survey every Qur’anic challenge passage and every passage reporting demands by Muhammad’s opponents, distinguishing their chronology, wording, and stated outcomes."
+      "verificationNote": "Survey every Qur’anic challenge passage and every passage reporting demands by Muhammad’s opponents, distinguishing their chronology, wording, and stated outcomes.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:02:15",
@@ -160,7 +168,11 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the reported opening warning in the early sirah and hadith traditions and review the relevant Meccan punishment-and-reward passages in their proposed chronology."
+      "verificationNote": "Locate the reported opening warning in the early sirah and hadith traditions and review the relevant Meccan punishment-and-reward passages in their proposed chronology.",
+      "citationRefs": [
+        "c4",
+        "c5"
+      ]
     },
     {
       "timestamp": "00:02:59",
@@ -177,7 +189,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted verse, confirm its exact wording, and check classical exegesis of qitt and whether the speakers are explicitly identified as Quraysh."
+      "verificationNote": "Identify the quoted verse, confirm its exact wording, and check classical exegesis of qitt and whether the speakers are explicitly identified as Quraysh.",
+      "citationRefs": [
+        "c6",
+        "c7"
+      ]
     },
     {
       "timestamp": "00:03:40",
@@ -194,7 +210,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the verse and examine its surrounding context, proposed date, grammar, and classical interpretations to determine whether it addresses a demand for immediate punishment."
+      "verificationNote": "Identify the verse and examine its surrounding context, proposed date, grammar, and classical interpretations to determine whether it addresses a demand for immediate punishment.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:04:22",
@@ -209,7 +228,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Check the Arabic syntax and major exegetical and theological readings of the thousand-years passage, especially whether it predicates temporal succession of God."
+      "verificationNote": "Check the Arabic syntax and major exegetical and theological readings of the thousand-years passage, especially whether it predicates temporal succession of God.",
+      "citationRefs": [
+        "c8"
+      ]
     },
     {
       "timestamp": "00:04:22",
@@ -226,7 +248,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted verse, establish its immediate context, and review whether its conditional wording has the meaning assigned by the speaker."
+      "verificationNote": "Identify the quoted verse, establish its immediate context, and review whether its conditional wording has the meaning assigned by the speaker.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:05:06",
@@ -241,7 +266,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Test whether the Arabic conditional construction implies divine inability, rather than a freely chosen decree, by consulting grammar and representative exegetical traditions."
+      "verificationNote": "Test whether the Arabic conditional construction implies divine inability, rather than a freely chosen decree, by consulting grammar and representative exegetical traditions.",
+      "citationRefs": [
+        "c9"
+      ]
     },
     {
       "timestamp": "00:05:47",
@@ -257,7 +285,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted passage, verify its wording and speakers, and examine classical accounts of its occasion and relationship to the following verse."
+      "verificationNote": "Identify the quoted passage, verify its wording and speakers, and examine classical accounts of its occasion and relationship to the following verse.",
+      "citationRefs": [
+        "c11",
+        "c10"
+      ]
     },
     {
       "timestamp": "00:05:47",
@@ -274,7 +306,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the exact following verse and review its syntax and exegetical explanations, including whether it promises postponement, mercy, or permanent exemption."
+      "verificationNote": "Verify the exact following verse and review its syntax and exegetical explanations, including whether it promises postponement, mercy, or permanent exemption.",
+      "citationRefs": [
+        "c12"
+      ]
     },
     {
       "timestamp": "00:06:33",
@@ -290,7 +325,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Determine whether the passage logically entails inability or instead states a chosen rule, and compare it with other Qur’anic accounts of selective punishment."
+      "verificationNote": "Determine whether the passage logically entails inability or instead states a chosen rule, and compare it with other Qur’anic accounts of selective punishment.",
+      "citationRefs": [
+        "c12",
+        "c13"
+      ]
     },
     {
       "timestamp": "00:06:33",
@@ -307,7 +346,12 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Place all three passages side by side, establish their contexts and addressees, and assess whether the explanations are logically contradictory or complementary."
+      "verificationNote": "Place all three passages side by side, establish their contexts and addressees, and assess whether the explanations are logically contradictory or complementary.",
+      "citationRefs": [
+        "c8",
+        "c9",
+        "c12"
+      ]
     },
     {
       "timestamp": "00:07:15",
@@ -321,7 +365,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the self-consistency verse, confirm the quotation, and evaluate whether the cited punishment passages constitute the kind of ikhtilaf asserted by that verse."
+      "verificationNote": "Identify the self-consistency verse, confirm the quotation, and evaluate whether the cited punishment passages constitute the kind of ikhtilaf asserted by that verse.",
+      "citationRefs": [
+        "c14",
+        "c15"
+      ]
     },
     {
       "timestamp": "00:07:15",
@@ -337,7 +385,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the proposed chronology of miracle narratives with earlier Jewish and Christian versions and with evidence for their circulation in the Qur’an’s environment."
+      "verificationNote": "Compare the proposed chronology of miracle narratives with earlier Jewish and Christian versions and with evidence for their circulation in the Qur’an’s environment.",
+      "citationRefs": [
+        "c16"
+      ]
     },
     {
       "timestamp": "00:07:52",
@@ -353,7 +404,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the passage beginning with the opponents’ request for a sign and verify whether its complete context supplies any further reason or evidence."
+      "verificationNote": "Identify the passage beginning with the opponents’ request for a sign and verify whether its complete context supplies any further reason or evidence.",
+      "citationRefs": [
+        "c17",
+        "c18"
+      ]
     },
     {
       "timestamp": "00:08:38",
@@ -369,7 +424,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted verse, confirm its exact wording, and examine whether the surrounding passage identifies the Qur’an itself as the requested sign."
+      "verificationNote": "Identify the quoted verse, confirm its exact wording, and examine whether the surrounding passage identifies the Qur’an itself as the requested sign.",
+      "citationRefs": [
+        "c19"
+      ]
     },
     {
       "timestamp": "00:08:38",
@@ -385,7 +443,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate the passage, verify the antecedent of the requested sign, and check whether ‘wait’ refers specifically to awaiting a miracle or to awaiting divine judgment."
+      "verificationNote": "Locate the passage, verify the antecedent of the requested sign, and check whether ‘wait’ refers specifically to awaiting a miracle or to awaiting divine judgment.",
+      "citationRefs": [
+        "c20"
+      ]
     },
     {
       "timestamp": "00:09:24",
@@ -403,7 +464,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Review the traditional chronology of Meccan revelation and all early reports of miracles to test the claimed absence and the characterization of the relevant verses as debate instructions."
+      "verificationNote": "Review the traditional chronology of Meccan revelation and all early reports of miracles to test the claimed absence and the characterization of the relevant verses as debate instructions.",
+      "citationRefs": [
+        "c21",
+        "c22"
+      ]
     },
     {
       "timestamp": "00:09:24",
@@ -420,7 +485,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the quoted passage, analyze the referent and purpose of sending signs, and compare it with Qur’anic statements about individual responsibility."
+      "verificationNote": "Identify the quoted passage, analyze the referent and purpose of sending signs, and compare it with Qur’anic statements about individual responsibility.",
+      "citationRefs": [
+        "c23"
+      ]
     },
     {
       "timestamp": "00:09:24",
@@ -435,7 +503,11 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Compare the complete contexts of the signs passage and the no-burden-bearer formula to determine whether denial of a sign is framed as punishment for another community’s guilt."
+      "verificationNote": "Compare the complete contexts of the signs passage and the no-burden-bearer formula to determine whether denial of a sign is framed as punishment for another community’s guilt.",
+      "citationRefs": [
+        "c23",
+        "c24"
+      ]
     },
     {
       "timestamp": "00:10:09",
@@ -451,7 +523,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Identify the oath passage, verify its exact readings and pronouns, and inspect classical interpretations of whether the audience promised sincerely or rhetorically."
+      "verificationNote": "Identify the oath passage, verify its exact readings and pronouns, and inspect classical interpretations of whether the audience promised sincerely or rhetorically.",
+      "citationRefs": [
+        "c26"
+      ]
     },
     {
       "timestamp": "00:10:57",
@@ -468,7 +543,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the quoted passage and examine whether it describes an actual refused test, a counterfactual assertion, or a broader claim about entrenched disbelief."
+      "verificationNote": "Verify the quoted passage and examine whether it describes an actual refused test, a counterfactual assertion, or a broader claim about entrenched disbelief.",
+      "citationRefs": [
+        "c27"
+      ]
     },
     {
       "timestamp": "00:11:37",
@@ -485,7 +563,18 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Catalog each reason in its full literary context and determine whether they address the same request under the same circumstances or distinct kinds of signs and audiences."
+      "verificationNote": "Catalog each reason in its full literary context and determine whether they address the same request under the same circumstances or distinct kinds of signs and audiences.",
+      "citationRefs": [
+        "c8",
+        "c9",
+        "c12",
+        "c17",
+        "c19",
+        "c20",
+        "c23",
+        "c26",
+        "c27"
+      ]
     },
     {
       "timestamp": "00:11:37",
@@ -502,7 +591,8 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Assess whether the alleged inconsistencies are established before evaluating the authorship inference, and consider alternative literary and theological explanations."
+      "verificationNote": "Assess whether the alleged inconsistencies are established before evaluating the authorship inference, and consider alternative literary and theological explanations.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:11:37",
@@ -519,7 +609,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Locate every Qur’anic and early biographical occurrence of these accusations and determine their speakers, contexts, and stated reasons."
+      "verificationNote": "Locate every Qur’anic and early biographical occurrence of these accusations and determine their speakers, contexts, and stated reasons.",
+      "citationRefs": [
+        "c28",
+        "c29"
+      ]
     },
     {
       "timestamp": "00:12:23",
@@ -534,7 +628,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify early converts reported to have apostatized, establish the sources and dates of those reports, and check whether the sources attribute apostasy to Quraysh’s arguments."
+      "verificationNote": "Identify early converts reported to have apostatized, establish the sources and dates of those reports, and check whether the sources attribute apostasy to Quraysh’s arguments.",
+      "citationRefs": [
+        "c30"
+      ]
     },
     {
       "timestamp": "00:12:23",
@@ -549,7 +646,10 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Identify the quoted verse, review its complete context and classical exegesis, and distinguish its explicit instruction from the speaker’s proposed motive."
+      "verificationNote": "Identify the quoted verse, review its complete context and classical exegesis, and distinguish its explicit instruction from the speaker’s proposed motive.",
+      "citationRefs": [
+        "c31"
+      ]
     },
     {
       "timestamp": "00:13:07",
@@ -566,7 +666,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Review all inimitability passages and early tafsir or literary discussions for stated criteria, eligible competitors, adjudicators, and procedures."
+      "verificationNote": "Review all inimitability passages and early tafsir or literary discussions for stated criteria, eligible competitors, adjudicators, and procedures.",
+      "citationRefs": [
+        "c1"
+      ]
     },
     {
       "timestamp": "00:13:07",
@@ -583,7 +686,10 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Verify the verse and examine whether its literary context supplies an argument, prediction, or only an assertion."
+      "verificationNote": "Verify the verse and examine whether its literary context supplies an argument, prediction, or only an assertion.",
+      "citationRefs": [
+        "c32"
+      ]
     },
     {
       "timestamp": "00:13:54",
@@ -600,7 +706,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Check the wording and sequence of the Adam passage and examine exegetical views on what Adam was taught, why the angels were questioned, and whether angels possess will."
+      "verificationNote": "Check the wording and sequence of the Adam passage and examine exegetical views on what Adam was taught, why the angels were questioned, and whether angels possess will.",
+      "citationRefs": [
+        "c33",
+        "c34"
+      ]
     },
     {
       "timestamp": "00:14:46",
@@ -616,7 +726,13 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify each alleged case, the relevant legal or political authority, the actual accusation, and whether the action resulted specifically from attempting literary imitation."
+      "verificationNote": "Identify each alleged case, the relevant legal or political authority, the actual accusation, and whether the action resulted specifically from attempting literary imitation.",
+      "citationRefs": [
+        "c36",
+        "c37",
+        "c38",
+        "c39"
+      ]
     },
     {
       "timestamp": "00:14:46",
@@ -631,7 +747,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Check biographical sources on al-Ghazali, records of condemnations or book burnings, the works concerned, and whether astronomy or weather prediction was the stated reason."
+      "verificationNote": "Check biographical sources on al-Ghazali, records of condemnations or book burnings, the works concerned, and whether astronomy or weather prediction was the stated reason.",
+      "citationRefs": [
+        "c36",
+        "c37"
+      ]
     },
     {
       "timestamp": "00:14:46",
@@ -647,7 +767,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Identify the author and jurisdiction, obtain court and news records, distinguish imprisonment from other legal outcomes, and document the attributed death demands."
+      "verificationNote": "Identify the author and jurisdiction, obtain court and news records, distinguish imprisonment from other legal outcomes, and document the attributed death demands.",
+      "citationRefs": [
+        "c38",
+        "c39"
+      ]
     },
     {
       "timestamp": "00:15:33",
@@ -663,7 +787,8 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "interpretive",
-      "verificationNote": "Evaluate the challenge’s historical and modern formulations for operational criteria and determine whether coercive cases affect its logical or evidential force."
+      "verificationNote": "Evaluate the challenge’s historical and modern formulations for operational criteria and determine whether coercive cases affect its logical or evidential force.",
+      "citationRefs": []
     },
     {
       "timestamp": "00:16:20",
@@ -679,7 +804,10 @@
       ],
       "newTopicIds": [],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Clarify which collection or recension the speaker means and compare the stated twenty-four-year interval with hadith reports about Abu Bakr’s collection and Uthman’s standardization."
+      "verificationNote": "Clarify which collection or recension the speaker means and compare the stated twenty-four-year interval with hadith reports about Abu Bakr’s collection and Uthman’s standardization.",
+      "citationRefs": [
+        "c41"
+      ]
     },
     {
       "timestamp": "00:16:20",
@@ -695,7 +823,11 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Distinguish oral reports, early notebooks, lost works, extant recensions, and canonical collections, and date the earliest surviving sirah and hadith materials individually."
+      "verificationNote": "Distinguish oral reports, early notebooks, lost works, extant recensions, and canonical collections, and date the earliest surviving sirah and hadith materials individually.",
+      "citationRefs": [
+        "c42",
+        "c43"
+      ]
     },
     {
       "timestamp": "00:16:20",
@@ -712,7 +844,11 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "primary-source-checkable",
-      "verificationNote": "Review all Qur’anic claims about Muhammad’s signs, the text’s descriptions of believers, and the traditional chronology and size of the Meccan community."
+      "verificationNote": "Review all Qur’anic claims about Muhammad’s signs, the text’s descriptions of believers, and the traditional chronology and size of the Meccan community.",
+      "citationRefs": [
+        "c40",
+        "c41"
+      ]
     },
     {
       "timestamp": "00:16:20",
@@ -730,7 +866,12 @@
         "quran-inimitability-challenge"
       ],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Compare the Qur’anic portrait with datable miracle, debate, and eloquence traditions across early sirah and hadith strata, noting their earliest attestations."
+      "verificationNote": "Compare the Qur’anic portrait with datable miracle, debate, and eloquence traditions across early sirah and hadith strata, noting their earliest attestations.",
+      "citationRefs": [
+        "c40",
+        "c42",
+        "c43"
+      ]
     },
     {
       "timestamp": "00:17:04",
@@ -745,7 +886,10 @@
       ],
       "newTopicIds": [],
       "checkability": "needs-secondary-literature",
-      "verificationNote": "Trace the history of scientific, numerical, and prophecy apologetics and determine whether their proponents present them as supplements to or replacements for classical Qur’anic arguments."
+      "verificationNote": "Trace the history of scientific, numerical, and prophecy apologetics and determine whether their proponents present them as supplements to or replacements for classical Qur’anic arguments.",
+      "citationRefs": [
+        "c44"
+      ]
     },
     {
       "timestamp": "00:17:04",
@@ -759,7 +903,8 @@
       ],
       "newTopicIds": [],
       "checkability": "interpretive",
-      "verificationNote": "Examine representative apologetic arguments and separate what their premises establish about a generic cause from any additional premises identifying that cause with the Islamic deity."
+      "verificationNote": "Examine representative apologetic arguments and separate what their premises establish about a generic cause from any additional premises identifying that cause with the Islamic deity.",
+      "citationRefs": []
     }
   ],
   "citations": [
@@ -771,7 +916,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "فأتوا بكتاب من مثله كنتم صادقين ... فأتوا بسورة من مثله",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c1"
     },
     {
       "citationType": "person",
@@ -781,7 +927,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c2"
     },
     {
       "citationType": "event",
@@ -791,7 +938,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c3"
     },
     {
       "citationType": "sirah",
@@ -801,7 +949,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "أني نذير لكم بين يدي عذاب شديد",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c4"
     },
     {
       "citationType": "person",
@@ -811,7 +960,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c5"
     },
     {
       "citationType": "quran",
@@ -821,7 +971,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ربنا عجل لنا قطنا قبل يوم الحساب",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c6"
     },
     {
       "citationType": "event",
@@ -831,7 +982,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c7"
     },
     {
       "citationType": "quran",
@@ -841,7 +993,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ويستعجلونك بالعذاب ولن يخلف الله وعده، وإنما يوم عند ربك كألف سنة مما تعدون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c8"
     },
     {
       "citationType": "quran",
@@ -851,7 +1004,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ويستعجلونك بالعذاب، ولولا أجل مسمى لجاءهم العذاب وليأتينهم بغتة وهم لا يشعرون",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c9"
     },
     {
       "citationType": "person",
@@ -861,7 +1015,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c10"
     },
     {
       "citationType": "quran",
@@ -871,7 +1026,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إن كان هذا هو الحق من عندك فأمطر علينا حجارة وأتنا بعذابنا",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c11"
     },
     {
       "citationType": "quran",
@@ -881,7 +1037,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما كان الله ليعذبهم وأنت فيهم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c12"
     },
     {
       "citationType": "person",
@@ -891,7 +1048,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c13"
     },
     {
       "citationType": "quran",
@@ -901,7 +1059,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لو كان من عند غير الله لوجدتم فيه اختلافات كثيرة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c14"
     },
     {
       "citationType": "book",
@@ -911,7 +1070,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ومهما لاح للعبد أن شيئًا من القرآن يناقض بعضه بعضًا فهو غلط منه على القرآن",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c15"
     },
     {
       "citationType": "person",
@@ -921,7 +1081,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c16"
     },
     {
       "citationType": "quran",
@@ -931,7 +1092,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لولا نزل عليه آية من ربه قل إن الله قادر على أن ينزل آية ولكن أكثرهم لا يعلمون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c17"
     },
     {
       "citationType": "person",
@@ -941,7 +1103,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c18"
     },
     {
       "citationType": "quran",
@@ -951,7 +1114,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لولا أنزل عليه آية من ربه قل إنما الآيات عند الله وإنما أنا نذير مبين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c19"
     },
     {
       "citationType": "quran",
@@ -961,7 +1125,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لولا أنزل عليه آية من ربه فقل إنما الغيب لله فانتظروا إني معكم من المنتظرين",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c20"
     },
     {
       "citationType": "person",
@@ -971,7 +1136,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c21"
     },
     {
       "citationType": "person",
@@ -981,7 +1147,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c22"
     },
     {
       "citationType": "quran",
@@ -991,7 +1158,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وما منعنا أن نرسل بالآيات إلا أن كذب بها الأولون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c23"
     },
     {
       "citationType": "quran",
@@ -1001,7 +1169,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "لا تزر وازرة وزر أخرى",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c24"
     },
     {
       "citationType": "quran",
@@ -1011,7 +1180,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولكل قوم هاد",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c25"
     },
     {
       "citationType": "quran",
@@ -1021,7 +1191,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وأقسموا بالله جهد أيمانهم لئن جاءتهم آية ليؤمنن بها قل إنما الآيات عند الله وما يشعركم أنها إذا جاءت لا يؤمنون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c26"
     },
     {
       "citationType": "quran",
@@ -1031,7 +1202,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ولو فتحنا عليهم بابًا من السماء فظلوا فيه يعرجون لقالوا إنما سكرت أبصارنا بل نحن قوم مسحورون",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c27"
     },
     {
       "citationType": "event",
@@ -1041,7 +1213,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c28"
     },
     {
       "citationType": "person",
@@ -1051,7 +1224,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c29"
     },
     {
       "citationType": "event",
@@ -1061,7 +1235,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c30"
     },
     {
       "citationType": "quran",
@@ -1071,7 +1246,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم حتى يخوضوا في حديث غيره إنكم إذن مثلهم إن الله جامع المنافقين والكفار في جهنم جميعًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c31"
     },
     {
       "citationType": "quran",
@@ -1081,7 +1257,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "قل لئن اجتمعت الإنس والجن على أن يأتوا بمثل هذا القرآن لا يأتون بمثله ولو كان بعضهم لبعض ظهيرًا",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c32"
     },
     {
       "citationType": "quran",
@@ -1091,7 +1268,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "وعلم آدم الأسماء كلها ثم عرضهم على الملائكة فقال أنبئوني بأسماء هؤلاء إن كنتم صادقين قالوا سبحانك لا نعلم إلا ما علمتنا إنك أنت العليم الحكيم",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c33"
     },
     {
       "citationType": "person",
@@ -1101,7 +1279,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-precisely"
+      "confidence": "stated-precisely",
+      "ref": "c34"
     },
     {
       "citationType": "quran",
@@ -1111,7 +1290,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "إن أعطيناك الكوثر ... إذا جاء نصر الله والفتح",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c35"
     },
     {
       "citationType": "person",
@@ -1121,7 +1301,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c36"
     },
     {
       "citationType": "event",
@@ -1131,7 +1312,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "ما حكم قراءة كتب أبي حامد الغزالي؟ ما هي كتب السحر والنجوم والقراءة ومعرفة الأحوال الأرضية من خلال الأحوال الجوية أو غيرها من الكواكب؟ ... لا تقرأ، أبدلك الله عز وجل خيرًا منها، ولكن معلوم عن الرجل رحمه الله رحمة واسعة أنه قد تاب",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c37"
     },
     {
       "citationType": "event",
@@ -1141,7 +1323,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "uncertain"
+      "confidence": "uncertain",
+      "ref": "c38"
     },
     {
       "citationType": "event",
@@ -1151,7 +1334,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "سورة كورونا التي تحاكي لغة القرآن تسببت في تهديدات بالقتل وتكفير ومطالبات بالمحاكمة",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c39"
     },
     {
       "citationType": "person",
@@ -1161,7 +1345,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c40"
     },
     {
       "citationType": "quran",
@@ -1171,7 +1356,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c41"
     },
     {
       "citationType": "hadith",
@@ -1181,7 +1367,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c42"
     },
     {
       "citationType": "sirah",
@@ -1191,7 +1378,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c43"
     },
     {
       "citationType": "event",
@@ -1201,7 +1389,8 @@
       "author": "",
       "locator": "",
       "quotedArabic": "",
-      "confidence": "stated-loosely"
+      "confidence": "stated-loosely",
+      "ref": "c44"
     }
   ],
   "topicProposals": [
