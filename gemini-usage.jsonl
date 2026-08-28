@@ -1979,3 +1979,73 @@
 {"timestamp": "2026-08-21T07:01:14+00:00", "event": "dedupe_succeeded", "pairs": 8, "backend": "codex", "attempts": 1, "durationMs": 21644}
 {"timestamp": "2026-08-21T07:01:14+00:00", "event": "dedupe_started", "pairs": 2}
 {"timestamp": "2026-08-21T07:01:23+00:00", "event": "dedupe_succeeded", "pairs": 2, "backend": "codex", "attempts": 1, "durationMs": 9787}
+{"timestamp": "2026-08-28T11:51:56+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:51:59+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:52:39+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 43140}
+{"timestamp": "2026-08-28T11:52:39+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:52:45+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 46193}
+{"timestamp": "2026-08-28T11:52:45+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:53:23+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 44133}
+{"timestamp": "2026-08-28T11:53:23+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:53:42+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 19178}
+{"timestamp": "2026-08-28T11:53:42+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:53:42+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 57281}
+{"timestamp": "2026-08-28T11:53:42+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:54:19+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 36860}
+{"timestamp": "2026-08-28T11:54:19+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:54:31+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 48662}
+{"timestamp": "2026-08-28T11:55:06+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 46617}
+{"timestamp": "2026-08-28T11:55:29+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:55:31+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:56:11+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 40022}
+{"timestamp": "2026-08-28T11:56:11+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:56:20+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 51202}
+{"timestamp": "2026-08-28T11:56:20+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:57:02+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 50451}
+{"timestamp": "2026-08-28T11:57:02+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:57:08+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 47569}
+{"timestamp": "2026-08-28T11:57:08+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:57:54+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 46238}
+{"timestamp": "2026-08-28T11:57:54+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:57:59+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 57181}
+{"timestamp": "2026-08-28T11:57:59+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:58:46+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 47258}
+{"timestamp": "2026-08-28T11:58:46+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:58:47+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 52205}
+{"timestamp": "2026-08-28T11:58:47+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:59:39+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 52832}
+{"timestamp": "2026-08-28T11:59:39+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T11:59:58+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 71382}
+{"timestamp": "2026-08-28T11:59:58+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:00:29+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 50325}
+{"timestamp": "2026-08-28T12:00:29+00:00", "event": "assess_started", "links": 1}
+{"timestamp": "2026-08-28T12:00:45+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 47273}
+{"timestamp": "2026-08-28T12:00:45+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:00:48+00:00", "event": "assess_succeeded", "links": 1, "backend": "claude", "attempts": 1, "durationMs": 18702}
+{"timestamp": "2026-08-28T12:01:32+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 46269}
+{"timestamp": "2026-08-28T12:01:32+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:01:51+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 19102}
+{"timestamp": "2026-08-28T12:01:51+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:03:04+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 72878}
+{"timestamp": "2026-08-28T12:03:04+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:03:51+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 47114}
+{"timestamp": "2026-08-28T12:03:51+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:04:12+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 21678}
+{"timestamp": "2026-08-28T12:04:13+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:04:56+00:00", "event": "assess_failed", "errorType": "AgentUnavailable"}
+{"timestamp": "2026-08-28T12:05:53+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:06:53+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 60374}
+{"timestamp": "2026-08-28T12:06:53+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:07:32+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 39117}
+{"timestamp": "2026-08-28T12:07:32+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:08:17+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 44191}
+{"timestamp": "2026-08-28T12:08:17+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:09:22+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 2, "durationMs": 18103}
+{"timestamp": "2026-08-28T12:09:22+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:10:05+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 42822}
+{"timestamp": "2026-08-28T12:10:05+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:10:47+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 42496}
+{"timestamp": "2026-08-28T12:10:47+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:11:43+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 55132}
+{"timestamp": "2026-08-28T12:11:43+00:00", "event": "assess_started", "links": 6}
+{"timestamp": "2026-08-28T12:12:33+00:00", "event": "assess_succeeded", "links": 6, "backend": "claude", "attempts": 1, "durationMs": 50595}
