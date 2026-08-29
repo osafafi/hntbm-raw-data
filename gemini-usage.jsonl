@@ -2292,3 +2292,23 @@
 {"timestamp": "2026-08-29T14:16:34+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:hadith-sira-construction", "backend": "claude", "attempts": 1, "durationMs": 146262}
 {"timestamp": "2026-08-29T14:16:39+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:miracles-unnecessary", "claims": 128}
 {"timestamp": "2026-08-29T14:18:11+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:miracles-unnecessary", "backend": "codex", "attempts": 1, "durationMs": 92051}
+{"timestamp": "2026-08-29T17:38:02+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:38:46+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 44602}
+{"timestamp": "2026-08-29T17:38:46+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:39:30+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 43553}
+{"timestamp": "2026-08-29T17:39:30+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:40:43+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 73227}
+{"timestamp": "2026-08-29T17:40:43+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:41:49+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 65464}
+{"timestamp": "2026-08-29T17:41:49+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:42:46+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 56778}
+{"timestamp": "2026-08-29T17:42:46+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:43:28+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 42485}
+{"timestamp": "2026-08-29T17:43:28+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:44:09+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 40551}
+{"timestamp": "2026-08-29T17:44:09+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:44:53+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 44269}
+{"timestamp": "2026-08-29T17:44:53+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:45:34+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 40570}
+{"timestamp": "2026-08-29T17:45:34+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-29T17:46:45+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 71281}
