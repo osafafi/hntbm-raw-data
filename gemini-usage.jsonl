@@ -2288,3 +2288,7 @@
 {"timestamp": "2026-08-29T13:47:26+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:revelation-unestablished", "claims": 192}
 {"timestamp": "2026-08-29T13:48:53+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:revelation-unestablished", "backend": "codex", "attempts": 1, "durationMs": 86925}
 {"timestamp": "2026-08-29T13:51:09+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:quran-composition", "backend": "claude", "attempts": 2, "durationMs": 128466}
+{"timestamp": "2026-08-29T14:14:08+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:hadith-sira-construction", "claims": 133}
+{"timestamp": "2026-08-29T14:16:34+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:hadith-sira-construction", "backend": "claude", "attempts": 1, "durationMs": 146262}
+{"timestamp": "2026-08-29T14:16:39+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:miracles-unnecessary", "claims": 128}
+{"timestamp": "2026-08-29T14:18:11+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:miracles-unnecessary", "backend": "codex", "attempts": 1, "durationMs": 92051}
