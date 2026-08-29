@@ -2280,3 +2280,11 @@
 {"timestamp": "2026-08-29T07:35:50+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 110650}
 {"timestamp": "2026-08-29T07:35:50+00:00", "event": "canonicalize_reduce_started", "cases": 4}
 {"timestamp": "2026-08-29T07:38:31+00:00", "event": "canonicalize_reduce_succeeded", "cases": 4, "backend": "claude", "attempts": 2, "durationMs": 76901}
+{"timestamp": "2026-08-29T13:24:17+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:islam-human-origin", "claims": 53}
+{"timestamp": "2026-08-29T13:24:19+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:institutional-development", "claims": 157}
+{"timestamp": "2026-08-29T13:25:52+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:institutional-development", "backend": "codex", "attempts": 1, "durationMs": 92742}
+{"timestamp": "2026-08-29T13:28:48+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:islam-human-origin", "backend": "claude", "attempts": 1, "durationMs": 270357}
+{"timestamp": "2026-08-29T13:47:24+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:quran-composition", "claims": 513}
+{"timestamp": "2026-08-29T13:47:26+00:00", "event": "thesis_synthesis_started", "thesisId": "thesis:revelation-unestablished", "claims": 192}
+{"timestamp": "2026-08-29T13:48:53+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:revelation-unestablished", "backend": "codex", "attempts": 1, "durationMs": 86925}
+{"timestamp": "2026-08-29T13:51:09+00:00", "event": "thesis_synthesis_succeeded", "thesisId": "thesis:quran-composition", "backend": "claude", "attempts": 2, "durationMs": 128466}
