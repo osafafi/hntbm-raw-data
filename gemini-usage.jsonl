@@ -2191,3 +2191,92 @@
 {"timestamp": "2026-08-28T13:18:15+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 82570}
 {"timestamp": "2026-08-28T13:18:15+00:00", "event": "suggest_lane_started", "canonicalClaims": 1}
 {"timestamp": "2026-08-28T13:18:29+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 1, "backend": "claude", "attempts": 1, "durationMs": 14022}
+{"timestamp": "2026-08-28T16:01:51+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:37:20+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:40:18+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 177834}
+{"timestamp": "2026-08-29T05:40:18+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:42:37+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 138540}
+{"timestamp": "2026-08-29T05:42:37+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:44:42+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 124993}
+{"timestamp": "2026-08-29T05:44:42+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:46:44+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 121877}
+{"timestamp": "2026-08-29T05:46:44+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:48:13+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 88400}
+{"timestamp": "2026-08-29T05:48:13+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:50:54+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 161472}
+{"timestamp": "2026-08-29T05:50:54+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:54:02+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 188176}
+{"timestamp": "2026-08-29T05:54:03+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:55:24+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 81876}
+{"timestamp": "2026-08-29T05:55:25+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T05:58:22+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 177230}
+{"timestamp": "2026-08-29T05:58:22+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:00:46+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 143623}
+{"timestamp": "2026-08-29T06:00:46+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:02:40+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 114395}
+{"timestamp": "2026-08-29T06:02:40+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:04:28+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 107433}
+{"timestamp": "2026-08-29T06:04:28+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:06:35+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 127437}
+{"timestamp": "2026-08-29T06:06:35+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:09:55+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 199890}
+{"timestamp": "2026-08-29T06:09:55+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:12:11+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 135648}
+{"timestamp": "2026-08-29T06:12:11+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:14:02+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 111136}
+{"timestamp": "2026-08-29T06:14:02+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:16:12+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 129732}
+{"timestamp": "2026-08-29T06:16:12+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:18:12+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 120123}
+{"timestamp": "2026-08-29T06:18:12+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:20:54+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 161222}
+{"timestamp": "2026-08-29T06:20:54+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:23:48+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 174628}
+{"timestamp": "2026-08-29T06:23:49+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:26:11+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 142844}
+{"timestamp": "2026-08-29T06:26:12+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:28:09+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 117423}
+{"timestamp": "2026-08-29T06:28:09+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:30:03+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 113741}
+{"timestamp": "2026-08-29T06:30:03+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:32:22+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 138689}
+{"timestamp": "2026-08-29T06:32:22+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:35:03+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "codex", "attempts": 1, "durationMs": 161103}
+{"timestamp": "2026-08-29T06:35:03+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:35:08+00:00", "event": "canonicalize_reduce_failed", "errorType": "AgentUnavailable"}
+{"timestamp": "2026-08-29T06:41:51+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:43:44+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 113060}
+{"timestamp": "2026-08-29T06:43:44+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:46:24+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 160232}
+{"timestamp": "2026-08-29T06:46:24+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:48:27+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 122596}
+{"timestamp": "2026-08-29T06:48:27+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:51:10+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 162435}
+{"timestamp": "2026-08-29T06:51:10+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:52:56+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 106554}
+{"timestamp": "2026-08-29T06:53:26+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:55:59+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 152604}
+{"timestamp": "2026-08-29T06:55:59+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T06:58:16+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 137075}
+{"timestamp": "2026-08-29T06:58:16+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:01:09+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 172810}
+{"timestamp": "2026-08-29T07:01:09+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:03:09+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 119755}
+{"timestamp": "2026-08-29T07:03:09+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:18:47+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 939782}
+{"timestamp": "2026-08-29T07:18:47+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:20:54+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 126725}
+{"timestamp": "2026-08-29T07:20:54+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:23:00+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 126237}
+{"timestamp": "2026-08-29T07:23:01+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:25:05+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 124467}
+{"timestamp": "2026-08-29T07:25:05+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:28:08+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 182345}
+{"timestamp": "2026-08-29T07:28:08+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:30:54+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 166439}
+{"timestamp": "2026-08-29T07:30:54+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:33:59+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 184523}
+{"timestamp": "2026-08-29T07:33:59+00:00", "event": "canonicalize_reduce_started", "cases": 8}
+{"timestamp": "2026-08-29T07:35:50+00:00", "event": "canonicalize_reduce_succeeded", "cases": 8, "backend": "claude", "attempts": 1, "durationMs": 110650}
+{"timestamp": "2026-08-29T07:35:50+00:00", "event": "canonicalize_reduce_started", "cases": 4}
+{"timestamp": "2026-08-29T07:38:31+00:00", "event": "canonicalize_reduce_succeeded", "cases": 4, "backend": "claude", "attempts": 2, "durationMs": 76901}
