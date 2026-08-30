@@ -2312,3 +2312,223 @@
 {"timestamp": "2026-08-29T17:45:34+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 40570}
 {"timestamp": "2026-08-29T17:45:34+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
 {"timestamp": "2026-08-29T17:46:45+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 71281}
+{"timestamp": "2026-08-30T02:50:10+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:50:12+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:50:56+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 45293}
+{"timestamp": "2026-08-30T02:50:56+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:51:04+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 52185}
+{"timestamp": "2026-08-30T02:51:04+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:52:01+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 65709}
+{"timestamp": "2026-08-30T02:52:01+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:52:18+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 73954}
+{"timestamp": "2026-08-30T02:52:18+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:52:45+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 43662}
+{"timestamp": "2026-08-30T02:52:45+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:53:02+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 44404}
+{"timestamp": "2026-08-30T02:53:02+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:53:29+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 43478}
+{"timestamp": "2026-08-30T02:53:29+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:53:56+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 53516}
+{"timestamp": "2026-08-30T02:53:56+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T02:54:37+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 40904}
+{"timestamp": "2026-08-30T02:54:40+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 71839}
+{"timestamp": "2026-08-30T03:00:02+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:00:03+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:01:03+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 59962}
+{"timestamp": "2026-08-30T03:01:03+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:01:27+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 85098}
+{"timestamp": "2026-08-30T03:01:27+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:01:54+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 50357}
+{"timestamp": "2026-08-30T03:01:54+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:02:40+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 45964}
+{"timestamp": "2026-08-30T03:02:40+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:02:49+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 82586}
+{"timestamp": "2026-08-30T03:02:49+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:03:41+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 61178}
+{"timestamp": "2026-08-30T03:03:41+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:03:54+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 65140}
+{"timestamp": "2026-08-30T03:03:55+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:05:05+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 70192}
+{"timestamp": "2026-08-30T03:05:05+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:05:08+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 87012}
+{"timestamp": "2026-08-30T03:05:47+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 41753}
+{"timestamp": "2026-08-30T03:08:02+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:08:04+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:08:56+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 52597}
+{"timestamp": "2026-08-30T03:08:56+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:09:12+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 70236}
+{"timestamp": "2026-08-30T03:09:12+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:09:36+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "codex", "attempts": 1, "durationMs": 39897}
+{"timestamp": "2026-08-30T03:09:58+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 45470}
+{"timestamp": "2026-08-30T03:09:58+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:10:39+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 40784}
+{"timestamp": "2026-08-30T03:10:39+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:11:38+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 59239}
+{"timestamp": "2026-08-30T03:11:38+00:00", "event": "suggest_lane_started", "canonicalClaims": 1}
+{"timestamp": "2026-08-30T03:11:47+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 1, "backend": "claude", "attempts": 1, "durationMs": 9150}
+{"timestamp": "2026-08-30T03:12:31+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:13:47+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 75756}
+{"timestamp": "2026-08-30T03:13:47+00:00", "event": "suggest_lane_started", "canonicalClaims": 20}
+{"timestamp": "2026-08-30T03:14:30+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 20, "backend": "claude", "attempts": 1, "durationMs": 42678}
+{"timestamp": "2026-08-30T03:14:30+00:00", "event": "suggest_lane_started", "canonicalClaims": 1}
+{"timestamp": "2026-08-30T03:14:39+00:00", "event": "suggest_lane_succeeded", "canonicalClaims": 1, "backend": "claude", "attempts": 1, "durationMs": 9351}
+{"timestamp": "2026-08-30T03:31:47+00:00", "event": "research_started", "claimId": "cc:mary-the-mother-of-jesus-who-lived-in-the-first-century-ce-cannot-be-the-mary-who-was"}
+{"timestamp": "2026-08-30T03:31:51+00:00", "event": "research_started", "claimId": "cc:surat-quraysh-was-produced-to-offer-the-quraysh-material-inducements-to-accept-the-new"}
+{"timestamp": "2026-08-30T03:33:05+00:00", "event": "research_succeeded", "claimId": "cc:surat-quraysh-was-produced-to-offer-the-quraysh-material-inducements-to-accept-the-new", "backend": "codex", "attempts": 1, "durationMs": 73781}
+{"timestamp": "2026-08-30T03:33:05+00:00", "event": "research_started", "claimId": "cc:the-verses-of-surat-al-qalam-addressed-to-al-walid-ibn-al-mughira-use-personal-abuse-and"}
+{"timestamp": "2026-08-30T03:33:51+00:00", "event": "research_succeeded", "claimId": "cc:the-verses-of-surat-al-qalam-addressed-to-al-walid-ibn-al-mughira-use-personal-abuse-and", "backend": "codex", "attempts": 1, "durationMs": 46001}
+{"timestamp": "2026-08-30T03:33:51+00:00", "event": "research_started", "claimId": "cc:a-british-library-qur-an-manuscript-titles-surat-al-shu-ara-as-ta-sin-mim-al-shu-ara"}
+{"timestamp": "2026-08-30T03:33:54+00:00", "event": "research_succeeded", "claimId": "cc:mary-the-mother-of-jesus-who-lived-in-the-first-century-ce-cannot-be-the-mary-who-was", "backend": "claude", "attempts": 1, "durationMs": 126310}
+{"timestamp": "2026-08-30T03:33:54+00:00", "event": "research_started", "claimId": "cc:sahih-al-bukhari-records-a-report-in-which-muhammad-asked-what-existed-before-the-heavens"}
+{"timestamp": "2026-08-30T03:34:59+00:00", "event": "research_succeeded", "claimId": "cc:sahih-al-bukhari-records-a-report-in-which-muhammad-asked-what-existed-before-the-heavens", "backend": "claude", "attempts": 1, "durationMs": 65114}
+{"timestamp": "2026-08-30T03:34:59+00:00", "event": "research_started", "claimId": "cc:the-narrative-of-qur-an-18-83-96-concerns-dhu-al-qarnayn-s-movement-among-places-on-earth"}
+{"timestamp": "2026-08-30T03:35:43+00:00", "event": "research_succeeded", "claimId": "cc:a-british-library-qur-an-manuscript-titles-surat-al-shu-ara-as-ta-sin-mim-al-shu-ara", "backend": "codex", "attempts": 1, "durationMs": 112109}
+{"timestamp": "2026-08-30T03:35:43+00:00", "event": "research_started", "claimId": "cc:a-holder-of-the-highest-zoroastrian-priestly-office-is-held-to-have-necessarily-memorized"}
+{"timestamp": "2026-08-30T03:37:01+00:00", "event": "research_succeeded", "claimId": "cc:the-narrative-of-qur-an-18-83-96-concerns-dhu-al-qarnayn-s-movement-among-places-on-earth", "backend": "claude", "attempts": 1, "durationMs": 121887}
+{"timestamp": "2026-08-30T03:37:01+00:00", "event": "research_started", "claimId": "cc:the-qur-an-addresses-mary-the-mother-of-jesus-as-sister-of-aaron-q-19-27-28-and-names-her"}
+{"timestamp": "2026-08-30T03:37:22+00:00", "event": "research_succeeded", "claimId": "cc:a-holder-of-the-highest-zoroastrian-priestly-office-is-held-to-have-necessarily-memorized", "backend": "codex", "attempts": 1, "durationMs": 98485}
+{"timestamp": "2026-08-30T03:37:22+00:00", "event": "research_started", "claimId": "cc:a-palestinian-coin-dated-647-658-bears-the-word-muhammad-beside-a-cross-bearing-figure"}
+{"timestamp": "2026-08-30T03:38:06+00:00", "event": "research_succeeded", "claimId": "cc:the-qur-an-addresses-mary-the-mother-of-jesus-as-sister-of-aaron-q-19-27-28-and-names-her", "backend": "claude", "attempts": 1, "durationMs": 65462}
+{"timestamp": "2026-08-30T03:38:06+00:00", "event": "research_started", "claimId": "cc:umar-is-reported-to-have-said-that-the-stoning-verse-was-revealed-recited-understood-and"}
+{"timestamp": "2026-08-30T03:38:38+00:00", "event": "research_succeeded", "claimId": "cc:a-palestinian-coin-dated-647-658-bears-the-word-muhammad-beside-a-cross-bearing-figure", "backend": "codex", "attempts": 1, "durationMs": 76265}
+{"timestamp": "2026-08-30T03:38:38+00:00", "event": "research_started", "claimId": "cc:a-special-qur-anic-verse-prohibited-adoption"}
+{"timestamp": "2026-08-30T03:39:05+00:00", "event": "research_succeeded", "claimId": "cc:umar-is-reported-to-have-said-that-the-stoning-verse-was-revealed-recited-understood-and", "backend": "claude", "attempts": 1, "durationMs": 58783}
+{"timestamp": "2026-08-30T03:39:05+00:00", "event": "research_started", "claimId": "cc:a-british-library-qur-an-manuscript-titles-surat-al-naml-as-ta-sin-al-naml"}
+{"timestamp": "2026-08-30T03:39:44+00:00", "event": "research_succeeded", "claimId": "cc:a-special-qur-anic-verse-prohibited-adoption", "backend": "codex", "attempts": 1, "durationMs": 65636}
+{"timestamp": "2026-08-30T03:39:44+00:00", "event": "research_started", "claimId": "cc:abd-al-malik-and-al-hajjaj-burned-uthman-s-codex-because-their-new-text-differed"}
+{"timestamp": "2026-08-30T03:40:54+00:00", "event": "research_succeeded", "claimId": "cc:a-british-library-qur-an-manuscript-titles-surat-al-naml-as-ta-sin-al-naml", "backend": "claude", "attempts": 1, "durationMs": 108748}
+{"timestamp": "2026-08-30T03:40:54+00:00", "event": "research_started", "claimId": "cc:a-cosmology-in-which-the-sun-revolves-around-a-flat-earth-is-presented-as-explaining-the"}
+{"timestamp": "2026-08-30T03:41:25+00:00", "event": "research_succeeded", "claimId": "cc:abd-al-malik-and-al-hajjaj-burned-uthman-s-codex-because-their-new-text-differed", "backend": "codex", "attempts": 1, "durationMs": 101299}
+{"timestamp": "2026-08-30T03:41:25+00:00", "event": "research_started", "claimId": "cc:abd-al-malik-is-reported-to-have-said-that-he-collected-the-qur-an-in-ramadan-and-feared"}
+{"timestamp": "2026-08-30T03:42:23+00:00", "event": "research_succeeded", "claimId": "cc:a-cosmology-in-which-the-sun-revolves-around-a-flat-earth-is-presented-as-explaining-the", "backend": "claude", "attempts": 1, "durationMs": 88815}
+{"timestamp": "2026-08-30T03:42:23+00:00", "event": "research_started", "claimId": "cc:a-hadith-states-that-every-child-is-born-upon-the-fitra-and-that-the-child-s-parents-then"}
+{"timestamp": "2026-08-30T03:42:39+00:00", "event": "research_succeeded", "claimId": "cc:abd-al-malik-is-reported-to-have-said-that-he-collected-the-qur-an-in-ramadan-and-feared", "backend": "codex", "attempts": 1, "durationMs": 73157}
+{"timestamp": "2026-08-30T03:42:39+00:00", "event": "research_started", "claimId": "cc:abd-allah-ibn-mas-ud-is-reported-to-have-read-inna-al-dina-inda-allahi-al-hanifiyyah-in"}
+{"timestamp": "2026-08-30T03:43:15+00:00", "event": "research_succeeded", "claimId": "cc:a-hadith-states-that-every-child-is-born-upon-the-fitra-and-that-the-child-s-parents-then", "backend": "claude", "attempts": 1, "durationMs": 52499}
+{"timestamp": "2026-08-30T03:43:15+00:00", "event": "research_started", "claimId": "cc:a-later-british-library-qur-anic-manuscript-contains-about-two-thirds-of-the-qur-an"}
+{"timestamp": "2026-08-30T03:43:45+00:00", "event": "research_succeeded", "claimId": "cc:abd-allah-ibn-mas-ud-is-reported-to-have-read-inna-al-dina-inda-allahi-al-hanifiyyah-in", "backend": "codex", "attempts": 1, "durationMs": 66503}
+{"timestamp": "2026-08-30T03:43:45+00:00", "event": "research_started", "claimId": "cc:abdullah-ibn-mas-ud-objected-strongly-to-zayd-ibn-thabit-heading-the-qur-an-compilation"}
+{"timestamp": "2026-08-30T03:44:58+00:00", "event": "research_succeeded", "claimId": "cc:a-later-british-library-qur-anic-manuscript-contains-about-two-thirds-of-the-qur-an", "backend": "claude", "attempts": 1, "durationMs": 102586}
+{"timestamp": "2026-08-30T03:44:58+00:00", "event": "research_started", "claimId": "cc:a-later-british-library-qur-anic-manuscript-lacks-vocalization-and-its-consonantal"}
+{"timestamp": "2026-08-30T03:45:09+00:00", "event": "research_succeeded", "claimId": "cc:abdullah-ibn-mas-ud-objected-strongly-to-zayd-ibn-thabit-heading-the-qur-an-compilation", "backend": "codex", "attempts": 1, "durationMs": 83611}
+{"timestamp": "2026-08-30T03:45:09+00:00", "event": "research_started", "claimId": "cc:abu-hurayra-later-produced-thousands-of-political-hadiths-supporting-abu-bakr-and-umar"}
+{"timestamp": "2026-08-30T03:46:47+00:00", "event": "research_succeeded", "claimId": "cc:abu-hurayra-later-produced-thousands-of-political-hadiths-supporting-abu-bakr-and-umar", "backend": "codex", "attempts": 1, "durationMs": 98259}
+{"timestamp": "2026-08-30T03:46:47+00:00", "event": "research_started", "claimId": "cc:after-muhammad-acquired-wealth-and-power-from-the-raids-and-badr-a-new-qur-anic-passage"}
+{"timestamp": "2026-08-30T03:47:23+00:00", "event": "research_succeeded", "claimId": "cc:a-later-british-library-qur-anic-manuscript-lacks-vocalization-and-its-consonantal", "backend": "claude", "attempts": 1, "durationMs": 144993}
+{"timestamp": "2026-08-30T03:47:23+00:00", "event": "research_started", "claimId": "cc:a-passage-in-the-book-of-job-describes-a-person-as-formed-from-clay-curdled-like-cheese"}
+{"timestamp": "2026-08-30T03:47:52+00:00", "event": "research_succeeded", "claimId": "cc:after-muhammad-acquired-wealth-and-power-from-the-raids-and-badr-a-new-qur-anic-passage", "backend": "codex", "attempts": 1, "durationMs": 65411}
+{"timestamp": "2026-08-30T03:47:53+00:00", "event": "research_started", "claimId": "cc:after-the-arab-entry-into-syria-and-iraq-following-what-are-called-the-islamic-conquests"}
+{"timestamp": "2026-08-30T03:48:17+00:00", "event": "research_succeeded", "claimId": "cc:a-passage-in-the-book-of-job-describes-a-person-as-formed-from-clay-curdled-like-cheese", "backend": "claude", "attempts": 1, "durationMs": 54000}
+{"timestamp": "2026-08-30T03:48:17+00:00", "event": "research_started", "claimId": "cc:a-report-judged-sound-in-sahih-al-bukhari-says-that-muhammad-had-intercourse-with-all-his"}
+{"timestamp": "2026-08-30T03:53:15+00:00", "event": "research_succeeded", "claimId": "cc:a-report-judged-sound-in-sahih-al-bukhari-says-that-muhammad-had-intercourse-with-all-his", "backend": "claude", "attempts": 1, "durationMs": 298744}
+{"timestamp": "2026-08-30T03:53:15+00:00", "event": "research_started", "claimId": "cc:a-sura-cannot-open-with-and-we-gave-moses-the-book-so-something-must-have-preceded-q17-2"}
+{"timestamp": "2026-08-30T03:53:54+00:00", "event": "research_succeeded", "claimId": "cc:after-the-arab-entry-into-syria-and-iraq-following-what-are-called-the-islamic-conquests", "backend": "codex", "attempts": 1, "durationMs": 363100}
+{"timestamp": "2026-08-30T03:53:54+00:00", "event": "research_started", "claimId": "cc:aisha-is-reported-to-have-said-that-surat-al-ahzab-once-contained-about-two-hundred"}
+{"timestamp": "2026-08-30T03:54:51+00:00", "event": "research_succeeded", "claimId": "cc:aisha-is-reported-to-have-said-that-surat-al-ahzab-once-contained-about-two-hundred", "backend": "codex", "attempts": 1, "durationMs": 56708}
+{"timestamp": "2026-08-30T03:54:51+00:00", "event": "research_started", "claimId": "cc:al-bukhari-was-born-roughly-two-hundred-years-after-muhammad-s-death"}
+{"timestamp": "2026-08-30T03:54:57+00:00", "event": "research_succeeded", "claimId": "cc:a-sura-cannot-open-with-and-we-gave-moses-the-book-so-something-must-have-preceded-q17-2", "backend": "claude", "attempts": 1, "durationMs": 102636}
+{"timestamp": "2026-08-30T03:54:57+00:00", "event": "research_started", "claimId": "cc:a-zoroastrian-story-portrays-the-zoroastrian-prophet-flying-on-a-winged-camel"}
+{"timestamp": "2026-08-30T03:55:52+00:00", "event": "research_succeeded", "claimId": "cc:al-bukhari-was-born-roughly-two-hundred-years-after-muhammad-s-death", "backend": "codex", "attempts": 1, "durationMs": 60453}
+{"timestamp": "2026-08-30T03:55:52+00:00", "event": "research_started", "claimId": "cc:al-hajjaj-ibn-yusuf-prohibited-and-destroyed-ibn-mas-ud-s-codex-because-abd-al-malik-ibn"}
+{"timestamp": "2026-08-30T03:56:33+00:00", "event": "research_succeeded", "claimId": "cc:a-zoroastrian-story-portrays-the-zoroastrian-prophet-flying-on-a-winged-camel", "backend": "claude", "attempts": 1, "durationMs": 95552}
+{"timestamp": "2026-08-30T03:56:33+00:00", "event": "research_started", "claimId": "cc:abd-al-malik-b-marwan-was-the-first-to-proclaim-and-inscribe-the-formula-muhammad-is-the"}
+{"timestamp": "2026-08-30T03:58:00+00:00", "event": "research_succeeded", "claimId": "cc:al-hajjaj-ibn-yusuf-prohibited-and-destroyed-ibn-mas-ud-s-codex-because-abd-al-malik-ibn", "backend": "codex", "attempts": 1, "durationMs": 128368}
+{"timestamp": "2026-08-30T03:58:00+00:00", "event": "research_started", "claimId": "cc:al-tabari-s-report-indicates-that-a-work-identified-as-ahiqar-or-luqman-was-known-in"}
+{"timestamp": "2026-08-30T03:58:19+00:00", "event": "research_succeeded", "claimId": "cc:abd-al-malik-b-marwan-was-the-first-to-proclaim-and-inscribe-the-formula-muhammad-is-the", "backend": "claude", "attempts": 1, "durationMs": 105544}
+{"timestamp": "2026-08-30T03:58:19+00:00", "event": "research_started", "claimId": "cc:abd-al-malik-ibn-marwan-had-a-role-in-shaping-the-form-of-islam-known-today"}
+{"timestamp": "2026-08-30T03:59:56+00:00", "event": "research_succeeded", "claimId": "cc:al-tabari-s-report-indicates-that-a-work-identified-as-ahiqar-or-luqman-was-known-in", "backend": "codex", "attempts": 1, "durationMs": 115931}
+{"timestamp": "2026-08-30T03:59:56+00:00", "event": "research_started", "claimId": "cc:alexander-s-appearance-later-in-the-same-danielic-vision-led-muhammad-and-subsequent"}
+{"timestamp": "2026-08-30T04:00:36+00:00", "event": "research_succeeded", "claimId": "cc:abd-al-malik-ibn-marwan-had-a-role-in-shaping-the-form-of-islam-known-today", "backend": "claude", "attempts": 2, "durationMs": 58238}
+{"timestamp": "2026-08-30T04:00:36+00:00", "event": "research_started", "claimId": "cc:abd-al-malik-s-project-of-creating-a-single-identity-and-religion-was-reflected-in-his"}
+{"timestamp": "2026-08-30T04:01:18+00:00", "event": "research_succeeded", "claimId": "cc:alexander-s-appearance-later-in-the-same-danielic-vision-led-muhammad-and-subsequent", "backend": "codex", "attempts": 1, "durationMs": 82200}
+{"timestamp": "2026-08-30T04:01:18+00:00", "event": "research_started", "claimId": "cc:although-the-qur-an-declares-itself-brought-down-in-clear-arabic-it-reproduces-foreign"}
+{"timestamp": "2026-08-30T04:01:50+00:00", "event": "research_succeeded", "claimId": "cc:abd-al-malik-s-project-of-creating-a-single-identity-and-religion-was-reflected-in-his", "backend": "claude", "attempts": 1, "durationMs": 73997}
+{"timestamp": "2026-08-30T04:01:50+00:00", "event": "research_started", "claimId": "cc:abd-allah-ibn-abi-sarh-is-reported-to-have-suggested-wording-while-acting-as-scribe-for"}
+{"timestamp": "2026-08-30T04:02:13+00:00", "event": "research_succeeded", "claimId": "cc:although-the-qur-an-declares-itself-brought-down-in-clear-arabic-it-reproduces-foreign", "backend": "codex", "attempts": 1, "durationMs": 54773}
+{"timestamp": "2026-08-30T04:02:13+00:00", "event": "research_started", "claimId": "cc:an-early-coin-bears-the-arabic-inscription-muhammad-is-the-messenger-of-god-on-one-face"}
+{"timestamp": "2026-08-30T04:03:11+00:00", "event": "research_succeeded", "claimId": "cc:an-early-coin-bears-the-arabic-inscription-muhammad-is-the-messenger-of-god-on-one-face", "backend": "codex", "attempts": 1, "durationMs": 57939}
+{"timestamp": "2026-08-30T04:03:11+00:00", "event": "research_started", "claimId": "cc:an-inscription-at-the-syrian-baths-bears-a-cross-alongside-the-words-in-the-days-of"}
+{"timestamp": "2026-08-30T04:04:27+00:00", "event": "research_succeeded", "claimId": "cc:abd-allah-ibn-abi-sarh-is-reported-to-have-suggested-wording-while-acting-as-scribe-for", "backend": "claude", "attempts": 1, "durationMs": 156947}
+{"timestamp": "2026-08-30T04:04:27+00:00", "event": "research_started", "claimId": "cc:abdullah-ibn-al-zubayr-established-a-rival-caliphate-in-mecca-against-the-umayyads-and"}
+{"timestamp": "2026-08-30T04:05:22+00:00", "event": "research_succeeded", "claimId": "cc:an-inscription-at-the-syrian-baths-bears-a-cross-alongside-the-words-in-the-days-of", "backend": "codex", "attempts": 1, "durationMs": 130816}
+{"timestamp": "2026-08-30T04:05:22+00:00", "event": "research_started", "claimId": "cc:an-original-coin-from-alexander-the-great-s-own-time-depicts-him-with-a-horn"}
+{"timestamp": "2026-08-30T04:06:01+00:00", "event": "research_succeeded", "claimId": "cc:abdullah-ibn-al-zubayr-established-a-rival-caliphate-in-mecca-against-the-umayyads-and", "backend": "claude", "attempts": 1, "durationMs": 93949}
+{"timestamp": "2026-08-30T04:06:01+00:00", "event": "research_started", "claimId": "cc:abdullah-ibn-mas-ud-is-reported-to-have-sworn-that-the-mu-awwidhatayn-surat-al-falaq-and"}
+{"timestamp": "2026-08-30T04:06:40+00:00", "event": "research_succeeded", "claimId": "cc:an-original-coin-from-alexander-the-great-s-own-time-depicts-him-with-a-horn", "backend": "codex", "attempts": 1, "durationMs": 78359}
+{"timestamp": "2026-08-30T04:06:40+00:00", "event": "research_started", "claimId": "cc:anas-ibn-malik-asked-about-uthman-s-codex-replied-that-it-had-disappeared"}
+{"timestamp": "2026-08-30T04:07:44+00:00", "event": "research_succeeded", "claimId": "cc:anas-ibn-malik-asked-about-uthman-s-codex-replied-that-it-had-disappeared", "backend": "codex", "attempts": 1, "durationMs": 63699}
+{"timestamp": "2026-08-30T04:07:44+00:00", "event": "research_started", "claimId": "cc:arabs-and-bedouins-of-the-arabian-peninsula-believed-in-jinn-for-thousands-of-years"}
+{"timestamp": "2026-08-30T04:08:32+00:00", "event": "research_succeeded", "claimId": "cc:abdullah-ibn-mas-ud-is-reported-to-have-sworn-that-the-mu-awwidhatayn-surat-al-falaq-and", "backend": "claude", "attempts": 1, "durationMs": 150905}
+{"timestamp": "2026-08-30T04:08:32+00:00", "event": "research_started", "claimId": "cc:abrahah-was-an-abyssinian-military-commander-who-took-power-in-yemen-by-coup-and-died-in"}
+{"timestamp": "2026-08-30T04:09:07+00:00", "event": "research_succeeded", "claimId": "cc:arabs-and-bedouins-of-the-arabian-peninsula-believed-in-jinn-for-thousands-of-years", "backend": "codex", "attempts": 1, "durationMs": 82433}
+{"timestamp": "2026-08-30T04:09:07+00:00", "event": "research_started", "claimId": "cc:as-governor-of-syria-mu-awiya-detached-himself-from-mecca-medina-and-the-authority-of-the"}
+{"timestamp": "2026-08-30T04:09:57+00:00", "event": "research_succeeded", "claimId": "cc:abrahah-was-an-abyssinian-military-commander-who-took-power-in-yemen-by-coup-and-died-in", "backend": "claude", "attempts": 1, "durationMs": 85326}
+{"timestamp": "2026-08-30T04:09:58+00:00", "event": "research_started", "claimId": "cc:abu-bakr-assigned-zayd-ibn-thabit-to-collect-only-the-dispersed-qur-anic-material-that"}
+{"timestamp": "2026-08-30T04:10:15+00:00", "event": "research_succeeded", "claimId": "cc:as-governor-of-syria-mu-awiya-detached-himself-from-mecca-medina-and-the-authority-of-the", "backend": "codex", "attempts": 1, "durationMs": 68550}
+{"timestamp": "2026-08-30T04:10:15+00:00", "event": "research_started", "claimId": "cc:at-the-conquest-of-mecca-abu-sufyan-and-mu-awiya-were-placed-among-those-whose-hearts-are"}
+{"timestamp": "2026-08-30T04:11:28+00:00", "event": "research_succeeded", "claimId": "cc:abu-bakr-assigned-zayd-ibn-thabit-to-collect-only-the-dispersed-qur-anic-material-that", "backend": "claude", "attempts": 1, "durationMs": 90197}
+{"timestamp": "2026-08-30T04:11:28+00:00", "event": "research_started", "claimId": "cc:according-to-sebeos-jews-left-without-sasanian-support-turned-to-the-arabs-and-asked"}
+{"timestamp": "2026-08-30T04:11:49+00:00", "event": "research_succeeded", "claimId": "cc:at-the-conquest-of-mecca-abu-sufyan-and-mu-awiya-were-placed-among-those-whose-hearts-are", "backend": "codex", "attempts": 1, "durationMs": 93444}
+{"timestamp": "2026-08-30T04:11:49+00:00", "event": "research_started", "claimId": "cc:at-the-time-of-the-qur-an-s-emergence-arabic-was-not-an-established-written-literary"}
+{"timestamp": "2026-08-30T04:13:07+00:00", "event": "research_succeeded", "claimId": "cc:at-the-time-of-the-qur-an-s-emergence-arabic-was-not-an-established-written-literary", "backend": "codex", "attempts": 1, "durationMs": 78329}
+{"timestamp": "2026-08-30T04:13:07+00:00", "event": "research_started", "claimId": "cc:avestan-eschatology-describes-a-life-after-death-in-which-the-great-god-raises-people"}
+{"timestamp": "2026-08-30T04:13:17+00:00", "event": "research_succeeded", "claimId": "cc:according-to-sebeos-jews-left-without-sasanian-support-turned-to-the-arabs-and-asked", "backend": "claude", "attempts": 1, "durationMs": 108955}
+{"timestamp": "2026-08-30T04:13:17+00:00", "event": "research_started", "claimId": "cc:after-aisha-and-other-wives-acted-against-muhammad-a-verse-was-produced-instructing-them"}
+{"timestamp": "2026-08-30T04:14:33+00:00", "event": "research_succeeded", "claimId": "cc:avestan-eschatology-describes-a-life-after-death-in-which-the-great-god-raises-people", "backend": "codex", "attempts": 1, "durationMs": 86062}
+{"timestamp": "2026-08-30T04:14:33+00:00", "event": "research_started", "claimId": "cc:before-islam-the-ka-ba-was-a-place-of-worship-for-many-religions-beliefs-and-groups"}
+{"timestamp": "2026-08-30T04:14:42+00:00", "event": "research_succeeded", "claimId": "cc:after-aisha-and-other-wives-acted-against-muhammad-a-verse-was-produced-instructing-them", "backend": "claude", "attempts": 1, "durationMs": 85618}
+{"timestamp": "2026-08-30T04:14:42+00:00", "event": "research_started", "claimId": "cc:after-muhammad-s-death-abdullah-ibn-mas-ud-and-ubayy-ibn-ka-b-each-undertook-a-collection"}
+{"timestamp": "2026-08-30T04:15:33+00:00", "event": "research_succeeded", "claimId": "cc:before-islam-the-ka-ba-was-a-place-of-worship-for-many-religions-beliefs-and-groups", "backend": "codex", "attempts": 1, "durationMs": 59943}
+{"timestamp": "2026-08-30T04:15:33+00:00", "event": "research_started", "claimId": "cc:before-islam-zayd-ibn-amr-preached-one-indivisible-god"}
+{"timestamp": "2026-08-30T06:12:12+00:00", "event": "research_succeeded", "claimId": "cc:after-muhammad-s-death-abdullah-ibn-mas-ud-and-ubayy-ibn-ka-b-each-undertook-a-collection", "backend": "claude", "attempts": 1, "durationMs": 7050974}
+{"timestamp": "2026-08-30T06:12:12+00:00", "event": "research_started", "claimId": "cc:after-muhammad-s-death-abu-bakr-sent-qur-an-memorizers-to-recite-to-and-motivate-fighters"}
+{"timestamp": "2026-08-30T06:12:32+00:00", "event": "research_succeeded", "claimId": "cc:before-islam-zayd-ibn-amr-preached-one-indivisible-god", "backend": "codex", "attempts": 1, "durationMs": 7020384}
+{"timestamp": "2026-08-30T06:12:32+00:00", "event": "research_started", "claimId": "cc:beyond-differences-in-verse-counts-and-sura-titles-a-british-library-qur-an-manuscript"}
+{"timestamp": "2026-08-30T06:14:09+00:00", "event": "research_succeeded", "claimId": "cc:after-muhammad-s-death-abu-bakr-sent-qur-an-memorizers-to-recite-to-and-motivate-fighters", "backend": "claude", "attempts": 1, "durationMs": 116408}
+{"timestamp": "2026-08-30T06:14:09+00:00", "event": "research_started", "claimId": "cc:after-the-hijra-provided-greater-security-freedom-and-support-the-qur-anic-message"}
+{"timestamp": "2026-08-30T06:14:17+00:00", "event": "research_succeeded", "claimId": "cc:beyond-differences-in-verse-counts-and-sura-titles-a-british-library-qur-an-manuscript", "backend": "codex", "attempts": 1, "durationMs": 104482}
+{"timestamp": "2026-08-30T06:14:17+00:00", "event": "research_started", "claimId": "cc:by-the-caliphate-of-uthman-many-companions-possessed-separate-codices-of-the-qur-an-that"}
+{"timestamp": "2026-08-30T06:15:11+00:00", "event": "research_succeeded", "claimId": "cc:after-the-hijra-provided-greater-security-freedom-and-support-the-qur-anic-message", "backend": "claude", "attempts": 1, "durationMs": 61847}
+{"timestamp": "2026-08-30T06:15:11+00:00", "event": "research_started", "claimId": "cc:aisha-is-reported-to-have-said-that-qur-anic-verses-prescribing-ten-known-sucklings-were"}
+{"timestamp": "2026-08-30T06:15:42+00:00", "event": "research_succeeded", "claimId": "cc:by-the-caliphate-of-uthman-many-companions-possessed-separate-codices-of-the-qur-an-that", "backend": "codex", "attempts": 1, "durationMs": 84622}
+{"timestamp": "2026-08-30T06:15:42+00:00", "event": "research_started", "claimId": "cc:byzantine-historical-writing-contains-no-account-of-the-conquest-of-syria-and-no-traces"}
+{"timestamp": "2026-08-30T06:16:25+00:00", "event": "research_succeeded", "claimId": "cc:byzantine-historical-writing-contains-no-account-of-the-conquest-of-syria-and-no-traces", "backend": "codex", "attempts": 1, "durationMs": 43830}
+{"timestamp": "2026-08-30T06:16:26+00:00", "event": "research_started", "claimId": "cc:christian-iconography-including-paintings-at-the-wadi-el-natrun-monastery-depicts-abraham"}
+{"timestamp": "2026-08-30T06:17:04+00:00", "event": "research_succeeded", "claimId": "cc:aisha-is-reported-to-have-said-that-qur-anic-verses-prescribing-ten-known-sucklings-were", "backend": "claude", "attempts": 1, "durationMs": 112939}
+{"timestamp": "2026-08-30T06:17:04+00:00", "event": "research_started", "claimId": "cc:aisha-would-have-been-at-least-seventeen-years-old-at-the-time-of-khaybar"}
+{"timestamp": "2026-08-30T06:18:04+00:00", "event": "research_succeeded", "claimId": "cc:christian-iconography-including-paintings-at-the-wadi-el-natrun-monastery-depicts-abraham", "backend": "codex", "attempts": 1, "durationMs": 98063}
+{"timestamp": "2026-08-30T06:18:04+00:00", "event": "research_started", "claimId": "cc:claiming-prophethood-was-a-widespread-phenomenon-in-mecca-in-that-period-with-several"}
+{"timestamp": "2026-08-30T06:19:03+00:00", "event": "research_succeeded", "claimId": "cc:claiming-prophethood-was-a-widespread-phenomenon-in-mecca-in-that-period-with-several", "backend": "codex", "attempts": 1, "durationMs": 59433}
+{"timestamp": "2026-08-30T06:19:03+00:00", "event": "research_started", "claimId": "cc:classical-tafsirs-describe-the-qur-anic-dukhan-as-water-vapour"}
+{"timestamp": "2026-08-30T06:20:15+00:00", "event": "research_succeeded", "claimId": "cc:classical-tafsirs-describe-the-qur-anic-dukhan-as-water-vapour", "backend": "codex", "attempts": 1, "durationMs": 72151}
+{"timestamp": "2026-08-30T06:20:15+00:00", "event": "research_started", "claimId": "cc:classical-tafsirs-read-the-verse-as-god-commanding-the-sea-to-cast-out-pharaoh-s-body-as"}
+{"timestamp": "2026-08-30T06:21:09+00:00", "event": "research_succeeded", "claimId": "cc:classical-tafsirs-read-the-verse-as-god-commanding-the-sea-to-cast-out-pharaoh-s-body-as", "backend": "codex", "attempts": 1, "durationMs": 54163}
+{"timestamp": "2026-08-30T06:21:10+00:00", "event": "research_started", "claimId": "cc:coins-issued-under-abd-al-malik-resembled-the-byzantine-solidus-and-the-sasanian-dirham"}
+{"timestamp": "2026-08-30T06:21:55+00:00", "event": "research_succeeded", "claimId": "cc:coins-issued-under-abd-al-malik-resembled-the-byzantine-solidus-and-the-sasanian-dirham", "backend": "codex", "attempts": 1, "durationMs": 45613}
+{"timestamp": "2026-08-30T06:21:55+00:00", "event": "research_started", "claimId": "cc:companion-codices-reported-to-contain-108-and-105-surahs-set-against-the-114-of-the"}
+{"timestamp": "2026-08-30T06:22:01+00:00", "event": "research_succeeded", "claimId": "cc:aisha-would-have-been-at-least-seventeen-years-old-at-the-time-of-khaybar", "backend": "claude", "attempts": 1, "durationMs": 297402}
+{"timestamp": "2026-08-30T06:22:01+00:00", "event": "research_started", "claimId": "cc:al-bukhari-claimed-to-have-gathered-600-000-hadiths-and-retained-about-7-500-for-sahih-al"}
+{"timestamp": "2026-08-30T06:23:03+00:00", "event": "research_succeeded", "claimId": "cc:companion-codices-reported-to-contain-108-and-105-surahs-set-against-the-114-of-the", "backend": "codex", "attempts": 1, "durationMs": 68145}
+{"timestamp": "2026-08-30T06:23:03+00:00", "event": "research_started", "claimId": "cc:contemporary-texts-indicate-that-jews-of-the-period-regarded-the-prophet-of-the-arabs-as"}
+{"timestamp": "2026-08-30T06:24:08+00:00", "event": "research_succeeded", "claimId": "cc:al-bukhari-claimed-to-have-gathered-600-000-hadiths-and-retained-about-7-500-for-sahih-al", "backend": "claude", "attempts": 1, "durationMs": 126964}
+{"timestamp": "2026-08-30T06:24:08+00:00", "event": "research_started", "claimId": "cc:al-bukhari-was-not-venerated-during-his-lifetime-his-veneration-accumulated-over-the"}
+{"timestamp": "2026-08-30T06:24:09+00:00", "event": "research_succeeded", "claimId": "cc:contemporary-texts-indicate-that-jews-of-the-period-regarded-the-prophet-of-the-arabs-as", "backend": "codex", "attempts": 1, "durationMs": 66102}
+{"timestamp": "2026-08-30T06:25:46+00:00", "event": "research_succeeded", "claimId": "cc:al-bukhari-was-not-venerated-during-his-lifetime-his-veneration-accumulated-over-the", "backend": "claude", "attempts": 1, "durationMs": 97602}
+{"timestamp": "2026-08-30T06:25:46+00:00", "event": "research_started", "claimId": "cc:al-hajjaj-ibn-yusuf-and-ubayd-allah-ibn-ziyad-introduced-modifications-to-the-written"}
+{"timestamp": "2026-08-30T06:28:00+00:00", "event": "research_succeeded", "claimId": "cc:al-hajjaj-ibn-yusuf-and-ubayd-allah-ibn-ziyad-introduced-modifications-to-the-written", "backend": "claude", "attempts": 1, "durationMs": 133992}
+{"timestamp": "2026-08-30T06:28:00+00:00", "event": "research_started", "claimId": "cc:al-hajjaj-ordered-all-pre-existing-codices-burned-and-distributed-copies-of-a-new"}
+{"timestamp": "2026-08-30T06:30:27+00:00", "event": "research_succeeded", "claimId": "cc:al-hajjaj-ordered-all-pre-existing-codices-burned-and-distributed-copies-of-a-new", "backend": "claude", "attempts": 1, "durationMs": 147591}
+{"timestamp": "2026-08-30T06:30:27+00:00", "event": "research_started", "claimId": "cc:al-suyuti-catalogued-numerous-non-arabic-loanwords-occurring-in-the-qur-an-that-had"}
+{"timestamp": "2026-08-30T06:31:18+00:00", "event": "research_succeeded", "claimId": "cc:al-suyuti-catalogued-numerous-non-arabic-loanwords-occurring-in-the-qur-an-that-had", "backend": "claude", "attempts": 1, "durationMs": 50693}
+{"timestamp": "2026-08-30T06:31:18+00:00", "event": "research_started", "claimId": "cc:al-tabari-transmits-from-aisha-that-muhammad-explained-only-a-small-number-of-short-qur"}
+{"timestamp": "2026-08-30T06:34:55+00:00", "event": "research_succeeded", "claimId": "cc:al-tabari-transmits-from-aisha-that-muhammad-explained-only-a-small-number-of-short-qur", "backend": "claude", "attempts": 1, "durationMs": 216994}
+{"timestamp": "2026-08-30T06:34:55+00:00", "event": "research_started", "claimId": "cc:alexander-legends-entered-jewish-writings-and-the-talmud-before-islam-including-journeys"}
+{"timestamp": "2026-08-30T06:36:31+00:00", "event": "research_succeeded", "claimId": "cc:alexander-legends-entered-jewish-writings-and-the-talmud-before-islam-including-journeys", "backend": "claude", "attempts": 1, "durationMs": 95367}
+{"timestamp": "2026-08-30T06:36:31+00:00", "event": "research_started", "claimId": "cc:all-cases-described-as-possession-including-the-people-presented-on-television-possession"}
+{"timestamp": "2026-08-30T06:37:47+00:00", "event": "research_succeeded", "claimId": "cc:all-cases-described-as-possession-including-the-people-presented-on-television-possession", "backend": "claude", "attempts": 1, "durationMs": 76011}
+{"timestamp": "2026-08-30T06:37:47+00:00", "event": "research_started", "claimId": "cc:allah-was-one-of-the-deities-worshipped-by-arabs-before-muhammad-s-birth-rather-than-a"}
+{"timestamp": "2026-08-30T06:38:47+00:00", "event": "research_succeeded", "claimId": "cc:allah-was-one-of-the-deities-worshipped-by-arabs-before-muhammad-s-birth-rather-than-a", "backend": "claude", "attempts": 1, "durationMs": 60391}
+{"timestamp": "2026-08-30T06:38:47+00:00", "event": "research_started", "claimId": "cc:an-armenian-manuscript-matenadaran-ms-2639-preserves-a-letter-dated-591-ce-from-the"}
+{"timestamp": "2026-08-30T06:40:59+00:00", "event": "research_succeeded", "claimId": "cc:an-armenian-manuscript-matenadaran-ms-2639-preserves-a-letter-dated-591-ce-from-the", "backend": "claude", "attempts": 1, "durationMs": 131597}
+{"timestamp": "2026-08-30T06:40:59+00:00", "event": "research_started", "claimId": "cc:an-earlier-biblical-text-uses-similar-language-about-the-expansion-of-the-heavens-so-an"}
+{"timestamp": "2026-08-30T06:43:22+00:00", "event": "research_succeeded", "claimId": "cc:an-earlier-biblical-text-uses-similar-language-about-the-expansion-of-the-heavens-so-an", "backend": "claude", "attempts": 1, "durationMs": 143555}
